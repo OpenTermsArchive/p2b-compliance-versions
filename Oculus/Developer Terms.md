@@ -12,6 +12,8 @@ Any capitalized term not defined in this Notice shall have the meaning given to 
 Changes to Terms
 ----------------
 
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yc/r/LFcC3nftnnd.png)
+
 *   If Oculus makes any amendment, supplement or modification to its Terms, Oculus will provide You with at least fifteen (15) days notice (“**Notice Period**”) before such changes will come into effect by sending a notification to You via email to the address associated with Your Oculus account or other means acceptable under the Regulation.
 *   If You do not agree to the change(s) notified to You, You are entitled to terminate Your contractual relationship with Oculus within fifteen (15) days of receiving the notice of the change(s) by contacting Oculus Developer Support [https://developer.oculus.com/contact/](https://developer.oculus.com/contact/).
 *   The Notice Period will not apply to any amendments, supplements or modifications proposed by Oculus that are agreed in writing by You.
@@ -21,6 +23,8 @@ Changes to Terms
 
 Restriction, suspension and termination
 ---------------------------------------
+
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yc/r/LFcC3nftnnd.png)
 
 *   Oculus may remove Your application and/or restrict, suspend or terminate Your developer account if you are in breach the Terms. Whether Oculus decides to temporarily or permanently remove Your application or other content and/or to restrict, suspend or terminate Your account will be assessed on a case-by-case basis taking into account various considerations including previous behaviour, the nature of the breach and Your willingness to co-operate and take steps to be compliant.
 *   Examples of instances in which Oculus may suspend or restrict access to our services include non-compliance with the Oculus Policies.
@@ -37,11 +41,15 @@ Restriction, suspension and termination
 Ranking
 -------
 
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yc/r/LFcC3nftnnd.png)
+
 *   Oculus does not offer paid-for ranking options on its digital store.
 *   Oculus generally feature apps in its digital store based on proprietary algorithms, however in certain instances Oculus may curate how apps are displayed in its digital store in order to provide end users with the most compelling content. In certain parts of its digital store where Oculus indicates that apps are displayed based on a particular input (i.e., an app marked as a certain category will be placed in that category) or metric (i.e., a category of apps displayed as “Highest User Ratings”) will be ranked based solely on that input and will not be subject to curation.
 
 Differentiated treatment
 ------------------------
+
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yc/r/LFcC3nftnnd.png)
 
 *   Some apps may be pre-loaded onto Oculus hardware, and some Relevant Business Users may have additional access to prototype or pre-release tools or services, or be permitted to early access hardware or software features.
 *   When there are hardware pre-load or other early access opportunities for third party apps, Oculus will reach out to the applicable Relevant Business Users directly.
@@ -49,6 +57,8 @@ Differentiated treatment
 
 Data
 ----
+
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yc/r/LFcC3nftnnd.png)
 
 ### User data
 
@@ -81,6 +91,8 @@ Data
 Complaint handling system
 -------------------------
 
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yc/r/LFcC3nftnnd.png)
+
 *   If you have a complaint about Oculus’s compliance with the Regulation or your account, you may submit a request for further information here: [https://www.facebook.com/help/oculus/contact/3000932963366913/](https://www.oculus.com/lynx/?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2Foculus%2Fcontact%2F3000932963366913%2F)
 *   For technical support, please contact developer support for assistance [https://developer.oculus.com/contact](https://developer.oculus.com/contact/).
 *   Oculus will provide you with a response to your request within a reasonable time.
@@ -89,9 +101,13 @@ Complaint handling system
 Complaint Handling System Annual Report
 ---------------------------------------
 
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yc/r/LFcC3nftnnd.png)
+
 From July 2020 through June 2021, we received zero inquiries via the complaint handling system for business users of Oculus in the EU and UK that was established pursuant to requirements of the Regulation. The complaint handling system enables business users to make inquiries about an action that Oculus has taken against a user’s account within the following topics that are set out in the Regulation: Non-compliance, Technological Issue, and Other Platform Conduct.
 
 Mediation
 ---------
+
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yc/r/LFcC3nftnnd.png)
 
 *   If Oculus is not able to resolve Your complaint through the Oculus complaint handling system, You may refer the issue to our appointed mediators. Please check back here to obtain updated information about our mediators.
