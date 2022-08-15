@@ -10,11 +10,11 @@ To give you the most useful information, Search algorithms look at many factors 
 
 Learn more below about the key factors that help determine which results are returned for your query:
 
-*   [Meaning](#meaning)
-*   [Relevance](#relevance)
-*   [Quality](#quality)
-*   [Usability](#usability)
-*   [Context](#context)
+* [Meaning](#meaning)
+* [Relevance](#relevance)
+* [Quality](#quality)
+* [Usability](#usability)
+* [Context](#context)
 
 Meaning of your query
 
