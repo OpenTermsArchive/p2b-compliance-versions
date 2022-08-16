@@ -7,16 +7,16 @@ A última alteração ao presente Acordo de Utilização data de 23.09.2021.
 
 * * *
 
-1.  [Definições e Condições Gerais](#definitions)
-2.  [Política de Privacidade](#privacy)
-3.  [Garantias](#warranties)
-4.  [Direitos e Obrigações](#rights-and-duties)
-5.  [Responsabilidade](#responsibility)
-6.  [Conflitos](#conflicts)
-7.  [Penalidades](#penalties)
-8.  [Pagamentos](#payments)
-9.  [Disposições Transitórias e Finais](#transitional-and-final-provisions)
-10.  [Lei Aplicável e Jurisdição](#governing-law-and-jurisdiction)
+1. [Definições e Condições Gerais](#definitions)
+2. [Política de Privacidade](#privacy)
+3. [Garantias](#warranties)
+4. [Direitos e Obrigações](#rights-and-duties)
+5. [Responsabilidade](#responsibility)
+6. [Conflitos](#conflicts)
+7. [Penalidades](#penalties)
+8. [Pagamentos](#payments)
+9. [Disposições Transitórias e Finais](#transitional-and-final-provisions)
+10. [Lei Aplicável e Jurisdição](#governing-law-and-jurisdiction)
 
 * * *
 
