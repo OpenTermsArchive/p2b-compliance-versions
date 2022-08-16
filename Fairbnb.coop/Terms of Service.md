@@ -268,7 +268,7 @@ b) The Fairbnb.coop platform and the services offered by it are owned by the Fai
 
 c) Contact details of Fairbnb.coop: [\[email protected\]](https://fairbnb.coop/cdn-cgi/l/email-protection)
 
-d) Any complaints can be sent to the following addresses: [\[email protected\]](https://fairbnb.coop/cdn-cgi/l/email-protection)airbnb.coop
+d) Any complaints can be sent to the following addresses: [\[email protected\]](https://fairbnb.coop/cdn-cgi/l/email-protection)
 
 e) Commissions for services offered by Fairbnb.coop including taxes are 7.5% of the rent.
 
