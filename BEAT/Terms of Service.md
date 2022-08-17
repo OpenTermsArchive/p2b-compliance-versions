@@ -4,7 +4,7 @@ TERMS AND CONDITIONS
 **Passenger**
 =============
 
-##### Last updated: April 1, 2021
+##### Last updated: June 10, 2022
 
 BEAT offers its services under the following Terms of use (hereafter collectively referred to as the “Agreement”) that constitute a legal agreement between you and Free Now Hellas Single Member Societe Anonyme (the “Company”). You should read them carefully and use the BEAT services only if you agree and consent to the agreement. By using the software, you agree to be legally bound by the agreement and the [privacy policy](https://thebeat.co/en/privacy-policy/?intl=1) set forth herein just as if had signed them.
 
@@ -36,11 +36,9 @@ When rendering our services, the information that we disclose is based on the in
 
 Our services are made available for personal and non-commercial use only. Therefore, you are not allowed to re-sell, deep-link, use, copy, monitor (e.g. spider, scrape), display, download or reproduce any content or information, software, products or services available on our software for any commercial or competitive activity or purpose.
 
-### **3\. Free of charge**
+### 3\. Charges
 
-Our service to the passengers is free of charge. Unlike many other parties, we will not charge you for our service or add any additional (booking) fees to your taxi ride. We will not charge you, as you will pay the driver directly for your ride.
-
-If you choose to pay via credit card BEAT shall charge you for the transportation services provided to you by the Driver on behalf of the Driver. You agree that you will pay for all transportation services you purchase from the Driver, and that BEAT may charge your credit card account as provided by you when registering in BEAT including any taxes and late fees, as applicable, that may be accrued by or in connection with your account. You are responsible for the timely payment of all fees and for providing us with a valid credit card account for payment of all fees at all times. Any payment made is non-refundable.
+If you choose to pay via credit card BEAT shall charge you for the transportation services provided to you by the Driver on behalf of the Driver. You agree that you will pay for all transportation services you purchase from the Driver including all the legal charges (indicative: surcharge for pre-booked or immediate appointment, surcharge for each piece of luggage over 10 kg, surcharge to and from the airport etc.), and that BEAT may charge your credit card account as provided by you when registering in BEAT including any taxes and late fees, as applicable, that may be accrued by or in connection with your account. You are responsible for the timely payment of all fees and for providing us with a valid credit card account for payment of all fees at all times. Any payment made is non-refundable.
 
 BEAT uses a third-party payment processor (the “Payment Processor”) to link your credit card account to our application and service. The processing of payments or credits, as applicable, in connection with your use of the Software will be subject to the terms, conditions and privacy policies of the Payment Processor and your credit card issuer in addition to these Terms. BEAT is not responsible for any errors by the Payment Processor. In connection with your use of the Software we will obtain certain transaction details, which we will use solely in accordance with its Privacy and Cookie Notice.
 
