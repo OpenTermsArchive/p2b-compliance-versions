@@ -4,7 +4,7 @@ TERMS AND CONDITIONS
 **Driver**
 ==========
 
-##### Last updated: April 1, 2021
+##### Last updated: June 10, 2022
 
 BEAT offers its services under the following Terms of use (hereafter collectively referred to as the “Agreement”) that constitute a legal agreement between you and Free Now Hellas Single Member Societe Anonyme (the “Company”). You should read them carefully and use the BEAT services only if you agree and consent to the agreement. By using the software, you agree to be legally bound by the agreement and the [privacy policy](https://thebeat.co/en/terms/?intl=1) set forth herein just as if had signed them.
 
@@ -46,9 +46,9 @@ When rendering our services, the information that we disclose is based on the in
 
 Our services are made available for personal and non-commercial use only. Therefore, you are not allowed to re-sell, deep-link, use, copy, monitor (e.g. spider, scrape), display, download or reproduce any content or information, software, products or services available on our software for any commercial or competitive activity or purpose.
 
-### **3\. Charges**
+### 3\. Charges
 
-Subject to the terms of this agreement, the driver shall pay to BEAT the amount declared in the driver’s section of the respective country site for each ride that you book through the BEAT service as a fee for the use of BEAT services to you. The revenue achieved with the transport order obtained is immaterial.
+Subject to the terms of this agreement, the driver shall pay to BEAT the amount declared in the driver’s section including all the legal charges (indicative: surcharge for pre-booked or immediate appointment, surcharge for each piece of luggage over 10 kg, surcharge to and from the airport etc.) of the respective country site for each ride that you book through the BEAT service as a fee for the use of BEAT services to you. The revenue achieved with the transport order obtained is immaterial.
 
 Rides that you book through BEAT service will be calculated by the software system and totaled at the end of each month. You can access through your installed application at any time your balance that describes the total amount owed by you to BEAT, according to the above, regarding the rides that you book through BEAT service.
 
@@ -57,8 +57,6 @@ You shall have to make the payment of the services rendered the previous month, 
 Any delay or failure to pay any invoice, for any reason, shall give the right to BEAT to increase the total amount due by you by default interest of 1% (one percent) per month. In these cases, BEAT may also in its sole discretion, suspend or cancel your access to the software.
 
 The driver is responsible to bear any taxes, fees or charge levied on the payment of the above fee.
-
-Our service to the passengers is free of charge. Unlike many other parties, we will not charge the passenger for our service or add any additional (booking) fees to the taxi ride. We will not charge the passenger, as he will pay you directly for your ride.
 
 ### **4\. Privacy**
 
