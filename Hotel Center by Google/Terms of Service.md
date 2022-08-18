@@ -12,7 +12,7 @@ These Terms of Service for the Hotel Center by Google (“**Terms**”) are ente
 
  
 
-**2\. Account.** Travel Partner’s use of Hotel Center is subject to creation and approval by Google of one or more Account(s).  In order to verify Accounts, and from time-to-time, Google may require additional information, including legal entity name, business offering, primary contact, phone number, address, and relevant domains. Travel Partner is responsible for its use of Hotel Center, including all access to and use of Accounts, Content submitted to Hotel Center through Accounts and safeguarding of Account usernames and passwords.
+**2\. Account.**  Travel Partner’s use of Hotel Center is subject to creation and approval by Google of one or more Account(s).  In order to verify Accounts, and from time-to-time, Google may require additional information, including legal entity name, business offering, primary contact, phone number, address, and relevant domains. Travel Partner is responsible for its use of Hotel Center, including all access to and use of Accounts, Content submitted to Hotel Center through Accounts and safeguarding of Account usernames and passwords.
 
  
 
@@ -80,7 +80,7 @@ iv. matters for which Liability cannot be excluded or limited under applicable l
 
  
 
-**9\. Termination.** Google reserves the right to restrict, suspend or terminate (in whole or in part) Travel Partner’s access to, or use of, Hotel Center, the Services or the Account(s) upon written notice (or with 30 days’ prior notice if required by applicable law) if: (a) Travel Partner breaches these Terms, any Policies or applicable law(s); (b) Google is required to do so to comply with a legal requirement or a court order; or (c) Google reasonably believes that Travel Partner’s conduct causes harm or liability to another Travel Partner, a third party or Google. If Travel Partner believes its access to the Hotel Center, the Services or the Account(s) has been restricted, suspended or terminated in error, Travel Partner should refer to the appeal process in the Policies. Travel Partner may terminate these Terms at any time by closing its Account(s) and ceasing to use Hotel Center.
+**9\. Termination.**  Google reserves the right to restrict, suspend or terminate (in whole or in part) Travel Partner’s access to, or use of, Hotel Center, the Services or the Account(s) upon written notice (or with 30 days’ prior notice if required by applicable law) if: (a) Travel Partner breaches these Terms, any Policies or applicable law(s); (b) Google is required to do so to comply with a legal requirement or a court order; or (c) Google reasonably believes that Travel Partner’s conduct causes harm or liability to another Travel Partner, a third party or Google. If Travel Partner believes its access to the Hotel Center, the Services or the Account(s) has been restricted, suspended or terminated in error, Travel Partner should refer to the appeal process in the Policies. Travel Partner may terminate these Terms at any time by closing its Account(s) and ceasing to use Hotel Center.
 
  
 
