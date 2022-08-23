@@ -20,11 +20,11 @@ En el caso de registrarse, custodiar adecuadamente la «Contraseña» que le sea
 
 Los Usuarios se obligan a respetar las leyes aplicables y los derechos de terceros al utilizar los contenidos del Sitio Web. Asimismo, los Usuarios deberán usar el Sitio Web de forma diligente, correcta y lícita y, en particular, a título meramente enunciativo y no limitativo, se abstienen de:
 
-1.  utilizar el Sitio Web de forma, con fines o efectos contrarios a la ley, a la moral y a las buenas costumbres generalmente aceptadas o al orden público;
-2.  reproducir o copiar, distribuir, permitir el acceso del público a través de cualquier modalidad de comunicación pública, transformar o modificar cualquier aspecto del Sitio Web;
-3.  realizar cualquier acto que pueda ser considerado una vulneración de cualesquiera derechos de propiedad intelectual o industrial pertenecientes a pro.packlink.es o a terceros;
-4.  emplear la información de cualquier clase obtenida a través del Sitio Web para remitir publicidad, comunicaciones con fines de venta directa o con cualquier otra clase de finalidad comercial, mensajes no solicitados dirigidos a una pluralidad de personas con independencia de su finalidad, así como de comercializar o divulgar de cualquier modo dicha información;
-5.  No utilizar identidades falsas, ni suplantar la identidad de otros en la utilización del Sitio Web o en la utilización de cualquiera de los servicios del Sitio Web, incluyendo la utilización en su caso de contraseñas o claves de acceso de terceros o de cualquier otra forma.
+1. utilizar el Sitio Web de forma, con fines o efectos contrarios a la ley, a la moral y a las buenas costumbres generalmente aceptadas o al orden público;
+2. reproducir o copiar, distribuir, permitir el acceso del público a través de cualquier modalidad de comunicación pública, transformar o modificar cualquier aspecto del Sitio Web;
+3. realizar cualquier acto que pueda ser considerado una vulneración de cualesquiera derechos de propiedad intelectual o industrial pertenecientes a pro.packlink.es o a terceros;
+4. emplear la información de cualquier clase obtenida a través del Sitio Web para remitir publicidad, comunicaciones con fines de venta directa o con cualquier otra clase de finalidad comercial, mensajes no solicitados dirigidos a una pluralidad de personas con independencia de su finalidad, así como de comercializar o divulgar de cualquier modo dicha información;
+5. No utilizar identidades falsas, ni suplantar la identidad de otros en la utilización del Sitio Web o en la utilización de cualquiera de los servicios del Sitio Web, incluyendo la utilización en su caso de contraseñas o claves de acceso de terceros o de cualquier otra forma.
 
 Los Usuarios del Sitio Web deberán cumplir con las presentes Condiciones de Uso y con el ordenamiento jurídico vigente. Pro.packlink.es se reserva la facultad de cancelar o restringir, el acceso al Sitio Web a determinados Usuarios, en caso de observar cualesquiera conductas que a juicio de pro.packlink.es resulten contrarias a estas Condiciones de Uso, la Ley, las normas establecidas por pro.packlink.es o sus colaboradores o puedan perturbar el buen funcionamiento, imagen, credibilidad y/o prestigio de pro.packlink.es o sus colaboradores. Asimismo, pro.packlink.es podrá exigir responsabilidad a los Usuarios por los daños y perjuicios derivados del mal uso del Sitio Web.
 
@@ -83,21 +83,21 @@ Condiciones generales de los servicios de Packlink PRO
 
 A continuación, se definen algunos conceptos que se mencionan en las Condiciones Generales de Contratación de los servicios de Packlink PRO (en adelante, las Condiciones Generales o Condiciones Generales de Contratación):
 
-*   Agencia de Transporte: Socios colaboradores de Packlink PRO.
-*   Áreas Remotas: aquellas localidades con una población inferior a 10.000 habitantes censados, y aquellas que con independencia de la densidad de su población, se encuentren a más de 50 kilómetros de la sede de la Agencia de Transporte más cercana.
-*   [Portal de ayuda Packlink PRO](https://support-pro.packlink.com/hc/es-es): canal de comunicación con Packlink para la consulta, gestión o reclamación de servicio.
-*   Destinatario: Persona física o jurídica que recibe la Mercancía a través de un servicio de transporte contratado en Packlink PRO.
-*   Envío: Partida de uno o más bultos, con recogida en un mismo origen y cuya entrega se realiza en un mismo destino, en la misma fecha y hora, y con la misma Agencia de Transporte.
-*   Etiqueta de Envío y Hoja de Dirección: La documentación que hay que adjuntar a la Mercancía.
-*   Factura Comercial o Pro-Forma/ Autorización de Despacho: La documentación que hay que adjuntar a la Mercancía, solo en el caso de que se trate de una exportación/importación fuera de la UE, además de servicios a Canarias, Ceuta y Melilla.
-*   Lugar de Recogida: Se refiere a la dirección en la que la Mercancía debe ser recogida por la Agencia de Transporte, para los servicios Drop-off, se refiere al punto de conveniencia al que el remitente debe llevar el envío para que comience su tránsito.
-*   Lugar de Entrega: Se refiere a la dirección en la que la Agencia de Transporte debe entregar la Mercancía,  para los servicios Drop-off, se refiere al punto de conveniencia al que el destinatario debe acudir para recibir la mercancía.
-*   Mercancía: Artículo transportado.
-*   Remitente: Persona física o jurídica que entrega la Mercancía a la Agencia de Transporte en el momento de la recogida para su envío.
-*   Puntos de conveniencia: puntos, normalmente tiendas o locales comerciales, donde el remitente puede depositar la mercancía y/o donde el destinatario puede recoger la mercancía.
-*   Sitio Web: www.pro.packlink.es
-*   Usuario: Se refiere a cualquier (i) persona jurídica y entidades sin personalidad jurídica que actúen con ánimo de lucro en el ámbito de su actividad comercial o empresarial o (ii) trabajador autónomo dentro del marco de su actividad profesional, que contrata con Packlink PRO, la recogida y la entrega de la mercancía, y que es responsable del pago de todos los cargos asociados al servicio, y por tanto sólo el usuario podrá emitir reclamaciones y consultas relacionadas con el servicio contratado. Éstas deberán realizarse a través de chat o formulario web, utilizando la dirección de e-mail con la que se gestionó el servicio en la web.
-*   Usuario Registrado: usuarios que se han registrado en el Sitio Web creando una cuenta. La contratación de los servicios de Packlink PRO requiere crear una cuenta.
+* Agencia de Transporte: Socios colaboradores de Packlink PRO.
+* Áreas Remotas: aquellas localidades con una población inferior a 10.000 habitantes censados, y aquellas que con independencia de la densidad de su población, se encuentren a más de 50 kilómetros de la sede de la Agencia de Transporte más cercana.
+* [Portal de ayuda Packlink PRO](https://support-pro.packlink.com/hc/es-es): canal de comunicación con Packlink para la consulta, gestión o reclamación de servicio.
+* Destinatario: Persona física o jurídica que recibe la Mercancía a través de un servicio de transporte contratado en Packlink PRO.
+* Envío: Partida de uno o más bultos, con recogida en un mismo origen y cuya entrega se realiza en un mismo destino, en la misma fecha y hora, y con la misma Agencia de Transporte.
+* Etiqueta de Envío y Hoja de Dirección: La documentación que hay que adjuntar a la Mercancía.
+* Factura Comercial o Pro-Forma/ Autorización de Despacho: La documentación que hay que adjuntar a la Mercancía, solo en el caso de que se trate de una exportación/importación fuera de la UE, además de servicios a Canarias, Ceuta y Melilla.
+* Lugar de Recogida: Se refiere a la dirección en la que la Mercancía debe ser recogida por la Agencia de Transporte, para los servicios Drop-off, se refiere al punto de conveniencia al que el remitente debe llevar el envío para que comience su tránsito.
+* Lugar de Entrega: Se refiere a la dirección en la que la Agencia de Transporte debe entregar la Mercancía,  para los servicios Drop-off, se refiere al punto de conveniencia al que el destinatario debe acudir para recibir la mercancía.
+* Mercancía: Artículo transportado.
+* Remitente: Persona física o jurídica que entrega la Mercancía a la Agencia de Transporte en el momento de la recogida para su envío.
+* Puntos de conveniencia: puntos, normalmente tiendas o locales comerciales, donde el remitente puede depositar la mercancía y/o donde el destinatario puede recoger la mercancía.
+* Sitio Web: www.pro.packlink.es
+* Usuario: Se refiere a cualquier (i) persona jurídica y entidades sin personalidad jurídica que actúen con ánimo de lucro en el ámbito de su actividad comercial o empresarial o (ii) trabajador autónomo dentro del marco de su actividad profesional, que contrata con Packlink PRO, la recogida y la entrega de la mercancía, y que es responsable del pago de todos los cargos asociados al servicio, y por tanto sólo el usuario podrá emitir reclamaciones y consultas relacionadas con el servicio contratado. Éstas deberán realizarse a través de chat o formulario web, utilizando la dirección de e-mail con la que se gestionó el servicio en la web.
+* Usuario Registrado: usuarios que se han registrado en el Sitio Web creando una cuenta. La contratación de los servicios de Packlink PRO requiere crear una cuenta.
 
 ### 2\. Información previa a la contratación
 
@@ -121,40 +121,40 @@ Packlink PRO es un buscador de envíos de paquetería que actúa como intermedia
 
 El Usuario que desee utilizar el Servicio debe introducir la información de Envío que tiene la intención de hacer (incluyendo código postal o ciudad del remitente, código postal o ciudad del remitente del destino del envío, peso, longitud, anchura y altura del bulto para ser enviado) en la sección de la página de la Web en relación con el servicio denominado «Creación de un envío» y comenzar a buscar.
 
-1.  Packlink PRO, recibida dicha entrada, compara las tarifas aplicadas por las Agencias de Transporte de acuerdo a las especificaciones proporcionadas por el Usuario a través de su propia búsqueda y devuelve una lista de los servicios de transporte disponibles, ordenadas de acuerdo a diversos criterios como el precio, el tiempo y el nombre de la Agencia de Transporte.
-2.  Para cada servicio ofrecido Packlink PRO detallará al Usuario las características principales (como son la necesidad de tener una impresora para continuar con la generación de documento de envío, la capacidad de servicio contra reembolso, cobertura de seguro ofrecida).  
+1. Packlink PRO, recibida dicha entrada, compara las tarifas aplicadas por las Agencias de Transporte de acuerdo a las especificaciones proporcionadas por el Usuario a través de su propia búsqueda y devuelve una lista de los servicios de transporte disponibles, ordenadas de acuerdo a diversos criterios como el precio, el tiempo y el nombre de la Agencia de Transporte.
+2. Para cada servicio ofrecido Packlink PRO detallará al Usuario las características principales (como son la necesidad de tener una impresora para continuar con la generación de documento de envío, la capacidad de servicio contra reembolso, cobertura de seguro ofrecida).  
     Más detalles acerca del envío seleccionado se pueden encontrar a través de un menú desplegable accesible haciendo clic en «Detalles».
-3.  El Usuario, después de identificar el servicio deseado, puede comprar el mismo haciendo clic en el botón «Contratar».  
+3. El Usuario, después de identificar el servicio deseado, puede comprar el mismo haciendo clic en el botón «Contratar».  
     El Usuario se dirige entonces a una nueva página del sitio donde se puede comprobar la cobertura de seguro ofrecido por Packlink PRO e introducir información adicional relacionada con el Envío, a saber:
     
-    *   los “Datos personales» (nombre y correo electrónico – cuando, elegido por el usuario, se enviarán los detalles de la orden);
-    *   el «Contenido del envío» (contenido del envío y el valor de la mercancía); y
-    *   el código «Cupón de descuento» (si lo hubiera).
-    *   la posibilidad de contratar el servicio contra-reembolso.
-4.  Antes de entrar en el siguiente paso, el usuario debe leer y aceptar expresamente las condiciones generales de transporte de la Agencia de Transporte elegida, accesible a través de un hipervínculo en la sección «Contenido del envío». Asimismo debe aceptar las presentes Condiciones Generales y la Política de Privacidad del Sitio Web y declarar haber leído la lista de Artículos Prohibidos.
-5.  En la página siguiente, el usuario puede indicar:
-    *   la «Fecha de recepción de la entrega» (fecha y hora);
-    *   la «Información de la recogida» obligatoria (nombre, e-mail, teléfono y dirección; código postal, ciudad, provincia o estado y país se derivan automáticamente de la información previamente introducida);
-    *   la «Información de la recogida» opcional;
-    *   la «Información de la entrega» obligatoria (nombre, teléfono y dirección, código postal, ciudad, provincia o estado y país se derivan automáticamente de la información introducida anteriormente);
-    *   la «Información de la entrega» opcional.
-    *   En el caso de elegir “puntos de conveniencia” para el depósito y/o entrega de la mercancía, se deberán elegir obligatoriamente los puntos de entrega, siendo los de depósito a título informativo.
-6.  Después de introducir toda la información anterior, el Usuario seleccionando la «Ir al pago», es redirigido a la página relativa a «Confirmación y pago». En particular, el Usuario:
-    *   visualizará los «Detalles del envío» (lugar de partida, lugar de entrega, fecha de retirada, servicio, contenidos, envío, seguro);
-    *   debe indicar el método de pago eligiendo entre PayPal y Tarjeta de Crédito, y seguidamente introducir en la página siguiente la información de su cuenta PayPal (dirección de correo electrónico y contraseña) o de su Tarjeta de Crédito (número, fecha de vencimiento \[mes y año\], código de seguridad).
-7.  Después del pago, el Usuario visualizará:
-    *    la confirmación de la compra del Servicio con los datos relevantes (Agencia de Transporte, fecha de recepción, número de envío, dirección de entrega y facturas de aduana cuando así proceda);
-    *   la indicación de los documentos a imprimir antes de aceptar la entrega (documento de envío y etiquetas de la dirección ya previstas en formato .pdf).
-    *   El Usuario puede descargar la factura, haciendo clic en la sección de facturación.
-8.  Completado los pasos anteriores, se le envía por correo electrónico, a la dirección anterior, la confirmación con todos los detalles de la orden, así como el enlace a través del cual se accede a la impresión de las etiquetas a adjuntar al envío.
-9.  Después de comprar el servicio de envío y haber obtenido el número de envío, el Usuario, a través del «Seguimiento del envío”, accesible desde la Página Web, puede buscar el envío y comprobar su estado. El Usuario deberá dirigirse en todo momento a pro.packlink.es utilizando la dirección de correo que señaló al cumplimentar el formulario. Packlink PRO no podrá identificar a los usuarios que utilicen cuentas de correo electrónico distintas a las incluidas en el formulario de Datos Personales. Hay que tener en cuenta que la fecha y la hora de recogida escogida por los Usuarios no están garantizadas en todos los servicios, ni con todas las Agencias de Transporte. El Usuario podrá verificar si el servicio es garantizado en el momento de la compra.
+    * los “Datos personales» (nombre y correo electrónico – cuando, elegido por el usuario, se enviarán los detalles de la orden);
+    * el «Contenido del envío» (contenido del envío y el valor de la mercancía); y
+    * el código «Cupón de descuento» (si lo hubiera).
+    * la posibilidad de contratar el servicio contra-reembolso.
+4. Antes de entrar en el siguiente paso, el usuario debe leer y aceptar expresamente las condiciones generales de transporte de la Agencia de Transporte elegida, accesible a través de un hipervínculo en la sección «Contenido del envío». Asimismo debe aceptar las presentes Condiciones Generales y la Política de Privacidad del Sitio Web y declarar haber leído la lista de Artículos Prohibidos.
+5. En la página siguiente, el usuario puede indicar:
+    * la «Fecha de recepción de la entrega» (fecha y hora);
+    * la «Información de la recogida» obligatoria (nombre, e-mail, teléfono y dirección; código postal, ciudad, provincia o estado y país se derivan automáticamente de la información previamente introducida);
+    * la «Información de la recogida» opcional;
+    * la «Información de la entrega» obligatoria (nombre, teléfono y dirección, código postal, ciudad, provincia o estado y país se derivan automáticamente de la información introducida anteriormente);
+    * la «Información de la entrega» opcional.
+    * En el caso de elegir “puntos de conveniencia” para el depósito y/o entrega de la mercancía, se deberán elegir obligatoriamente los puntos de entrega, siendo los de depósito a título informativo.
+6. Después de introducir toda la información anterior, el Usuario seleccionando la «Ir al pago», es redirigido a la página relativa a «Confirmación y pago». En particular, el Usuario:
+    * visualizará los «Detalles del envío» (lugar de partida, lugar de entrega, fecha de retirada, servicio, contenidos, envío, seguro);
+    * debe indicar el método de pago eligiendo entre PayPal y Tarjeta de Crédito, y seguidamente introducir en la página siguiente la información de su cuenta PayPal (dirección de correo electrónico y contraseña) o de su Tarjeta de Crédito (número, fecha de vencimiento \[mes y año\], código de seguridad).
+7. Después del pago, el Usuario visualizará:
+    *  la confirmación de la compra del Servicio con los datos relevantes (Agencia de Transporte, fecha de recepción, número de envío, dirección de entrega y facturas de aduana cuando así proceda);
+    * la indicación de los documentos a imprimir antes de aceptar la entrega (documento de envío y etiquetas de la dirección ya previstas en formato .pdf).
+    * El Usuario puede descargar la factura, haciendo clic en la sección de facturación.
+8. Completado los pasos anteriores, se le envía por correo electrónico, a la dirección anterior, la confirmación con todos los detalles de la orden, así como el enlace a través del cual se accede a la impresión de las etiquetas a adjuntar al envío.
+9. Después de comprar el servicio de envío y haber obtenido el número de envío, el Usuario, a través del «Seguimiento del envío”, accesible desde la Página Web, puede buscar el envío y comprobar su estado. El Usuario deberá dirigirse en todo momento a pro.packlink.es utilizando la dirección de correo que señaló al cumplimentar el formulario. Packlink PRO no podrá identificar a los usuarios que utilicen cuentas de correo electrónico distintas a las incluidas en el formulario de Datos Personales. Hay que tener en cuenta que la fecha y la hora de recogida escogida por los Usuarios no están garantizadas en todos los servicios, ni con todas las Agencias de Transporte. El Usuario podrá verificar si el servicio es garantizado en el momento de la compra.
 
 #### c. Funcionalidades accesorias prestadas por Packlink PRO
 
-1.  Fichero con varios Envíos  
+1. Fichero con varios Envíos  
     Sección por la cual el Usuario puede introducir en un fichero varios Envíos al mismo tiempo, emitiéndose una carta de porte o documento/s similar que lo sustituyan para cada uno de los diferentes Envíos.  
     Hay que tener en cuenta que el contrato de transporte celebrado entre el Usuario y la Agencia de Transporte puede tener por objeto un solo Envío o una serie de ellos.
-2.  Integraciones para Tiendas Online  
+2. Integraciones para Tiendas Online  
     Packlink PRO ofrece a los usuarios la posibilidad de integrar módulos de distintas tiendas, estas integraciones tienen como finalidad la contratación de Packlink PRO para el transporte de los pedidos generados en la tienda del Usuario
 
 #### d. Recogida de la Mercancía
@@ -307,8 +307,8 @@ En caso de que la Agencia de Transporte haya agotado los intentos de entrega pre
 
 Las formas de pago aceptadas en el Sitio Web son:
 
-*   Tarjeta de crédito o débito: Visa, MasterCard.
-*   Cuenta de Paypal.
+* Tarjeta de crédito o débito: Visa, MasterCard.
+* Cuenta de Paypal.
 
 A través de estos dos métodos de pago se puede optar por el pago diferido, agrupando la facturación cada 15 días. Esta opción se puede solicitar a través de la Configuración de la cuenta, en la sección de Métodos de pago.
 
@@ -334,14 +334,14 @@ La responsabilidad máxima de Packlink PRO se regirá por lo dispuesto en la leg
 
 En la actualidad dicha legislación es la siguiente:
 
-*   Transporte terrestre de ámbito nacional: Ley 15/2009 y su normativa de desarrollo.
-*   Transporte terrestre de ámbito internacional: Convenio relativo al contrato de transporte internacional de mercancías por carretera (CMR), hecho en Ginebra el 19 de mayo de 1956.
-*   Transporte ferroviario de ámbito nacional: Ley 15/2009 y su normativa de desarrollo.
-*   Transporte ferroviario de ámbito internacional: Convenio Internacional relativo a los transportes internacionales por ferrocarril, hecho en ginebra el 9 de mayo de 1980.
-*   Transporte aéreo de ámbito nacional: Ley de Navegación Aérea de 1960 y Código de Comercio.
-*   Transporte aéreo de ámbito internacional: Convenio Internacional para la Unificación de ciertas reglas para el transporte aéreo, hecho en Montreal el 28 de mayo de 1999
-*   Transporte marítimo de ámbito nacional: Ley de 22 de diciembre de 1949. Transporte marítimo de ámbito internacional: Convenio Internacional para la Unificación de ciertas reglas en materia de Conocimientos de Embarque, de 25 de agosto de 1924; Convenio Bruselas de 1924 Protocolo de la Haya-Visby 1968; Protocolo Bruselas 1979.
-*   Ley 43/2010 de 30 de diciembre, del servicio postal universal, de los derechos de los usuarios y del mercado postal.
+* Transporte terrestre de ámbito nacional: Ley 15/2009 y su normativa de desarrollo.
+* Transporte terrestre de ámbito internacional: Convenio relativo al contrato de transporte internacional de mercancías por carretera (CMR), hecho en Ginebra el 19 de mayo de 1956.
+* Transporte ferroviario de ámbito nacional: Ley 15/2009 y su normativa de desarrollo.
+* Transporte ferroviario de ámbito internacional: Convenio Internacional relativo a los transportes internacionales por ferrocarril, hecho en ginebra el 9 de mayo de 1980.
+* Transporte aéreo de ámbito nacional: Ley de Navegación Aérea de 1960 y Código de Comercio.
+* Transporte aéreo de ámbito internacional: Convenio Internacional para la Unificación de ciertas reglas para el transporte aéreo, hecho en Montreal el 28 de mayo de 1999
+* Transporte marítimo de ámbito nacional: Ley de 22 de diciembre de 1949. Transporte marítimo de ámbito internacional: Convenio Internacional para la Unificación de ciertas reglas en materia de Conocimientos de Embarque, de 25 de agosto de 1924; Convenio Bruselas de 1924 Protocolo de la Haya-Visby 1968; Protocolo Bruselas 1979.
+* Ley 43/2010 de 30 de diciembre, del servicio postal universal, de los derechos de los usuarios y del mercado postal.
 
 #### b. Modalidad y plazos de reclamación por Daños o Pérdidas
 
@@ -351,12 +351,12 @@ En el caso de tener que realizar una reclamación, el Usuario debe realizarla a 
 
 Todas las reclamaciones por pérdidas, daños ocultos o no aparentes en la Mercancía deberán iniciarse dentro de plazos previstos a continuación, los cuales serán computados desde el día siguiente al de su entrega en el Lugar de Destino:
 
-*   Transporte terrestre nacional: 7 días
-*   Transporte terrestre internacional: 7 días
-*   Transporte aéreo nacional: 10 días
-*   Transporte aéreo internacional: 14 días
-*   Transporte marítimo nacional: 24 horas
-*   Transporte marítimo internacional: 3 días
+* Transporte terrestre nacional: 7 días
+* Transporte terrestre internacional: 7 días
+* Transporte aéreo nacional: 10 días
+* Transporte aéreo internacional: 14 días
+* Transporte marítimo nacional: 24 horas
+* Transporte marítimo internacional: 3 días
 
 En caso de que la pérdida o el daño en la Mercancía sea manifiesto, el Destinatario deberá manifestar su reserva en el mismo momento de la entrega, haciendo constar sus reservas en el albarán de entrega, carta de porte o PDA (Tablet) del transportista. El Destinatario debe anotar en el albarán de entrega que lo ha recibido con “Con Daños”. Si en el resguardo de entrega aparece como entregado sin ninguna observación en disconformidad, su reclamación por daños aparentes no podrá ser atendida de forma satisfactoria.
 
@@ -374,21 +374,21 @@ Para dar a trámite cualquier expediente de siniestro, el Usuario debe seguir lo
 
 Packlink una vez recibida la reclamación solicitará la documentación que acredite el daño o pérdida: [Requisitos indispensables para abrir una reclamación](https://support-pro.packlink.com/hc/es-es/articles/115003421249)
 
-*   Formulario de Siniestro (tras recibir la reclamación el Dpto. Atención al Cliente dará acceso al Usuario)
-*   Albarán recogida Agencia de Transporte firmado por el mensajero (salvo casos excepcionales).
-*   Factura comercial (compra/venta) de la mercancía transportada, o ticket de compra. Ésta siempre deberá reflejar los datos coincidentes entre remitente y destinatario, en caso de que el ordenante no sea el remitente de la mercancía deberá remitir escrito relatando relación entre las tres partes.
-*   En caso de rotura además, imágenes de la mercancía y del embalaje exterior e interior así como del contenido y de los daños evidentes (roturas de carcasas por ejemplo). a su recepción:
-    1.  Foto de la mercancía dañada en su totalidad: la foto debe mostrar el daño en su totalidad y no solo un detalle. Si el daño no es perceptible en una toma general, será necesario añadir una imagen más del artículo donde se muestre éste. En caso de que se encuentre más de un artículo dañado, realizar la foto agrupando todos los artículos en una sola imagen.
-    2.  Foto del embalaje exterior, incluyendo etiqueta de la empresa de transporte: la foto debe mostrar que el envío se ha realizado con la empresa de transporte y que la reclamación corresponde al envío contratado. La foto sea tomada a cierta distancia donde sea visible la etiqueta del envío.
-    3.  Foto de la mercancía con embalaje interior: la foto debe mostrar que el embalaje utilizado ha protegido el contenido durante el transporte. Imagen de la mercancía dañada colocada dentro del embalaje, tal y como llegó al destinatario originalmente.
-    4.  Presupuesto de reparación de daños , si procede.
-    5.  Albarán de entrega con reseñas del destinatario en caso de daño.  
+* Formulario de Siniestro (tras recibir la reclamación el Dpto. Atención al Cliente dará acceso al Usuario)
+* Albarán recogida Agencia de Transporte firmado por el mensajero (salvo casos excepcionales).
+* Factura comercial (compra/venta) de la mercancía transportada, o ticket de compra. Ésta siempre deberá reflejar los datos coincidentes entre remitente y destinatario, en caso de que el ordenante no sea el remitente de la mercancía deberá remitir escrito relatando relación entre las tres partes.
+* En caso de rotura además, imágenes de la mercancía y del embalaje exterior e interior así como del contenido y de los daños evidentes (roturas de carcasas por ejemplo). a su recepción:
+    1. Foto de la mercancía dañada en su totalidad: la foto debe mostrar el daño en su totalidad y no solo un detalle. Si el daño no es perceptible en una toma general, será necesario añadir una imagen más del artículo donde se muestre éste. En caso de que se encuentre más de un artículo dañado, realizar la foto agrupando todos los artículos en una sola imagen.
+    2. Foto del embalaje exterior, incluyendo etiqueta de la empresa de transporte: la foto debe mostrar que el envío se ha realizado con la empresa de transporte y que la reclamación corresponde al envío contratado. La foto sea tomada a cierta distancia donde sea visible la etiqueta del envío.
+    3. Foto de la mercancía con embalaje interior: la foto debe mostrar que el embalaje utilizado ha protegido el contenido durante el transporte. Imagen de la mercancía dañada colocada dentro del embalaje, tal y como llegó al destinatario originalmente.
+    4. Presupuesto de reparación de daños , si procede.
+    5. Albarán de entrega con reseñas del destinatario en caso de daño.  
         A falta de cualquier documento de los mencionados anteriormente el expediente se encontrará incompleto y por tanto no podrá tramitarse la reclamación.  
         En relación con las reclamaciones, deben tenerse en cuenta los siguientes puntos:
 
-*   Las confirmaciones de pago o cobro a través de plataformas como Paypal, Catawiki, eBa y otras plataformas de pago, así como publicaciones web de compra venta de artículos no serán considerados nunca como factura o evidencia del valor de la mercancía.
-*   En el caso de que un artículo dañado no pudiera repararse, el Usuario debe acreditarlo mediante la presentación de un documento escrito por un técnico especialista.
-*   El Usuario que remite reclamación asume desde ese momento su responsabilidad de cara a la compañía de seguros y las distintas juntas arbitrales, por lo que cualquier intento de fraude o falsedad documental será total y exclusivamente responsabilidad del Usuario a todos los efectos legales y administrativos.
+* Las confirmaciones de pago o cobro a través de plataformas como Paypal, Catawiki, eBa y otras plataformas de pago, así como publicaciones web de compra venta de artículos no serán considerados nunca como factura o evidencia del valor de la mercancía.
+* En el caso de que un artículo dañado no pudiera repararse, el Usuario debe acreditarlo mediante la presentación de un documento escrito por un técnico especialista.
+* El Usuario que remite reclamación asume desde ese momento su responsabilidad de cara a la compañía de seguros y las distintas juntas arbitrales, por lo que cualquier intento de fraude o falsedad documental será total y exclusivamente responsabilidad del Usuario a todos los efectos legales y administrativos.
 
 Hay que tener en cuenta que Packlink PRO puede necesitar un máximo de 7 días para revisar los detalles de la reclamación antes de ponerse en contacto con el Usuario y ofrecerle una respuesta escrita.
 
@@ -479,14 +479,14 @@ En ningún caso el Usuario podrá cancelar el Envío con posterioridad a la entr
 
 Pueden darse retrasos en el servicio debido a los siguientes motivos:
 
-*   Guerra, guerra civil, invasión, acto de enemigo extranjero, hostilidades (ya sea guerra declarada o no), rebelión, revolución, insurrección o usurpación de poder, saqueo, pillaje.
-*   Radiaciones ionizantes o contaminación por radioactividad Propiedades radiactivas, tóxicas, explosivas, peligrosas u otras de cualquier componente nuclear explosivo, y/o ondas de presión causadas por aviones y otros aparatos aéreos que viajan a velocidades sónicas o supersónicas.
-*   Huelgas, manifestaciones, celebraciones de eventos de carácter Provincial, Regional o Nacional en la zona de recogida, tránsito o entrega.
-*   Catástrofes naturales, y condiciones meteorológicas adversas, que impidan la correcta circulación de los vehículos encomendados al transporte de la mercancía.
-*   La ausencia, insuficiencia o incorrecto embalaje de la mercancía.
-*   La falta de información para la realización de la entrega o recogida.
-*   Los envíos hacia y desde Áreas Remotas, tanto a nivel nacional como internacional.
-*   Envíos contratados con un peso o medidas inferiores a la realidad
+* Guerra, guerra civil, invasión, acto de enemigo extranjero, hostilidades (ya sea guerra declarada o no), rebelión, revolución, insurrección o usurpación de poder, saqueo, pillaje.
+* Radiaciones ionizantes o contaminación por radioactividad Propiedades radiactivas, tóxicas, explosivas, peligrosas u otras de cualquier componente nuclear explosivo, y/o ondas de presión causadas por aviones y otros aparatos aéreos que viajan a velocidades sónicas o supersónicas.
+* Huelgas, manifestaciones, celebraciones de eventos de carácter Provincial, Regional o Nacional en la zona de recogida, tránsito o entrega.
+* Catástrofes naturales, y condiciones meteorológicas adversas, que impidan la correcta circulación de los vehículos encomendados al transporte de la mercancía.
+* La ausencia, insuficiencia o incorrecto embalaje de la mercancía.
+* La falta de información para la realización de la entrega o recogida.
+* Los envíos hacia y desde Áreas Remotas, tanto a nivel nacional como internacional.
+* Envíos contratados con un peso o medidas inferiores a la realidad
 
 Los retrasos en los servicios producidos por cualquiera de los puntos detallados no podrán ser objeto de reclamación, compensación o devolución de importe.
 
@@ -494,11 +494,11 @@ Los retrasos en los servicios producidos por cualquiera de los puntos detallados
 
 Packlink PRO puede, en cualquier momento y sin aviso previo, restringir el acceso del Usuario a Packlink PRO y/o negarse a mantener correspondencia con el Usuario, cuando:
 
-*   el Usuario, se encuentre recogido en la lista de Denied Party publicada por la Comisión Europea. (http://eeas.europa.eu/cfsp/sanctions/consol-list/index\_en.htm)
-*   exista un cambio normativo o legal que limite la capacidad de Packlink PRO para proporcionar acceso a Packlink PRO;
-*   exista algún evento fuera del control de Packlink PRO que impida ofrecer acceso a Packlink PRO (por ejemplo, y sin limitarse a, dificultades técnicas, problemas de capacidad y problemas de comunicación);
-*   el Usuario esté abusando de Packlink PRO o su actuación sea contraria a las Condiciones Generales aquí expuestas;
-*   el Usuario está incumpliendo cualquiera de las normas establecidas en las Condiciones de Uso del Sitio Web y/o las Condiciones Particulares que en su caso se incluyan.
+* el Usuario, se encuentre recogido en la lista de Denied Party publicada por la Comisión Europea. (http://eeas.europa.eu/cfsp/sanctions/consol-list/index\_en.htm)
+* exista un cambio normativo o legal que limite la capacidad de Packlink PRO para proporcionar acceso a Packlink PRO;
+* exista algún evento fuera del control de Packlink PRO que impida ofrecer acceso a Packlink PRO (por ejemplo, y sin limitarse a, dificultades técnicas, problemas de capacidad y problemas de comunicación);
+* el Usuario esté abusando de Packlink PRO o su actuación sea contraria a las Condiciones Generales aquí expuestas;
+* el Usuario está incumpliendo cualquiera de las normas establecidas en las Condiciones de Uso del Sitio Web y/o las Condiciones Particulares que en su caso se incluyan.
 
 ### 17\. Régimen jurídico supletorio
 
