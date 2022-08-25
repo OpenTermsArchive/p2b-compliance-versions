@@ -10,27 +10,27 @@ Please read these Terms of Use carefully, as they contain important information 
 
 ### 1\. Preamble
 
-TRIVAGO operates a global hotel search platform, which is available on internet domains, including trivago.de, trivago.com, other country-specific, top-level domains and affiliated websites, as well as TRIVAGO’s various country-specific mobile or tablet applications (the “**trivago Platforms**”). On the trivago Platforms we provide a comparison of offers for hotels and alternative accommodations and other travel related services. In addition, we provide tools and distribution solutions within the scope of the travel sector. In particular, we run a platform where hoteliers can register their accommodation in order to manage and monitor their marketing campaigns on the trivago Platforms (“**trivago Business Studio**”).
+TRIVAGO operates a global hotel search platform, which is available on internet domains, including trivago.de, trivago.com, other country-specific, top-level domains and affiliated websites, as well as TRIVAGO’s various country-specific mobile or tablet applications (the **"trivago Platforms"**). On the trivago Platforms we provide a comparison of offers for hotels and alternative accommodations and other travel related services. In addition, we provide tools and distribution solutions within the scope of the travel sector. In particular, we run a platform where hoteliers can register their accommodation in order to manage and monitor their marketing campaigns on the trivago Platforms (**"trivago Business Studio"**).
 
-The service of trivago Business Studio is exclusively offered to persons of legal age or legally effective-founded companies acting for a purpose not predominantly outside his/her or its trade, business or profession but run hotels, hotel operators or persons acting as an agent on behalf of a hotel or hotel operator (“**Hotelier**” or “**YOU**”).
+The service of trivago Business Studio is exclusively offered to persons of legal age or legally effective-founded companies acting for a purpose not predominantly outside his/her or its trade, business or profession but run hotels, hotel operators or persons acting as an agent on behalf of a hotel or hotel operator (**"Hotelier"** or **"YOU"**).
 
 **Access to trivago Business Studio is conditioned upon the Hotelier’s acceptance without modification of all the terms, conditions, and notices set forth below (collectively, the "Terms of Use")**.
 
-These Terms of Use are valid for all services that TRIVAGO provides to Hoteliers within the scope of trivago Business Studio and its applications. TRIVAGO has also set up additional terms and conditions for the use of certain applications within trivago Business Studio (“**App Terms**”), together with the Terms of Use collectively referred to as “**Terms**.”
+These Terms of Use are valid for all services that TRIVAGO provides to Hoteliers within the scope of trivago Business Studio and its applications. TRIVAGO has also set up additional terms and conditions for the use of certain applications within trivago Business Studio (**"App Terms"**), together with the Terms of Use collectively referred to as **"Terms"**.
 
 ### 2\. Subject
 
-2.1. Subject of the Terms is the Hotelier’s use of trivago Business Studio and its various applications (“**Apps**”) in order to manage and monitor marketing campaigns for hotels and alternative accommodation (“**Inventory**”) on the trivago Platforms and potentially other distribution channels (e.g., through a TRIVAGO white label service).
+2.1. Subject of the Terms is the Hotelier’s use of trivago Business Studio and its various applications (**"Apps"**) in order to manage and monitor marketing campaigns for hotels and alternative accommodation (“**Inventory**”) on the trivago Platforms and potentially other distribution channels (e.g., through a TRIVAGO white label service).
 
-2.2. Within trivago Business Studio, TRIVAGO offers an online platform with different services, tools, and applications. Certain Apps are available by default and for free use (“**Basic Apps**”). Others can be purchased after agreeing to additional App Terms and entering payment and billing information (“**Paid Apps**”).
+2.2. Within trivago Business Studio, TRIVAGO offers an online platform with different services, tools, and applications. Certain Apps are available by default and for free use (**"Basic Apps"**). Others can be purchased after agreeing to additional App Terms and entering payment and billing information (**"Paid Apps"**).
 
 2.3. trivago Business Studio enables YOU to transfer your Inventory data to TRIVAGO either manually by yourself or via your technical connectivity provider in order to access and manage your own data within the Apps.
 
-2.4. TRIVAGO provides the services of trivago Business Studio “as is,” and reserves the right to develop, suspend, amend, and update the design, functionality, and abilities of trivago Business Studio and its Apps from time to time, as well as make adjustments to the software. TRIVAGO will inform YOU about any material changes to trivago Business Studio in your Account and/or via e-mail. In the event of a restriction of services, TRIVAGO will notify you without undue delay and, in the event of a suspension of services, by giving 30 (thirty) days prior notice to such suspension becoming effective.
+2.4. TRIVAGO provides the services of trivago Business Studio "as is," and reserves the right to develop, suspend, amend, and update the design, functionality, and abilities of trivago Business Studio and its Apps from time to time, as well as make adjustments to the software. TRIVAGO will inform YOU about any material changes to trivago Business Studio in your Account and/or via e-mail. In the event of a restriction of services, TRIVAGO will notify you without undue delay and, in the event of a suspension of services, by giving 30 (thirty) days prior notice to such suspension becoming effective.
 
 ### 3\. Registration
 
-3.1. In order to be able to access and use trivago Business Studio and the Apps, YOU must register online and create an account (“Account”) and, thereby, agree to these Terms of Use. Therefore, YOU need to fill the requested data in the registration form and assign your accommodation to your Account on the trivago Business Studio website. trivago will accept your registration after verification and send you a confirmation by email.
+3.1. In order to be able to access and use trivago Business Studio and the Apps, YOU must register online and create an account ("Account") and, thereby, agree to these Terms of Use. Therefore, YOU need to fill the requested data in the registration form and assign your accommodation to your Account on the trivago Business Studio website. trivago will accept your registration after verification and send you a confirmation by email.
 
 3.2. Upon the successful completion of your registration on trivago Business Studio, the activation of the Account will follow. YOU shall check your uploaded data for completeness and correctness immediately after the activation of your Account. Any information, images, and other content related to your Inventory shall be confirmed, updated, or added. YOU are responsible for the completeness and correctness of your data within your Account. Any errors shall be immediately reported to TRIVAGO or corrected by yourself.
 
@@ -42,27 +42,23 @@ These Terms of Use are valid for all services that TRIVAGO provides to Hoteliers
 
 4.2. YOU agree to conclude legally valid contracts via trivago Business Studio by using your username and password. YOU warrant and represent that your employees and any party that has access to your Account are authorized to place an order in your name and for your Account and are authorized to conclude contracts with TRIVAGO via trivago Business Studio.
 
-4.3. YOU ensure that all data and content, including location information, operator, rates and availability, domain name as well as additional descriptive information, including, but not limited to, any descriptive information relating to the Inventory information, Inventory images, rating (star) categories, room categories, number of rooms, Inventory amenities (“**Content**”) uploaded to your Account are complete, accurate, and up to date. YOU are responsible for the completeness and correctness of your Content and that it is up to date. YOU are fully responsible for the Content of your Inventory’s internet presence pursuant to the Content provided to TRIVAGO under these Terms. YOU ensure that all data and information on your website match the Content provided to TRIVAGO. YOU shall promptly correct any errors or omissions after becoming aware of such errors or being notified thereof. Any errors must be immediately reported to TRIVAGO or corrected by yourself.
+4.3. YOU ensure that all data and content, including location information, operator, rates and availability, domain name as well as additional descriptive information, including, but not limited to, any descriptive information relating to the Inventory information, Inventory images, rating (star) categories, room categories, number of rooms, Inventory amenities (**"Content"**) uploaded to your Account are complete, accurate, and up to date. YOU are responsible for the completeness and correctness of your Content and that it is up to date. YOU are fully responsible for the Content of your Inventory’s internet presence pursuant to the Content provided to TRIVAGO under these Terms. YOU ensure that all data and information on your website match the Content provided to TRIVAGO. YOU shall promptly correct any errors or omissions after becoming aware of such errors or being notified thereof. Any errors must be immediately reported to TRIVAGO or corrected by yourself.
 
 4.4._If your Content shall be transferred to trivago Business Studio via a third party (e.g., a technical connectivity provider), YOU authorize TRIVAGO to request the Content necessary for the use of trivago Business Studio and its Apps from such third party. Any Content provided by your technical connectivity provider or other instructed third parties is treated as your Content._
 
 4.5. YOU represent and warrant not to take actions that generate automated page impressions, are intended to harm and/or interfere with TRIVAGO’s software/hardware in any way and/or contradict with applicable laws and good morals in other ways. This includes but is not limited to:
 
-the use of viruses, other computer programs or technologies that harm our software or hardware or can interfere with the use of computers;
-
-the use of bots, spiders, scrapers, viruses, or other malware;
-
-the use of any program that serves the purpose of collecting or using personal data of other users (especially for commercial use);
-
-generating an improperly high amount of page impressions on the trivago Platforms;
-
-other similar acts that are intended to harm or could harm the functionality of the trivago Platforms.
+*   the use of viruses, other computer programmes or technologies that harm our software or hardware or can interfere with the use of computers;
+*   the use of bots, spiders, scrapers, viruses, or other malware;
+*   the use of any programme that serves the purpose of collecting or using personal data of other users (especially for commercial use);
+*   generating an improperly high amount of page impressions on the trivago Platforms;
+*   other similar acts that are intended to harm or could harm the functionality of the trivago Platforms.
 
 ### 5\. Special Instructions for the use of the Applications
 
-5.1. Available Apps are listed in trivago Business Studio. Apps that have been selected and/or purchased will appear on the homepage of your Account. The “Settings” of your Account contain more information, such as start and renewal date, status, price, billing history of your Apps. YOU can individually mange the status and information of each App under the “Settings” of your trivago Business Studio Account.
+5.1. Available Apps are listed in trivago Business Studio. Apps that have been selected and/or purchased will appear on the homepage of your Account. The "Settings" of your Account contain more information, such as start and renewal date, status, price, billing history of your Apps. YOU can individually manage the status and information of each App under the “Settings” of your trivago Business Studio Account.
 
-5.2. These Terms of Use exclusively apply to all Basic Apps. Additional App Terms apply to Paid Apps and shall – where necessary – contain further information pursuant to the Regulation (EU) 2019/1150 of the European Parliament and of the Council of 20 June 2019 on promoting fairness and transparency for business users of online intermediation services (“P2B Regulation”). In the event of any conflict between these Terms of Use and the App Terms, the App Terms shall prevail necessary to the extent to resolve the conflict.
+5.2. These Terms of Use exclusively apply to all Basic Apps. Additional App Terms apply to Paid Apps and shall – where necessary – contain further information pursuant to the Regulation (EU) 2019/1150 of the European Parliament and of the Council of 20 June 2019 on promoting fairness and transparency for business users of online intermediation services ("P2B Regulation"). In the event of any conflict between these Terms of Use and the App Terms, the App Terms shall prevail necessary to the extent to resolve the conflict.
 
 5.3. TRIVAGO is entitled to remove single Apps and/or services from trivago Business Studio at its own discretion after giving notice and informing about the reason at least thirty (30) days prior to such removal becoming effective.
 
@@ -74,19 +70,21 @@ other similar acts that are intended to harm or could harm the functionality of 
 
 Visitor reviews and visitor photos from the cooperating partners, such as online travel agencies and other third parties (e.g., rating companies) are available and published on the trivago Platforms as additional information to the Inventory. YOU must not demand the deletion or reorganization of visitor reviews and visitor photos from TRIVAGO, unless reviews and/or photos are proven incorrect or there are statutory provisions stating otherwise; YOU may contact such third parties providing reviews and photos to TRIVAGO for the deletion or correction upon which will accordingly be updated on the trivago Platforms. In addition, with the [trivago Rating Index (tRI)](https://company.trivago.com/trivago-rating-index), TRIVAGO shows a comprehensive and aggregated index for hotel ratings.
 
-### 7\. Data Protection, Data Access, and Data Tracking
+### 7\. Data Protection, Data Access, Data Tracking
 
 7.1. By creating an Account, TRIVAGO we will collect, process and store personal data as a part of the process of setting up your Account. Please see our [Privacy Policy](https://www.trivago.com/privacy-policy) for more information.
 
-7.2. Not only TRIVAGO, but also YOU and/or third parties (e.g., your technical connectivity provider) on your behalf may receive and process personal data while using trivago Business Studio. Except as otherwise provided in [**Exhibit 1**](https://studio.trivago.com/home/terms-and-conditions#exhibit-1) hereto, YOU and TRIVAGO agree that YOU and TRIVAGO each are individual data controller within the meaning of the EU General Data Protection Regulation 679/2016 regarding the processing of personal data under applicable data protection laws. As such, YOU and TRIVAGO will each comply with and are solely responsible for the compliance with applicable data protection laws. If YOU make use of a technical connectivity provider, your technical connectivity provider is your data processor within the meaning of the EU General Data Protection Regulation 679/2016 regarding the processing of personal data under applicable data protection laws; therefore, YOU represent, warrant and undertake that where required by applicable data protection laws YOU have concluded a valid data processing agreement within the meaning of the EU General Data Protection Regulation 679/2016 with your technical connectivity provider, YOU have instructed your technical connectivity provider to transfer any personal data to TRIVAGO and YOU have a valid legal basis for the transfers and use of any personal data by TRIVAGO.
+7.2. Not only TRIVAGO, but also YOU and/or third parties (e.g., your technical connectivity provider) on your behalf may receive and process personal data while using trivago Business Studio. Except as otherwise provided in [**Exhibit 1**](https://studio.trivago.com/home/terms-and-conditions#exhibit-1) hereto, YOU and TRIVAGO agree that YOU and TRIVAGO each are independent data controllers within the meaning of the General Data Protection Regulation 2016/679 (GDPR). As such, YOU and TRIVAGO will each comply with and are solely responsible for the compliance with applicable data protection laws. If YOU make use of a technical connectivity provider, your technical connectivity provider is your data processor within the meaning of the GDPR; therefore, YOU represent, warrant and undertake that where required by applicable data protection laws (i.) YOU have concluded a valid data processing agreement with your technical connectivity provider, (ii.) YOU have duly instructed your technical connectivity provider to transfer any personal data to TRIVAGO, (iii.) and YOU shall provide any legally required information and disclosures to data subjects concerned by any transfer of personal data to TRIVAGO, (iv.) YOU shall collect any legally required consent data subjects concerned by such transfer, and (v.) YOU have a valid legal basis for the transfer of data to TRIVAGO and the use of any such personal data by TRIVAGO.
 
 7.3. TRIVAGO provides the following information on access to data:
 
 (a) TRIVAGO has access to personal data as well as non-personal data which YOU or users of the TRIVAGO Platforms provide when using TRIVAGO’s services or which are generated through the provision of TRIVAGO’s services. Further information on the categories and conditions of personal data as well as information about personal data that is shared with third parties, purposes and opt-out possibilities are contained in TRIVAGO’s [Privacy Policy.](https://www.trivago.com/privacy-policy)
 
-(b) YOU do not have access to personal data that TRIVAGO collects from its users, except in the case where trivago Express Booking is implemented as part of TRIVAGO’s Rate Connect App to transfer Hotelier’s data about users’ accommodation reservation and payment details or where users make an accommodation reservation directly with YOU. YOU do not have a right of access to other non-personal data that YOU provide us. YOU have access to such data which are further specified in [**Exhibit 2**](https://studio.trivago.com/home/terms-and-conditions#exhibit-2) hereto and made available and updated within trivago Business Studio. Your employees have access to personal data that they provide to TRIVAGO in accordance with applicable data protection laws. YOU cannot opt-out of sharing non-personal data with third parties.
+(b) YOU do not have access to personal data that TRIVAGO collects from users of the TRIVAGO platforms when using TRIVAGO’s services or which are generated through the provision of TRIVAGO’s services.
 
-(c) TRIVAGO shares aggregated non-personal data with third parties for the following purposes: providing, securing, maintaining and improving TRIVAGO’s services, developing new products and features, understanding how users and businesses use TRIVAGO’s services in order to improve performance and provide better services, commercial and monetization purposes, analysis, complying with legal obligations and resolving disputes.
+(c) YOU have access to such data which YOU provide when using TRIVAGO’s services or which are further specified in [**Exhibit 2**](https://studio.trivago.com/home/terms-and-conditions#exhibit-2) hereto and made available and updated within your trivago Business Studio Account. Your employees have access to personal data that they provide to TRIVAGO in accordance with applicable data protection laws. YOU cannot opt-out of sharing non-personal data with third parties.
+
+(d) TRIVAGO shares aggregated non-personal data with third parties for the following purposes: providing, securing, maintaining and improving TRIVAGO’s services, developing new products and features, understanding how users and businesses use TRIVAGO’s services in order to improve performance and provide better services, commercial and monetization purposes, analysis, complying with legal obligations and resolving disputes.
 
 7.4. TRIVAGO may use third-party tracking services to monitor the usage of the Apps for business analysis and improvements purposes.
 
@@ -94,7 +92,7 @@ Visitor reviews and visitor photos from the cooperating partners, such as online
 
 8.1. YOU reserve the rights to any Content that YOU upload to and publish via trivago Business Studio and its Apps.
 
-8.2. _During the term of the Terms, YOU hereby grant TRIVAGO a global, perpetual, non-exclusive, transferable, sub-licensable, royalty-free right to (i) use, host, distribute, modify, run, copy, publicly perform or display, translate, create derivative works of any Content provided by YOU on the trivago Platforms, for performance analysis, marketing of TRIVAGO’s services, including but not limited to TV commercials, magazine articles, third-party website advertising as well as Social Media platforms and for white label services offered by TRIVAGO, and (ii) use your name, logo and any trademarks associated with the your name or logo, for providing the services on trivago Business Studio and the trivago Platforms, performance analysis, marketing of TRIVAGO’s services, including but not limited to TV commercials, magazine articles, third-party website advertising as well as Social Media platforms and for white label services offered by TRIVAGO (“**Rights**”)._
+8.2. _During the term of the Terms, YOU hereby grant TRIVAGO a global, perpetual, non-exclusive, transferable, sub-licensable, royalty-free right to (i) use, host, distribute, modify, run, copy, publicly perform or display, translate, create derivative works of any Content provided by YOU on the trivago Platforms, for performance analysis, marketing of TRIVAGO’s services, including but not limited to TV commercials, magazine articles, third-party website advertising as well as Social Media platforms and for white label services offered by TRIVAGO, and (ii) use your name, logo and any trademarks associated with the your name or logo, for providing the services on trivago Business Studio and the trivago Platforms, performance analysis, marketing of TRIVAGO’s services, including but not limited to TV commercials, magazine articles, third-party website advertising as well as Social Media platforms and for white label services offered by TRIVAGO (**"Rights"**)._
 
 8.3. YOU represent and warrant that YOU are entitled to grant the Rights to TRIVAGO and that they are free of any third-party rights that may hinder TRIVAGO in the execution or use of the Rights.
 
@@ -122,11 +120,11 @@ Visitor reviews and visitor photos from the cooperating partners, such as online
 
 10.2. TRIVAGO solely grants a non-exclusive, revocable license to YOU as a registered Hotelier to access and use trivago Business Studio and its Apps in accordance with the Terms and limited to the term of your Account as set out in Section 14 of these Terms of Use and further specified in the App Terms. YOU must not sublicense this license unless YOU have received written permission from TRIVAGO. This license is automatically revoked in the event of the termination of your Account.
 
-10.3. YOU shall not remove or modify any program markings or any notice of TRIVAGO or its licensors’ proprietary rights. YOU shall not attempt or directly or indirectly allow any authorized user or other third party to attempt to copy, modify, duplicate, create derivative works, frame, mirror, republish, reverse compile, disassemble, reverse engineer, download, transmit or distribute all or any portion of the services and/or software in any form or media or by any means.
+10.3. YOU shall not remove or modify any programme markings or any notice of TRIVAGO or its licensors’ proprietary rights. YOU shall not attempt or directly or indirectly allow any authorized user or other third party to attempt to copy, modify, duplicate, create derivative works, frame, mirror, republish, reverse compile, disassemble, reverse engineer, download, transmit or distribute all or any portion of the services and/or software in any form or media or by any means.
 
 ### 11\. Confidentiality
 
-11.1. YOU and TRIVAGO agree that we shall keep any information designated as confidential or which is otherwise by its nature confidential. Such obligation shall apply to all information received from the other party before or during the term of the Terms and which relates to the business, assets, affairs, financial results, plans, consumers and suppliers of the other party or its affiliated companies in the sense of Section 15 of the German Corporation Act or of any third party (“Confidential Information”). Each party shall keep the Confidential Information strictly confidential and shall not use any such Confidential Information for its own benefit (save as is necessary in order to perform its obligations and/or exercise its rights under the Terms). Neither party shall disclose any such Confidential Information to any third party and shall ensure that no third party will have access to it.
+11.1. YOU and TRIVAGO agree that we shall keep any information designated as confidential or which is otherwise by its nature confidential. Such obligation shall apply to all information received from the other party before or during the term of the Terms and which relates to the business, assets, affairs, financial results, plans, consumers and suppliers of the other party or its affiliated companies in the sense of Section 15 of the German Corporation Act or of any third party ("Confidential Information"). Each party shall keep the Confidential Information strictly confidential and shall not use any such Confidential Information for its own benefit (save as is necessary in order to perform its obligations and/or exercise its rights under the Terms). Neither party shall disclose any such Confidential Information to any third party and shall ensure that no third party will have access to it.
 
 11.2. Notwithstanding the above, each party may disclose Confidential Information to a third party that has been designated to act on each party’s behalf and has undersigned a confidentiality obligation pursuant to the provisions of this Section 11.1.
 
@@ -148,7 +146,7 @@ Visitor reviews and visitor photos from the cooperating partners, such as online
 
 12.1. TRIVAGO shall only bear unlimited liability towards YOU for actions by a legal representative of TRIVAGO or a person having performed an obligation of TRIVAGO:
 
-(a) in case of fraud, willful misconduct or gross negligence,
+(a) in case of fraud, wilfull misconduct or gross negligence,
 
 (b) for personal injury to life, body, or health,
 
@@ -168,7 +166,7 @@ Visitor reviews and visitor photos from the cooperating partners, such as online
 
 13.1. We indeed put our best effort in making trivago Business Studio always and properly available to YOU, but we do not guarantee that the trivago Business Studio and any of its applications will always be uninterrupted, secure or free from bugs or viruses, nor that the trivago Business Studio will be free from errors or omissions.
 
-13.2. In the event a party is prevented from carrying out its obligations under the Terms by reason of any occurrence or contingency beyond the party’s reasonable control, including, but not limited to, acts of God, acts of war, fire, insurrection, strikes, lock-outs or other serious labor disputes, riots, earthquakes, floods, explosions, other acts of nature or a further uncontrollable spread of the coronavirus (SARS-CoV-2/COVID-19) epidemic or pandemic or other infectious diseases, official orders of domestic quarantine or similar, travel warnings issued by the German Foreign Office, positive risk assessments by WHO, Robert Koch Institute or comparable (“Force Majeure Event”), the mutual contractual obligations – except for any payment obligations – shall be suspended from the time of the occurrence of the Force Majeure Event and shall be reinstated after the Force Majeure Event has ended. In this case, the contractual period and contractually agreed performance dates are extended by the period of the duration of the Force Majeure Event.
+13.2. In the event a party is prevented from carrying out its obligations under the Terms by reason of any occurrence or contingency beyond the party’s reasonable control, including, but not limited to, acts of God, acts of war, fire, insurrection, strikes, lock-outs or other serious labour disputes, riots, earthquakes, floods, explosions, other acts of nature or a further uncontrollable spread of the coronavirus (SARS-CoV-2/COVID-19) epidemic or pandemic or other infectious diseases, official orders of domestic quarantine or similar, travel warnings issued by the German Foreign Office, positive risk assessments by WHO, Robert Koch Institute or comparable ("Force Majeure Event"), the mutual contractual obligations – except for any payment obligations – shall be suspended from the time of the occurrence of the Force Majeure Event and shall be reinstated after the Force Majeure Event has ended. In this case, the contractual period and contractually agreed performance dates are extended by the period of the duration of the Force Majeure Event.
 
 ### 14\. Term and Termination
 
@@ -180,13 +178,13 @@ Visitor reviews and visitor photos from the cooperating partners, such as online
 
 14.4. Upon effectiveness of termination, YOU will not be able to access trivago Business Studio anymore. Any termination will result in a removal of your Inventory from the trivago Platforms at the time such termination is effective.
 
-14.5.Upon termination, YOU can request the deletion of your Content from trivago Business Studio by sending a corresponding written request to TRIVAGO ([studio@trivago.com](mailto:studio@trivago.com)). YOU may only request the deletion of Content that has been made available by YOU. Content of TRIVAGO and/or third parties are not affected by the deletion.
+14.5.Upon termination, YOU can request the deletion of your Content from trivago Business Studio by sending a corresponding written request to TRIVAGO ([info.studio@trivago.com](mailto:info.studio@trivago.com)). YOU may only request the deletion of Content that has been made available by YOU. Content of TRIVAGO and/or third parties are not affected by the deletion.
 
 14.6.The termination of these Terms of Use or App Terms do not affect any contract concluded between YOU and a third party with respect to the use of trivago Business Studio.
 
 ### 15\. Compliance
 
-15.1. YOU represent and warrant that, while using trivago Business Studio and its applications, YOU have complied and will continue to comply with the United States Foreign Corrupt Practices Act (“FCPA”), the anti-corruption laws of Germany, and any other applicable anti-corruption law (“Anti-Corruption Laws”), and that it will comply with applicable trade and economic sanctions administered or enforced by the United Nations, the United States, the European Union, any European Union member state, or Her Majesty’s Treasury of the United Kingdom and any other sanction relevant in the territory of the Hotelier (collectively, “Sanctions”). YOU further represent and warrant that YOU are not identified on, or otherwise owned or controlled by any person identified on, any list of prohibited parties under Sanctions.
+15.1. YOU represent and warrant that, while using trivago Business Studio and its applications, YOU have complied and will continue to comply with the United States Foreign Corrupt Practices Act ("FCPA"), the anti-corruption laws of Germany, and any other applicable anti-corruption law ("Anti-Corruption Laws"), and that it will comply with applicable trade and economic sanctions administered or enforced by the United Nations, the United States, the European Union, any European Union member state, or Her Majesty’s Treasury of the United Kingdom and any other sanction relevant in the territory of the Hotelier (collectively, “Sanctions”). YOU further represent and warrant that YOU are not identified on, or otherwise owned or controlled by any person identified on, any list of prohibited parties under Sanctions.
 
 15.2. YOU further represent and warrant that, while using trivago Business Studio, YOU have complied and will continue to comply with all applicable legal provisions regulating the sale of accommodation online, especially but not limited to provisions against unfair competition, misappropriation of housing space, price clarity and obligations to display final prices, as well as all applicable data protection laws.
 
@@ -196,49 +194,40 @@ The Terms and any non-contractual obligation arising in connection with it are g
 
 ### 17\. Miscellaneous
 
-17.1. Amendments TRIVAGO reserves the right to change or supplement the Terms at any time. TRIVAGO will inform YOU of any change or supplement to the Terms prior to becoming effective by means of a message via your Account and/or by email. If YOU do not accept these changes or supplements, YOU may object and terminate the business relationship with TRIVAGO with regard to the services of trivago Business Studio by sending an email to [studio@trivago.com](mailto:studio@trivago.com) or terminate your trivago Business Studio account. Failure to object within thirty (30) calendar days of notice of any change or supplement to the Terms shall constitute your acceptance of such change or supplement. The aforementioned notice period shall not apply where TRIVAGO is subject to a legal or regulatory obligation which requires us to change the Terms in a manner which do not allow us or respect the notice period or TRIVAGO has exceptionally to change the Terms to address an unforeseen and imminent danger related to defend YOU, ourselves and/or users of the trivago Platforms from fraud, malware, spam, data breaches or other cybersecurity risks.
+17.1. Amendments TRIVAGO reserves the right to change or supplement the Terms at any time. TRIVAGO will inform YOU of any change or supplement to the Terms prior to becoming effective by means of a message via your Account and/or by email. If YOU do not accept these changes or supplements, YOU may object and terminate the business relationship with TRIVAGO with regard to the services of trivago Business Studio by sending an email to [info.studio@trivago.com](mailto:info.studio@trivago.com) or terminate your trivago Business Studio account. Failure to object within thirty (30) calendar days of notice of any change or supplement to the Terms shall constitute your acceptance of such change or supplement. The aforementioned notice period shall not apply where TRIVAGO is subject to a legal or regulatory obligation which requires us to change the Terms in a manner which do not allow us or respect the notice period or TRIVAGO has exceptionally to change the Terms to address an unforeseen and imminent danger related to defend YOU, ourselves and/or users of the trivago Platforms from fraud, malware, spam, data breaches or other cybersecurity risks.
 
-17.2. Form Requirements and Notices Where the Terms provide for a written form requirement, text form (e.g., email or fax) does fulfill the written form requirement, unless expressly agreed otherwise. Except if initiated by TRIVAGO as set out in Section 17.1, no waiver, alteration, modification, or cancellation of any provision of these Terms of Use or App Terms shall be binding, unless made in writing and signed by both parties. Notices to TRIVAGO under the Terms shall be given in writing to the following email address: [studio@trivago.com](mailto:studio@trivago.com).
+17.2. Form Requirements and Notices Where the Terms provide for a written form requirement, text form (e.g., email or fax) does fulfil the written form requirement, unless expressly agreed otherwise. Except if initiated by TRIVAGO as set out in Section 17.1, no waiver, alteration, modification, or cancellation of any provision of these Terms of Use or App Terms shall be binding, unless made in writing and signed by both parties. Notices to TRIVAGO under the Terms shall be given in writing to the following email address: [info.studio@trivago.com](mailto:info.studio@trivago.com).
 
 17.3. Place of Performance The place of performance for any and all obligations arising from or in connection with the Terms shall be at TRIVAGO’s address. Business days are, therefore, deemed to be those at TRIVAGO’s address.
 
-17.4. Internal Complaint Management and Mediation Any complaints of yours within the context of your use of trivago Business Studio, in particular but not limited to alleged non-compliance of trivago with applicable law, technical issues and business behavior of trivago, can be sent to [complaint.studio@trivago.com](mailto:complaint.studio@trivago.com). All complaints will be treated with diligence and monitored. An annual report on the functioning and effectiveness of our internal complaint-handling system will be published in trivago Business Studio. If a dispute is not wholly resolved through trivago’s internal complaint-handling system, the dispute may be referred at your discretion to Mr. Stephan Menzemer (address: Ulmenstraße 23-25, 60325 Frankfurt am Main; email: [s.menzemer@gvw.com](mailto:s.menzemer@gvw.com)), the mediation office of the Chamber of Industry and Commerce at Düsseldorf (Mediationsstelle der Industrie- und Handelskammer zu Düsseldorf, Ernst-Schneider-Platz 1, 40212 Düsseldorf, email: [ihkdus@duesseldorf.ihk.de](mailto:ihkdus@duesseldorf.ihk.de) or the Centre for Effective Dispute Resolution (“CEDR”, address: 70 Fleet Street, London, EC4Y 1EU; email: [adr@cedr.com](mailto:adr@cedr.com) for mediation. To initiate the mediation a party must give notice in writing to the other party referring the dispute to mediation. A copy of the referral should be sent to a mediator.
+17.4. Internal Complaint Management and Mediation Any complaints of yours within the context of your use of trivago Business Studio, in particular but not limited to alleged non-compliance of trivago with applicable law, technical issues and business behavior of trivago, can be sent to [complaint.studio@trivago.com](mailto:complaint.studio@trivago.com). All complaints will be treated with diligence and monitored. An annual report on the functioning and effectiveness of our internal complaint-handling system will be published in trivago Business Studio. If a dispute is not wholly resolved through trivago’s internal complaint-handling system, the dispute may be referred at your discretion to Mr. Stephan Menzemer (address: Ulmenstraße 23-25, 60325 Frankfurt am Main; email: [s.menzemer@gvw.com](mailto:s.menzemer@gvw.com)), the mediation office of the Chamber of Industry and Commerce at Düsseldorf (Mediationsstelle der Industrie- und Handelskammer zu Düsseldorf, Ernst-Schneider-Platz 1, 40212 Düsseldorf, email: [ihkdus@duesseldorf.ihk.de](mailto:ihkdus@duesseldorf.ihk.de) or the Centre for Effective Dispute Resolution ("CEDR", address: 70 Fleet Street, London, EC4Y 1EU; email: [adr@cedr.com](mailto:adr@cedr.com) for mediation. To initiate the mediation a party must give notice in writing to the other party referring the dispute to mediation. A copy of the referral should be sent to a mediator.
 
 17.5. Right to Offset and Right to Detention YOU are only entitled to offset own claims against claims of TRIVAGO and/or to assert a right of retention if and to the extent that your respective claims are undisputed or have been acknowledged by an unappealable court decision.
 
-17.6. Transfer of Agreement The rights and privileges of TRIVAGO hereunder shall inure to the benefit of its successors and assigns, and the Terms shall be binding on all heirs, assigns and successors of TRIVAGO. YOU shall only be entitled to transfer or assign this agreement and any of its claims or rights under or in connection with the Terms with the prior written consent of the TRIVAGO.
+17.6. Transfer of Agreement The rights and privileges of TRIVAGO hereunder shall inure to the benefit of its successors and assigns, and the Terms shall be binding on all heirs, assigns and successors of TRIVAGO. YOU shall only be entitled to transfer or assign this agreement and any of its claims or rights under or in connection with the Terms with the prior written consent of TRIVAGO.
 
 17.7. Severability Should any provision of the Terms or any provision which is incorporated in it at a later point in time be or become invalid or unenforceable, either wholly or in part, this shall not affect the validity of the remaining provisions of the Terms. The same shall apply if the Terms are found to have a gap concerning the matters to be provided for. To replace such invalid or unenforceable provision or to fill such gap, an adequate provision shall be incorporated which, to the extent this is legally feasible, will approximate as closely as possible what parties hereto had intended or would have intended with a view to the meaning and purpose of the Terms, if they had considered this particular question at the time of the conclusion of the business relationship or of the later incorporation of a provision.
 
-17.8. Contact YOU can contact TRIVAGO regarding all questions or concerns at [studio@trivago.com](mailto:studio@trivago.com).
+17.8. Contact YOU can contact TRIVAGO regarding all questions or concerns at [info.studio@trivago.com](mailto:info.studio@trivago.com).
 
 ### **Exhibit 1**
 
-Controller-to-Processor Data Processing Terms TRIVAGO and the Controller have entered into Terms of Use for trivago Business Studio for a platform where hoteliers can register their accommodation in order to manage and monitor their marketing campaigns on the trivago Platforms **(“Terms of Use”)**.
+Controller-to-Processor Data Processing Terms TRIVAGO and the Controller have entered into Terms of Use for trivago Business Studio for a platform where hoteliers can register their accommodation in order to manage and monitor their marketing campaigns on the trivago Platforms (**"Terms of Use"**).
 
-These Controller-to-Processor Data Processing Terms (“**Data Processing Terms**”) apply to the trivago Processing Services performed in connection with the provision of trivago Business Studio. These Data Processing Terms set out the parties’ agreement on the Processing of Personal Data in relation to the Applicable Data Protection Laws. These Data Processing Terms supplement the terms of the Terms of Use and replace any previously applicable terms relating to data processing that may have existed between the parties for the trivago Processing Services.
+These Controller-to-Processor Data Processing Terms ("**Data Processing Terms**") apply to the processing activities made by TRIVAGO on behalf of the Controller and pertaining to the creation, storage, and maintenance of the Controller’s trivago Business Studio Account (altogether **"trivago Processing Services."** These Data Processing Terms supplement the terms of the Terms of Use and replace any previously applicable terms relating to data processing that may have existed between the parties for the trivago Processing Services.
 
 **1\. Definitions and Interpretation**
 
-*   “CPA” means the California Consumer Privacy Act.
+*   "CPA" means the California Consumer Privacy Act.
+*   "Controller" means the Hotelier.
+*   "GDPR" means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016.
+*   "European Data Protection Laws" means EU GDPR and/or UK GDPR.
+*   "LGPD" means the Brazilian General Data Protection Law (Lei Geral de Proteção de Dados Pessoais).
+*   "UK GDPR" means the GDPR as amended and incorporated into UK law under the UK European Union (Withdrawal) Act 2018 and any national law that gives effect to this law.
+*   "Applicable Data Protection Laws" means (as applicable) the LGPD, CCPA GDPR or the UK GDPR.
+*   "Standard Contractual Clauses" means the standard contractual clauses for the transfer of personal data to third countries pursuant to the GDPR and adopted by the European Commission under document number[C (2021) 3972.](https://studio.trivago.com/home/eu-user-consent-policy)
 
-*   ”Controller” means the Hotelier.
-
-*   ”GDPR” means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016.
-
-*   “European Data Protection Laws” means EU GDPR and/or UK GDPR.
-
-*   ”LGPD” means the Brazilian General Data Protection Law (Lei Geral de Proteção de Dados Pessoais).
-    
-*   ”UK GDPR” means the GDPR as amended and incorporated into UK law under the UK European Union (Withdrawal) Act 2018 and any national law that gives effect to this law.
-
-*   ”Applicable Data Protection Laws” means (as applicable) the LGPD, CCPA GDPR or the UK GDPR.
-
-*   “Standard Contractual Clauses” means the standard contractual clauses for the transfer of personal data to third countries pursuant to the GDPR and adopted by the European Commission under document number[C (2021) 3972.](https://studio.trivago.com/home/eu-user-consent-policy)
-
-*   “trivago Processing Services” mean all data processing activities made on behalf of the Controller and pertaining to the provision by TRIVAGO of the services related to trivago Business Studio and its Apps (either Basic Apps or Paid Apps), including but not limited to the creation, storage and maintenance of the Controller’s Account, as well as, where applicable, the provision of booking engine services.
-
-The terms “Controller,” “Data Subject,” “Personal Data,” “Processing,” and “Processor" as used in these Data Processing Terms have the meanings given in the GDPR. When terms appear in these Data Processing Terms and they are defined in the Terms of Use, they take on the same meaning as the same term in the Terms of Use.
+The terms "Controller," "Data Subject," "Personal Data," "Processing," and "Processor" as used in these Data Processing Terms have the meanings given in the GDPR. When terms appear in these Data Processing Terms and they are defined in the Terms of Use, they take on the same meaning as the same term in the Terms of Use.
 
 ### 2\. Details of Processing
 
@@ -248,7 +237,7 @@ The terms “Controller,” “Data Subject,” “Personal Data,” “Processi
 
 2.3. Types of Personal Data: Controller employees’ details such as name, title, job position, email address and telephone number; accommodation, or reservation details such as names, emails, and dates booked by guests of the Controllers’ accommodation and other data entered into the trivago Processing Services by the Controller or the Controller’s customers or users.
 
-2.4. Categories of Data Subjects:Employees of the Controller, Customers or users of the Controller’s services.
+2.4. Categories of Data Subjects: Employees of the Controller, Customers or users of the Controller’s services.
 
 ### 3\. Obligations of TRIVAGO
 
@@ -278,11 +267,27 @@ TRIVAGO shall:
 
 ### 5\. International Data Transfers
 
-TRIVAGO processes data within the EU and in non-EU countries. The Controller authorizes TRIVAGO to process data outside of the EU in accordance with this clause. When TRIVAGO processes data in non-EU countries it ensures that appropriate safeguards are in place such as EU approved Standard Contractual Clauses with additional technical, organizational and contractual measures, an EU adequacy decision, or other derogations for specific situations, unless required to do otherwise by Union or Member State law TRIVAGO is subject to.
+5.1. TRIVAGO processes data within the EU and in non-EU countries. The Controller authorizes TRIVAGO to process data outside of the EU in accordance with this clause. When TRIVAGO processes data in non-EU countries it ensures that appropriate safeguards are in place such as Standard Contractual Clauses with additional technical, organizational and contractual measures, an EU adequacy decision, or other derogations for specific situations, unless required to do otherwise by Union or Member State law TRIVAGO is subject to.
+
+5.2 To the extent the parties rely on the Standard Contractual Clauses by executing these Data Processing Terms, the parties are deemed to be signing the Standard Contractual Clauses, which are deemed completed as follows:
+
+a. The Data Exporter is the Processor, and the Data Importer is the Controller.
+
+b. For the purposes of the Data Processing Terms, Module Four (Transfer Processor to the Controller) applies.
+
+c. Clause 7 (Optional Docking Clause) does not apply.
+
+d. Clause 11 (a) Redress): the optional section does not apply.
+
+e. Clause 17 (Governing Law): the parties elect Option 1 and agree that the SCCs shall be governed by the laws of Germany
+
+f. Clause 18 (Choice of Forum and Jurisdiction): the Parties agree that any dispute arising from the SCCs shall be resolved by the courts of Düsseldorf.
+
+g. Annex I of the Standard Contractual Clauses is available here.
 
 ### 6\. Contacting trivago
 
-The Controller can contract TRIVAGO at any time in relation to this Data Processing Terms at: info@trivago.com.
+The Controller can contact TRIVAGO at any time in relation to these Data Processing Terms at: info.studio@trivago.com.
 
 ### 7\. Obligations of Controller
 
@@ -302,22 +307,15 @@ The Controller can contract TRIVAGO at any time in relation to this Data Process
 
 ### **Exhibit 2**
 
-Hotelier’s general data access in trivago Business Studio*   **Hotel name**: the name of the inventory item.
+Hotelier’s general data access in trivago Business Studio
 
+*   **Hotel name**: the name of the inventory item.
 *   **Hotel address**: the address of the inventory item.
-
 *   **ID**: the unique ID number for the inventory item.
-
 *   **User roles**: the email address with user role (Admin/Member).
-
 *   **Personal information**: the title, name, job, position, phone number of the account holder.
-
 *   **Payment information**: the preferred payment method for the Hotelier’s inventory and associated subscription, payment method, and billing address.
-
 *   **Subscriptions**: an overview of active and expired paid subscriptions (e.g., Rate Connect).
-
 *   **Local settings**: language and currency.
-
 *   **City**: the city in which the inventory item is located.
-
 *   **Stars**: the number of stars in which the inventory item is categorized (from 1 to 5).
