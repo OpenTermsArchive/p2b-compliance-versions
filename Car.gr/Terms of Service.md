@@ -257,7 +257,7 @@ For any question or answer added to the platform, the user grants the perpetual,
 
 Car.gr does not guarantee in any case the quality or correctness of the answers coming from the users nor adopt the content of the published text from the users. The published texts express the opinions of their authors. Users have the responsibility to carefully consider whether to adopt a provided answer.
 
-It is forbidden to publish copyrighted text and Car.gr does not bear any responsibility in case of publishing questions or answers which contain copyrighted texts. In this case, the administrators of Car.gr have the right to remove these texts. Requests can be sent via email to [\[email protected\]r](https://www.car.gr/cdn-cgi/l/email-protection#removed) . Please write as subject "Copyrights Q&A"
+It is forbidden to publish copyrighted text and Car.gr does not bear any responsibility in case of publishing questions or answers which contain copyrighted texts. In this case, the administrators of Car.gr have the right to remove these texts. Requests can be sent via email to [\[email protected\]](https://www.car.gr/cdn-cgi/l/email-protection#removed) . Please write as subject "Copyrights Q&A"
 
 The purpose of these questions and answers is to help other users and produce a constructive dialogue.
 
