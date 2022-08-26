@@ -205,7 +205,7 @@ _In June 2017, we announced that Yahoo and AOL joined to become a unified digita
         
         1.  _Defined Terms_
             
-            1.  Applicable Yahoo Entity: Yahoo Inc. (Address: 22000 AOL Way, Dulles, VA 20166).
+            1.  Applicable Yahoo Entity: Yahoo Inc. (Address: 770 Broadway, New York, NY 10003, USA).
                 
             2.  Minimum Age:13 years old
                 
@@ -365,7 +365,7 @@ _In June 2017, we announced that Yahoo and AOL joined to become a unified digita
                 
                 1.  For OneSearch, Yahoo Lifestyle, Yahoo Finance, Yahoo Mail, Yahoo News, Yahoo Search, Yahoo Sports, Yahoo TV and Yahoo Weather the Applicable Yahoo Company is Yahoo Australia Pty Ltd (Address: Level 4 West, 8 Central Avenue, Eveleigh NSW 2015, Australia) and the following terms apply: (a) the Terms and the relationship between you and Yahoo Australia Pty Ltd will be governed by the laws of the state of New South Wales without regard to its conflict of law provisions, and (b) you and Yahoo Australia Pty Ltd agree to submit to the exclusive jurisdiction of the courts of the state of New South Wales.
                     
-                2.  For other services, the Applicable Yahoo Company is Yahoo Inc. (Address: 22000 AOL Way, Dulles, VA 20166), and for such Services the terms of Section 14.2 (United States) apply.
+                2.  For other services, the Applicable Yahoo Company is Yahoo Inc. (Address: 770 Broadway, New York, NY 10003, USA), and for such Services the terms of Section 14.2 (United States) apply.
                     
             2.  Minimum Age: 13 years old
                 
@@ -385,7 +385,7 @@ _In June 2017, we announced that Yahoo and AOL joined to become a unified digita
                     
                     1.  the Applicable Yahoo Entity is the same one that is specified to be the provider in respect of a specific Service, and the Terms and the relationship between you and the Applicable Yahoo Entity will be governed by the laws of the place of incorporation of the Applicable Yahoo Entity; or
                         
-                    2.  if no Yahoo Entity is specified to be the provider in respect of a specific Service, the Applicable Yahoo Entity is Yahoo Inc. (Address: 22000 AOL Way, Dulles, VA 20166), and for such Services the terms of Section 14.2 (United States) apply.
+                    2.  if no Yahoo Entity is specified to be the provider in respect of a specific Service, the Applicable Yahoo Entity is Yahoo Inc. (Address: 770 Broadway, New York, NY 10003, USA), and for such Services the terms of Section 14.2 (United States) apply.
                         
         2.  _Customer Support_. For customer support, see [this page](https://help.yahoo.com/kb/index?locale=en_IN&page=product&y=PROD_ACCT).
             
@@ -403,7 +403,7 @@ _In June 2017, we announced that Yahoo and AOL joined to become a unified digita
                     
                 2.  For Yahoo Japan-branded products that are accessible in Japan: these products are provided by a third-party.
                     
-                3.  For all other Services, the Applicable Yahoo Entity is Yahoo Inc. (Address: 22000 AOL Way, Dulles, VA 20166).
+                3.  For all other Services, the Applicable Yahoo Entity is Yahoo Inc. (Address: 770 Broadway, New York, NY 10003, USA).
                     
             2.  Minimum Age: 18 years old (however, if you are 18 or 19 years old, you must have the permission of a parent or legal guardian in order to agree to the Terms and to use the Services)
                 
@@ -429,7 +429,7 @@ _In June 2017, we announced that Yahoo and AOL joined to become a unified digita
                 
                 1.  For OneSearch, Yahoo Entertainment, Yahoo Lifestyle, Yahoo Mail, Yahoo News, Yahoo Search and Yahoo Sport the Applicable Yahoo Entity is Yahoo New Zealand Limited (Address: Level 1, 22-28 Customs Street East, Auckland 1010 New Zealand) and the following terms apply: (a) the Terms and the relationship between you and Yahoo New Zealand Limited will be governed by the laws of New Zealand without regard to its conflict of law provisions, and (b) you and Yahoo New Zealand Limited agree to submit to the exclusive jurisdiction of the courts of New Zealand.
                     
-                2.  For other services, the Applicable Yahoo Entity is Yahoo Inc. (Address: 22000 AOL Way, Dulles, VA 20166), and for such Services the terms of Section 14.2 (United States) apply.
+                2.  For other services, the Applicable Yahoo Entity is Yahoo Inc. (Address: 770 Broadway, New York, NY 10003, USA), and for such Services the terms of Section 14.2 (United States) apply.
                     
             2.  Minimum Age: 13 years old
                 
@@ -447,7 +447,7 @@ _In June 2017, we announced that Yahoo and AOL joined to become a unified digita
                     
                     1.  the Applicable Yahoo Entity is the Yahoo Entity that is specified to be the provider in respect of a specific Service, and the Terms and the relationship between you and the Applicable Yahoo Entity will be governed by the laws of the place of incorporation of the Applicable Yahoo Entity; or
                         
-                    2.  if no Yahoo Entity is specified to be the provider in respect of a specific Service, the Applicable Yahoo Entity is Yahoo Inc. (Address: 22000 AOL Way, Dulles, VA 20166), and for such Services the terms of Section 14.2 (United States) apply.
+                    2.  if no Yahoo Entity is specified to be the provider in respect of a specific Service, the Applicable Yahoo Entity is Yahoo Inc. (Address: 770 Broadway, New York, NY 10003, USA), and for such Services the terms of Section 14.2 (United States) apply.
                         
             2.  Minimum Age: 13 years old
                 
@@ -477,7 +477,7 @@ _In June 2017, we announced that Yahoo and AOL joined to become a unified digita
                     
                     1.  the Applicable Yahoo Entity is the Yahoo Entity that is specified to be the provider in respect of a specific Service, and the Terms and the relationship between you and the Applicable Yahoo Entity will be governed by the laws of the place of incorporation of the Applicable Yahoo Entity; or
                         
-                    2.  if no Yahoo Entity is specified to be the provider in respect of a specific Service, the Applicable Yahoo Entity is Yahoo Inc. (Address: 22000 AOL Way, Dulles, VA 20166), and for such Services the terms of Section 14.2 (United States) apply.
+                    2.  if no Yahoo Entity is specified to be the provider in respect of a specific Service, the Applicable Yahoo Entity is Yahoo Inc. (Address: 770 Broadway, New York, NY 10003, USA), and for such Services the terms of Section 14.2 (United States) apply.
                         
             2.  Minimum Age: 13 years old
                 
