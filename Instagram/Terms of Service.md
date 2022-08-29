@@ -155,4 +155,4 @@ In return for our commitment to provide the Service, we require you to make the 
 
 We may change our Service and policies, and we may need to make changes to these Terms so that they accurately reflect our Service and policies. Unless otherwise required by law, we will notify you (for example, through our Service) at least 30 days before we make changes to these Terms and give you an opportunity to review them before they go into effect. Then, if you continue to use the Service, you will be bound by the updated Terms. If you do not want to agree to these or any updated Terms, you can delete your account, [here](https://help.instagram.com/370452623149242?ref=igtos).  
 
-Revised: 4 January, 2022
+Revised: 26 July 2022
