@@ -39,17 +39,17 @@ As Creator you are obligated to treat all information received from Client stric
 
 Furthermore, you expressly represent and warrant the following: (1) You are the owner, with all appurtenant rights thereto, of any and all communication, content and/or information that you post on the website (such as Profiles, Raw material et cetera), or; (2) You are the legitimate and rightful grantee of a worldwide, royalty free, perpetual, irrevocable, sub-licensable, non-exclusive license to use, distribute, reproduce and distribute such communication, content and/or information. To only that extent to allow us to use your communication, content and/or information and not violate your rights in the same, You grant to us a royalty free, perpetual, irrevocable, sub-licensable, non-exclusive license to exercise the copyright, publicity and database rights that you have in your communication, content and/or information. You further represent and warrant that any and all of your online communication, content and/or information:
 
-*   Will not contain any computer hardware or software, viruses, trojan horses, worms, or any other computer programming that may interfere with the operation of our website, operation of any of our systems and or create or impose a large burden or load on our website;
-*   Will not violate the terms of this Agreement;
-*   Will not infringe any third party's intellectual property rights including but not limited to copyright, patent or trademark rights;
-*   Will not contain obscene, lewd, or suggestive content and under no circumstances will it contain pornography;
-*   Will not be libellous, threatening, harassing or defamatory. This specifically includes making legal claims of any sort about Viedit employees, agents, other members, or the marketplace itself;
-*   Will not scan or test the vulnerability or security of our website or the system within which it operates;
-*   Will not be used for commercial or public purposes outside of the requirements of this Agreement;
-*   Will not create liability for us in any manner whatsoever;
-*   Will not frame or link to our website without our written permission; and
-*   Will not involve the upload, or insertion of, any programming language or code into or onto, our website.
-*   Will not violate any international, Dutch law, regulation, rule, or statute
+* Will not contain any computer hardware or software, viruses, trojan horses, worms, or any other computer programming that may interfere with the operation of our website, operation of any of our systems and or create or impose a large burden or load on our website;
+* Will not violate the terms of this Agreement;
+* Will not infringe any third party's intellectual property rights including but not limited to copyright, patent or trademark rights;
+* Will not contain obscene, lewd, or suggestive content and under no circumstances will it contain pornography;
+* Will not be libellous, threatening, harassing or defamatory. This specifically includes making legal claims of any sort about Viedit employees, agents, other members, or the marketplace itself;
+* Will not scan or test the vulnerability or security of our website or the system within which it operates;
+* Will not be used for commercial or public purposes outside of the requirements of this Agreement;
+* Will not create liability for us in any manner whatsoever;
+* Will not frame or link to our website without our written permission; and
+* Will not involve the upload, or insertion of, any programming language or code into or onto, our website.
+* Will not violate any international, Dutch law, regulation, rule, or statute
 
 You agree to use common sense and good judgment when conducting or posting any online communication or distribution of information. You assume legal responsibility for all damages incurred as a result of any of your online communication or distribution of information.
 
@@ -59,24 +59,24 @@ Client will insofar as relevant and necessary, but in any way when any deliverab
 
 **A. Fees - You shall NOT:**
 
-*   Request payment from another Viedit member via instant cash transfer services (non-bank, point-to-point cash transfer services such as Western Union or Moneygram);
-*   Charge to, or in any way attempt to collect from members, as an additional charge to the total amount agreed upon for the services, the Viedit Fee, or;
-*   Charge members a higher price (including taxes, service charges, or any other fees) than that which was agreed upon on the Viedit website (given that the particulars of the service requested are materially the same as those requested on the Viedit website). Your accepted quote price must include ANY and ALL charges, including any taxes, fees, etc.;
-*   Cause another person or entity to engage in any conduct, act or behaviour intended or designed to circumvent or avoid, in any manner, our right to the Fee;
-*   Enter into any transaction, letter of intent or memorandum of understanding, written or verbal, formal or informal agreement, with a member, that circumvents or avoids our right to a Fee;
-*   Communicate or correspond, whether by written, verbal, or electronic means, with a member, for the purpose of entering into an agreement or transaction that circumvents or avoids our right to a Match Fee.
+* Request payment from another Viedit member via instant cash transfer services (non-bank, point-to-point cash transfer services such as Western Union or Moneygram);
+* Charge to, or in any way attempt to collect from members, as an additional charge to the total amount agreed upon for the services, the Viedit Fee, or;
+* Charge members a higher price (including taxes, service charges, or any other fees) than that which was agreed upon on the Viedit website (given that the particulars of the service requested are materially the same as those requested on the Viedit website). Your accepted quote price must include ANY and ALL charges, including any taxes, fees, etc.;
+* Cause another person or entity to engage in any conduct, act or behaviour intended or designed to circumvent or avoid, in any manner, our right to the Fee;
+* Enter into any transaction, letter of intent or memorandum of understanding, written or verbal, formal or informal agreement, with a member, that circumvents or avoids our right to a Fee;
+* Communicate or correspond, whether by written, verbal, or electronic means, with a member, for the purpose of entering into an agreement or transaction that circumvents or avoids our right to a Match Fee.
 
 **B. Manipulating feedback -** You acknowledge and agree that the Viedit website is a neutral venue and that all transactions for services are made by and between you and other members only and, therefore, we cannot, do not and will not make any comments on behalf of you or your services. As a consequence, you acknowledge that the key component and integrity of the website is the ability of members to leave feedback about you and/or your services (whether positive, neutral or negative) AND for other members to read and evaluate those feedback reviews and make voluntary choices based upon that feedback. Therefore, in order to preserve the key component and integrity of the website, you shall NOT:
 
-*   Request payment from another Viedit member via instant cash transfer services (non-bank, point-to-point cash transfer services such as Western Union or Moneygram);
-*   Charge to, or in any way attempt to collect from members, as an additional charge to the total amount agreed upon for the services, the Viedit Fee, or;
-*   Charge members a higher price (including taxes, service charges, or any other fees) than that which was agreed upon on the Viedit website (given that the particulars of the service requested are materially the same as those requested on the Viedit website). Your accepted quote price must include ANY and ALL charges, including any taxes, fees, etc.;
-*   Cause another person or entity to engage in any conduct, act or behaviour intended or designed to circumvent or avoid, in any manner, our right to the Fee;
+* Request payment from another Viedit member via instant cash transfer services (non-bank, point-to-point cash transfer services such as Western Union or Moneygram);
+* Charge to, or in any way attempt to collect from members, as an additional charge to the total amount agreed upon for the services, the Viedit Fee, or;
+* Charge members a higher price (including taxes, service charges, or any other fees) than that which was agreed upon on the Viedit website (given that the particulars of the service requested are materially the same as those requested on the Viedit website). Your accepted quote price must include ANY and ALL charges, including any taxes, fees, etc.;
+* Cause another person or entity to engage in any conduct, act or behaviour intended or designed to circumvent or avoid, in any manner, our right to the Fee;
 
 **14\. Off-Site Communications.** Viedit prohibits offers by its members to outside of the Viedit site. Offers of this nature circumvent Viedit’s fee structure and are a potential fraud risk for both Clients and Creators. Some examples of off-site offers include:
 
-*   Entering personal contact information, such as website addresses, fax numbers, phone numbers or email addresses, in Viedit’s question and answer system, profile section, "Additional Information" sections, username, discussion forums, shipment listing, or shipment description.
-*   Using personal contact information, such as website addresses, fax numbers, phone numbers, or email addresses, obtained through Viedit’s question and answer system, profile section, , username and discussion forums.
+* Entering personal contact information, such as website addresses, fax numbers, phone numbers or email addresses, in Viedit’s question and answer system, profile section, "Additional Information" sections, username, discussion forums, shipment listing, or shipment description.
+* Using personal contact information, such as website addresses, fax numbers, phone numbers, or email addresses, obtained through Viedit’s question and answer system, profile section, , username and discussion forums.
 
 Viedit reserves the right to edit, amend, or delete any personal contact information that members submit on or through our site. Viedit reserves the right to suspend or delete the account of any member that attempts to make off-site transactions.
 
@@ -114,15 +114,15 @@ If you do send Viedit an unsolicited suggestion, idea, or proposal, or if you se
 
 **28\. Liability.** In no event shall we, our employees, or our suppliers be liable for lost profits or any special, incidental or consequential damages arising out of or in connection with our website, our services or this agreement however arising, including negligence. Viedit shall not be liable for:
 
-*   loss of profits; or
-*   loss of business; or
-*   depletion of goodwill and/or similar losses; or
-*   loss of anticipated savings; or
-*   loss of goods; or
-*   loss of contract; or
-*   loss of use; or
-*   loss of corruption of data or information; or
-*   any special, indirect, consequential or pure economic loss, costs, damages, charges or expenses.
+* loss of profits; or
+* loss of business; or
+* depletion of goodwill and/or similar losses; or
+* loss of anticipated savings; or
+* loss of goods; or
+* loss of contract; or
+* loss of use; or
+* loss of corruption of data or information; or
+* any special, indirect, consequential or pure economic loss, costs, damages, charges or expenses.
 
 Our total liability in contract, tort (including negligence or breach of statutory duty), misrepresentation, restitution or otherwise arising in connection with the performance or contemplated performance of this agreement shall be limited to the greater of: 1) the amount of fees you pay to us or were received by us in the 12 months prior to the action giving rise to liability or 2) €50.
 
@@ -150,7 +150,7 @@ Creator warrants that for the period the data (such as Raw material and/or the M
 
 **38\. Additional Policies.** All policies referenced within this Agreement, are part of this Agreement and provide additional terms and conditions related to specific feature and/or product offerings on the Viedit sites:
 
-*   viedit.com
-*   vied.it
+* viedit.com
+* vied.it
 
 **39\. General.** This Agreement may not be modified, supplemented, qualified, or interpreted by any trade usage or prior course of dealing not made a part of the Agreement by its express terms. The invalidity or unenforceability of any provision of this Agreement shall not affect the validity of this Agreement as a whole and any such provision should be enforced by authorities, and reconstructed if need be, to apply to the maximum extent allowable under applicable law. The failure by either party to enforce at any time any of the provisions of this Agreement, to exercise any election or option provided herein, or to require at any time the performance of the other of any of the provisions herein will not in any way be construed as a waiver of such provisions. Reasonable attorneys' fees and costs will be awarded to the prevailing party in the event of litigation involving the enforcement or interpretation of this Agreement. The section headings used herein are for convenience only and shall not be given any legal importance and/or meaning.
