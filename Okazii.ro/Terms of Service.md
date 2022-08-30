@@ -936,3 +936,7 @@ Bitfactor S.R.L. este operator de date cu caracter personal înscris în registr
 15.6. Mesajul se considera primit de Dvs. in ziua trimiterii si la 5 ore dupa trimitere, exceptie facand acele cazuri in care se primeste o nota de mesaj primit sau de adresa de e-mail gresita.
 
 **Ultima actualizare: 27.08.2022**
+
+Was this article helpful?
+
+YesNo
