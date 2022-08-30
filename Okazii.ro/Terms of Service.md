@@ -937,6 +937,6 @@ Bitfactor S.R.L. este operator de date cu caracter personal înscris în registr
 
 **Ultima actualizare: 27.08.2022**
 
-Was this article helpful?
+Informatiile au fost utile?
 
-YesNo
+DaNu
