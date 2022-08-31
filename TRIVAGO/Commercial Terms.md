@@ -194,21 +194,37 @@ The Terms and any non-contractual obligation arising in connection with it are g
 
 ### 17\. Miscellaneous
 
-17.1. Amendments TRIVAGO reserves the right to change or supplement the Terms at any time. TRIVAGO will inform YOU of any change or supplement to the Terms prior to becoming effective by means of a message via your Account and/or by email. If YOU do not accept these changes or supplements, YOU may object and terminate the business relationship with TRIVAGO with regard to the services of trivago Business Studio by sending an email to [info.studio@trivago.com](mailto:info.studio@trivago.com) or terminate your trivago Business Studio account. Failure to object within thirty (30) calendar days of notice of any change or supplement to the Terms shall constitute your acceptance of such change or supplement. The aforementioned notice period shall not apply where TRIVAGO is subject to a legal or regulatory obligation which requires us to change the Terms in a manner which do not allow us or respect the notice period or TRIVAGO has exceptionally to change the Terms to address an unforeseen and imminent danger related to defend YOU, ourselves and/or users of the trivago Platforms from fraud, malware, spam, data breaches or other cybersecurity risks.
+17.1. Amendments
 
-17.2. Form Requirements and Notices Where the Terms provide for a written form requirement, text form (e.g., email or fax) does fulfil the written form requirement, unless expressly agreed otherwise. Except if initiated by TRIVAGO as set out in Section 17.1, no waiver, alteration, modification, or cancellation of any provision of these Terms of Use or App Terms shall be binding, unless made in writing and signed by both parties. Notices to TRIVAGO under the Terms shall be given in writing to the following email address: [info.studio@trivago.com](mailto:info.studio@trivago.com).
+TRIVAGO reserves the right to change or supplement the Terms at any time. TRIVAGO will inform YOU of any change or supplement to the Terms prior to becoming effective by means of a message via your Account and/or by email. If YOU do not accept these changes or supplements, YOU may object and terminate the business relationship with TRIVAGO with regard to the services of trivago Business Studio by sending an email to [info.studio@trivago.com](mailto:info.studio@trivago.com) or terminate your trivago Business Studio account. Failure to object within thirty (30) calendar days of notice of any change or supplement to the Terms shall constitute your acceptance of such change or supplement. The aforementioned notice period shall not apply where TRIVAGO is subject to a legal or regulatory obligation which requires us to change the Terms in a manner which do not allow us or respect the notice period or TRIVAGO has exceptionally to change the Terms to address an unforeseen and imminent danger related to defend YOU, ourselves and/or users of the trivago Platforms from fraud, malware, spam, data breaches or other cybersecurity risks.
 
-17.3. Place of Performance The place of performance for any and all obligations arising from or in connection with the Terms shall be at TRIVAGO’s address. Business days are, therefore, deemed to be those at TRIVAGO’s address.
+17.2. Form Requirements and Notices
 
-17.4. Internal Complaint Management and Mediation Any complaints of yours within the context of your use of trivago Business Studio, in particular but not limited to alleged non-compliance of trivago with applicable law, technical issues and business behavior of trivago, can be sent to [complaint.studio@trivago.com](mailto:complaint.studio@trivago.com). All complaints will be treated with diligence and monitored. An annual report on the functioning and effectiveness of our internal complaint-handling system will be published in trivago Business Studio. If a dispute is not wholly resolved through trivago’s internal complaint-handling system, the dispute may be referred at your discretion to Mr. Stephan Menzemer (address: Ulmenstraße 23-25, 60325 Frankfurt am Main; email: [s.menzemer@gvw.com](mailto:s.menzemer@gvw.com)), the mediation office of the Chamber of Industry and Commerce at Düsseldorf (Mediationsstelle der Industrie- und Handelskammer zu Düsseldorf, Ernst-Schneider-Platz 1, 40212 Düsseldorf, email: [ihkdus@duesseldorf.ihk.de](mailto:ihkdus@duesseldorf.ihk.de) or the Centre for Effective Dispute Resolution ("CEDR", address: 70 Fleet Street, London, EC4Y 1EU; email: [adr@cedr.com](mailto:adr@cedr.com) for mediation. To initiate the mediation a party must give notice in writing to the other party referring the dispute to mediation. A copy of the referral should be sent to a mediator.
+Where the Terms provide for a written form requirement, text form (e.g., email or fax) does fulfil the written form requirement, unless expressly agreed otherwise. Except if initiated by TRIVAGO as set out in Section 17.1, no waiver, alteration, modification, or cancellation of any provision of these Terms of Use or App Terms shall be binding, unless made in writing and signed by both parties. Notices to TRIVAGO under the Terms shall be given in writing to the following email address: [info.studio@trivago.com](mailto:info.studio@trivago.com).
 
-17.5. Right to Offset and Right to Detention YOU are only entitled to offset own claims against claims of TRIVAGO and/or to assert a right of retention if and to the extent that your respective claims are undisputed or have been acknowledged by an unappealable court decision.
+17.3. Place of Performance
 
-17.6. Transfer of Agreement The rights and privileges of TRIVAGO hereunder shall inure to the benefit of its successors and assigns, and the Terms shall be binding on all heirs, assigns and successors of TRIVAGO. YOU shall only be entitled to transfer or assign this agreement and any of its claims or rights under or in connection with the Terms with the prior written consent of TRIVAGO.
+The place of performance for any and all obligations arising from or in connection with the Terms shall be at TRIVAGO’s address. Business days are, therefore, deemed to be those at TRIVAGO’s address.
 
-17.7. Severability Should any provision of the Terms or any provision which is incorporated in it at a later point in time be or become invalid or unenforceable, either wholly or in part, this shall not affect the validity of the remaining provisions of the Terms. The same shall apply if the Terms are found to have a gap concerning the matters to be provided for. To replace such invalid or unenforceable provision or to fill such gap, an adequate provision shall be incorporated which, to the extent this is legally feasible, will approximate as closely as possible what parties hereto had intended or would have intended with a view to the meaning and purpose of the Terms, if they had considered this particular question at the time of the conclusion of the business relationship or of the later incorporation of a provision.
+17.4. Internal Complaint Management and Mediation
 
-17.8. Contact YOU can contact TRIVAGO regarding all questions or concerns at [info.studio@trivago.com](mailto:info.studio@trivago.com).
+Any complaints of yours within the context of your use of trivago Business Studio, in particular but not limited to alleged non-compliance of trivago with applicable law, technical issues and business behavior of trivago, can be sent to [complaint.studio@trivago.com](mailto:complaint.studio@trivago.com). All complaints will be treated with diligence and monitored. An annual report on the functioning and effectiveness of our internal complaint-handling system will be published in trivago Business Studio. If a dispute is not wholly resolved through trivago’s internal complaint-handling system, the dispute may be referred at your discretion to Mr. Stephan Menzemer (address: Ulmenstraße 23-25, 60325 Frankfurt am Main; email: [s.menzemer@gvw.com](mailto:s.menzemer@gvw.com)), the mediation office of the Chamber of Industry and Commerce at Düsseldorf (Mediationsstelle der Industrie- und Handelskammer zu Düsseldorf, Ernst-Schneider-Platz 1, 40212 Düsseldorf, email: [ihkdus@duesseldorf.ihk.de](mailto:ihkdus@duesseldorf.ihk.de) or the Centre for Effective Dispute Resolution ("CEDR", address: 70 Fleet Street, London, EC4Y 1EU; email: [adr@cedr.com](mailto:adr@cedr.com) for mediation. To initiate the mediation a party must give notice in writing to the other party referring the dispute to mediation. A copy of the referral should be sent to a mediator.
+
+17.5. Right to Offset and Right to Detention
+
+YOU are only entitled to offset own claims against claims of TRIVAGO and/or to assert a right of retention if and to the extent that your respective claims are undisputed or have been acknowledged by an unappealable court decision.
+
+17.6. Transfer of Agreement
+
+The rights and privileges of TRIVAGO hereunder shall inure to the benefit of its successors and assigns, and the Terms shall be binding on all heirs, assigns and successors of TRIVAGO. YOU shall only be entitled to transfer or assign this agreement and any of its claims or rights under or in connection with the Terms with the prior written consent of TRIVAGO.
+
+17.7. Severability
+
+Should any provision of the Terms or any provision which is incorporated in it at a later point in time be or become invalid or unenforceable, either wholly or in part, this shall not affect the validity of the remaining provisions of the Terms. The same shall apply if the Terms are found to have a gap concerning the matters to be provided for. To replace such invalid or unenforceable provision or to fill such gap, an adequate provision shall be incorporated which, to the extent this is legally feasible, will approximate as closely as possible what parties hereto had intended or would have intended with a view to the meaning and purpose of the Terms, if they had considered this particular question at the time of the conclusion of the business relationship or of the later incorporation of a provision.
+
+17.8. Contact
+
+YOU can contact TRIVAGO regarding all questions or concerns at [info.studio@trivago.com](mailto:info.studio@trivago.com).
 
 ### **Exhibit 1**
 
@@ -283,7 +299,7 @@ e. Clause 17 (Governing Law): the parties elect Option 1 and agree that the SCCs
 
 f. Clause 18 (Choice of Forum and Jurisdiction): the Parties agree that any dispute arising from the SCCs shall be resolved by the courts of Düsseldorf.
 
-g. Annex I of the Standard Contractual Clauses is available here.
+g. Annex I of the Standard Contractual Clauses is available [here.](https://trv.to/scc)
 
 ### 6\. Contacting trivago
 
