@@ -6,13 +6,13 @@ TERMS AND CONDITIONS
 
 ##### Last updated: June 10, 2022
 
-BEAT offers its services under the following Terms of use (hereafter collectively referred to as the “Agreement”) that constitute a legal agreement between you and Free Now Hellas Single Member Societe Anonyme (the “Company”). You should read them carefully and use the BEAT services only if you agree and consent to the agreement. By using the software, you agree to be legally bound by the agreement and the [privacy policy](https://thebeat.co/en/terms/?intl=1) set forth herein just as if had signed them.
+BEAT offers its services under the following Terms of use (hereafter collectively referred to as the “Agreement”) that constitute a legal agreement between you and Free Now Hellas Single Member Societe Anonyme (the “Company”). You should read them carefully and use the BEAT services only if you agree and consent to the agreement. By using the software, you agree to be legally bound by the agreement and the [privacy policy](https://thebeat.co/en/terms/?intl=1) set forth herein just as if had signed them.
 
 We are constantly looking for ways to improve and expand BEAT. We may amend these terms from time to time. The amended terms shall be effective upon posting. Any use after amendment constitutes acceptance of the new terms.
 
-These terms and conditions apply to all our services directly or indirectly (through distributors) made available online, through any mobile device, by email or by telephone. By accessing, browsing and using our website, our mobile application or any of our applications through whatever platform (hereafter collectively referred to as the “Software”) and/or by completing a booking, you acknowledge and agree to have read, understood and agreed to the terms and conditions set out below (including the [privacy policy](https://thebeat.co/en/privacy-policy/?intl=1)).
+These terms and conditions apply to all our services directly or indirectly (through distributors) made available online, through any mobile device, by email or by telephone. By accessing, browsing and using our website, our mobile application or any of our applications through whatever platform (hereafter collectively referred to as the “Software”) and/or by completing a booking, you acknowledge and agree to have read, understood and agreed to the terms and conditions set out below (including the [privacy policy](https://thebeat.co/en/privacy-policy/?intl=1)).
 
-If you do not agree to these terms and conditions including our [privacy policy](https://thebeat.co/en/privacy-policy/?intl=1) and you are not willing to be bound by them, do not install our application and/or promptly erase it and any part thereof, from your mobile phone or computer and do not use it in any manner whatsoever.
+If you do not agree to these terms and conditions including our [privacy policy](https://thebeat.co/en/privacy-policy/?intl=1) and you are not willing to be bound by them, do not install our application and/or promptly erase it and any part thereof, from your mobile phone or computer and do not use it in any manner whatsoever.
 
 The Software is owned, operated and provided by BEAT Mobility Services SINGLE MEMBER SOCIETE ANONYME and it is provided for your personal, non-commercial use only, subject to the terms and conditions set out below.
 
@@ -60,7 +60,7 @@ The driver is responsible to bear any taxes, fees or charge levied on the paymen
 
 ### **4\. Privacy**
 
-BEAT uses high ethical standards and respects your privacy. Save for disclosures required by law in any relevant jurisdiction, we will not disclose your personal information to third parties without your consent. However, we reserve the right to disclose your personal information to our affiliated (group) companies (in and outside the European Union), including our and our affiliated (group) companies’ employees and our trusted agents and representatives who have access to this information with our permission and who need to know or have access to this information to perform our service (including customer services and internal (audit/compliance) investigation) to and for the benefit of you. Please have a look at our [Privacy Policy](https://thebeat.co/en/terms/?intl=1) for further information.
+BEAT uses high ethical standards and respects your privacy. Save for disclosures required by law in any relevant jurisdiction, we will not disclose your personal information to third parties without your consent. However, we reserve the right to disclose your personal information to our affiliated (group) companies (in and outside the European Union), including our and our affiliated (group) companies’ employees and our trusted agents and representatives who have access to this information with our permission and who need to know or have access to this information to perform our service (including customer services and internal (audit/compliance) investigation) to and for the benefit of you. Please have a look at our [Privacy Policy](https://thebeat.co/en/terms/?intl=1) for further information.
 
 ### **5\. Registration and Use of our software**
 
@@ -94,7 +94,7 @@ to compensate and defend us fully against any claims or legal proceedings brough
 
 that the nickname or email (e.g xxx@yahoo.com) that you use to register on the Software shall not resemble BEAT’s company name. Also, nicknames deemed offensive may be deleted, as well as containing a URL or email address.
 
-that you shall not use BEAT service or software to cause nuisance, annoyance or inconvenience that by accessing and using the BEAT services via mobile devices, or by using certain mobile features, you may incur fees from the provider or carrier of the mobile services that you use (“Carrier”) and you are solely responsible for the payment of such fees; 
+that you shall not use BEAT service or software to cause nuisance, annoyance or inconvenience that by accessing and using the BEAT services via mobile devices, or by using certain mobile features, you may incur fees from the provider or carrier of the mobile services that you use (“Carrier”) and you are solely responsible for the payment of such fees; 
 
 that you shall update the status of your taxi (free or engaged) in the activated application at all times so that potential passengers participating in BEAT can always identify the current status of your taxi;
 
@@ -112,7 +112,7 @@ to provide and display in your vehicle advertising and promotional material plac
 
 You are solely responsible for maintaining the confidentiality of your password chosen by you at your registration at BEAT. BEAT is not responsible for any harm resulting from disclosure of your password from yourself to third parties or use of your password by a third party to access your account. In the event of any unauthorized use of your account, you must immediately notify BEAT at \[help@theBEAT.co\].
 
-The user may change at any time its registration information according to our [Privacy Policy](https://thebeat.co/en/privacy-policy/?intl=1).
+The user may change at any time its registration information according to our [Privacy Policy](https://thebeat.co/en/privacy-policy/?intl=1).
 
 If you accept the engagement and you want to cancel it for any reason, you must cancel by specific action on the software. Users acknowledge that BEAT is not liable for any delays, cancellations, failure to provide taxi services between the passenger and driver, nor for any delay or failure in the provision of taxi services, or BEAT services.
 
@@ -176,6 +176,6 @@ We will do our best to resolve any disputes over this agreement. If you wish to 
 
 The original English version of these terms and conditions may have been translated into other languages. The translated version is a courtesy and office translation only and you cannot derive any rights from the translated version. In the event of a dispute about the contents or interpretation of these terms and conditions or inconsistency or discrepancy between the English version and any other language version of these terms and conditions, the English language version to the extent permitted by law shall apply, prevail and be conclusive. The English version is available on our website (by selecting the English language) or shall be sent to you upon your written request.
 
-### **15\. Personal Data processing – Privacy Policy** 
+### **15\. Personal Data processing – Privacy Policy** 
 
-Your privacy is very important to us. For more information about how we collect and process your personal data please read our [Privacy Policy](https://thebeat.co/en/privacy-policy/?intl=1) which is a part of this Agreement.
+Your privacy is very important to us. For more information about how we collect and process your personal data please read our [Privacy Policy](https://thebeat.co/en/privacy-policy/?intl=1) which is a part of this Agreement.
