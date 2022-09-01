@@ -7,7 +7,7 @@ Click to view [main changes](https://developer.huawei.com/consumer/en/doc/agreem
 
 Click to download [HUAWEI Developers Service Agreement](https://terms-dra.platform.dbankcloud.com/agreementservice/developer/getAgreementTemplate?agrType=1000&country=ove&language=en_us&version=2022030203).
 
-Last modified: March 2, 2022
+Last modified: August 31, 2022
 
 The following terms and conditions (hereinafter referred to as this **"Agreement"**) constitute a valid, legally binding agreement made between you and Huawei (either of which may be referred to individually as a **"Party"** or collectively as **"Parties"**). This Agreement stipulates your legal rights and responsibilities as a Huawei Developer (as defined hereunder). By clicking the **"I Agree"** button (or any other similar button) below this Agreement, or by using any of the products and services provided by Huawei under this Agreement, you shall be deemed as having fully understood and accepted the terms contained herein. If you do not agree to the terms of this Agreement, you may not use products and services that Huawei provides to Huawei Developers.
 
