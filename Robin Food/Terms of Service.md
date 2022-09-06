@@ -13,10 +13,10 @@ This page (and any document referred to herein) sets forth the terms of use of o
 
 The purpose of this clause is to define the various essential terms of the contract:
 
-*   Comrade: this term refers to any person who uses the site and our Service .
-*   Contributions: elements with which you contribute to our Service
-*   Co-opted comrade: the comrade becomes a co-opted comrade when he identifies himself on the site.
-*   Identifier and password: this is all the information needed to identify a cooperating comrade on the site. The username and password allow a Co-op Member to access the services reserved for Co-op Members of the site. The password is confidential.
+* Comrade: this term refers to any person who uses the site and our Service .
+* Contributions: elements with which you contribute to our Service
+* Co-opted comrade: the comrade becomes a co-opted comrade when he identifies himself on the site.
+* Identifier and password: this is all the information needed to identify a cooperating comrade on the site. The username and password allow a Co-op Member to access the services reserved for Co-op Members of the site. The password is confidential.
 
 3\. Access to our site or services
 ----------------------------------
@@ -33,15 +33,15 @@ You may only use our Service for lawful purposes. You may not use our Site or Se
 
 These content standards apply to all materials that you contribute to our Service (the "Contributions"). You must comply with the spirit and letter of the following rules. The rules apply to each part of the Contributions and to the Contributions as a whole. Contributions must be accurate (when they state facts), truthful (when they state beliefs) and in compliance with the applicable laws in France and in the country from which they originate. Contributions must not..:
 
-*   contain elements that are defamatory of a person, obscene, insulting, hateful or inflammatory
-*   promoting sexually explicit scenes or promoting violence
-*   promote discrimination on the basis of race, sex, gender, religion, nationality, disability, sexual orientation or age
-*   promoting capitalism, the disabling of labor outside any collectively and democratically defined rules, patriarchy, colonialism, cultural and/or class reappropriation (whose intersectionality crystallizes in the Dab in wax suit), the use of the term "disruptive", any reference to Bernard Stiegler, the lucrative use of data, connected clocks and the Comic Sans MS source
-*   Infringe the copyright, database rights or trademarks of a third party;
-*   is likely to mislead a third party or breach a legal obligation to a third party, such as a contractual obligation or an obligation of discretion, or promote illegal activity;
-*   threaten, infringe or violate the privacy of a third party; cause annoyance, inconvenience or unnecessary anxiety; or be likely to harass, disturb, embarrass, alarm or inconvenience a third party;
-*   be used to impersonate another person or impersonate you or misrepresent your affiliation with a person or give the impression that you are from us, if not; or
-*   defend, promote or assist in an illegal act such as (but not limited to) copyright infringement.
+* contain elements that are defamatory of a person, obscene, insulting, hateful or inflammatory
+* promoting sexually explicit scenes or promoting violence
+* promote discrimination on the basis of race, sex, gender, religion, nationality, disability, sexual orientation or age
+* promoting capitalism, the disabling of labor outside any collectively and democratically defined rules, patriarchy, colonialism, cultural and/or class reappropriation (whose intersectionality crystallizes in the Dab in wax suit), the use of the term "disruptive", any reference to Bernard Stiegler, the lucrative use of data, connected clocks and the Comic Sans MS source
+* Infringe the copyright, database rights or trademarks of a third party;
+* is likely to mislead a third party or breach a legal obligation to a third party, such as a contractual obligation or an obligation of discretion, or promote illegal activity;
+* threaten, infringe or violate the privacy of a third party; cause annoyance, inconvenience or unnecessary anxiety; or be likely to harass, disturb, embarrass, alarm or inconvenience a third party;
+* be used to impersonate another person or impersonate you or misrepresent your affiliation with a person or give the impression that you are from us, if not; or
+* defend, promote or assist in an illegal act such as (but not limited to) copyright infringement.
 
 6\. Suspension and termination
 ------------------------------
