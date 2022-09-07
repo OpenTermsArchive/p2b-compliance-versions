@@ -1,0 +1,34 @@
+This article applies to selling in: **United Kingdom**
+
+How products are given visibility in the Amazon store
+=====================================================
+
+Customers find, discover, and shop for products in the Amazon store in multiple ways. They can enter a specific query into the search box. They can browse selection by product department. They can discover products grouped by common attributes or through ads. Many customers also come to the Amazon store from other stores, advertising in other locations, and via general search.
+
+To help increase your products’ visibility in the store, you should price your products competitively, keep stock available for fast shipment, and provide complete, relevant, accurate, and up-to-date information about your products. Tips to improve your product listings can be found [here](https://sellercentral.amazon.co.uk/gp/help/external/G10471?locale=en-GB).
+
+**Featured Offer**
+
+The product detail page provides customers with easy access to information about a product and facilitates comparison of available offers. The Featured Offer attempts to predict the offer customers would choose if they compared all offers in detail and presents that offer on the product detail page. Amazon identifies a Featured Offer by considering factors including price, delivery speed, Prime eligibility, and seller performance. As a result, there may be more than one Featured Offer for a product, or none. The product detail page provides a simple starting point for customers to browse all available offers, and the vast majority of customers who compare these offers ultimately select a Featured Offer. See [here](https://sellercentral.amazon.co.uk/gp/help/external/G37911?locale=en-GB) for more information on the Featured Offer.
+
+You need to meet certain criteria to be eligible for the Featured Offer, which are explained [here](https://sellercentral.amazon.co.uk/gp/help/external/G200418100?locale=en-GB). To guard against abuse or otherwise to preserve the customer experience, we may remove a seller’s eligibility for the Featured Offer or not display a Featured Offer at all.
+
+**Featured results**
+
+Amazon store search results are sorted by “Featured” by default. We consider a variety of factors when choosing Featured results. Customer actions (such as how frequently an item was purchased) and information about the item (such as title, price, and description) are the main factors because they provide the best indicators of what we think customers will want to purchase. For other factors we may consider when choosing Featured results, see [here](https://www.amazon.co.uk/gp/help/customer/display.html/ref=help_search_1-1?ie=UTF8&nodeId=201889520&qid=1587397208&sr=1-1).
+
+**Highlighted products**
+
+_Badges_
+
+Badges highlight certain product information to help customers find items they might like. We consider a variety of factors when choosing the products eligible for badges. For the “Best Seller” badge, the most important factor is the number of recent and historical sales of an item sold on Amazon. Others consider a combination of factors, like “Amazon’s Choice”, which indicates highly rated and well-priced products, which are available to ship immediately. We also use badges such as “Lightning Deal” and “Deal of the Day” to help customers find promotions in which a limited number of discounts are offered on an item for a short period of time, or which are only offered during a special event, like “Black Friday”. Badges can also indicate participation in a program, such as “Prime” or provide information about an action a customer has taken on an item, such as whether the customer has already added the item to their shopping basket.
+
+_Other product highlights_
+
+We try to show customers products we think they will want to purchase, based on a customer’s search, browsing or purchase history or other offers on the page. For example, we may present the product the customer is currently viewing or most recently placed in their shopping basket together with relevant complementary products (for instance, a printer and ink cartridge). We may show customers what products other Amazon customers viewed (or bought) after viewing (or buying) the product the customer is looking at. Similarly, we may feature a product which a customer viewed but did not purchase and display related products that other Amazon customers viewed.
+
+Some badges and product highlights feature all offers, while others specifically feature Amazon’s own offers only. For example, we may recommend Amazon's private and select exclusive branded products, and label this merchandising as “our brands” or similar. When Amazon’s own brands compete with other brands for the Amazon’s Choice badge, they must meet the same criteria as other products to obtain the badge, and they may receive the badge if they are among the top eligible products.
+
+**Sponsored Brands and Sponsored Products**
+
+Customers can find and discover offers through the ads you buy, and we label those clearly as ads. For example, customers frequently engage with Sponsored Brands and Sponsored Products, which feature offers available to buy in the Amazon store. These ads appear at the top of, alongside, or within shopping results and on product detail pages. When choosing Sponsored Brands and Sponsored Products, Amazon primarily considers the keywords you bid on, how much you bid, and customers’ expected interest in your offers, based on information about your offer, similarities between your and other offers, and past customer purchases. Some offers are ineligible for display as Sponsored Brands or Sponsored Products, and you must also meet eligibility criteria to buy these ads. For more on eligibility, see [here](https://sellercentral.amazon.co.uk/gp/help/external/GS529693F2TCM93T?locale=en-GB).
