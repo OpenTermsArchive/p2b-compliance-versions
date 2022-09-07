@@ -239,11 +239,11 @@ Beim Handel über das Internet bestehen Risiken, die in der Natur des Mediums li
   
 (5) Nutzern ist es verboten, die Gebührenstruktur von Hood zu umgehen. Hierbei handelt es sich insbesondere um:
 
-*   Präsentationen, in denen die Erwerber angewiesen werden, nicht zu kaufen, sondern sich mit dem Präsentierenden in Verbindung zu setzen, um den Kauf außerhalb von Hood abzuwickeln,
-*   Angebotspraktiken, die einen Verkauf außerhalb von Hood zum Ziel haben,
-*   Präsentationen, die in die falsche Kategorie eingestellt werden, um eventuell bestehende feste Gebühren der korrekten Kategorie zu umgehen,
-*   Präsentationen über ein privates Mitgliedskonto, das aber offensichtlich eine gewerbliche Verkaufstätigkeit verschleiern soll,
-*   Präsentationen, in denen in der Artikelbeschreibung noch weitere Artikel - identische Artikel oder Variationen des angebotenen Artikels - zum Verkauf angeboten werden.
+* Präsentationen, in denen die Erwerber angewiesen werden, nicht zu kaufen, sondern sich mit dem Präsentierenden in Verbindung zu setzen, um den Kauf außerhalb von Hood abzuwickeln,
+* Angebotspraktiken, die einen Verkauf außerhalb von Hood zum Ziel haben,
+* Präsentationen, die in die falsche Kategorie eingestellt werden, um eventuell bestehende feste Gebühren der korrekten Kategorie zu umgehen,
+* Präsentationen über ein privates Mitgliedskonto, das aber offensichtlich eine gewerbliche Verkaufstätigkeit verschleiern soll,
+* Präsentationen, in denen in der Artikelbeschreibung noch weitere Artikel - identische Artikel oder Variationen des angebotenen Artikels - zum Verkauf angeboten werden.
 
 (6) Hood kann die Gebühren jederzeit ändern. Preisänderungen werden den Mitgliedern rechtzeitig vor dem Inkrafttreten im Mitgliederbereich auf der Hood-Website unter „Neuerungen und Änderungen“ mitgeteilt sowie in den Gebührenübersichten angekündigt. Die Mitteilung wird mindestens 1 Woche vor der Änderung erfolgen und 2 weitere Wochen nach Inkrafttreten der Änderung geschaltet bleiben.
 
@@ -286,7 +286,7 @@ b) in Ausnahmefällen seine allgemeinen Geschäftsbedingungen zur Abwehr einer u
 
 (5) Insofern eine Bestimmung dieser Nutzungsbedingungen unwirksam ist, bleiben die übrigen Bestimmungen davon unberührt. Die unwirksame Bestimmung gilt als durch eine solche ersetzt, die dem Sinn und Zweck der unwirksamen Bestimmung in rechtswirksamer Weise wirtschaftlich am nächsten kommt. Gleiches gilt für eventuelle Regelungslücken.
 
-**Die Nutzungsbedingungen für Zahlungsabwicklung und Käuferschutz auf Hood.de, die für Sie nur gelten, wenn Sie die Zahlungsabwicklung als Käufer oder Verkäufer nutzen, finden Sie [hier](https://www.hood.de/nutzungsbedingungen-zahlungsabwicklung.htm).** 
+**Die Nutzungsbedingungen für Zahlungsabwicklung und Käuferschutz auf Hood.de, die für Sie nur gelten, wenn Sie die Zahlungsabwicklung als Käufer oder Verkäufer nutzen, finden Sie [hier](https://www.hood.de/nutzungsbedingungen-zahlungsabwicklung.htm).** 
 
 **Hinweis zur Alternativen Streitbeilegung gemäß Art. 14 Abs. 1 ODR-VO und § 36 VSBG:**  
 Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit, die Sie unter [https://ec.europa.eu/consumers/odr/](https://ec.europa.eu/consumers/odr/) finden. Wir sind jedoch weder bereit noch verpflichtet an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
