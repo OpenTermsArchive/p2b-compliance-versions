@@ -135,7 +135,7 @@ Service communications
 
 In connection with your use of the Fresha Services, Fresha may send you electronic service messages. These electronic messages may be sent for various reasons, including for security purposes (e.g. verifying that your smartphone is connected to the phone number you entered upon registration) and issues related to an Appointment/Order you placed (e.g. if the Partner updates an Appointment, or is out of stock of an item you ordered, you may be notified by text message).
 
-You agree to receive automated text messages from Fresha and its Partners at the phone number you provided when registering for the service. You further agree that these messages may include promotional content as well as information about your account and Appointment/Order. Your agreement to receive promotional texts is not a condition of using the service.
+By using the Fresha Services you agree to receive automated text messages from Fresha and its Partners at the phone number you provided when registering for the service. You further agree that these messages may include promotional content as well as information about your account and Appointment/Order. Your agreement to receive such automated messages is not a condition of using the service You may choose to not receive some or all automated messages within your personal profile settings.
 
 For information on how we use your personal information, and about promotional and marketing messages, please refer to our [Privacy Policy](https://terms.fresha.com/privacy-policy?hsLang=en).
 
