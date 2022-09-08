@@ -22,10 +22,10 @@ Notwithstanding the above mentioned in clause 1.2, Joom has no control over the
 
 Joom reserves the right to refuse Merchant’s application in the following cases:
 
-*   Absence of registration documents requested by Joom. To be admitted to the Site the Merchant shall be a legal entity or an entrepreneur properly registered in one of the European Union countries or in the United Kingdom as such legal entity or entrepreneur and shall be properly registered for VAT purposes in the country of its principal place of business and/or, where applicable and required, in the country of destination (i.e. the country of customer’s residence).
-*   Merchant’s product listing contains products either generally prohibited on Joom or prohibited and/or restricted for sale through the Site in the country of destination (i.e. the country from which the product can be ordered by the user) and/or in the Merchant’s country. Please also refer to paragraph 3.
-*   Merchant has low ratings on other marketplaces (e-commerce platforms) or is not present on them at all.
-*   There are bad references from trusted sources.
+* Absence of registration documents requested by Joom. To be admitted to the Site the Merchant shall be a legal entity or an entrepreneur properly registered in one of the European Union countries or in the United Kingdom as such legal entity or entrepreneur and shall be properly registered for VAT purposes in the country of its principal place of business and/or, where applicable and required, in the country of destination (i.e. the country of customer’s residence).
+* Merchant’s product listing contains products either generally prohibited on Joom or prohibited and/or restricted for sale through the Site in the country of destination (i.e. the country from which the product can be ordered by the user) and/or in the Merchant’s country. Please also refer to paragraph 3.
+* Merchant has low ratings on other marketplaces (e-commerce platforms) or is not present on them at all.
+* There are bad references from trusted sources.
 
 2\. Merchant’s Eligibility and Obligations
 ------------------------------------------
@@ -53,37 +53,37 @@ Joom reserves the right to refuse Merchant’s application in the following c
 
 When you upload documents such as declarations of conformity, any mandatory or self-declaratory documents and certificates to the products you sell on the Site, you confirm and warrant:
 
-*   That such documents are valid, up to date, and relate to those products to which you upload them as supporting ones.
-*   If the documents are issued for a company or a person another than you, such documents are issued in the name of a manufacturer, distributor, or another establishment that has the obligation under the applicable legislation to obtain such documents and that such manufacturer, distributor, or other establishment obtained the documents in full legal compliance with the applicable procedures and legislation. In such a case you also confirm and warrant that you have the right to use and provide Joom with such documents and it will satisfy all requirements of any applicable legislation. If in accordance with the applicable legislation any such documents shall be issued in your name, you undertake to obtain or issue such documents and provide Joom with them prior to selling the products on the Site.
+* That such documents are valid, up to date, and relate to those products to which you upload them as supporting ones.
+* If the documents are issued for a company or a person another than you, such documents are issued in the name of a manufacturer, distributor, or another establishment that has the obligation under the applicable legislation to obtain such documents and that such manufacturer, distributor, or other establishment obtained the documents in full legal compliance with the applicable procedures and legislation. In such a case you also confirm and warrant that you have the right to use and provide Joom with such documents and it will satisfy all requirements of any applicable legislation. If in accordance with the applicable legislation any such documents shall be issued in your name, you undertake to obtain or issue such documents and provide Joom with them prior to selling the products on the Site.
 
 3.2. There are some types of Items that we don’t allow on the Site, even if they are legal and otherwise meet Joom’s selling criteria. The following types of Items may not be listed on Joom:
 
-*   Certain animal and plant species (such as exotic animals).
-*   Counterfeits.
-*   Goods coming from outside the EEA that have not been introduced in the EEA with the owner of the IP right or with its consent.
-*   Cultural heritage.
-*   Drugs and illegal substances.
-*   Firearms, explosives and ammunition.
-*   Human cells, genes, organs and body parts.
-*   All medicines (or other medical products and devices).
-*   Orthopedic products and prosthesis.
-*   Products that incite violence, fostered racial, ethnic or religious hatred, or advocated discrimination against any group.
-*   Radioactive material, flammable material, combustible, corrosive and explosive materials.
-*   Stamps in current use.
-*   Tobacco in general (including electronic cigarettes and hand rolling).
-*   Alcohol and drinks.
-*   Products without certificates or licenses which are mandatory for such types of products according to the regulations of the EU and/or the UK, applicable legislation of the country of origin and/or country of destination.
-*   Goods that do not comply with general or specific advertising or labelling rules applicable in the EU and/or the UK, the country of origin and the country of destination.
+* Certain animal and plant species (such as exotic animals).
+* Counterfeits.
+* Goods coming from outside the EEA that have not been introduced in the EEA with the owner of the IP right or with its consent.
+* Cultural heritage.
+* Drugs and illegal substances.
+* Firearms, explosives and ammunition.
+* Human cells, genes, organs and body parts.
+* All medicines (or other medical products and devices).
+* Orthopedic products and prosthesis.
+* Products that incite violence, fostered racial, ethnic or religious hatred, or advocated discrimination against any group.
+* Radioactive material, flammable material, combustible, corrosive and explosive materials.
+* Stamps in current use.
+* Tobacco in general (including electronic cigarettes and hand rolling).
+* Alcohol and drinks.
+* Products without certificates or licenses which are mandatory for such types of products according to the regulations of the EU and/or the UK, applicable legislation of the country of origin and/or country of destination.
+* Goods that do not comply with general or specific advertising or labelling rules applicable in the EU and/or the UK, the country of origin and the country of destination.
 
 3.3. Products listed in paragraph 3.2 will be removed from the Site, and the Merchant’s selling privileges may be suspended and/or terminated.
 
 3.4. In case of sale of non-perishable food products and food supplements (if permitted by the regulations of the EU and/or the UK, the applicable legislation of the country of origin and the country of destination), you guarantee and warrant that:
 
-*   Such products comply with the applicable legislation relating to food products (including, but not limited to any applicable customs regulations/restriction).
-*   Such products have labels with all mandatory information required by the country of origin and/or the country of destination (including, but not limited to EU Regulation No. 1169/2011 of 25 October 2011 on the provision of food information to consumers, local regulations of the country of origin and the country of destination regarding labelling and provision of the information on the local language).
-*   Information provided on the products is full and not misleading. Such information includes, inter alia, characteristics of the food and, in particular, as to its nature, identity, properties, composition, quantity, durability, country of origin or place of provenance, method of manufacture or production. Such information shall not attribute to the food effects or properties which it does not possess.
-*   Food supplements do not fall into the categories of medicines and do not require obtaining mandatory certificates (or, if food supplements require such certificates and can be sold online according to the applicable legislation, you guarantee and warrant that all necessary certificates are obtained).
-*   Food supplements marked as such products and that description and labeling of such products do not attribute to food supplements the property of preventing, treating or curing a human disease, or do not refer to such properties.
+* Such products comply with the applicable legislation relating to food products (including, but not limited to any applicable customs regulations/restriction).
+* Such products have labels with all mandatory information required by the country of origin and/or the country of destination (including, but not limited to EU Regulation No. 1169/2011 of 25 October 2011 on the provision of food information to consumers, local regulations of the country of origin and the country of destination regarding labelling and provision of the information on the local language).
+* Information provided on the products is full and not misleading. Such information includes, inter alia, characteristics of the food and, in particular, as to its nature, identity, properties, composition, quantity, durability, country of origin or place of provenance, method of manufacture or production. Such information shall not attribute to the food effects or properties which it does not possess.
+* Food supplements do not fall into the categories of medicines and do not require obtaining mandatory certificates (or, if food supplements require such certificates and can be sold online according to the applicable legislation, you guarantee and warrant that all necessary certificates are obtained).
+* Food supplements marked as such products and that description and labeling of such products do not attribute to food supplements the property of preventing, treating or curing a human disease, or do not refer to such properties.
 
 You hereby also guarantee and confirm that you are duly authorized to sell such products under any applicable legislation and agree that you remain entirely and exclusively liable for the sale of such products.
 
@@ -101,14 +101,14 @@ You hereby also guarantee and confirm that you are duly authorized to sell such 
 
 In order to comply with these and other legal requirements, it is Joom general policy that Items imported from or originating in the following countries and regions may not be sold on Joom:
 
-*   Cuba
-*   Iran
-*   North Korea
-*   Syria
-*   Sudan
-*   Crimea Region
-*   Luhansk Region
-*   Donetsk Region
+* Cuba
+* Iran
+* North Korea
+* Syria
+* Sudan
+* Crimea Region
+* Luhansk Region
+* Donetsk Region
 
 No shipments or sales to parties in any of these countries may be conducted through Joom.
 
@@ -195,11 +195,11 @@ Ranking of products is based not only on the popularity of the product as compar
 
 To understand better what parameters can affect your products’ ranking, please find below examples of parameters used by the ranking algorithm to determine which products correspond to a search result most:
 
-*   Wording of the query: products containing the words corresponding to the search query will be prioritized and will appear among the search query results more frequently.
-*   Product’s category: products from the category with the name corresponding to the query wording most will be prioritized among the search results.
-*   Product’s name, description and tags: products with names, words in descriptions and tags assigned by merchants corresponding to the query wording most will be prioritized.
-*   Merchant’s store name and the brand name: the degree of matching the search query wording with the names of the store and the brand, and the popularity of the store and the brand affect the search query results.
-*   Quality (such as relevance and clarity) of the information on the product provided by the Merchant and its level of detail.
+* Wording of the query: products containing the words corresponding to the search query will be prioritized and will appear among the search query results more frequently.
+* Product’s category: products from the category with the name corresponding to the query wording most will be prioritized among the search results.
+* Product’s name, description and tags: products with names, words in descriptions and tags assigned by merchants corresponding to the query wording most will be prioritized.
+* Merchant’s store name and the brand name: the degree of matching the search query wording with the names of the store and the brand, and the popularity of the store and the brand affect the search query results.
+* Quality (such as relevance and clarity) of the information on the product provided by the Merchant and its level of detail.
 
 The accurate and complete product description, the clear and full name of the product, product’s photos of high quality among other factors may lead to the increase in the product’s card views by the users and, therefore, may affect the frequency of the product’s appearance among the search query results. In particular, all the above-mentioned factors may affect the frequency of the product’s card access by the users, while the frequency of such access and the number of times users add a particular product to saved items or a product card in their turn increase the frequency of appearance of such item in the relevant searching results.
 
@@ -209,15 +209,15 @@ Products promoted via Joom Ads (as defined below) may constitute approximately u
 
 The first and main set of rules used by the algorithm to choose products to be shown to a user in such section can be described by three main groups of products that will be chosen by the algorithm:
 
-*   Products to be chosen to the section shall have reviews from the users. This part will also include the products from stores that have Top Store status (please refer to the relevant section of the Merchant Help Center to familiarize yourself with the Top Store functionality and criteria). The proportion between products with reviews and products from Top Stores will depend on a user’s region (for example, not every merchant having Top Store status can deliver products to a particular user’s country), user's history on the Site, etc.
-*   Products promoted via Joom Ads will consist approximately up to 30 per cent of all number of products visible in the section.
-*   Randomly chosen products will also be included in the section. The randomness of such selection means that the algorithm will freely choose the products to be shown among all the products that are available to a particular user, even if such products do not have views, reviews, etc.
+* Products to be chosen to the section shall have reviews from the users. This part will also include the products from stores that have Top Store status (please refer to the relevant section of the Merchant Help Center to familiarize yourself with the Top Store functionality and criteria). The proportion between products with reviews and products from Top Stores will depend on a user’s region (for example, not every merchant having Top Store status can deliver products to a particular user’s country), user's history on the Site, etc.
+* Products promoted via Joom Ads will consist approximately up to 30 per cent of all number of products visible in the section.
+* Randomly chosen products will also be included in the section. The randomness of such selection means that the algorithm will freely choose the products to be shown among all the products that are available to a particular user, even if such products do not have views, reviews, etc.
 
 As soon as the set of products is composed using the above criteria, the following criteria are used by the algorithm to adapt the section to a particular user:
 
-*   Whether a particular product can be delivered to the user’s country.
-*   Merchant’s performance in a user’s country (rate of cancellations of orders, rate (number) of returns, etc).
-*   User’s preferences (i.e. previous interactions of a user with products, products categories, etc.).
+* Whether a particular product can be delivered to the user’s country.
+* Merchant’s performance in a user’s country (rate of cancellations of orders, rate (number) of returns, etc).
+* User’s preferences (i.e. previous interactions of a user with products, products categories, etc.).
 
 Please note that the algorithm is created and set in such a manner that will be intended on showing products that are the most relevant to a particular user.
 
@@ -261,16 +261,16 @@ The technical and contractual access to any of the information referred above, a
 
 Your Content and your use of the Site:
 
-*   Must not be false, inaccurate or misleading.
-*   Must not be fraudulent or involve the sale of illegal, counterfeit or stolen Items.
-*   Must not infringe any third-party’s copyright, patent, trademark, trade secret or other proprietary or intellectual property rights or rights of publicity or privacy.
-*   Must not breach this Agreement, any Site policy or community guidelines, or any applicable law or regulation (including, but not limited to, those governing export control, consumer protection, unfair competition, anti-discrimination or false advertising).
-*   Must not breach the rules set out in the Prohibited Activities and Basic Platform Rules sections of the Merchant Help Center.
-*   Must not contain Items that have been identified as hazardous to consumers.
-*   Must not be defamatory, libelous, unlawfully threatening, unlawfully harassing, impersonate or intimidate any person (including Joom staff or other users), or falsely state or otherwise misrepresent your affiliation with any person, through for example, the use of similar email address, nicknames, or creation of false account(s) or any other method or device.
-*   Must not modify, adapt or hack Joom or modify another website so as to falsely imply that it is associated with Joom.
-*   Must not solicit business for, direct sales to, or promote any website, service, or entity outside Joom.
-*   Must not violate this Agreement, any rules and/or policies of the Site or any applicable law, statute, ordinance or regulation (including, but not limited to, those governing export control, consumer protection, unfair competition, anti-discrimination or false advertising).
+* Must not be false, inaccurate or misleading.
+* Must not be fraudulent or involve the sale of illegal, counterfeit or stolen Items.
+* Must not infringe any third-party’s copyright, patent, trademark, trade secret or other proprietary or intellectual property rights or rights of publicity or privacy.
+* Must not breach this Agreement, any Site policy or community guidelines, or any applicable law or regulation (including, but not limited to, those governing export control, consumer protection, unfair competition, anti-discrimination or false advertising).
+* Must not breach the rules set out in the Prohibited Activities and Basic Platform Rules sections of the Merchant Help Center.
+* Must not contain Items that have been identified as hazardous to consumers.
+* Must not be defamatory, libelous, unlawfully threatening, unlawfully harassing, impersonate or intimidate any person (including Joom staff or other users), or falsely state or otherwise misrepresent your affiliation with any person, through for example, the use of similar email address, nicknames, or creation of false account(s) or any other method or device.
+* Must not modify, adapt or hack Joom or modify another website so as to falsely imply that it is associated with Joom.
+* Must not solicit business for, direct sales to, or promote any website, service, or entity outside Joom.
+* Must not violate this Agreement, any rules and/or policies of the Site or any applicable law, statute, ordinance or regulation (including, but not limited to, those governing export control, consumer protection, unfair competition, anti-discrimination or false advertising).
 
 10.3. Furthermore, you must not list any item on the Site (or conclude any transaction that was initiated using Joom’s service) that, by paying to Joom a commission fee, could cause Joom to violate any applicable law, statute, ordinance or regulation, or that violates the applicable Terms of Use. Joom has the right to freeze the account temporarily or permanently. Joom reserves the right to refund the loss with your frozen capital.
 
@@ -304,9 +304,9 @@ Joom may decide to implement a policy that allows Joom to withhold payment or
 
 The Merchant has the right to file any complaint or notify Joom on any issue it might need to resolve in connection with its use of the Site, in particular, related to the following issues:
 
-*   Alleged non-compliance by Joom with any obligations laid down in these Terms or any other applicable rules or regulations which affects or affected Merchant.
-*   Technological issues which relate directly to the provision of the services to the Merchant by Joom or Merchant’s access to the Site.
-*   Measures taken by, or behavior of, Joom which relate directly to the provision of services under these Terms.
+* Alleged non-compliance by Joom with any obligations laid down in these Terms or any other applicable rules or regulations which affects or affected Merchant.
+* Technological issues which relate directly to the provision of the services to the Merchant by Joom or Merchant’s access to the Site.
+* Measures taken by, or behavior of, Joom which relate directly to the provision of services under these Terms.
 
 Any claim or request filed with the standard complaint-handling procedure will be reviewed by the Joom’s merchant support team based on these Terms and any other terms, conditions and policies applicable to the Merchant. In case the merchant support team needs further information to consider the request, the Merchant will receive a request for clarification or provision of any such additional information, while the time to process the claim may be extended. The average time for response to the Merchant’s request is shown in the merchant support chat. In case of contacting the merchant support team via merchant@joom.com, the time required for the response to be provided depends on the matter of complaint, however, issues related to the operations on the platform and technical features are usually provided within 1 business day. However, the shown approximate time for response depends on the complexity of the issue in question and cooperation of the Merchant and may be extended.
 
@@ -318,10 +318,10 @@ A reply to the Merchant’s request generally provided via the same channel
 
 12.2.2. Each party has the right to submit a dispute to the mediation organizations specified below if the issue or claim has not been resolved with Joom amicably via the standard complaint-handling procedure:
 
-*   The Latvian Chamber of Commerce and Industry (LCCI) ([https://www.chamber.lv/en/node/220](https://www.chamber.lv/en/node/220)), or
-*   e-POM ([https://e-pom.eu](https://e-pom.eu/)), or
-*   ADR Group ([http://www.adrgroup.co.uk/DisputeResolution/civil-and-commercial-mediation](http://www.adrgroup.co.uk/DisputeResolution/civil-and-commercial-mediation)), or
-*   RetailADR ([https://www.retailadr.org.uk/](https://www.retailadr.org.uk/)).
+* The Latvian Chamber of Commerce and Industry (LCCI) ([https://www.chamber.lv/en/node/220](https://www.chamber.lv/en/node/220)), or
+* e-POM ([https://e-pom.eu](https://e-pom.eu/)), or
+* ADR Group ([http://www.adrgroup.co.uk/DisputeResolution/civil-and-commercial-mediation](http://www.adrgroup.co.uk/DisputeResolution/civil-and-commercial-mediation)), or
+* RetailADR ([https://www.retailadr.org.uk/](https://www.retailadr.org.uk/)).
 
 In case the mediation terms are no more available via the above links, please contact Joom or the organization providing the mediation services directly.
 
@@ -359,10 +359,10 @@ Any dispute arising from or in connection with the subject matter of this Agre
 
 14.1. Without limitation to any other remedies, Joom may unilaterally decide to immediately remove Content, warn Joom’s community of a Merchant’s actions, issue a warning to a Merchant, temporarily suspend the Merchant’s account, temporarily or indefinitely suspend Merchant, Merchant’s account privileges, terminate a Merchant’s account, prohibit access to the Site and/or take technical and legal measures to keep a Merchant off the Site and refuse to provide services to a Merchant if any of the following applies:
 
-*   Investigation of Merchant’s actions on the Site.
-*   Breach by the Merchant of this Agreement, the Privacy Policy or other policies, rules and community guidelines incorporated herein.
-*   Joom is unable to verify or authenticate any of Merchant’s personal information or Content.
-*   Joom believes that a Merchant is acting inconsistently with the letter or spirit of Joom’s policies, has engaged in improper or fraudulent activity in connection with Joom or Merchant’s actions may cause legal liability or financial loss to Joom’s Merchants or to Joom.
+* Investigation of Merchant’s actions on the Site.
+* Breach by the Merchant of this Agreement, the Privacy Policy or other policies, rules and community guidelines incorporated herein.
+* Joom is unable to verify or authenticate any of Merchant’s personal information or Content.
+* Joom believes that a Merchant is acting inconsistently with the letter or spirit of Joom’s policies, has engaged in improper or fraudulent activity in connection with Joom or Merchant’s actions may cause legal liability or financial loss to Joom’s Merchants or to Joom.
 
 14.2. In case of any suspension or restriction of the services by Joom, the Merchant will be notified accordingly.
 
@@ -388,9 +388,9 @@ Any dispute arising from or in connection with the subject matter of this Agre
 
 18.1. You agree to indemnify and hold Joom and (as applicable) Joom’s parent, subsidiaries, affiliates, officers, directors, agents, and employees, harmless from any claim or demand, including reasonable attorneys’ fees, made by any third party due to or arising out of:
 
-*   Your breach of this Agreement or the documents incorporated by reference, or your violation of any law or the rights of a third party.
-*   Your breach of agreements with PSP.
-*   Revocation of authorizations given to Joom under this Agreement or agreements with PSP.
+* Your breach of this Agreement or the documents incorporated by reference, or your violation of any law or the rights of a third party.
+* Your breach of agreements with PSP.
+* Revocation of authorizations given to Joom under this Agreement or agreements with PSP.
 
 19\. No Guarantee
 -----------------
@@ -410,14 +410,14 @@ In addition, you shall be responsible for paying taxes applicable to the sale
 
 To ensure the correct application of the new VAT rules, the Merchant agrees to be bound by the following obligations:
 
-*   Merchant shall provide Joom with full and valid information that may be required or requested by Joom in order to comply with the VAT rules (i.e. full, valid and up-to-date information on the location of goods at the point of sale, information on the ownership over the items stored in the territory of the EU at the point of sale or in the territory of such other country VAT rules of which may apply, etc.).
-*   Merchant shall ensure its compliance with the invoicing requirements of the country of its tax residence and the country of destination (i.e. user’s country) with regard to the sales for which the Merchant is obliged to account for VAT and shall ensure it does not issue invoices for sales for which it is Joom’s obligation to account for VAT.
-*   Merchant shall ensure that the value of items in one package (merchant’s parcel) does not equal or exceed EUR 150 (for the EU countries) and GBP 135 (for the UK). Other limits (if any) that may be provided by the applicable legislation of other countries shall also be strictly observed.
-*   In case the Merchant becomes aware of the Joom’s VAT identification number (“VAT number”), the Merchant shall ensure that it uses the VAT number only for the items (parcels with items) sold via the Site and only in cases when Joom is obliged to account for VAT. Merchant shall also take all reasonable actions and introduce all necessary measures in order to ensure confidentiality of the VAT number. If Merchant transmits the VAT number to any third parties, including its affiliated parties or logistics providers, Merchant shall ensure that there is an agreement between the Merchant and such affiliated or third party (parties) on confidentiality, non-disclosure and correct use of the VAT number.
-*   In case the Merchant disclose the VAT number, whether intentionally or not, it shall notify Joom immediately and take all possible actions in order to cease unauthorized use of the VAT number.
-*   In case of any investigation of unauthorized use of the VAT number, the Merchant shall actively and timely cooperate with Joom in order to investigate such unauthorized use and any other related circumstances. In particular, the Merchant agrees to provide Joom with any documents and information that may be related to the use and transmission of the VAT number.
-*   In case the Merchant uses any of the VAT numbers in breach of this Agreement, allows to use or does not take reasonable and necessary measures in order to preclude the use of any of the VAT numbers by any unauthorized person/third party, the Merchant shall compensate Joom or any its affiliated party upon Joom’s request with any losses incurred by Joom as the result of such unauthorized use (including, but not limited to, the amount of overpayment of VAT that resulted from the unauthorized use of any of the VAT numbers) as well as reasonable associated documented legal fees. Any such losses and expenses shall be paid to Joom not later than within 30 calendar days from the moment of receipt of Joom’s request.
-*   Merchant shall comply with any other rules specified in the Merchant Help Center related to the compliance of Joom and the Merchant with the EU, UK or other countries’ VAT rules.
+* Merchant shall provide Joom with full and valid information that may be required or requested by Joom in order to comply with the VAT rules (i.e. full, valid and up-to-date information on the location of goods at the point of sale, information on the ownership over the items stored in the territory of the EU at the point of sale or in the territory of such other country VAT rules of which may apply, etc.).
+* Merchant shall ensure its compliance with the invoicing requirements of the country of its tax residence and the country of destination (i.e. user’s country) with regard to the sales for which the Merchant is obliged to account for VAT and shall ensure it does not issue invoices for sales for which it is Joom’s obligation to account for VAT.
+* Merchant shall ensure that the value of items in one package (merchant’s parcel) does not equal or exceed EUR 150 (for the EU countries) and GBP 135 (for the UK). Other limits (if any) that may be provided by the applicable legislation of other countries shall also be strictly observed.
+* In case the Merchant becomes aware of the Joom’s VAT identification number (“VAT number”), the Merchant shall ensure that it uses the VAT number only for the items (parcels with items) sold via the Site and only in cases when Joom is obliged to account for VAT. Merchant shall also take all reasonable actions and introduce all necessary measures in order to ensure confidentiality of the VAT number. If Merchant transmits the VAT number to any third parties, including its affiliated parties or logistics providers, Merchant shall ensure that there is an agreement between the Merchant and such affiliated or third party (parties) on confidentiality, non-disclosure and correct use of the VAT number.
+* In case the Merchant disclose the VAT number, whether intentionally or not, it shall notify Joom immediately and take all possible actions in order to cease unauthorized use of the VAT number.
+* In case of any investigation of unauthorized use of the VAT number, the Merchant shall actively and timely cooperate with Joom in order to investigate such unauthorized use and any other related circumstances. In particular, the Merchant agrees to provide Joom with any documents and information that may be related to the use and transmission of the VAT number.
+* In case the Merchant uses any of the VAT numbers in breach of this Agreement, allows to use or does not take reasonable and necessary measures in order to preclude the use of any of the VAT numbers by any unauthorized person/third party, the Merchant shall compensate Joom or any its affiliated party upon Joom’s request with any losses incurred by Joom as the result of such unauthorized use (including, but not limited to, the amount of overpayment of VAT that resulted from the unauthorized use of any of the VAT numbers) as well as reasonable associated documented legal fees. Any such losses and expenses shall be paid to Joom not later than within 30 calendar days from the moment of receipt of Joom’s request.
+* Merchant shall comply with any other rules specified in the Merchant Help Center related to the compliance of Joom and the Merchant with the EU, UK or other countries’ VAT rules.
 
 Joom cannot be held liable for any actions or omissions of the Merchant resulted in non-compliance with any applicable VAT legislation, including the EU, UK and other countries’ VAT rules.
 
@@ -444,9 +444,9 @@ If the Merchant does not agree to any alteration or amendment of the terms,
 
 23.2. The above-mentioned 15-days period does not apply in the following cases:
 
-*   It is waived in an unambiguous manner by the Merchant concerned.
-*   The need to implement the change without respecting the notice period stems from a legal or regulatory obligation incumbent on Joom under any applicable law.
-*   Changes are of minor nature (i. e. editorial ones which do not change the content or meaning of these Terms).
+* It is waived in an unambiguous manner by the Merchant concerned.
+* The need to implement the change without respecting the notice period stems from a legal or regulatory obligation incumbent on Joom under any applicable law.
+* Changes are of minor nature (i. e. editorial ones which do not change the content or meaning of these Terms).
 
 23.3. The Merchant has the right to terminate the Agreement at any time with at least 30 days prior written notification of Joom. The access to the Merchant’s account will be blocked upon expiration of the mentioned period.
 
@@ -483,33 +483,33 @@ If the Merchant does not agree to any alteration or amendment of the terms,
 
 Previous versions of document for Merchants from the European Union and the United Kingdom:
 
-*   [March 14, 2022](https://merchant.joom.com/eu/terms/2022-03-14)
-*   [November 8, 2021](https://merchant.joom.com/eu/terms/2021-11-08)
-*   [June 22, 2021](https://merchant.joom.com/eu/terms/2021-06-22)
-*   [April 5, 2021](https://merchant.joom.com/eu/terms/2021-04-05)
+* [March 14, 2022](https://merchant.joom.com/eu/terms/2022-03-14)
+* [November 8, 2021](https://merchant.joom.com/eu/terms/2021-11-08)
+* [June 22, 2021](https://merchant.joom.com/eu/terms/2021-06-22)
+* [April 5, 2021](https://merchant.joom.com/eu/terms/2021-04-05)
 
 Previous versions of document for European Merchants:
 
-*   [August 31, 2020](https://merchant.joom.com/eu/terms/2020-08-31)
+* [August 31, 2020](https://merchant.joom.com/eu/terms/2020-08-31)
 
 Previous versions of document for German Merchants:
 
-*   [Version 1. November 18, 2019](https://merchant.joom.com/es/terms/version1)
+* [Version 1. November 18, 2019](https://merchant.joom.com/es/terms/version1)
 
 Previous versions of document for French Merchants:
 
-*   [Version 6. February 17, 2020](https://merchant.joom.com/fr/terms/version6)
-*   [Version 5. November 18, 2019](https://merchant.joom.com/fr/terms/version5)
-*   [Version 4. October 14, 2019](https://merchant.joom.com/fr/terms/version4)
-*   [Version 3. June 11, 2019](https://merchant.joom.com/fr/terms/version3)
-*   [Version 2](https://merchant.joom.com/fr/terms/version2)
-*   [Version 1](https://merchant.joom.com/fr/terms/version1)
+* [Version 6. February 17, 2020](https://merchant.joom.com/fr/terms/version6)
+* [Version 5. November 18, 2019](https://merchant.joom.com/fr/terms/version5)
+* [Version 4. October 14, 2019](https://merchant.joom.com/fr/terms/version4)
+* [Version 3. June 11, 2019](https://merchant.joom.com/fr/terms/version3)
+* [Version 2](https://merchant.joom.com/fr/terms/version2)
+* [Version 1](https://merchant.joom.com/fr/terms/version1)
 
 Previous versions of document for Spanish Merchants:
 
-*   [Version 1. November 18, 2019](https://merchant.joom.com/es/terms/version1)
+* [Version 1. November 18, 2019](https://merchant.joom.com/es/terms/version1)
 
 Previous versions of document for other European Merchants:
 
-*   [Version 2. February 17, 2020](https://merchant.joom.com/eu/terms/version2)
-*   [Version 1](https://merchant.joom.com/eu/terms/version1)
+* [Version 2. February 17, 2020](https://merchant.joom.com/eu/terms/version2)
+* [Version 1](https://merchant.joom.com/eu/terms/version1)
