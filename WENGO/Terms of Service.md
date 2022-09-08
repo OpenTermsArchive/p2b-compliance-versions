@@ -55,7 +55,7 @@ I. Conditions communes applicables à tous les Participants
 
 **Partenaire** : site internet, support papier ou chaîne de TV appartenant au même groupe que MyBestPro ou entreprise, ayant conclu un accord de partenariat avec MyBestPro SAS assurant la promotion des Prestations des Conseillers.
 
-**Service Clients** : Service d'assistance dédié aux Utilisateurs qui peut être contacté par e-mail à l'adresse électronique [\[email protected\]](https://www.wengo.fr/cdn-cgi/l/email-protection) ou par courrier postal adressé à MyBestPro SAS, MyBestPro 75 rue d'Amsterdam 75008 Paris.
+**Service Clients** : Service d'assistance dédié aux Utilisateurs qui peut être contacté par e-mail à l'adresse électronique serviceclient[\[email protected\]](https://www.wengo.fr/cdn-cgi/l/email-protection) ou par courrier postal adressé à MyBestPro SAS, MyBestPro 75 rue d'Amsterdam 75008 Paris.
 
 **Site** : site internet de MyBestPro SAS accessible directement à l'une des adresses URL suivantes : www.wengo.com et www.wengo.fr, ou indirectement sur toute adresse URL d'un Partenaire opérée par MyBestPro SAS.
 
