@@ -290,4 +290,4 @@ Ring Twice
 1310 La Hulpe, Belgique  
 Téléphone: +32 2 646 81 17
 
-[conta\[email protected\]](https://ringtwice.be/cdn-cgi/l/email-protection#removed)
+[\[email protected\]](https://ringtwice.be/cdn-cgi/l/email-protection#removed)
