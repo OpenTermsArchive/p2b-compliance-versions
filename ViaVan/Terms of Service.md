@@ -36,7 +36,7 @@ The Service is currently being offered as a beta test, and as such is limited in
 
 **Children.** No part of the Service is directed to persons under the age of 16. IF YOU ARE UNDER 16 YEARS OF AGE, PLEASE DO NOT USE OR ACCESS THE SERVICE AT ANY TIME OR IN ANY MANNER. Children under the age of 16 are only allowed to participate on a Ride when accompanied with a guardian, parent or other adult who has registered for the Services in a legally valid manner.
 
-No one under the age of 18 is allowed to register with or use the Service without the consent of a parent or guardian. If you are under the age of 18, by registering for and using the Service, you warrant and represent that you have consent to do so from a parent or guardian. If you are a parent or guardian of a minor who has registered for or used the Service without your consent, please contact us at [\[email protected\]com](https://www.viavan.com/cdn-cgi/l/email-protection#removed).
+No one under the age of 18 is allowed to register with or use the Service without the consent of a parent or guardian. If you are under the age of 18, by registering for and using the Service, you warrant and represent that you have consent to do so from a parent or guardian. If you are a parent or guardian of a minor who has registered for or used the Service without your consent, please contact us at [\[email protected\]](https://www.viavan.com/cdn-cgi/l/email-protection#removed).
 
 **Agent of a Company, Entity, or Organization.** If you are using the Service on behalf of a company, entity, or organization (collectively “**Organization**“), then you represent and warrant that you:
 
