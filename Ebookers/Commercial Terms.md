@@ -5,11 +5,11 @@ Términos y Condiciones para Propietarios
 
 **CONDICIONES GENERALES DE USO DEL SITIO WEB PARA PROPIETARIOS O PROFESIONALES INMOBILIARIOS**
 
- **A**_**ctualización: 1 de enero de 2021**_
+ **A**_**ctualización: 1 de enero de 2021**_
 
 **1\. Introducción**
 
-1.1 _**Las Condiciones aplicables al**_ _**Propietario**_ _**constituyen un contrato vinculante entre Vrbo y el Propietario.**_ Las operaciones de Vrbo en Europa las gestiona EG Vacation Rentals Ireland Limited, sita en 53 Merrion Square South, Suite 303, Dublín 2 D02 PR63, Irlanda, con número de registro 673084 («**Vrbo**», «nosotros», «nos» o «nuestro/a(s)»). Vrbo es una filial indirecta del Grupo Expedia, Inc. («**Expedia**») sita en Estados Unidos de América. Vrbo proporciona una plataforma en línea, además de distintas herramientas, servicios y funcionalidades disponibles a través de su plataforma, que permiten a los propietarios y profesionales inmobiliarios anunciar sus propiedades y que los viajeros seleccionen dichas propiedades e interactúen con sus propietarios y profesionales inmobiliarios (conjuntamente, los «**Servicios**»). Los Servicios se prestan a través de unas URL específicas a cada país, incluido el Sitio [www.vrbo.com/es-es](http://www.vrbo.com/es-es/) o las plataformas o sistemas de Vrbo, así como mediante aplicaciones para dispositivos móviles (teléfono móvil, tabletas u otros dispositivos o aparatos) (de forma conjunta el «**Sitio**»). Los pagos de reservas realizados a través del Sitio (los «**Servicios de Pago**») son gestionados por proveedores de pago externos y/o por Vrbo u otras empresas afiliadas del Grupo Vrbo (como se define a continuación), en función de la moneda proporcionadas por los proveedores de servicios de pago externos («**Pagos Vrbo**»). Los Servicios de Pago están sujetos a las condiciones de los proveedores de pagos externos y, en el caso de Pagos Vrbo, también al [Contrato de cobro de derechos de alquiler](https://www.vrbo.com/es-es/legal/terminos-y-condiciones-de-pago). A efectos aclaratorios (pero sin ninguna otra finalidad), el uso de la expresión «**Grupo Vrbo**» en estas condiciones hará referencia a Expedia, a Vrbo y a cualquiera de sus filiales y empresas participadas.
+1.1 _**Las Condiciones aplicables al**_ _**Propietario**_ _**constituyen un contrato vinculante entre Vrbo y el Propietario.**_ Las operaciones de Vrbo en Europa las gestiona EG Vacation Rentals Ireland Limited, sita en 53 Merrion Square South, Suite 303, Dublín 2 D02 PR63, Irlanda, con número de registro 673084 («**Vrbo**», «nosotros», «nos» o «nuestro/a(s)»). Vrbo es una filial indirecta del Grupo Expedia, Inc. («**Expedia**») sita en Estados Unidos de América. Vrbo proporciona una plataforma en línea, además de distintas herramientas, servicios y funcionalidades disponibles a través de su plataforma, que permiten a los propietarios y profesionales inmobiliarios anunciar sus propiedades y que los viajeros seleccionen dichas propiedades e interactúen con sus propietarios y profesionales inmobiliarios (conjuntamente, los «**Servicios**»). Los Servicios se prestan a través de unas URL específicas a cada país, incluido el Sitio [www.vrbo.com/es-es](http://www.vrbo.com/es-es/) o las plataformas o sistemas de Vrbo, así como mediante aplicaciones para dispositivos móviles (teléfono móvil, tabletas u otros dispositivos o aparatos) (de forma conjunta el «**Sitio**»). Los pagos de reservas realizados a través del Sitio (los «**Servicios de Pago**») son gestionados por proveedores de pago externos y/o por Vrbo u otras empresas afiliadas del Grupo Vrbo (como se define a continuación), en función de la moneda proporcionadas por los proveedores de servicios de pago externos («**Pagos Vrbo**»). Los Servicios de Pago están sujetos a las condiciones de los proveedores de pagos externos y, en el caso de Pagos Vrbo, también al [Contrato de cobro de derechos de alquiler](https://www.vrbo.com/es-es/legal/terminos-y-condiciones-de-pago). A efectos aclaratorios (pero sin ninguna otra finalidad), el uso de la expresión «**Grupo Vrbo**» en estas condiciones hará referencia a Expedia, a Vrbo y a cualquiera de sus filiales y empresas participadas.
 
 1.2 Las presentes condiciones (las «**Condiciones aplicables al Propietario**»), regirán la relación entre Vrbo y cualquier persona que haga uso del Sitio o acceda al mismo para ofrecer o anunciar cualquier Propiedad para su alquiler, incluidos propietarios de propiedades inmobiliarias, arrendatarios y profesionales inmobiliarios (conjuntamente, los «**Propietarios**» o «**usted**»).
 
@@ -147,25 +147,25 @@ Vrbo no puede garantizar que un Anuncio aparezca en un orden específico en los 
 
 **8\. Resolución**
 
-8.1 Sin limitar ninguno de los derechos descritos a continuación, Vrbo puede finalizar el presente Acuerdo por razón de conveniencia en cualquier momento tras notificárselo al Propietario con una antelación de treinta (30) días a través de la dirección de correo electrónico registrada del Propietario.
+8.1 Sin limitar ninguno de los derechos descritos a continuación, Vrbo puede finalizar el presente Acuerdo por razón de conveniencia en cualquier momento tras notificárselo al Propietario con una antelación de treinta (30) días a través de la dirección de correo electrónico registrada del Propietario.
 
 8.2 En caso de que Vrbo determine (o reciba una reclamación al efecto) que: 
 
-*   algún Anuncio o cualquier otro contenido asociado con un Propietario incluye cualquier material que infringe las [Directrices sobre contenido](https://www.vrbo.com/es-es/legal/directrices-sobre-contenido), la [Guía de Descuentos,](https://www.vrbo.com/es-es/legal/directrices-descuento) la ley, las normas aplicables o los derechos de cualquier persona o entidad;
+* algún Anuncio o cualquier otro contenido asociado con un Propietario incluye cualquier material que infringe las [Directrices sobre contenido](https://www.vrbo.com/es-es/legal/directrices-sobre-contenido), la [Guía de Descuentos,](https://www.vrbo.com/es-es/legal/directrices-descuento) la ley, las normas aplicables o los derechos de cualquier persona o entidad;
     
-*   un Propietario ha subido al Sitio contenido inadecuado o ha realizado un uso indebido del Sitio;
+* un Propietario ha subido al Sitio contenido inadecuado o ha realizado un uso indebido del Sitio;
     
-*   las prácticas de anuncio o alquiler de un Propietario son inaceptables o injustas, o si tenemos conocimiento o recibimos una o varias quejas de cualquier usuario o tercero sobre una práctica de anuncio o de alquiler de un Propietario que justifiquen la retirada inmediata del Sitio de tales anuncios del Propietario (por ejemplo, y sin limitación, en caso de que un Propietario alquile una misma Propiedad a múltiples viajeros en la misma fecha o, teniendo habilitada la funcionalidad de reserva online, no acepte reservas cuando la propiedad se encuentre disponible o cancele reservas previamente aceptadas, o lleve a cabo cualquier práctica que pudiera considerarse injusta o inadecuada en el sector del alquiler de propiedades de corta duración);
+* las prácticas de anuncio o alquiler de un Propietario son inaceptables o injustas, o si tenemos conocimiento o recibimos una o varias quejas de cualquier usuario o tercero sobre una práctica de anuncio o de alquiler de un Propietario que justifiquen la retirada inmediata del Sitio de tales anuncios del Propietario (por ejemplo, y sin limitación, en caso de que un Propietario alquile una misma Propiedad a múltiples viajeros en la misma fecha o, teniendo habilitada la funcionalidad de reserva online, no acepte reservas cuando la propiedad se encuentre disponible o cancele reservas previamente aceptadas, o lleve a cabo cualquier práctica que pudiera considerarse injusta o inadecuada en el sector del alquiler de propiedades de corta duración);
     
-*   el Propietario ha cometido un incumplimiento esencial de estas Condiciones aplicables al Propietario (lo cual incluirá, a efectos aclaratorios, cualquier infracción de la cláusula 3.3 «Requisitos aplicables a los Propietarios para publicar Anuncios», la cláusula 4, «Uso del servicio», la cláusula 11, «Derechos y obligaciones del Propietario» o la cláusula 13, «Prohibiciones») o cualesquier otras obligaciones frente al Grupo Vrbo o cualquier Viajero;
+* el Propietario ha cometido un incumplimiento esencial de estas Condiciones aplicables al Propietario (lo cual incluirá, a efectos aclaratorios, cualquier infracción de la cláusula 3.3 «Requisitos aplicables a los Propietarios para publicar Anuncios», la cláusula 4, «Uso del servicio», la cláusula 11, «Derechos y obligaciones del Propietario» o la cláusula 13, «Prohibiciones») o cualesquier otras obligaciones frente al Grupo Vrbo o cualquier Viajero;
     
-*   un Propietario ha actuado de manera abusiva u ofensiva contra cualquier Viajero o empleado o representante de Vrbo;
+* un Propietario ha actuado de manera abusiva u ofensiva contra cualquier Viajero o empleado o representante de Vrbo;
     
-*   un Propietario usa una identidad falsa;
+* un Propietario usa una identidad falsa;
     
-*   se ha hecho cualquier otro uso indebido de los sistemas o plataformas de comunicación de Vrbo; o
+* se ha hecho cualquier otro uso indebido de los sistemas o plataformas de comunicación de Vrbo; o
     
-*   se ha producido cualquier otra situación similar a las anteriores en relación con el Grupo Vrbo,
+* se ha producido cualquier otra situación similar a las anteriores en relación con el Grupo Vrbo,
     
 
 Vrbo tendrá derecho, tras proporcionar una declaración de motivos por escrito, a llevar a cabo una o más de las acciones que se indican a continuación: (i) suspender o (ii) retirar (a) cualquiera de los Anuncios afectados o (b) todos los Anuncios asociados con dicho Propietario (incluido, a efectos aclaratorios, cualquier Servicio de Pago Adicional relativo a dichos Anuncios) de forma inmediata y sin reembolso alguno de las Tarifas de los Anuncios o cualesquiera otros cargos o tarifas pagados por el Propietario.
@@ -218,15 +218,15 @@ Vrbo tendrá derecho, tras proporcionar una declaración de motivos por escrito,
 
 11.4 El Propietario deberá cumplir con los [Estándares de Mercado](https://www.vrbo.com/es-es/ayuda/articles/Cuales-son-los-estandares-de-calidad-de-HomeAway), en su versión vigente en cada momento, disponibles en  [https://www.vrbo.com/es-es/ayuda/articles/Cuales-son-los-estandares-de-calidad-de-HomeAway](https://www.vrbo.com/es-es/ayuda/articles/Cuales-son-los-estandares-de-calidad-de-HomeAway). Estos Estándares recogen determinados requisitos que deben cumplir los anuncios, entre ellos, a título meramente enunciativo, los siguientes:
 
-*   Los Propietarios deben mantener un calendario de reservas preciso en sus Anuncios;
+* Los Propietarios deben mantener un calendario de reservas preciso en sus Anuncios;
     
-*   Los Propietarios deben realizar esfuerzos comercialmente razonables para responder a todas las solicitudes de reserva de los Viajeros en las 24 horas siguientes a la recepción de la solicitud de reserva;
+* Los Propietarios deben realizar esfuerzos comercialmente razonables para responder a todas las solicitudes de reserva de los Viajeros en las 24 horas siguientes a la recepción de la solicitud de reserva;
     
-*   Los Propietarios se comprometen asimismo a adoptar medidas comercialmente razonables para que todos los pagos de los Viajeros sean procesados en las 24 horas siguientes a la autorización de dichos pagos por parte de estos últimos;
+* Los Propietarios se comprometen asimismo a adoptar medidas comercialmente razonables para que todos los pagos de los Viajeros sean procesados en las 24 horas siguientes a la autorización de dichos pagos por parte de estos últimos;
     
-*   Los Propietarios deben aceptar y responder a un número importante de Consultas y solicitudes de reserva recibidas en interés de la experiencia de los Viajeros; y
+* Los Propietarios deben aceptar y responder a un número importante de Consultas y solicitudes de reserva recibidas en interés de la experiencia de los Viajeros; y
     
-*   Se prohíbe a los Propietarios cancelar un número importante de reservas aceptadas.
+* Se prohíbe a los Propietarios cancelar un número importante de reservas aceptadas.
     
 
 11.5 El Propietario se compromete a asegurarse de que el calendario de cada Anuncio se mantiene correcto y actualizado para reflejar la disponibilidad de cada Propiedad a medida que se vayan efectuando reservas.
