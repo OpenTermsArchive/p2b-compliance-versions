@@ -66,12 +66,12 @@ Related articles
     ](https://www.airbnb.com/help/article/2255/tour-guiding-and-travelrelated-experiences)
 *   [
     
-    Airbnb basics
+    Experience Host
     
-    Food safety guidelines for Airbnb Experiences
+    Experiences involving food
     
-    Hosts must keep things clean, separate raw and cooked foods, cook food thoroughly, keep food at safe temperatures, use safe water, and offer…
+    Hosting Airbnb Experiences is fun, but there are some obligations and rules that apply to different activities. We’ve gathered some resource…
     
     
     
-    ](https://www.airbnb.com/help/article/2647/food-safety-guidelines-for-airbnb-experiences)
+    ](https://www.airbnb.com/help/article/2251/experiences-involving-food)
