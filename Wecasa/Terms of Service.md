@@ -207,7 +207,7 @@ Wecasa s'engage à mettre la Plateforme et les Services à la disposition des Ut
 
 À ce titre, Wecasa s'engage à ce que la Plateforme et les Services soient accessibles 24/24h et 7/7j sauf cas de force majeure ou comportement imprévisible et insurmontable d'un tiers, et sous réserve des éventuelles pannes et interventions de maintenance et de mise à jour nécessaires au bon fonctionnement de la Plateforme et à la fourniture des Services.
 
-Wecasa met à la disposition des Utilisateurs un service de support pour répondre aux questions et fournir une assistance en cas de difficulté. Pour toute question ou demande d'information concernant la Plateforme ou les Services, l'Utilisateur peut contacter Wecasa en lui adressant un courrier électronique à l'adresse suivante : [bonjour@wecasa.fr](mailto:bonjour@wecasa.fr).
+Wecasa met à la disposition des Utilisateurs un service de support pour répondre aux questions et fournir une assistance en cas de difficulté. Pour toute question ou demande d'information concernant la Plateforme ou les Services, l'Utilisateur peut contacter Wecasa en lui adressant un courrier électronique à l'adresse suivante : [\[email protected\]](https://www.wecasa.fr/cdn-cgi/l/email-protection#removed).
 
 En cas d'un dysfonctionnement ou d'une anomalie perturbant le bon fonctionnement de la Plateforme ou des Services, Wecasa s'engage à faire ses meilleurs efforts pour rétablir la situation.
 
@@ -431,7 +431,7 @@ Pour en savoir plus sur le traitement et la sécurisation de leurs données pers
 
 En cas de litige entre un Utilisateur et Wecasa, les Utilisateurs et Wecasa s'engagent à rechercher un mode de résolution amiable. Le statut de Wecasa étant limité à son rôle de plateforme d'intermédiation numérique, sa responsabilité ne pourra être recherchée en cas de mauvaise exécution d'une Prestation. Cependant, en cas de litige entre un Partenaire et un Client, Wecasa pourra jouer un rôle d'intermédiation aux fins de parvenir à une résolution amiable du litige.
 
-Pour toute réclamation, l'Utilisateur s'engage à contacter Wecasa par courrier électronique à l'adresse suivante : [bonjour@wecasa.fr](mailto:bonjour@wecasa.fr). L'annulation peut aussi être réalisée à tout moment directement en ligne depuis votre espace client
+Pour toute réclamation, l'Utilisateur s'engage à contacter Wecasa par courrier électronique à l'adresse suivante : [\[email protected\]](https://www.wecasa.fr/cdn-cgi/l/email-protection#removed). L'annulation peut aussi être réalisée à tout moment directement en ligne depuis votre espace client
 
 Conformément aux articles L. 611-1 et suivants du Code de la consommation concernant le règlement amiable des litiges, Wecasa adhère aux services de médiation de l’Association Nationale des Médiateurs (ANM) . Le service du médiateur peut être saisi, après avoir tenté sans succès une résolution amiable du litige, pour tout litige de consommation dont le règlement n’aurait pas abouti. La saisine du Médiateur s'effectue soit par courrier en écrivant au 62, rue Tiquetonne 75002 PARIS soit par e-mail en remplissant le formulaire de saisine en ligne à l’adresse suivante: [www.anm-conso.com](https://www.anm-conso.com/).
 
