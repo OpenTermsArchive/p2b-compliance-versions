@@ -1,7 +1,7 @@
 Business Services Terms
 =======================
 
-Effective: July 1, 2021
+Effective: January 31, 2022
 
 ARBITRATION NOTICE: YOU ARE BOUND BY THE [ARBITRATION](https://snap.com/en-US/terms/business-services/#governing-law-and-disputes) PROVISION SET FORTH LATER IN THESE BUSINESS SERVICES TERMS. IF YOU ARE CONTRACTING WITH SNAP INC., THEN YOU AND SNAP INC. WAIVE ANY RIGHT TO PARTICIPATE IN A CLASS-ACTION LAWSUIT OR CLASS-WIDE ARBITRATION.
 
@@ -93,9 +93,9 @@ You will comply with the [Community Guidelines](https://snap.com/en-US/community
     
 *   Payments for purchases under these Business Services Terms are governed by the [Payment Terms](https://snap.com/en-US/terms/payment).
     
-*   If you use the Business Services for Snap’s audience match program then you agree to the [Snap Audience Match Terms](https://snap.com/en-US/terms/snap-audience-match)
+*   If you use the Business Services for Snap’s customer list audience program then you agree to the [Customer List Audience Terms](https://snap.com/en-US/terms/snap-audience-match).
     
-*   If Snap acts as your service provider for Snap Audience Match, then you agree to the [Service Provider Terms](https://snap.com/en-US/terms/service-provider).
+*   If Snap acts as your service provider for Snap's customer list audience program, then you agree to the [Service Provider Terms](https://snap.com/en-US/terms/service-provider).
     
 *   If you use the Business Services for Snap’s conversion program then you agree to the [Snap Conversion Terms](https://snap.com/en-US/terms/snap-conversion).
     
