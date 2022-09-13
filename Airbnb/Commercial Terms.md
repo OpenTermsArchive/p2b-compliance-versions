@@ -36,3 +36,42 @@ You agree to these Additional Terms for Experience Hosts ("**Experience Host Ter
 **10\. Modifications to these Experience Host Terms.** Airbnb reserves the right to modify these Experience Host Terms at any time in accordance with Section 14 of the Terms.
 
 **11\. Survival.** Unless you reside in the European Economic Area, United Kingdom, or Switzerland, if you or we terminate these Experience Host Terms, the clauses of these Experience Host Terms that reasonably should survive such termination will remain in effect. When these Experience Host Terms are terminated, you are not entitled to a restoration of your account (if your account is cancelled) or of the Member Content.
+
+Related articles
+
+
+--------------------
+
+*   [
+    
+    Airbnb basics
+    
+    Airbnb Experiences standards and requirements
+    
+    Find details on the quality standards and requirements that Airbnb Experience Hosts must meet.
+    
+    
+    
+    ](https://www.airbnb.com/help/article/1451/airbnb-experiences-standards-and-requirements)
+*   [
+    
+    Experience Host
+    
+    Tour guiding and travel-related experiences
+    
+    Laws, rules, licensing—here’s some helpful information to get you started learning about what you might need to be an Airbnb Experience Host…
+    
+    
+    
+    ](https://www.airbnb.com/help/article/2255/tour-guiding-and-travelrelated-experiences)
+*   [
+    
+    Experience Host
+    
+    Experiences involving food
+    
+    Hosting Airbnb Experiences is fun, but there are some obligations and rules that apply to different activities. We’ve gathered some resource…
+    
+    
+    
+    ](https://www.airbnb.com/help/article/2251/experiences-involving-food)
