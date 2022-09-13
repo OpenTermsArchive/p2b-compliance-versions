@@ -1,4 +1,4 @@
-Any and all translations of the English-language version of this document, or any wording herein, are not binding in any way, are subject to change as our services evolve over time and are provided solely for the convenience of users. Last updated: December 17, 2018
+Any and all translations of the English-language version of this document, or any wording herein, are not binding in any way, are subject to change as our services evolve over time and are provided solely for the convenience of users. Last updated: August 31, 2022
 
 How the site works
 ==================
@@ -164,6 +164,7 @@ Pages featuring Things to Do may also feature horizontal selections of other poi
 | “Essential \[Location\]” - Do | Hand curated by Tripadvisor staff |
 | “Essential \[Location\]” - Stay | Hand curated by Tripadvisor staff |
 | “Essential \[Location\]” - Eat | Hand curated by Tripadvisor staff |
+| Operators whose products or experiences appear as sponsored may pay Tripadvisor or Viator more for the placement |     |
 
   
 
