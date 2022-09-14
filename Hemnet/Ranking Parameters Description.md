@@ -1,7 +1,9 @@
 Annonsera din bostad på Hemnet
 ==============================
 
-Hemnet är **Sveriges största plattform för att köpa och sälja bostäder**. Hösten 2020 blev Hemnet utsedd till [**världens populäraste bostadsplattform**](https://www.hemnet.se/artiklar/bostadsmarknaden/2020/12/10/hemnet-aterigen-varldens-popularaste-bostadsportal-enligt-ny-rapport) för andra året i rad.
+Hemnet är **Sveriges största bostadsplattform**, med tiotals miljoner besök varje månad. Vårt mål är att göra din bostadsresa så enkel, effektiv och smidig som det bara går.
+
+**Varje år annonseras 9 av 10 av alla bostäder som säljs i Sverige på Hemnet** – vilket betyder att vi samlar typ hela Sveriges bostadsmarknad på ett och samma ställe.
 
 [
 
@@ -122,24 +124,6 @@ Ibland kan det ta längre tid än förväntat att få sin bostad såld. Om annon
 *   Nya annonser hamnar högst upp i sökresultatet och du får mängder med nya och gamla spekulanter att upptäcka din bostad.
     
 *   Om du uppgraderat till Hemnet Plus eller Premium behåller din annons samma annonspaket som tidigare.
-    
-
-Därför ska du annonsera din bostad med Hemnet
----------------------------------------------
-
-Bostäder som får många besök på Hemnet får ofta högre slutpriser. Därför är det viktigt att du får så många som möjligt att upptäcka din bostad. Hemnet är den mest självklara kanalen för dig när du ska sälja din bostad
-
-*   ### 92 % av Sveriges bostäder säljs via Hemnet
-    
-    Fler än 9 av 10 svenska bostäder säljs varje år med hjälp av Hemnet.
-    
-*   ### 91 % av köparna föredrar Hemnet
-    
-    Fler än 9 av 10 bostadssökare går till Hemnet först när de ska leta efter ett nytt hem.
-    
-*   ### 81 % som annonserar sin bostad med Hemnet är nöjda eller mycket nöjda
-    
-    ... och 17 % är neutrala.
     
 
 Skapa intresse inför din försäljning med en Kommande-annons
