@@ -165,7 +165,7 @@ c) von Maßnahmen oder Verhaltensweisen von Verivox, die in direktem Zusammenhan
 
 das Recht eine Beschwerde über das interne Beschwerdemanagement von Verivox einzureichen.
 
-1.2 Der Zugang zum internen Beschwerdemanagement von Verivox ist kostenfrei und erreichbar per E-Mail unter [beschwerd\[email protected\]](https://www.verivox.de/cdn-cgi/l/email-protection#removed).
+1.2 Der Zugang zum internen Beschwerdemanagement von Verivox ist kostenfrei und erreichbar per E-Mail unter [\[email protected\]](https://www.verivox.de/cdn-cgi/l/email-protection#removed).
 
 1.3 Im Falle einer Beschwerde hat der beschwerdeführende Serviceanbieter in seiner Beschwerde-E-Mail den Beschwerdeführer, eine Beschreibung des Beschwerdegegenstands, einen Ansprechpartner des beschwerdeführenden Serviceanbieters (inkl. Kontaktdaten) und sofern gegeben und bekannt, den von Verivox als für den Serviceanbieter zuständig benannten Key Account Manager zu benennen.
 
