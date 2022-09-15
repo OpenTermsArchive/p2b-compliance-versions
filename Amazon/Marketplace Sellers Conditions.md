@@ -456,4 +456,17 @@ Upon any suspension or termination of your access to the Selling Partner APIs an
 
 We may change or discontinue the Selling Partner APIs or the API Materials (including by changing or removing features or functionality of the Selling Partner APIs or the API Materials) from time to time. For any material changes that will negatively affect your business, we will provide notice under Section 17.
 
-Top
+This article applies to selling in: **France**
+
+Amazon store fair pricing policy
+================================
+
+Sellers are responsible for setting their own prices on Amazon stores. In our mission to be Earth's most customer-centric company, we strive to provide our customers with the largest selection, at the lowest price, and fastest delivery as sellers play an important role in achieving this mission.
+
+Sellers agree that Amazon may remove an offer or, in repeated cases, suspend or terminate selling privileges if sellers:
+
+A- Set prices or practices in violation of applicable laws across all EU member states and the UK (such as the books fixed price laws in France); or
+
+B- Set prices which fall below or exceed sellers’ own minimum and maximum price set for that product.
+
+Amazon promptly notifies sellers of any triggering of the Store Fair Pricing Policy affecting their offers or selling privileges, offering sellers the option to resubmit a listing after changing the price or to appeal, as well as referring to the Mediation Policy.
