@@ -7,7 +7,7 @@ Hemnet är **Sveriges största bostadsplattform**, med tiotals miljoner besök v
 
 [
 
-Annonsera med Hemnets annonspaket
+Annonsera med Hemnets annonspaket
 
 ](#video)
 
@@ -73,7 +73,7 @@ Se våra olika paket
     
 *   1 gratis Raketen att boosta annonsen när du vill
     
-*   För ökad trygghet får du även ett obegränsat antal [Förnya annons](https://www.hemnet.se/annonsera-bostad#fornya-annons) med Hemnet Premium, det gäller endast om du köper Hemnet Premium inom 7 dagar efter annonsen har publicerats
+*   För ökad trygghet får du även ett obegränsat antal [Förnya annons](https://www.hemnet.se/annonsera-bostad#fornya-annons) med Hemnet Premium, det gäller endast om du köper Hemnet Premium inom 7 dagar efter annonsen har publicerats
     
 
 Populärt val!
