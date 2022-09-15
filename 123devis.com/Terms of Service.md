@@ -64,28 +64,28 @@ Engagements des fournisseurs
 
 Pour pouvoir répondre aux demandes de devis, les fournisseurs s’engagent à :
 
-*   répondre aux demandes de devis dans un délai de 3 jours
-*   réaliser des devis gratuits
-*   respecter les engagements et les délais indiqués sur les devis
-*   respecter la réglementation et les normes en vigueur
-*   respecter le droit fiscal et social imposé par le législateur
-*   être à jour des assurances obligatoires
-*   effectuer des prestations de qualité
-*   assurer un service après vente de qualité
+* répondre aux demandes de devis dans un délai de 3 jours
+* réaliser des devis gratuits
+* respecter les engagements et les délais indiqués sur les devis
+* respecter la réglementation et les normes en vigueur
+* respecter le droit fiscal et social imposé par le législateur
+* être à jour des assurances obligatoires
+* effectuer des prestations de qualité
+* assurer un service après vente de qualité
 
 Afin d’assurer un service de qualité, tout manquement grave à l’un des points ci-dessus, constaté directement par Travaux.com ou signalé par un utilisateur, entraînera systématiquement l’exclusion du fournisseur. Travaux.com se réserve également le droit d’exclure à tout moment un fournisseur qu’elle ne jugerait plus correspondre à l’esprit de son service. Toutefois, la responsabilité de Travaux.com ne pourra être engagée en cas de manquement de la part d’un fournisseur trouvé par son intermédiaire à l’un des points ci-dessus.
 
 Engagements et responsabilité de Travaux.com
 --------------------------------------------
 
-*   Travaux.com s’engage à proposer son service gratuitement aux utilisateurs et à ne pas percevoir de commission sur le montant des travaux.
-*   Travaux.com s’engage à une totale indépendance vis-à-vis des fournisseurs et à ne pas privilégier un fournisseur plutôt qu’un autre.
-*   Travaux.com s’engage à tout mettre en oeuvre pour trouver le plus rapidement possible un ou plusieurs fournisseurs pouvant répondre à la demande de devis d’un utilisateur.
-*   Travaux.com s’engage à informer les utilisateurs par email dès qu’un fournisseur a été trouvé et à lui communiquer toutes les coordonnées du dit fournisseur. Travaux.com s’efforcera de communiquer des informations à jour et vérifiées à l’utilisateur mais ne pourra pas être tenu pour responsable en cas d’erreur, d’omission ou de diffusion de fausses informations de la part du fournisseur.
-*   Travaux.com s’engage à informer les utilisateurs par email, dans un délai de 7 jours ouvrés, dans le cas où aucun fournisseur n’aurait été trouvé pour répondre à la demande de devis. En aucun cas, Travaux.com ne pourra être tenu pour responsable des éventuels désagréments ou dommages occasionnés par le fait qu’aucun professionnel n’ait été trouvé pour répondre à une demande de devis.
-*   Dans le cas où les informations fournies dans la demande de devis seraient considérées comme incomplètes, trop approximatives, fausses ou incohérentes, Travaux.com s’engage à contacter par email ou téléphone l’utilisateur avant de supprimer sa demande de devis, afin d’obtenir toutes les précisions nécessaires. Dans le cas où Travaux.com n’obtenait pas de réponse satisfaisante, la demande de devis sera supprimée sans que Travaux.com puisse en être tenu responsable.
-*   Le service de Travaux.com prend fin automatiquement au moment où l’utilisateur a été mis en contact avec un fournisseur. Travaux.com n’intervient jamais dans la relation commerciale (avant, pendant et après la réalisation des prestations demandées) qui unit l’utilisateur et le fournisseur trouvé par son intermédiaire mais choisi par l’utilisateur. Travaux.com ne pourra en aucun cas être tenu pour responsable des éventuels dommages et désagréments occasionnés avant, pendant ou après la réalisation des prestations réalisées par le fournisseur choisi par l’utilisateur.
-*   Travaux.com décline toute responsabilité quant aux conséquences directes et indirectes de sa mise en relation. Il est de la seule responsabilité des utilisateurs de vérifier les références, les assurances et les compétences des fournisseurs avec lesquels ils décident de travailler. L’utilisateur devra prendre toutes les précautions nécessaires avant de signer le bon de commande avec le fournisseur et de lui verser un 1er acompte.
+* Travaux.com s’engage à proposer son service gratuitement aux utilisateurs et à ne pas percevoir de commission sur le montant des travaux.
+* Travaux.com s’engage à une totale indépendance vis-à-vis des fournisseurs et à ne pas privilégier un fournisseur plutôt qu’un autre.
+* Travaux.com s’engage à tout mettre en oeuvre pour trouver le plus rapidement possible un ou plusieurs fournisseurs pouvant répondre à la demande de devis d’un utilisateur.
+* Travaux.com s’engage à informer les utilisateurs par email dès qu’un fournisseur a été trouvé et à lui communiquer toutes les coordonnées du dit fournisseur. Travaux.com s’efforcera de communiquer des informations à jour et vérifiées à l’utilisateur mais ne pourra pas être tenu pour responsable en cas d’erreur, d’omission ou de diffusion de fausses informations de la part du fournisseur.
+* Travaux.com s’engage à informer les utilisateurs par email, dans un délai de 7 jours ouvrés, dans le cas où aucun fournisseur n’aurait été trouvé pour répondre à la demande de devis. En aucun cas, Travaux.com ne pourra être tenu pour responsable des éventuels désagréments ou dommages occasionnés par le fait qu’aucun professionnel n’ait été trouvé pour répondre à une demande de devis.
+* Dans le cas où les informations fournies dans la demande de devis seraient considérées comme incomplètes, trop approximatives, fausses ou incohérentes, Travaux.com s’engage à contacter par email ou téléphone l’utilisateur avant de supprimer sa demande de devis, afin d’obtenir toutes les précisions nécessaires. Dans le cas où Travaux.com n’obtenait pas de réponse satisfaisante, la demande de devis sera supprimée sans que Travaux.com puisse en être tenu responsable.
+* Le service de Travaux.com prend fin automatiquement au moment où l’utilisateur a été mis en contact avec un fournisseur. Travaux.com n’intervient jamais dans la relation commerciale (avant, pendant et après la réalisation des prestations demandées) qui unit l’utilisateur et le fournisseur trouvé par son intermédiaire mais choisi par l’utilisateur. Travaux.com ne pourra en aucun cas être tenu pour responsable des éventuels dommages et désagréments occasionnés avant, pendant ou après la réalisation des prestations réalisées par le fournisseur choisi par l’utilisateur.
+* Travaux.com décline toute responsabilité quant aux conséquences directes et indirectes de sa mise en relation. Il est de la seule responsabilité des utilisateurs de vérifier les références, les assurances et les compétences des fournisseurs avec lesquels ils décident de travailler. L’utilisateur devra prendre toutes les précautions nécessaires avant de signer le bon de commande avec le fournisseur et de lui verser un 1er acompte.
 
 Données personnelles
 --------------------
