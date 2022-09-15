@@ -1,0 +1,85 @@
+Smluvní podmínky
+================
+
+Sbazar.cz
+---------
+
+**Smluvní podmínky pro inzerci na Serveru Sbazar.cz**  
+  
+**1\. Úvod**  
+  
+Společnost Seznam.cz, a. s., se sídlem na adrese Praha 5, Radlická 3294/10, PSČ: 150 00, IČO: 26168685, zapsaná v obchodním rejstříku vedeném Městským soudem v Praze, sp. zn.: B 6493 je provozovatelem internetového serveru Sbazar.cz (dále jen "**Provozovatel**"), dostupného na internetové adrese (URL): http://www.sbazar.cz (dále jen "**Server Sbazar.cz**" nebo jen „**Server**“) a mobilní aplikace Sbazar (dále jen „**Mobilní aplikace**“), prostřednictvím kterého jsou zobrazovány nabídky zboží a/nebo služeb (dále také jen „**Inzeráty**“ nebo jednotlivě jen „**Inzerát**“) inzerujících uživatelů Serveru (dále také jen „**Inzerenti**“ nebo jednotlivě jen „**Inzerent**“), za níže uvedených podmínek (dále jen „**Podmínky**“).  
+V případech, kdy je uživatel ve vztahu ke společnosti Seznam.cz, a.s., IČO: 261 68 685, se sídlem Radlická 3294/10, 150 00 Praha 5, zapsané v obchodním rejstříku vedeném Městským soudem v Praze, oddíl B, vložka 6493 spotřebitelem a vznikne spotřebitelský spor, který se nepodaří vyřešit vzájemnou dohodou, může uživatel v postavení spotřebitele podat návrh na mimosoudní řešení spotřebitelského sporu České obchodní inspekci (Ústřední inspektorát – oddělení ADR, sídlem Štěpánská 15, 120 00 Praha 2, e-mail: adr@coi.cz, web: adr.coi.cz). V těchto případech může také uživatel, který je v postavení spotřebitele, využít platformu pro řešení spotřebitelských sporů online, která je zřízena Evropskou komisí a je dostupná na internetové adrese: [http://ec.europa.eu/consumers/odr/](http://ec.europa.eu/consumers/odr/)  
+  
+**2\. Popis služby Sbazar.cz**  
+  
+Server a Mobilní aplikace jsou zaměřeny na zobrazování jednotlivých Inzerátů Inzerentů za účelem nabídky a prodeje zboží a/nebo služeb Zájemcům o takové zboží a/nebo službu (dále jen „**Zájemce**“ či „**Zájemci**“), a umožňuje Zájemcům vyhledávání jednotlivých Inzerátů zveřejněných na Serveru.  
+  
+**3\. Registrace Inzerenta**  
+  
+3.1. Inzeráty jsou na Server a Mobilní aplikaci oprávněni vkládat pouze registrovaní uživatelé Serveru.  
+3.2. Provozovatel nenese odpovědnost za zneužití uživatelského účtu Inzerenta nebo osobních údajů Inzerenta třetí osobou, pokud Inzerent sdělil svůj uživatelský účet a heslo třetí osobě nebo takové třetí osobě umožnil k těmto údajům přístup.  
+  
+**4\. Práva a povinnosti smluvních stran**  
+  
+4.1. Inzerent je povinen vkládat na Server pouze Inzeráty, které jsou v souladu s Pravidly pro inzerci na serveru Sbazar.cz a které jsou dostupná v příslušné (dále jen „**Pravidla pro inzerci**“). Provozovatel si vyhrazuje právo Pravidla pro inzerci změnit za podmínek dle článku 8.3. Provozovatel je oprávněn Inzeráty, které nesplňují Pravidla pro Inzerci ze Serveru odstranit, a to i bez předchozí výzvy k nápravě a bez náhrady.  
+4.2. Za obsah Inzerátu odpovídá Inzerent. Provozovatel nenese žádnou odpovědnost za obsah Inzerátu. Inzerent je povinen při zadávání Inzerátu dodržovat tyto Podmínky a příslušné právní předpisy.  
+4.3. Inzerent odpovídá za to, že obsahem Inzerátu a/nebo fotografiemi či jinými soubory připojenými k Inzerátu nebudou dotčena práva třetích osob. Provozovatel za zásahy do práv třetích osob ze strany Inzerenta neodpovídá.  
+4.4. V případě, že Inzerent připojí k Inzerátu fotografie, jejichž je autorem, uděluje okamžikem vložení Inzerátu na Server či v rámci Mobilní aplikace Provozovateli bezúplatnou nevýhradní licenci k užití fotografií, a to na dobu zveřejnění Inzerátu na Serveru či v rámci Mobilní aplikace a ke způsobům užití v souladu s určením Serveru a Mobilní aplikace a v souladu s těmito Podmínkami.  
+4.5. Inzerent nesmí k Inzerátu připojovat fotografie z Inzerátů jiných prodejců originálně pořízených na prodávaném zboží.  
+4.6. Provozovatel si vyhrazuje právo ze Serveru a v rámci Mobilní aplikace odstranit fotografie, které nesplňují pravidla stanovená těmito Podmínkami a Pravidly pro inzerci.  
+4.7. Inzerent je v Inzerátu povinen uvést úplné a pravdivé údaje o nabízeném zboží a/nebo službě, včetně údajů o funkčnosti zboží, případném poškození, opotřebení, vadách a podmínek prodeje zboží/poskytnutí služby.  
+4.8. V jednom Inzerátu může být inzerován pouze jeden typ zboží nebo služeb. Inzerent je oprávněn v jednom Inzerátu inzerovat tentýž typ zboží nebo služeb ve více exemplářích.  
+4.9. Inzerent není oprávněn vkládat na Server a v rámci Mobilní aplikace duplicitní Inzeráty. Duplicitním Inzerátem se rozumí Inzerát shodný s jiným Inzerátem a nebo Inzerát prostřednictvím kterého je nabízeno shodné zboží/služby za obdobných podmínek.  
+4.10. Inzerent je v rozhraní při vkládání Inzerátu povinen vyplnit všechny položky označené jako povinné, zejména je povinen uvést pravdivé údaje o své osobě, aktivní e-mailovou adresu a telefonní číslo. Provozovatel si vyhrazuje právo Inzeráty, které neobsahují kontaktní údaje Inzerenta nebo obsahují kontaktní údaje Inzerenta nepravdivé nebo neaktuální, ze Serveru a Mobilní aplikace odstranit bez náhrady. Rozsah Inzerátu nesmí překročit limity stanovené Serverem při zadávání Inzerátu.  
+4.11. Inzeráty na Serveru jsou v základní verzi neplacené. Inzerent má možnost zaplatit si zvýhodnění Inzerátu na Serveru. Inzerát bude zvýhodněn způsobem a za podmínek uvedených dále v těchto Podmínkách.  
+4.12. Inzerentem vložený Inzerát je na Serveru a Mobilní aplikaci zobrazován omezenou dobu a to 30 dní. Inzerent bere na vědomí, že uplynutím doby 30 dní ode dne vložení Inzerátu nebude Inzerát zobrazován na veřejné části Serveru či Mobilní aplikace, ale pouze v administračním rozhraní Inzerenta, a to po dobu dalších 30 dnů, s tím, že po uplynutí této doby bude Inzerát ze Serveru zcela odstraněn.  
+4.13. Inzerentem smazaný inzerát se přestane zobrazovat na veřejné části Serveru a Mobilní aplikace a zároveň se nebude zobrazovat ani v administračním rozhraní Inzerenta.  
+  
+4.14. Přehled Inzerátů konkrétního Inzerenta se zobrazuje na internetové adrese, kterou je Inzerent po přihlášení do systému Serveru, pro své potřeby oprávněn upravit. Inzerent má právo internetovou adresu pro zobrazování přehledu Inzerátů Inzerenta upravit, a to 3krát za 24 hodin. Při překročení maximálního možného počtu změn internetové adresy s přehledem Inzerátů Inzerenta si Provozovatel vyhrazuje právo odmítnout internetovou adresu s přehledem Inzerátů Inzerenta změnit, popř. je Provozovatel oprávněn znemožnit Inzerentovi přístup na Server. Provozovatel si vyhrazuje právo odmítnout úpravy adresy s přehledem Inzerátů, které kolidují s ochrannými známkami nebo se systémovými názvy Serveru.  
+4.15. Inzerent bude Zájemcem kontaktován prostřednictvím kontaktního formuláře, který je zobrazován v detailu Inzerátu. Obsah kontaktního formuláře Provozovatel odešle na emailovou adresu Inzerenta, uvedenou Inzerentem při vkládání Inzerátu. Po odeslání kontaktního formuláře Zájemce Inzerentovi probíhá veškerá následující komunikace výlučně mezi Inzerentem a Zájemcem. Zájemce má možnost Inzerenta kontaktovat také přímo na telefonním čísle uvedeném Inzerentem, pokud Inzerent umožnil zobrazení svého telefonního čísla při vkládání Inzerátu.  
+4.16. Inzerent je oprávněn jím vložený Inzerát kdykoli odstranit.  
+4.17. Provozovatel zprostředkovává kontakt mezi Inzerentem a Zájemcem. Provozovatel nepřebírá žádné záruky a nenese žádnou odpovědnost za kvalitu či původ nabízeného zboží a/nebo služby, ani za jejich upotřebitelnost k účelu, k nimž jsou určeny. Vztah mezi Inzerentem a Zájemcem se řídí ustanoveními zákona č. 89/2012 Sb., občanský zákoník. Odpovědnost za dodání, převzetí zboží nebo poskytnutí služby a zaplacení zboží a/nebo služby nese plně Inzerent a Zájemce.  
+4.18. Provozovatel je oprávněn Inzeráty, které dle jeho uvážení nesplňují tyto podmínky, přerušit nebo odstranit, a to i bez předchozí výzvy k nápravě a bez náhrady. Provozovatel je rovněž oprávněn kdykoli Inzerenta vyřadit ze systému a/nebo mu odepřít přístup na Server, a to zejména z důvodu porušení některého z ustanovení těchto podmínek.  
+4.19. Provozovatel je oprávněn kdykoliv odstranit Inzeráty, vyžadují-li to změny na Serveru či oprávněné zájmy Provozovatele či ochrana práv třetích osob; k takovémuto odstranění je Provozovatel oprávněn i bez udání důvodu.  
+4.20. Jednotlivé inzeráty mohou být za účelem zobrazování na Serveru zařazovány do různých skupin nebo kategorií dle určení Provozovatele. V této souvislosti je Provozovatel dále oprávněn upravit zobrazované údaje dle svého uvážení. Provozovatel si vyhrazuje právo určit způsob zobrazování Inzerátů na Serveru, včetně způsobu jejich třídění a tento způsob kdykoli změnit.  
+4.21. Provozovatel si vyhrazuje právo na přidání loga Serveru do fotografií připojených Inzerentem k Inzerátu a zobrazovaných na Serveru.  
+4.22. Provozovatel si vyhrazuje právo kontroly obsahu Inzerátu z hlediska pravopisných chyb a/nebo překlepů v textu před zobrazením Inzerátu na Serveru. Gramatickou úpravou Inzerátu nepřebírá Provozovatel odpovědnost za pravdivost údajů obsažených v Inzerátu, ani za to, že Inzerent je oprávněn zboží prodat a/nebo službu poskytnout a že Zájemce je oprávněn zboží koupit nebo službu přijmout. Provozovatel je dále oprávněn změnit velikost Inzerentem vložených verzálek.  
+4.23. Provozovatel si vyhrazuje právo kontrolovat, zda Inzeráty zveřejňované na Serveru nejsou duplicitní. Provozovatel je oprávněn duplicitní Inzeráty ze Serveru odstranit, a to i bez předchozí výzvy k nápravě a bez náhrady.  
+4.24. Provozovatel si vyhrazuje právo u nově registrovaných Inzerentů ověřit platnost Inzerenty zadaného telefonního čísla a emailu prostřednictvím ověřovací sms a/nebo ověřovacího emailu. V případě, že Inzerent zadá k Inzerátu telefonní číslo nebo email, který není Provozovatelem ověřen, vyhrazuje si Provozovatel právo Inzerát nezveřejnit do doby, než bude telefonní číslo nebo emailové adresa ověřena ze strany Provozovatele.  
+4.25. Přestože Provozovatel používá moderní technologie, neposkytuje záruku nepřetržité funkčnosti, bezchybného provozu a zabezpečení systému Serveru. Provozovatel nenese žádnou odpovědnost za přerušení služeb v důsledku technických problémů, zejména odpovědnost za újmu, která může Inzerentovi nebo Zájemci vzniknout v důsledku úplné nebo částečné nefunkčnosti systému Serveru, případně ztráty dat umístěných v systému Serveru.  
+  
+**5\. Zvýhodněné Inzeráty**  
+  
+5.1. Zvýhodněné Inzeráty jsou zpoplatněny a jejich zveřejňování se řídí těmito Podmínkami.  
+5.2. Zvýhodněné Inzeráty jsou zobrazovány na zvýhodněných pozicích. Zvýhodněnou pozicí je první pozice ve výpise Inzerátů, a dále každá třetí pozice ve výpise Inzerátů.  
+5.3. Doba platnosti zvýhodnění je 7 dnů. Po uplynutí této doby se Inzerát zobrazuje jako nezvýhodněný.  
+5.4. Zvýhodní-li Inzerent svůj Inzerát v průběhu doby 30 dnů, po kterou je Inzerát zobrazován, prodlužuje se automaticky doba zobrazení Inzerátu od okamžiku zvýhodnění Inzerátu na 30 dnů, s tím, že Inzerát je zobrazován na zvýhodněné pozici po dobu 7 dnů. Po uplynutí 7 dnů bude Inzerát zobrazován jako nezvýhodněný.  
+5.5. Zvýhodněný Inzerát zůstává ve výpisu Inzerátů ve zvýhodněné pozici do okamžiku zvýhodnění jiného Inzerátu jiným Inzerentem. V okamžiku zvýhodnění jiného Inzerátu jiným Inzerentem se dříve zvýhodněný Inzerát posune na druhou zvýhodněnou pozici. Ve stejném smyslu probíhá posun po dalších pozicích.  
+5.6. V případě, že Provozovatel odmítne zveřejnit/nezveřejní/odstraní zvýhodněný Inzerát, zavazuje se Provozovatel Inzerentovi poskytnout možnost zvýhodnění dalšího Inzerátu vkládaného Inzerentem. Finanční náhrada zvýhodněného Inzerátu u takto odmítnutého Inzerátu není možná.  
+5.7. Inzerent je při zvýhodňování Inzerátů povinen nejprve využít zvýhodnění poskytnutá Provozovatelem jako kompenzace za odmítnutí zveřejnění/nezveřejnění/odstranění zvýhodněného Inzerátu. Před vyčerpáním zvýhodnění poskytnutých Provozovatelem jako kompenzace není Inzerent oprávněn zvýhodnit Inzerát prostřednictvím sms zprávy nebo Peněženky.  
+  
+**6\. Finanční podmínky**  
+  
+6.1. Zvýhodněné Inzeráty jsou zpoplatněny dle Ceníku serveru Sbazar.cz, dostupného na serveru v příslušné sekci. Provozovatel si vyhrazuje právo tyto ceny změnit dle článku 8.3. Podmínek.  
+6.2. Inzerent může Inzerát zvýhodnit prostřednictvím platby uskutečněné sms zprávou, nebo prostřednictvím služby Seznam Peněženka (dále jen „**Peněženka**“), nebo z možných zvýhodnění, které Inzerentovi vznikly z důvodu zamítnutí Inzerátu, nebo převodem kreditů z předchozí verze Serveru.  
+6.3. Pro dobití kreditu v Peněžence a pro vystavení daňových dokladů platí pravidla Peněženky, jež jsou dostupná na internetových stránkách Provozovatele, a to v příslušné sekci.  
+6.4. Provozovatel je oprávněn v případě, že za Inzerentem eviduje pohledávku po datu splatnosti na službě Sbazar.cz a/nebo i na jiných službách/produktech poskytovaných Provozovatelem, Inzerci Inzerenta nezveřejnit a to do doby úplné úhrady.  
+  
+**7\. Zpracování osobních údajů**  
+  
+7.1.   Provozovatel postupuje při zpracování osobních údajů v souladu s nařízením Evropského parlamentu a Rady (EU) č. 2016/679 o ochraně fyzických osob v souvislosti se zpracováním osobních údajů a o volném pohybu těchto údajů (obecné nařízení o ochraně osobních údajů, dále jen „nařízení“), zákonem č. 110/2019 Sb., o zpracování osobních údajů, zákonem č. 111/2019 Sb., kterým se mění některé zákony s přijetím zákona o zpracování osobních údajů, zákonem č. 480/2004 Sb., o některých službách informační společnosti, zákonem č. 127/2005 Sb., o elektronických komunikacích a dalšími právními předpisy upravující ochranu osobních údajů.  
+7.2.   Pro účely užívání služby Serveru a Mobilní aplikace Inzerentem a Zájemcem, zejména vkládání Inzerátů a zprostředkování kontaktu mezi Inzerentem a Zájemcem, je Provozovatel oprávněn zpracovávat osobní údaje Inzerenta a Zájemce nebo osobní údaje poskytnuté či zadané Inzerentem či Zájemcem při užívání Serveru (zejména adresné, popisné a fakturační údaje).  
+7.3.   Takové zpracování osobních údajů je zákonné, jelikož je nezbytné pro splnění smlouvy, na jejímž základě Inzerent a Zájemce užívají služby Serveru a Mobilní aplikace, a jejíchž smluvní stranou je Inzerent nebo Zájemce, jako subjekt osobních údajů.  
+7.4.   V konkrétních případech může Provozovatel zpracovávat osobní údaje nad rámec čl. 7.2. a 7.3. Podmínek, pokud je takovéto zpracování nezbytné pro účely oprávněných zájmů Provozovatele nebo třetích osob, a to vždy v souladu se zákonnými požadavky na zpracovávání osobních údajů.  
+7.5.   Inzerent tímto ve smyslu zákona č. 480/2004 Sb., o některých službách informační společnosti uděluje Provozovateli souhlas se zasíláním obchodních sdělení s informacemi o službách a produktech Provozovatele, a to na Inzerentem poskytnuté e-mailové adresy.  
+7.6.   Pokud Inzerent či Zájemce předal či předá Provozovateli osobní údaje svých zaměstnanců či jiných fyzických osob, je Inzerent nebo Zájemce povinen tyto fyzické osoby informovat o zpracování osobních údajů. Inzerent je současně v takovém případě povinen informovat o zasílání obchodních sdělení Provozovatele v rozsahu zde uvedeném a zajistit tak zákonnost zpracování osobních údajů. V opačném případě Inzerent nebo Zájemce odpovídá Provozovateli za způsobenou škodu.  
+7.7.   Podrobnější informace o nakládání s osobními údaji jsou uvedeny na internetových stránkách Provozovatele, a to v příslušné sekci.  
+  
+**8\. Závěrečná ustanovení**  
+  
+8.1. Provozovatel si vyhrazuje právo odepřít Inzerentovi přístup k jeho účtu na Serveru a zároveň vymazat celou historii Inzerátů Inzerentů, kteří se po dobu dvou let na Server nepřihlásili.  
+8.2. Věci těmito Podmínkami neupravené se podpůrně řídí Obchodními podmínkami pro umísťování reklamních sdělení a jiných reklamních prvků do internetových serverů provozovaných společností Seznam.cz, a.s., dostupných na: [http://onas.seznam.cz/cz/reklama/obchodni-podminky/](http://onas.seznam.cz/cz/reklama/obchodni-podminky/)  a Smluvními podmínkami pro registraci uživatelů služeb poskytovaných společností Seznam.cz, dostupných na: [https://napoveda.seznam.cz/podminky-registrace/](https://napoveda.seznam.cz/podminky-registrace/) a příslušnou právní úpravou.  
+8.3. Provozovatel si vyhrazuje právo v přiměřeném rozsahu jednostranně tyto Podmínky jakožto i Ceník dle článku 6.1. změnit, zejména při změně legislativy, technické změně Služby či služeb souvisejících se Službou či v případě změny provozních, organizačních či obchodních procesů u Provozovatele. Provozovatel oznámí změnu Inzerentovi prostřednictvím rozhraní služby minimálně 7 dní před účinností této změny. Inzerent má právo odmítnout změnu Podmínek a ukončit registraci. Pokud Uživatel užívá po účinnosti změny Podmínek i nadále služby Serveru, má se zato, že přijímá tím změnu Podmínek.  
+  
+Tyto smluvní podmínky nabývají platnosti a účinnosti 12.8.2019.
