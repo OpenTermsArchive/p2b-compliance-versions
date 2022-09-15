@@ -9,7 +9,7 @@ Amtsgericht Charlottenburg - HRB: 141523 B
 Web: [https://www.tenmedia.de](https://www.tenmedia.de/)
 
 Kontaktiere uns jederzeit:  
-E-Mail: info@lass-andere-schreiben.de  
+E-Mail: [\[email protected\]](https://www.lass-andere-schreiben.de/cdn-cgi/l/email-protection)  
 Telefon: +49 (0) 30/ 5 490 650 - 20  
 Fax: +49 (0) 30/ 5 490 650 - 79
 
@@ -59,11 +59,11 @@ Allgemeine Nutzungsbedingungen
         Berlin
         
         Kontakt:  
-        E-Mail: info@lass-andere-schreiben.de  
+        E-Mail: [\[email protected\]](https://www.lass-andere-schreiben.de/cdn-cgi/l/email-protection)  
         Tel.: +49 (0) 30/ 5 490 650 - 20  
         Fax: +49 (0) 30/ 5 490 650 - 79
         
-        E-Mail: info@lass-andere-schreiben.de  
+        E-Mail: [\[email protected\]](https://www.lass-andere-schreiben.de/cdn-cgi/l/email-protection)  
         Tel.: +49 (0) 30/ 5 490 650 - 20  
         Fax: +49 (0) 30/ 5 490 650 - 79  
         Gesellschafter und Geschäftsführung: Rami Jabr
