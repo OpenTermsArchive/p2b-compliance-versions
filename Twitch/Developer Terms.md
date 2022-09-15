@@ -47,9 +47,9 @@ This Agreement binds your use of the Program Materials unless Twitch and you hav
 
 **4\. Incorporated Terms.** Your use of the Program Materials is further subject to and governed by the following terms and conditions:
 
-*   Twitch Trademark Guidelines located at [https://www.twitch.tv/p/legal/trademark/](https://www.twitch.tv/p/legal/trademark/) (“Trademark Guidelines”) as it relates to your use and display of the Twitch Marks;
-*   Twitch’s Terms of Service located at [https://www.twitch.tv/p/legal/terms-of-service/](https://www.twitch.tv/p/legal/terms-of-service/) (“Terms of Service”): and 
-*   Twitch’s Community Guidelines located at [https://www.twitch.tv/p/legal/community-guidelines/](https://www.twitch.tv/p/legal/community-guidelines/) (“Community Guidelines”).
+* Twitch Trademark Guidelines located at [https://www.twitch.tv/p/legal/trademark/](https://www.twitch.tv/p/legal/trademark/) (“Trademark Guidelines”) as it relates to your use and display of the Twitch Marks;
+* Twitch’s Terms of Service located at [https://www.twitch.tv/p/legal/terms-of-service/](https://www.twitch.tv/p/legal/terms-of-service/) (“Terms of Service”): and 
+* Twitch’s Community Guidelines located at [https://www.twitch.tv/p/legal/community-guidelines/](https://www.twitch.tv/p/legal/community-guidelines/) (“Community Guidelines”).
 
 Your Services will not, and you will not encourage or create functionality for your end users or other third parties that violates Twitch’s Community Guidelines.
 
@@ -161,18 +161,18 @@ For clarity, analytics data, or metadata that we make available via both Twitch�
 
 There should be no surprises:
 
-*   Be honest about your relationship with Twitch.
-*   Ensure end users understand your identity and the purpose of Your Services.
-*   Make it easy for people to contact you and promptly respond to questions and requests.
+* Be honest about your relationship with Twitch.
+* Ensure end users understand your identity and the purpose of Your Services.
+* Make it easy for people to contact you and promptly respond to questions and requests.
 
 Request only the data and publishing permissions Your Services need:
 
-*   Use publishing permissions to help people share content on Twitch, not to send people spam, or marketing/advertising blasts.
-*   Obtain consent for actions with your end users’ information, or end users’ devices, including, access to subscriber and friend information.
-*   Provide a publicly available and easily accessible privacy notice that provides all disclosures required by applicable data protection laws, including without limitation  what data you are collecting and how you will use, display, share, store, and retain that data.
-*   If Your Services use Cookies: set cookies to be same-site, HTTP-only, and secure; use session cookies wherever possible; set persistent cookies to expire within 13 months; and disclose whether third parties collect end user information within Your Services and for what purposes.
-*   If you are tracking an end user’s activity or using other behavioral advertising techniques, provide an opt-out mechanism.
-*   At all times you must comply with your privacy notice in the collection, use, display, sharing, and storage of information.
+* Use publishing permissions to help people share content on Twitch, not to send people spam, or marketing/advertising blasts.
+* Obtain consent for actions with your end users’ information, or end users’ devices, including, access to subscriber and friend information.
+* Provide a publicly available and easily accessible privacy notice that provides all disclosures required by applicable data protection laws, including without limitation  what data you are collecting and how you will use, display, share, store, and retain that data.
+* If Your Services use Cookies: set cookies to be same-site, HTTP-only, and secure; use session cookies wherever possible; set persistent cookies to expire within 13 months; and disclose whether third parties collect end user information within Your Services and for what purposes.
+* If you are tracking an end user’s activity or using other behavioral advertising techniques, provide an opt-out mechanism.
+* At all times you must comply with your privacy notice in the collection, use, display, sharing, and storage of information.
 
 If Your Services allow end users to post content to Twitch, then, before publishing, we recommend showing the end user a preview of what will be published on Twitch.
 
@@ -180,71 +180,71 @@ If Your Services allow end users to post content to Twitch, then, before publish
 
 The following activities are prohibited, absent a separate agreement with Twitch:
 
-*   Using data collected from Twitch’s APIs to target end users with marketing material or commercial offers available off the Twitch Services.
-*   Creating demographic clusters for the purpose of contacting or targeting Twitch’s end users on or off the Twitch Services.
-*   Transferring profile content to any ad network, data broker, or other advertising or monetization-related service. This includes, using profile content of an end user of Twitch Services, by itself or bundled with third-party data, to target end users with advertising outside of the Twitch Services.
-*   Selling, licensing, or otherwise distributing any metadata or social content, or authorizing access to any metadata or social content, directly or indirectly (_e.g._, through multiple tiers of distribution), to anybody – including data about purchases that end users make on the Twitch Services.
-*   Serving as a marketplace for third-party services or products using Twitch’s APIs.
+* Using data collected from Twitch’s APIs to target end users with marketing material or commercial offers available off the Twitch Services.
+* Creating demographic clusters for the purpose of contacting or targeting Twitch’s end users on or off the Twitch Services.
+* Transferring profile content to any ad network, data broker, or other advertising or monetization-related service. This includes, using profile content of an end user of Twitch Services, by itself or bundled with third-party data, to target end users with advertising outside of the Twitch Services.
+* Selling, licensing, or otherwise distributing any metadata or social content, or authorizing access to any metadata or social content, directly or indirectly (_e.g._, through multiple tiers of distribution), to anybody – including data about purchases that end users make on the Twitch Services.
+* Serving as a marketplace for third-party services or products using Twitch’s APIs.
 
 Twitch will consider authorizing you to use the Twitch APIs to engage in the following activities only after entering into a separate agreement and running through an approval process:
 
-*   Marketing - services used by marketers or their customers for marketing campaigns, campaign analysis, or anything similar.
-*   Research - educational and non-commercial projects that examine trends over specific time periods.
-*   Firehose - creative uses of a combination of Program Materials that exceed our rate limits.
+* Marketing - services used by marketers or their customers for marketing campaigns, campaign analysis, or anything similar.
+* Research - educational and non-commercial projects that examine trends over specific time periods.
+* Firehose - creative uses of a combination of Program Materials that exceed our rate limits.
 
 **Storage of Program Materials/Twitch Content**
 
-*   Follow end user controls when deciding whether to store an end user’s data.
-*   Delete all of an end user’s data you have received from Twitch (including friend data) if that person asks you to, unless you are required to keep it by law, regulation, or separate agreement with us.
-*   Do not store copies of Twitch Content and Program Materials, unless you: (a) obtain authorization (through these terms or otherwise); (b) control the rights associated with such content; or (c) cache such information for only a twenty-four hour time period without further sharing it with third parties.
-*   Re-syndication of Program Materials as available from a Twitch API is prohibited.
-*   Use commercially reasonable efforts to cause Your Services to update cached results and take the following actions: (a) delete Program Materials and Twitch Content when Twitch reports them as deleted or expired, and (b) honor changes made on or related to Program Materials and Twitch Content.
+* Follow end user controls when deciding whether to store an end user’s data.
+* Delete all of an end user’s data you have received from Twitch (including friend data) if that person asks you to, unless you are required to keep it by law, regulation, or separate agreement with us.
+* Do not store copies of Twitch Content and Program Materials, unless you: (a) obtain authorization (through these terms or otherwise); (b) control the rights associated with such content; or (c) cache such information for only a twenty-four hour time period without further sharing it with third parties.
+* Re-syndication of Program Materials as available from a Twitch API is prohibited.
+* Use commercially reasonable efforts to cause Your Services to update cached results and take the following actions: (a) delete Program Materials and Twitch Content when Twitch reports them as deleted or expired, and (b) honor changes made on or related to Program Materials and Twitch Content.
     
-*   If you are designing Your Services in a way that violates these rules, you need to explore eligibility under one of the commercial arrangements described above.
+* If you are designing Your Services in a way that violates these rules, you need to explore eligibility under one of the commercial arrangements described above.
 
 **Requirements for Specific Features and APIs**
 
 **1\. Embeddable Experiences**
 
-*   We encourage you to use Twitch’s embeddable products to showcase Twitch Content. However, you must obtain authorization from the applicable Twitch end users before using their channels’ content to market or promote a commercial product or service. Twitch does not own all Twitch Content provided by its end users, and offering APIs that allow you to reproduce or display Twitch Content is not an express or implied license to the content from Twitch.
-*   Adopt and integrate our embeddable player for all video content. You may not use any other player or system to display Twitch video content without Twitch’s prior written permission.
-*   Do not modify, replace, interfere with, block, cover, or obscure: (a) the functionality of embeddable experiences, including advertisements within the player; or (b) the Twitch Marks.
+* We encourage you to use Twitch’s embeddable products to showcase Twitch Content. However, you must obtain authorization from the applicable Twitch end users before using their channels’ content to market or promote a commercial product or service. Twitch does not own all Twitch Content provided by its end users, and offering APIs that allow you to reproduce or display Twitch Content is not an express or implied license to the content from Twitch.
+* Adopt and integrate our embeddable player for all video content. You may not use any other player or system to display Twitch video content without Twitch’s prior written permission.
+* Do not modify, replace, interfere with, block, cover, or obscure: (a) the functionality of embeddable experiences, including advertisements within the player; or (b) the Twitch Marks.
 
 Prohibited Uses:
 
-*   Twitch embeds may not be used on websites that (a) have a primary purpose to share or host content that would violate Twitch’s [Terms of Service](https://www.twitch.tv/p/legal/terms-of-service/) or [Community Guidelines](https://www.twitch.tv/p/legal/community-guidelines/); (b) attempt to replicate the Twitch experience without offering additional content or data of substantial value on the same page; and (c) target children under 13.
-*   You may not transmit embeddable experiences to or through any ad network or other advertising-related service.
-*   You may not create embeddable experiences in exchange for any compensation (monetary or non-monetary, directly or indirectly) from a content provider on a site or service that the content provider does not own or operate.
+* Twitch embeds may not be used on websites that (a) have a primary purpose to share or host content that would violate Twitch’s [Terms of Service](https://www.twitch.tv/p/legal/terms-of-service/) or [Community Guidelines](https://www.twitch.tv/p/legal/community-guidelines/); (b) attempt to replicate the Twitch experience without offering additional content or data of substantial value on the same page; and (c) target children under 13.
+* You may not transmit embeddable experiences to or through any ad network or other advertising-related service.
+* You may not create embeddable experiences in exchange for any compensation (monetary or non-monetary, directly or indirectly) from a content provider on a site or service that the content provider does not own or operate.
 
 Permitted Commercial Uses:
 
-*   Advertising is permitted on the same website as Twitch’s embeddable experiences so long as other content or data of substantial value appears on the same page.
-*   You can charge end users for access to Your Services that include Twitch embeddable experiences, but cannot charge fees specifically for the ability to watch or access those experiences.
+* Advertising is permitted on the same website as Twitch’s embeddable experiences so long as other content or data of substantial value appears on the same page.
+* You can charge end users for access to Your Services that include Twitch embeddable experiences, but cannot charge fees specifically for the ability to watch or access those experiences.
 
 **2\. Chat**
 
 We consider chat to be an essential component of the broadcast experience on Twitch. It is our belief, and we hope this informs your thinking, that Twitch broadcasters should be able to do the following with chat:
 
-*   Exercise control over the environment.
-*   Cast a net for input from viewers.
-*   Create a feedback loop with viewers.
-*   Accomplish tasks (polls, giveaways, enforce spam filters, answer questions).
-*   Trigger viewing experiences.
+* Exercise control over the environment.
+* Cast a net for input from viewers.
+* Create a feedback loop with viewers.
+* Accomplish tasks (polls, giveaways, enforce spam filters, answer questions).
+* Trigger viewing experiences.
 
 Specific guidelines with Chat:
 
-*   Position any end user authentication method in a clear and conspicuous location to ensure end users consent to initiating chat conversations.
-*   Enable, and process, all requests by end users to block, discontinue, or otherwise opt-out of chat communications.
-*   It is forbidden to design bots that engage in offensive or deceptive practices (_e.g._, generate hate speech, send spam, offer false follows, etc.). We take this prohibition seriously!
-*   Only retain chat logs as necessary for the operation of Your Services or to improve Your Services; do not do so for the purpose of creating public databases, or, in general, to collect information about Twitch’s end users.
+* Position any end user authentication method in a clear and conspicuous location to ensure end users consent to initiating chat conversations.
+* Enable, and process, all requests by end users to block, discontinue, or otherwise opt-out of chat communications.
+* It is forbidden to design bots that engage in offensive or deceptive practices (_e.g._, generate hate speech, send spam, offer false follows, etc.). We take this prohibition seriously!
+* Only retain chat logs as necessary for the operation of Your Services or to improve Your Services; do not do so for the purpose of creating public databases, or, in general, to collect information about Twitch’s end users.
 
 **Twitch Connect**
 
-*   Be clear and transparent when seeking permission to connect accounts. In other words, provide context and details about why an end user should connect accounts.
-*   NEVER request Twitch user passwords.
-*   Use the Twitch Connect Brand Assets with any account connection process.
-*   Provide a conspicuous “Logout / Disconnect” option for end users within Your Services.
-*   Displays of an end user’s friends in Your Services must show that the relationship is associated with Twitch.
+* Be clear and transparent when seeking permission to connect accounts. In other words, provide context and details about why an end user should connect accounts.
+* NEVER request Twitch user passwords.
+* Use the Twitch Connect Brand Assets with any account connection process.
+* Provide a conspicuous “Logout / Disconnect” option for end users within Your Services.
+* Displays of an end user’s friends in Your Services must show that the relationship is associated with Twitch.
 
 **Twitch Social Content and Data**
 
@@ -270,30 +270,30 @@ Instructions, rules, and recommendations regarding your participation in Twitch 
 
 **General**
 
-*   You are responsible for all aspects, legal or otherwise, of managing the relationship with the broadcaster as it relates to the use of your Extension. Deprecating, discontinuing, or taking down your Extension does not affect the rights of broadcasters who have entered into a contract with you or paid you for the use of that Extension or your obligations thereunder, including delivery and support.
-*   When submitting your Extension to Twitch, you: (a) may include a reference to terms, such as terms of service or an end user license agreement (EULA), that govern your Extension and broadcasters’ rights thereto; and (b) must include a reference to a reasonable privacy policy/notice, if you: (i) intend to collect viewer or broadcaster data that constitutes personal data, personal information, or personally identifiable information under applicable data privacy laws; or (ii) are required to do so by applicable law.  The privacy notice and terms that you include as part of your submission may not conflict with this Agreement, which shall take precedence in case of inconsistency or conflict.
-*   Twitch is not responsible for any product liability claims, failure to meet applicable legal or regulatory requirements, or warranties, whether express or implied by law, covering your Extension and you may not hold out Twitch as such.
-*   Twitch reserves its right to market your Extension in its sole discretion, including featuring, promoting, or categorizing for discovery purposes, your Extension, or not marketing your Extension at all.
+* You are responsible for all aspects, legal or otherwise, of managing the relationship with the broadcaster as it relates to the use of your Extension. Deprecating, discontinuing, or taking down your Extension does not affect the rights of broadcasters who have entered into a contract with you or paid you for the use of that Extension or your obligations thereunder, including delivery and support.
+* When submitting your Extension to Twitch, you: (a) may include a reference to terms, such as terms of service or an end user license agreement (EULA), that govern your Extension and broadcasters’ rights thereto; and (b) must include a reference to a reasonable privacy policy/notice, if you: (i) intend to collect viewer or broadcaster data that constitutes personal data, personal information, or personally identifiable information under applicable data privacy laws; or (ii) are required to do so by applicable law.  The privacy notice and terms that you include as part of your submission may not conflict with this Agreement, which shall take precedence in case of inconsistency or conflict.
+* Twitch is not responsible for any product liability claims, failure to meet applicable legal or regulatory requirements, or warranties, whether express or implied by law, covering your Extension and you may not hold out Twitch as such.
+* Twitch reserves its right to market your Extension in its sole discretion, including featuring, promoting, or categorizing for discovery purposes, your Extension, or not marketing your Extension at all.
 
 **Data Collection, Sharing, and Use**
 
-*   Twitch will allow you to place Cookies for the purpose of affecting end user preferences, _e.g._, format, position, etc., of the Extension. You may not use Cookies to: (a) engage in data science activities or perform analytics on end users and their activity on Twitch, except as expressly allowed by Twitch; or (b) create demographic clusters or end user profiles for the purpose of contacting or targeting end users on or off the Twitch Services.
-*   When a broadcaster un-installs your Extension, you must respect that command by ceasing to collect information from that broadcaster.
+* Twitch will allow you to place Cookies for the purpose of affecting end user preferences, _e.g._, format, position, etc., of the Extension. You may not use Cookies to: (a) engage in data science activities or perform analytics on end users and their activity on Twitch, except as expressly allowed by Twitch; or (b) create demographic clusters or end user profiles for the purpose of contacting or targeting end users on or off the Twitch Services.
+* When a broadcaster un-installs your Extension, you must respect that command by ceasing to collect information from that broadcaster.
 
 **Commercial Activity**
 
-*   If you charge channel owners for access to your Extension or to a feature of your Extension: (a) you are the seller of record for such Extension and you must provide your pricing models, including all relevant charges, taxes, and fees, to broadcasters in a reasonably transparent manner prior to any payment or conclusion of a contract; and (b) you are solely responsible for complying with the tax obligations of charging for your Extensions, including, but not limited to, determining whether they are taxable, applying the correct tax rate(s), and collecting and remitting taxes in each relevant jurisdiction.
+* If you charge channel owners for access to your Extension or to a feature of your Extension: (a) you are the seller of record for such Extension and you must provide your pricing models, including all relevant charges, taxes, and fees, to broadcasters in a reasonably transparent manner prior to any payment or conclusion of a contract; and (b) you are solely responsible for complying with the tax obligations of charging for your Extensions, including, but not limited to, determining whether they are taxable, applying the correct tax rate(s), and collecting and remitting taxes in each relevant jurisdiction.
 
 **Bits in Extensions**
 
-*   We encourage you to use Bits in Extensions as an opportunity to enrich the viewing experience on the Twitch Services as opposed to simply providing a means for the end user to obtain a digital item or experience. See our policies on content and functionality for Bits in Extensions at [https://dev.twitch.tv/docs/extensions/](https://dev.twitch.tv/docs/extensions/).
-*   Developers set the amount of Bits necessary for the exchange of permitted digital items and experiences, subject to Twitch’s approval. Twitch reserves its right to offer discounts and promotions, which may include bundled sales of products.
-*   Twitch reserves the right to return Bits that are used in your Extension to the relevant end user in its sole discretion. Twitch may withhold and/or clawback revenue share associated with such Bits. If you voluntarily take down your Extension, or Twitch takes down your Extension due to violations of applicable law or this Agreement, Twitch may withhold and/or clawback revenue share associated with Bits that are used in your Extension for the previous three (3) months before such take down.
+* We encourage you to use Bits in Extensions as an opportunity to enrich the viewing experience on the Twitch Services as opposed to simply providing a means for the end user to obtain a digital item or experience. See our policies on content and functionality for Bits in Extensions at [https://dev.twitch.tv/docs/extensions/](https://dev.twitch.tv/docs/extensions/).
+* Developers set the amount of Bits necessary for the exchange of permitted digital items and experiences, subject to Twitch’s approval. Twitch reserves its right to offer discounts and promotions, which may include bundled sales of products.
+* Twitch reserves the right to return Bits that are used in your Extension to the relevant end user in its sole discretion. Twitch may withhold and/or clawback revenue share associated with such Bits. If you voluntarily take down your Extension, or Twitch takes down your Extension due to violations of applicable law or this Agreement, Twitch may withhold and/or clawback revenue share associated with Bits that are used in your Extension for the previous three (3) months before such take down.
 
 **Support**
 
-*   You are responsible for customer support requests that are redirected to you by Twitch’s customer support teams. You must respond to customer support requests from end users or Twitch (including Amazon) within twenty-four (24) hours and make reasonable efforts to resolve such requests within five (5) business days of receiving such requests.
-*   Twitch is not responsible for any support or maintenance of your Extension and you may not hold out Twitch as such. Broadcasters, viewers, and any end users need to know how to reach you with questions and support issues. You must identify a support URL or email address with your Extension details, as well as within your terms, that includes an easy way to reach you.
+* You are responsible for customer support requests that are redirected to you by Twitch’s customer support teams. You must respond to customer support requests from end users or Twitch (including Amazon) within twenty-four (24) hours and make reasonable efforts to resolve such requests within five (5) business days of receiving such requests.
+* Twitch is not responsible for any support or maintenance of your Extension and you may not hold out Twitch as such. Broadcasters, viewers, and any end users need to know how to reach you with questions and support issues. You must identify a support URL or email address with your Extension details, as well as within your terms, that includes an easy way to reach you.
 
 **License to Twitch**
 
@@ -309,15 +309,15 @@ Without limiting the generality of the body of this Agreement, Twitch may collec
 
 **Revenue Share, Payment Terms, Taxes**
 
-*   Revenue Share. If you enable your Extension for Bits in Extensions, for each eligible use of Bits in the Extension, you will receive a fee (a “Bits Fee”) that will be equal to twenty percent (20%) of one (1) U.S. cent per Bit.
-*   Payment Terms. Subject to the terms of this paragraph, we will pay you a Bits Fee approximately forty-five (45) days after the end of the calendar month in which the applicable use of the Bits was made. All payments will be made via check, Electronic Funds Transfer (“EFT”), or other methods we choose and in the currency we choose. We are entitled to accrue and withhold payments, without interest, until the total amounts due to you (net of any tax withholding or deduction, as further described below) exceed our minimum payment thresholds defined below. Depending on the country where you are located, we may require you to provide us with information for a valid bank account in your name for receiving EFT payments and, if you do not provide that information, we may withhold payments, without interest, until you do so and/or pay you via check and deduct a payment processing fee. You may not maintain any action or proceeding against us with respect to any report or payment unless you commence that action or suit within six (6) months after the date the report or payment was due.
-*   Offsets / Withholding. If we pay you a Bits Fee and later issue a return of Bits to the end user, we may offset the amount of the Bits Fee we previously paid you against future Bits Fees or other amounts that would otherwise be payable to you under this Agreement, or require you to remit that amount to us. We may also withhold and offset any sums you owe to us against amounts that are payable to you. If a third party asserts that you did not have all rights required to make available a digital item or experience, if we determine that you may be in breach of this Agreement, or if we have other claims against you, we are entitled to hold all Bits Fees pending resolution of such issues. When this Agreement terminates, we may withhold all Bits Fees due for a period of three (3) months from the date they would otherwise be payable, in order to ensure our ability to offset any end user returns or other offsets to which we are entitled.
-*   Violations. If you violate this Agreement, in addition to any other rights or remedies available to us, we reserve the right to withhold (and you agree you will not be eligible to receive) Bits Fees otherwise payable to you under this Agreement, whether or not directly related to such violation.
-*   Payment Threshold. Twitch will not be obligated to make a payment if the total amount to be paid to you in connection with Bits in Extensions under this Agreement is less than one-hundred dollars ($100) (the “Payment Threshold”), and may instead accrue such payment obligation until such time as its overall obligation to you is at least the Payment Threshold. If any excess payment has been made to you for any reason whatsoever, we reserve the right to adjust or offset the same against any subsequent fees payable to you under this Agreement.  
+* Revenue Share. If you enable your Extension for Bits in Extensions, for each eligible use of Bits in the Extension, you will receive a fee (a “Bits Fee”) that will be equal to twenty percent (20%) of one (1) U.S. cent per Bit.
+* Payment Terms. Subject to the terms of this paragraph, we will pay you a Bits Fee approximately forty-five (45) days after the end of the calendar month in which the applicable use of the Bits was made. All payments will be made via check, Electronic Funds Transfer (“EFT”), or other methods we choose and in the currency we choose. We are entitled to accrue and withhold payments, without interest, until the total amounts due to you (net of any tax withholding or deduction, as further described below) exceed our minimum payment thresholds defined below. Depending on the country where you are located, we may require you to provide us with information for a valid bank account in your name for receiving EFT payments and, if you do not provide that information, we may withhold payments, without interest, until you do so and/or pay you via check and deduct a payment processing fee. You may not maintain any action or proceeding against us with respect to any report or payment unless you commence that action or suit within six (6) months after the date the report or payment was due.
+* Offsets / Withholding. If we pay you a Bits Fee and later issue a return of Bits to the end user, we may offset the amount of the Bits Fee we previously paid you against future Bits Fees or other amounts that would otherwise be payable to you under this Agreement, or require you to remit that amount to us. We may also withhold and offset any sums you owe to us against amounts that are payable to you. If a third party asserts that you did not have all rights required to make available a digital item or experience, if we determine that you may be in breach of this Agreement, or if we have other claims against you, we are entitled to hold all Bits Fees pending resolution of such issues. When this Agreement terminates, we may withhold all Bits Fees due for a period of three (3) months from the date they would otherwise be payable, in order to ensure our ability to offset any end user returns or other offsets to which we are entitled.
+* Violations. If you violate this Agreement, in addition to any other rights or remedies available to us, we reserve the right to withhold (and you agree you will not be eligible to receive) Bits Fees otherwise payable to you under this Agreement, whether or not directly related to such violation.
+* Payment Threshold. Twitch will not be obligated to make a payment if the total amount to be paid to you in connection with Bits in Extensions under this Agreement is less than one-hundred dollars ($100) (the “Payment Threshold”), and may instead accrue such payment obligation until such time as its overall obligation to you is at least the Payment Threshold. If any excess payment has been made to you for any reason whatsoever, we reserve the right to adjust or offset the same against any subsequent fees payable to you under this Agreement.  
      
-    *   _The following paragraph only applies to you if you reside in the USA or in a country that is not currently a member of the European Union:_ If at any time there has been no substantial activity on your developer account for at least twelve (12) consecutive months, and you have not earned at least one-hundred dollars ($100) in Bits Fees during that twelve month period, a maintenance fee will be deducted from your remaining balance. The maintenance fee will be the lesser of the accrued Bits Fees in your developer account or twenty-five dollars ($25). Any remaining balance will be paid to you.
-    *   _The following paragraph only applies to you if you reside in a country that is currently a member of the European Union:_ If at any time there has been no substantial activity on your developer account for at least twelve (12) consecutive months, and you have not earned at least one-hundred dollars ($100) in Bits Fees during that twelve (12) month period, we will have the right, upon seven (7) days’ written notice, to deduct a maintenance fee from your remaining balance. The maintenance fee will be the lesser of the accrued Bits Fees in your account or twenty-five dollars ($25). Any remaining balance will be paid to you.
-*   Taxes. You are responsible for any income or other taxes due and payable resulting from any Twitch entity’s payments to you. Accordingly, unless otherwise stated, the amounts due to you hereunder are inclusive of any taxes that may apply to such payments. Twitch maintains the right, however, to deduct or withhold any applicable taxes that we may be legally obligated to deduct or withhold from amounts due from Twitch, and the amounts due, as reduced by such deductions or withholdings, will constitute full payment to you. If you fulfill any of your digital items or experiences to end users, and if any relevant taxing authority considers those digital items or experiences to be taxable and your fulfillment of those digital items or experiences to be a sale to us that is subject to any sales, use, value added or similar taxes (“Fulfillment Transaction Taxes”), Twitch may provide you with an exemption certificate or equivalent information acceptable to the relevant taxing authority, in which case you will not charge or collect the Fulfillment Transaction Taxes covered by such certificate. You will be solely liable for, and will indemnify and hold us and our affiliates harmless against, all Fulfillment Transaction Taxes, if any, and against all interest, penalties, costs, and expenses (including without limitation reasonable attorneys’ fees) related to any such Fulfillment Transaction Taxes. If any taxing authority assesses or claims any tax liability on or against us or our affiliates with respect to any Fulfillment Transaction Taxes, we or our affiliates will control the defense against such assessment or claim (without limiting your obligation to indemnify and hold us and our affiliates harmless pursuant to this Section). You will provide Twitch with any forms, documents, or other certifications as may be requested by Twitch to satisfy any information reporting or tax obligations with respect to this Agreement.
+    * _The following paragraph only applies to you if you reside in the USA or in a country that is not currently a member of the European Union:_ If at any time there has been no substantial activity on your developer account for at least twelve (12) consecutive months, and you have not earned at least one-hundred dollars ($100) in Bits Fees during that twelve month period, a maintenance fee will be deducted from your remaining balance. The maintenance fee will be the lesser of the accrued Bits Fees in your developer account or twenty-five dollars ($25). Any remaining balance will be paid to you.
+    * _The following paragraph only applies to you if you reside in a country that is currently a member of the European Union:_ If at any time there has been no substantial activity on your developer account for at least twelve (12) consecutive months, and you have not earned at least one-hundred dollars ($100) in Bits Fees during that twelve (12) month period, we will have the right, upon seven (7) days’ written notice, to deduct a maintenance fee from your remaining balance. The maintenance fee will be the lesser of the accrued Bits Fees in your account or twenty-five dollars ($25). Any remaining balance will be paid to you.
+* Taxes. You are responsible for any income or other taxes due and payable resulting from any Twitch entity’s payments to you. Accordingly, unless otherwise stated, the amounts due to you hereunder are inclusive of any taxes that may apply to such payments. Twitch maintains the right, however, to deduct or withhold any applicable taxes that we may be legally obligated to deduct or withhold from amounts due from Twitch, and the amounts due, as reduced by such deductions or withholdings, will constitute full payment to you. If you fulfill any of your digital items or experiences to end users, and if any relevant taxing authority considers those digital items or experiences to be taxable and your fulfillment of those digital items or experiences to be a sale to us that is subject to any sales, use, value added or similar taxes (“Fulfillment Transaction Taxes”), Twitch may provide you with an exemption certificate or equivalent information acceptable to the relevant taxing authority, in which case you will not charge or collect the Fulfillment Transaction Taxes covered by such certificate. You will be solely liable for, and will indemnify and hold us and our affiliates harmless against, all Fulfillment Transaction Taxes, if any, and against all interest, penalties, costs, and expenses (including without limitation reasonable attorneys’ fees) related to any such Fulfillment Transaction Taxes. If any taxing authority assesses or claims any tax liability on or against us or our affiliates with respect to any Fulfillment Transaction Taxes, we or our affiliates will control the defense against such assessment or claim (without limiting your obligation to indemnify and hold us and our affiliates harmless pursuant to this Section). You will provide Twitch with any forms, documents, or other certifications as may be requested by Twitch to satisfy any information reporting or tax obligations with respect to this Agreement.
 
 #### SCHEDULE 3
 
