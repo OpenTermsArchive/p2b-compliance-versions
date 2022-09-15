@@ -403,7 +403,7 @@ Please use the 'Report this Ad' mechanism which we have placed on the Website to
 22\. Standards
 --------------
 
-All advertisements must adhere to the ‘Code of Advertising Standards' of [The Advertising Standards Authority for Ireland](http://www.asai.ie/) in addition to the standards set out in the Agreement.
+All advertisements must adhere to the âCode of Advertising Standards' of [The Advertising Standards Authority for Ireland](http://www.asai.ie/) in addition to the standards set out in the Agreement.
 
 23\. Responsibility
 -------------------
