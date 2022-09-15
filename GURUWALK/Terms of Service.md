@@ -147,6 +147,18 @@ No está permitido y, por tanto, sus consecuencias serán de tu exclusiva respon
 
 Por ello y en esta línea, **GURUWALK** antes de emprender este tipo de acciones puede eliminar los contenidos del guía según sea necesario, para garantizar el respeto de los términos y condiciones que has aceptado expresamente, por ejemplo, por comunicación del titular de derechos de autor de fotos publicadas. **GURUWALK** no está obligado a almacenar copias del contenido del usuario ni a proporcionar tales copias.
 
+**6) USOS NO PERMITIDOS SOLO APLICABLES A GURUS HOBBY Y CONSECUENCIAS DEL INCUMPLIMIENTO**
+
+Sin perjuicio de las limitaciones expuestas en el punto cinco, los Gurus Hobby cuentan además con las siguientes limitaciones de uso de la plataforma **GURUWALK**:
+
+1.  No se permite a un mismo usuario tener más de una cuenta Hobby.
+2.  No podrán crear en la plataforma más de tres tours.
+3.  Por cada Tour solo será posible publicar dos horarios por idioma y día, dichos horarios tendrán que tener una diferencia mínima de dos horas entre sí.
+4.  No se permite bajo ningún concepto la unión de Walkers procedentes de diferentes tours en un mismo evento.
+5.  No se podrán realizar falsas cancelaciones.
+
+**GURUWALK** podrá eliminar o bloquear la cuenta de cualquier guía Hobby que incumpla las condiciones antedichas. La eliminación de la cuenta no acarreará en caso alguno indemnización de daños y perjuicios.
+
 #### TERMS AND CONDITIONS APPLICABLE TO GURUWALK AFFILIATES
 
 ##### Introduction
