@@ -1,9 +1,9 @@
 1\. DEFINITII SI TERMENI
 ------------------------
 
-**eMAG** – este denumirea comerciala a S.C. DANTE INTERNATIONAL S.A., persoana juridica de nationalitate romana, avand sediul social in Bucuresti, Soseaua Virtutii nr. 148, sector 6, avand numar de ordine in Registrul Comertului J40/372/23.01.2002, cod unic de inregistrare fiscala RO14399840.
+**eMAG** – este denumirea comerciala a S.C. DANTE INTERNATIONAL S.A., persoana juridica de nationalitate romana, avand sediul social in Bucuresti, Soseaua Virtutii nr. 148, sector 6, avand numar de ordine in Registrul Comertului J40/372/23.01.2002, cod unic de inregistrare fiscala RO14399840.
 
-**Vanzator** – eMAG sau orice partener din eMAG Marketplace.
+**Vanzator** – eMAG sau orice partener din eMAG Marketplace.
 
 **Cumparator** – poate fi orice persoana fizica care are varsta peste 16 ani sau persoana juridica sau orice entitate juridica care isi face un Cont in Site si efectueaza o Comanda.
 
@@ -29,7 +29,7 @@ Listele pot fi:
 
 **Site** – magazinul online gazduit la adresa web emag.ro si subdomeniile acestuia.
 
-**Comanda** – un document electronic ce intervine ca forma de comunicare intre Vanzator si Cumparator prin care Cumparatorul transmite Vanzatorului, prin intermediul Site-ului intentia sa de a achizitiona Bunuri si Servicii de pe Site.
+**Comanda** – un document electronic ce intervine ca forma de comunicare intre Vanzator si Cumparator prin care Cumparatorul transmite Vanzatorului, prin intermediul Site-ului intentia sa de a achizitiona Bunuri si Servicii de pe Site.
 
 **Bunuri si Servicii** – orice produs sau serviciu listat pe Site, inclusiv produsele si serviciile mentionate in Comanda, care urmeaza a fi furnizate de catre Vanzator, Cumparatorului ca urmare a Contractului incheiat.
 
@@ -39,16 +39,16 @@ Listele pot fi:
 
 **Continut** – reprezinta:
 
-*    toate informatiile de pe Site care pot fi vizitate, vizualizate sau altfel accesate prin utilizarea unui echipament electronic;
-*   continutul oricarui e-mail trimis Cumparatorilor de catre Vanzator prin mijloace electronice si/sau orice alt mijloc de comunicare disponibil;
-*   orice informatie comunicata prin orice mijloc de catre un angajat/colaborator al Vanzatorului, Cumparatorului, conform informatiilor de contactare, specificate sau nu de catre acesta;
-*   informatii legate de Bunurile si/sau Serviciile si/sau tarifele practicate de Vanzator intr-o anumita perioada;
-*   informatii legate de Bunurile si/sau Serviciile si/sau tarifele practicate de catre un tert cu care Vanzatorul are incheiate contracte de parteneriat, intr-o anumita perioada;
-*   date referitoare la Vanzator, sau alte date privilegiate ale acestuia.
+*  toate informatiile de pe Site care pot fi vizitate, vizualizate sau altfel accesate prin utilizarea unui echipament electronic;
+* continutul oricarui e-mail trimis Cumparatorilor de catre Vanzator prin mijloace electronice si/sau orice alt mijloc de comunicare disponibil;
+* orice informatie comunicata prin orice mijloc de catre un angajat/colaborator al Vanzatorului, Cumparatorului, conform informatiilor de contactare, specificate sau nu de catre acesta;
+* informatii legate de Bunurile si/sau Serviciile si/sau tarifele practicate de Vanzator intr-o anumita perioada;
+* informatii legate de Bunurile si/sau Serviciile si/sau tarifele practicate de catre un tert cu care Vanzatorul are incheiate contracte de parteneriat, intr-o anumita perioada;
+* date referitoare la Vanzator, sau alte date privilegiate ale acestuia.
 
-**Review** – o evaluare scrisa de catre detinatorul sau beneficiarul unui Bun sau Serviciu, evaluare redactata pe baza experientei personale si capacitatii acestuia de a realiza comentarii calitative și de a spune daca Bunul sau Serviciul respecta sau nu specificatiile mentionate de catre producator.
+**Review** – o evaluare scrisa de catre detinatorul sau beneficiarul unui Bun sau Serviciu, evaluare redactata pe baza experientei personale si capacitatii acestuia de a realiza comentarii calitative și de a spune daca Bunul sau Serviciul respecta sau nu specificatiile mentionate de catre producator.
 
-**Rating** – modalitate de exprimare a gradului de satisfactie a unui Utilizator/Client/Cumparator fata de un produs. Rating-ul se exprima sub forma de stele, fiecare Bun putand primi un punctaj de la o stea, la cinci stele. Acest grad de satisfactie va fi asociat intotdeauna review-ului scris de Utilizator/Client/Cumparator asupra unui Bun sau Serviciu.
+**Rating** – modalitate de exprimare a gradului de satisfactie a unui Utilizator/Client/Cumparator fata de un produs. Rating-ul se exprima sub forma de stele, fiecare Bun putand primi un punctaj de la o stea, la cinci stele. Acest grad de satisfactie va fi asociat intotdeauna review-ului scris de Utilizator/Client/Cumparator asupra unui Bun sau Serviciu.
 
 **Comentariu** – apreciere sau observatie cu scop critic, pe marginea unui Review sau a unui alt comentariu.
 
@@ -80,7 +80,7 @@ Listele pot fi:
 
 Algoritmul de cautare este format din 2 componente: relevanta text (scor reprezentat de matching-ul dintre termenul de cautare si datele Bunului), popularitatea Bunului in platforma eMAG. Top Bunuri sunt reordonate folosind un algoritm de machine learning in vederea imbunatatirii relevantei cautarilor.
 
-2.  **DOCUMENTE CONTRACTUALE**
+2. **DOCUMENTE CONTRACTUALE**
 
 2.1. Prin inregistrarea unei Comenzi pe Site, Cumparatorul este de acord cu forma de comunicare (telefonic sau e-mail) prin care Vanzatorul isi deruleaza operatiunile comerciale.
 
@@ -94,7 +94,7 @@ Algoritmul de cautare este format din 2 componente: relevanta text (scor repreze
 
 2.6. Documentul si informatiile puse la dispozitie de catre Vanzator pe Site vor sta la baza Contractului, in completarea acestuia fiind certificatul de garantie emis de catre Vanzator sau un furnizor al acestuia pentru Bunurile achizitionate.
 
-3.  **POLITICA DE VANZARE ONLINE**
+3. **POLITICA DE VANZARE ONLINE**
 
 3.1. Accesul in vederea efectuarii unei Comenzii ii este permis oricarui Utilizator/Cumparator.
 
@@ -116,11 +116,11 @@ Pentru motive justificate eMAG isi rezerva dreptul de a restrictiona accesul Uti
 
 3.9. Dupa 14 (paisprezece) zile de la achizitionarea unui Bun sau Serviciu, Cumparatorului i se va solicita inscrierea unui Review legat de Bunul sau Serviciul achizitionat. Solicitarea va fi transmisa catre adresa de email inscrisa de Cumparator in Cont. In acest fel, Cumparatorul contribuie la informarea altor posibili Utilizatori/ Clienti/ Cumparatori de pe Site si se implica activ in dezvoltarea de noi Servicii si in detalierea cat mai completa a caracteristicilor Bunurilor.
 
-4.  **CESIONAREA SI SUBCONTRACTAREA**
+4. **CESIONAREA SI SUBCONTRACTAREA**
 
 4.1. Vanzatorul poate cesiona si/sau subcontracta o terta parte pentru Servicii ce tin de onorarea Comenzii, cu informarea Cumparatorului, nefiind necesar acordul acestuia. Vanzatorul va fi intotdeauna responsabil fata de Cumparator pentru toate obligatiile contractuale.
 
-5.  **DREPTUL DE PROPRIETATE INTELECTUALA SI INDUSTRIALA**
+5. **DREPTUL DE PROPRIETATE INTELECTUALA SI INDUSTRIALA**
 
 5.1. Continutul, astfel cum este definit in preambul, incluzand dar nelimitandu-se la logo-uri, reprezentari stilizate, simboluri comerciale, imagini statice, imagini dinamice, text si/sau continut multimedia prezentate pe Site, sunt proprietatea exclusiva a eMAG, acestuia fiindu-i rezervate toate drepturile obtinute in acest sens in mod direct sau indirect (prin licente de utilizare si/sau publicare).
 
@@ -136,7 +136,7 @@ Pentru motive justificate eMAG isi rezerva dreptul de a restrictiona accesul Uti
 
 5.7. Este interzisa orice utilizare a Continutului in alte scopuri decat cele permise expres prin prezentul Document sau de acordul de utilizare care il insoteste, in cazul in care acesta exista.
 
-6.  **COMANDA**
+6. **COMANDA**
 
 6.1. Clientul/Cumparatorul poate efectua Comenzi pe Site, prin adaugarea Bunurilor si/sau Serviciilor dorite in cosul de cumparaturi, urmand a finaliza Comanda efectuand plata prin una dintre modalitatile indicate expres. Odata adaugat in cosul de cumparaturi, un Bun si/sau un Serviciu este disponibil pentru achizitie in masura in care exista stoc disponibil pentru aceasta. Adaugarea unui Bun/Serviciu in cosul de cumparaturi, in lipsa finalizarii Comenzii, nu atrage dupa sine inregistrarea unei comenzi, implicit nici rezervarea automata a Bunului/Serviciului.
 
@@ -192,13 +192,13 @@ Orice diminuare a valorii Bunurilor rezultata din manipularea acestora altele de
 
 6.11. Disponibilitatea unui Bun va fi afisata in Site dupa cum urmeaza:
 
-*   **“in stoc”**– avem mai mult de 3 bucati in stocul eMAG
-*   **“stoc limitat”**– avem mai putin de 3 bucati in stocul eMAG
-*   **“in stoc furnizor”**– Bunul nu este disponibil in stocul eMAG. Daca inregistrezi o Comanda pentru un Bun care are in dreptul lui “in stoc furnizor”, unul dintre consultantii nostri de vanzari te va contacta in cel mai scurt timp ca sa iti comunice disponibilitatea Bunului.
-*   **“la comanda”**– Bunul nu este disponibil in stocul eMAG si pentru moment nu avem informatii despre disponibilitatea acestuia in stocul furnizorului. Dar, daca inregistrezi o Comanda pentru un Bun care are in dreptul lui “la comanda”, unul dintre consultantii nostri de vanzari va verifica disponibilitatea produsului in stocul furnizorului si te va contacta ca sa iti comunice disponibilitatea Bunului.
-*   **“precomanda”**– Bunul nu este disponibil in stocul eMAG si nici in stocul furnizorului. Dar, daca inregistrezi o comanda pentru un Bun care are in dreptul lui “precomanda”, unul dintre consultantii nostri de vanzari va verifica termenul de aprovizionare al furnizorului si te va contacta ca sa iti comunice disponibilitatea Bunului.
-*   **“stoc epuizat”**– Bunul nu mai este disponibil in stocul eMAG
-*   **“momentan indisponibil”**– momentan nu putem procura Bunul pentru ca nu se gaseste in stocul furnizorului.
+* **“in stoc”**– avem mai mult de 3 bucati in stocul eMAG
+* **“stoc limitat”**– avem mai putin de 3 bucati in stocul eMAG
+* **“in stoc furnizor”**– Bunul nu este disponibil in stocul eMAG. Daca inregistrezi o Comanda pentru un Bun care are in dreptul lui “in stoc furnizor”, unul dintre consultantii nostri de vanzari te va contacta in cel mai scurt timp ca sa iti comunice disponibilitatea Bunului.
+* **“la comanda”**– Bunul nu este disponibil in stocul eMAG si pentru moment nu avem informatii despre disponibilitatea acestuia in stocul furnizorului. Dar, daca inregistrezi o Comanda pentru un Bun care are in dreptul lui “la comanda”, unul dintre consultantii nostri de vanzari va verifica disponibilitatea produsului in stocul furnizorului si te va contacta ca sa iti comunice disponibilitatea Bunului.
+* **“precomanda”**– Bunul nu este disponibil in stocul eMAG si nici in stocul furnizorului. Dar, daca inregistrezi o comanda pentru un Bun care are in dreptul lui “precomanda”, unul dintre consultantii nostri de vanzari va verifica termenul de aprovizionare al furnizorului si te va contacta ca sa iti comunice disponibilitatea Bunului.
+* **“stoc epuizat”**– Bunul nu mai este disponibil in stocul eMAG
+* **“momentan indisponibil”**– momentan nu putem procura Bunul pentru ca nu se gaseste in stocul furnizorului.
 
 **6.12. Plasarea unei comenzi prin metodele de plata “Plateste peste 30 zile” si “Plateste in 4 rate”**
 
@@ -212,7 +212,7 @@ Orice diminuare a valorii Bunurilor rezultata din manipularea acestora altele de
 
 6.12.5 Categoriile de Bunuri eligibile exclud Bunurile din urmatoarele categorii: Bijuterii, drone si accesorii, card cadou, serviciul de montaj, licente, cartele prepay, reincarcare-cartele-prepay-online, asigurari, Jocuri Consola & PC, Software.
 
-7.  **BUNURI/SERVICII PENTRU CARE NU SE ASIGURA DREPTUL DE RETRAGERE**
+7. **BUNURI/SERVICII PENTRU CARE NU SE ASIGURA DREPTUL DE RETRAGERE**
 
 7.1. Sunt exceptate de la dreptul de retragere din Contract următoarele:
 
@@ -238,7 +238,7 @@ Orice diminuare a valorii Bunurilor rezultata din manipularea acestora altele de
 
 7.1.11. furnizarea de conţinut digital care nu este livrat pe un suport material, dacă prestarea a început cu acordul prealabil expres al Cumparatorului şi după ce acesta a confirmat că a luat cunoştinţă de faptul că îşi va pierde dreptul la retragere.
 
-8.  **CONFIDENTIALITATE**
+8. **CONFIDENTIALITATE**
 
 8.1. eMAG va pastra confidentialitatea informatiilor de orice natura pe care le furnizati. Dezvaluirea informatiilor furnizate se va putea face doar in conditiile mentionate in prezentul Document.
 
@@ -246,7 +246,7 @@ Orice diminuare a valorii Bunurilor rezultata din manipularea acestora altele de
 
 8.3. Prin transmiterea de informatii sau materiale prin intermediul acestui site, oferiti Vanzatorului acces nerestrictionat si irevocabil la acestea, dreptul de a utiliza, reproduce, afisa, modifica, transmite si distribui aceste materiale sau informatii. Sunteti, de asemenea, de acord ca Vanzatorul sa poata utiliza liber, in interes propriu, aceste informatii, idei, concepte, know-how-uri sau tehnici pe care ni le-ati trimis prin intermediul Site-ului. eMAG nu va constitui subiect de obligatii referitoare la confidentialitatea informatiilor trimise, daca legislatia in vigoare nu prevede alte specificari in acest sens.
 
-9.  **COMUNICARI COMERCIALE**
+9. **COMUNICARI COMERCIALE**
 
 9.1. Cumparatorul/Utilizatorul/Clientul isi poate modifica in orice moment optiunea cu privire la acordul dat Vanzatorului pentru Comunicarile Comerciale continand informatii generale si tematice inclusiv informatii cu privire la oferte sau promotii, dupa cum urmeaza:
 
@@ -260,26 +260,26 @@ Orice diminuare a valorii Bunurilor rezultata din manipularea acestora altele de
 
 “**Cosul meu**”, Vanzatorul va transmite Cumparatorului/Utilizatorului Comunicari Comerciale cu privire:
 
-*   – la modificarea pretului Bunurilor sau Serviciilor adaugate in sectiunea “Cosul meu”,
-*   – la recomandari de Bunuri sau Serviciilor similare cu cele adaugate in sectiunea “Cosul meu”,
-*   – la existenta Bunurilor sau Serviciilor in sectiunea “Cosul meu”, si
-*   – disponibilitate stoc Bunuri sau Serviciilor adaugate in sectiunea “Cosul meu”.
+* – la modificarea pretului Bunurilor sau Serviciilor adaugate in sectiunea “Cosul meu”,
+* – la recomandari de Bunuri sau Serviciilor similare cu cele adaugate in sectiunea “Cosul meu”,
+* – la existenta Bunurilor sau Serviciilor in sectiunea “Cosul meu”, si
+* – disponibilitate stoc Bunuri sau Serviciilor adaugate in sectiunea “Cosul meu”.
 
 “**Favorite**”, Vanzatorul va transmite Cumparatorului/Utilizatorului Comunicari Comerciale cu privire:
 
-*   – la modificarea pretului Bunurilor sau Serviciilor adaugate in sectiunea “Favorite”,
-*   – la recomandari de Bunuri sau Servicii similar cu cele adaugate in sectiunea “Favorite”, si
-*   – disponibilitate stoc sau Serviciilor Bunuri adaugate in sectiunea “Favorite”.
+* – la modificarea pretului Bunurilor sau Serviciilor adaugate in sectiunea “Favorite”,
+* – la recomandari de Bunuri sau Servicii similar cu cele adaugate in sectiunea “Favorite”, si
+* – disponibilitate stoc sau Serviciilor Bunuri adaugate in sectiunea “Favorite”.
 
 9.3. In urma achizitionarii unui Bun sau Serviciu, Vanzatorul va transmite Cumparatorului/Utilizatorului Comunicari Comerciale cu privire la:
 
-*   – sugestii de Bunuri sau Servicii recomandate a fi utilizate impreuna cu Bunul sau Serviciul achizitionat.
+* – sugestii de Bunuri sau Servicii recomandate a fi utilizate impreuna cu Bunul sau Serviciul achizitionat.
 
 9.4. Clientul/Utilizatorul se poate dezabona, in orice moment, de la Comunicarile Comerciale mentionate la punctul 9.3. de mai sus  prin accesarea link-ului de dezabonare afisat in mesajele comerciale primite de la eMAG sau prin contactarea eMAG in acest sens.
 
 9.5. De asemenea, pentru imbunatatirea ofertei de Bunuri si Servicii si a experientei de cumparare, vom folosi datele dvs. pentru efectuarea de cercetari de piata si sondaje de opinie. Informatiile obtinute in urma acestor cercetari de piata si a sondajelor de opinie nu vor fi utilizate in scopuri publicitare ci doar in cele mentionate mai sus. Raspunsurile dvs. la cercetarile de piata si sondajele de opinie nu vor fi asociate cu identitatea dvs. si nici transmise catre terți și nici nu vor fi publicate. Puteti obiecta la utilizarea datelor in scopuri de cercetare de piata si sondaje de opinie in orice moment, prin accesarea link-ului de dezabonare afisat in mesaj sau prin contactarea eMAG.
 
-10.  **FACTURARE – PLATA** 
+10. **FACTURARE – PLATA** 
 
 10.1. Preturile Bunurilor si Serviciilor afisate in cadrul site-ului www.emag.ro includ T.V.A. conform legislatiei in vigoare.
 
@@ -299,19 +299,19 @@ Orice diminuare a valorii Bunurilor rezultata din manipularea acestora altele de
 
 10.9. Optiunea pentru plata Plata cu 1 click poate fi activata de catre Utilizator sau Cumparator, in fata eMag, entitatea care furnizează serviciul în domeniul inregistrării și stocarii datelor cardului de plata a utilizatorului:
 
-1.  a) in orice moment din Cont:
+1. a) in orice moment din Cont:
 
-*   – Clientul/Cumparatorul acceseaza Contul sau->sectiunea “Cardurile mele”->alege optiunea “Adauga card”-> e directionat in pagina de plata a procesatorului de plati unde introduce datele cardului pentru a efectua o tranzactie de 1 leu necesara validarii cardului. Dupa validarea cardului de catre banca emitenta, se activeaza automat optiunea “Plata cu 1 click” si se emite tokenul aferent cardului bancar inregistrat. Din acest moment Utilizatorul/Cumparatorul poate beneficia de optiunea “Plata cu 1 click” utilizand tokenul aferent cardului salvat pentru plata Comenzilor.
+* – Clientul/Cumparatorul acceseaza Contul sau->sectiunea “Cardurile mele”->alege optiunea “Adauga card”-> e directionat in pagina de plata a procesatorului de plati unde introduce datele cardului pentru a efectua o tranzactie de 1 leu necesara validarii cardului. Dupa validarea cardului de catre banca emitenta, se activeaza automat optiunea “Plata cu 1 click” si se emite tokenul aferent cardului bancar inregistrat. Din acest moment Utilizatorul/Cumparatorul poate beneficia de optiunea “Plata cu 1 click” utilizand tokenul aferent cardului salvat pentru plata Comenzilor.
 
 Pentru evitarea oricarui dubiu, suma de 1 leu nu va fi debitata din contul Utilizatorului/Cumparatorului fiind doar blocata temporar de catre banca emitenta a cardului in vederea validarii datelor de card introduse.
 
-1.  b) in momentul plasarii unei Comenzi.
+1. b) in momentul plasarii unei Comenzi.
 
-*   – Clientul/Cumparatorul plaseaza Comanda si alege modalitatea de plata Card de credit sau de debit, activeaza optiunea “Plata cu 1 click”, e redirectionat catre pagina procesatorului de plati, introduce datele de card si plateste, respectiv finalizeaza Comanda. Dupa confirmarea platii, cardul salvat este disponibil pentru plati viitoare utilizandu-se tokenul aferent cardului salvat.
+* – Clientul/Cumparatorul plaseaza Comanda si alege modalitatea de plata Card de credit sau de debit, activeaza optiunea “Plata cu 1 click”, e redirectionat catre pagina procesatorului de plati, introduce datele de card si plateste, respectiv finalizeaza Comanda. Dupa confirmarea platii, cardul salvat este disponibil pentru plati viitoare utilizandu-se tokenul aferent cardului salvat.
 
-1.  c) dupa plasarea unei Comenzi in Site.
+1. c) dupa plasarea unei Comenzi in Site.
 
-*   – Clientul/Cumparatorul plaseaza Comanda si alege modalitatea de plata Card de credit sau de debit, dar nu activeaza Plata cu 1 click la plasarea Comenzii. Dupa confirmarea platii, Clientul/Cumparatorul va avea posibilitatea sa salveze cardul utilizat la achitarea Comenzii prin activarea optiunii “Plata cu 1 click”. Cardul astfel salvat este disponibil pentru plati viitoare utilizandu-se tokenul aferent cardului salvat.
+* – Clientul/Cumparatorul plaseaza Comanda si alege modalitatea de plata Card de credit sau de debit, dar nu activeaza Plata cu 1 click la plasarea Comenzii. Dupa confirmarea platii, Clientul/Cumparatorul va avea posibilitatea sa salveze cardul utilizat la achitarea Comenzii prin activarea optiunii “Plata cu 1 click”. Cardul astfel salvat este disponibil pentru plati viitoare utilizandu-se tokenul aferent cardului salvat.
 
 Astfel, la activarea optiunii “Plata cu 1 click”, in Site, datelor cardului de plata introduse de catre  Utilizator/ Cumparator li se vor atribui un Token, care poate fi utilizat ulterior pentru efectuarea Tranzactiilor. Dupa activarea optiunii de plata ”Plata cu 1 click”, Cumparatorul va putea efectua plata urmatoarelor Comenzi (“Plata cu 1 click”), fara a mai fi necesara reintroducerea datelor cardului de plata deja salvat. Introducand datele de card Utilizatorul/Cumparatorul, confirma ca a fost anterior informat si a acceptat termenii si conditiile de utilizare a serviciului “Plata cu 1 click”.
 
@@ -333,7 +333,7 @@ Datele cu caracter personal conținute în baza de date de tokenizare vor fi pre
 
 10.14 Plata prin “Plateste peste 15 zile” reprezinta o metoda de plata prin care Vanzatorul ofera posiblitatea Cumparatorului sa plaseze comenzi in limita plafonului maxim comunicat cu efectuarea platii, prin debitarea cardului bancar selectat, in termen de 15 zile de la data estimata de livrare a ultimului Bun din Comanda;
 
-11.  **LIVRAREA BUNURILOR**
+11. **LIVRAREA BUNURILOR**
 
 11.1. Conditiile de livrare a Bunurilor si Serviciilor vandute de catre eMAG le ragasesti in sectiunea [Livrare comenzi](https://www.emag.ro/info/livrarea-comenzilor-emag).
 
@@ -343,7 +343,7 @@ Datele cu caracter personal conținute în baza de date de tokenizare vor fi pre
 
 11.3. Vanzatorul va efectua livrarea Bunurilor si Serviciilor numai pe teritoriul Romaniei.
 
-12.  **GARANTII**
+12. **GARANTII**
 
 12.1. Toate Bunurile comercializate de catre eMAG, cu exceptia Bunurilor resigilate, beneficiaza de conditii de garantie conforme legislatiei in vigoare si politicilor comerciale ale producatorilor. Bunurile sunt noi (exceptie Bunurile resigilate), in ambalajele originale si provin din surse autorizate de fiecare producator in parte.
 
@@ -365,11 +365,11 @@ Lipsa certificatului de garantie al Bunului trebuie semnalata in maxim 48 (patru
 
 12.7. In cazul Bunurilor resigilate, certificatul de garantie este emis de catre eMAG, iar garantia poate sa acopere o perioada diferita fata de perioada de garantie a aceluiasi Bun nou, sigilat. Perioada de garantie este specificata in certificatul de garantie pentru fiecare Bun resigilat in parte. Conditiile de utilizare, manipulare si transportare a unui Bun resigilat sunt aceleasi cu cele de la produsele sigilate si beneficiaza de aceleasi servicii daca nu este stipulat altfel in pagina produsului.
 
-13.  **TRANSFERUL PROPRIETATII BUNURILOR**
+13. **TRANSFERUL PROPRIETATII BUNURILOR**
 
 13.1. Proprietatea asupra Bunurilor va fi transferata la livrare, dupa efectuarea platii din partea Cumparatorului in locatia indicata in Comanda (intelegand prin livrare – semnarea de primire a documentului de transport furnizat de curier sau semnarea de primire pe factura fiscala in cazul livrarilor efectuate de personalul Vanzatorului).
 
-14.  **RASPUNDERE**
+14. **RASPUNDERE**
 
 14.1. Vanzatorul nu poate fi responsabil pentru daune de orice fel pe care Cumparatorul sau oricare terta parte o poate suferi ca rezultat al indeplinirii de catre Vanzator a oricarei din obligatiile sale conform Comenzii si pentru daune care rezulta din utilizarea Bunurilor si Serviciilor dupa livrare si in special pentru pierderea acestora.
 
@@ -379,7 +379,7 @@ Lipsa certificatului de garantie al Bunului trebuie semnalata in maxim 48 (patru
 
 14.4. Vanzatorul isi rezervă dreptul de a actualiza și modifica periodic Termenele si Conditiile Site-ului pentru a reflecta orice modificări ale modului si conditiilor de functionare a Site-ului sau orice modificări ale cerințelor legale. Documentul este opozabili Clientilor / Utilizatorilor/ Cumparatorilor de la momentul afisarii in Site.  În cazul oricărei astfel de modificări, vom afișa pe Site versiunea modificată a Documentului, motiv pentru care va rugam sa verificati periodic continutul acestui Document.
 
-15.  **SCRIEREA DE REVIEW-URI, COMENTARII, INTREBARI SI RASPUNSURI**
+15. **SCRIEREA DE REVIEW-URI, COMENTARII, INTREBARI SI RASPUNSURI**
 
 15.1. scrierea de Review-uri, Comentarii, Intrebari si Raspunsuri se poate face, de catre Utilizatori/Clienti/Cumparatori, in sectiunile “Intrebarile si raspunsurile clientilor” si “Review-uri”. Informatiile inscrise pot fi atat pozitive, cat si negative, si se vor referi la caracteristicile si modul de folosire al unui produs sau serviciu.  
 15.2. In momentul inregistrarii unui anumit Review/Comentariu/Intrebare/Raspuns pe Site, Utilizatorii/Clientii/Cumparatorii acorda Vanzatorului o licenta neexclusiva, perpetuua, irevocabila, nelimitata teritorial si dau dreptul Vanzatorului de a utiliza, reproduce, modifica, adapta, publica, traduce, distribui si de a afisa acest continut.
@@ -432,31 +432,31 @@ Eventualele sesizari sau reclamatii legate de Bunul si/sau Serviciul achizitiona
 
 Mai multe informatii [aici](https://s13emagst.akamaized.net/layout/ro/static-upload/ii-emag-product-review-guide-ro.pdf).
 
-16.  **PRELUCRAREA DATELOR CU CARACTER PERSONAL**
+16. **PRELUCRAREA DATELOR CU CARACTER PERSONAL**
 
 16.1. Te rog sa parcurgi [Politica de Confidențialitate](https://www.emag.ro/info/prelucrarea-datelor-cu-caracter-personal) cu privire la prelucrarea datelor cu caracter personal, care face parte din prezentul Document.
 
-17.  **FOLOLSIREA COOKIE-URILOR**
+17. **FOLOLSIREA COOKIE-URILOR**
 
 17.1. Vezi [Politica de Cookies](https://www.emag.ro/info/politica-de-utilizare-cookie-uri), care face parte din prezentul Document.
 
-18.  **FORTA MAJORA**
+18. **FORTA MAJORA**
 
 18.1. Nici una din parti nu va fi raspunzatoare pentru neexecutarea obligatiilor sale contractuale, daca o astfel de neexecutare la termen si/sau in mod corespunzator, total sau partial este datorata unui eveniment de forta majora. Forta majora este evenimentul imprevizibil, in afara controlului partilor si care nu poate fi evitat.
 
 18.2.  Daca in termen de 15 (cincisprezece) zile de la data producerii lui, respectivul eveniment nu inceteaza fiecare parte va avea dreptul sa notifice celeilalte parti incetarea de plin drept a contractului fara ca vreuna dintre ele sa poata pretinde celeilalte alte daune-interese.
 
-19.  **LEGEA APLICABILA – JURISDICTIA.** **SESIZARI SI RECLAMATII. SOLUTIONAREA ALTERNATIVA A LITIGIILOR (SAL/SOL)**
+19. **LEGEA APLICABILA – JURISDICTIA.** **SESIZARI SI RECLAMATII. SOLUTIONAREA ALTERNATIVA A LITIGIILOR (SAL/SOL)**
 
 19.1. Prezentul document este supus legii romane. In cazul unor eventuale litigii aparute intre Vanzator si Utilizatori / Cumparatori se va incerca intai rezolvarea pe cale amiabila a acestora. Prezentul capitol si procedura de mai jos reprezenta o dovada a disponibilitatii Vanzatorului de a solutiona rapid, eficient, amiabil, alternativ, extra-judiciar, sesizarile/reclamatiile/litigiile in care este parte, uzitand de toate mecanismele si masurile legale aplicabe in Romania.
 
 19.2. Astfel, pentru sesizari sau reclamatii legate de Bunul si/sau Serviciul achizitionat, Cumparatorii au la dispozitie oricand posibilitatea transmiterii respectivei reclamatii prin formularul de contact disponibil in cadrul Site-ului: http://info.emag.ro/reclamatii-sesizari. Termenul maxim de solutionare a reclamatiilor sau a sesizarilor de catre Vanzator este de 30 de zile calendaristice de la data primirii acestora.
 
-In cazul in care Cumparatorii: 
+In cazul in care Cumparatorii: 
 
-*   nu primesc un raspuns la expirarea celor 30 zile de la Vanzator; sau
-*   primesc un raspuns peste acest termen de la Vanzator; sau
-*   sunt nemultumiti asupra modului in care a fost gestionata sesizarea/reclamatia de catre Vanzator; 
+* nu primesc un raspuns la expirarea celor 30 zile de la Vanzator; sau
+* primesc un raspuns peste acest termen de la Vanzator; sau
+* sunt nemultumiti asupra modului in care a fost gestionata sesizarea/reclamatia de catre Vanzator; 
 
 pot apela la procedurile alternative de solutionare (SAL/SOL) prezentate mai jos si ulterior instantelor de judecata competente conform art. 19.7 din prezentul document.
 
@@ -470,7 +470,7 @@ pot apela la procedurile alternative de solutionare (SAL/SOL) prezentate mai jos
 
 19.7. In cazul in care solutionarea amiabila ori alternativa a sesizarilor/reclamatiilor/litigiilor nu va fi posibila, ori nu se va ajunge la un consens mutual, acestea vor fi solutionate de catre instantele judecatoresti romane competente din Municipiul Bucuresti.
 
-20.  **INFORMATII PRIVIND DEEE**
+20. **INFORMATII PRIVIND DEEE**
 
 20.1. Deseurile de echipamente electrice si electronice (DEEE) pot contine substante periculoase ce au un impact negativ asupra mediului si sanatatii umane in cazul in care nu sunt colectate separat.
 
@@ -484,8 +484,8 @@ Avand in vedere prevederile OUG 195/2005 – referitoare la protectia mediului s
 
 20.1.4. eMAG asigura colectarea, in timpul programului de lucru, de la utilizatorii finali, cu titlu gratuit, fara obligatia acestora de a cumpara EEE de tip echivalent, a DEEE de dimensiuni foarte mici in cadrul urmatoarelor Showroom-uri eMAG situate la adresa:
 
-*   – Grant Shopping Center Șoseaua Virtutii, Nr. 148, sector 6, sector 6, București, Romania;
-*   – Strada Niciman 2 Complex Axa Niciman (lângă magazinul LIDL), Iași.
+* – Grant Shopping Center Șoseaua Virtutii, Nr. 148, sector 6, sector 6, București, Romania;
+* – Strada Niciman 2 Complex Axa Niciman (lângă magazinul LIDL), Iași.
 
 20.2. Simbolul care indica faptul ca echipamentele electrice si electronice fac obiectul unei colectari separate reprezinta o pubela cu roti barata cu o cruce, ca in imaginea alaturata.
 
@@ -493,7 +493,7 @@ Vezi aici Simbol DEEE
 
 20.3. Aceasta pictograma indica faptul ca DEEE nu trebuie amestecate cu deseuri menajere si ca acestea fac obiectul unei colectari separate.
 
-21.  **INFORMATII PRIVIND CERINTELE DE PROIECTARE ECOLOGICA APLICABILE MASINILOR DE SPALAT RUFE DE UZ CASNIC**
+21. **INFORMATII PRIVIND CERINTELE DE PROIECTARE ECOLOGICA APLICABILE MASINILOR DE SPALAT RUFE DE UZ CASNIC**
 
 21.1. Anexa IV din Regulamentul (UE) nr. 1015/2010 al comisiei din 10 noiembrie 2010 de implementare a Directivei 2009/125/CE a Parlamentului European si a Consiliului cu privire la cerintele de proiectare ecologica aplicabile masinilor de spalat rufe de uz casnic.
 
@@ -517,7 +517,7 @@ Masini de spalat rufe de uz casnic cu o capacitate nominala de 3,5 kg:
 
 (c) indicele de eficienta a spalarii: I w de 1,03;
 
-1.  d) emisiile de zgomot transmise prin aer in timpul spalarii/stoarcerii prin centrifugare (1 100 rpm): nu sunt disponibile.
+1. d) emisiile de zgomot transmise prin aer in timpul spalarii/stoarcerii prin centrifugare (1 100 rpm): nu sunt disponibile.
 
 Masini de spalat rufe de uz casnic cu o capacitate nominala de 4,5 kg:
 
@@ -575,7 +575,7 @@ Masini de spalat rufe de uz casnic cu o capacitate nominala de 8 kg:
 
 (e) emisiile de zgomot transmise prin aer in timpul spalarii/stoarcerii prin centrifugare (1 600 rpm): 54/74 dB(A) re 1pW.
 
-22.  **INFORMATII PRIVIND CERINTELE DE PROIECTARE ECOLOGICA APLICABILE MASINILOR DE SPALAT VASE DE UZ CASNIC**
+22. **INFORMATII PRIVIND CERINTELE DE PROIECTARE ECOLOGICA APLICABILE MASINILOR DE SPALAT VASE DE UZ CASNIC**
 
 22.1. Anexa IV din Regulamentul (UE) nr. 1016/2010 al comisiei din 10 noiembrie 2010
 
