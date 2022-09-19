@@ -3,7 +3,7 @@ General Terms and Conditions for Linguists
 
 **§1 General**
 
-1.  These General Terms and Conditions (“T&Cs”) apply to the collaboration between greatcontent GmbH, Schumannstrasse 2, 10117 Berlin (“GC”, “we”, “us”) which offers its clients (“client”, “clients”), inter alia, particular services related to the creation, proofreading and translation of individually prepared texts and contents on its internet platform (the “platform”) www.greatcontent.com, and the author who performs such services as a subcontractor for GC (“author”, “authors”,”you”,”your”).
+1.  These General Terms and Conditions (“T&Cs”) apply to the collaboration between greatcontent GmbH, Friedrichstrasse 114A, 10117 Berlin (“GC”, “we”, “us”) which offers its clients (“client”, “clients”), inter alia, particular services related to the creation, proofreading and translation of individually prepared texts and contents on its internet platform (the “platform”) www.greatcontent.com, and the author who performs such services as a subcontractor for GC (“author”, “authors”,”you”,”your”).
 2.  The author’s terms and conditions shall not become subject matter of this contract, even if GC does not specifically reject them.
 3.  GC only agrees to contracts with contractors set out in § 14 of the German Civil Code.
 4.  Changes to these terms and conditions shall be communicated to the authors by GC in writing. These changes shall be considered accepted if GC does not receive a written objection from the author within a month after the date of receipt. Should there be changes, GC shall especially inform authors about their consequences in a notification of changes. The timely sending of the objection is sufficient to meet the deadline.
