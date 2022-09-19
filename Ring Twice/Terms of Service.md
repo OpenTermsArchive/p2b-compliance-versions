@@ -49,28 +49,28 @@ Ces informations contiennent notamment les données suivantes :
 
 1.3.1.1. Les données nécessaires à l’inscription au service que nous fournissons sur nos Plateformes ou à l’accès à tout autre service fournis par nous. Ces données sont notamment vos nom et prénom, adresse e-mail, sexe et mot de passe. Ces informations sont obligatoires. A défaut, Ring Twice ne sera pas en mesure de vous fournir les services proposés par nos Plateformes et vous ne serez pas autorisés à créer de compte sur nos Plateformes ;
 
-*   1.3.1.2. Une photographie ;
-*   1.3.1.3. Une adresse postale ;
-*   1.3.1.4. Un numéro de téléphone ;
-*   1.3.1.5. Vos compétences et le tarif horaire indicatif lié ;
-*   1.3.1.6 Une mini-biographie de présentation ainsi que des mini-biographies spécifiques pour chaque compétence ;
-*   1.3.1.7 Votre date de naissance ;
-*   1.3.1.8 Votre numéro de registre national ;
-*   1.3.1.9.Une copie de tous les échanges intervenus entre vous et Ring Twice ;
-*   1.3.1.10.Une copie de l’ensemble des réservations ou des publications effectuées sur nos Plateformes ;
-*   1.3.1.11. Le détail des opérations financières ou comptables effectuées sur nos Plateformes ou par tout autre moyen, contenant notamment les informations relatives à votre carte de paiement, vos données bancaires, les informations relatives aux services réservés ou pour lesquels vous avez publié une annonce sur nos Plateformes ;
-*   1.3.1.12. Le détail de vos visites sur nos Plateformes et des contenus auxquels vous avez accédé ;
-*   1.3.1.13. Le cas échéant, vos réponses à nos sondages et questionnaires et les avis que vous avez laissés pour évaluer la prestation d’un autre membre de notre communauté, ces informations étant notamment susceptibles d’être utilisées dans le cadre de recherches et d’analyses du comportement utilisateur ;
-*   1.3.1.14. Les données que nous pouvons vous demander de fournir lorsque vous nous signalez un problème relatif à nos Plateformes ou à nos services, comme par exemple l’objet de votre demande d’assistance ;
-*   1.3.1.15. Les données liées à votre localisation lorsque vous avez accepté que nous collections et traitions ces données ;
-*   1.3.1.16. Une copie de votre passeport, votre permis de conduite, votre carte d’identité ou tout autre document similaire que vous avez accepté de nous fournir.
-*   1.3.1.17 Le cas échéant, le numéro de TVA et le nom de votre entreprise
+* 1.3.1.2. Une photographie ;
+* 1.3.1.3. Une adresse postale ;
+* 1.3.1.4. Un numéro de téléphone ;
+* 1.3.1.5. Vos compétences et le tarif horaire indicatif lié ;
+* 1.3.1.6 Une mini-biographie de présentation ainsi que des mini-biographies spécifiques pour chaque compétence ;
+* 1.3.1.7 Votre date de naissance ;
+* 1.3.1.8 Votre numéro de registre national ;
+* 1.3.1.9.Une copie de tous les échanges intervenus entre vous et Ring Twice ;
+* 1.3.1.10.Une copie de l’ensemble des réservations ou des publications effectuées sur nos Plateformes ;
+* 1.3.1.11. Le détail des opérations financières ou comptables effectuées sur nos Plateformes ou par tout autre moyen, contenant notamment les informations relatives à votre carte de paiement, vos données bancaires, les informations relatives aux services réservés ou pour lesquels vous avez publié une annonce sur nos Plateformes ;
+* 1.3.1.12. Le détail de vos visites sur nos Plateformes et des contenus auxquels vous avez accédé ;
+* 1.3.1.13. Le cas échéant, vos réponses à nos sondages et questionnaires et les avis que vous avez laissés pour évaluer la prestation d’un autre membre de notre communauté, ces informations étant notamment susceptibles d’être utilisées dans le cadre de recherches et d’analyses du comportement utilisateur ;
+* 1.3.1.14. Les données que nous pouvons vous demander de fournir lorsque vous nous signalez un problème relatif à nos Plateformes ou à nos services, comme par exemple l’objet de votre demande d’assistance ;
+* 1.3.1.15. Les données liées à votre localisation lorsque vous avez accepté que nous collections et traitions ces données ;
+* 1.3.1.16. Une copie de votre passeport, votre permis de conduite, votre carte d’identité ou tout autre document similaire que vous avez accepté de nous fournir.
+* 1.3.1.17 Le cas échéant, le numéro de TVA et le nom de votre entreprise
 
 1.3.2. Les données que nous recueillons automatiquement
 
-*   1.3.2.1. Dans le cas où vous vous connectez à nos services en utilisant les fonctionnalités de réseaux sociaux mises à votre disposition, Ring Twice aura accès à certaines des données (notamment, vos prénom, nom de famille, photographie, adresse e-mail et nombre d’amis Facebook) de votre compte sur ledit réseau social conformément aux conditions générales d’utilisation du réseau social concerné Nous sommes également susceptibles de recueillir certaines de vos Données Personnelles lorsque vous interagissez avec des fonctionnalités de ces réseaux sociaux, tel que les fonctionnalités « J’aime ».
-*   1.3.2.2. Lors de chacune de vos visites, nous sommes susceptibles de recueillir, conformément à la législation applicable et avec votre accord, le cas échéant, des informations relatives aux appareils sur lesquels vous utilisez nos services ou aux réseaux depuis lesquels vous accédez à nos services, tels que notamment vos adresses IP, données de connexion, types et versions de navigateurs internet utilisés, types et versions des plugins de votre navigateur, systèmes et plateformes d’exploitation, l’identifiant publicitaire de votre appareil, données concernant votre parcours de navigation sur nos Plateformes, notamment votre parcours sur les différentes pages URL de nos Plateformes, le contenu auquel vous accédez ou que vous consultez, les termes de recherches utilisés, les erreurs de téléchargement, la durée de consultation de certaines pages, les interactions avec la page ainsi que tout numéro du téléphone utilisé pour nous contacter. Nous utilisons ces informations pour nous aider à améliorer notre site internet et améliorer vos expériences de visite. Les journaux d’activités de nos serveurs ne collectent pas de Données Personnelles. Parmi les technologies utilisées pour recueillir ces informations, nous avons notamment recours aux cookies (pour en savoir plus à ce sujet, veuillez-vous référer à notre [Avis relatif aux Cookies](https://ringtwice.be/p/condgen#Cookies)).
-*   1.3.2.3. Nous recueillons également des informations sur votre utilisation de notre Plateforme (telles que le nombre d’annonces publiées, votre taux de réponse aux messages, votre date d’inscription, votre moyenne d’avis reçus, etc.) qui sont susceptibles d’être affichées sur votre profil public.
+* 1.3.2.1. Dans le cas où vous vous connectez à nos services en utilisant les fonctionnalités de réseaux sociaux mises à votre disposition, Ring Twice aura accès à certaines des données (notamment, vos prénom, nom de famille, photographie, adresse e-mail et nombre d’amis Facebook) de votre compte sur ledit réseau social conformément aux conditions générales d’utilisation du réseau social concerné Nous sommes également susceptibles de recueillir certaines de vos Données Personnelles lorsque vous interagissez avec des fonctionnalités de ces réseaux sociaux, tel que les fonctionnalités « J’aime ».
+* 1.3.2.2. Lors de chacune de vos visites, nous sommes susceptibles de recueillir, conformément à la législation applicable et avec votre accord, le cas échéant, des informations relatives aux appareils sur lesquels vous utilisez nos services ou aux réseaux depuis lesquels vous accédez à nos services, tels que notamment vos adresses IP, données de connexion, types et versions de navigateurs internet utilisés, types et versions des plugins de votre navigateur, systèmes et plateformes d’exploitation, l’identifiant publicitaire de votre appareil, données concernant votre parcours de navigation sur nos Plateformes, notamment votre parcours sur les différentes pages URL de nos Plateformes, le contenu auquel vous accédez ou que vous consultez, les termes de recherches utilisés, les erreurs de téléchargement, la durée de consultation de certaines pages, les interactions avec la page ainsi que tout numéro du téléphone utilisé pour nous contacter. Nous utilisons ces informations pour nous aider à améliorer notre site internet et améliorer vos expériences de visite. Les journaux d’activités de nos serveurs ne collectent pas de Données Personnelles. Parmi les technologies utilisées pour recueillir ces informations, nous avons notamment recours aux cookies (pour en savoir plus à ce sujet, veuillez-vous référer à notre [Avis relatif aux Cookies](https://ringtwice.be/p/condgen#Cookies)).
+* 1.3.2.3. Nous recueillons également des informations sur votre utilisation de notre Plateforme (telles que le nombre d’annonces publiées, votre taux de réponse aux messages, votre date d’inscription, votre moyenne d’avis reçus, etc.) qui sont susceptibles d’être affichées sur votre profil public.
 
 En nous fournissant vos Données Personnelles, vous serez considérés nous ayant donné la permission de traiter ces Données Personnelles de la façon exposée dans ce Règlement relatif à la protection de la vie privée. Nous pourrions avoir besoin de fournir vos Données Confidentielles à nos filiales et/ou à d’autres personnes agissant comme nos sous-traitants conformément à la Loi relative à la Vie privée, et situés dans n’importe quel pays y compris en dehors de l’Union Européenne, même si ce pays ne fournit pas un niveau adéquat de protection de vos Données Personnelles, uniquement dans le but de mener à bien ce traitement.
 
@@ -90,18 +90,18 @@ Quand vous visitez nos pages en ligne sur une plateforme, un réseau social (Fac
 
 Nous n’utiliserons pas vos Données Personnelles dans d’autres buts que ceux qui sont repris dans ce Règlement relatif à la protection de la vie privée ou pour poursuivre les buts spécifiquement indiqués quand nous les collectons. En particulier, nous pouvons utiliser des Données Personnelles en vue de :
 
-*   Nous aider à vous fournir les communications, applications ou services
-*   Nous aider à traiter des plaintes et d’autres opérations
-*   Confirmer ou corriger des Données Personnelles
-*   Traiter des informations pour notre compte
-*   Nous aider à mener nos affaires et programmes de mise en conformité
-*   Procéder à des audits de notre activité
-*   Effectuer des recherches pour notre compte
+* Nous aider à vous fournir les communications, applications ou services
+* Nous aider à traiter des plaintes et d’autres opérations
+* Confirmer ou corriger des Données Personnelles
+* Traiter des informations pour notre compte
+* Nous aider à mener nos affaires et programmes de mise en conformité
+* Procéder à des audits de notre activité
+* Effectuer des recherches pour notre compte
 
 Il peut y avoir d’autres raisons d’utiliser ou de divulguer des Données Personnelles comme, par exemple :
 
-*   Faire ce que nous impose un tribunal local ou étranger ou une autorité gouvernementale
-*   Divulguer des Données Personnelles à une autre société si nous devons vendre, attribuer ou transférer tout ou partie de nos activités ou fusionner avec une autre société.
+* Faire ce que nous impose un tribunal local ou étranger ou une autorité gouvernementale
+* Divulguer des Données Personnelles à une autre société si nous devons vendre, attribuer ou transférer tout ou partie de nos activités ou fusionner avec une autre société.
 
 Lorsque la loi le permet, nous pouvons partager des Données Personnelles avec des affiliés au sein de notre groupe ou avec des parties tierces sélectionnées (ex. des entreprises de services financiers, des entreprises de marketing) pour leur permettre de vous vendre leurs propres produits ou services ou ceux de tiers sélectionnés. Avant que nous ne partagions ces Données Personnelles, nous vous offrons la possibilité de choisir si vous souhaitez que ces Données Personnelles soient utilisées de cette façon. Vous avez également le droit de vous opposer, gratuitement et à tout moment à l’utilisation de vos Données Personnelles à des fins de marketing en nous contactant aux points de contact mentionnés à la fin du présent Règlement relatif à la protection de la vie privée.
 
@@ -174,11 +174,11 @@ Si vous n’acceptez pas l’utilisation de ces cookies, veuillez les rendre ina
 
 ### 2.2 Quels termes utilisons-nous dans cet Règlement ?
 
-*   Nous utilisons le terme « Utilisateur » en référence aux utilisateurs de nos sites internet, pages en ligne et services.
-*   Nous utilisons les termes « vous », « votre » et « le vôtre » en référence à l’Utilisateur qui lit ce Règlement sur les Cookies.
-*   Nous utilisons les termes « nous » et « notre » pour se référer à Ring Twice, dont l’adresse est située à 12, avenue des rossignols, 1310 La Hulpe, Belgique, le contrôleur de données.
-*   Nous utilisons le terme « Données Personnelles » en référence aux informations personnelles identifiables qui vous concernent.
-*   Nous utilisons le terme « Loi relative à la Vie Privée » en référence spécifiquement à la loi belge du 8 décembre 1992 relative à la protection de la vie privée à l’égard des traitements de données à caractère personnel et les diverses réglementations l’implémentant.
+* Nous utilisons le terme « Utilisateur » en référence aux utilisateurs de nos sites internet, pages en ligne et services.
+* Nous utilisons les termes « vous », « votre » et « le vôtre » en référence à l’Utilisateur qui lit ce Règlement sur les Cookies.
+* Nous utilisons les termes « nous » et « notre » pour se référer à Ring Twice, dont l’adresse est située à 12, avenue des rossignols, 1310 La Hulpe, Belgique, le contrôleur de données.
+* Nous utilisons le terme « Données Personnelles » en référence aux informations personnelles identifiables qui vous concernent.
+* Nous utilisons le terme « Loi relative à la Vie Privée » en référence spécifiquement à la loi belge du 8 décembre 1992 relative à la protection de la vie privée à l’égard des traitements de données à caractère personnel et les diverses réglementations l’implémentant.
 
 ### 2.3 Qu’est-ce qu’un cookie?
 
@@ -190,10 +190,10 @@ Certains cookies contiennent des informations personnelles – par exemple, si v
 
 Il y a principalement quatre types de cookies :
 
-*   Les _cookies de session_ qui ne durent que le temps de la session. Ils sont effacés quand l’utilisateur ferme le navigateur.
-*   Les _cookies persistants_ qui restent après la fermeture de la session. Ils sont conservés sur le disque dur de l’utilisateur jusqu’à leur expiration (les cookies persistants sont conçus avec une date d’expiration) ou jusqu’à ce que l’utilisateur efface les cookies. Les cookies persistants sont utilisés pour collecter des informations d’identification relatives à l’utilisateur, telles que son comportement lors du surf sur internet ou ses préférences pour un site web spécifique.
-*   Les _cookies « première partie »_ appartiennent au site sur lequel vous choisissez d’aller.
-*   Les _cookies « tierce partie »_ sont importés d’un site dont le contenu est accessible indirectement, par exemple via une image ou une bannière.
+* Les _cookies de session_ qui ne durent que le temps de la session. Ils sont effacés quand l’utilisateur ferme le navigateur.
+* Les _cookies persistants_ qui restent après la fermeture de la session. Ils sont conservés sur le disque dur de l’utilisateur jusqu’à leur expiration (les cookies persistants sont conçus avec une date d’expiration) ou jusqu’à ce que l’utilisateur efface les cookies. Les cookies persistants sont utilisés pour collecter des informations d’identification relatives à l’utilisateur, telles que son comportement lors du surf sur internet ou ses préférences pour un site web spécifique.
+* Les _cookies « première partie »_ appartiennent au site sur lequel vous choisissez d’aller.
+* Les _cookies « tierce partie »_ sont importés d’un site dont le contenu est accessible indirectement, par exemple via une image ou une bannière.
 
 La majorité des navigateurs les supportent (Internet Explorer, Mozilla Firefox, Netscape, Safari, etc.). Quoiqu’il en soit, les utilisateurs peuvent paramétrer leur navigateur de façon à désactiver les cookies ou ils peuvent les effacer.
 
@@ -242,10 +242,10 @@ L’accès et l’utilisation de ce site internet et des informations de ce site
 
 ### 3.2 Quels termes utilise-t-on dans ces Mentions légales ?
 
-*   Nous utilisons le terme « Utilisateur » en référence aux utilisateurs de nos sites internet, pages en ligne et services.
-*   Nous utilisons les termes « vous », « votre » et « le vôtre » en référence à l’Utilisateur qui lit ces Mentions Légales.
-*   Nous utilisons les termes « nous » et « notre » pour se référer à Ring Twice, dont l’adresse est située à 12, Avenue des Rossignols, 1310 La Hulpe, Belgique, le contrôleur de données.
-*   Nous utilisons le terme « ce site internet » pour se référer au site [www.ringtwice.be](https://ringtwice.be/).
+* Nous utilisons le terme « Utilisateur » en référence aux utilisateurs de nos sites internet, pages en ligne et services.
+* Nous utilisons les termes « vous », « votre » et « le vôtre » en référence à l’Utilisateur qui lit ces Mentions Légales.
+* Nous utilisons les termes « nous » et « notre » pour se référer à Ring Twice, dont l’adresse est située à 12, Avenue des Rossignols, 1310 La Hulpe, Belgique, le contrôleur de données.
+* Nous utilisons le terme « ce site internet » pour se référer au site [www.ringtwice.be](https://ringtwice.be/).
 
 ### 3.3 Droits de propriété intellectuelle
 
