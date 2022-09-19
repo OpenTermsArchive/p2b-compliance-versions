@@ -13,8 +13,8 @@ _Keep in mind that certain areas of the Service can have different or additional
 
 "USERS": are the persons who visit and/or use CLASSGAP. There is two types of users:
 
-*   "TUTORS": are users who offer lessons through CLASSGAP. They are responsible for the content and price of the lesson.
-*   "STUDENTS": are users who request reservation of a class through classgap.>
+* "TUTORS": are users who offer lessons through CLASSGAP. They are responsible for the content and price of the lesson.
+* "STUDENTS": are users who request reservation of a class through classgap.>
 
 "LESSONS"": refers to lessons created by a tutor or academy through CLASSGAP.
 
@@ -92,11 +92,11 @@ You cannot have more than one active CLASSGAP account. CLASSGAP reserves the rig
 
 The following terms are applied to your service use and to any account you may create:
 
-1.  You must be of legal age to use the service;
-2.  Have a real identity which corresponds to a person to open an account. The accounts registered by "bots" or other automated means are not permitted;
-3.  Must provide your complete name, email address, and any other information requested with the end of completing the signing up process.
-4.  You are responsible of maintaining the security of your account and password. CLASSGAP will not be liable for the loss or damage consequence of the breach of this obligation. Agrees to not reveal your password to any third party and be the only responsible for any activity under your CLASSGAP account, even if said activities were not authorized. You will notify CLASSGAP immediately of any unauthorized use of your CLASSGAP account.
-5.  Agrees to use the service only for legal matters and agrees to notuse it in any form which breaches the use or rights of other users.
+1. You must be of legal age to use the service;
+2. Have a real identity which corresponds to a person to open an account. The accounts registered by "bots" or other automated means are not permitted;
+3. Must provide your complete name, email address, and any other information requested with the end of completing the signing up process.
+4. You are responsible of maintaining the security of your account and password. CLASSGAP will not be liable for the loss or damage consequence of the breach of this obligation. Agrees to not reveal your password to any third party and be the only responsible for any activity under your CLASSGAP account, even if said activities were not authorized. You will notify CLASSGAP immediately of any unauthorized use of your CLASSGAP account.
+5. Agrees to use the service only for legal matters and agrees to notuse it in any form which breaches the use or rights of other users.
 
 The User will not be able to choose as a username or password words and/or expressions that, in general, are contrary to the law or generally accepted best practices, uses and costumes and, in general, words and/or expressions on which any right as to exclude its use by the User.
 
@@ -108,19 +108,19 @@ We reserve the right to deny providing service to any person for any reason and/
 
 The use of the service is subject to all applicable regulations and you are the only liable for the content of your communications through the service. You agree to not download, share, send or distribute in any other form contents or apps that may infringe the current legislation or involve breaching any right of any part. Also are prohibited:
 
-*   The actions which constitute unauthorized or unsolicited advertising, among them, unwanted email or spam, chain letters, lottery or gambling.
-*   The use of computer viruses or any other code, file or program which is designed or destined to interrupt, damage, or limit the operation of any software, hardware or telecommunications equipment, or damage or obtain unauthorized access to data or any other information of any third party.
-*   Impersonate, interfere or interrupt the service, servers or networks connected to the services or interrupt the requirements, procedures, policies or regulations of networks connected to the services.
-*   To register in more than one CLASSGAP account.
-*   To contact a tutor or student for any other purpose different to book a lesson.
-*   Acting as a member, contact and recruit other members to join third party services which are CLASSGAP’s competitors.
-*   Use automated command sequences to gather information or interact with CLASSGAP.
-*   Use CLASSGAP to find a tutor or student and later complete the reserve externally with the end of avoiding obligation of paying the fee for the CLASSGAP service providing.
-*   Systematic retrieval of data or other contents of CLASSGAP to create, directly or indirectly, in single or multiple downloads, a data collection, either manually or by bots, sniffers or similar. Access, manipulate or use of non public areas of the website, computer systems of CLASSGAP or the technical delivery systems of its providers.
-*   Any attempt to prove the vulnerability of any system or network of CLASSGAP or force in any way the security or authentication.
-*   Fake or alter any TCP/IP header or other CLASSGAP information.
-*   Attempting to decipher, decompile, disassemble our software.
-*   Collaborate with a third party in doing any of the described conducts.
+* The actions which constitute unauthorized or unsolicited advertising, among them, unwanted email or spam, chain letters, lottery or gambling.
+* The use of computer viruses or any other code, file or program which is designed or destined to interrupt, damage, or limit the operation of any software, hardware or telecommunications equipment, or damage or obtain unauthorized access to data or any other information of any third party.
+* Impersonate, interfere or interrupt the service, servers or networks connected to the services or interrupt the requirements, procedures, policies or regulations of networks connected to the services.
+* To register in more than one CLASSGAP account.
+* To contact a tutor or student for any other purpose different to book a lesson.
+* Acting as a member, contact and recruit other members to join third party services which are CLASSGAP’s competitors.
+* Use automated command sequences to gather information or interact with CLASSGAP.
+* Use CLASSGAP to find a tutor or student and later complete the reserve externally with the end of avoiding obligation of paying the fee for the CLASSGAP service providing.
+* Systematic retrieval of data or other contents of CLASSGAP to create, directly or indirectly, in single or multiple downloads, a data collection, either manually or by bots, sniffers or similar. Access, manipulate or use of non public areas of the website, computer systems of CLASSGAP or the technical delivery systems of its providers.
+* Any attempt to prove the vulnerability of any system or network of CLASSGAP or force in any way the security or authentication.
+* Fake or alter any TCP/IP header or other CLASSGAP information.
+* Attempting to decipher, decompile, disassemble our software.
+* Collaborate with a third party in doing any of the described conducts.
 
 CLASSGAP will have the right to investigate and denounce any of the described conducts, according to the law, also to collaborate with the authorities in the investigation of said actions. You acknowledge that CLASSGAP doesn’t have the obligation to control its access or use of CLASSGAP or to revise or edit the UC without prejudice of having the right to do it in order to operate, guarantee the compliance with the applicable terms and legislation, administrative, police or judicial requirements.
 
@@ -188,8 +188,8 @@ Thus, CLASSGAP acts as mere intermediary in this payment reception, not being re
 
 Tutors will be who state the price of their lessons. In case a class is done, CLASSGAP will obtain a percentage of the sale price. Such percentage will vary depending on the booking is directly done through the tutor or through CLASSGAP's website and/or one of their affiliates:
 
-1.  Through the Tutor: CLASSGAP will obtain a percentage of 10% of the price set by the tutor when the booking comes from their own channels, through a link provided to that effect.
-2.  Through CLASSGAP or our affiliates: CLASSGAP will obtain a variable percentage depending on how many teaching hours the tutor has taught using CLASSGAP. Find below how it works:  
+1. Through the Tutor: CLASSGAP will obtain a percentage of 10% of the price set by the tutor when the booking comes from their own channels, through a link provided to that effect.
+2. Through CLASSGAP or our affiliates: CLASSGAP will obtain a variable percentage depending on how many teaching hours the tutor has taught using CLASSGAP. Find below how it works:  
       
     
     |     |     |     |     |
@@ -214,10 +214,10 @@ We reserve the right to modify at any time the service fees (or to start chargin
 
 At the end of each month we will analyze how much you have earned. There are two posible scenarios:
 
-1.  You have earned more than 50 euros: We will transfer your earnings at no cost by bank transfer (for CEE bank accounts) or Paypal.  
+1. You have earned more than 50 euros: We will transfer your earnings at no cost by bank transfer (for CEE bank accounts) or Paypal.  
     
-2.  You have earned less than 50 euros: In this case we will keep your earnings until you reach this threshold.
-3.  According to the [visibility level you chose](https://www.classgap.com/my/tutor/profile?tab=6), your profile will be more or less visible and other commissions will apply to the first class with each student.
+2. You have earned less than 50 euros: In this case we will keep your earnings until you reach this threshold.
+3. According to the [visibility level you chose](https://www.classgap.com/my/tutor/profile?tab=6), your profile will be more or less visible and other commissions will apply to the first class with each student.
 
 This duality in the payment method is aimed for all the parts to save costs. Thus, if the tutor lives outside Spain the field to be filled out in CLASSGAP is the one for the PayPal account.
 
@@ -235,8 +235,8 @@ Once one or more classes of a package have been completed, no refunds will be ma
 
 Optionally tutors can offer students a 15 minute class. Students can book without any cost a 15 minute class to those tutors that have this option.
 
-*   You can book up to 3 free classes per student.
-*   A maximum of 1 free book with the same tutor.
+* You can book up to 3 free classes per student.
+* A maximum of 1 free book with the same tutor.
 
 Teachers who want to offer a free 15 minute class must have Classgap APP installed on your device.
 
@@ -244,17 +244,17 @@ Teachers who want to offer a free 15 minute class must have Classgap APP install
 
 Your profile visibility in the teachers grid depends on a several factors :
 
-*   The visibility level you have selected from your personal area
-*   The quality of your profile, as in the number of classes you have given on Classgap, the time it takes you to reply to messages or to accept a booking and the conversion rate from free interviews to chargeable classes
-*   Your availabilities at that time. You will not appear the days you have marked as absent from your personal area
+* The visibility level you have selected from your personal area
+* The quality of your profile, as in the number of classes you have given on Classgap, the time it takes you to reply to messages or to accept a booking and the conversion rate from free interviews to chargeable classes
+* Your availabilities at that time. You will not appear the days you have marked as absent from your personal area
 
 #### Refund by complaints regarding quality of the lesson:
 
 When can a student ask for a full refund?
 
-1.  When the class has not been done due to the abscence of the tutor.
-2.  When the class is cancelled for any reason at least 8 hours before the scheduled time of the class.
-3.  Within 24 hours after the class, when it’s your first class at Classgap and you feel unsatisfied.
+1. When the class has not been done due to the abscence of the tutor.
+2. When the class is cancelled for any reason at least 8 hours before the scheduled time of the class.
+3. Within 24 hours after the class, when it’s your first class at Classgap and you feel unsatisfied.
 
 To ask for a full refund due to dissatisfaction, please send an email to support@classgap.com with your reasons and your personal information (name, surname, phone number and a copy of your ID) and we will contact you.
 
@@ -296,20 +296,20 @@ In addition to our own use, we also offer third parties the opportunity to use d
 
 #### Application areas for local data storage:
 
-1.  To deliver and adapt the services to your use.
-2.  Local data storage is required and necessary in order to allow you to use our services, such as configuration information, which tells us how the services should be presented in your web browser.
-3.  We also use local data storage to tailor our services to your best use. For example, to store settings to store information about the best video quality available for your web browser and the speed of the Internet, or to allow the use of special features, such as the option to store classified ads or retain previous searches and saved listings.
-4.  To analyze and improve our services
-5.  We use a variety of measurement tools that provide us with statistics and analyses relating to our services. These tools allow us to recognize the web browser over time and find out if the user has visited the website before and if so how often. These tools give us the possibility to get an overview of how many unique users we have and how they use our services.
-6.  We also use the information we have collected and analyzed to develop and improve our cooperative services and services at Tus Media, for example, by finding out which services generate a lot of traffic or by seeing if a service is working optimally.
-7.  Our advertising
-8.  We use local data storage in connection with Classgap's advertising activities. This allows us to know if and how often the user has seen an ad or certain type of ad, and how long ago they saw it. We also use local data storage to build segments and target groups for marketing purposes and to target specific ads. You can read more about how target groups and segments are created in connection with advertising here: [http://www.youronlinechoices.com/uk/.](http://www.youronlinechoices.com/uk/)
-9.  The following link includes didactic videos in video tutorial format that explain, step by step, how to configure the privacy options of the most common browsers, social networks and mobile operating systems:
-10.  [https://www.agpd.es/portalwebAGPD/CanalDelCiudadano/protegetuprivacidad/index-ides-idphp.php](https://www.agpd.es/portalwebAGPD/CanalDelCiudadano/protegetuprivacidad/index-ides-idphp.php)
-11.  We also use local data storage on other websites in connection with Classgap advertising when the user has visited other websites on which we advertise, as well as local data storage set up by other players. This provides us with information about, for example, which website the user visited before visiting our portals and allows us to target our advertising based on this information. For example, we may display travel ads if the user recently visited an airline's website. The information we collect through local data storage does not contain directly identifiable data. We receive information about which pages you visited, but not about who the user is.
-12.  Third Party Advertising
-13.  As on other commercial websites, Classgap's services also include advertisements provided by other players. Most actors use local data storage. Local data storage is used to find cookies or anonymous identifiers on your device to find out which ads should be displayed or which ads have been displayed on your web browser. Local data storage is also used to measure the effect of ads by measuring how many users clicked on a specific ad and how many actually completed a purchase. We do not allow this data to be linked directly to the user you. Classgap has the ability to read data from third-party cookies such as these.
-14.  These companies may use local data storage to target specific advertisements on other websites based on your visit to Classgap . You can learn more about this type of advertising here: [http://www.youronlinechoices.com/uk/helpful-videos/.](http://www.youronlinechoices.com/uk/helpful-videos/)
+1. To deliver and adapt the services to your use.
+2. Local data storage is required and necessary in order to allow you to use our services, such as configuration information, which tells us how the services should be presented in your web browser.
+3. We also use local data storage to tailor our services to your best use. For example, to store settings to store information about the best video quality available for your web browser and the speed of the Internet, or to allow the use of special features, such as the option to store classified ads or retain previous searches and saved listings.
+4. To analyze and improve our services
+5. We use a variety of measurement tools that provide us with statistics and analyses relating to our services. These tools allow us to recognize the web browser over time and find out if the user has visited the website before and if so how often. These tools give us the possibility to get an overview of how many unique users we have and how they use our services.
+6. We also use the information we have collected and analyzed to develop and improve our cooperative services and services at Tus Media, for example, by finding out which services generate a lot of traffic or by seeing if a service is working optimally.
+7. Our advertising
+8. We use local data storage in connection with Classgap's advertising activities. This allows us to know if and how often the user has seen an ad or certain type of ad, and how long ago they saw it. We also use local data storage to build segments and target groups for marketing purposes and to target specific ads. You can read more about how target groups and segments are created in connection with advertising here: [http://www.youronlinechoices.com/uk/.](http://www.youronlinechoices.com/uk/)
+9. The following link includes didactic videos in video tutorial format that explain, step by step, how to configure the privacy options of the most common browsers, social networks and mobile operating systems:
+10. [https://www.agpd.es/portalwebAGPD/CanalDelCiudadano/protegetuprivacidad/index-ides-idphp.php](https://www.agpd.es/portalwebAGPD/CanalDelCiudadano/protegetuprivacidad/index-ides-idphp.php)
+11. We also use local data storage on other websites in connection with Classgap advertising when the user has visited other websites on which we advertise, as well as local data storage set up by other players. This provides us with information about, for example, which website the user visited before visiting our portals and allows us to target our advertising based on this information. For example, we may display travel ads if the user recently visited an airline's website. The information we collect through local data storage does not contain directly identifiable data. We receive information about which pages you visited, but not about who the user is.
+12. Third Party Advertising
+13. As on other commercial websites, Classgap's services also include advertisements provided by other players. Most actors use local data storage. Local data storage is used to find cookies or anonymous identifiers on your device to find out which ads should be displayed or which ads have been displayed on your web browser. Local data storage is also used to measure the effect of ads by measuring how many users clicked on a specific ad and how many actually completed a purchase. We do not allow this data to be linked directly to the user you. Classgap has the ability to read data from third-party cookies such as these.
+14. These companies may use local data storage to target specific advertisements on other websites based on your visit to Classgap . You can learn more about this type of advertising here: [http://www.youronlinechoices.com/uk/helpful-videos/.](http://www.youronlinechoices.com/uk/helpful-videos/)
 
 #### How can I manage locally stored data?
 
@@ -331,91 +331,91 @@ Below is a summary of how locally stored data can be managed in different web br
 
 How to delete cookies:
 
-1.  Go to Settings in your browser menu.
-2.  Click Show advanced settings.
-3.  Click Delete Navigation Data.
-4.  Select the time period for which you want to delete the information from the menu at the top. If you want to delete all cookies in your browser, click Since the beginning of time.
-5.  Tag Cookies and other site and add-on data.
-6.  Click Clear Navigation Data.
-7.  Close the window.
+1. Go to Settings in your browser menu.
+2. Click Show advanced settings.
+3. Click Delete Navigation Data.
+4. Select the time period for which you want to delete the information from the menu at the top. If you want to delete all cookies in your browser, click Since the beginning of time.
+5. Tag Cookies and other site and add-on data.
+6. Click Clear Navigation Data.
+7. Close the window.
 
 How to prevent cookies from being stored in your web browser:
 
-1.  Go to Settings in your browser menu.
-2.  Click Show advanced settings, and then click Content settings.
-3.  Under Cookies, select your preferred option. If you want to prevent all cookies from being stored, click Do not allow site data to be saved.
-4.  Click Done.
-5.  Close the window.
+1. Go to Settings in your browser menu.
+2. Click Show advanced settings, and then click Content settings.
+3. Under Cookies, select your preferred option. If you want to prevent all cookies from being stored, click Do not allow site data to be saved.
+4. Click Done.
+5. Close the window.
 
 #### b. Managing Cookies in Safari
 
 How to delete cookies:
 
-1.  Go to Preferences in your browser menu.
-2.  Click the Privacy tab.
-3.  Click Delete all data from websites, and then click Delete to delete all cookies.
-4.  Close the window.
+1. Go to Preferences in your browser menu.
+2. Click the Privacy tab.
+3. Click Delete all data from websites, and then click Delete to delete all cookies.
+4. Close the window.
 
 How to prevent cookies from being stored in your web browser:
 
-1.  Go to Preferences in your browser menu.
-2.  Click the Privacy tab.
-3.  Under Cookies and website data select your preferred option. If you want to prevent all cookies from being stored, click Always block.
-4.  Close the window.
+1. Go to Preferences in your browser menu.
+2. Click the Privacy tab.
+3. Under Cookies and website data select your preferred option. If you want to prevent all cookies from being stored, click Always block.
+4. Close the window.
 
 #### c. Cookies management in Mozilla Firefox
 
 How to delete cookies:
 
-1.  Go to Options in your browser menu.
-2.  Click the Privacy tab.
-3.  Click Show Cookies.
-4.  Select the cookies you want to delete and click Delete selected. Click Delete All if you want to delete all cookies in your web browser.
-5.  Close the window. Any changes you have made will be automatically saved.
+1. Go to Options in your browser menu.
+2. Click the Privacy tab.
+3. Click Show Cookies.
+4. Select the cookies you want to delete and click Delete selected. Click Delete All if you want to delete all cookies in your web browser.
+5. Close the window. Any changes you have made will be automatically saved.
 
 How to prevent cookies from being stored in your web browser:
 
-1.  Go to Settings in your browser menu.
-2.  Select the Privacy tab.
-3.  Under History, click Use a custom setting for history.
-4.  Select your preferred options in Allow website cookies. If you want to prevent all cookies from being stored, clear the Accept cookies from websites check box.
-5.  Close the window. Any changes you have made will be automatically saved.
+1. Go to Settings in your browser menu.
+2. Select the Privacy tab.
+3. Under History, click Use a custom setting for history.
+4. Select your preferred options in Allow website cookies. If you want to prevent all cookies from being stored, clear the Accept cookies from websites check box.
+5. Close the window. Any changes you have made will be automatically saved.
 
 #### d. Management of cookies in Internet Explorer
 
 How to delete cookies:
 
-1.  Go to Tools (sprocket icon) in your browser menu.
-2.  Click Internet Properties.
-3.  On the General - Navigation History tab, click Delete.
-4.  Be sure to check the Cookies and website data option.
-5.  Click Delete.
-6.  Click OK.
+1. Go to Tools (sprocket icon) in your browser menu.
+2. Click Internet Properties.
+3. On the General - Navigation History tab, click Delete.
+4. Be sure to check the Cookies and website data option.
+5. Click Delete.
+6. Click OK.
 
 How to prevent cookies from being stored on your web browser:
 
-1.  Go to Tools (sprocket icon) in your browser menu.
-2.  Click Internet Options, and then click the Privacy tab.
-3.  Move the slider bar to the desired level. If you want to prevent all cookies from being stored, select the Block all cookies level.
-4.  Click OK.
+1. Go to Tools (sprocket icon) in your browser menu.
+2. Click Internet Options, and then click the Privacy tab.
+3. Move the slider bar to the desired level. If you want to prevent all cookies from being stored, select the Block all cookies level.
+4. Click OK.
 
 #### e. Cookies management in Opera
 
 How to delete cookies:
 
-1.  Go to Settings in your browser menu.
-2.  Select the Privacy and Security tab.
-3.  Click Cookies, and then click All cookies and website data.
-4.  Select the cookies you want to delete and click Delete. Click Delete All if you want to delete all cookies in your web browser.
-5.  Click Done.
-6.  Close the window.
+1. Go to Settings in your browser menu.
+2. Select the Privacy and Security tab.
+3. Click Cookies, and then click All cookies and website data.
+4. Select the cookies you want to delete and click Delete. Click Delete All if you want to delete all cookies in your web browser.
+5. Click Done.
+6. Close the window.
 
 How to prevent cookies from being stored on your web browser:
 
-1.  Go to Settings in your browser menu.
-2.  Select the Privacy and Security tab.
-3.  Under Cookies, select your preferred option. If you want to prevent all cookies from being stored, click Don't allow site data to be saved.
-4.  Close the window.
+1. Go to Settings in your browser menu.
+2. Select the Privacy and Security tab.
+3. Under Cookies, select your preferred option. If you want to prevent all cookies from being stored, click Don't allow site data to be saved.
+4. Close the window.
 
 #### How can I control what information is sent to advertisers?
 
@@ -487,12 +487,12 @@ CLASSGAP doesn’t assume any responsibility over the Contents entered by the Us
 
 CLASSGAP doesn’t grant any guarantee nor is responsible, in any case, of the damages and losses of any nature that could be derived of the access or use of the Contents or the Website. Among others, and as example but not limited to, CLASSGAP is not liable for the following circumstances:
 
-*   Lack of availability, maintenance and effective functionality of the Website and/or its Services or Contents, excluding, to the fullest extent allowed by current law, any liability for damages and losses of all nature that may be due to the lack of availability or continuity of the Website function and the Contents enabled in the same.
-*   Lack of utility of the Website or the Contents for any activity.
-*   Of the contents of other sites in the Internet to which could redirect the links placed in the Website.
-*   Presence of virus, malicious or harmful programs in the Contents.
-*   Reception, procurement, storage, broadcast or transmission, by the Users, of the Contents.
-*   Illicit, negligent, fraudulent use, contrary to the terms in the present General Conditions, or good faith, of the Website or its Contents, by the Users.
+* Lack of availability, maintenance and effective functionality of the Website and/or its Services or Contents, excluding, to the fullest extent allowed by current law, any liability for damages and losses of all nature that may be due to the lack of availability or continuity of the Website function and the Contents enabled in the same.
+* Lack of utility of the Website or the Contents for any activity.
+* Of the contents of other sites in the Internet to which could redirect the links placed in the Website.
+* Presence of virus, malicious or harmful programs in the Contents.
+* Reception, procurement, storage, broadcast or transmission, by the Users, of the Contents.
+* Illicit, negligent, fraudulent use, contrary to the terms in the present General Conditions, or good faith, of the Website or its Contents, by the Users.
 
 CLASSGAP excludes any responsibility for the damages and losses of any character, including the loss of profit, which could be because of the services provided by third parties through the Website as well as the means they enable to manage the service requests, and specifically, as example but not limited to: the acts of unfair competence and false advertisement, as the lack of truthfulness, exactitude, completeness, vices, defects, relevance and/or currency of the contents provided, storage, received, made available or accessible through the services provided by third parties through the Website.
 
@@ -552,9 +552,9 @@ Your level can be:
 
 There are 3 levels of teacher, depending on the number of hours spent in Classgap:
 
-*   **New Teachers** (accumulate less than 50 hours of class)Receive 80% of the amount of each class.
-*   **Professional Teachers** (accumulate more than 50 hours of class) They receive 85% of the class amount.
-*   **Star Teachers** (more than 250 hours of class over the last year) They receive 87% of the amount of each class.
+* **New Teachers** (accumulate less than 50 hours of class)Receive 80% of the amount of each class.
+* **Professional Teachers** (accumulate more than 50 hours of class) They receive 85% of the class amount.
+* **Star Teachers** (more than 250 hours of class over the last year) They receive 87% of the amount of each class.
 
 #### Assignment of intellectual property rights.
 
