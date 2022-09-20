@@ -144,52 +144,52 @@ SKELBIU.LT NAUDOJIMO TAISYKLĖS (REDAKCIJA 2022-02-17)
 
 ### **Draudžiama dėti Skelbimus, kurie susiję su toliau nurodytų objektų pardavimu ir/ar pirkimu:**
 
-*   akivaizdžiai pornografinio turinio medžiagą arba nuotraukas;
-*   medžiagą arba nuotraukas kurstančias tautinę, etninę, rasinę, religinę neapykantą, arba neapykantą dėl religijos neišpažinimo;
-*   trečiųjų asmenų teises, įskaitant teisės į atvaizdą, privatumą, pažeidžiančio turinio medžiagą;
-*   autorių arba intelektinės nuosavybės teises pažeidžiančius muzikos kūrinius, filmus, programinę įrangą bei kitas prekes;
-*   pavojingas grynąsias chemines medžiagas, galinčias sukelti pavojų gyvybei, sveikatai arba aplinkai (pvz. sieros rūgštį, karbidą);
-*   narkotines ir psichotropines medžiagas, ypač narkotikus, taip pat kitas medžiagas naudojamas kaip narkotikų pakaitalai (pakaitines medžiagas), neatsižvelgiant į minėtų medžiagų laikymo ir prekybos jomis teisėtumą;
-*   su tabako gaminiais susijusius gaminius, įskaitant elektronines cigaretes ir elektroninių cigarečių pildykles, rūkomuosius žolinius gaminius;
-*   dantų balinimo priemones, kurių sudėtyje yra daugiau nei 0,1% vandenilio peroksido;
-*   bet kokius vaistus, įskaitant „viagra“, „cialis“ ir kt.;
-*   maisto papildus, kurie nėra notifikuoti Valstybinės maisto ir veterinarijos tarnybos. Notifikuotų papildų sąrašas pateiktas adresu [http://www.vet.lt/maisto-papildai/](http://www.vet.lt/maisto-papildai/);
-*   žmogaus arba gyvūnų organus;
-*   pajus, akcijas, obligacijas bei kitus vertybinius popierius, skolinius reikalavimus, investicinių fondų vienetus, draudimo polisus ir produktus bei bet kokius kitus investicijų arba piniginio indėlio forma siūlomus finansinius instrumentus, išskyrus išimtinai kolekcinės vertės materialius vertybinius popierius, jei tokiai prekybai pagal teisės aktus yra reikalingas atitinkamas leidimas ar licencija, ir toks leidimas ar licencija nėra gauti ir/arba jei tokio skelbimo paskelbimas prieštarauja teisės aktams reglamentuojantiems finansinių priemonių reklamą;
-*   programinės įrangos, kuriai suteikta NFR (neskirta parduoti) licencija, bandomąsias, nemokamas, laikinai nemokamas bei pasibaigusio autorinių teisių galiojimo versijas;
-*   programinę įrangą arba medžiagą, pritaikytą vykdyti teisės aktus arba visuotinai priimtas padorumo normas pažeidžiančią veiklą, įskaitant:
+* akivaizdžiai pornografinio turinio medžiagą arba nuotraukas;
+* medžiagą arba nuotraukas kurstančias tautinę, etninę, rasinę, religinę neapykantą, arba neapykantą dėl religijos neišpažinimo;
+* trečiųjų asmenų teises, įskaitant teisės į atvaizdą, privatumą, pažeidžiančio turinio medžiagą;
+* autorių arba intelektinės nuosavybės teises pažeidžiančius muzikos kūrinius, filmus, programinę įrangą bei kitas prekes;
+* pavojingas grynąsias chemines medžiagas, galinčias sukelti pavojų gyvybei, sveikatai arba aplinkai (pvz. sieros rūgštį, karbidą);
+* narkotines ir psichotropines medžiagas, ypač narkotikus, taip pat kitas medžiagas naudojamas kaip narkotikų pakaitalai (pakaitines medžiagas), neatsižvelgiant į minėtų medžiagų laikymo ir prekybos jomis teisėtumą;
+* su tabako gaminiais susijusius gaminius, įskaitant elektronines cigaretes ir elektroninių cigarečių pildykles, rūkomuosius žolinius gaminius;
+* dantų balinimo priemones, kurių sudėtyje yra daugiau nei 0,1% vandenilio peroksido;
+* bet kokius vaistus, įskaitant „viagra“, „cialis“ ir kt.;
+* maisto papildus, kurie nėra notifikuoti Valstybinės maisto ir veterinarijos tarnybos. Notifikuotų papildų sąrašas pateiktas adresu [http://www.vet.lt/maisto-papildai/](http://www.vet.lt/maisto-papildai/);
+* žmogaus arba gyvūnų organus;
+* pajus, akcijas, obligacijas bei kitus vertybinius popierius, skolinius reikalavimus, investicinių fondų vienetus, draudimo polisus ir produktus bei bet kokius kitus investicijų arba piniginio indėlio forma siūlomus finansinius instrumentus, išskyrus išimtinai kolekcinės vertės materialius vertybinius popierius, jei tokiai prekybai pagal teisės aktus yra reikalingas atitinkamas leidimas ar licencija, ir toks leidimas ar licencija nėra gauti ir/arba jei tokio skelbimo paskelbimas prieštarauja teisės aktams reglamentuojantiems finansinių priemonių reklamą;
+* programinės įrangos, kuriai suteikta NFR (neskirta parduoti) licencija, bandomąsias, nemokamas, laikinai nemokamas bei pasibaigusio autorinių teisių galiojimo versijas;
+* programinę įrangą arba medžiagą, pritaikytą vykdyti teisės aktus arba visuotinai priimtas padorumo normas pažeidžiančią veiklą, įskaitant:
 
-*   kompiuterio virusų arba kitų kenksmingų elementų turinčią programinę įrangą;
-*   programinę įrangą ir įrenginius leidžiančius rinkti su kompiuterio naudotoju susijusią informaciją jam nežinant;
-*   stalinių ir nešiojamųjų kompiuterių, kietųjų diskų bei kitų atminties laikmenų ir automobilinių radijo imtuvų blokavimui bei slaptažodžių šalinimui skirtą programinę įrangą ir įrenginius, taip pat su blokavimu bei blokavimo šalinimu susijusią informaciją, instrukcijas bei paslaugas;
-*   programinę įrangą nuskaitančią elektroninio pašto adresus tinklapiuose bei įgalinančią vykdyti masinį pranešimų siuntimą interneto portalų bei momentinių žinučių ir pokalbių internetu naudotojams ir pan., negavus jų sutikimo;
+* kompiuterio virusų arba kitų kenksmingų elementų turinčią programinę įrangą;
+* programinę įrangą ir įrenginius leidžiančius rinkti su kompiuterio naudotoju susijusią informaciją jam nežinant;
+* stalinių ir nešiojamųjų kompiuterių, kietųjų diskų bei kitų atminties laikmenų ir automobilinių radijo imtuvų blokavimui bei slaptažodžių šalinimui skirtą programinę įrangą ir įrenginius, taip pat su blokavimu bei blokavimo šalinimu susijusią informaciją, instrukcijas bei paslaugas;
+* programinę įrangą nuskaitančią elektroninio pašto adresus tinklapiuose bei įgalinančią vykdyti masinį pranešimų siuntimą interneto portalų bei momentinių žinučių ir pokalbių internetu naudotojams ir pan., negavus jų sutikimo;
 
-*   serijos numerius parduodamus atskirai be originalios programinės įrangos;
-*   instrukcijas bei tinklapių ir FTP tarnybinių stočių adresus (nuorodas), kuriuose pateikta informacija:
+* serijos numerius parduodamus atskirai be originalios programinės įrangos;
+* instrukcijas bei tinklapių ir FTP tarnybinių stočių adresus (nuorodas), kuriuose pateikta informacija:
 
-*   leidžia arba palengvina pavojingų medžiagų gamybą arba įsigijimą;
-*   pažeidžia galiojančius teisės aktus arba yra slapta;
-*   leidžia arba palengvina galiojančių teisės aktų pažeidimą;
+* leidžia arba palengvina pavojingų medžiagų gamybą arba įsigijimą;
+* pažeidžia galiojančius teisės aktus arba yra slapta;
+* leidžia arba palengvina galiojančių teisės aktų pažeidimą;
 
-*   nemokamų interneto portalų paskyras, įskaitant:
+* nemokamų interneto portalų paskyras, įskaitant:
 
-*   momentinių žinučių ir pokalbių internetu paskyras (pvz. Gadu-Gadu, Tlen, Skype, Jabber, AQQ, ICQ);
-*   nemokamo elektroninio pašto paskyras (elektroninio pašto adresus);
-*   nemokamuose interneto portaluose sukurtas paskyras bei kvietimus naudotis šių portalų paslaugomis bei sukurti juose paskyras;
+* momentinių žinučių ir pokalbių internetu paskyras (pvz. Gadu-Gadu, Tlen, Skype, Jabber, AQQ, ICQ);
+* nemokamo elektroninio pašto paskyras (elektroninio pašto adresus);
+* nemokamuose interneto portaluose sukurtas paskyras bei kvietimus naudotis šių portalų paslaugomis bei sukurti juose paskyras;
 
-*   partnerystės ir lojalumo programų paskyras bei su minėtomis programomis susijusiais paslaugas;
-*   asmens duomenis arba elektroninio pašto adresų sąrašus;
-*   išankstinio apmokėjimo korteles;
-*   paslaugas ir medžiagą, susijusią su dalyvavimu vadinamosiose finansų piramidėse, t.y. naujų narių pritraukimo principu kuriamose finansų struktūrose, kuriose pagrindinis (arba vienintelis) pelno šaltinis yra naujų narių mokamas registravimo mokestis;
-*   biržos investicijų sistemas, loterijų ir lažybų sistemas bei paslaugas susijusias su dalyvavimu loterijose bei lažybose, išskyrus oficialius knygos formatu išleistus leidinius, kuriems suteiktas ISBN numeris;
-*   žvejybos įrankius ir įrangą, kurių laikymą riboja teisės aktų nuostatos;
-*   ginklus ir šaudmenis, kurių laikymui arba prekybai būtina gauti atitinkamą leidimą arba juos registruoti bei dujinius granatsvaidžius ir pipirinių dujų purkštuvus, neatsižvelgiant į minėtų priemonių laikymo ir prekybos jomis teisėtumą, visus A ir B kategorijoms priskiriamus ginklus;
-*   registracijos liudijimus ir korteles siūlomas atskirai nuo transporto priemonių, kurioms jos išduotos;
-*   el. pašto paslaugas: t.y. masinio elektroninio susirašinėjimo aptarnavimo paslaugas;
-*   paslaugas ir medžiagą, skatinančias siųsti papildomai apmokestintas trumpąsias žinutes (vadinamasis „SMS Premium“);
-*   uždarbį internetu partnerystės sistemose (pvz. darbą spaudinėjant nuorodas);
-*   fluorintomis šiltnamio efektą sukeliančiomis dujomis užpildytą vienkartinę tarą;
-*   kitas prekes ir/ar paslaugas, kurių prekyba yra uždrausta ar ribojama, joms reikalingos atitinkamos licencijos ar leidimai, kurių Klientas neturi, arba tokios licencijos ir leidimai nesuteikia teisės tokias prekes ir/ar paslaugas parduoti elektroninėmis ryšio priemonėmis, įskaitant internete;
-*   taip pat bet kokias kitas prekes ir/ar paslaugas, kai jų prekybą, įskaitant internete, draudžia teisės aktai.
+* partnerystės ir lojalumo programų paskyras bei su minėtomis programomis susijusiais paslaugas;
+* asmens duomenis arba elektroninio pašto adresų sąrašus;
+* išankstinio apmokėjimo korteles;
+* paslaugas ir medžiagą, susijusią su dalyvavimu vadinamosiose finansų piramidėse, t.y. naujų narių pritraukimo principu kuriamose finansų struktūrose, kuriose pagrindinis (arba vienintelis) pelno šaltinis yra naujų narių mokamas registravimo mokestis;
+* biržos investicijų sistemas, loterijų ir lažybų sistemas bei paslaugas susijusias su dalyvavimu loterijose bei lažybose, išskyrus oficialius knygos formatu išleistus leidinius, kuriems suteiktas ISBN numeris;
+* žvejybos įrankius ir įrangą, kurių laikymą riboja teisės aktų nuostatos;
+* ginklus ir šaudmenis, kurių laikymui arba prekybai būtina gauti atitinkamą leidimą arba juos registruoti bei dujinius granatsvaidžius ir pipirinių dujų purkštuvus, neatsižvelgiant į minėtų priemonių laikymo ir prekybos jomis teisėtumą, visus A ir B kategorijoms priskiriamus ginklus;
+* registracijos liudijimus ir korteles siūlomas atskirai nuo transporto priemonių, kurioms jos išduotos;
+* el. pašto paslaugas: t.y. masinio elektroninio susirašinėjimo aptarnavimo paslaugas;
+* paslaugas ir medžiagą, skatinančias siųsti papildomai apmokestintas trumpąsias žinutes (vadinamasis „SMS Premium“);
+* uždarbį internetu partnerystės sistemose (pvz. darbą spaudinėjant nuorodas);
+* fluorintomis šiltnamio efektą sukeliančiomis dujomis užpildytą vienkartinę tarą;
+* kitas prekes ir/ar paslaugas, kurių prekyba yra uždrausta ar ribojama, joms reikalingos atitinkamos licencijos ar leidimai, kurių Klientas neturi, arba tokios licencijos ir leidimai nesuteikia teisės tokias prekes ir/ar paslaugas parduoti elektroninėmis ryšio priemonėmis, įskaitant internete;
+* taip pat bet kokias kitas prekes ir/ar paslaugas, kai jų prekybą, įskaitant internete, draudžia teisės aktai.
 
 Pažymėtina, kad šis sąrašas nėra baigtinis, todėl Klientas siūlydamas įsigyti ir/ar parduoti prekes ir/ar paslaugas, kai prekyba jomis galimai pažeidžia teisės aktų reikalavimus, veikia išimtinai savo rizika, ir SKELBIU.LT jokiomis aplinkybėmis nebus atsakinga už tokių Skelbimų Turinį.
