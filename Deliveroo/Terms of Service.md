@@ -9,10 +9,10 @@ These terms apply to your access to and use of Delivery Service on [www.delivero
 
 By clicking “**Accept**” or by accepting a Delivery order on the Platform you confirm that:
 
-*   You have authority to do so and to bind the person or company you are accepting for.
-*   You accept our offer to provide the Delivery Service on these terms.
-*   You agree to and will comply in full with these terms. 
-*   Your satisfactory completion of certain checks (including ID and food hygiene rating checks) required by Deliveroo from time to time is a condition of this contract coming into effect.
+* You have authority to do so and to bind the person or company you are accepting for.
+* You accept our offer to provide the Delivery Service on these terms.
+* You agree to and will comply in full with these terms. 
+* Your satisfactory completion of certain checks (including ID and food hygiene rating checks) required by Deliveroo from time to time is a condition of this contract coming into effect.
 
 This forms a contract between you and Deliveroo, which commences on the later of the date of your acceptance and the date on which you have completed Deliveroo’s onboarding checks from time to time to Deliveroo’s satisfaction.  You should save a copy of these terms for your records.  We may make changes to these terms, so check back here from time to time. We’ll notify you of material changes before they happen. If you access or use the Delivery Service after being notified of a change, you’re deemed to have accepted that change.
 
@@ -30,7 +30,7 @@ By signing up to Delivery Service, you authorise Deliveroo to act as your agent 
 
 Customer payments made in respect of orders placed with you through the Delivery Service will be held by Deliveroo on your behalf; payment to Deliveroo settles the customer’s payment obligation to you for these orders. 
 
-#### **Delivery Service Fees** 
+#### **Delivery Service Fees** 
 
 Your use of Delivery Service is subject to our applicable service fee from time to time. Our service fee is calculated as a percentage of GMV (inclusive of VAT) per order, plus VAT at the prevailing rate (**Delivery Service Fee**).  
 
@@ -38,13 +38,13 @@ We will pay you an amount equal to the GMV for your Delivery Orders during the r
 
 You will receive payments from us in accordance with our payment terms applicable in the country you operate in from time to time.  We’ll make this payment by electronic bank transfer to the bank account you have nominated. You must cooperate with us so that we can comply with our VAT accounting obligations. 
 
-#### **What we will do** 
+#### **What we will do** 
 
-*   If you are new to Deliveroo, when you accept these terms we will onboard you onto our Platform (including, if applicable, providing the equipment to you - see below). You agree that we may subcontract part of the onboarding process.
-*   We will, subject to our rights to suspend your use of Delivery Service under these terms, display your site/s and menu items on the Platform as available for Delivery Orders.
-*   We will facilitate and implement a real-time ordering process which will enable customers to place and pay for Delivery Orders on the Platform.
-*   Provide support services for customers to deal with complaints or enquiries relating to Delivery Orders (**Customer Support Service**) through a professionally manned contact centre at no further cost to you.
-*   Procure the delivery of Delivery Orders from you to the customer (**Delivery Services**) using delivery riders authorised by Deliveroo to carry out the Delivery Services (**Riders**).  
+* If you are new to Deliveroo, when you accept these terms we will onboard you onto our Platform (including, if applicable, providing the equipment to you - see below). You agree that we may subcontract part of the onboarding process.
+* We will, subject to our rights to suspend your use of Delivery Service under these terms, display your site/s and menu items on the Platform as available for Delivery Orders.
+* We will facilitate and implement a real-time ordering process which will enable customers to place and pay for Delivery Orders on the Platform.
+* Provide support services for customers to deal with complaints or enquiries relating to Delivery Orders (**Customer Support Service**) through a professionally manned contact centre at no further cost to you.
+* Procure the delivery of Delivery Orders from you to the customer (**Delivery Services**) using delivery riders authorised by Deliveroo to carry out the Delivery Services (**Riders**).  
     
 
 #### **What you must do**
@@ -53,23 +53,23 @@ You must:
 
 **Onboarding and set-up**
 
-*   Comply with our [Food Hygiene and Safety Policy](https://help.deliveroo.com/en/articles/3198645-food-hygiene-and-safety-policy).
-*   Provide all information, materials and assistance reasonably required by Deliveroo to onboard you to the Platform or launch Delivery Service for you.  You must ensure that the information you provide to Deliveroo and customers in or in respect of your use of Delivery Service is complete and accurate in all material respects.
-*   If you are new to the Platform, provide us with accurate descriptions of menu items to be offered in Delivery Service (including any relevant allergen advice and applicable VAT amounts). You agree that
+* Comply with our [Food Hygiene and Safety Policy](https://help.deliveroo.com/en/articles/3198645-food-hygiene-and-safety-policy).
+* Provide all information, materials and assistance reasonably required by Deliveroo to onboard you to the Platform or launch Delivery Service for you.  You must ensure that the information you provide to Deliveroo and customers in or in respect of your use of Delivery Service is complete and accurate in all material respects.
+* If you are new to the Platform, provide us with accurate descriptions of menu items to be offered in Delivery Service (including any relevant allergen advice and applicable VAT amounts). You agree that
 
 (a) We may make limited and reasonable edits to menu item descriptions from time to time (including where legally required); and
 
 (b) To ensure a great customer experience the prices for the menu items you provide for display on the Platform should be the same as the prices for menu items published in your dine-in or in-store menu.
 
-*   Display any Delivery Service signage provided by Deliveroo in accordance with our instructions.
+* Display any Delivery Service signage provided by Deliveroo in accordance with our instructions.
 
-**Use of Delivery Service** 
+**Use of Delivery Service** 
 
-*   Keep your menu up to date - by giving us at least three days’ notice of changes you require us to make for you or by making your own changes through Menu Manager. 
-*   Ensure that all relevant menu items are available to be ordered by a customer in a Delivery Order during your opening hours, and accept and reject Delivery Service orders as appropriate. Each Delivery Order must meet the applicable minimum Delivery Order value from time to time - if it doesn’t, Deliveroo may charge customers an additional fee.
-*   Ensure that Delivery Orders are prepared using all due skill, care and diligence in line with best practice in your industry. 
-*   Ensure that all Delivery Orders are packaged in a way that avoids tampering, minimises spillages, and maintains the order at an appropriate temperature.
-*   Prepare Delivery Orders promptly, accurately and in accordance with the timescales communicated via the Platform. In particular, you must ensure that menu items:
+* Keep your menu up to date - by giving us at least three days’ notice of changes you require us to make for you or by making your own changes through Menu Manager. 
+* Ensure that all relevant menu items are available to be ordered by a customer in a Delivery Order during your opening hours, and accept and reject Delivery Service orders as appropriate. Each Delivery Order must meet the applicable minimum Delivery Order value from time to time - if it doesn’t, Deliveroo may charge customers an additional fee.
+* Ensure that Delivery Orders are prepared using all due skill, care and diligence in line with best practice in your industry. 
+* Ensure that all Delivery Orders are packaged in a way that avoids tampering, minimises spillages, and maintains the order at an appropriate temperature.
+* Prepare Delivery Orders promptly, accurately and in accordance with the timescales communicated via the Platform. In particular, you must ensure that menu items:
 
 (a) correspond with the descriptions on the Platform (including indications that particular menu items are gluten free, nut free, or are suitable for vegetarians and/or vegans);
 
@@ -81,25 +81,25 @@ You must:
 
 (e) are at an appropriate temperature for consumption by the customer.
 
-*   Take account of any information relating to customer allergies provided with the Delivery Order.
-*   Ensure that Delivery Orders are available for collection by our Riders in a timely manner.
-*   Ensure that the order number on the Delivery Order packaging corresponds with the order number provided by Deliveroo before the Delivery Order is handed over to the relevant Rider.
-*   Provide each customer with an official receipt for their Delivery Order (and a VAT receipt, if applicable) if requested. 
+* Take account of any information relating to customer allergies provided with the Delivery Order.
+* Ensure that Delivery Orders are available for collection by our Riders in a timely manner.
+* Ensure that the order number on the Delivery Order packaging corresponds with the order number provided by Deliveroo before the Delivery Order is handed over to the relevant Rider.
+* Provide each customer with an official receipt for their Delivery Order (and a VAT receipt, if applicable) if requested. 
 
 **Service Standards**
 
-*   Use reasonable endeavours to reject less than 1% of Delivery Orders received through the Platform.
-*   Use reasonable endeavours to ensure that Delivery Orders are available for collection by our Riders at the time communicated on the Platform and to keep Riders waiting for Delivery Orders for no longer than five minutes.
-*   Use reasonable endeavours to ensure that no more than 1% of Delivery Orders contain errors.
-*   You should be available for orders for 98% of your opening hours on the Platform. 
+* Use reasonable endeavours to reject less than 1% of Delivery Orders received through the Platform.
+* Use reasonable endeavours to ensure that Delivery Orders are available for collection by our Riders at the time communicated on the Platform and to keep Riders waiting for Delivery Orders for no longer than five minutes.
+* Use reasonable endeavours to ensure that no more than 1% of Delivery Orders contain errors.
+* You should be available for orders for 98% of your opening hours on the Platform. 
 
 **General Requirements**
 
-*   Maintain the security and confidentiality of any access credentials we provide to you at all times. You are responsible for the actions of any person using your access credentials.
-*   Comply with all applicable laws and licensing, registration and approvals requirements at all times, and any and all Deliveroo policies made available to you from time to time.
-*   Without prejudice to your general obligation above, you warrant that you have not and will not do anything that breaches any applicable code and/or sanction relating to the prevention or prohibition of bribery, money laundering and similar activities. You must immediately notify Deliveroo if you become aware of any breach of this clause.
-*   Without prejudice to your general obligation above, you shall comply, and procure that all of your employees, contractors, agents and representatives comply, with applicable anti-slavery laws, as relevant to your use of Delivery Service and your fulfilment of Delivery Orders. You must use reasonable endeavours on a continuing basis to ensure that no form of slavery is takes place in your supply chains.
-*   Cooperate with Deliveroo and provide, in a timely manner, such assistance and information as Deliveroo may reasonably require.   
+* Maintain the security and confidentiality of any access credentials we provide to you at all times. You are responsible for the actions of any person using your access credentials.
+* Comply with all applicable laws and licensing, registration and approvals requirements at all times, and any and all Deliveroo policies made available to you from time to time.
+* Without prejudice to your general obligation above, you warrant that you have not and will not do anything that breaches any applicable code and/or sanction relating to the prevention or prohibition of bribery, money laundering and similar activities. You must immediately notify Deliveroo if you become aware of any breach of this clause.
+* Without prejudice to your general obligation above, you shall comply, and procure that all of your employees, contractors, agents and representatives comply, with applicable anti-slavery laws, as relevant to your use of Delivery Service and your fulfilment of Delivery Orders. You must use reasonable endeavours on a continuing basis to ensure that no form of slavery is takes place in your supply chains.
+* Cooperate with Deliveroo and provide, in a timely manner, such assistance and information as Deliveroo may reasonably require.   
     
 
 **Equipment and joining fees  
@@ -108,8 +108,8 @@ You must:
 
 For new customers, when signing up you will be given two options for equipment (you can find the latest pricing for each on our sign-up pages). Each option is subject to a one-off joining fee.  
 
-*   You can use your own device (which you are responsible for obtaining and maintaining). 
-*   You can lease a Deliveroo device. The risk in the device passes from us to you upon installation. We retain title to the device at all times. You must let us know of any faults with, or damage to, the device and give us access to your site during normal business hours to inspect, clean, repair, replace or remove the device. We may charge a reasonable fee for repairing or replacing a device. You must comply with our Equipment Policy.
+* You can use your own device (which you are responsible for obtaining and maintaining). 
+* You can lease a Deliveroo device. The risk in the device passes from us to you upon installation. We retain title to the device at all times. You must let us know of any faults with, or damage to, the device and give us access to your site during normal business hours to inspect, clean, repair, replace or remove the device. We may charge a reasonable fee for repairing or replacing a device. You must comply with our Equipment Policy.
 
 We will make software  available to you to use on the equipment so that you can use Delivery Service. This software constitutes Deliveroo IP (see below) and it remains our property at all times. You must promptly implement any patches, updates, upgrades and/or new versions of such software that we release from time to time.
 
@@ -119,8 +119,8 @@ All rights, title and interest in and to Restaurant Hub, any software we provide
 
 You must not (and shall not permit any third party to):  
 
-*   copy, adapt, reverse engineer, decompile, modify or make error corrections to any Deliveroo IP other than with our express prior written consent;
-*   breach, disable, tamper with, or develop or use any workaround for any security measure in any Deliveroo IP or otherwise do anything that disrupts any Deliveroo IP, Deliveroo or any person.
+* copy, adapt, reverse engineer, decompile, modify or make error corrections to any Deliveroo IP other than with our express prior written consent;
+* breach, disable, tamper with, or develop or use any workaround for any security measure in any Deliveroo IP or otherwise do anything that disrupts any Deliveroo IP, Deliveroo or any person.
 
 Deliveroo grants you a non-exclusive, royalty-free, non-sublicensable, non-transferable licence to use Deliveroo branding, which includes the “Deliveroo” logo, name and/or website address for the Term  in the country you operate in to allow you to advertise Delivery Service at your sites. You must comply with any Deliveroo policy issued from time to time.
 
@@ -128,8 +128,8 @@ You grant us and our affiliates a non-exclusive, royalty-free licence to use you
 
 Except for these limited licences:
 
-*   Deliveroo retains ownership of and all rights in and to Deliveroo branding; and
-*   You retain ownership of and all rights in and to your branding. 
+* Deliveroo retains ownership of and all rights in and to Deliveroo branding; and
+* You retain ownership of and all rights in and to your branding. 
 
 We may collect data about your use of Delivery Service. By using Delivery Service you agree to us collecting and using this information. We may use this information for various purposes, including to improve, maintain, protect and develop our products, and to provide Services to you.
 
