@@ -4,12 +4,12 @@
 
 1\. Site-ul Autovit.ro permite Utilizatorilor sa foloseasca, contra cost, urmatoarele servicii de promovare:
 
-*   Promovare la inceput de lista 
-*   Anunturile zilei
-*   Oferta zilei
-*   Adauga automat si pe OLX
-*   Promovarea anuntului pe OLX
-*   Reactualizarea automata
+* Promovare la inceput de lista 
+* Anunturile zilei
+* Oferta zilei
+* Adauga automat si pe OLX
+* Promovarea anuntului pe OLX
+* Reactualizarea automata
 
 2\. O singura activare a fiecarui serviciu descris la punctul 1, mentionat mai sus, se aplica unui singur anunt care este ales de catre Utilizator.
 
