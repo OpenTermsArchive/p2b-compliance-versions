@@ -5,7 +5,7 @@ As an online search engine, the primary objective of Bing is to connect users wi
 
 As an algorithmically-driven service, Bing doesn't control the operation or design of the indexed websites, and has no control over what indexed websites publish. As long as the website continues to make the information available on the web and to crawlers, the information will be generally available through Bing or other search engines.
 
-**Tip:** If information has already been removed from the website but is still showing up in Bing search results, you can use the Content Removal Tool to submit a page removal or outdated cache removal request. To learn more about the Content Removal Tool, [go to Bing Webmaster Help & How-To](https://go.microsoft.com/fwlink?LinkId=282036).
+**Tip:** If information has already been removed from the website but is still showing up in Bing search results, you can use the Content Removal Tool to submit a page removal or outdated cache removal request. To learn more about the Content Removal Tool, [go to Bing Webmaster Help & How-To](https://go.microsoft.com/fwlink?LinkId=282036).
 
 Microsoft respects freedom of expression. If Microsoft receives requests to remove content from individuals, businesses, and governments, in limited cases, where quality, safety, user demand, relevant laws, and/or public policy concerns exist, Bing might remove results, inform users of certain risks, or provide users with options for tailoring their content. Bing limits removal of search results to a narrow set of circumstances and conditions to avoid restricting Bing users’ access to relevant information.
 
