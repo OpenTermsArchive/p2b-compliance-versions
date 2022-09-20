@@ -1,8 +1,8 @@
 What is the trivago Rating Index™
 =================================
 
-*   2022-08-19T11:05:36Z
-*   Updated
+* 2022-08-19T11:05:36Z
+* Updated
 
 The trivago Rating Index™, or tRI™, was created to compare all types of accommodations on one level. To render an overall, impartial comparison for everyone, the tRI™ uses an algorithm to aggregate millions of guest ratings from across the Internet.
 
