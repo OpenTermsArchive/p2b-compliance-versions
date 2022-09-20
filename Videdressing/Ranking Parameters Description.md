@@ -19,11 +19,11 @@ Videdressing, à travers le site internet [https://www.videdressing.com](https:/
 
 En cas de non-respect de nos Conditions Générales, votre annonce peut être bloquée et supprimée avant sa mise en ligne et/ou supprimée après mise en ligne automatique. Dans ce cas, un message vous expliquant la ou les raisons de la suppression de l’annonce vous est envoyé. Ce dernier peut comprendre les raisons suivantes :
 
-*   Article contrefaisant
-*   Violation d’un réseau de distribution sélective ou exclusive
-*   Article interdit au sens de nos Conditions Générales, contraire aux bonnes moeurs, non autorisé
-*   Annonce incomplète ou erronée
-*   Article défectueux (état)
+* Article contrefaisant
+* Violation d’un réseau de distribution sélective ou exclusive
+* Article interdit au sens de nos Conditions Générales, contraire aux bonnes moeurs, non autorisé
+* Annonce incomplète ou erronée
+* Article défectueux (état)
 
 Critères de classement des annonces
 -----------------------------------
@@ -42,6 +42,6 @@ Sur chaque page de résultats, l’utilisateur a la possibilité de choisir un a
 
 Ci-dessous, les choix de tri dont les utilisateurs disposent :
 
-*   “Nos nouveautés”: tri des articles en fonction de leur date de mise en ligne sur le catalogue
-*   “Les moins chers”: tri des articles du moins cher au plus cher
-*   “Les plus chers”: tri des articles du plus cher au moins cher
+* “Nos nouveautés”: tri des articles en fonction de leur date de mise en ligne sur le catalogue
+* “Les moins chers”: tri des articles du moins cher au plus cher
+* “Les plus chers”: tri des articles du plus cher au moins cher
