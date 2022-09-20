@@ -18,29 +18,29 @@ Bonanza's goal is to make you happy. In the event a dispute arises between you a
 
 **General Overview: Terms**
 
-*   You acknowledge that you must be 18 years or older to use this site or establish an account.
-*   You acknowledge that you bear sole responsibility for keeping your password secure.
+* You acknowledge that you must be 18 years or older to use this site or establish an account.
+* You acknowledge that you bear sole responsibility for keeping your password secure.
 
-*   You agree to use the Transaction Processing Services that are integrated with Bonanza’s checkout system for completing all transactions.
-*   You agree not to use Bonanza for any illegal or unauthorized purpose.
-*   You agree to comply with all local laws regarding online conduct and acceptable content.
-*   You are solely responsible for your conduct and any data, text, information, screen names, graphics, photos, profiles, audio and video clips, links or any other content that you submit, post or display on the Website.
-*   You agree not to modify, adapt or hack bonanza.com or modify another website so as to falsely imply that it is associated with Bonanza.
-*   You agree not to solicit, harass or impersonate Bonanza members.
-*   You agree not to transmit any worms or viruses or any code of a destructive nature.
+* You agree to use the Transaction Processing Services that are integrated with Bonanza’s checkout system for completing all transactions.
+* You agree not to use Bonanza for any illegal or unauthorized purpose.
+* You agree to comply with all local laws regarding online conduct and acceptable content.
+* You are solely responsible for your conduct and any data, text, information, screen names, graphics, photos, profiles, audio and video clips, links or any other content that you submit, post or display on the Website.
+* You agree not to modify, adapt or hack bonanza.com or modify another website so as to falsely imply that it is associated with Bonanza.
+* You agree not to solicit, harass or impersonate Bonanza members.
+* You agree not to transmit any worms or viruses or any code of a destructive nature.
 
 Furthermore, while Bonanza discourages certain conduct and content on the Website, you acknowledge and agree the Website is a venue and as such is not responsible for the content posted on it. You agree to use the Website at your own risk.  
 
 **General Overview: Conditions**
 
-*   Bonanza reserves the right to modify or terminate any service for any reason at any time, with or without notice.
-*   Bonanza reserve the right to alter this Bonanza User Agreement at any time. If alterations constitute a material change to the Terms of Use, to be determined at the sole discretion of Bonanza, Bonanza will notify you via e mail according to the preference expressed on your account.
-*   Bonanza reserves the right to refuse service to anyone for any reason at any time.
-*   Bonanza may remove content (by way of example but without limitation: items, item descriptions, chat text, booth text, and information submitted in the forums) that Bonanza determines is unlawful, offensive, threatening, libelous, defamatory, obscene or otherwise objectionable or violates any party's intellectual property, Bonanza Terms of Use, Bonanza Privacy Policy, or any other policy documents and community guidelines as posted on Bonanza. Bonanza has no obligation to do so, however.
-*   The Service makes it possible to post images hosted on Bonanza to outside websites. This use is accepted. However, pages on other websites which display images hosted on Bonanza must provide a link back to Bonanza from each photo to its photo page on Bonanza.
-*   Bonanza will terminate your account without notice if your account is used for hosting graphic elements of web page designs, icons, smilies, buddy icons, forum avatars, badges and other non-photographic elements on external websites.
-*   You can remove your profile at any time by deleting your account. This will also remove any private images you have stored in the system. By uploading images and item description content to Bonanza, you agree to allow other Bonanza users to view them and you agree to allow Bonanza to display the images and content on Bonanza, or in emails from Bonanza, and store the images, item description, profile and other content.
-*   All Bonanza graphics, logos, designs, page headers, button icons, scripts, and service names are registered or unregistered trademarks or service marks. Bonanza's trademarks or name may not be used, including as part of trademarks and/or as part of domain names, in connection with any product or service in any manner that is likely to cause confusion.
+* Bonanza reserves the right to modify or terminate any service for any reason at any time, with or without notice.
+* Bonanza reserve the right to alter this Bonanza User Agreement at any time. If alterations constitute a material change to the Terms of Use, to be determined at the sole discretion of Bonanza, Bonanza will notify you via e mail according to the preference expressed on your account.
+* Bonanza reserves the right to refuse service to anyone for any reason at any time.
+* Bonanza may remove content (by way of example but without limitation: items, item descriptions, chat text, booth text, and information submitted in the forums) that Bonanza determines is unlawful, offensive, threatening, libelous, defamatory, obscene or otherwise objectionable or violates any party's intellectual property, Bonanza Terms of Use, Bonanza Privacy Policy, or any other policy documents and community guidelines as posted on Bonanza. Bonanza has no obligation to do so, however.
+* The Service makes it possible to post images hosted on Bonanza to outside websites. This use is accepted. However, pages on other websites which display images hosted on Bonanza must provide a link back to Bonanza from each photo to its photo page on Bonanza.
+* Bonanza will terminate your account without notice if your account is used for hosting graphic elements of web page designs, icons, smilies, buddy icons, forum avatars, badges and other non-photographic elements on external websites.
+* You can remove your profile at any time by deleting your account. This will also remove any private images you have stored in the system. By uploading images and item description content to Bonanza, you agree to allow other Bonanza users to view them and you agree to allow Bonanza to display the images and content on Bonanza, or in emails from Bonanza, and store the images, item description, profile and other content.
+* All Bonanza graphics, logos, designs, page headers, button icons, scripts, and service names are registered or unregistered trademarks or service marks. Bonanza's trademarks or name may not be used, including as part of trademarks and/or as part of domain names, in connection with any product or service in any manner that is likely to cause confusion.
 
 **II. Membership Eligibility**
 ------------------------------
