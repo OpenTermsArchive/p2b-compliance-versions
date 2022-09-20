@@ -8,14 +8,14 @@ This policy was published on June 6, 2022. It will take effect on August 1, 2022
 
 This policy is a part of our [Terms of Use](https://www.etsy.com/legal/terms). By opening an Etsy shop, you’re agreeing to this policy and our Terms of Use
 
-1.  [Selling Basics](#selling)  
+1. [Selling Basics](#selling)  
     a. What can be sold on Etsy  
     b. What can't be sold on Etsy  
     c. Managing your Etsy shop  
     d. Seller Standards  
     e. Selling Fees
     
-2.  [Being a Member of the Etsy Community](#community)  
+2. [Being a Member of the Etsy Community](#community)  
     a. Creating and Uploading Content  
     b. Privacy and Protecting Personal Information  
     c. Communication Standards  
@@ -23,7 +23,7 @@ This policy is a part of our [Terms of Use](https://www.etsy.com/legal/terms). B
     ii. Forums/Teams  
     iii. Communicating Cancellations
     
-3.  [Feedback, Cases, and Your Success](#success)  
+3. [Feedback, Cases, and Your Success](#success)  
     a. Reviews  
     b. Etsy’s Case System  
     c. Your Seller Account and Etsy’s Terms  
@@ -42,14 +42,14 @@ Etsy is a unique marketplace. Buyers come here to purchase items that they might
 
 If you sell handmade items, you agree that:
 
-1.  All handmade items are made or designed by you. If you work with a production partner, you must [disclose](https://help.etsy.com/hc/articles/360000336547) that production partner in your relevant listings.
-2.  You accurately describe every person involved in the making of an item in your shop in your About section.
-3.  You are using your own photographs or video content —not stock photos, artistic renderings, or photos used by other sellers or sites. Read more about using appropriate photographs in [this Help article](https://www.etsy.com/legal/policy/listing-image-requirements/253962679005).
+1. All handmade items are made or designed by you. If you work with a production partner, you must [disclose](https://help.etsy.com/hc/articles/360000336547) that production partner in your relevant listings.
+2. You accurately describe every person involved in the making of an item in your shop in your About section.
+3. You are using your own photographs or video content —not stock photos, artistic renderings, or photos used by other sellers or sites. Read more about using appropriate photographs in [this Help article](https://www.etsy.com/legal/policy/listing-image-requirements/253962679005).
 
 If you are selling personalized or made-to-order items in the Handmade category, you agree that:
 
-1.  All listings are available for purchase at a set price.
-2.  If you are using photographs of previous work with options for customization (like color choices) included in the listing, it is clear in your description that the photos shown are just examples.
+1. All listings are available for purchase at a set price.
+2. If you are using photographs of previous work with options for customization (like color choices) included in the listing, it is clear in your description that the photos shown are just examples.
 
 For more information on how to list personalized items, please see [this Help article](https://help.etsy.com/hc/articles/360000344528).
 
@@ -75,14 +75,14 @@ Your shop represents you and your business to the Etsy community. It’s importa
 
 By selling on Etsy, you agree that you will:
 
-1.  Provide honest, accurate information to Etsy and in your [About section](https://help.etsy.com/hc/articles/115015628487).
-2.  Honor your [Shop Policies](https://help.etsy.com/hc/articles/115014372467).
-3.  Ensure your shop content, such as any text, photos or videos used to represent yourself, your shop or your listings, abide by Etsy’s policies, including our [Anti-Discrimination Policy](https://www.etsy.com/legal/policy/anti-discrimination-and-hate-speech/123551108902#:~:text=Whether%2520you&%2339;re%2520engaging%2520with,hate%2520speech%2520are%2520not%2520allowed.).
-4.  Accurately represent your items in [listings](https://help.etsy.com/hc/articles/115015628707) and listing photos.
-5.  Respect the [intellectual property](https://www.etsy.com/legal/ip) of others. If you feel someone has violated your intellectual property rights, [you can report it to Etsy](https://help.etsy.com/hc/en-us/articles/360000344448-How-to-File-a-Notice-of-Intellectual-Property-Infringement).
-6.  Not engage in [fee avoidance](https://www.etsy.com/legal/fees/#avoidance).
-7.  Not create duplicate shops or take any other action (such as manipulating clicks, carts or sales) for the purpose of shilling, manipulating search or circumventing Etsy's policies.
-8.  Not coordinate pricing with other sellers.
+1. Provide honest, accurate information to Etsy and in your [About section](https://help.etsy.com/hc/articles/115015628487).
+2. Honor your [Shop Policies](https://help.etsy.com/hc/articles/115014372467).
+3. Ensure your shop content, such as any text, photos or videos used to represent yourself, your shop or your listings, abide by Etsy’s policies, including our [Anti-Discrimination Policy](https://www.etsy.com/legal/policy/anti-discrimination-and-hate-speech/123551108902#:~:text=Whether%2520you&%2339;re%2520engaging%2520with,hate%2520speech%2520are%2520not%2520allowed.).
+4. Accurately represent your items in [listings](https://help.etsy.com/hc/articles/115015628707) and listing photos.
+5. Respect the [intellectual property](https://www.etsy.com/legal/ip) of others. If you feel someone has violated your intellectual property rights, [you can report it to Etsy](https://help.etsy.com/hc/en-us/articles/360000344448-How-to-File-a-Notice-of-Intellectual-Property-Infringement).
+6. Not engage in [fee avoidance](https://www.etsy.com/legal/fees/#avoidance).
+7. Not create duplicate shops or take any other action (such as manipulating clicks, carts or sales) for the purpose of shilling, manipulating search or circumventing Etsy's policies.
+8. Not coordinate pricing with other sellers.
 
 **d. Seller Standards** By listing a product for sale on Etsy you understand and agree that you are responsible for complying with all applicable laws and regulations for the products you list for sale, including any required labels and warnings. Etsy assumes no responsibility for the accuracy, labeling, or content of your listings.
 
@@ -92,11 +92,11 @@ As a seller, you must provide great customer service and maintain trust with you
 
 By selling on Etsy, you agree to:
 
-1.  Honor your shipping and processing times. Sellers are obligated to ship an item or otherwise complete a transaction with a buyer in a prompt manner, unless there is an exceptional circumstance. Please be aware that legal requirements for shipping times vary by country. Read more in our [Shipping Policy](https://www.etsy.com/legal/shipping/?ref=list).
-2.  Respond to Messages in a timely manner.
-3.  Honor the commitments you make in your shop policies.
-4.  Resolve disagreements or order issues directly with the buyer. In the unlikely event that you can’t reach a resolution, Etsy can help through our case system. Read about your rights and responsibilities regarding cases [here](https://www.etsy.com/uk/legal/policy/cases-for-sellers/242641420379).
-5.  If you are unable to complete an order, you must notify the buyer and cancel the order. Read about how to cancel an order in this [Help](https://help.etsy.com/hc/en-us/articles/115015521728-How-to-Cancel-an-Order?segment=shopping) article.
+1. Honor your shipping and processing times. Sellers are obligated to ship an item or otherwise complete a transaction with a buyer in a prompt manner, unless there is an exceptional circumstance. Please be aware that legal requirements for shipping times vary by country. Read more in our [Shipping Policy](https://www.etsy.com/legal/shipping/?ref=list).
+2. Respond to Messages in a timely manner.
+3. Honor the commitments you make in your shop policies.
+4. Resolve disagreements or order issues directly with the buyer. In the unlikely event that you can’t reach a resolution, Etsy can help through our case system. Read about your rights and responsibilities regarding cases [here](https://www.etsy.com/uk/legal/policy/cases-for-sellers/242641420379).
+5. If you are unable to complete an order, you must notify the buyer and cancel the order. Read about how to cancel an order in this [Help](https://help.etsy.com/hc/en-us/articles/115015521728-How-to-Cancel-an-Order?segment=shopping) article.
 
 **e. Selling Fees**
 
@@ -111,15 +111,15 @@ At Etsy, everyone is expected to treat fellow members of the Etsy community with
 
 As a member of Etsy, you have the opportunity to create and upload a variety of content, like listings, Messages, text, photos, and videos. In order to keep our community safe and respectful, you agree that you will not upload content that is:
 
-1.  Contains hateful or derogatory language or imagery, or any content that is subject to our [Anti-Discrimination and Hate Speech Policy](https://www.etsy.com/legal/policy/anti-discrimination-and-hate-speech/123551108902#:~:text=Whether%2520you&%2339;re%2520engaging%2520with,hate%2520speech%2520are%2520not%2520allowed.);
-2.  Contains threats, harassment, extortion, or violates our rules about interference;
-3.  Violates someone else’s intellectual property rights;
-4.  Is false, deceptive, or misleading;
-5.  Contains unsolicited advertising or promotions, requests for donations, or spam;
-6.  Contains private information, whether it is your own, or someone else’s;
-7.  Encourages or facilitates a transaction that evades the Etsy checkout process;
-8.  Contains prohibited medical drug claims;
-9.  Violates any of the rules described in our [Prohibited Items Policy](https://www.etsy.com/legal/prohibited/).
+1. Contains hateful or derogatory language or imagery, or any content that is subject to our [Anti-Discrimination and Hate Speech Policy](https://www.etsy.com/legal/policy/anti-discrimination-and-hate-speech/123551108902#:~:text=Whether%2520you&%2339;re%2520engaging%2520with,hate%2520speech%2520are%2520not%2520allowed.);
+2. Contains threats, harassment, extortion, or violates our rules about interference;
+3. Violates someone else’s intellectual property rights;
+4. Is false, deceptive, or misleading;
+5. Contains unsolicited advertising or promotions, requests for donations, or spam;
+6. Contains private information, whether it is your own, or someone else’s;
+7. Encourages or facilitates a transaction that evades the Etsy checkout process;
+8. Contains prohibited medical drug claims;
+9. Violates any of the rules described in our [Prohibited Items Policy](https://www.etsy.com/legal/prohibited/).
 
 Some content on Etsy is subject to additional requirements. Please see below for more details.
 
@@ -141,21 +141,21 @@ With Etsy's "Messages", you have the ability to communicate directly with your b
 
 Messages may not be used for the following activities:
 
-1.  Sending unsolicited advertising or promotions, requests for donations, or spam;
-2.  Harassing or abusing another member or violating our [Anti-Discrimination Policy](https://www.etsy.com/legal/policy/anti-discrimination-and-hate-speech/123551108902#:~:text=Whether%2520you&%2339;re%2520engaging%2520with,hate%2520speech%2520are%2520not%2520allowed.);
-3.  Contacting someone after they have explicitly asked you not to; or
-4.  Interfering with a transaction or the business of another member.
-5.  Exchanging personal contact, financial or other information for the purposes of evading the checkout process on Etsy, including phone number, address, email, social media handles, external URLs, instructions for money transfer, etc.
+1. Sending unsolicited advertising or promotions, requests for donations, or spam;
+2. Harassing or abusing another member or violating our [Anti-Discrimination Policy](https://www.etsy.com/legal/policy/anti-discrimination-and-hate-speech/123551108902#:~:text=Whether%2520you&%2339;re%2520engaging%2520with,hate%2520speech%2520are%2520not%2520allowed.);
+3. Contacting someone after they have explicitly asked you not to; or
+4. Interfering with a transaction or the business of another member.
+5. Exchanging personal contact, financial or other information for the purposes of evading the checkout process on Etsy, including phone number, address, email, social media handles, external URLs, instructions for money transfer, etc.
 
 **Interference**
 
 Interference occurs when a member intentionally interferes with another member’s shop in order to drive away their business. Interference is strictly prohibited on Etsy. Examples of interference include:
 
-1.  Contacting another member via Messages to warn them away from a particular member, shop, or item;
-2.  Posting in public areas to demonstrate or discuss a dispute with another member;
-3.  Purchasing from a seller for the sole purpose of leaving a negative review;
-4.  Maliciously clicking on a competitor's ads in order to drain that member's advertising budget, also known as "click fraud."
-5.  Creating or using an independent buyer account to maliciously upvote another shop’s negative reviews in order to position those reviews more prominently.
+1. Contacting another member via Messages to warn them away from a particular member, shop, or item;
+2. Posting in public areas to demonstrate or discuss a dispute with another member;
+3. Purchasing from a seller for the sole purpose of leaving a negative review;
+4. Maliciously clicking on a competitor's ads in order to drain that member's advertising budget, also known as "click fraud."
+5. Creating or using an independent buyer account to maliciously upvote another shop’s negative reviews in order to position those reviews more prominently.
 
 **Harassment and Discrimination**
 
@@ -184,10 +184,10 @@ On the rare occasion you receive an unfavorable review, you can reach out to the
 
 In addition to our rules for Creating and Uploading Content in Section 2a, reviews and your response to reviews may not:
 
-1.  Contain graphic, mature, or obscene language or imagery, or any content that is subject to our [mature content policy](https://www.etsy.com/legal/prohibited/?ref=list#Q7);
-2.  Be about things outside the seller’s control, such as a shipping carrier, Etsy or a third party;
-3.  Include [shilling](https://www.etsy.com/legal/policy/shilling/243317364583) or otherwise falsely inflate a shop’s review score; or
-4.  Undermine the integrity of the Reviews system.
+1. Contain graphic, mature, or obscene language or imagery, or any content that is subject to our [mature content policy](https://www.etsy.com/legal/prohibited/?ref=list#Q7);
+2. Be about things outside the seller’s control, such as a shipping carrier, Etsy or a third party;
+3. Include [shilling](https://www.etsy.com/legal/policy/shilling/243317364583) or otherwise falsely inflate a shop’s review score; or
+4. Undermine the integrity of the Reviews system.
 
 **b. Etsy’s Case System**
 
