@@ -13,10 +13,10 @@ Cette page (et les éventuels documents auxquels elle fait référence) présent
 
 La présente clause a pour objet de définir les différents termes essentiels du contrat :
 
-*   Camarade : ce terme désigne toute personne qui utilise le site et notre Service
-*   Contributions : éléments par lesquels vous contribuez à notre Service
-*   Camarade coopté.e : le ou la Camarade devient Camarade coopté.e lorsqu'il ou elle est identifié.e sur le site.
-*   Identifiant et mot de passe : c'est l'ensemble des informations nécessaires à l'identification d'un Camarade coopté sur le site. L'identifiant et le mot de passe permettent à un.e Camarade d'accéder à des services réservés aux Camarades coopté.es du site. Le mot de passe est confidentiel.
+* Camarade : ce terme désigne toute personne qui utilise le site et notre Service
+* Contributions : éléments par lesquels vous contribuez à notre Service
+* Camarade coopté.e : le ou la Camarade devient Camarade coopté.e lorsqu'il ou elle est identifié.e sur le site.
+* Identifiant et mot de passe : c'est l'ensemble des informations nécessaires à l'identification d'un Camarade coopté sur le site. L'identifiant et le mot de passe permettent à un.e Camarade d'accéder à des services réservés aux Camarades coopté.es du site. Le mot de passe est confidentiel.
 
 3\. Acces à notre Site ou à nos Services
 ----------------------------------------
@@ -33,15 +33,15 @@ Vous ne pouvez utiliser notre Service qu'à des fins légales. Vous ne pouvez ut
 
 Ces normes en matière de contenu s'appliquent à tous les éléments par lesquels vous contribuez à notre Service (les "Contributions"). Vous devez respecter l'esprit et la lettre des normes suivantes. Les normes s'appliquent à chaque partie des Contributions et à leur globalité. Les Contributions doivent être précises (lorsqu'elles exposent des faits), être sincères (lorsqu'elles exposent des convictions) et respecter la législation applicable en France et dans le pays d'où elles sont émises. Les Contributions ne doivent pas :
 
-*   contenir des éléments diffamatoires pour une personne, obscènes, injurieux, haineux ou incendiaires
-*   promouvoir des scènes explicites sur le plan sexuel ou promouvoir la violence
-*   promouvoir la discrimination sur la base de la race, de sexe, de genre, de la religion, de la nationalité, du handicap, de l'orientation sexuelle ou de l'âge
-*   promouvoir le capitalisme, la déqualification du travail hors de toutes règles définies collectivement et démocratiquement, le patriarcat, le colonialisme, la réappropriation culturelle et/ou de classe (dont le Dab en costume en wax cristallise leur intersectionnalité), l’usage du terme “disruptif”, toute référence à Bernard Stiegler, l’usage lucratif des données, les montres connectées et la police d’écriture Comic Sans MS
-*   enfreindre des droits d’auteur.rice, droits sur des bases de données ou marques de commerce d'un tiers ;
-*   être susceptibles de tromper une tierce personne ou être en infraction avec une obligation légale vis-à-vis d'un tiers, comme une obligation contractuelle ou une obligation de discrétion ou promouvoir une activité illégale ;
-*   être menaçantes, porter atteinte à ou violer l'intimité d'un tiers, provoquer une gêne, un dérangement ou une anxiété inutile ou être susceptibles de harceler, perturber, embarrasser, alarmer ou gêner un tiers ;
-*   être utilisées pour se faire passer pour quelqu'un d'autre ou usurper votre identité ou tromper sur votre affiliation avec une personne ou donner l'impression qu'elles émanent de nous, si tel n'est pas le cas ou
-*   préconiser, promouvoir ou aider à un acte illégal comme (à titre d'exemple uniquement) une violation de droit d’auteur.rice ou un piratage d'ordinateur.
+* contenir des éléments diffamatoires pour une personne, obscènes, injurieux, haineux ou incendiaires
+* promouvoir des scènes explicites sur le plan sexuel ou promouvoir la violence
+* promouvoir la discrimination sur la base de la race, de sexe, de genre, de la religion, de la nationalité, du handicap, de l'orientation sexuelle ou de l'âge
+* promouvoir le capitalisme, la déqualification du travail hors de toutes règles définies collectivement et démocratiquement, le patriarcat, le colonialisme, la réappropriation culturelle et/ou de classe (dont le Dab en costume en wax cristallise leur intersectionnalité), l’usage du terme “disruptif”, toute référence à Bernard Stiegler, l’usage lucratif des données, les montres connectées et la police d’écriture Comic Sans MS
+* enfreindre des droits d’auteur.rice, droits sur des bases de données ou marques de commerce d'un tiers ;
+* être susceptibles de tromper une tierce personne ou être en infraction avec une obligation légale vis-à-vis d'un tiers, comme une obligation contractuelle ou une obligation de discrétion ou promouvoir une activité illégale ;
+* être menaçantes, porter atteinte à ou violer l'intimité d'un tiers, provoquer une gêne, un dérangement ou une anxiété inutile ou être susceptibles de harceler, perturber, embarrasser, alarmer ou gêner un tiers ;
+* être utilisées pour se faire passer pour quelqu'un d'autre ou usurper votre identité ou tromper sur votre affiliation avec une personne ou donner l'impression qu'elles émanent de nous, si tel n'est pas le cas ou
+* préconiser, promouvoir ou aider à un acte illégal comme (à titre d'exemple uniquement) une violation de droit d’auteur.rice ou un piratage d'ordinateur.
 
 6\. Suspension et résiliation
 -----------------------------
