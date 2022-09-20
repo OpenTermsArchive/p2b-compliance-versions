@@ -108,9 +108,9 @@ If you fail to attend the agreed location at the scheduled time of the visit, we
 
 You shall promptly notify us:
 
-*   if, for any reason, you cannot attend any scheduled visit (in which case you must promptly notify the User also) or otherwise become unable or unavailable to supply the Services as contracted;
-*   if you receive any complaints from Users; and
-*   of any grievance that you may have in relation to Users.
+* if, for any reason, you cannot attend any scheduled visit (in which case you must promptly notify the User also) or otherwise become unable or unavailable to supply the Services as contracted;
+* if you receive any complaints from Users; and
+* of any grievance that you may have in relation to Users.
 
   
 
@@ -216,22 +216,22 @@ Restrictions on use of Helpling
 
 You may only use Helpling for lawful purposes. You may not use it:
 
-*   in any way that breaches any applicable local, national or international laws or regulations;
-*   in any way that is unlawful or fraudulent or has any unlawful or fraudulent purpose or effect;
-*   to send, knowingly receive, upload or download, use or re-use any material which does not comply with our content standards as set out below;
-*   to transmit, or procure the sending of, any unsolicited or unauthorised advertising or promotional material or any other form of similar solicitation (spam);
-*   knowingly to transmit any data, send or upload any material that contains viruses, Trojan horses, worms, time-bombs, keystroke loggers, spyware, adware or any other harmful programs or similar computer code designed adversely to affect the operation of any computer software or hardware;
-*   in a way that could damage, disable, overburden, impair or compromise our systems or security or interfere with other users of Helpling; or
-*   to collect or harvest any information or data from Helpling or our systems or attempt to decipher any transmissions to or from the servers running Helpling.
+* in any way that breaches any applicable local, national or international laws or regulations;
+* in any way that is unlawful or fraudulent or has any unlawful or fraudulent purpose or effect;
+* to send, knowingly receive, upload or download, use or re-use any material which does not comply with our content standards as set out below;
+* to transmit, or procure the sending of, any unsolicited or unauthorised advertising or promotional material or any other form of similar solicitation (spam);
+* knowingly to transmit any data, send or upload any material that contains viruses, Trojan horses, worms, time-bombs, keystroke loggers, spyware, adware or any other harmful programs or similar computer code designed adversely to affect the operation of any computer software or hardware;
+* in a way that could damage, disable, overburden, impair or compromise our systems or security or interfere with other users of Helpling; or
+* to collect or harvest any information or data from Helpling or our systems or attempt to decipher any transmissions to or from the servers running Helpling.
 
 You also agree:
 
-*   not to permit Helpling or any part of it to be combined with, or become incorporated in, any other programs;
-*   not to reproduce, duplicate, copy or re-sell any part of Helpling in contravention of these terms of use;
-*   not to access without authority, penetrate, interfere with, damage or disrupt (or attempt to do any of the same): (i) the accounts of other users of Helpling; (ii) any part of Helpling or its security measures; (iii) any equipment or network on which Helpling is stored; (iv) any software used in the provision of Helpling; or (v) any equipment or network or software owned or used by any third party;
-*   not to copy the App except where such copying is incidental to normal use of the App or where it is necessary for the purpose of back-up or operational security;
-*   not to disassemble, decompile, reverse-engineer or create derivative works based on the whole or any part of the App or attempt to do any such thing except to the extent that (by virtue of section 296A of the Copyright, Designs and Patents Act 1988) such actions cannot be prohibited because they are essential for the purpose of achieving inter-operability of the App with another software program, and provided that the information obtained by you during such activities: (i) is used only for the purpose of achieving inter-operability of the App with another software program; (ii) is not unnecessarily disclosed or communicated without our prior written consent to any third party; and (iii) is not used to create any software that is substantially similar to the App; and
-*   not to provide or otherwise make available the App in whole or in part (including object and source code) in any form to any person without prior written consent from us.
+* not to permit Helpling or any part of it to be combined with, or become incorporated in, any other programs;
+* not to reproduce, duplicate, copy or re-sell any part of Helpling in contravention of these terms of use;
+* not to access without authority, penetrate, interfere with, damage or disrupt (or attempt to do any of the same): (i) the accounts of other users of Helpling; (ii) any part of Helpling or its security measures; (iii) any equipment or network on which Helpling is stored; (iv) any software used in the provision of Helpling; or (v) any equipment or network or software owned or used by any third party;
+* not to copy the App except where such copying is incidental to normal use of the App or where it is necessary for the purpose of back-up or operational security;
+* not to disassemble, decompile, reverse-engineer or create derivative works based on the whole or any part of the App or attempt to do any such thing except to the extent that (by virtue of section 296A of the Copyright, Designs and Patents Act 1988) such actions cannot be prohibited because they are essential for the purpose of achieving inter-operability of the App with another software program, and provided that the information obtained by you during such activities: (i) is used only for the purpose of achieving inter-operability of the App with another software program; (ii) is not unnecessarily disclosed or communicated without our prior written consent to any third party; and (iii) is not used to create any software that is substantially similar to the App; and
+* not to provide or otherwise make available the App in whole or in part (including object and source code) in any form to any person without prior written consent from us.
 
 Content standards
 
@@ -241,20 +241,20 @@ These content standards apply to any and all content that you post or upload to 
 
 If you make use of any feature that allows you to post or upload any content to Helpling (for example, when making contact with Helpling) or to send messages to Users, any such content and messages (as the case may be) must be accurate and genuine and must not:
 
-*   be defamatory of any person;
-*   be obscene, offensive, hateful, inflammatory or otherwise objectionable;
-*   promote violence or indecent or sexually explicit material;
-*   promote discrimination based on race, sex, religion, nationality, disability, sexual orientation or age;
-*   infringe or violate any copyright, database right, trade mark or any other intellectual property right of any other person;
-*   be likely to deceive any person;
-*   be made in breach of any laws or any legal duty owed to a third party, such as a contractual duty or a duty of confidence;
-*   advocate, promote, assist or enable any illegal or unlawful activities (including, without limitation, copyright infringement or computer misuse) or intend to defraud, swindle or deceive other users of Helpling;
-*   be threatening, abuse or invade another’s privacy or cause annoyance, inconvenience or needless anxiety;
-*   be likely to harass, upset, embarrass, alarm or annoy another person;
-*   be used to impersonate any person or to misrepresent your identity or affiliation with any person;
-*   give the impression that they emanate from us, if that is not the case;
-*   relate to commercial activities (including, without limitation, sales, competitions and advertising, links to other websites or premium rate telephone numbers); or
-*   disseminate or otherwise disclose another person’s personal information without his or her prior permission or collect or solicit another person’s personal information for commercial or unlawful purposes.
+* be defamatory of any person;
+* be obscene, offensive, hateful, inflammatory or otherwise objectionable;
+* promote violence or indecent or sexually explicit material;
+* promote discrimination based on race, sex, religion, nationality, disability, sexual orientation or age;
+* infringe or violate any copyright, database right, trade mark or any other intellectual property right of any other person;
+* be likely to deceive any person;
+* be made in breach of any laws or any legal duty owed to a third party, such as a contractual duty or a duty of confidence;
+* advocate, promote, assist or enable any illegal or unlawful activities (including, without limitation, copyright infringement or computer misuse) or intend to defraud, swindle or deceive other users of Helpling;
+* be threatening, abuse or invade another’s privacy or cause annoyance, inconvenience or needless anxiety;
+* be likely to harass, upset, embarrass, alarm or annoy another person;
+* be used to impersonate any person or to misrepresent your identity or affiliation with any person;
+* give the impression that they emanate from us, if that is not the case;
+* relate to commercial activities (including, without limitation, sales, competitions and advertising, links to other websites or premium rate telephone numbers); or
+* disseminate or otherwise disclose another person’s personal information without his or her prior permission or collect or solicit another person’s personal information for commercial or unlawful purposes.
   
 
 We will not be responsible, or liable to you or any third party, for any content posted or uploaded to Helpling and we do not recommend or endorse any such content or accept any responsibility for its accuracy.
@@ -273,21 +273,21 @@ You may terminate the legal agreement between us and request the closure of your
 
 We will determine, in our discretion, whether there has been a breach of these terms of use through your use of Helpling and, if such a breach has occurred, we may take such action as we deem appropriate, including all or any of the following actions:
 
-*   immediate, temporary or permanent withdrawal of your right to use Helpling.co.uk (including termination of the legal agreement between us and closure of your account);
-*   immediate, temporary or permanent removal of any content posted or uploaded by you to Helpling;
-*   issue of a warning to you;
-*   legal proceedings against you for reimbursement of all costs on an indemnity basis (including, but not limited to, reasonable administrative and legal costs) resulting from the breach;
-*   further legal action against you; and
-*   disclosure of such information to law enforcement authorities as we feel is reasonably necessary.
+* immediate, temporary or permanent withdrawal of your right to use Helpling.co.uk (including termination of the legal agreement between us and closure of your account);
+* immediate, temporary or permanent removal of any content posted or uploaded by you to Helpling;
+* issue of a warning to you;
+* legal proceedings against you for reimbursement of all costs on an indemnity basis (including, but not limited to, reasonable administrative and legal costs) resulting from the breach;
+* further legal action against you; and
+* disclosure of such information to law enforcement authorities as we feel is reasonably necessary.
 
 We exclude liability for actions taken in response to breaches of these terms of use. The responses described in these terms of use are not limited and we may take any other action we deem reasonably appropriate.
 
 If we withdraw your right to use Helpling:
 
-*   all rights granted to you under these terms of use shall cease;
-*   you must immediately cease all activities authorised by these terms of use, including your use of Helpling.
-*   you must, if applicable, immediately delete the App from all Mobile Devices; and
-*   you must not attempt to re-register to use Helpling.
+* all rights granted to you under these terms of use shall cease;
+* you must immediately cease all activities authorised by these terms of use, including your use of Helpling.
+* you must, if applicable, immediately delete the App from all Mobile Devices; and
+* you must not attempt to re-register to use Helpling.
 
 Linking to the Site
 
