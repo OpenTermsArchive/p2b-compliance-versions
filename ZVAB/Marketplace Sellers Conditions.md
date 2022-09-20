@@ -12,9 +12,9 @@ Welcome to AbeBooks, and thank you for joining us to list your products for sale
 
 AbeBooks Inc. ("AbeBooks", "Us", "We" "Our") operates a number of Web Sites (collectively, the "Web Sites" and each a "Web Site") and provides services (collectively, the "Services") that allow people and entities ("Customers") to purchase items as described in the [Seller Policies](https://www.abebooks.com/docs/BooksellerPolicies/) (collectively, "Items") from sellers. In this agreement, you will be referred to as a "Seller", "You" or "Your." This agreement incorporates the [AbeBooks Program Guide](#programguide), the [Seller Policies](https://www.abebooks.com/docs/BooksellerPolicies/), and the [Fee Schedule](#feeschedule) (together, the Agreement). If You want to list and sell Items through the Web Sites or use the Services, You must:
 
-1.  Complete and submit an [AbeBooks Membership Application](https://www.abebooks.com/books/Sell/); and
-2.  Read this Agreement, the [AbeBooks Program Guide](#programguide), the [Seller Policies](https://www.abebooks.com/docs/BooksellerPolicies/), and the [Fee Schedule](#feeschedule), and signify Your acceptance and agreement to them by clicking on the \[I accept\] button at the end of this Agreement.
-3.  If applicable, You will be required to agree to terms with Our external payment service provider (External Payment Service Provider).  
+1. Complete and submit an [AbeBooks Membership Application](https://www.abebooks.com/books/Sell/); and
+2. Read this Agreement, the [AbeBooks Program Guide](#programguide), the [Seller Policies](https://www.abebooks.com/docs/BooksellerPolicies/), and the [Fee Schedule](#feeschedule), and signify Your acceptance and agreement to them by clicking on the \[I accept\] button at the end of this Agreement.
+3. If applicable, You will be required to agree to terms with Our external payment service provider (External Payment Service Provider).  
     
 
 Once We have accepted Your membership application, and provided You have clicked on the \[I accept\] button, You will be bound by this Agreement.
@@ -47,10 +47,10 @@ If Items listed in Your Product File do not have an ISBN associated with them, W
 
 Before You provide Us with the Product File, You must ensure that:
 
-1.  You have the legal right to offer and sell the Items listed in the Product File;
-2.  The Product File and the Items listed in the Product File comply with all applicable laws, the [AbeBooks Program Guide](#programguide) and the [Seller Policies](https://www.abebooks.com/docs/BooksellerPolicies/);
-3.  The Product File, Our use of the Product File, and the offer and sale by You of the Items listed in the Product File will not infringe the rights (including copyright, trademark, and other intellectual property rights) of any person or entity or violate any applicable laws; and
-4.  The offer and sale by You of the Items listed in the Product File, and the contents of the Product File, do not constitute false advertising and are not misleading in any respect.  
+1. You have the legal right to offer and sell the Items listed in the Product File;
+2. The Product File and the Items listed in the Product File comply with all applicable laws, the [AbeBooks Program Guide](#programguide) and the [Seller Policies](https://www.abebooks.com/docs/BooksellerPolicies/);
+3. The Product File, Our use of the Product File, and the offer and sale by You of the Items listed in the Product File will not infringe the rights (including copyright, trademark, and other intellectual property rights) of any person or entity or violate any applicable laws; and
+4. The offer and sale by You of the Items listed in the Product File, and the contents of the Product File, do not constitute false advertising and are not misleading in any respect.  
     
 
 You will ensure that all information You provide to Us, including membership application, Product File, and financial information, is true, accurate, current and complete. We will rely on the information You provide. You will be solely responsible and liable for any and all loss, damage, and additional costs that You, Us or any other person may incur as a result of Your submission of any false, incorrect or incomplete information.
@@ -234,10 +234,10 @@ Fee Schedule
 
 All currency in this Fee Schedule is in United States dollars. The purpose of this Fee Schedule is to explain the following items:
 
-1.  Subscription Fee Rates
-2.  Commission Fees and Payment Service Fees
-3.  Minimum/Maximum Prices
-4.  Statements  
+1. Subscription Fee Rates
+2. Commission Fees and Payment Service Fees
+3. Minimum/Maximum Prices
+4. Statements  
     
 
 The subscription fee, commission fees, and payment service fees are collectively the "Fees". You agree that We may, in Our sole discretion, require You to pay the Fees described in this schedule directly to Us or deduct Fees due to Us from amounts due to You.
