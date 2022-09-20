@@ -2,7 +2,7 @@ Important Note: This Merchant Terms of Service and Agreement applies to merchant
 
 The version of the Merchant Terms of Service and Agreement in English is the definitive legal version. This Merchant Terms of Service and Agreement was updated on December 20, 2021, and is effective upon new users as of that date. If you registered before December 20, 2021, your use of the Services will be governed by the terms below as of January 4, 2022. To view the previous terms, click [here](https://merchant.wish.com/terms-of-service/archive?version=5&region=EU&patch=0).
 
-The above “Important Note” constitutes an integral part of this Merchant Terms of Service and Agreement. 
+The above “Important Note” constitutes an integral part of this Merchant Terms of Service and Agreement. 
 
 Merchant Terms of Service and Agreement
 =======================================
@@ -11,27 +11,27 @@ Please read this Merchant Terms of Service and Agreement (“terms of service”
 
 The Additional Terms and Policies include, but are not limited to, the following.
 
-*   [Wish API Terms of Service](https://merchant.wish.com/api-partner-terms-of-service)
+* [Wish API Terms of Service](https://merchant.wish.com/api-partner-terms-of-service)
     
-*   [Merchant Policies](https://merchant.wish.com/policy/home) (including all subsections incorporated therein)
+* [Merchant Policies](https://merchant.wish.com/policy/home) (including all subsections incorporated therein)
     
-*   [Wish Merchant Tax Policy](https://merchant.wish.com/tax/policy)
+* [Wish Merchant Tax Policy](https://merchant.wish.com/tax/policy)
     
-*   [Fees and Payments Policy](https://merchant.wish.com/policy/fees_and_payments)
+* [Fees and Payments Policy](https://merchant.wish.com/policy/fees_and_payments)
     
-*   [Privacy Policy](https://wish.com/privacy_policy)
+* [Privacy Policy](https://wish.com/privacy_policy)
     
-*   [Wish Express Qualifications and Terms](https://merchant.wish.com/policy#wish_express)
+* [Wish Express Qualifications and Terms](https://merchant.wish.com/policy#wish_express)
     
-*   [WishPost](https://www.wishpost.cn/welcome/#/terms-of-service) Platform Service Agreement
+* [WishPost](https://www.wishpost.cn/welcome/#/terms-of-service) Platform Service Agreement
     
-*   [Fulfillment By Wish Terms and Conditions](https://merchant.wish.com/fbw/tos)
+* [Fulfillment By Wish Terms and Conditions](https://merchant.wish.com/fbw/tos)
     
-*   [Wish Local Participant Terms and Conditions](https://wish.com/local/terms)
+* [Wish Local Participant Terms and Conditions](https://wish.com/local/terms)
     
-*   [Wish Local Retailer Referral Terms of Use](https://wish.com/local/invite/en-terms)
+* [Wish Local Retailer Referral Terms of Use](https://wish.com/local/invite/en-terms)
     
-*   [ProductBoost Addendum](https://merchant.wish.com/product-boost/tos)
+* [ProductBoost Addendum](https://merchant.wish.com/product-boost/tos)
     
 
 All Additional Terms and Policies are hereby specifically incorporated herein by reference, and the Terms, together with all Additional Terms and Policies, form the entire agreement between you and Wish (the “Agreement”) with respect to the subject matter hereof and supersede all prior agreements. To the extent that the Terms conflict with any other Additional Terms or Policies provided by or through us, the Additional Terms or Policies, respectively, shall control to the extent of the conflict. Any additional terms and conditions you may propose in any order confirmation or other documentation are rejected and shall have no effect unless expressly agreed to by us in a separate written agreement with you.
@@ -166,41 +166,41 @@ You are solely responsible for your conduct and activities on or relating to the
 
 Your Content, use of (or activity on) the Services, and products sold over the Services shall not:
 
-1.  Be false, inaccurate, or misleading;
+1. Be false, inaccurate, or misleading;
     
-2.  Be obscene or contain unwarranted pornography, nudity, or adult material;
+2. Be obscene or contain unwarranted pornography, nudity, or adult material;
     
-3.  Contain or transmit any code of a destructive nature that may damage, detrimentally interfere with, surreptitiously intercept, or expropriate any system, data, or personal information;
+3. Contain or transmit any code of a destructive nature that may damage, detrimentally interfere with, surreptitiously intercept, or expropriate any system, data, or personal information;
     
-4.  Contain images that are not related to the product or service you are offering;
+4. Contain images that are not related to the product or service you are offering;
     
-5.  Infringe upon, misappropriate, dilute, or otherwise violate any third party’s copyright, patent, trademark, trade secret, or other intellectual property or proprietary rights or rights of publicity; such prohibited behavior includes (without limitation): (a) selling or displaying items portraying the likeness of a celebrity (including portraits, pictures, names, signatures, and autographs); (b) selling or displaying items bearing a third party brand or trademark that you are not authorized to display in such manner; or (c) selling any pirated video or recording;
+5. Infringe upon, misappropriate, dilute, or otherwise violate any third party’s copyright, patent, trademark, trade secret, or other intellectual property or proprietary rights or rights of publicity; such prohibited behavior includes (without limitation): (a) selling or displaying items portraying the likeness of a celebrity (including portraits, pictures, names, signatures, and autographs); (b) selling or displaying items bearing a third party brand or trademark that you are not authorized to display in such manner; or (c) selling any pirated video or recording;
     
-6.  List any item on Wish (or consummate any transaction) or link directly or indirectly to, reference, or contain descriptions of goods or services that (a) are prohibited under these Terms, any Additional Terms or Policies (including the [Merchant Policies](https://merchant.wish.com/policy/home)), Wish’s [Terms of Use](https://wish.com/terms), or any document incorporated herein or therein, or are prohibited in any other Wish Policy documents (unless and to the extent Wish determines you are an eligible merchant permitted to sell restricted items in specific regions based on new or additional requirements being met); (b) are prohibited in any of the countries in which the items are offered for sale; or (c) could cause Wish to violate any Applicable laws, or that violate these Terms, any Additional Terms or Policies (including the [Merchant Policies](https://merchant.wish.com/policy/home)), Wish’s [Terms of Use](https://wish.com/terms), or any document incorporated herein or therein;
+6. List any item on Wish (or consummate any transaction) or link directly or indirectly to, reference, or contain descriptions of goods or services that (a) are prohibited under these Terms, any Additional Terms or Policies (including the [Merchant Policies](https://merchant.wish.com/policy/home)), Wish’s [Terms of Use](https://wish.com/terms), or any document incorporated herein or therein, or are prohibited in any other Wish Policy documents (unless and to the extent Wish determines you are an eligible merchant permitted to sell restricted items in specific regions based on new or additional requirements being met); (b) are prohibited in any of the countries in which the items are offered for sale; or (c) could cause Wish to violate any Applicable laws, or that violate these Terms, any Additional Terms or Policies (including the [Merchant Policies](https://merchant.wish.com/policy/home)), Wish’s [Terms of Use](https://wish.com/terms), or any document incorporated herein or therein;
     
-7.  Violate these Terms, any Additional Terms or Policies (including the [Merchant Policies](https://merchant.wish.com/policy/home)), Wish’s [Terms of Use](https://wish.com/terms), any document incorporated herein or therein, the policies of app stores where Wish’s apps are available (including Google Play and the Apple App Store), or any Applicable Laws (including, but not limited to, those governing export control, consumer protection, unfair competition, anti-discrimination, or false advertising);
+7. Violate these Terms, any Additional Terms or Policies (including the [Merchant Policies](https://merchant.wish.com/policy/home)), Wish’s [Terms of Use](https://wish.com/terms), any document incorporated herein or therein, the policies of app stores where Wish’s apps are available (including Google Play and the Apple App Store), or any Applicable Laws (including, but not limited to, those governing export control, consumer protection, unfair competition, anti-discrimination, or false advertising);
     
-8.  Involve the sale of items that have been identified by any regulator that has jurisdiction in the countries in which the items are offered as hazardous to consumers and therefore subject to a recall, including, but not limited to, the European Commission’s Directorate General for Justice and Consumers for European Union and the UK’s Chartered Trading Standards Institute;
+8. Involve the sale of items that have been identified by any regulator that has jurisdiction in the countries in which the items are offered as hazardous to consumers and therefore subject to a recall, including, but not limited to, the European Commission’s Directorate General for Justice and Consumers for European Union and the UK’s Chartered Trading Standards Institute;
     
-9.  Be defamatory, libelous, unlawfully threatening, unlawfully harassing, impersonate or intimidate any person (including Wish staff or other merchants), or falsely state or otherwise misrepresent your affiliation with any person or entity, through, for example, the use of similar email address, nicknames, or creation of a false account(s), or any other method or device;
+9. Be defamatory, libelous, unlawfully threatening, unlawfully harassing, impersonate or intimidate any person (including Wish staff or other merchants), or falsely state or otherwise misrepresent your affiliation with any person or entity, through, for example, the use of similar email address, nicknames, or creation of a false account(s), or any other method or device;
     
-10.  Decompile, reverse engineer, disassemble, or otherwise attempt to obtain the source code or underlying ideas or information of or relating to the Services;
+10. Decompile, reverse engineer, disassemble, or otherwise attempt to obtain the source code or underlying ideas or information of or relating to the Services;
     
-11.  “Crawl,” “scrape,” or “spider” any page, data, or portion of or relating to the Services through any means;
+11. “Crawl,” “scrape,” or “spider” any page, data, or portion of or relating to the Services through any means;
     
-12.  Violate the security of any computer network or crack any passwords or security encryption codes;
+12. Violate the security of any computer network or crack any passwords or security encryption codes;
     
-13.  Modify, adapt, or hack the Services or modify another website so as to falsely imply that it is associated with Wish;
+13. Modify, adapt, or hack the Services or modify another website so as to falsely imply that it is associated with Wish;
     
-14.  Post fraudulent, inaccurate, or misleading reviews of merchants or items (and instead shall always disclose all information a reasonable shopper would want to know about your review, including whether you were provided any compensation or other benefit to write your review);
+14. Post fraudulent, inaccurate, or misleading reviews of merchants or items (and instead shall always disclose all information a reasonable shopper would want to know about your review, including whether you were provided any compensation or other benefit to write your review);
     
-15.  Attempt to manipulate the manner in which Wish categorizes, ranks or displays stores or listings with dishonest or unfair activities, including, without limitation, by accepting fraudulent orders, encouraging or engaging in provision of inauthentic or fake reviews, or by making material changes to a listing after it was published (e.g., to the item or its price);
+15. Attempt to manipulate the manner in which Wish categorizes, ranks or displays stores or listings with dishonest or unfair activities, including, without limitation, by accepting fraudulent orders, encouraging or engaging in provision of inauthentic or fake reviews, or by making material changes to a listing after it was published (e.g., to the item or its price);
     
-16.  Solicit business for, direct sales to, or promote any website, service, or entity outside of the Services;
+16. Solicit business for, direct sales to, or promote any website, service, or entity outside of the Services;
     
-17.  Violate the privacy rights of, or contain personal information about, any individual; or
+17. Violate the privacy rights of, or contain personal information about, any individual; or
     
-18.  Violate any Applicable Laws relating to export, import, or trade control or the export, re-export, transfer, import, sale, or use of products or services sold under this Agreement (collectively, “Trade Control Laws”). Without limiting the foregoing, you shall not sell, transfer, export or re-export to, or otherwise provide products or services under this Agreement, directly or indirectly, (a) to any country (or national or government thereof), state, territory, or region that is subject to sanctions measures issued or adopted from time to time by the U.S. Department of the Treasury’s Office of Foreign Assets Control (“OFAC”) (currently Cuba, Iran, North Korea, Syria, and the Crimea region of Ukraine) or any other applicable sanctions, including the sanctions laws of any other country having jurisdiction, including the European Union and the United Kingdom (collectively, “Sanctions”); (b) to any person to whom delivery or provision of products or services is prohibited under Trade Control Laws or Sanctions, including, without limitation, to (i) any person or entity identified on the Denied Persons List as maintained by the U.S. Department of Commerce Bureau of Industry and Security or (ii) any person or entity identified on the list of Specially Designated Nationals and Blocked Persons as maintained by OFAC, or any other regulator that has jurisdiction in the countries in which the items are offered, including China, the European Union and the United Kingdom, or (c) for any end use prohibited under Trade Control Laws or Sanctions, including, without limitation, for any missile, chemical weapons, or nuclear end uses.
+18. Violate any Applicable Laws relating to export, import, or trade control or the export, re-export, transfer, import, sale, or use of products or services sold under this Agreement (collectively, “Trade Control Laws”). Without limiting the foregoing, you shall not sell, transfer, export or re-export to, or otherwise provide products or services under this Agreement, directly or indirectly, (a) to any country (or national or government thereof), state, territory, or region that is subject to sanctions measures issued or adopted from time to time by the U.S. Department of the Treasury’s Office of Foreign Assets Control (“OFAC”) (currently Cuba, Iran, North Korea, Syria, and the Crimea region of Ukraine) or any other applicable sanctions, including the sanctions laws of any other country having jurisdiction, including the European Union and the United Kingdom (collectively, “Sanctions”); (b) to any person to whom delivery or provision of products or services is prohibited under Trade Control Laws or Sanctions, including, without limitation, to (i) any person or entity identified on the Denied Persons List as maintained by the U.S. Department of Commerce Bureau of Industry and Security or (ii) any person or entity identified on the list of Specially Designated Nationals and Blocked Persons as maintained by OFAC, or any other regulator that has jurisdiction in the countries in which the items are offered, including China, the European Union and the United Kingdom, or (c) for any end use prohibited under Trade Control Laws or Sanctions, including, without limitation, for any missile, chemical weapons, or nuclear end uses.
     
 
 7\. Content
@@ -234,23 +234,23 @@ Wish does not assume any responsibilities for disputes between you and your cust
 
 Your Personal Data and Business Data – Legal Requirements Protection of Wish and Others: You acknowledge and agree that your own personal data will be collected and used as described in applicable provisions of Wish’s [Privacy Policy](https://wish.com/privacy_policy) and as permitted by Privacy and Security Laws. In particular, Wish reserves the right to access, read, preserve, and disclose any Business Data (including Content), personal data, or other information that Wish believes is necessary to comply with any Applicable Laws or court order; respond to legal, regulatory, or commercial claims; enforce or apply Wish’s policies, guidelines, or other agreements; validate information about you or provided by you when you register as a merchant; or protect the rights, property, or safety of Wish, its employees, users, or others. In connection with your use of the Services, and subject to the above, you understand and agree that Wish may disclose certain information about you to suppliers, service providers, consumers, regulators, or other third parties, including, without limitation, your:
 
-*   Name
+* Name
     
-*   Email address
+* Email address
     
-*   Payment method or financial account information
+* Payment method or financial account information
     
-*   Shipping address
+* Shipping address
     
-*   Phone number
+* Phone number
     
-*   Geolocation data (including business name, street address (number and name), postal code, city, state, country, or latitude and longitude coordinates)
+* Geolocation data (including business name, street address (number and name), postal code, city, state, country, or latitude and longitude coordinates)
     
-*   Social network account credentials
+* Social network account credentials
     
-*   Sales information
+* Sales information
     
-*   Wish identifications or usernames
+* Wish identifications or usernames
     
 
 [View Privacy Policy](https://wish.com/privacy_policy)
@@ -284,27 +284,27 @@ Any arbitration will be filed with and administered by the International Chamber
 
 Notwithstanding the rules of the ICC, the following will apply to all arbitration actions:
 
-*   The Arbitration Agreement and the arbitration will be governed by Dutch Laws.
+* The Arbitration Agreement and the arbitration will be governed by Dutch Laws.
     
-*   The arbitration will be conducted in English.
+* The arbitration will be conducted in English.
     
-*   The parties agree that time is of the essence.
+* The parties agree that time is of the essence.
     
-*   The arbitration will take place in Amsterdam, Netherlands.
+* The arbitration will take place in Amsterdam, Netherlands.
     
-*   The parties will be allotted equal time to present their respective cases, including cross-examinations.
+* The parties will be allotted equal time to present their respective cases, including cross-examinations.
     
 
 In addition to the foregoing and notwithstanding the rules of the ICC, certain procedures will apply depending on the amount in controversy. For controversies and claims in which the amount in controversy is less than five million (5,000,000) dollars, the following procedures will apply:
 
-*   The arbitration will occur within one hundred eighty (180) days from the date on which the arbitrator is appointed and will last no more than five (5) business days.
+* The arbitration will occur within one hundred eighty (180) days from the date on which the arbitrator is appointed and will last no more than five (5) business days.
     
-*   There will be one (1) arbitrator selected from the panel provided by the ICC, using the ICC rules for arbitrator selection.
+* There will be one (1) arbitrator selected from the panel provided by the ICC, using the ICC rules for arbitrator selection.
     
 
 For controversies and claims in which the amount in controversy is equal to or exceeds five million (5,000,000) dollars, the following procedures will apply:
 
-*   There will be three (3) arbitrators selected from the panel provided by the ICC, using the ICC rules for arbitrator selection.
+* There will be three (3) arbitrators selected from the panel provided by the ICC, using the ICC rules for arbitrator selection.
     
 
 If Wish’s or your claim is solely for monetary relief of ten thousand (10,000) dollars or less and does not include a request for any type of equitable remedy, the party bringing the claim may choose whether the arbitration of the claim will be conducted through a telephonic hearing or by an in-person hearing under the ICC rules, solely based on documents submitted to the arbitrator.
@@ -380,9 +380,9 @@ The materials displayed or performed or available on or through the Services, in
 
 Much of the information on Wish is updated on a real-time basis and is proprietary or is licensed to Wish by Wish’s merchants or third parties. You agree that you will not use any robot, spider, scraper, or other automated means to access Wish for any purpose whatsoever, except to the extent expressly permitted by and in compliance with this Agreement, including the [Wish API Terms of Service](https://merchant.wish.com/api-partner-terms-of-service), without Wish’s prior express written permission. Additionally, you agree that you will not:
 
-*   Take any action that imposes, or may impose, as determined by Wish, an unreasonable or disproportionately large load on Wish’s infrastructure; or
+* Take any action that imposes, or may impose, as determined by Wish, an unreasonable or disproportionately large load on Wish’s infrastructure; or
     
-*   Interfere or attempt to interfere with the proper working of the Services or any activities conducted on the Services.
+* Interfere or attempt to interfere with the proper working of the Services or any activities conducted on the Services.
     
 
 12\. Restriction, Suspension, and Termination for Convenience
@@ -431,13 +431,13 @@ Notwithstanding or limiting in any way the foregoing, you shall comply with all 
 
 For direct shipments from outside the European Union to customers in the European Union, Wish may provide you with its Import One Stop Shop (''IOSS'') number. You understand and agree that you will only use this IOSS number in relation to sales carried out via the Wish online marketplace. If you use the IOSS number of Wish inappropriately in any way, Wish may, at its sole discretion, withhold or offset retaining amounts otherwise due to you, issue a penalty, suspend your account, or take any other actions Wish deems appropriate for so long as Wish in its sole discretion believes that you used the Wish IOSS number in an inappropriate way. Inappropriate usage of the IOSS number includes, but is not limited to, the following scenarios:
 
-*   you use the IOSS number of Wish for shipments related to sales carried out outside the Wish online platform (for instance, where you sell and ship goods to a customer in the European Union via another online marketplace);
+* you use the IOSS number of Wish for shipments related to sales carried out outside the Wish online platform (for instance, where you sell and ship goods to a customer in the European Union via another online marketplace);
     
-*   you do not transmit the Wish IOSS VAT number to your freight forwarder in a secure manner;
+* you do not transmit the Wish IOSS VAT number to your freight forwarder in a secure manner;
     
-*   you communicate the Wish IOSS VAT number to other persons; or
+* you communicate the Wish IOSS VAT number to other persons; or
     
-*   you publish the Wish IOSS VAT number anywhere (for example an internet website).
+* you publish the Wish IOSS VAT number anywhere (for example an internet website).
     
 
 18\. Customs Duty and Indirect Taxes
