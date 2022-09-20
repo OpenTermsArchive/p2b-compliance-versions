@@ -3,11 +3,11 @@ Conditions Générales d’Utilisation et de Vente de TRAINME SAS
 
 Les présentes conditions générales d’utilisation et de vente (ci-après dénommées « Conditions Générales ») sont conclues entre :
 
-*      La société TrainMe, société à responsabilité limitée, immatriculée au RCS de Paris sous le n° 811 829 837, dont le siège social est situé TRAINME – 5 avenue general de Gaulle Saint-Mandé 94160 (ci-après : la « Société »).
+*    La société TrainMe, société à responsabilité limitée, immatriculée au RCS de Paris sous le n° 811 829 837, dont le siège social est situé TRAINME – 5 avenue general de Gaulle Saint-Mandé 94160 (ci-après : la « Société »).
 
 Et
 
-*      L’Utilisateur du Site https://www.trainme.co
+*    L’Utilisateur du Site https://www.trainme.co
 
 ### Préambule
 
@@ -21,7 +21,7 @@ Tout accès et/ou utilisation du Site suppose l’acceptation sans réserves et 
 
 **Utilisateur** : Toute personne bénéficiant d’un espace personnel sur le Site (le « Compte Personnel »).
 
-**Client** : Toute personne bénéficiant d’un espace personnel sur le Site (le « Compte Personnel »), et candidate aux prestations
+**Client** : Toute personne bénéficiant d’un espace personnel sur le Site (le « Compte Personnel »), et candidate aux prestations
 
 **Coach** : Tout professionnel du sport bénéficiant d’un espace personnel sur le Site (le « Compte Personnel ») et qui propose des Prestations
 
@@ -147,7 +147,7 @@ Lorsqu'un pack est consommé en partie (1 cours ou plus), il ne peut plus être 
 
 Les Chèques CESUs :
 
-A réception des chèques ou tickets CESUs, nous créons un bon du montant reçu moins 10%. Ce bon sera valable un an à sa date de création. Ce bon est valable sur tous les Coachs TrainMe dispensant des cours à Domicile. 
+A réception des chèques ou tickets CESUs, nous créons un bon du montant reçu moins 10%. Ce bon sera valable un an à sa date de création. Ce bon est valable sur tous les Coachs TrainMe dispensant des cours à Domicile. 
 
 Il est cumulable avec les autres offres.
 
@@ -193,7 +193,7 @@ A ce titre, la Société ne saurait être tenue responsable de toute annulation 
 
 ### X – Protection des données personnelles
 
-10.1.TrainMe construit avec ses utilisateurs des relations fortes et durables, fondées sur la confiance réciproque : assurer la sécurité et la confidentialité des données personnelles de ses Utilisateurs est une priorité absolue pour TrainMe.
+10.1.TrainMe construit avec ses utilisateurs des relations fortes et durables, fondées sur la confiance réciproque : assurer la sécurité et la confidentialité des données personnelles de ses Utilisateurs est une priorité absolue pour TrainMe.
 
 TrainMe collecte et utilise les données personnelles de l’Utilisateur dans le respect des dispositions de la loi n°78-17 du 6 janvier 1978 dite « Informatique et Libertés » et du Règlement général sur la protection des données du 27 avril 2016 dit « RGPD ».
 
