@@ -30,16 +30,16 @@ Obseg uporabe podatkovnih baz in pravice intelektualne lastnine
 
 Uporabniki spletnega portala morajo upoštevati naslednja dejstva:
 
-*   da so podatkovne baze v informacijskem sistemu Ceneje.si – v celoti in kot posamezni deli sistema – varovane v skladu z Zakonom o avtorskih in sorodnih pravicah,
-*   da so podatki v spletnih storitvah Ceneje.si del podatkovnih baz v smislu določb Zakona o avtorskih in sorodnih pravicah,
-*   da je znak "Ceneje.si" varovan kot storitvena oziroma blagovna znamka v skladu z Zakonom o industrijski lastnini.
+* da so podatkovne baze v informacijskem sistemu Ceneje.si – v celoti in kot posamezni deli sistema – varovane v skladu z Zakonom o avtorskih in sorodnih pravicah,
+* da so podatki v spletnih storitvah Ceneje.si del podatkovnih baz v smislu določb Zakona o avtorskih in sorodnih pravicah,
+* da je znak "Ceneje.si" varovan kot storitvena oziroma blagovna znamka v skladu z Zakonom o industrijski lastnini.
 
 Zakon o avtorskih in sorodnih pravicah med drugim določa, da uporabnik lahko naenkrat uporablja le neznatne dele podatkovnih baz (kakovostno in/ali količinsko) oziroma v obsegu, ki je predviden v okviru razpoložljivih spletnih aplikacij za anonimne ali registrirane uporabnike. Vse druge oblike nadaljnjega posredovanja oziroma omogočanja uporabe tretjim osebam (npr. objava na strežniku tretje osebe oziroma uporabnika, reproduciranje v drugih dokumentih itd.) so izrecno prepovedane. Ta prepoved se nanaša na vse oblike uporabe, ki presegajo okvire lastne uporabe. Še posebej so prepovedana naslednja ravnanja:
 
-*   uporaba znatnih delov (kakovostno in/ali količinsko) podatkovnih baz (npr. reproduciranje strukture podatkovnih baz, delov strukture podatkovnih baz, skupin zapisov itd.),
-*   uporaba podatkovnih baz v nasprotju z njihovo običajno uporabo ali na način, ki bi lahko prizadel interese Ceneje.si (npr. sistematična in ponovljena uporaba neznatnih delov podatkovnih baz itd.),
-*   zajemanje znatnih delov (kakovostno in/ali količinsko) podatkovnih baz s posebnimi programskimi rešitvami,
-*   odstranitev navedbe virov.
+* uporaba znatnih delov (kakovostno in/ali količinsko) podatkovnih baz (npr. reproduciranje strukture podatkovnih baz, delov strukture podatkovnih baz, skupin zapisov itd.),
+* uporaba podatkovnih baz v nasprotju z njihovo običajno uporabo ali na način, ki bi lahko prizadel interese Ceneje.si (npr. sistematična in ponovljena uporaba neznatnih delov podatkovnih baz itd.),
+* zajemanje znatnih delov (kakovostno in/ali količinsko) podatkovnih baz s posebnimi programskimi rešitvami,
+* odstranitev navedbe virov.
 
 Prepovedana je tudi odstranitev ali zamenjava znakov "Ceneje.si", kadar se pojavljajo na posamičnih podatkih in informacijah. Uporabnik odgovarja za vso škodo, ki bi nastala Ceneje.si zaradi kršitve navedenih pogojev in omejitev.
 
