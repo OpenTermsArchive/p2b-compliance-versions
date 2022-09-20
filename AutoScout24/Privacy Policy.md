@@ -34,10 +34,10 @@ Correo electrónico: [dpo@vocento.com](mailto:dpo@vocento.com)
 
 Sumauto recoge y trata los siguientes datos de los usuarios:
 
-*   Nombre y apellido.
-*   Fecha de nacimiento.
-*   Datos del tipo de vehículo.
-*   Identificador y datos del tipo de dispositivo que utiliza el usuario
+* Nombre y apellido.
+* Fecha de nacimiento.
+* Datos del tipo de vehículo.
+* Identificador y datos del tipo de dispositivo que utiliza el usuario
 
 Estos son los datos mínimos e imprescindibles para la gestión de la prestación del servicio que el usuario solicita.
 
@@ -81,26 +81,26 @@ Esta gestión de tus datos se realiza única y exclusivamente para garantizar la
 
 Asimismo, para determinados servicios es necesaria la comunicación de datos a terceros:
 
-*   Los anunciantes a los que solicites información sobre sus vehículos anunciados.
-*   Entre los miembros de la comunidad Sumauto, con el fin de facilitar las transacciones comerciales. Nuestro servicio te permite acceder a cierta información de contacto de otros usuarios (véase la sección 3 anterior). Al aceptar nuestros términos y condiciones, aceptas utilizar estos datos personales exclusivamente para los siguientes fines:
-    *   Comunicación en relación con el contenido publicado en Sumauto, pero no contenido publicitario no solicitado.
-    *   Otras finalidades para las que el usuario haya prestado su consentimiento expreso.
+* Los anunciantes a los que solicites información sobre sus vehículos anunciados.
+* Entre los miembros de la comunidad Sumauto, con el fin de facilitar las transacciones comerciales. Nuestro servicio te permite acceder a cierta información de contacto de otros usuarios (véase la sección 3 anterior). Al aceptar nuestros términos y condiciones, aceptas utilizar estos datos personales exclusivamente para los siguientes fines:
+    * Comunicación en relación con el contenido publicado en Sumauto, pero no contenido publicitario no solicitado.
+    * Otras finalidades para las que el usuario haya prestado su consentimiento expreso.
 
 Por otro lado, con el fin de ofrecer diferentes Servicios a sus usuarios, desde el Portal se puede acceder a la funcionalidad de terceros. En este caso, Sumauto únicamente presta las tareas de ofrecer el servicio de terceros sin tratar los datos personales de los usuarios. Los servicios de terceros ofrecidos en el Portal de Sumauto son:
 
-*   Servicios de tasación del Portal Autobiz. Se pueden consultar las Condiciones del Servicio en el siguiente enlace [https://autobiz-ocasion.es/menciones-legales.html](https://autobiz-ocasion.es/menciones-legales.html)
+* Servicios de tasación del Portal Autobiz. Se pueden consultar las Condiciones del Servicio en el siguiente enlace [https://autobiz-ocasion.es/menciones-legales.html](https://autobiz-ocasion.es/menciones-legales.html)
 
 ### 7\. Tus derechos al facilitarnos tus datos
 
 En cualquier momento puedes solicitar y obtener información de cómo y para qué estamos tratando tus datos. Puedes:
 
-*   Acceder a tus datos: solicitar qué datos tenemos y qué uso hacemos de ellos.
-*   Rectificar tus datos: solicitar la modificación o rectificación de los datos inexactos.
-*   Suprimir tus datos: solicitar que tus datos sean eliminados.
-*   Limitar el tratamiento: cuando la exactitud, la legalidad o la necesidad del tratamiento de los datos resulte dudosa, podrás solicitar la conservación de los datos bloqueados para el ejercicio o la defensa de reclamaciones.
-*   Oponerte a un tratamiento: solicitar que no hagamos un uso concreto de tus datos.
-*   Portabilidad de los datos: que te entreguemos los datos en un formato compatible para que lo entregues a un tercero que te tenga que ofrecer un servicio.
-*   Revocar el consentimiento para cualquier tratamiento para el que hubieras consentido, en cualquier momento.
+* Acceder a tus datos: solicitar qué datos tenemos y qué uso hacemos de ellos.
+* Rectificar tus datos: solicitar la modificación o rectificación de los datos inexactos.
+* Suprimir tus datos: solicitar que tus datos sean eliminados.
+* Limitar el tratamiento: cuando la exactitud, la legalidad o la necesidad del tratamiento de los datos resulte dudosa, podrás solicitar la conservación de los datos bloqueados para el ejercicio o la defensa de reclamaciones.
+* Oponerte a un tratamiento: solicitar que no hagamos un uso concreto de tus datos.
+* Portabilidad de los datos: que te entreguemos los datos en un formato compatible para que lo entregues a un tercero que te tenga que ofrecer un servicio.
+* Revocar el consentimiento para cualquier tratamiento para el que hubieras consentido, en cualquier momento.
 
 Para obtener más información del tratamiento de sus datos o para ejercer sus derechos, el interesado podrá remitir carta con todos sus datos, incluyendo fotocopia de DNI o pasaporte e indicación del derecho que se ejerce, en caso de haber representación se debe adjuntar copia de DNI del usuario dirigiéndose a SUMAUTO, Dirección postal: Calle de Josefa Valcárcel 40 bis, 28027 Madrid o a través del correo electrónico: [protecciondedatos@sumauto.com](mailto:protecciondedatos@sumauto.com)
 
