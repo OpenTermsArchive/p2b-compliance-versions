@@ -17,10 +17,10 @@ WhatsApp LLC is the contracting entity providing you our Business Services, unle
 
 These Business Terms incorporate by reference the following policies and documents:
 
-*   [WhatsApp Business Policy](https://www.whatsapp.com/legal/business-policy/)
-*   [WhatsApp Business Data Processing Terms](https://www.whatsapp.com/legal/business-data-processing-terms)
-*   [WhatsApp Intellectual Property Policy](https://www.whatsapp.com/legal/#ip-policy)
-*   [WhatsApp Brand Guidelines](https://www.whatsappbrand.com/)
+* [WhatsApp Business Policy](https://www.whatsapp.com/legal/business-policy/)
+* [WhatsApp Business Data Processing Terms](https://www.whatsapp.com/legal/business-data-processing-terms)
+* [WhatsApp Intellectual Property Policy](https://www.whatsapp.com/legal/#ip-policy)
+* [WhatsApp Brand Guidelines](https://www.whatsappbrand.com/)
 
 To the extent that any of the additional terms and policies conflict with these Business Terms, the additional terms and policies will govern.
 
