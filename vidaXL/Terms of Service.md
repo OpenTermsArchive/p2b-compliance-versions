@@ -9,43 +9,43 @@ Actualizado: 2021-09-03
 
 ### **Índice**
 
-1.  Artículo 1 – Definiciones
-2.  Artículo 2 – Identidad del comerciante
-3.  Artículo 3 – Pertinencia
-4.  Artículo 4 – La oferta
-5.  Artículo 5 – El contrato
-6.  Artículo 6 – Derecho de desistimiento
-7.  Artículo 7 – Obligaciones del cliente en caso de desistimiento
-8.  Artículo 8 – Clientes que están practicando el derecho de desistimiento y los gastos asociados con ellos
-9.  Artículo 9 – Obligaciones del comerciante en caso de desistimiento
-10.  Artículo 10 – Exclusión del derecho de desistimiento
-11.  Artículo 11 – El precio
-12.  Artículo 12 – Cumplimiento del contracto y la garantía adicional
-13.  Artículo 13 – Entrega e implementación
-14.  Artículo 14 – Transacciones de duración, rescindir y extender
-15.  Artículo 15 – El pago
-16.  Artículo 16 – Procedimiento de quejas
-17.  Artículo 17 – Conflictos
-18.  Artículo 18 – Garantía de la rama
-19.  Artículo 19 – Términos adicionales o diferentes
-20.  Artículo 20 – Modificación de las condiciones generales de Thuiswinkel.org
+1. Artículo 1 – Definiciones
+2. Artículo 2 – Identidad del comerciante
+3. Artículo 3 – Pertinencia
+4. Artículo 4 – La oferta
+5. Artículo 5 – El contrato
+6. Artículo 6 – Derecho de desistimiento
+7. Artículo 7 – Obligaciones del cliente en caso de desistimiento
+8. Artículo 8 – Clientes que están practicando el derecho de desistimiento y los gastos asociados con ellos
+9. Artículo 9 – Obligaciones del comerciante en caso de desistimiento
+10. Artículo 10 – Exclusión del derecho de desistimiento
+11. Artículo 11 – El precio
+12. Artículo 12 – Cumplimiento del contracto y la garantía adicional
+13. Artículo 13 – Entrega e implementación
+14. Artículo 14 – Transacciones de duración, rescindir y extender
+15. Artículo 15 – El pago
+16. Artículo 16 – Procedimiento de quejas
+17. Artículo 17 – Conflictos
+18. Artículo 18 – Garantía de la rama
+19. Artículo 19 – Términos adicionales o diferentes
+20. Artículo 20 – Modificación de las condiciones generales de Thuiswinkel.org
 
 ### Artículo 1 – Definiciones
 
 Las siguientes definiciones se aplican en estos términos y condiciones:
 
-1.  **Acuerdo adicional**: un acuerdo en que el consumidor obtiene productos, contenidos o servicios digitales en relación con un contrato a distancia. El comerciante o un tercero tiene la responsabilidad de entregar estos, contenidos o servicios digitales sobre la base de un acuerdo entre el tercero y el comerciante;
-2.  **Período de desistimiento**: el período en que el consumidor puede usar su derecho de desistimiento;
-3.  **Consumidor**: una persona física cuyas acciones no se llevan a cabo para los objetivos relacionados con su actividades de negocio, profesión o empresa;
-4.  **Día**: día calendario;
-5.  **Contenidos digitales**: los datos producidos y entregados en una forma digital;
-6.  **Transacción de duración extendida**: un contrato a distancia para una serie de productos y/o servicios, por lo que la obligación de suministro y compra se extiende por un período de tiempo;
-7.  **Soporte duradero**: cada medio auxiliar – también correo electrónico – que permite el consumidor o empresa a salvar información dirigida personalmente a él en un modo que mantiene la intención del uso futuro o consultación durante un período adaptado al fin para cual se indica la información, y que hace posible reproducción sin modificaciones de la información salvada;
-8.  **Derecho de desistimiento:** la oportunidad del consumidor para renunciar la transacción de duración extendida, dentro del período de desistimiento;
-9.  **Comerciante**: la persona física o jurídica la cual es un miembro de Thuiswinkel.org y la cual ofrece productos, (acceso a) contenidos digitales y/o servicios a distancia a los consumidores;
-10.  **Contrato a distancia**: un contrato firmado de la empresa y el consumidor en el marco de un sistema organizado para el comercio a distancia de productos;
-11.  **Modelo de formulario del derecho de desistimiento**: el modelo europeo de formulario del derecho de desistimiento se adjunta en Apéndice 1 de estos términos y condiciones. El comerciante no tiene la obligación abastecer proporcionar Apéndice 1 al consumidor si el consumidor no tiene el derecho del desistimiento con respecto a su pedido;
-12.  **Técnica para comunicación a distancia**: medio auxiliar que puede ser usado para comunicación con respecto a firmar el contrato, sin la necesidad de un encuentro del comerciante y el consumidor al mismo lugar al mismo tiempo.
+1. **Acuerdo adicional**: un acuerdo en que el consumidor obtiene productos, contenidos o servicios digitales en relación con un contrato a distancia. El comerciante o un tercero tiene la responsabilidad de entregar estos, contenidos o servicios digitales sobre la base de un acuerdo entre el tercero y el comerciante;
+2. **Período de desistimiento**: el período en que el consumidor puede usar su derecho de desistimiento;
+3. **Consumidor**: una persona física cuyas acciones no se llevan a cabo para los objetivos relacionados con su actividades de negocio, profesión o empresa;
+4. **Día**: día calendario;
+5. **Contenidos digitales**: los datos producidos y entregados en una forma digital;
+6. **Transacción de duración extendida**: un contrato a distancia para una serie de productos y/o servicios, por lo que la obligación de suministro y compra se extiende por un período de tiempo;
+7. **Soporte duradero**: cada medio auxiliar – también correo electrónico – que permite el consumidor o empresa a salvar información dirigida personalmente a él en un modo que mantiene la intención del uso futuro o consultación durante un período adaptado al fin para cual se indica la información, y que hace posible reproducción sin modificaciones de la información salvada;
+8. **Derecho de desistimiento:** la oportunidad del consumidor para renunciar la transacción de duración extendida, dentro del período de desistimiento;
+9. **Comerciante**: la persona física o jurídica la cual es un miembro de Thuiswinkel.org y la cual ofrece productos, (acceso a) contenidos digitales y/o servicios a distancia a los consumidores;
+10. **Contrato a distancia**: un contrato firmado de la empresa y el consumidor en el marco de un sistema organizado para el comercio a distancia de productos;
+11. **Modelo de formulario del derecho de desistimiento**: el modelo europeo de formulario del derecho de desistimiento se adjunta en Apéndice 1 de estos términos y condiciones. El comerciante no tiene la obligación abastecer proporcionar Apéndice 1 al consumidor si el consumidor no tiene el derecho del desistimiento con respecto a su pedido;
+12. **Técnica para comunicación a distancia**: medio auxiliar que puede ser usado para comunicación con respecto a firmar el contrato, sin la necesidad de un encuentro del comerciante y el consumidor al mismo lugar al mismo tiempo.
 
 ### **Artículo 2: Identidad del comerciante**
 
@@ -61,182 +61,182 @@ Número de la identificación de la IVA: NL850643545B01
 
 ### **Artículo 3: Pertinencia**
 
-1.  Estas condiciones se aplican a cada oferta del comerciante y a cada contrato a distancia celebrado entre el comerciante y el consumidor;
-2.  Antes de concluir el contrato a distancia, estos términos y condiciones generales se ponen a disposición del consumidor. Si esto no es razonablemente posible, el comerciante indicará – antes de concluir el contrato – en que modo se pueda consultar los términos y condiciones generales con el comerciante, y que estos se enviarán lo antes posible sin gastos.
-3.  Si el contrato a distancia se celebre por vía electrónica, sea posible – al contrario al párrafo anterior y antes de concluir el contrato a distancia – que estos términos y condiciones generales se ponen a disposición del consumidor por vía electrónica, de tal manera que el consumidor pueda salvarles de una manera sencilla en un soporte duradero. Si esto no es razonablemente posible, el comerciante indicará – antes de celebrar el contrato – en que modo se pueda consultar los términos y condiciones generales por vía electrónica y que estos se enviarán lo antes posible sin gastos por vía electrónica o en cualquier otra manera.
-4.  En casos en que al lado de estos términos y condiciones generales se adjuntan condiciones especificas de productos o servicios, el segundo párrafo y el tercer párrafo se aplican con analogía y el consumidor siempre puede invocar la condicíon que es más favorable para él.
+1. Estas condiciones se aplican a cada oferta del comerciante y a cada contrato a distancia celebrado entre el comerciante y el consumidor;
+2. Antes de concluir el contrato a distancia, estos términos y condiciones generales se ponen a disposición del consumidor. Si esto no es razonablemente posible, el comerciante indicará – antes de concluir el contrato – en que modo se pueda consultar los términos y condiciones generales con el comerciante, y que estos se enviarán lo antes posible sin gastos.
+3. Si el contrato a distancia se celebre por vía electrónica, sea posible – al contrario al párrafo anterior y antes de concluir el contrato a distancia – que estos términos y condiciones generales se ponen a disposición del consumidor por vía electrónica, de tal manera que el consumidor pueda salvarles de una manera sencilla en un soporte duradero. Si esto no es razonablemente posible, el comerciante indicará – antes de celebrar el contrato – en que modo se pueda consultar los términos y condiciones generales por vía electrónica y que estos se enviarán lo antes posible sin gastos por vía electrónica o en cualquier otra manera.
+4. En casos en que al lado de estos términos y condiciones generales se adjuntan condiciones especificas de productos o servicios, el segundo párrafo y el tercer párrafo se aplican con analogía y el consumidor siempre puede invocar la condicíon que es más favorable para él.
 
 ### **Artículo 4 – La oferta**
 
-1.  Si una oferta está sujeto de una duración limitada, o está sujeto a ciertas condiciones, esta se indica explícitamente en la oferta.
-2.  La oferta contiene una descripción completa y acurada de los productos, contenidos digitales y o servicios. La descripción es suficientemente detallada para permitir una evaluación adecuada de la oferta por parte del consumidor. Si el comerciante hace uso de imágenes, estas imágenes son imágenes verdaderas de los productos, servicios y/o contenidos digitales. El comerciante no está obligado por errores evidentes o errores en la oferta.
-3.  Cada oferta contiene información que deja claro al consumidor cuáles son los derechos y obligaciones relacionados con la aceptación de la oferta.
+1. Si una oferta está sujeto de una duración limitada, o está sujeto a ciertas condiciones, esta se indica explícitamente en la oferta.
+2. La oferta contiene una descripción completa y acurada de los productos, contenidos digitales y o servicios. La descripción es suficientemente detallada para permitir una evaluación adecuada de la oferta por parte del consumidor. Si el comerciante hace uso de imágenes, estas imágenes son imágenes verdaderas de los productos, servicios y/o contenidos digitales. El comerciante no está obligado por errores evidentes o errores en la oferta.
+3. Cada oferta contiene información que deja claro al consumidor cuáles son los derechos y obligaciones relacionados con la aceptación de la oferta.
 
 ### **Artículo 5 – El contrato**
 
-1.  El contrato se celebrará, con sujeción a lo estipulado en el párrafo 4, en el momento en el que el consumidor acepta la oferta y las condiciones estipuladas por lo tanto se han cumplido.
-2.  Si el consumidor ha aceptado la oferta por vía electrónica, el comerciante confirmará inmediatamente el recibo de la aceptación de la oferta por vía electrónica. Hasta la recepción de esta aceptación no ha sido confirmado por el comerciante, el consumidor podrá rescindir el contrato.
-3.  Si el contrato se celebra por vía electrónica, el comerciante tomará medidas técnicas y organizativas adecuadas para garantizar la transferencia electrónica de datos y él se asegurará un entorno web seguro.Si el consumidor puede pagar electrónicamente, el comerciante tomará precauciones de seguridad apropiadas.
-4.  El comerciante puede obtener información – dentro de los marcos legales – sobre la capacidad del consumidor para cumplir con sus obligaciones de pago, así como sobre los hechos y factores que son importantes para la conclusión responsable del contrato a distancia. Si la investigación le da al comerciante motivos adecuados para negarse a celebrar el contrato, en tal caso el comerciante tiene el derecho, con el apoyo de razones, a rechazar un pedido o solicitud o aplicación o de obligar su cumplimiento a las condiciones especiales o solicitud.
-5.  El comerciante enviará a un consumidor, a más tardar, cuando la entrega de un producto, servicio o contenido digital, la información siguiente, por escrito, o de una manera tal que el consumidor puede almarcenarla en un soporte duradero accesible:
-    1.  La dirección de la oficina de la empresa del comerciante, donde el consumidor puede presentar quejas;
-    2.  Las condiciones en que el consumidor puede hacer uso del derecho de desistimiento y el método para hacerlo, o una declaración clara en relación con la preclusión del derecho de desistimiento;
-    3.  Información sobre garantías y servicio post-venta existente;
-    4.  El precio, incluidos todos los impuestos sobre el producto, servicio o contenido digital; los gastos de envío en la medida en su caso, y la forma de pago, entrega o implementación del contrato a distancia;
-    5.  Los requisitos para la rescisión del contrato, si la duración del contrato sea superior a un año o si es indefinida;
-    6.  Si el consumidor tiene derecho de desistimiento, el modelo de formulario de derecho de desistimiento.
-6.  En el caso de un contrato de duración prolongada, lo estipulado en el párrafo anterior se aplica sólo a la primera entrega.
+1. El contrato se celebrará, con sujeción a lo estipulado en el párrafo 4, en el momento en el que el consumidor acepta la oferta y las condiciones estipuladas por lo tanto se han cumplido.
+2. Si el consumidor ha aceptado la oferta por vía electrónica, el comerciante confirmará inmediatamente el recibo de la aceptación de la oferta por vía electrónica. Hasta la recepción de esta aceptación no ha sido confirmado por el comerciante, el consumidor podrá rescindir el contrato.
+3. Si el contrato se celebra por vía electrónica, el comerciante tomará medidas técnicas y organizativas adecuadas para garantizar la transferencia electrónica de datos y él se asegurará un entorno web seguro.Si el consumidor puede pagar electrónicamente, el comerciante tomará precauciones de seguridad apropiadas.
+4. El comerciante puede obtener información – dentro de los marcos legales – sobre la capacidad del consumidor para cumplir con sus obligaciones de pago, así como sobre los hechos y factores que son importantes para la conclusión responsable del contrato a distancia. Si la investigación le da al comerciante motivos adecuados para negarse a celebrar el contrato, en tal caso el comerciante tiene el derecho, con el apoyo de razones, a rechazar un pedido o solicitud o aplicación o de obligar su cumplimiento a las condiciones especiales o solicitud.
+5. El comerciante enviará a un consumidor, a más tardar, cuando la entrega de un producto, servicio o contenido digital, la información siguiente, por escrito, o de una manera tal que el consumidor puede almarcenarla en un soporte duradero accesible:
+    1. La dirección de la oficina de la empresa del comerciante, donde el consumidor puede presentar quejas;
+    2. Las condiciones en que el consumidor puede hacer uso del derecho de desistimiento y el método para hacerlo, o una declaración clara en relación con la preclusión del derecho de desistimiento;
+    3. Información sobre garantías y servicio post-venta existente;
+    4. El precio, incluidos todos los impuestos sobre el producto, servicio o contenido digital; los gastos de envío en la medida en su caso, y la forma de pago, entrega o implementación del contrato a distancia;
+    5. Los requisitos para la rescisión del contrato, si la duración del contrato sea superior a un año o si es indefinida;
+    6. Si el consumidor tiene derecho de desistimiento, el modelo de formulario de derecho de desistimiento.
+6. En el caso de un contrato de duración prolongada, lo estipulado en el párrafo anterior se aplica sólo a la primera entrega.
 
 ### **Artículo 6 – Derecho de desistimiento**
 
 _A la entrega de productos:_
 
-1.  Cuando la compra de productos, el consumidor tiene derecho a disolver el contrato, sin dar razones, durante un período de almenos 14 días. Se permite el comerciante para pedir a un consumidor por la razón de esta disolución, pero el consumidor no tiene la obligación expresar sus motivos.
-2.  El plazo previsto en el párrafo 1 comienza el día después de que el producto fue recibido por el consumidor o por un tercero designado por el consumidor, que no es el partido del transporte, o:
-    1.  Si el consumidor ha pedido varios productos: el día en que el consumidor, o un tercero designado por el consumidor, recibe el último producto. El comerciante puede rechazar una sola orden para varios productos con diferentes fechas de entrega, siempre que haya informado claramente al consumidor de esta antes del proceso de pedido.
-    2.  Si la entrega de un producto implica diferentes entregas o partes: el día en que el consumidor o un tercero designado por el consumidor, recibió la última entrega o la última parte.
-    3.  Con contratos para la entrega regular de los productos durante un período determinado: el día en que el consumidor o un tercero designado por el consumidor, recibió el último producto.
+1. Cuando la compra de productos, el consumidor tiene derecho a disolver el contrato, sin dar razones, durante un período de almenos 14 días. Se permite el comerciante para pedir a un consumidor por la razón de esta disolución, pero el consumidor no tiene la obligación expresar sus motivos.
+2. El plazo previsto en el párrafo 1 comienza el día después de que el producto fue recibido por el consumidor o por un tercero designado por el consumidor, que no es el partido del transporte, o:
+    1. Si el consumidor ha pedido varios productos: el día en que el consumidor, o un tercero designado por el consumidor, recibe el último producto. El comerciante puede rechazar una sola orden para varios productos con diferentes fechas de entrega, siempre que haya informado claramente al consumidor de esta antes del proceso de pedido.
+    2. Si la entrega de un producto implica diferentes entregas o partes: el día en que el consumidor o un tercero designado por el consumidor, recibió la última entrega o la última parte.
+    3. Con contratos para la entrega regular de los productos durante un período determinado: el día en que el consumidor o un tercero designado por el consumidor, recibió el último producto.
 
 _A la entrega de servicios y contenido digital que no se preste en un soporte material:_
 
-3.  Un consumidor tiene derecho a disolver el contrato, sin dar razones, para el suministro de contenido digital que no se preste en un soporte material durante un período de almenos catorce días. Se permite el comerciante para pedir a un consumidor por la razón de esta disolución, pero el consumidor no tiene la obligación expresar sus motivos.
-4.  El plazo previsto en el párrafo 3 comienza el día después de la celebración del contrato.
+3. Un consumidor tiene derecho a disolver el contrato, sin dar razones, para el suministro de contenido digital que no se preste en un soporte material durante un período de almenos catorce días. Se permite el comerciante para pedir a un consumidor por la razón de esta disolución, pero el consumidor no tiene la obligación expresar sus motivos.
+4. El plazo previsto en el párrafo 3 comienza el día después de la celebración del contrato.
 
 _Período extendido de desistimiento para productos, servicios y contenidos digitales que no se preste en un soporte material en el caso de que un consumidor no se le informó sobre el derecho de desitimitieno:_
 
-5.  Si el comerciante no proporciona al consumidor la información legalmente obligatoria sobre el derecho de desistimiento o si no se proporciona el modelo de formulario, el período de desistimiento terminará doce meses después del final del período de desistimiento estipulado originalmente basado en los párrafos anteriores de este artículo.
-6.  Si el comerciante proporciona al consumidor la información mencionada en el párrafo anterior dentro de los doce meses siguientes a la fecha en que comienza el período de desistimiento original, el período de desistimiento finalizará catorce días después del día en que el consumidor reciba la información.
+5. Si el comerciante no proporciona al consumidor la información legalmente obligatoria sobre el derecho de desistimiento o si no se proporciona el modelo de formulario, el período de desistimiento terminará doce meses después del final del período de desistimiento estipulado originalmente basado en los párrafos anteriores de este artículo.
+6. Si el comerciante proporciona al consumidor la información mencionada en el párrafo anterior dentro de los doce meses siguientes a la fecha en que comienza el período de desistimiento original, el período de desistimiento finalizará catorce días después del día en que el consumidor reciba la información.
 
 ### **Artículo 7 – Obligaciones del cliente en caso de desistimiento**
 
-1.  Durante el período de desistimiento, el consumidor deberá tratar el producto y su embalaje con cuidado. Sólo desempaquetará o utilizará el producto en la medida de lo necesario con el fin de evaluar la naturaleza, la características y la eficacia del producto. El punto de partida es que el consumidor sólo puede manejar e inspeccionar el producto de la misma manera que se le permitiría en una tienda.
-2.  El consumidor sólo se hará responsable por la devaluación del producto cuando esto sea el resultado de su manejo del producto que no sea de lo permitido en el párrafo 1.
-3.  El consumidor no se hará responsable por la devaluación del producto si el comerciante no le ofreció toda la información obligatoria por ley sobre el derecho de desistimiento antes de la celebración del contrato.
+1. Durante el período de desistimiento, el consumidor deberá tratar el producto y su embalaje con cuidado. Sólo desempaquetará o utilizará el producto en la medida de lo necesario con el fin de evaluar la naturaleza, la características y la eficacia del producto. El punto de partida es que el consumidor sólo puede manejar e inspeccionar el producto de la misma manera que se le permitiría en una tienda.
+2. El consumidor sólo se hará responsable por la devaluación del producto cuando esto sea el resultado de su manejo del producto que no sea de lo permitido en el párrafo 1.
+3. El consumidor no se hará responsable por la devaluación del producto si el comerciante no le ofreció toda la información obligatoria por ley sobre el derecho de desistimiento antes de la celebración del contrato.
 
 ### **Artículo 8 – Clientes que están practicando el derecho de desistimiento y los gastos que asociados con ellos**
 
-1.  Un consumidor que quiere ejercer su derecho de desistimiento deberá informar de ello al comerciante, dentro del plazo de desistimiento, por medio del modelo de formulario de derecho de desistimiento o de alguna otra forma inequívoca.
-2.  Tan pronto como sea posible, pero no más tarde de 14 días después del día de la presentación de informes que se refiere el párrafo 1, el consumidor devolverá el producto, o le entregará a (un representante de) el comerciante. Esto no es necesario si el comerciante se ofrece a recoger el producto sí mismo. En cualquier caso el consumidor se ha cumplido el plazo para el retorno de los productos si se envía el producto de vuelta antes de que el plazo de desistimiento ha expirado.
-3.  El consumidor devuelve el producto con todos los accesorios pertinentes, si es razonablemente posible en el estado y embalaje original, y de acuerdo con las instrucciones razonables y claros aportados por el comerciante.
-4.  El riesgo y la carga de la prueba para el ejercicio del derecho de desistimiento correcto y en tiempo son parte de la responsabilidad del consumidor.
-5.  El consumidor asume los gastos directos de la devolución del producto. Si el comerciante no ha declarado que el consumidor asumirá estos gastos o si el comerciante indica una voluntad de asumir estos gastos a sí mismo, entonces el consumidor no será responsable de sufragar los gastos de devolución de mercancías.
-6.  Si el consumidor ejerce su derecho de desistimiento, después preguntar en una manera explícita que el servicio de prestado o la entrega de gas, agua o electricidad no preparado para la venta se aplicarán en un volumen delimitado o en una cantidad determinada durante el plazo de desistimiento, el consumidor deberá pagar al comerciante una suma de dinero que es equivalente a la parte del contrato que el comerciante ha cumplido en el momento de desistimiento, en comparación con el cumplimiento del contrato en su totalidad.
-7.  El consumidor no asumirá los gastos de ejecución de los servicios o el suministro de agua, gas o electricidad no preparado para la venta – en un volumen o cantidad limitada – o para la entrega de la calefacción central de la ciudad, si:
-    *   El comerciante no proporcionó el consumidor con la información obligatoria por ley sobre el derecho de desistimiento, los gastos de pagar en caso de desistimiento o el formulario de modelo para derecho de desistimiento, o:
-    *   El consumidor no pidió explícitamente sobre el inicio de la implementación del servicio o la entrega de gas, agua, electricidad o calefacción central de la ciudad durante el plazo de desistimiento.
-8.  El consumidor no soportará gastos para el suministro total o parcial de los contenidos digitales que no se presten en un soporte material, si:
-    *   Antes de la entrega, no estaba de acuerdo de manera explícita de iniciar el cumplimiento del contrato antes de que finalice el plazo de desistimiento.
-    *   Él no reconoció haber perdido su derecho de desistimiento sobre la concesión de su permiso, o:
-    *   El comerciante ha dejado para confirmar esta declaración hecha por el consumidor.
-9.  Si un consumidor ejerza su derecho de desistimiento, todos los acuerdos estarán legalmente disueltos.
+1. Un consumidor que quiere ejercer su derecho de desistimiento deberá informar de ello al comerciante, dentro del plazo de desistimiento, por medio del modelo de formulario de derecho de desistimiento o de alguna otra forma inequívoca.
+2. Tan pronto como sea posible, pero no más tarde de 14 días después del día de la presentación de informes que se refiere el párrafo 1, el consumidor devolverá el producto, o le entregará a (un representante de) el comerciante. Esto no es necesario si el comerciante se ofrece a recoger el producto sí mismo. En cualquier caso el consumidor se ha cumplido el plazo para el retorno de los productos si se envía el producto de vuelta antes de que el plazo de desistimiento ha expirado.
+3. El consumidor devuelve el producto con todos los accesorios pertinentes, si es razonablemente posible en el estado y embalaje original, y de acuerdo con las instrucciones razonables y claros aportados por el comerciante.
+4. El riesgo y la carga de la prueba para el ejercicio del derecho de desistimiento correcto y en tiempo son parte de la responsabilidad del consumidor.
+5. El consumidor asume los gastos directos de la devolución del producto. Si el comerciante no ha declarado que el consumidor asumirá estos gastos o si el comerciante indica una voluntad de asumir estos gastos a sí mismo, entonces el consumidor no será responsable de sufragar los gastos de devolución de mercancías.
+6. Si el consumidor ejerce su derecho de desistimiento, después preguntar en una manera explícita que el servicio de prestado o la entrega de gas, agua o electricidad no preparado para la venta se aplicarán en un volumen delimitado o en una cantidad determinada durante el plazo de desistimiento, el consumidor deberá pagar al comerciante una suma de dinero que es equivalente a la parte del contrato que el comerciante ha cumplido en el momento de desistimiento, en comparación con el cumplimiento del contrato en su totalidad.
+7. El consumidor no asumirá los gastos de ejecución de los servicios o el suministro de agua, gas o electricidad no preparado para la venta – en un volumen o cantidad limitada – o para la entrega de la calefacción central de la ciudad, si:
+    * El comerciante no proporcionó el consumidor con la información obligatoria por ley sobre el derecho de desistimiento, los gastos de pagar en caso de desistimiento o el formulario de modelo para derecho de desistimiento, o:
+    * El consumidor no pidió explícitamente sobre el inicio de la implementación del servicio o la entrega de gas, agua, electricidad o calefacción central de la ciudad durante el plazo de desistimiento.
+8. El consumidor no soportará gastos para el suministro total o parcial de los contenidos digitales que no se presten en un soporte material, si:
+    * Antes de la entrega, no estaba de acuerdo de manera explícita de iniciar el cumplimiento del contrato antes de que finalice el plazo de desistimiento.
+    * Él no reconoció haber perdido su derecho de desistimiento sobre la concesión de su permiso, o:
+    * El comerciante ha dejado para confirmar esta declaración hecha por el consumidor.
+9. Si un consumidor ejerza su derecho de desistimiento, todos los acuerdos estarán legalmente disueltos.
 
 ### **Artículo 9 – Obligaciones del comerciante en caso de desistimiento**
 
-1.  Si el comerciante hace posible que un consumidor puede declarar su desistimientio a través de medios electrónicos, a continuación, después de recibir tal declaración, envía una confirmación inmediata de la recepción.
-2.  El comerciante reembolsa el consumidor con todos los pagos, incluyendo cualquier gasto de entrega que el comerciante ha cobrado por el producto devuelto, sin embargo, a más tardar dentro de los 14 días después del día en que el consumidor informó el desistimiento. Excepto en los casos en que el comerciante se ofrece a recoger el producto sí mismo, se puede posponer el reembolso hasta haber recibido el producto o hasta que demuestra que el consumidor se ha vuelto el producto, en función de lo que ocurre antes.
-3.  Para cualquier devolución, el comerciante utilizará el mismo método de pago que se utilizó inicialmente por el consumidor, a menos que el consumidor está de acuerdo con otro método. El reembolso es gratis para el consumidor.
-4.  Si el consumidor un método costoso de la entrega con preferencia a la entrega estándar más barata, el comerciante no tiene que reembolsar los gastos adicionales del método más caro.
+1. Si el comerciante hace posible que un consumidor puede declarar su desistimientio a través de medios electrónicos, a continuación, después de recibir tal declaración, envía una confirmación inmediata de la recepción.
+2. El comerciante reembolsa el consumidor con todos los pagos, incluyendo cualquier gasto de entrega que el comerciante ha cobrado por el producto devuelto, sin embargo, a más tardar dentro de los 14 días después del día en que el consumidor informó el desistimiento. Excepto en los casos en que el comerciante se ofrece a recoger el producto sí mismo, se puede posponer el reembolso hasta haber recibido el producto o hasta que demuestra que el consumidor se ha vuelto el producto, en función de lo que ocurre antes.
+3. Para cualquier devolución, el comerciante utilizará el mismo método de pago que se utilizó inicialmente por el consumidor, a menos que el consumidor está de acuerdo con otro método. El reembolso es gratis para el consumidor.
+4. Si el consumidor un método costoso de la entrega con preferencia a la entrega estándar más barata, el comerciante no tiene que reembolsar los gastos adicionales del método más caro.
 
 ### **Artículo 10 – Exclusión del derecho de desistimien to**
 
 El comerciante puede impedir el derecho de desistimiento para los siguientes productos y servicios, pero sólo si el comerciante lo declaró claramente al hacer la oferta, o al menos con la suficiente antelación antes de la celebración del contrato:
 
-1.  Los productos o servicios cuyos precios están sujetos a las fluctuaciones en el mercado financiero sobre el que el comerciante no tiene ninguna influencia y que puede ocurrir dentro del plazo de desistimiento.
-2.  Los contratos celebrados durante una subasta pública. Una subasta pública se define como un método de venta mediante el cual un comerciante ofrece productos, contenidos digitales y/o servicios en una subasta, bajo la dirección de un subastador, y en el que un comprador con éxito está obligado a comprar los productos, contenidos digitales y/o servicios.
-3.  Los contratos de servicios, después de la finalización total del servicio, pero sólo si:
-    *   Realización comenzó con el acuerdo expreso previo del consumidor, y;
-    *   El consumidor declaró haber perdido su derecho o desistimiento tan pronto como el comerciante había terminado el contrato en su totalidad.
-4.  Los viajes combinados, las vacaciones combinadas y los circuitos combinados que se refiere el artículo 7:500 BW y contratos en el transporte de pasajeros.
-5.  Los contratos de servicios que ofrecen acceso al alojamiento, si el contrato ya se estipula una fecha determinada o el período de ejecución y que no sea con la finalidad de alojamiento, el transporte de mercancías, servicios de alquiler de coches y catering.
-6.  Los contratos con respecto a actividades de ocio, si el contrato ya se estipula una fecha o plazo de ejecución determinado.
-7.  Productos fabricados de acuerdo a las especificaciones del consumidor, que no fueron prefabricados y se realizaron con base en la elección o decisión específica del consumidor, o que están claramente destinados a una persona específica.
-8.  Los productos sujetos a la descomposición rápida o con una vida útil limitada.
-9.  Productos sellados que, por razones con respecto a la protección de la salud o la higiene, son inadecuados para regresar y cuyo sello fue roto con posterioridad a la entrega.
-10.  Los productos que, por su naturaleza, han sido irremediablemente mezclados con otros productos.
-11.  Las bebidas alcohólicas cuyo precio fue acordado al finalizar el contrato, pero la entrega de las cuales sólo puede tener lugar después de 30 días, y el valor real de la que depende de las fluctuaciones del mercado sobre el que el comerciante no tiene influencia.
-12.  Grabaciones de audio / video selladas y aparatos informáticos cuyos sellos se rompieron después de la entrega.
-13.  Periódicos o revistas, con excepción de las suscripciones a este.
-14.  La entrega de contenidos digitales que no sean en un medio material, pero sólo si:
-    *   La entrega se inició con un acuerdo expreso previo del consumidor, y;
-    *   El consumidor declaró que esto implica el haber perdido su derecho de desistimiento.
+1. Los productos o servicios cuyos precios están sujetos a las fluctuaciones en el mercado financiero sobre el que el comerciante no tiene ninguna influencia y que puede ocurrir dentro del plazo de desistimiento.
+2. Los contratos celebrados durante una subasta pública. Una subasta pública se define como un método de venta mediante el cual un comerciante ofrece productos, contenidos digitales y/o servicios en una subasta, bajo la dirección de un subastador, y en el que un comprador con éxito está obligado a comprar los productos, contenidos digitales y/o servicios.
+3. Los contratos de servicios, después de la finalización total del servicio, pero sólo si:
+    * Realización comenzó con el acuerdo expreso previo del consumidor, y;
+    * El consumidor declaró haber perdido su derecho o desistimiento tan pronto como el comerciante había terminado el contrato en su totalidad.
+4. Los viajes combinados, las vacaciones combinadas y los circuitos combinados que se refiere el artículo 7:500 BW y contratos en el transporte de pasajeros.
+5. Los contratos de servicios que ofrecen acceso al alojamiento, si el contrato ya se estipula una fecha determinada o el período de ejecución y que no sea con la finalidad de alojamiento, el transporte de mercancías, servicios de alquiler de coches y catering.
+6. Los contratos con respecto a actividades de ocio, si el contrato ya se estipula una fecha o plazo de ejecución determinado.
+7. Productos fabricados de acuerdo a las especificaciones del consumidor, que no fueron prefabricados y se realizaron con base en la elección o decisión específica del consumidor, o que están claramente destinados a una persona específica.
+8. Los productos sujetos a la descomposición rápida o con una vida útil limitada.
+9. Productos sellados que, por razones con respecto a la protección de la salud o la higiene, son inadecuados para regresar y cuyo sello fue roto con posterioridad a la entrega.
+10. Los productos que, por su naturaleza, han sido irremediablemente mezclados con otros productos.
+11. Las bebidas alcohólicas cuyo precio fue acordado al finalizar el contrato, pero la entrega de las cuales sólo puede tener lugar después de 30 días, y el valor real de la que depende de las fluctuaciones del mercado sobre el que el comerciante no tiene influencia.
+12. Grabaciones de audio / video selladas y aparatos informáticos cuyos sellos se rompieron después de la entrega.
+13. Periódicos o revistas, con excepción de las suscripciones a este.
+14. La entrega de contenidos digitales que no sean en un medio material, pero sólo si:
+    * La entrega se inició con un acuerdo expreso previo del consumidor, y;
+    * El consumidor declaró que esto implica el haber perdido su derecho de desistimiento.
 
 ### **Artículo 11 – El precio**
 
-1.  Durante el período de validez indicado en la oferta, los precios de los productos y/o servicios que se ofrecen no se incrementarán, a excepción de los cambios de precios en los aranceles de IVA.
-2.  En contraste con el párrafo anterior, el comerciante podrá ofrecer productos o servicios a precios variables, en los casos en que estos precios están sujetos a las fluctuaciones del mercado financiero sobre el que el comerciante no tiene ninguna influencia. La oferta debe referirse a este vínculo con las fluctuaciones y el hecho de que los precios mencionados son precios recomendados.
-3.  Los aumentos de precios dentro de los 3 meses después de la celebración del contrato solamente se permiten si son el resultado de regulaciones o estipulaciones legales.
-4.  Los aumentos de precios de más de 3 meses después de la celebración del contrato sólo se permitirán si el comerciante les ha estipulado en esta forma, y:
-    *   Estes son el resultado de las regulaciones o estipulaciones legales, o:
-    *   El consumidor está autorizado a rescindir el contrato en el día en el que el acrecentamiento de precios entran en vigor.
-5.  Los precios indicados en las ofertas de productos o servicios incluyen el IVA.
+1. Durante el período de validez indicado en la oferta, los precios de los productos y/o servicios que se ofrecen no se incrementarán, a excepción de los cambios de precios en los aranceles de IVA.
+2. En contraste con el párrafo anterior, el comerciante podrá ofrecer productos o servicios a precios variables, en los casos en que estos precios están sujetos a las fluctuaciones del mercado financiero sobre el que el comerciante no tiene ninguna influencia. La oferta debe referirse a este vínculo con las fluctuaciones y el hecho de que los precios mencionados son precios recomendados.
+3. Los aumentos de precios dentro de los 3 meses después de la celebración del contrato solamente se permiten si son el resultado de regulaciones o estipulaciones legales.
+4. Los aumentos de precios de más de 3 meses después de la celebración del contrato sólo se permitirán si el comerciante les ha estipulado en esta forma, y:
+    * Estes son el resultado de las regulaciones o estipulaciones legales, o:
+    * El consumidor está autorizado a rescindir el contrato en el día en el que el acrecentamiento de precios entran en vigor.
+5. Los precios indicados en las ofertas de productos o servicios incluyen el IVA.
 
 ### **Artículo 12 – Cumplimiento del contrato y la garantía adicional**
 
-1.  El comerciante garantiza que los productos y/o servicios cumplen con el contrato, las especificaciones indicadas en la oferta, los requisitos razonables de fiabilidad y/o de utilidad de servicio y las estipulaciones legales y/o regulaciones gubernamentales que existían en la fecha en que se celebró en contrato. Si de acuerdo, el comerciante también garantiza que el producto es adecuado para otra designación que normal.
-2.  Una disposición de garantía adicional ofrecida por el comerciante, fabricante o importador nunca puede afectar a los derechos legales y las afirmaciones que un consumidor puedo invocar contra al comerciante sobre la base del contrato si el comerciante no ha cumplido su parte en el contrato.
-3.  Una garantía adicional se define como todos los compromisos de un comerciante, su proveedor, importador o fabricante que otorga a los derechos o reclamaciones del consumidor, por encima de los previstos por la ley, para el caso de que él no cumple con su parte en el contrato.
+1. El comerciante garantiza que los productos y/o servicios cumplen con el contrato, las especificaciones indicadas en la oferta, los requisitos razonables de fiabilidad y/o de utilidad de servicio y las estipulaciones legales y/o regulaciones gubernamentales que existían en la fecha en que se celebró en contrato. Si de acuerdo, el comerciante también garantiza que el producto es adecuado para otra designación que normal.
+2. Una disposición de garantía adicional ofrecida por el comerciante, fabricante o importador nunca puede afectar a los derechos legales y las afirmaciones que un consumidor puedo invocar contra al comerciante sobre la base del contrato si el comerciante no ha cumplido su parte en el contrato.
+3. Una garantía adicional se define como todos los compromisos de un comerciante, su proveedor, importador o fabricante que otorga a los derechos o reclamaciones del consumidor, por encima de los previstos por la ley, para el caso de que él no cumple con su parte en el contrato.
 
 ### **Artículo 13 – Entrega e implementación**
 
-1.  El comerciante tendrá la mayor atención posible al recibir y poner en práctica los pedidos de productos y al evaluar las solicitudes para la prestación de servicios.
-2.  El lugar de entrega es la dirección que el consumidor hizo saber al comerciante.
-3.  Teniendo en cuenta lo que se indica en el artículo 4 de estos términos y condiciones generales, la compañía implementará órdenes aceptadas con la expedición eficiente, aunque a más tardar dentro de los 30 días, a menos que un período diferente de la entrega ha sido acordado. Si la entrega sufre un retraso, o si la entrega no puede llevarse a cabo, o sólo parcialmente, el consumidor será informado de esto en los últimos 30 días después de que el pedido fue realizado. En este caso, el consumidor tiene derecho a disolver el contrato sin coste y el derecho de los posibles daños y perjuicios.
-4.  Después de la disolución, de acuerdo con el párrafo anterior, el comerciante restituirá al consumidor la suma que ha pagado él.
-5.  El riesgo de daño y/o perdido de productos es la responsabilidad del comerciante hasta el momento de la entrega al consumidor o un representante designado por el consumidor y anunciado al comerciante anteriormente, a menos que esto se haya acordado explícitamente lo contrario.
+1. El comerciante tendrá la mayor atención posible al recibir y poner en práctica los pedidos de productos y al evaluar las solicitudes para la prestación de servicios.
+2. El lugar de entrega es la dirección que el consumidor hizo saber al comerciante.
+3. Teniendo en cuenta lo que se indica en el artículo 4 de estos términos y condiciones generales, la compañía implementará órdenes aceptadas con la expedición eficiente, aunque a más tardar dentro de los 30 días, a menos que un período diferente de la entrega ha sido acordado. Si la entrega sufre un retraso, o si la entrega no puede llevarse a cabo, o sólo parcialmente, el consumidor será informado de esto en los últimos 30 días después de que el pedido fue realizado. En este caso, el consumidor tiene derecho a disolver el contrato sin coste y el derecho de los posibles daños y perjuicios.
+4. Después de la disolución, de acuerdo con el párrafo anterior, el comerciante restituirá al consumidor la suma que ha pagado él.
+5. El riesgo de daño y/o perdido de productos es la responsabilidad del comerciante hasta el momento de la entrega al consumidor o un representante designado por el consumidor y anunciado al comerciante anteriormente, a menos que esto se haya acordado explícitamente lo contrario.
 
 ### **Artículo 14 – Transacciones de duración, rescindir y extender**
 
 _Rescindir:_
 
-1.  El consumidor tiene derecho en todo momento de rescindir un contrato de composición abierta que se celebra por el suministro regular de productos (incluyendo electricidad) o servicios, con sujeción a las reglas acordadas de terminación y un plazo de preaviso que no exceda de un mes.
-2.  El consumidor tiene derecho en todo momento de rescindir un contrato de duración terminada que se celebra por el suministro regular de productos (incluyendo electricidad) o servicios al final del plazo fijado, a sujeción a las reglas acordadas de terminación y un plazo de preaviso que no exceda de un mes.
-3.  Con respecto a los contratos descritos en los dos primeros párrafos, el consumidor puede:
-    *   terminarlos en todo momento y él no se limitará a la terminación en un momento determinado o durante un período determinado;
-    *   terminarlos en la misma forma en la que se hayan concluído;
-    *   siempre terminarlos sujeto al mismo período de notificación como lo estipulado para el comerciante.
+1. El consumidor tiene derecho en todo momento de rescindir un contrato de composición abierta que se celebra por el suministro regular de productos (incluyendo electricidad) o servicios, con sujeción a las reglas acordadas de terminación y un plazo de preaviso que no exceda de un mes.
+2. El consumidor tiene derecho en todo momento de rescindir un contrato de duración terminada que se celebra por el suministro regular de productos (incluyendo electricidad) o servicios al final del plazo fijado, a sujeción a las reglas acordadas de terminación y un plazo de preaviso que no exceda de un mes.
+3. Con respecto a los contratos descritos en los dos primeros párrafos, el consumidor puede:
+    * terminarlos en todo momento y él no se limitará a la terminación en un momento determinado o durante un período determinado;
+    * terminarlos en la misma forma en la que se hayan concluído;
+    * siempre terminarlos sujeto al mismo período de notificación como lo estipulado para el comerciante.
 
 _Extender:_
 
-4.  Un contrato de duración determinada que se celebre por el suministro regular de productos (incluyendo la electricidad) o servicios no puede prolongarse o renovarse automáticamente por un período fijo de tiempo.
-5.  En la salida de la que se afirma en el párrafo anterior, un contrato de duración determinada que se celebró para el suministro regular de periódicos diarios o semanales o revistas puede prolongarse de forma automática por un período determinado que no exceda de tres meses, si el consumidor tiene la libertad rescindir el presente contrato prolongado hacia el final de la prórroga, con un plazo de preaviso que no exceda de un mes.
-6.  Un contrato de duración determinada que se celebró para el suministro regular de productos o servicios solo puede prolongarse automáticamente por un período indefinido de tiempo si el consumidor tiene el derecho de rescindir en todo momento, con un plazo de preaviso que no exceda de un mes. En caso de un contrato para el suministro regular pero menos de una vez por mes de periódicos diarios o semanales o revistas, hay un plazo de preaviso que no exceda de tres meses.
-7.  Un contrato a plazo fijo para el suministro regular, a modo de introducción, de periódicos diarios o semanales o revistas (suscripciones de prueba o suscripciones introductorias) no se prolonga de forma automática y se terminará automáticamente al final del período de prueba o período introductorio.
+4. Un contrato de duración determinada que se celebre por el suministro regular de productos (incluyendo la electricidad) o servicios no puede prolongarse o renovarse automáticamente por un período fijo de tiempo.
+5. En la salida de la que se afirma en el párrafo anterior, un contrato de duración determinada que se celebró para el suministro regular de periódicos diarios o semanales o revistas puede prolongarse de forma automática por un período determinado que no exceda de tres meses, si el consumidor tiene la libertad rescindir el presente contrato prolongado hacia el final de la prórroga, con un plazo de preaviso que no exceda de un mes.
+6. Un contrato de duración determinada que se celebró para el suministro regular de productos o servicios solo puede prolongarse automáticamente por un período indefinido de tiempo si el consumidor tiene el derecho de rescindir en todo momento, con un plazo de preaviso que no exceda de un mes. En caso de un contrato para el suministro regular pero menos de una vez por mes de periódicos diarios o semanales o revistas, hay un plazo de preaviso que no exceda de tres meses.
+7. Un contrato a plazo fijo para el suministro regular, a modo de introducción, de periódicos diarios o semanales o revistas (suscripciones de prueba o suscripciones introductorias) no se prolonga de forma automática y se terminará automáticamente al final del período de prueba o período introductorio.
 
 _Duración:_
 
-8.  Si el plazo fijo de un contrato exceda de un año, entonces después de un año el consumidor tiene el derecho de rescindir en todo momento, con un plazo preaviso que no exceda de un mes, a menos que razonabilidad y equidad dicten que la terminación anticipada del contrato sería inaceptable.
+8. Si el plazo fijo de un contrato exceda de un año, entonces después de un año el consumidor tiene el derecho de rescindir en todo momento, con un plazo preaviso que no exceda de un mes, a menos que razonabilidad y equidad dicten que la terminación anticipada del contrato sería inaceptable.
 
 ### **Artículo 15 – El pago**
 
-1.  Por lo que ninguna otra fecha esté estipulado en el contrato o en las condiciones suplementarias, las sumas debidas por el consumidor deben ser pagado dentro de los 14 días después del comienzo del período de desistimiento, o en la ausencia de un período de desistimiento dentro de 14 días después de la celebración del contrato. En el caso de un contrato de prestación de un servicio, este período de 14 días comienza el día después de que el consumidor recibió la confirmación del contrato.
-2.  El consumidor está obligado a informar al comerciante inmediatamente cualquier inexactitud en los datos de pago previstos o establecidos.
-3.  Si un consumidor no cumple con su obligación de pago(s) a su debido tiempo, después de que el comerciante ha informado al consumidor sobre la demora en el pago, el consumidor se permite 14 días para cumplir con la obligación de pagar. Si el pago no se realiza dentro de este período de 14 días, los intereses legales se pagarán sobre la suma adeudada y el comerciante tiene el derecho de cobrar gastos extrajudiciales razonables de colección que él ha incurrido.
+1. Por lo que ninguna otra fecha esté estipulado en el contrato o en las condiciones suplementarias, las sumas debidas por el consumidor deben ser pagado dentro de los 14 días después del comienzo del período de desistimiento, o en la ausencia de un período de desistimiento dentro de 14 días después de la celebración del contrato. En el caso de un contrato de prestación de un servicio, este período de 14 días comienza el día después de que el consumidor recibió la confirmación del contrato.
+2. El consumidor está obligado a informar al comerciante inmediatamente cualquier inexactitud en los datos de pago previstos o establecidos.
+3. Si un consumidor no cumple con su obligación de pago(s) a su debido tiempo, después de que el comerciante ha informado al consumidor sobre la demora en el pago, el consumidor se permite 14 días para cumplir con la obligación de pagar. Si el pago no se realiza dentro de este período de 14 días, los intereses legales se pagarán sobre la suma adeudada y el comerciante tiene el derecho de cobrar gastos extrajudiciales razonables de colección que él ha incurrido.
 
 ### **Artículo 16 – Procedimiento de denuncias**
 
-1.  El comerciante tiene a su disposición un procedimiento de denuncias, que se ha dado suficiente publicidad, y él se ocupará de una queja de acuerdo con este procedimiento de denuncia.
-2.  Un consumidor que ha descubierto deficiencias en la ejecución de un contrato debe presentar cualquier queja al comerciante sin demora, en su totalidad y con descripciones claras.
-3.  Una respuesta a las quejas presentadas al comerciante se proporcionará en un plazo de 14 días, contados desde la fecha de recepción. Si se prevé que una queja requerirá un tiempo de procesamiento más largo, entonces el comerciante le responderá dentro de 14 días, confirmiendo la recepción e indicando cuando el consumidor puede esperar una respuesta más elaborada.
-4.  Una queja acerca de un producto, un servicio o el servicio del comerciante también se puede presentar a través de un formulario de quejas en la página del comerciante de la página web de Thuiswinkel.org, www.thuiswinkel.org. La queja se envía tanto al comerciante en cuestión y a Thuiswinkel.org.
-5.  El consumidor debe dar al operador un período de tiempo de al menos 4 semanas para resolver la queja en consulta conjunta. Después de este período, la queja se convierte en una disputa que está sujeta al régimen de solución de controversias.
+1. El comerciante tiene a su disposición un procedimiento de denuncias, que se ha dado suficiente publicidad, y él se ocupará de una queja de acuerdo con este procedimiento de denuncia.
+2. Un consumidor que ha descubierto deficiencias en la ejecución de un contrato debe presentar cualquier queja al comerciante sin demora, en su totalidad y con descripciones claras.
+3. Una respuesta a las quejas presentadas al comerciante se proporcionará en un plazo de 14 días, contados desde la fecha de recepción. Si se prevé que una queja requerirá un tiempo de procesamiento más largo, entonces el comerciante le responderá dentro de 14 días, confirmiendo la recepción e indicando cuando el consumidor puede esperar una respuesta más elaborada.
+4. Una queja acerca de un producto, un servicio o el servicio del comerciante también se puede presentar a través de un formulario de quejas en la página del comerciante de la página web de Thuiswinkel.org, www.thuiswinkel.org. La queja se envía tanto al comerciante en cuestión y a Thuiswinkel.org.
+5. El consumidor debe dar al operador un período de tiempo de al menos 4 semanas para resolver la queja en consulta conjunta. Después de este período, la queja se convierte en una disputa que está sujeta al régimen de solución de controversias.
 
 ### **Artículo 17 – Conflictos**
 
-1.  Los contratos celebrados entre un comerciante y un consumidor y que están sujetos a estes términos y condiciones generales están sujetos únicamente a la ley neerlandesa. Si el empresario centra sus actividades comerciales en el país donde vive el consumidor, el consumidor siempre puede invocar la ley de consumo obligatoria de su país.
-2.  Los conflictos entre un consumidor y un comerciante sobre la celebración o el ejercicio de los contratos relativos a los productos y servicios que se proporcionarán por este comerciante se pueden presentar a la Comisión de Conflictos de Thuiswinkel, P.O. Box 90600, 2509 LP en La Haya (www.sgc.nl), ya sea por el consumidor o el comerciante, de acuerdo con lo estipulado a continuación.
-3.  Un consumidor de la Plataforma europea ODR ([http://ec.europa.eu/consumers/odr/](http://ec.europa.eu/consumers/odr/) ) "
-4.  La Comisión de Conflictos sólo se ocupará de un conflicto si el consumidor primero puso su queja, sin demora, al comerciante.
-5.  Si la queja no conduce a una solución, el conflicto debe ser presentado a la Comisión de Conflictos a más tardar 12 meses después de que el consumidor haya presentado la denuncia al comerciante.
-6.  Si el consumidor quiere presentar un conflicto a la Comisión de Conflictos, el comerciante está obligado por esa elección. Preferiblemente, el consumidor notifica al comerciante primero. Si un comerciante desea presentar un conflicto a la Comisión de Conflictos, entonces el consumidor indicará, en respuesta a una solicitud por escrito hecha por el comerciante, sea por contrato, o prefiera el conflicto a ser tratado por la ley ante un tribunal de justicia competente. Si el consumidor no indica su elección al comerciante en un plazo de cinco semanas, entonces el comerciante tiene derecho a poner el conflicto ante el tribunal de justicia competente.
-7.  Las resoluciones de la Comisión de Conflictos están sujetos a las condiciones estipuladas en el reglamento de la Comisión de Conflictos. Las decisiones de la Comisión de Conflictos toman la forma de consejos vinculantes.
-8.  La Comisión de Conflictos no se ocupará de un conflicto – o va a terminar su intervención – si el comerciante se ha concendido una suspensión de pagos, ha quebrado, o ha terminado realmente actividades comerciales antes de que la comisión se ocupó del conflito durante una sesión y dictó una sentencia definitiva.
-9.  Si, al lado de la Comisión de Conflictos de Thuiswinkel, hay otra comisión competente de conflictos que se reconoce o una que está afiliado a los conflictos de la Comisión de Conflictos de la Fundación de Asuntos de Consumidores (SGC) o el Instituto de Quejas de Servicios Financieros (Kifid), la Comisión de Conflictos de Thuiswinkel preferiblemente tendrá jurisdicción para los conflictos que se relacionan principalmente con el método de ventas o de prestación de servicios de larga distancia.
-10.  Para todos los otros conflictos habrá otras comisiones de conflictos que son reconocidos por el SGC o afiliados con la Kifid.
+1. Los contratos celebrados entre un comerciante y un consumidor y que están sujetos a estes términos y condiciones generales están sujetos únicamente a la ley neerlandesa. Si el empresario centra sus actividades comerciales en el país donde vive el consumidor, el consumidor siempre puede invocar la ley de consumo obligatoria de su país.
+2. Los conflictos entre un consumidor y un comerciante sobre la celebración o el ejercicio de los contratos relativos a los productos y servicios que se proporcionarán por este comerciante se pueden presentar a la Comisión de Conflictos de Thuiswinkel, P.O. Box 90600, 2509 LP en La Haya (www.sgc.nl), ya sea por el consumidor o el comerciante, de acuerdo con lo estipulado a continuación.
+3. Un consumidor de la Plataforma europea ODR ([http://ec.europa.eu/consumers/odr/](http://ec.europa.eu/consumers/odr/) ) "
+4. La Comisión de Conflictos sólo se ocupará de un conflicto si el consumidor primero puso su queja, sin demora, al comerciante.
+5. Si la queja no conduce a una solución, el conflicto debe ser presentado a la Comisión de Conflictos a más tardar 12 meses después de que el consumidor haya presentado la denuncia al comerciante.
+6. Si el consumidor quiere presentar un conflicto a la Comisión de Conflictos, el comerciante está obligado por esa elección. Preferiblemente, el consumidor notifica al comerciante primero. Si un comerciante desea presentar un conflicto a la Comisión de Conflictos, entonces el consumidor indicará, en respuesta a una solicitud por escrito hecha por el comerciante, sea por contrato, o prefiera el conflicto a ser tratado por la ley ante un tribunal de justicia competente. Si el consumidor no indica su elección al comerciante en un plazo de cinco semanas, entonces el comerciante tiene derecho a poner el conflicto ante el tribunal de justicia competente.
+7. Las resoluciones de la Comisión de Conflictos están sujetos a las condiciones estipuladas en el reglamento de la Comisión de Conflictos. Las decisiones de la Comisión de Conflictos toman la forma de consejos vinculantes.
+8. La Comisión de Conflictos no se ocupará de un conflicto – o va a terminar su intervención – si el comerciante se ha concendido una suspensión de pagos, ha quebrado, o ha terminado realmente actividades comerciales antes de que la comisión se ocupó del conflito durante una sesión y dictó una sentencia definitiva.
+9. Si, al lado de la Comisión de Conflictos de Thuiswinkel, hay otra comisión competente de conflictos que se reconoce o una que está afiliado a los conflictos de la Comisión de Conflictos de la Fundación de Asuntos de Consumidores (SGC) o el Instituto de Quejas de Servicios Financieros (Kifid), la Comisión de Conflictos de Thuiswinkel preferiblemente tendrá jurisdicción para los conflictos que se relacionan principalmente con el método de ventas o de prestación de servicios de larga distancia.
+10. Para todos los otros conflictos habrá otras comisiones de conflictos que son reconocidos por el SGC o afiliados con la Kifid.
 
 ### **Artículo 18 – Garantía de la rama**
 
-1.  Thuiswinkel.org garantiza el cumplimiento de las obligaciones de sus miembros en relación con los asesoramientos vinculantes impuestos de la Comisión de Conflictos de Thuiswinkel, a menos que el miembro decide poner el asesoramiento vinculante ante un tribunal de justicia para la verificación dentro de los dos meses después de la fecha de ese consejo. En caso de verificación del tribunal de justicia, la suspensión de la garantía terminará y la garantía entrará en vigencia una vez más a la decisión judicial, sea definitiva y concluyente, por lo que el tribunal ha declarado que el asesoramiento vinculante tiene efecto vinculante. Hasta una suma máxima de € 10.000 por asesoramiento vinculante, Thuiswinkel.org pagará esa suma al consumidor. En caso de importes superiores a € 10.000 por asesoramiento vinculante, se pagará una suma de € 10.000. En cuanto a la suma es superior a € 10.000, Thuiswinkel.org tiene la obligación de realizar esfuerzos razonables suficientes para perseguir al miembro a cumplir el asesoramiento vinculante.
-2.  La aplicación de esta garantía requiere que el consumidor presentará una apelación por escrito a Thuiswinkel.org, y transferirá su reclamación en el emperario de Thuiswinkel.org. En cuanto a la reclamación en el comerciante excece la suma de € 10.000, el consumidor se ofrecerá la posibilidad de transferir su reclamación en el comerciante por encina de la suma de € 10.000 a Thuiswinkel.org, después de que esta organización perseguirá el pago de la reclamación ante un tribunal en su propio título y costos.
+1. Thuiswinkel.org garantiza el cumplimiento de las obligaciones de sus miembros en relación con los asesoramientos vinculantes impuestos de la Comisión de Conflictos de Thuiswinkel, a menos que el miembro decide poner el asesoramiento vinculante ante un tribunal de justicia para la verificación dentro de los dos meses después de la fecha de ese consejo. En caso de verificación del tribunal de justicia, la suspensión de la garantía terminará y la garantía entrará en vigencia una vez más a la decisión judicial, sea definitiva y concluyente, por lo que el tribunal ha declarado que el asesoramiento vinculante tiene efecto vinculante. Hasta una suma máxima de € 10.000 por asesoramiento vinculante, Thuiswinkel.org pagará esa suma al consumidor. En caso de importes superiores a € 10.000 por asesoramiento vinculante, se pagará una suma de € 10.000. En cuanto a la suma es superior a € 10.000, Thuiswinkel.org tiene la obligación de realizar esfuerzos razonables suficientes para perseguir al miembro a cumplir el asesoramiento vinculante.
+2. La aplicación de esta garantía requiere que el consumidor presentará una apelación por escrito a Thuiswinkel.org, y transferirá su reclamación en el emperario de Thuiswinkel.org. En cuanto a la reclamación en el comerciante excece la suma de € 10.000, el consumidor se ofrecerá la posibilidad de transferir su reclamación en el comerciante por encina de la suma de € 10.000 a Thuiswinkel.org, después de que esta organización perseguirá el pago de la reclamación ante un tribunal en su propio título y costos.
 
 ### **Artículo 19 – Términos adicionales o diferentes**
 
@@ -244,8 +244,8 @@ Estipulaciones adicionales o estipulaciones que difieren de estos términos y co
 
 ### **Artículo 20 – Modificación de las condiciones generales de thuiswinkel.org**
 
-1.  Thuiswinkel.org sólo modificará estos términos y condiciones generales después de consultar con la Asociación de Consumidores.
-2.  Las enmiendas a estos términos y condiciones sólo entrarán en vigor después de que hayan sido publicados en la forma adecuada, en el entendimiento de que dónde las enmiendas se aplican durante la validez de una oferta, la estipulación que es más favorable para el consumidor prevalecerá.
+1. Thuiswinkel.org sólo modificará estos términos y condiciones generales después de consultar con la Asociación de Consumidores.
+2. Las enmiendas a estos términos y condiciones sólo entrarán en vigor después de que hayan sido publicados en la forma adecuada, en el entendimiento de que dónde las enmiendas se aplican durante la validez de una oferta, la estipulación que es más favorable para el consumidor prevalecerá.
 
 Thuiswinkel.org  
 P.O. Box 7001, 6710 CB EDE, Los Países Bajos
@@ -504,115 +504,115 @@ Artículo 12 - Varios
 
 ### **Artículo 1 - Definiciones**
 
-*   **Cuenta:** La cuenta que el Usuario debe generar para poder realizar pedidos, participar en Subastas y dejar Reseñas. 
-*   **Vendedor(es) terceros:** Vendedores externos que ofrecen productos a los Usuarios a través del sitio Web. 
-*   **Usuario:** Cualquier visitante del sitio Web.
-*   **Términos y Condiciones de Uso:** Los Términos y Condiciones de Uso para los sitios web de vidaXL.
-*   **Reseña:** Una reseña que puede ser dejada por el Usuario de vidaXL, el sitio Web o el vendedor/vendedores externo/s.
-*   **Subastas:** Las Subastas que se llevan a cabo por vidaXL en el sitio Web.
-*   **vidaXL:** vidaXL Marketplace International B.V. con sede en (5928 SK) Venlo at Mary Kingsleystraat 1.
-*   **Website:** El sitio web tal y como se encuentra, de manera activa, bajo la URL vidaxl.nl y cualquier otro sitio web, URL o aplicación perteneciente a vidaXL.
+* **Cuenta:** La cuenta que el Usuario debe generar para poder realizar pedidos, participar en Subastas y dejar Reseñas. 
+* **Vendedor(es) terceros:** Vendedores externos que ofrecen productos a los Usuarios a través del sitio Web. 
+* **Usuario:** Cualquier visitante del sitio Web.
+* **Términos y Condiciones de Uso:** Los Términos y Condiciones de Uso para los sitios web de vidaXL.
+* **Reseña:** Una reseña que puede ser dejada por el Usuario de vidaXL, el sitio Web o el vendedor/vendedores externo/s.
+* **Subastas:** Las Subastas que se llevan a cabo por vidaXL en el sitio Web.
+* **vidaXL:** vidaXL Marketplace International B.V. con sede en (5928 SK) Venlo at Mary Kingsleystraat 1.
+* **Website:** El sitio web tal y como se encuentra, de manera activa, bajo la URL vidaxl.nl y cualquier otro sitio web, URL o aplicación perteneciente a vidaXL.
 
 ### **Artículo 2 - Aplicabilidad**
 
-1.  Estos Términos y Condiciones de Uso son aplicables a cualquier uso del sitio Web, incluyendo el uso de la Cuenta.
-2.  vidaXL se reserva el derecho de modificar estos Términos y Condiciones de Uso de vez en cuando. Los Términos y Condiciones de Uso modificados serán aplicables tan pronto como se hayan publicado en el sitio Web. Es por ello que es recomendable revisar los Términos y Condiciones de Uso regularmente.
+1. Estos Términos y Condiciones de Uso son aplicables a cualquier uso del sitio Web, incluyendo el uso de la Cuenta.
+2. vidaXL se reserva el derecho de modificar estos Términos y Condiciones de Uso de vez en cuando. Los Términos y Condiciones de Uso modificados serán aplicables tan pronto como se hayan publicado en el sitio Web. Es por ello que es recomendable revisar los Términos y Condiciones de Uso regularmente.
 
 ### **Artículo 3 - Cuenta de Usuario**
 
-1.  Para poder hacer pedidos, participar en Subastas y dejar reseñas, es necesario crear una Cuenta. El Usuario puede crear una Cuenta aportando la información requerida a través del formulario en línea del sitio Web. Este formulario se encuentra bajo el título “¿Nuevo cliente?”.
-2.  Para crear la Cuenta, el Usuario debe:
+1. Para poder hacer pedidos, participar en Subastas y dejar reseñas, es necesario crear una Cuenta. El Usuario puede crear una Cuenta aportando la información requerida a través del formulario en línea del sitio Web. Este formulario se encuentra bajo el título “¿Nuevo cliente?”.
+2. Para crear la Cuenta, el Usuario debe:
 
              1. tener al menos 18 años de edad en el momento de solicitar la creación de la Cuenta;
 
              2. tener una dirección de correo válida
 
-3.  Tras la creación de la cuenta, el Usuario recibirá un e-mail de confirmación. En cuanto la Cuenta haya sido activada, el Usuario podrá iniciar sesión usando su dirección de correo electrónico y la contraseña elegida por él o ella.
-4.  Una cierta dirección de correo electrónico sólo se puede utilizar una vez para generar una Cuenta. Una Cuenta es estrictamente personal, no transferible y vinculada al Usuario que ha generado la Cuenta.
-5.  El Usuario debe asegurarse de que la información que él o ella suministra con respecto a la Cuenta y en cualquier otra comunicación con vidaXL es correcta, completa y está actualizada. Cualquier modificación de los datos personales puede ser llevada a cabo por el propio Usuario conectándose a la Cuenta y procesando los cambios.
-6.  El Usuario debe mantener la confidencialidad de la contraseña y debe tomar medidas razonables para impedir que terceros no autorizados obtengan conocimiento y uso de la contraseña y / o de su Cuenta.
-7.  El Usuario está obligado a notificar inmediatamente a vidaXL en caso de pérdida, robo o (sospecha) de abuso o uso no autorizado de la contraseña y / o de la Cuenta por un tercero. Hasta el momento en que esta notificación sea realmente recibida por vidaXL, el Usuario será responsable por cualquier daño resultante del abuso de la contraseña y / o de la Cuenta.
-8.  Si vidaXL averigua o tiene motivos para sospechar que terceros no autorizados están utilizando o pueden utilizar la Cuenta del Usuario, vidaXL se reserva el derecho de bloquear inmediatamente la Cuenta en cuestión y recuperar los daños que vidaXL pueda sufrir como consecuencia de esto por parte del Usuario, sin que vidaXL se haga responsable de los daños sufridos por el Usuario.
+3. Tras la creación de la cuenta, el Usuario recibirá un e-mail de confirmación. En cuanto la Cuenta haya sido activada, el Usuario podrá iniciar sesión usando su dirección de correo electrónico y la contraseña elegida por él o ella.
+4. Una cierta dirección de correo electrónico sólo se puede utilizar una vez para generar una Cuenta. Una Cuenta es estrictamente personal, no transferible y vinculada al Usuario que ha generado la Cuenta.
+5. El Usuario debe asegurarse de que la información que él o ella suministra con respecto a la Cuenta y en cualquier otra comunicación con vidaXL es correcta, completa y está actualizada. Cualquier modificación de los datos personales puede ser llevada a cabo por el propio Usuario conectándose a la Cuenta y procesando los cambios.
+6. El Usuario debe mantener la confidencialidad de la contraseña y debe tomar medidas razonables para impedir que terceros no autorizados obtengan conocimiento y uso de la contraseña y / o de su Cuenta.
+7. El Usuario está obligado a notificar inmediatamente a vidaXL en caso de pérdida, robo o (sospecha) de abuso o uso no autorizado de la contraseña y / o de la Cuenta por un tercero. Hasta el momento en que esta notificación sea realmente recibida por vidaXL, el Usuario será responsable por cualquier daño resultante del abuso de la contraseña y / o de la Cuenta.
+8. Si vidaXL averigua o tiene motivos para sospechar que terceros no autorizados están utilizando o pueden utilizar la Cuenta del Usuario, vidaXL se reserva el derecho de bloquear inmediatamente la Cuenta en cuestión y recuperar los daños que vidaXL pueda sufrir como consecuencia de esto por parte del Usuario, sin que vidaXL se haga responsable de los daños sufridos por el Usuario.
 
 ### **Artículo 4 - Uso del sitio Web**
 
-1.  El Usuario garantiza que la información y los datos proporcionados por él son correctos, están completos y son fiables. VidaXL se reserva el derecho de comprobar la exactitud de la información y los datos suministrados y de eliminar la información y los datos del Usuario, en caso de que se demuestre que es incorrecta o no se pueda verificar su veracidad.
-2.  El Usuario no está autorizado a:
+1. El Usuario garantiza que la información y los datos proporcionados por él son correctos, están completos y son fiables. VidaXL se reserva el derecho de comprobar la exactitud de la información y los datos suministrados y de eliminar la información y los datos del Usuario, en caso de que se demuestre que es incorrecta o no se pueda verificar su veracidad.
+2. El Usuario no está autorizado a:
 
-*   alterar el funcionamiento del Sitio Web o utilizar un software que pueda perturbar el funcionamiento del mismo; 
-*   iniciar procesos (o permitir que sigan funcionando) de los cuales él o ella razonablemente sospecha que restringen la navegación a otros usuarios de internet o afectan negativamente el uso del Sitio Web;
-*   hacerse pasar por otro Usuario.
+* alterar el funcionamiento del Sitio Web o utilizar un software que pueda perturbar el funcionamiento del mismo; 
+* iniciar procesos (o permitir que sigan funcionando) de los cuales él o ella razonablemente sospecha que restringen la navegación a otros usuarios de internet o afectan negativamente el uso del Sitio Web;
+* hacerse pasar por otro Usuario.
 
-3.  El Usuario no está autorizado a replicar o poner a disposición (por medio de un enlace o de otro modo) el Sitio Web o cualquier parte del mismo sin haber obtenido previamente permiso por escrito de vidaXL.
+3. El Usuario no está autorizado a replicar o poner a disposición (por medio de un enlace o de otro modo) el Sitio Web o cualquier parte del mismo sin haber obtenido previamente permiso por escrito de vidaXL.
 
 ### **Artículo 5 - Pedidos**
 
-1.  Los Términos y Condiciones Generales de vidaXL y las Condiciones de Devolución de vidaXL son aplicables a todos los pedidos de vidaXL realizados a través del Sitio Web. El Usuario acepta estas Condiciones Generales y Condiciones de Devolución al generar una Cuenta.
-2.  Para los pedidos de vendedores externos a través del sitio web, los términos y condiciones generales y las condiciones de devolución de los vendedores externos en cuestión pueden ser aplicables. Éstas pueden encontrarse en la página de la empresa de los vendedores externos. Si el vendedor/es externo/s no disponen de sus propios términos y condiciones generales y/o condiciones de devolución, los Términos y Condiciones Generales y/o las Condiciones de Devolución de vidaXL son aplicables al contrato de compra entre el Usuario y el vendedor/es externo/s.
+1. Los Términos y Condiciones Generales de vidaXL y las Condiciones de Devolución de vidaXL son aplicables a todos los pedidos de vidaXL realizados a través del Sitio Web. El Usuario acepta estas Condiciones Generales y Condiciones de Devolución al generar una Cuenta.
+2. Para los pedidos de vendedores externos a través del sitio web, los términos y condiciones generales y las condiciones de devolución de los vendedores externos en cuestión pueden ser aplicables. Éstas pueden encontrarse en la página de la empresa de los vendedores externos. Si el vendedor/es externo/s no disponen de sus propios términos y condiciones generales y/o condiciones de devolución, los Términos y Condiciones Generales y/o las Condiciones de Devolución de vidaXL son aplicables al contrato de compra entre el Usuario y el vendedor/es externo/s.
 
 ### **Artículo 6 - Subastas**
 
-1.  Las Condiciones de Subasta de vidaXL son aplicables a la participación en las subastas organizadas por vidaXL en el sitio web. El Usuario acepta estas Condiciones de Subasta al generar una Cuenta, o al menos en el momento en que el Usuario participe por primera vez en una Subasta.
-2.  El Usuario no está autorizado de ninguna manera a influir de manera injusta o indebida en la subasta.
+1. Las Condiciones de Subasta de vidaXL son aplicables a la participación en las subastas organizadas por vidaXL en el sitio web. El Usuario acepta estas Condiciones de Subasta al generar una Cuenta, o al menos en el momento en que el Usuario participe por primera vez en una Subasta.
+2. El Usuario no está autorizado de ninguna manera a influir de manera injusta o indebida en la subasta.
 
 ### **Artículo 7 - Reseñas**
 
-1.  Después de realizar una compra a través del Sitio Web, al Usuario se le puede solicitar - por parte de o en nombre de vidaXL - evaluar a vidaXL, al Sitio Web y/o a los vendedores externos dejando una Reseña. VidaXL se reserva el derecho - pero no la obligación - de publicar una reseña en el sitio web o publicarla de cualquier otra forma, incluyendo el nombre, lugar de residencia y fecha de la reseña, según la información suministrada por el usuario.
-2.  En el caso de que las Reseñas sean recopiladas por un tercero en nombre de vidaXL, los términos y condiciones generales y/o términos y condiciones de uso de la parte en cuestión son aplicables a las Reseñas.
-3.  vidaXL se reserva el derecho de no publicar una Reseña o retirarla de la página web si el vendedor externo puede demostrar que la reseña en cuestión:
+1. Después de realizar una compra a través del Sitio Web, al Usuario se le puede solicitar - por parte de o en nombre de vidaXL - evaluar a vidaXL, al Sitio Web y/o a los vendedores externos dejando una Reseña. VidaXL se reserva el derecho - pero no la obligación - de publicar una reseña en el sitio web o publicarla de cualquier otra forma, incluyendo el nombre, lugar de residencia y fecha de la reseña, según la información suministrada por el usuario.
+2. En el caso de que las Reseñas sean recopiladas por un tercero en nombre de vidaXL, los términos y condiciones generales y/o términos y condiciones de uso de la parte en cuestión son aplicables a las Reseñas.
+3. vidaXL se reserva el derecho de no publicar una Reseña o retirarla de la página web si el vendedor externo puede demostrar que la reseña en cuestión:
 
-*   va en contra de la legislación o normativa vigente;
-*   va en contra del orden público o la decencia;
-*   es una reseña del producto solamente;
-*   no pertenece al vendedor externo en cuestión; 
-*   contiene información personal de un tercero;  
-*   contiene una URL o publicidad;
-*   es fraudulenta.
+* va en contra de la legislación o normativa vigente;
+* va en contra del orden público o la decencia;
+* es una reseña del producto solamente;
+* no pertenece al vendedor externo en cuestión; 
+* contiene información personal de un tercero;  
+* contiene una URL o publicidad;
+* es fraudulenta.
 
 ### **Artículo 8 - Cerrar la Cuenta y funciones del Sitio Web**
 
-1.  vidaXL se reserva el derecho de rechazar Usuarios o cerrar su cuenta de manera unilateral si se diesen, por ejemplo, este tipo de situaciones:
+1. vidaXL se reserva el derecho de rechazar Usuarios o cerrar su cuenta de manera unilateral si se diesen, por ejemplo, este tipo de situaciones:
 
-*   uso no autorizado o abuso del sitio web o de la Cuenta;
-*   incumplimiento de los Términos y Condiciones de Uso o de las Condiciones de Subastas;
-*   incumplimiento de los acuerdos hechos entre el Usuario y vidaXL o el vendedor externo.
+* uso no autorizado o abuso del sitio web o de la Cuenta;
+* incumplimiento de los Términos y Condiciones de Uso o de las Condiciones de Subastas;
+* incumplimiento de los acuerdos hechos entre el Usuario y vidaXL o el vendedor externo.
 
-2.  Además, vidaXL tiene el derecho de limitar, denegar o revocar ciertos posibles usos o de bloquear de manera temporal la Cuenta en casos descritos en el Artículo 8.1.
-3.  En todo momento, vidaXL se reserva el derecho de dejar de proporcionar ciertas funciones del sitio web o modificarlas.
+2. Además, vidaXL tiene el derecho de limitar, denegar o revocar ciertos posibles usos o de bloquear de manera temporal la Cuenta en casos descritos en el Artículo 8.1.
+3. En todo momento, vidaXL se reserva el derecho de dejar de proporcionar ciertas funciones del sitio web o modificarlas.
 
 ### **Artículo 9 - Privacidad y datos personales**
 
-1.  Los datos personales suministrados por el usuario a vidaXL, como su nombre y dirección, números de teléfono y direcciones de correo electrónico, son procesados por vidaXL en archivos que son propiedad de vidaXL. Esta información será utilizada por vidaXL para administrar Cuentas y Subastas, procesar pedidos, entregas y facturas y posibles mediaciones en disputas entre Usuarios y vendedores externos.
-2.  En todo momento, el Usuario puede acceder, modificar o expandir sus datos personales ingresando en su cuenta.
-3.  En principio, vidaXL no suministrará datos personales a terceros, a menos que esto sea necesario para la ejecución de un acuerdo con el Usuario. VidaXL suministrará, por ejemplo, el nombre y la dirección del Usuario, la dirección de correo electrónico y el número de teléfono a los vendedores externos, en la medida en que sea necesario para firmar un contrato de compra entre el Usuario y el/los vendedor/es externo/s. La comunicación entre el Usuario y el/los vendedor/es externo/s se realiza a través de una aplicación de correo electrónico de vidaXL. La comunicación se almacena en los servidores de vidaXL y se puede acceder y utilizar por vidaXL con el fin de:
+1. Los datos personales suministrados por el usuario a vidaXL, como su nombre y dirección, números de teléfono y direcciones de correo electrónico, son procesados por vidaXL en archivos que son propiedad de vidaXL. Esta información será utilizada por vidaXL para administrar Cuentas y Subastas, procesar pedidos, entregas y facturas y posibles mediaciones en disputas entre Usuarios y vendedores externos.
+2. En todo momento, el Usuario puede acceder, modificar o expandir sus datos personales ingresando en su cuenta.
+3. En principio, vidaXL no suministrará datos personales a terceros, a menos que esto sea necesario para la ejecución de un acuerdo con el Usuario. VidaXL suministrará, por ejemplo, el nombre y la dirección del Usuario, la dirección de correo electrónico y el número de teléfono a los vendedores externos, en la medida en que sea necesario para firmar un contrato de compra entre el Usuario y el/los vendedor/es externo/s. La comunicación entre el Usuario y el/los vendedor/es externo/s se realiza a través de una aplicación de correo electrónico de vidaXL. La comunicación se almacena en los servidores de vidaXL y se puede acceder y utilizar por vidaXL con el fin de:
 
-*   asistir al usuario y al/a los vendedor/es externo/s en caso de preguntas y/o problemas; 
-*   evaluar si el/ los vendedor/es externo/s cumplen/han cumplido con los requisitos; 
-*   y analizar las mejoras del proceso.
+* asistir al usuario y al/a los vendedor/es externo/s en caso de preguntas y/o problemas; 
+* evaluar si el/ los vendedor/es externo/s cumplen/han cumplido con los requisitos; 
+* y analizar las mejoras del proceso.
 
-4.  Los sitios web utilizan cookies. Por ejemplo, las cookies se despliegan para recordar los datos de inicio de sesión suministrados. Además, las cookies de terceros se implementan en el sitio web.
-5.  El Usuario puede configurar su navegador de tal forma que no reciba cookies durante su visita al Sitio Web. Sin embargo, en este caso, es posible que el Usuario no pueda utilizar todas las funciones del Sitio Web, o que su acceso a partes del Sitio Web y/o la Cuenta sea restringido.
-6.  VidaXL se reserva el derecho de almacenar datos sobre el comportamiento del visitante en el Sitio Web (la dirección IP utilizada, entre otros datos) si se sospecha que a través de la cuenta del Usuario se está dando un uso no autorizado o se está llevando a cabo un abuso.
-7.  Para obtener más información sobre la forma en que vidaXL utiliza los datos personales de los Usuarios y usa cookies en el Sitio Web, consulte la política de privacidad de vidaXL, tal y como se encuentra en el Sitio Web.
+4. Los sitios web utilizan cookies. Por ejemplo, las cookies se despliegan para recordar los datos de inicio de sesión suministrados. Además, las cookies de terceros se implementan en el sitio web.
+5. El Usuario puede configurar su navegador de tal forma que no reciba cookies durante su visita al Sitio Web. Sin embargo, en este caso, es posible que el Usuario no pueda utilizar todas las funciones del Sitio Web, o que su acceso a partes del Sitio Web y/o la Cuenta sea restringido.
+6. VidaXL se reserva el derecho de almacenar datos sobre el comportamiento del visitante en el Sitio Web (la dirección IP utilizada, entre otros datos) si se sospecha que a través de la cuenta del Usuario se está dando un uso no autorizado o se está llevando a cabo un abuso.
+7. Para obtener más información sobre la forma en que vidaXL utiliza los datos personales de los Usuarios y usa cookies en el Sitio Web, consulte la política de privacidad de vidaXL, tal y como se encuentra en el Sitio Web.
 
 ### **Artículo 10 - Propiedad intelectual e información de terceros**
 
-1.  A menos que se especifique lo contrario, todos los derechos, incluidos los derechos de autor y otros derechos de propiedad intelectual del sitio web y la información allí suministrada, están reservados por vidaXL, en la medida en que no sean reservados por terceros/titulares de licencias que proporcionen la información. 
-2.  El Usuario puede consultar (la información suministrada en) el Sitio Web y hacer copias de ella para uso personal, por ejemplo imprimiéndola o almacenándola. No está permitido ningún otro uso, por ejemplo, almacenar o reproducir (partes de) el Sitio Web en una web de internet separada o la creación de conexiones, hipervínculos y "enlaces profundos" a (partes del) Sitio Web, sin el permiso explícito por escrito de vidaXL.
-3.  La información del sitio web está, parcialmente, proporcionada por terceros, tales como vendedores externos y otros usuarios (en el caso de las reseñas). VidaXL no se hace responsable de los daños resultantes de la información incorrecta, incompleta o equivocada proporcionada por terceros en el Sitio Web.
-4.  El sitio web puede contener enlaces a páginas externas de Internet. VidaXL no se hace responsable del uso o contenido de las páginas web a las que se ofrece un enlace al sitio web o que cuentan con un enlace al sitio web.
+1. A menos que se especifique lo contrario, todos los derechos, incluidos los derechos de autor y otros derechos de propiedad intelectual del sitio web y la información allí suministrada, están reservados por vidaXL, en la medida en que no sean reservados por terceros/titulares de licencias que proporcionen la información. 
+2. El Usuario puede consultar (la información suministrada en) el Sitio Web y hacer copias de ella para uso personal, por ejemplo imprimiéndola o almacenándola. No está permitido ningún otro uso, por ejemplo, almacenar o reproducir (partes de) el Sitio Web en una web de internet separada o la creación de conexiones, hipervínculos y "enlaces profundos" a (partes del) Sitio Web, sin el permiso explícito por escrito de vidaXL.
+3. La información del sitio web está, parcialmente, proporcionada por terceros, tales como vendedores externos y otros usuarios (en el caso de las reseñas). VidaXL no se hace responsable de los daños resultantes de la información incorrecta, incompleta o equivocada proporcionada por terceros en el Sitio Web.
+4. El sitio web puede contener enlaces a páginas externas de Internet. VidaXL no se hace responsable del uso o contenido de las páginas web a las que se ofrece un enlace al sitio web o que cuentan con un enlace al sitio web.
 
 ### **Artículo 11 - Responsabilidad**
 
-1.  El Usuario reconoce que en el caso de pedidos con vendedores externos, el acuerdo de compra se hace entre el Usuario y los vendedores externos, y que vidaXL no es ni será parte de este acuerdo.
-2.  Como tal, vidaXL no está obligada a verificar o evaluar la calidad, cantidad o capacidad de los productos que son ofrecidos por los vendedores externos en el Sitio Web y no puede ser responsable en modo alguno de los daños resultantes del hecho de que dicha información pueda resultar ser incorrecta, esté incompleta o sea ilícita.
-3.  En caso de que vidaXL sea responsable de los daños causados, esta responsabilidad se limita al precio de compra del producto en cuestión, o tal y como fue facturado por el vendedor externo, en cualquier caso.
-4.  La responsabilidad de vidaXL, sea cual fuere su naturaleza, se limita al importe que el seguro de responsabilidad de vidaXL recompensa en el caso de que se trate.
+1. El Usuario reconoce que en el caso de pedidos con vendedores externos, el acuerdo de compra se hace entre el Usuario y los vendedores externos, y que vidaXL no es ni será parte de este acuerdo.
+2. Como tal, vidaXL no está obligada a verificar o evaluar la calidad, cantidad o capacidad de los productos que son ofrecidos por los vendedores externos en el Sitio Web y no puede ser responsable en modo alguno de los daños resultantes del hecho de que dicha información pueda resultar ser incorrecta, esté incompleta o sea ilícita.
+3. En caso de que vidaXL sea responsable de los daños causados, esta responsabilidad se limita al precio de compra del producto en cuestión, o tal y como fue facturado por el vendedor externo, en cualquier caso.
+4. La responsabilidad de vidaXL, sea cual fuere su naturaleza, se limita al importe que el seguro de responsabilidad de vidaXL recompensa en el caso de que se trate.
 
 ### **Artículo 12 - Varios**
 
-1.  Si una o más de las estipulaciones de estos Términos y Condiciones de Uso pueden ser o dejar de ser vinculantes, inválidas o inexecutables, las demás estipulaciones seguirán siendo válidas en su totalidad. En tal caso, vidaXL reemplazará la estipulación en cuestión con una nueva estipulación, que determinará vidaXL y acercará lo máximo posible al significado de la estipulación en cuestión.
-2.  Para el uso del Sitio Web, el uso de la Cuenta y estos Términos y Condiciones, la legislación neerlandesa es la única aplicable.
+1. Si una o más de las estipulaciones de estos Términos y Condiciones de Uso pueden ser o dejar de ser vinculantes, inválidas o inexecutables, las demás estipulaciones seguirán siendo válidas en su totalidad. En tal caso, vidaXL reemplazará la estipulación en cuestión con una nueva estipulación, que determinará vidaXL y acercará lo máximo posible al significado de la estipulación en cuestión.
+2. Para el uso del Sitio Web, el uso de la Cuenta y estos Términos y Condiciones, la legislación neerlandesa es la única aplicable.
 
 * * *
 
