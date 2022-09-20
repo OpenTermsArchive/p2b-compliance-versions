@@ -83,10 +83,10 @@ Użyte w Regulaminie terminy oznaczają odpowiednio:
 
 7\. Dealer upoważnia Grupę OLX, w okresie emisji Ogłoszenia w serwisie OTOMOTO i w celu promocji Ogłoszenia, do publikacji zdjęć zamieszczonych w Ogłoszeniu w polskich i zagranicznych mediach społecznościowych. Ponadto, Użytkownik, z chwilą zamieszczenia w Ogłoszeniu treści stanowiących przedmiot prawa autorskiego, wyraża zgodę na ich nieodpłatne, nieograniczone czasowo i terytorialnie rozpowszechnianie w serwisach internetowych należących do Grupy OLX a także w serwisach partnerskich, z którymi Grupa OLX współpracuje, w zakresie:
 
-1.  utrwalania i zwielokrotniania jakąkolwiek techniką w tym także przez dokonywanie zapisu oraz kopii na wszelkich nośnikach;
-2.  wprowadzania do pamięci komputera oraz do sieci komputerowej i/lub multimedialnej;
-3.  publicznego wyświetlania i odtwarzania;
-4.  wykorzystywania w różnych formatach wraz z prawem włączania ich w całości lub we fragmentach do innych utworów i tworzenia opracowań.
+1. utrwalania i zwielokrotniania jakąkolwiek techniką w tym także przez dokonywanie zapisu oraz kopii na wszelkich nośnikach;
+2. wprowadzania do pamięci komputera oraz do sieci komputerowej i/lub multimedialnej;
+3. publicznego wyświetlania i odtwarzania;
+4. wykorzystywania w różnych formatach wraz z prawem włączania ich w całości lub we fragmentach do innych utworów i tworzenia opracowań.
 
 8\. Pobieranie lub wykorzystywanie w jakimkolwiek zakresie dostępnych w ramach Serwisu OTOMOTO materiałów wymaga każdorazowo zgody Grupy OLX i nie może naruszać postanowień Regulaminu oraz powszechnie obowiązującego prawa, jak również nie może naruszać interesów Grupy OLX oraz Dealerów. Zabronione jest jakiekolwiek agregowanie i przetwarzanie danych oraz innych informacji dostępnych w Serwisie OTOMOTO w celu ich dalszego udostępniania osobom trzecim w ramach innych serwisów internetowych jak i poza Internetem. Zabronione jest również wykorzystywanie oznaczeń Serwisu OTOMOTO, w tym charakterystycznych elementów grafiki bez zgody Grupy OLX.
 
@@ -98,11 +98,11 @@ Użyte w Regulaminie terminy oznaczają odpowiednio:
 
 1\. Zawarcie umowy przez Dealera w przedmiocie emisji Ogłoszenia, wymaga spełnienia przez niego łącznie następujących warunków:
 
-1.  1.  poprawnej rejestracji Konta Dealera w Serwisie OTOMOTO,
-    2.  akceptacji treści Regulaminu, w tym wyboru Pakietu,
-    3.  wpisania kodu weryfikacyjnego otrzymanego na adres e-mail podany w formularzu rejestracyjnym,
-    4.  braku zastrzeżeń w związku z weryfikacją danych Dealera dokonanej przez Grupę OLX,
-    5.  aktywacji konta przez Grupę OLX.
+1. 1. poprawnej rejestracji Konta Dealera w Serwisie OTOMOTO,
+    2. akceptacji treści Regulaminu, w tym wyboru Pakietu,
+    3. wpisania kodu weryfikacyjnego otrzymanego na adres e-mail podany w formularzu rejestracyjnym,
+    4. braku zastrzeżeń w związku z weryfikacją danych Dealera dokonanej przez Grupę OLX,
+    5. aktywacji konta przez Grupę OLX.
 
 2\. Grupa OLX może uzależnić aktywowanie Konta Dealera oraz dalsze świadczenie usług w ramach Serwisu OTOMOTO od przesłania przez Dealera na adres siedziby Grupy OLX dokumentów, które uwiarygodniają dane umieszczone przez Dealera w ustawieniach Konta Dealera.
 
@@ -241,45 +241,45 @@ W przypadku wyszukiwania i następnie wyłącznie przeglądania Ogłoszeń bez �
 
 4\. Grupa OLX nie odpowiada ponadto za:
 
-1.  1.  brak zainteresowania przedmiotem Ogłoszenia,
-    2.  realizację obowiązków wynikających z rękojmi i gwarancji dotyczących przedmiotu Ogłoszenia,
-    3.  składane przez Użytkownika oświadczenia drugiej stronie transakcji,
-    4.  działanie systemów teleinformatycznych lub urządzeń niezależnych od Grupy OLX,
-    5.  działanie siły wyższej.
+1. 1. brak zainteresowania przedmiotem Ogłoszenia,
+    2. realizację obowiązków wynikających z rękojmi i gwarancji dotyczących przedmiotu Ogłoszenia,
+    3. składane przez Użytkownika oświadczenia drugiej stronie transakcji,
+    4. działanie systemów teleinformatycznych lub urządzeń niezależnych od Grupy OLX,
+    5. działanie siły wyższej.
 
 5\. Wszelkie materiały, w tym elementy grafiki, układ i kompozycja tych elementów (tzw. layout), znaki towarowe oraz inne informacje, dostępne na stronach internetowych Serwisu OTOMOTO stanowią przedmiot praw wyłącznych Grupy OLX lub Dealerów. Wskazane elementy stanowią przedmiot autorskich praw majątkowych, praw własności przemysłowej, w tym praw z rejestracji znaków towarowych oraz praw do baz danych i jako takie korzystają z ustawowej ochrony prawnej.
 
 6\. Logo:
 
-1.  1.  Logo powinno stanowić oznaczenie firmy, na którą zarejestrowane jest konto.
-    2.  Dealer, przez dodanie logo, oświadcza, iż posiada prawa autorskie do jego wykorzystywania.
-    3.  Niedozwolone jest: wykorzystywanie logo i wizerunku innej firmy; zamieszczanie w logo treści powszechnie uznanych za obraźliwe; dodawanie w logo ramek, danych kontaktowych (adresu e-mail, numeru telefonu) czy adresu www, jak również umieszczanie w logo zdjęć miejsca działalności gospodarczej Dealera (placu z samochodami), pojazdów, osób, rzeczy oraz krajobrazu.
-    4.  Logo nie może być używane jako przejaw nieuczciwej konkurencji.
+1. 1. Logo powinno stanowić oznaczenie firmy, na którą zarejestrowane jest konto.
+    2. Dealer, przez dodanie logo, oświadcza, iż posiada prawa autorskie do jego wykorzystywania.
+    3. Niedozwolone jest: wykorzystywanie logo i wizerunku innej firmy; zamieszczanie w logo treści powszechnie uznanych za obraźliwe; dodawanie w logo ramek, danych kontaktowych (adresu e-mail, numeru telefonu) czy adresu www, jak również umieszczanie w logo zdjęć miejsca działalności gospodarczej Dealera (placu z samochodami), pojazdów, osób, rzeczy oraz krajobrazu.
+    4. Logo nie może być używane jako przejaw nieuczciwej konkurencji.
 
 7\. Naruszenie któregokolwiek z powyższych punktów, może skutkować usunięciem logo lub stanowić podstawę do rozwiązania umowy.
 
 8\. W razie uzyskania wiarygodnej wiadomości (na podstawie zgłoszenia nadużycia lub w inny sposób) o tym, że treść przesyłana czy publikowana przez Użytkownika z wykorzystaniem funkcjonalności Serwisu OTOMOTO ma bezprawny charakter lub narusza postanowienia Regulaminu, Grupa OLX może:
 
-1.  1.  podjąć właściwe czynności wyjaśniające, dążąc do ustalenia okoliczności sprawy, działając proporcjonalnie i rozsądnie, w tym przykładowo poprzez kontakt z podmiotem zgłaszającym nadużycie, Użytkownikiem, właściwym organem lub zewnętrznym doradcą;
-    2.  poinformować, w razie dokonania blokady danej treści, najpóźniej z chwilą, gdy blokada staje się skuteczna, Użytkownika w formie wiadomości email, ze wskazaniem zablokowanej treści, powodów decyzji o blokadzie, wskazaniem podstaw decyzji z powołaniem treści Regulaminu.
+1. 1. podjąć właściwe czynności wyjaśniające, dążąc do ustalenia okoliczności sprawy, działając proporcjonalnie i rozsądnie, w tym przykładowo poprzez kontakt z podmiotem zgłaszającym nadużycie, Użytkownikiem, właściwym organem lub zewnętrznym doradcą;
+    2. poinformować, w razie dokonania blokady danej treści, najpóźniej z chwilą, gdy blokada staje się skuteczna, Użytkownika w formie wiadomości email, ze wskazaniem zablokowanej treści, powodów decyzji o blokadzie, wskazaniem podstaw decyzji z powołaniem treści Regulaminu.
 
 9\. Użytkownik ma możliwość zakwestionowania decyzji w przedmiocie blokady treści, poprzez złożenie sprzeciwu od przekazania przez Grupę OLX informacji o blokadzie danej treści. Postanowienia regulujące postępowanie reklamacyjne stosuje się odpowiednio.
 
 10\. W przypadku uznania sprzeciwu za zasadny lub w razie niebudzącego wątpliwości ustania okoliczności uzasadniających bezprawność lub sprzeczność z Regulaminem danej treści:
 
-1.  1.  zablokowana treść zostaje przywrócona,
-    2.  jeżeli Ogłoszenie było objęte jedną z dodatkowych usług odpłatnych, Grupa OLX zwróci pobrane wcześniej punkty za wystawienie na konto Użytkownika, w postaci punktów służących do ponownego skorzystania z usług świadczonych w ramach Serwisu OTOMOTO.
+1. 1. zablokowana treść zostaje przywrócona,
+    2. jeżeli Ogłoszenie było objęte jedną z dodatkowych usług odpłatnych, Grupa OLX zwróci pobrane wcześniej punkty za wystawienie na konto Użytkownika, w postaci punktów służących do ponownego skorzystania z usług świadczonych w ramach Serwisu OTOMOTO.
 
 11\. W przypadku uznania sprzeciwu za bezzasadny lub niewniesienia sprzeciwu w terminie 7 dni od pozyskania informacji określonej w punkcie 8.2:
 
-1.  1.  zablokowana treść zostaje bezpowrotnie usunięta z Serwisu OTOMOTO;
-    2.  jeżeli dana treść była objęta jedną z dodatkowych usług płatnych, Grupa OLX pomniejszy Abonament, o którym mowa w punkcie 8 w związku z danym Ogłoszeniem.
+1. 1. zablokowana treść zostaje bezpowrotnie usunięta z Serwisu OTOMOTO;
+    2. jeżeli dana treść była objęta jedną z dodatkowych usług płatnych, Grupa OLX pomniejszy Abonament, o którym mowa w punkcie 8 w związku z danym Ogłoszeniem.
 
 12\. W razie poważnego powtarzającego się naruszenia prawa z wykorzystaniem Serwisu OTOMOTO, a także poważnego lub powtarzającego się naruszenia postanowień Regulaminu, w szczególności w razie powtarzających się prób publikowania lub rozpowszechniania nielegalnych treści przez danego Dealera lub różnych Dealerów działających wspólnie i w porozumieniu, w tym z wykorzystaniem różnych Kont, Grupa OLX może, z zachowaniem zasad proporcjonalności i poszanowania wolności obrotu, zawiesić Konto lub Konta albo tymczasowo lub permanentnie je zablokować, co będzie równoznaczne z tymczasowym zawieszeniem świadczenia usług na rzecz Dealera, z uwzględnieniem poniższych zasad:
 
-1.  1.  zawieszenie Konta oznacza czasowe wstrzymania jego funkcjonalności. Dealer, którego Konto zostało zawieszone, traci możliwość aktywnego korzystania z Serwisu OTOMOTO, co oznacza, że nie może wysyłać wiadomości z wykorzystaniem jego funkcjonalności ani publikować Ogłoszeń. Dealer może jednak przeglądać Serwis OTOMOTO, historię wiadomości i opublikowanych przez siebie Ogłoszeń, przy czym, aby dokonać wypłaty przypisanych mu środków powinien skontaktować się z się z Grupą OLX na adres email: pomoc@otomoto.pl;
-    2.  zablokowanie Konta oznacza utratę przez Dealera możliwości zalogowania się do Konta;
-    3.  Dealer zostanie poinformowany w razie dokonania blokady danej treści, najpóźniej z chwilą gdy blokada staje się skuteczna, w formie wiadomości email, ze wskazaniem zablokowanej treści, powodów decyzji o blokadzie ze wskazaniem podstaw decyzji z powołaniem treści Regulaminu.
+1. 1. zawieszenie Konta oznacza czasowe wstrzymania jego funkcjonalności. Dealer, którego Konto zostało zawieszone, traci możliwość aktywnego korzystania z Serwisu OTOMOTO, co oznacza, że nie może wysyłać wiadomości z wykorzystaniem jego funkcjonalności ani publikować Ogłoszeń. Dealer może jednak przeglądać Serwis OTOMOTO, historię wiadomości i opublikowanych przez siebie Ogłoszeń, przy czym, aby dokonać wypłaty przypisanych mu środków powinien skontaktować się z się z Grupą OLX na adres email: pomoc@otomoto.pl;
+    2. zablokowanie Konta oznacza utratę przez Dealera możliwości zalogowania się do Konta;
+    3. Dealer zostanie poinformowany w razie dokonania blokady danej treści, najpóźniej z chwilą gdy blokada staje się skuteczna, w formie wiadomości email, ze wskazaniem zablokowanej treści, powodów decyzji o blokadzie ze wskazaniem podstaw decyzji z powołaniem treści Regulaminu.
 
 13\. Dla uniknięcia wątpliwości, wniesienie lub niewniesienie skutecznego sprzeciwu w sytuacjach określonych punktem 7.8 lub 7.12 Regulaminu pozostaje bez wpływu na prawo Użytkownika do wniesienia reklamacji zgodnie z punktem 10 Regulaminu.
 
@@ -309,9 +309,9 @@ W przypadku wyszukiwania i następnie wyłącznie przeglądania Ogłoszeń bez �
 
 12\. W przypadku:
 
-1.  1.  udzielonych po dokonaniu sprzedaży opustów i obniżek cen, oraz
-    2.  zwracanej nabywcy całości lub części zapłaty otrzymanej przed dokonaniem sprzedaży, jeżeli do niej nie doszło,
-    3.  stwierdzenia pomyłki w kwocie podatku na fakturze,
+1. 1. udzielonych po dokonaniu sprzedaży opustów i obniżek cen, oraz
+    2. zwracanej nabywcy całości lub części zapłaty otrzymanej przed dokonaniem sprzedaży, jeżeli do niej nie doszło,
+    3. stwierdzenia pomyłki w kwocie podatku na fakturze,
 
 Grupa OLX na warunkach określonych w niniejszym Regulaminie wystawia na rzecz Dealera fakturę korygującą VAT zmniejszającą.
 
@@ -356,10 +356,10 @@ Brak aktywacji Ogłoszenia w ciągu 6 miesięcy od zakończenia jego emisji skut
 
 1\. Skarga przysługuje Dealerowi w następujących przypadkach:
 
-1.  1.  rzekomego niewywiązywania się przez Grupę OLX z obowiązków wynikających z Regulaminu oraz Rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/1150 z dnia 20 czerwca 2019 r. w sprawie propagowania sprawiedliwości i przejrzystości dla użytkowników biznesowych korzystających z usług pośrednictwa internetowego;
-    2.  trudności technologicznych, dotyczących funkcjonowania Serwisu OTOMOTO i wpływających na możliwość wykorzystania oferowanych w nim usług przez Dealera;
-    3.  podejmowanych przez Grupę OLX środków w ramach Serwisu OTOMOTO, które wpływają na sytuację Dealera;
-    4.  blokady wybranej treści lub Konta Dealera zgodnie z punktem 7 Regulaminu.
+1. 1. rzekomego niewywiązywania się przez Grupę OLX z obowiązków wynikających z Regulaminu oraz Rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/1150 z dnia 20 czerwca 2019 r. w sprawie propagowania sprawiedliwości i przejrzystości dla użytkowników biznesowych korzystających z usług pośrednictwa internetowego;
+    2. trudności technologicznych, dotyczących funkcjonowania Serwisu OTOMOTO i wpływających na możliwość wykorzystania oferowanych w nim usług przez Dealera;
+    3. podejmowanych przez Grupę OLX środków w ramach Serwisu OTOMOTO, które wpływają na sytuację Dealera;
+    4. blokady wybranej treści lub Konta Dealera zgodnie z punktem 7 Regulaminu.
 
 2\. Skargę można złożyć za pośrednictwem funkcjonalności “Wyślij zlecenie” dostępnego w zakładce “Kontakt” Serwisu OTOMOTO lub pisemnie na adres Grupy OLX. Do skargi zgłaszający powinien w miarę możliwości podać dane lub informacje umożliwiające Grupie OLX dokonanie weryfikacji skargi, w tym w szczególności ID Ogłoszenia, wyjaśnienie powodów, dla których uznaje daną treść za bezprawną lub sprzeczną z Regulaminem oraz wedle jego wyboru, danych kontaktowych.
 
@@ -381,13 +381,13 @@ Brak aktywacji Ogłoszenia w ciągu 6 miesięcy od zakończenia jego emisji skut
 
 4\. Grupa OLX uprawniona jest do nieuwzględnienia danej oceny w średniej ocen Użytkownika lub usunięcia opinii w całości lub części, gdy ocena lub opinia
 
-1.  1.  odnosi się do Użytkownika innego niż oceniany,
-    2.  jest wystawiona przez Użytkownika dla samego siebie,
-    3.  wystawiona jest przez pracowników, krewnych i powinowatych Użytkownika,
-    4.  wystawiona jest wskutek nawiązania z Użytkownikiem kontaktu jedynie w celu wystawienia oceny (np. aby sztucznie zawyżyć lub zaniżyć wiarygodność Użytkownika),
-    5.  jej wystawienie związane jest z Kontem utworzonym na podstawie tymczasowego adresu e-mail,
-    6.  została wystawiona w sposób wskazujący na zautomatyzowanie wystawienia lub za pomocą rozwiązań pozwalających na uniknięcie analizy ruchu sieciowego,
-    7.  narusza w inny sposób Regulamin.
+1. 1. odnosi się do Użytkownika innego niż oceniany,
+    2. jest wystawiona przez Użytkownika dla samego siebie,
+    3. wystawiona jest przez pracowników, krewnych i powinowatych Użytkownika,
+    4. wystawiona jest wskutek nawiązania z Użytkownikiem kontaktu jedynie w celu wystawienia oceny (np. aby sztucznie zawyżyć lub zaniżyć wiarygodność Użytkownika),
+    5. jej wystawienie związane jest z Kontem utworzonym na podstawie tymczasowego adresu e-mail,
+    6. została wystawiona w sposób wskazujący na zautomatyzowanie wystawienia lub za pomocą rozwiązań pozwalających na uniknięcie analizy ruchu sieciowego,
+    7. narusza w inny sposób Regulamin.
 
 **14\. Czas trwania umowy i jej rozwiązanie**
 
@@ -411,8 +411,8 @@ Brak aktywacji Ogłoszenia w ciągu 6 miesięcy od zakończenia jego emisji skut
 
 3\. Grupa OLX może wprowadzić zmianę Regulaminu bez zachowania 15-dniowego terminu, o którym mowa powyżej, w tym ze skutkiem natychmiastowym, w przypadku, gdy:
 
-1.  1.  podlega obowiązkowi prawnemu lub regulacyjnemu, na podstawie którego zobowiązana jest do zmiany Regulaminu w sposób, który uniemożliwia jej dotrzymanie wyżej wymienionego 15-dniowego okresu powiadomienia,
-    2.  musi w drodze wyjątku zmienić Regulamin, aby przeciwdziałać nieprzewidzianemu i bezpośredniemu zagrożeniu związanemu z ochroną usług pośrednictwa internetowego, Dealerów przed oszustwami, złośliwym oprogramowaniem, spamem, naruszeniem danych lub innymi zagrożeniami dla cyberbezpieczeństwa.
+1. 1. podlega obowiązkowi prawnemu lub regulacyjnemu, na podstawie którego zobowiązana jest do zmiany Regulaminu w sposób, który uniemożliwia jej dotrzymanie wyżej wymienionego 15-dniowego okresu powiadomienia,
+    2. musi w drodze wyjątku zmienić Regulamin, aby przeciwdziałać nieprzewidzianemu i bezpośredniemu zagrożeniu związanemu z ochroną usług pośrednictwa internetowego, Dealerów przed oszustwami, złośliwym oprogramowaniem, spamem, naruszeniem danych lub innymi zagrożeniami dla cyberbezpieczeństwa.
 
 4\. Dealer przy pierwszym logowaniu w Serwisie OTOMOTO, licząc od chwili wejścia w życie zmiany Regulaminu, zostanie powiadomiony o takich zmianach i o możliwości ich akceptacji. Za akceptację zmian uważa się także automatyczne zlecenie przez Dealera wykonania usługi w Serwisie OTOMOTO choćby odbyło się bez logowania Dealera.
 
@@ -446,9 +446,9 @@ Załącznik nr 4 Środki na OTOMOTO
 
 Cena ostateczna za wystawienie ogłoszenia uzależniona jest od:
 
-*   Przedziału wystawień,
-*   wybranego Pakietu,
-*   Opłaty Progowej (w kategoriach Osobowe, Dostawcze, Rolnicze, Ciężarowe, Budowlane i Przyczepy).
+* Przedziału wystawień,
+* wybranego Pakietu,
+* Opłaty Progowej (w kategoriach Osobowe, Dostawcze, Rolnicze, Ciężarowe, Budowlane i Przyczepy).
 
 Cennik wystawień w kategoriach: Osobowe, Dostawcze (podane kwoty są cenami Netto)
 
@@ -731,35 +731,35 @@ Cennik usługi Wyróżniony Dealer (kategoria: Osobowe):
 | Pakiet 20 000 wyświetleń | Pakiet 50 000 wyświetleń | Pakiet 100 000 wyświetleń |
 | 400 PLN | 750 PLN | 1200 PLN |
 
-1.  Podane ceny są cenami netto.
-2.  Cena za pakiet zostaje doliczona do faktury VAT wystawianej przez Grupę OLX zgodnie z pkt 8 Regulaminu za miesiąc, w którym pakiet został aktywowany.
-3.  Pakiet jest aktywowany po opłaceniu usługi przez Dealera i pozostaje aktywny do czasu osiągnięcia przez daną kampanię reklamową maksymalnej liczby wyświetleń określonej w danym pakiecie, nie dłużej jednak niż przez okres 90 dni od dnia aktywacji pakietu. Po tym okresie pakiet przestaje być aktywny.
-4.  Ponowne uruchomienie usługi Wyróżniony Dealer po upływie okresu, o którym mowa w pkt 3 powyżej, wymaga zakupu nowego pakietu.
-5.  Grupa OLX nie ponosi odpowiedzialności za skuteczność usługi Wyróżniony Dealer rozumianą jako rzeczywista liczba wyświetleń kampanii reklamowej, rzeczywiste zwiększenie zainteresowania Ogłoszeniami Dealera lub Przedmiotami Ogłoszeń oferowanymi przez Dealera.
+1. Podane ceny są cenami netto.
+2. Cena za pakiet zostaje doliczona do faktury VAT wystawianej przez Grupę OLX zgodnie z pkt 8 Regulaminu za miesiąc, w którym pakiet został aktywowany.
+3. Pakiet jest aktywowany po opłaceniu usługi przez Dealera i pozostaje aktywny do czasu osiągnięcia przez daną kampanię reklamową maksymalnej liczby wyświetleń określonej w danym pakiecie, nie dłużej jednak niż przez okres 90 dni od dnia aktywacji pakietu. Po tym okresie pakiet przestaje być aktywny.
+4. Ponowne uruchomienie usługi Wyróżniony Dealer po upływie okresu, o którym mowa w pkt 3 powyżej, wymaga zakupu nowego pakietu.
+5. Grupa OLX nie ponosi odpowiedzialności za skuteczność usługi Wyróżniony Dealer rozumianą jako rzeczywista liczba wyświetleń kampanii reklamowej, rzeczywiste zwiększenie zainteresowania Ogłoszeniami Dealera lub Przedmiotami Ogłoszeń oferowanymi przez Dealera.
 
 **Załącznik nr 2 Usługi Promowania Ogłoszeń**
 
-1.  Serwis OTOMOTO umożliwia Dealerowi skorzystanie z następujących, dodatkowo płatnych Usług Promowania Ogłoszeń:  
+1. Serwis OTOMOTO umożliwia Dealerowi skorzystanie z następujących, dodatkowo płatnych Usług Promowania Ogłoszeń:  
       
-    1.  Wyróżnienie na górze listy wyników
-    2.  Wyświetlenie na stronie głównej
-    3.  Oferta Dnia na stronie głównej
-    4.  Publikacja ogłoszeń w Serwisie Olx.pl
-    5.  Publikacja ogłoszeń w Serwisie Olx.ua
-    6.  Promowanie ogłoszeń w Serwisie Olx.pl
-    7.  Podbicie
-2.  Pojedyncza aktywacja każdej z usług opisanych w punkcie 1. powyżej dotyczy jednego, wybranego przez Dealera Ogłoszenia.
-3.  Usługa Wyróżnienie na górze listy wyników powoduje, że objęte nią Ogłoszenie wyświetlane jest na liście wyników wyszukiwania przed wszystkimi innymi Ogłoszeniami, które nie są promowane w ten sposób. Usługa widoczna wyłącznie dla Użytkowników przeglądających listę wyników wyszukiwania wg wyboru sortowania domyślnego od "wyróżnionych”. Użytkownik przeglądający listę wyników wyszukiwania w każdym momencie może samodzielnie zmienić kryterium sortowania listy. Ogłoszenia z aktywną usługą Promowania na początku listy są dodatkowo oznaczone niebieskim paskiem "Wyróżnione".
-4.  Usługa Wyświetlenie na stronie głównej powoduje, że objęte nią Ogłoszenie umieszczone jest na stronie głównej Serwisu OTOMOTO, przy czym wybór Ogłoszeń odbywa się w drodze automatycznych losowań. Każde Ogłoszenie może zostać wylosowane wielokrotnie, jednakże pierwszeństwo mają Ogłoszenia, które dotychczas wylosowywano najrzadziej.
-5.  Usługa Oferta Dnia na stronie głównej powoduje, że objęte nią Ogłoszenie umieszczone jest na 1 dzień, na stronie głównej Serwisu OTOMOTO w boksie Oferta Dnia, przy czym wybór Ogłoszeń odbywa się w drodze automatycznych losowań. Każde Ogłoszenie może zostać wylosowane wielokrotnie, jednakże pierwszeństwo mają Ogłoszenia, które dotychczas wylosowywano najrzadziej.
-6.  Usługa Publikacja ogłoszenia w OLX powoduje, że objęte nią Ogłoszenie publikowane jest w Serwisie Olx.pl. Natomiast usługa Publikacji ogłoszenia w OLX.ua powoduje, że objęte nią Ogłoszenie publikowane jest również w Serwisie Olx.ua.
-7.  Usługa Promowanie ogłoszeń w OLX umożliwia Partnerowi odpłatne promowania w Serwisie Olx.pl objętych nią Ogłoszeń. Aktualnie dostępne sposoby promowania Ogłoszeń w Serwisie Olx.pl oraz ich cena określone są w poniższym cenniku.
-8.  Usługa Podbicie powoduje, że objęte nią Ogłoszenie wyświetlane jest na liście wyników wyszukiwania na takiej samej pozycji, na jakiej byłoby wyświetlane w chwili dodania Ogłoszenia w Serwisie OTOMOTO w standardowym trybie, przy czym Użytkownik przeglądający listę wyników wyszukiwania Ogłoszeń może następnie samodzielnie zmienić kryterium wyświetlania przedmiotowej listy.
-9.  Usługi Promowania są również dostępne w pakietach tych usług, Aktywacja pakietu Usług Promowania Ogłoszeń następuje wraz z rozpoczęciem korzystania z Usług Promowania Ogłoszeń wchodzących w skład pakietu. Zasady dotyczące Usług Promowania Ogłoszeń objętych pakietem pozostają bez zmian.
-10.  Usługi Promowania Ogłoszeń oraz ich pakiety są realizowane względem pojedynczego Ogłoszenia, tj. nie jest możliwe wykorzystanie pakietu Usług Promowania Ogłoszeń do różnych Ogłoszeń.
-11.  Treść Ogłoszenia prezentowanego w serwisach, o których mowa w punkcie 14.1. Regulaminu, powinna być zgodna z zasadami wyrażonymi w regulaminach świadczenia usług w tych serwisach.
-12.  W celu skorzystania z oferowanych Usług Promowania Ogłoszeń, Dealer samodzielnie dokonuje aktywacji w Serwisie OTOMOTO wybranych przez siebie usług.
-13.  Dana Usługa Promowania Ogłoszenia w Serwisie OTOMOTO oraz w serwisach partnerskich rozpoczyna się nie później, niż w ciągu 2 godzin od chwili aktywacji wybranej usługi.
+    1. Wyróżnienie na górze listy wyników
+    2. Wyświetlenie na stronie głównej
+    3. Oferta Dnia na stronie głównej
+    4. Publikacja ogłoszeń w Serwisie Olx.pl
+    5. Publikacja ogłoszeń w Serwisie Olx.ua
+    6. Promowanie ogłoszeń w Serwisie Olx.pl
+    7. Podbicie
+2. Pojedyncza aktywacja każdej z usług opisanych w punkcie 1. powyżej dotyczy jednego, wybranego przez Dealera Ogłoszenia.
+3. Usługa Wyróżnienie na górze listy wyników powoduje, że objęte nią Ogłoszenie wyświetlane jest na liście wyników wyszukiwania przed wszystkimi innymi Ogłoszeniami, które nie są promowane w ten sposób. Usługa widoczna wyłącznie dla Użytkowników przeglądających listę wyników wyszukiwania wg wyboru sortowania domyślnego od "wyróżnionych”. Użytkownik przeglądający listę wyników wyszukiwania w każdym momencie może samodzielnie zmienić kryterium sortowania listy. Ogłoszenia z aktywną usługą Promowania na początku listy są dodatkowo oznaczone niebieskim paskiem "Wyróżnione".
+4. Usługa Wyświetlenie na stronie głównej powoduje, że objęte nią Ogłoszenie umieszczone jest na stronie głównej Serwisu OTOMOTO, przy czym wybór Ogłoszeń odbywa się w drodze automatycznych losowań. Każde Ogłoszenie może zostać wylosowane wielokrotnie, jednakże pierwszeństwo mają Ogłoszenia, które dotychczas wylosowywano najrzadziej.
+5. Usługa Oferta Dnia na stronie głównej powoduje, że objęte nią Ogłoszenie umieszczone jest na 1 dzień, na stronie głównej Serwisu OTOMOTO w boksie Oferta Dnia, przy czym wybór Ogłoszeń odbywa się w drodze automatycznych losowań. Każde Ogłoszenie może zostać wylosowane wielokrotnie, jednakże pierwszeństwo mają Ogłoszenia, które dotychczas wylosowywano najrzadziej.
+6. Usługa Publikacja ogłoszenia w OLX powoduje, że objęte nią Ogłoszenie publikowane jest w Serwisie Olx.pl. Natomiast usługa Publikacji ogłoszenia w OLX.ua powoduje, że objęte nią Ogłoszenie publikowane jest również w Serwisie Olx.ua.
+7. Usługa Promowanie ogłoszeń w OLX umożliwia Partnerowi odpłatne promowania w Serwisie Olx.pl objętych nią Ogłoszeń. Aktualnie dostępne sposoby promowania Ogłoszeń w Serwisie Olx.pl oraz ich cena określone są w poniższym cenniku.
+8. Usługa Podbicie powoduje, że objęte nią Ogłoszenie wyświetlane jest na liście wyników wyszukiwania na takiej samej pozycji, na jakiej byłoby wyświetlane w chwili dodania Ogłoszenia w Serwisie OTOMOTO w standardowym trybie, przy czym Użytkownik przeglądający listę wyników wyszukiwania Ogłoszeń może następnie samodzielnie zmienić kryterium wyświetlania przedmiotowej listy.
+9. Usługi Promowania są również dostępne w pakietach tych usług, Aktywacja pakietu Usług Promowania Ogłoszeń następuje wraz z rozpoczęciem korzystania z Usług Promowania Ogłoszeń wchodzących w skład pakietu. Zasady dotyczące Usług Promowania Ogłoszeń objętych pakietem pozostają bez zmian.
+10. Usługi Promowania Ogłoszeń oraz ich pakiety są realizowane względem pojedynczego Ogłoszenia, tj. nie jest możliwe wykorzystanie pakietu Usług Promowania Ogłoszeń do różnych Ogłoszeń.
+11. Treść Ogłoszenia prezentowanego w serwisach, o których mowa w punkcie 14.1. Regulaminu, powinna być zgodna z zasadami wyrażonymi w regulaminach świadczenia usług w tych serwisach.
+12. W celu skorzystania z oferowanych Usług Promowania Ogłoszeń, Dealer samodzielnie dokonuje aktywacji w Serwisie OTOMOTO wybranych przez siebie usług.
+13. Dana Usługa Promowania Ogłoszenia w Serwisie OTOMOTO oraz w serwisach partnerskich rozpoczyna się nie później, niż w ciągu 2 godzin od chwili aktywacji wybranej usługi.
 
 Dodatkowe wyróżnienia w OTOMOTO dla wszystkich kategorii z wyłączeniem Części (podane ceny są cenami netto) :
 
@@ -927,10 +927,10 @@ Dostępne wyróżnienia w OLX dla kategorii Części (podane ceny są cenami net
 
 **Załącznik nr 3 Usługa Pakietów Automatycznych Podbić**
 
-1.  Usługa Pakietów Automatycznych Podbić umożliwia wybór jednego z trzech dostępnych pakietów: Pakiet 3 podbić, Pakiet 5 podbić, Pakiet 7 podbić.
-2.  Dealer ma możliwość aktywowania pakietu tylko i wyłącznie dla konkretnego Ogłoszenia, a nie konta Dealera.
-3.  Aktywacja przez Dealera wybranego Pakietu Automatycznego Podbicia dla Ogłoszenia o konkretnej godzinie, skutkuje Podbiciem każdego kolejnego dnia o tej samej godzinie, w której nastąpił zakup Pakietu Automatycznego Podbicia, przy czym pierwsze podbicie następuje wraz z jego aktywacją.
-4.  Wysokość opłat za pakiety Automatycznych Podbić (ceny netto):
+1. Usługa Pakietów Automatycznych Podbić umożliwia wybór jednego z trzech dostępnych pakietów: Pakiet 3 podbić, Pakiet 5 podbić, Pakiet 7 podbić.
+2. Dealer ma możliwość aktywowania pakietu tylko i wyłącznie dla konkretnego Ogłoszenia, a nie konta Dealera.
+3. Aktywacja przez Dealera wybranego Pakietu Automatycznego Podbicia dla Ogłoszenia o konkretnej godzinie, skutkuje Podbiciem każdego kolejnego dnia o tej samej godzinie, w której nastąpił zakup Pakietu Automatycznego Podbicia, przy czym pierwsze podbicie następuje wraz z jego aktywacją.
+4. Wysokość opłat za pakiety Automatycznych Podbić (ceny netto):
 
 Pakiety podbić w OTOMOTO dla wszystkich kategorii z wyłączeniem Części:
 
@@ -948,13 +948,13 @@ Pakiety podbić w OTOMOTO dla kategorii Części:
 
 **Załącznik nr 4 Środki na OTOMOTO**
 
-1.  W ramach Serwisu OTOMOTO Dealerzy mają możliwość dokonania przedpłat tytułem korzystania z usług promowań w Serwisie OTOMOTO zgodnych z Załącznikiem nr 2, na zasadach określonych w niniejszym Załączniku.
-2.  Wszystkie środki wpłacane przez Dealera tytułem przedpłaty na korzystanie z usług Serwisu OTOMOTO są automatycznie zamieniane na punkty. Punkty stają się środkiem płatniczym za usługi Serwisu OTOMOTO, w taki sposób, że 1 punktowi odpowiada wartość 1 PLN.
-3.  Punkty gromadzone są na prowadzonym przez Grupę OLX koncie Dealera i są dostępne jako metoda płatności, podczas dokonywania zamawiania usług w ramach Serwisu OTOMOTO.
-4.  Punkty nie podlegają zwrotnej wymianie na gotówkę, chyba, że przepisy prawa bądź regulacje Serwisu OTOMOTO stanowią inaczej.
-5.  Kwota jednorazowo dokonanej przedpłaty wynosi nie mniej niż 50 (pięćdziesiąt) i nie więcej niż 3000 (trzy tysiące) PLN. Dokumentem potwierdzającym dokonanie przedpłaty jest nota księgowa, którą Dealer może pobrać po zalogowaniu do Serwisu OTOMOTO
-6.  W przypadku dokonania przedpłaty tytułem korzystania z usług OTOMOTO Dealer może uzyskać bonus w postaci dodatkowych punktów na zasadach określonych w pkt 7.
-7.  Wysokość bonusu jest ustalana jako określona część przedpłaty i każdorazowo zależy od wysokości wpłaty według poniższej tabeli:
+1. W ramach Serwisu OTOMOTO Dealerzy mają możliwość dokonania przedpłat tytułem korzystania z usług promowań w Serwisie OTOMOTO zgodnych z Załącznikiem nr 2, na zasadach określonych w niniejszym Załączniku.
+2. Wszystkie środki wpłacane przez Dealera tytułem przedpłaty na korzystanie z usług Serwisu OTOMOTO są automatycznie zamieniane na punkty. Punkty stają się środkiem płatniczym za usługi Serwisu OTOMOTO, w taki sposób, że 1 punktowi odpowiada wartość 1 PLN.
+3. Punkty gromadzone są na prowadzonym przez Grupę OLX koncie Dealera i są dostępne jako metoda płatności, podczas dokonywania zamawiania usług w ramach Serwisu OTOMOTO.
+4. Punkty nie podlegają zwrotnej wymianie na gotówkę, chyba, że przepisy prawa bądź regulacje Serwisu OTOMOTO stanowią inaczej.
+5. Kwota jednorazowo dokonanej przedpłaty wynosi nie mniej niż 50 (pięćdziesiąt) i nie więcej niż 3000 (trzy tysiące) PLN. Dokumentem potwierdzającym dokonanie przedpłaty jest nota księgowa, którą Dealer może pobrać po zalogowaniu do Serwisu OTOMOTO
+6. W przypadku dokonania przedpłaty tytułem korzystania z usług OTOMOTO Dealer może uzyskać bonus w postaci dodatkowych punktów na zasadach określonych w pkt 7.
+7. Wysokość bonusu jest ustalana jako określona część przedpłaty i każdorazowo zależy od wysokości wpłaty według poniższej tabeli:
 
 |     |     |
 | --- | --- |
@@ -964,13 +964,13 @@ Pakiety podbić w OTOMOTO dla kategorii Części:
 | 300 - 499 PLN | 10% wpłaconej kwoty |
 | 500 - 3000 PLN | 15% wpłaconej kwoty |
 
-8.  Punkty wygasają jeśli Ogłoszeniodawca nie wykorzysta ich w terminie 60 dni od dnia dokonania ostatniej przedpłaty, co oznacza, że każda przedpłata dokonywana przez Ogłoszeniodawcę przedłuża okres ważności punktów o 60 dni.
-9.  W przypadku usunięcia Ogłoszenia z powodu niezgodności z Regulaminem, Ogłoszeniodawca otrzymuje zwrot poniesionych opłat za usługi, o których mowa w punkcie 5.1 Regulaminu oraz punktach 1.1-4 Załącznika nr 2. Zwrot następuje w postaci zasilenia konta Ogłoszeniodawcy punktami w wysokości opłaty proporcjonalnie obniżonej o czas wykonywania usługi.
-10.  Zasilenie konta Ogłoszeniodawcy punktami, o których mowa w punkcie 9, nie zmienia terminu ważności punktów zgromadzonych na koncie, z zastrzeżeniem, że punkty zgromadzone na koncie Ogłoszeniodawcy nie mogą wygasnąć przed upływem 30 dni od daty zasilenia, o którym mowa w niniejszym punkcie.
+8. Punkty wygasają jeśli Ogłoszeniodawca nie wykorzysta ich w terminie 60 dni od dnia dokonania ostatniej przedpłaty, co oznacza, że każda przedpłata dokonywana przez Ogłoszeniodawcę przedłuża okres ważności punktów o 60 dni.
+9. W przypadku usunięcia Ogłoszenia z powodu niezgodności z Regulaminem, Ogłoszeniodawca otrzymuje zwrot poniesionych opłat za usługi, o których mowa w punkcie 5.1 Regulaminu oraz punktach 1.1-4 Załącznika nr 2. Zwrot następuje w postaci zasilenia konta Ogłoszeniodawcy punktami w wysokości opłaty proporcjonalnie obniżonej o czas wykonywania usługi.
+10. Zasilenie konta Ogłoszeniodawcy punktami, o których mowa w punkcie 9, nie zmienia terminu ważności punktów zgromadzonych na koncie, z zastrzeżeniem, że punkty zgromadzone na koncie Ogłoszeniodawcy nie mogą wygasnąć przed upływem 30 dni od daty zasilenia, o którym mowa w niniejszym punkcie.
 
-*   [](https://www.facebook.com/share.php?title=Regulamin+dla+Klient%C3%B3w+Biznesowych&u=https%3A%2F%2Fpomoc.otomoto.pl%2Fhc%2Fpl%2Farticles%2F360005056953-Regulamin-dla-Klient%25C3%25B3w-Biznesowych)
-*   [](https://twitter.com/share?lang=pl&text=Regulamin+dla+Klient%C3%B3w+Biznesowych&url=https%3A%2F%2Fpomoc.otomoto.pl%2Fhc%2Fpl%2Farticles%2F360005056953-Regulamin-dla-Klient%25C3%25B3w-Biznesowych)
-*   [](https://www.linkedin.com/shareArticle?mini=true&source=OTOMOTO&title=Regulamin+dla+Klient%C3%B3w+Biznesowych&url=https%3A%2F%2Fpomoc.otomoto.pl%2Fhc%2Fpl%2Farticles%2F360005056953-Regulamin-dla-Klient%25C3%25B3w-Biznesowych)
+* [](https://www.facebook.com/share.php?title=Regulamin+dla+Klient%C3%B3w+Biznesowych&u=https%3A%2F%2Fpomoc.otomoto.pl%2Fhc%2Fpl%2Farticles%2F360005056953-Regulamin-dla-Klient%25C3%25B3w-Biznesowych)
+* [](https://twitter.com/share?lang=pl&text=Regulamin+dla+Klient%C3%B3w+Biznesowych&url=https%3A%2F%2Fpomoc.otomoto.pl%2Fhc%2Fpl%2Farticles%2F360005056953-Regulamin-dla-Klient%25C3%25B3w-Biznesowych)
+* [](https://www.linkedin.com/shareArticle?mini=true&source=OTOMOTO&title=Regulamin+dla+Klient%C3%B3w+Biznesowych&url=https%3A%2F%2Fpomoc.otomoto.pl%2Fhc%2Fpl%2Farticles%2F360005056953-Regulamin-dla-Klient%25C3%25B3w-Biznesowych)
 
 Czy ten artykuł był pomocny?
 
@@ -980,16 +980,16 @@ Liczba użytkowników, którzy uważają ten artykuł za przydatny: 3 z 4
 
 ### Jeżeli nie znalazłeś(aś) odpowiedzi na pytanie:
 
-*   ![](//theme.zdassets.com/theme_assets/517497/a5b2f21af537ebe14620b670ea9b950dc6080d96.svg)
+* ![](//theme.zdassets.com/theme_assets/517497/a5b2f21af537ebe14620b670ea9b950dc6080d96.svg)
     
     [Napisz do nas](https://pomoc.otomoto.pl/hc/pl/requests/new?ticket_form_id=70373)
     
-*   ![](//theme.zdassets.com/theme_assets/517497/8d8ad1d29b7c8a3bcdb770dd0ebda06fc5659c76.svg)
+* ![](//theme.zdassets.com/theme_assets/517497/8d8ad1d29b7c8a3bcdb770dd0ebda06fc5659c76.svg)
     
     Czat
     
 
-*   ![](//theme.zdassets.com/theme_assets/517497/0f055e052a8d80a0d6eaf0a386616364ae3e164d.svg)
+* ![](//theme.zdassets.com/theme_assets/517497/0f055e052a8d80a0d6eaf0a386616364ae3e164d.svg)
     
     [Kontakt telefoniczny](tel:+48618803221 "+48618803221")
     
@@ -1011,8 +1011,8 @@ Obsługa mailowa: 08:00 - 18:00
 Powiązane artykuły
 ------------------
 
-*   [Cennik dla Klientów Biznesowych](https://pomoc.otomoto.pl/hc/pl/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGkE06BUDDoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCLk5%2BdFTADoLbG9jYWxlSSIHcGwGOgZFVDoIdXJsSSJDL2hjL3BsL2FydGljbGVzLzIwNjg3Mjc4Ny1DZW5uaWstZGxhLUtsaWVudCVDMyVCM3ctQml6bmVzb3d5Y2gGOwhUOglyYW5raQY%3D--e1daa6eb29b87cfdaf49c1ccd899be924033695d)
-*   [Regulamin dla Klientów Indywidualnych](https://pomoc.otomoto.pl/hc/pl/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCJEX6dFTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCLk5%2BdFTADoLbG9jYWxlSSIHcGwGOgZFVDoIdXJsSSJML2hjL3BsL2FydGljbGVzLzM2MDAwMzk5OTYzMy1SZWd1bGFtaW4tZGxhLUtsaWVudCVDMyVCM3ctSW5keXdpZHVhbG55Y2gGOwhUOglyYW5raQc%3D--bd9126131ac90c83ca72b6227a6a55d47047e059)
-*   [Cennik dla Klientów Indywidualnych](https://pomoc.otomoto.pl/hc/pl/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGkEE0LmDDoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCLk5%2BdFTADoLbG9jYWxlSSIHcGwGOgZFVDoIdXJsSSJGL2hjL3BsL2FydGljbGVzLzIxNjQxNjc4Ny1DZW5uaWstZGxhLUtsaWVudCVDMyVCM3ctSW5keXdpZHVhbG55Y2gGOwhUOglyYW5raQg%3D--0e7a37bab53b6dcd7e45b032cf0d365a2b4da7a6)
-*   [Polityka prywatności](https://pomoc.otomoto.pl/hc/pl/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCNqK7NFTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCLk5%2BdFTADoLbG9jYWxlSSIHcGwGOgZFVDoIdXJsSSI7L2hjL3BsL2FydGljbGVzLzM2MDAwNDIyNTc1NC1Qb2xpdHlrYS1wcnl3YXRubyVDNSU5QmNpBjsIVDoJcmFua2kJ--637009d0f7f23a62d533d4345e52bf2185530f84)
-*   [01.09.2020 - zmiana Regulaminu dla Klientów Biznesowych](https://pomoc.otomoto.pl/hc/pl/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCFq5x9RTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCLk5%2BdFTADoLbG9jYWxlSSIHcGwGOgZFVDoIdXJsSSJcL2hjL3BsL2FydGljbGVzLzM2MDA1MjE0NDQ3NC0wMS0wOS0yMDIwLXptaWFuYS1SZWd1bGFtaW51LWRsYS1LbGllbnQlQzMlQjN3LUJpem5lc293eWNoBjsIVDoJcmFua2kK--e0d885e47c35731cf5ec2f6145f2127a84bdbfa9)
+* [Cennik dla Klientów Biznesowych](https://pomoc.otomoto.pl/hc/pl/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGkE06BUDDoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCLk5%2BdFTADoLbG9jYWxlSSIHcGwGOgZFVDoIdXJsSSJDL2hjL3BsL2FydGljbGVzLzIwNjg3Mjc4Ny1DZW5uaWstZGxhLUtsaWVudCVDMyVCM3ctQml6bmVzb3d5Y2gGOwhUOglyYW5raQY%3D--e1daa6eb29b87cfdaf49c1ccd899be924033695d)
+* [Regulamin dla Klientów Indywidualnych](https://pomoc.otomoto.pl/hc/pl/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCJEX6dFTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCLk5%2BdFTADoLbG9jYWxlSSIHcGwGOgZFVDoIdXJsSSJML2hjL3BsL2FydGljbGVzLzM2MDAwMzk5OTYzMy1SZWd1bGFtaW4tZGxhLUtsaWVudCVDMyVCM3ctSW5keXdpZHVhbG55Y2gGOwhUOglyYW5raQc%3D--bd9126131ac90c83ca72b6227a6a55d47047e059)
+* [Cennik dla Klientów Indywidualnych](https://pomoc.otomoto.pl/hc/pl/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGkEE0LmDDoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCLk5%2BdFTADoLbG9jYWxlSSIHcGwGOgZFVDoIdXJsSSJGL2hjL3BsL2FydGljbGVzLzIxNjQxNjc4Ny1DZW5uaWstZGxhLUtsaWVudCVDMyVCM3ctSW5keXdpZHVhbG55Y2gGOwhUOglyYW5raQg%3D--0e7a37bab53b6dcd7e45b032cf0d365a2b4da7a6)
+* [Polityka prywatności](https://pomoc.otomoto.pl/hc/pl/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCNqK7NFTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCLk5%2BdFTADoLbG9jYWxlSSIHcGwGOgZFVDoIdXJsSSI7L2hjL3BsL2FydGljbGVzLzM2MDAwNDIyNTc1NC1Qb2xpdHlrYS1wcnl3YXRubyVDNSU5QmNpBjsIVDoJcmFua2kJ--637009d0f7f23a62d533d4345e52bf2185530f84)
+* [01.09.2020 - zmiana Regulaminu dla Klientów Biznesowych](https://pomoc.otomoto.pl/hc/pl/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCFq5x9RTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCLk5%2BdFTADoLbG9jYWxlSSIHcGwGOgZFVDoIdXJsSSJcL2hjL3BsL2FydGljbGVzLzM2MDA1MjE0NDQ3NC0wMS0wOS0yMDIwLXptaWFuYS1SZWd1bGFtaW51LWRsYS1LbGllbnQlQzMlQjN3LUJpem5lc293eWNoBjsIVDoJcmFua2kK--e0d885e47c35731cf5ec2f6145f2127a84bdbfa9)
