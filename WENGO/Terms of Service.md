@@ -13,22 +13,22 @@ Le présent document contractuel (le « Règlement Intérieur ») définit les d
 
 Il se décompose en trois parties :
 
-*   I. Conditions communes applicables à tous les Participants
-*   II. Conditions particulières applicables aux Conseillers
-*   III. Conditions particulières applicables aux Utilisateurs
+* I. Conditions communes applicables à tous les Participants
+* II. Conditions particulières applicables aux Conseillers
+* III. Conditions particulières applicables aux Utilisateurs
 
 Les règlements associés (les « Règlements Associés ») sont les documents contractuels suivants :
 
-*   [Conditions d'utilisation des Outils](https://www.wengo.fr/a-propos/cgu/tools-terms-of-use)
-*   [Charte sur la Protection des Données Personnelles](https://www.wengo.fr/a-propos/cgu/data-protection-rules)
-*   [Conditions Tarifaires et Modalités de Paiement](https://www.wengo.fr/a-propos/cgu/pricing-and-payment-terms)
-*   [Les Termes et Conditions de notre Partenaire de Paiement Adyen](https://www.adyen.com/legal/terms-and-conditions-adyen-for-platforms-fr) ;
-*   [Charte de modération](https://www.wengo.fr/a-propos/cgu/moderation-charter)
-*   [Règlement des litiges](https://www.wengo.fr/a-propos/cgu/dispute-settlement)
-*   [Charte voyance](https://www.wengo.fr/a-propos/cgu/clairvoyance-charter)
-*   [Charte parentale](https://www.wengo.fr/a-propos/cgu/parental-charter)
-*   [Charte applicable aux Prestations dans le domaine de la santé](https://www.wengo.fr/a-propos/cgu/healthcare-services-charter)
-*   [Charte applicable aux Prestations Juridiques en Ligne](https://www.wengo.fr/a-propos/cgu/legal-services-online-charter)
+* [Conditions d'utilisation des Outils](https://www.wengo.fr/a-propos/cgu/tools-terms-of-use)
+* [Charte sur la Protection des Données Personnelles](https://www.wengo.fr/a-propos/cgu/data-protection-rules)
+* [Conditions Tarifaires et Modalités de Paiement](https://www.wengo.fr/a-propos/cgu/pricing-and-payment-terms)
+* [Les Termes et Conditions de notre Partenaire de Paiement Adyen](https://www.adyen.com/legal/terms-and-conditions-adyen-for-platforms-fr) ;
+* [Charte de modération](https://www.wengo.fr/a-propos/cgu/moderation-charter)
+* [Règlement des litiges](https://www.wengo.fr/a-propos/cgu/dispute-settlement)
+* [Charte voyance](https://www.wengo.fr/a-propos/cgu/clairvoyance-charter)
+* [Charte parentale](https://www.wengo.fr/a-propos/cgu/parental-charter)
+* [Charte applicable aux Prestations dans le domaine de la santé](https://www.wengo.fr/a-propos/cgu/healthcare-services-charter)
+* [Charte applicable aux Prestations Juridiques en Ligne](https://www.wengo.fr/a-propos/cgu/legal-services-online-charter)
 
 En cliquant sur le bouton « J'accepte », le Participant confirme accepter l'ensemble des documents contractuels listés précédemment, à savoir le Règlement Intérieur et les Règlements Associés.
 
@@ -69,12 +69,12 @@ Sous réserve des dispositions des Conditions particulières applicables aux Con
 
 en tant que particulier :
 
-*   toute personne physique âgée d'au moins 18 ans jouissant de sa pleine capacité juridique conformément à la loi française pour son utilisation personnelle ;
-*   toute personne physique afin d'autoriser l'utilisation de WENGO par un mineur sur laquelle elle détient l'autorité parentale et après avoir pris connaissance et accepté la Charte Parentale ;
+* toute personne physique âgée d'au moins 18 ans jouissant de sa pleine capacité juridique conformément à la loi française pour son utilisation personnelle ;
+* toute personne physique afin d'autoriser l'utilisation de WENGO par un mineur sur laquelle elle détient l'autorité parentale et après avoir pris connaissance et accepté la Charte Parentale ;
 
 en tant que professionnel :
 
-*   toute personne disposant d'un numéro de TVA intracommunautaire.
+* toute personne disposant d'un numéro de TVA intracommunautaire.
 
 L'enregistrement préalable sur la Plateforme (« Enregistrement ») est obligatoire avant toute utilisation de WENGO par le Participant. En effet, le Participant doit procéder à la création de son Compte Personnel au moyen du formulaire d'inscription disponible sur le Site ou par téléphone en contactant MyBestPro SAS. Le Participant s'engage à renseigner tous les champs obligatoires du formulaire et à communiquer à MyBestPro SAS des informations exactes, complètes et à jour afin de permettre à MyBestPro SAS de valider la création de son Compte Personnel.
 
@@ -86,8 +86,8 @@ En cas de fourniture d'informations erronées, incomplètes, mensongères ou pé
 
 MyBestPro SAS pourra, selon sa libre appréciation, mettre fin à la suspension ou autoriser un nouvel enregistrement du Participant dès rectification des informations erronées ou s'il s'avère que :
 
-1.  celles-ci n'ont pas eu de conséquences dommageables pour les autres Participants et/ou MyBestPro SAS et/ou,
-2.  lorsque le Participant en cause a agi de bonne foi sans volonté de dissimulation ou de fraude.
+1. celles-ci n'ont pas eu de conséquences dommageables pour les autres Participants et/ou MyBestPro SAS et/ou,
+2. lorsque le Participant en cause a agi de bonne foi sans volonté de dissimulation ou de fraude.
 
 A la création de son Compte Personnel, MyBestPro SAS attribue au Participant ses Codes Confidentiels.
 
@@ -107,10 +107,10 @@ MyBestPro SAS ne prend pas part contractuellement à la fourniture des Prestatio
 
 MyBestPro SAS n'exerce notamment pas de contrôle de manière systématique et n'assume aucune responsabilité en rapport avec :
 
-1.  la qualité, la conformité de l'offre à la loi ou l'adéquation des Prestations proposées par les Conseillers ;
-2.  la fiabilité, l'exactitude ou la licéité de toute information relative aux Prestations ou à l'identification des Participants ;
-3.  la qualification professionnelle des Conseillers (hormis les Conseillers exerçant la profession d'Avocat) ;
-4.  la solvabilité des Utilisateurs.
+1. la qualité, la conformité de l'offre à la loi ou l'adéquation des Prestations proposées par les Conseillers ;
+2. la fiabilité, l'exactitude ou la licéité de toute information relative aux Prestations ou à l'identification des Participants ;
+3. la qualification professionnelle des Conseillers (hormis les Conseillers exerçant la profession d'Avocat) ;
+4. la solvabilité des Utilisateurs.
 
 MyBestPro SAS prend la responsabilité technique du traitement du paiement sur la Plateforme.
 
@@ -134,10 +134,10 @@ Il est interdit au Participant :
 
 de violer ou tenter de violer la sécurité ou l'intégrité de la Plateforme et notamment de :
 
-1.  mettre en œuvre toute action qui serait susceptible de mettre en péril ou d'interférer avec le fonctionnement correct de la Plateforme ou toute Transaction intervenue sur la Plateforme,
-2.  mettre en œuvre toute action imposant un chargement déraisonnable ou d'une importance disproportionnée sur l'infrastructure de la Plateforme,
-3.  accéder, ou tenter d'accéder, à des données qui ne sont pas destinées à la visualisation par le Participant ou,
-4.  pénétrer, ou tenter de pénétrer, dans un serveur ou sur un compte auquel le Participant n'est pas autorisé à accéder ;
+1. mettre en œuvre toute action qui serait susceptible de mettre en péril ou d'interférer avec le fonctionnement correct de la Plateforme ou toute Transaction intervenue sur la Plateforme,
+2. mettre en œuvre toute action imposant un chargement déraisonnable ou d'une importance disproportionnée sur l'infrastructure de la Plateforme,
+3. accéder, ou tenter d'accéder, à des données qui ne sont pas destinées à la visualisation par le Participant ou,
+4. pénétrer, ou tenter de pénétrer, dans un serveur ou sur un compte auquel le Participant n'est pas autorisé à accéder ;
 
 de harceler, menacer, insulter ou de porter atteinte à la vie privée de tout autre Participant ou de diffuser des informations diffamatoires, injurieuses ou calomnieuses ;
 
@@ -195,11 +195,11 @@ Les avis publiés sur le Site ne doivent pas contenir de propos faisant l’apol
 
 Dès lors que le Conseiller considère l’un des avis comme diffamatoire, il doit en alerter le service client Wengo par écrit (par email ou par voie postale), en joignant les éléments suivants :
 
-*   une pièce d’identité à jour ;
-*   Notre dénomination et notre adresse (Wengo, MyBestPro 75 rue d'Amsterdam 75008 Paris) ;
-*   La description des faits litigieux et leur localisation précise (indiquez notamment les passages du commentaire qui vous semblent litigieux, la date à laquelle le commentaire a été posté, et le nom ou le pseudonyme de la personne l’ayant posté) ;
-*   Les motifs pour lesquels le contenu doit être retiré, comprenant la mention des dispositions légales et des justifications de faits ( par exemple: menace, chantage, diffamation etc.) ;
-*   La copie de la correspondance adressée à l’auteur du commentaire ou la justification du fait que vous n’avez pas pu le contacter.
+* une pièce d’identité à jour ;
+* Notre dénomination et notre adresse (Wengo, MyBestPro 75 rue d'Amsterdam 75008 Paris) ;
+* La description des faits litigieux et leur localisation précise (indiquez notamment les passages du commentaire qui vous semblent litigieux, la date à laquelle le commentaire a été posté, et le nom ou le pseudonyme de la personne l’ayant posté) ;
+* Les motifs pour lesquels le contenu doit être retiré, comprenant la mention des dispositions légales et des justifications de faits ( par exemple: menace, chantage, diffamation etc.) ;
+* La copie de la correspondance adressée à l’auteur du commentaire ou la justification du fait que vous n’avez pas pu le contacter.
 
 En tout état de cause, le contenu des avis ainsi laissés engage la pleine responsabilité de leurs auteurs.
 
@@ -284,13 +284,13 @@ II. Conditions particulières applicables aux conseillers
 
 MyBestPro SAS procède à la validation de l'enregistrement des Conseillers après avoir vérifié les informations fournies par chaque Conseiller. Parmi les informations demandées, figure un “KYC” qui permet de recueillir des informations destinées à notre Partenaire Adyen, prestataire de paiement. Ce KYC comprendra les informations suivantes :
 
-*   Pour les Conseillers agissant en qualité de Professionnel
+* Pour les Conseillers agissant en qualité de Professionnel
 
-*   Nom de la société, email, pays, nom et adresse du représentant de la personne morale, sa date de naissance, le numéro de sa carte d’identité, pays, adresse de la société, numéro de RCS ou siren, rib, numéro de téléphone, photographie d’identité et un relevé bancaire.
+* Nom de la société, email, pays, nom et adresse du représentant de la personne morale, sa date de naissance, le numéro de sa carte d’identité, pays, adresse de la société, numéro de RCS ou siren, rib, numéro de téléphone, photographie d’identité et un relevé bancaire.
 
-*   Pour les Conseillers n’agissant pas en qualité de professionnel
+* Pour les Conseillers n’agissant pas en qualité de professionnel
 
-*   Nom et prénom, email, pays, adresse, date de naissance, numéro de téléphone, Rib, le numéro de sa carte d’identité, photographie d’identité et relevé bancaire si nécessaire.
+* Nom et prénom, email, pays, adresse, date de naissance, numéro de téléphone, Rib, le numéro de sa carte d’identité, photographie d’identité et relevé bancaire si nécessaire.
 
 Ainsi, MyBestPro SAS se réserve pour sa part le droit de demander au Conseiller des informations complémentaires notamment les déclarations déposées par les Conseillers auprès d'autorités fiscales et sociales compte tenu des obligations des Conseillers selon les dispositions légales.
 
@@ -302,15 +302,15 @@ Il est donc recommandé aux Conseillers non commerçants de se rapprocher de ces
 
 WENGO se réserve le droit de procéder à la sélection des Conseillers et d'en limiter le nombre en fonction :
 
-*   de la demande des Utilisateurs,
-*   de la performance de la Plateforme,
-*   des contraintes techniques en lien avec l'administration de la Plateforme.
+* de la demande des Utilisateurs,
+* de la performance de la Plateforme,
+* des contraintes techniques en lien avec l'administration de la Plateforme.
 
 Chaque Conseiller peut ouvrir un compte Facebook qui sera alimenté par le contenu de sa fiche de présentation ainsi que par son blog disponible sur la Plateforme et d'autres éléments éventuellement. Chaque Conseiller s'engage à respecter les conditions générales applicables au réseau social Facebook.
 
 ### II.2. Obligations du Conseiller
 
-Toute Transaction réalisée par l'intermédiaire de la Plateforme est conclue directement entre le Conseiller et l'Utilisateur. Par conséquent, le Conseiller est seul responsable des termes du contrat qu'il conclut avec l'Utilisateur. A ce titre, le Conseiller s'engage à respecter les lois et les règlements en vigueur. Il s’engage à respecter notamment la liste des produits et services interdits ou restreints par notre Partenaire Adyen disponible [ici](https://docs.google.com/document/d/1SQ6nq0eJW_DP-NiDGbirUCFwIJ9HeOPNj7UoTnh8Pko/edit). 
+Toute Transaction réalisée par l'intermédiaire de la Plateforme est conclue directement entre le Conseiller et l'Utilisateur. Par conséquent, le Conseiller est seul responsable des termes du contrat qu'il conclut avec l'Utilisateur. A ce titre, le Conseiller s'engage à respecter les lois et les règlements en vigueur. Il s’engage à respecter notamment la liste des produits et services interdits ou restreints par notre Partenaire Adyen disponible [ici](https://docs.google.com/document/d/1SQ6nq0eJW_DP-NiDGbirUCFwIJ9HeOPNj7UoTnh8Pko/edit). 
 
 Il est interdit aux Conseillers de communiquer toute information trompeuse ou délibérément erronée, imprécise ou incomplète lors de la mise en ligne d'une offre de Prestations.
 
@@ -330,16 +330,16 @@ Si le Conseiller intervient en qualité de professionnel, il lui appartient de r
 
 En application notamment de l'article L. 111-1 et suivants et L. 221-5 et L.221-6 du Code de la consommation, le Conseiller professionnel est en outre dans l'obligation de tenir à disposition de l'Utilisateur au moyen d'un accès facile, direct et permanent les informations suivantes :
 
-*   s'il s'agit d'une personne physique, ses nom et prénom(s) et, s'il s'agit d'une personne morale, sa raison sociale, le statut et la forme juridique de l'entreprise, le cas échéant ;
-*   l'adresse où le Conseiller professionnel est établi ;
-*   si le Conseiller professionnel est assujetti aux formalités d'inscription au RCS ou au répertoire des métiers, le numéro de son inscription, son capital social et l'adresse de son siège social ;
-*   si le Conseiller professionnel est assujetti à la TVA et identifié par un numéro individuel en application de l'article 286 ter du Code général des impôts, son numéro individuel d'identification ;
-*   si son activité est soumise à un régime d'autorisation, le nom et l'adresse de l'autorité ayant délivré celle-ci ;
-*   si le Conseiller professionnel est membre d'une profession réglementée, ses diplômes, la référence aux règles professionnelles applicables, son titre professionnel, l'Etat membre dans lequel ce dernier a été octroyé ainsi que le nom de l'ordre ou de l'organisme professionnel auprès duquel il est inscrit,
-*   les modalités de paiement et d'exécution,
-*   l'absence d'un droit de rétractation au profit de l'Utilisateur,
-*   la durée de la validité de l'offre et du prix de celle-ci,
-*   le coût de l'utilisation de la technique de communication à distance utilisée lorsqu'il n'est pas calculé par référence au tarif de base.
+* s'il s'agit d'une personne physique, ses nom et prénom(s) et, s'il s'agit d'une personne morale, sa raison sociale, le statut et la forme juridique de l'entreprise, le cas échéant ;
+* l'adresse où le Conseiller professionnel est établi ;
+* si le Conseiller professionnel est assujetti aux formalités d'inscription au RCS ou au répertoire des métiers, le numéro de son inscription, son capital social et l'adresse de son siège social ;
+* si le Conseiller professionnel est assujetti à la TVA et identifié par un numéro individuel en application de l'article 286 ter du Code général des impôts, son numéro individuel d'identification ;
+* si son activité est soumise à un régime d'autorisation, le nom et l'adresse de l'autorité ayant délivré celle-ci ;
+* si le Conseiller professionnel est membre d'une profession réglementée, ses diplômes, la référence aux règles professionnelles applicables, son titre professionnel, l'Etat membre dans lequel ce dernier a été octroyé ainsi que le nom de l'ordre ou de l'organisme professionnel auprès duquel il est inscrit,
+* les modalités de paiement et d'exécution,
+* l'absence d'un droit de rétractation au profit de l'Utilisateur,
+* la durée de la validité de l'offre et du prix de celle-ci,
+* le coût de l'utilisation de la technique de communication à distance utilisée lorsqu'il n'est pas calculé par référence au tarif de base.
 
 Le Conseiller agissant en qualité de professionnel s'engage à remplir les rubriques dédiées lors de son Enregistrement. En cas de changement de statut postérieurement à l'Enregistrement, le Conseiller s'engage à modifier ou compléter sans délai les informations fournies lors de l'Enregistrement.
 
@@ -353,15 +353,15 @@ Il appartient donc au Conseiller de déclarer les revenus tirés de cette activi
 
 Il est rappelé que la fraude fiscale expose notamment à :
 
-*   Un redressement fiscal entraînant la régularisation des sommes dues (avec pénalités de retard)
-*   Des amendes forfaitaires allant de 1,5% à 5% sur les sommes non déclarées
-*   Des sanctions pénales :
+* Un redressement fiscal entraînant la régularisation des sommes dues (avec pénalités de retard)
+* Des amendes forfaitaires allant de 1,5% à 5% sur les sommes non déclarées
+* Des sanctions pénales :
 
-*   Peine d’emprisonnement (jusqu’à 5 ans, hors circonstances aggravantes)
-*   Une amende (jusqu’à 500 000 euros, hors circonstances aggravantes)
-*   Une interdiction d’exercer une profession indépendante ou de gérer une entreprise
-*   La privation des droits civiques, civils et familiaux
-*   Des peines de confiscation.
+* Peine d’emprisonnement (jusqu’à 5 ans, hors circonstances aggravantes)
+* Une amende (jusqu’à 500 000 euros, hors circonstances aggravantes)
+* Une interdiction d’exercer une profession indépendante ou de gérer une entreprise
+* La privation des droits civiques, civils et familiaux
+* Des peines de confiscation.
 
 Pour plus d’informations, le Conseiller est amené à consulter [le site de la Direction Générale des Finances Publiques.](https://www.impots.gouv.fr/portail/node/10841)
 
