@@ -177,8 +177,8 @@ das Recht eine Beschwerde über das interne Beschwerdemanagement von Verivox ein
 
 2.1 Jeder Serviceanbieter hat die Möglichkeit sich zu etwaigen Streitigkeiten, die sich auf die Bereitstellung der Plattform für den Serviceanbieter beziehen, an einen der nachfolgenden unparteiischen und unabhängigen Mediatoren zu wenden, mit denen Verivox bereit ist zusammenzuarbeiten, um eine Beilegung der Streitigkeit zu erzielen:
 
-*   Bitkom Servicegesellschaft mbH, Albrechtstr. 10, 10117 Berlin, E-Mail: [\[email protected\]](https://www.verivox.de/cdn-cgi/l/email-protection#removed)
-*   Bundesverband Onlinehandel e.V. - Mediationsstelle -, Friedrichstraße 123, 10117 Berlin, E-Mail: [\[email protected\]](https://www.verivox.de/cdn-cgi/l/email-protection#removed), Telefon: +49 351 450 44 17
+* Bitkom Servicegesellschaft mbH, Albrechtstr. 10, 10117 Berlin, E-Mail: [\[email protected\]](https://www.verivox.de/cdn-cgi/l/email-protection#removed)
+* Bundesverband Onlinehandel e.V. - Mediationsstelle -, Friedrichstraße 123, 10117 Berlin, E-Mail: [\[email protected\]](https://www.verivox.de/cdn-cgi/l/email-protection#removed), Telefon: +49 351 450 44 17
 
 Diese Möglichkeit besteht insbesondere auch für Beschwerden, die nicht mit den in § 1 genannten Mitteln des internen Beschwerdemanagements gelöst werden können.
 
