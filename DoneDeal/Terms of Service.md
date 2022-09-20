@@ -5,46 +5,46 @@ _Last updated: 31st March 2022_
 
 ### Contents
 
-1.  [Introduction](#1)
-2.  [Your consent](#2)
-3.  [Modification of terms](#3)
-4.  [Information about Us](#4)
-5.  [Access to and use of the Website and the DoneDeal Service](#5)
-6.  [Registration of accounts, usernames and passwords, deactivating accounts](#6)
-7.  [Using and accessing the Website, Content and the DoneDeal Service](#7)
-8.  [Restrictions on right to use](#8)
-9.  [Your interactions with other users](#9)
-10.  [Content standards](#10)
-11.  [Additional policies](#11)
-12.  [Suspension and termination](#12)
-13.  [Your concerns and complaints](#13)
-14.  [Disputes with third parties](#14)
-15.  [Payment for advertisements](#15)
-16.  [Cancellation policy](#16)
-17.  [Published advertisements and duration of advertisements](#17)
-18.  [Advertising terms and conditions](#18)
-19.  [Commercial Terms](#19)
-20.  [Fair usage policy](#20)
-21.  [Reporting breaches](#21)
-22.  [Standards](#22)
-23.  [Responsibility](#23)
-24.  [Consequences for failure to comply with the Agreement](#24)
-25.  [Banner advertising](#25)
-26.  [Refund policy](#26)
-27.  [SMS information service](#27)
-28.  [Intellectual property](#28)
-29.  [Disclaimer of liability](#29)
-30.  [Indemnity](#30)
-31.  [Disclaimer of endorsement](#31)
-32.  [Links to the Website](#33)
-33.  [Links from the Website](#34)
-34.  [Contact from Us](#35)
-35.  [Privacy and Cookies Policy](#36)
-36.  [Governing law and jurisdiction](#37)
-37.  [Waiver, Right Cumulative](#38)
-38.  [Severability](#39)
-39.  [Assignment and entire agreement](#40)
-40.  [Submissions](#41)
+1. [Introduction](#1)
+2. [Your consent](#2)
+3. [Modification of terms](#3)
+4. [Information about Us](#4)
+5. [Access to and use of the Website and the DoneDeal Service](#5)
+6. [Registration of accounts, usernames and passwords, deactivating accounts](#6)
+7. [Using and accessing the Website, Content and the DoneDeal Service](#7)
+8. [Restrictions on right to use](#8)
+9. [Your interactions with other users](#9)
+10. [Content standards](#10)
+11. [Additional policies](#11)
+12. [Suspension and termination](#12)
+13. [Your concerns and complaints](#13)
+14. [Disputes with third parties](#14)
+15. [Payment for advertisements](#15)
+16. [Cancellation policy](#16)
+17. [Published advertisements and duration of advertisements](#17)
+18. [Advertising terms and conditions](#18)
+19. [Commercial Terms](#19)
+20. [Fair usage policy](#20)
+21. [Reporting breaches](#21)
+22. [Standards](#22)
+23. [Responsibility](#23)
+24. [Consequences for failure to comply with the Agreement](#24)
+25. [Banner advertising](#25)
+26. [Refund policy](#26)
+27. [SMS information service](#27)
+28. [Intellectual property](#28)
+29. [Disclaimer of liability](#29)
+30. [Indemnity](#30)
+31. [Disclaimer of endorsement](#31)
+32. [Links to the Website](#33)
+33. [Links from the Website](#34)
+34. [Contact from Us](#35)
+35. [Privacy and Cookies Policy](#36)
+36. [Governing law and jurisdiction](#37)
+37. [Waiver, Right Cumulative](#38)
+38. [Severability](#39)
+39. [Assignment and entire agreement](#40)
+40. [Submissions](#41)
 
 **1\. Introduction**
 
@@ -94,10 +94,10 @@ _Names and Email Addresses_
 
 You may not enter a name or email address that:
 
-*   Contains “DoneDeal” or otherwise misrepresents your relationship with DoneDeal.ie or any other party;
-*   Contains any profanity, is vulgar or offensive, or promotes an illegal activity;
-*   Violates any trade mark or other proprietary right; and/or
-*   Misleadingly impersonates someone else.
+* Contains “DoneDeal” or otherwise misrepresents your relationship with DoneDeal.ie or any other party;
+* Contains any profanity, is vulgar or offensive, or promotes an illegal activity;
+* Violates any trade mark or other proprietary right; and/or
+* Misleadingly impersonates someone else.
 
 We reserve the right to deactivate accounts containing names and/or email addresses that do not comply with these Terms of Use at our discretion.
 
@@ -163,35 +163,35 @@ Access to the Website and/or the DoneDeal Service is permitted on a temporary ba
 
 You agree that you shall not (and you agree not to allow any third party to):
 
-*   modify, adapt, translate, or reverse engineer any portion of the Website and/or the Done Deal Service;
-*   remove any copyright, trademark or other proprietary rights notices contained in or on the Website and/or the DoneDeal Service or in or on any Content or other material obtained via the Website and/or the DoneDeal Service;
-*   breach any equality legislation;
-*   breach the Code of Standards for Advertising and Marketing Communications in Ireland;
-*   offer and/or promote products or services without the required authorisation(s);
-*   do or say anything which is deliberately harmful to the reputation of DoneDeal and which may lead any reasonable person to cease conducting business with or to substantially vary in an adverse manner the terms upon which it conducts business with DoneDeal;
-*   promote competitor services on our Website;
-*   place an undue or unfair burden on our support services including our customer support team;
-*   use any robot, spider, website search/retrieval application, or other automated device, process or means to access, retrieve or index any portion of the Website and/or the DoneDeal Service;
-*   access, retrieve or index any portion of the Website and/or the DoneDeal Service for the purposes of constructing or populating any database;
-*   collect any information about other users or users of the Website and/or the DoneDeal Service (including User Identifiers) for any purpose other than to use the Website for the purposes of responding to advertisements or to use the Website in the manner intended by us;
-*   create or transmit unwanted electronic communications such as ‘spam’ to other users of the Website and/or the DoneDeal Service or otherwise interfere with other user’s enjoyment of the Website and/or the DoneDeal Service;
-*   collect or store personal data about other users in connection with the prohibited activities described in this section of the Terms of Use;
-*   engage in or promote any of the following (or what we deem to be similar to the following): surveys, contests, pyramid schemes, chain letters, get rich quick promotions, profit sharing promotions, unsolicited emailing or spamming via the Website;
-*   impersonate any person or entity;
-*   identify or speculate as to the identity of any anonymous or pseudonymous user; or
-*   solicit passwords or personally identifying information for commercial or unlawful purposes.
-*   reformat or frame any portion of the web pages that are part of the Website and/or the DoneDeal Service;
-*   create user accounts by automated means or under false or fraudulent pretences or create multiple log ins;
-*   transmit any viruses, worms, defects, Trojan horses or other items of a destructive nature;
-*   use the Website or the DoneDeal Service to violate the security of any computer network, crack passwords or security encryption codes, transfer or store illegal material including that are deemed threatening or obscene;
-*   copy or store any Content offered on the Website for other than your own use;
-*   use any device, software or routine that interferes with the proper working of the Website and/or the DoneDeal Service, or otherwise attempt to interfere with the proper working of the Website and/or the DoneDeal Service;
-*   take any action that imposes, or may impose in our sole discretion, an unreasonable or disproportionately large load on our IT infrastructure;
-*   use the Website and/or the DoneDeal Service, intentionally or unintentionally, to violate or in violation of any applicable law or in a manner that puts us in violation of applicable law;
-*   upload, post, email, transmit or otherwise make available using the Website any material that you do not have a right to make available under any law or contractual obligation which includes a breach of third party intellectual property rights;
-*   attempt to gain unauthorised access to the Website, its facilities and/or services or any accounts, computer systems and networks connected to any DoneDeal website, its facilities and/or services through hacking, password mining or any other means;
-*   post or use any material that is obscene, defamatory, seditious, indecent, offensive, incite racial hatred or incite a crime, be naming or scandalous or inappropriate; and/or
-*   harvest or otherwise collect by any means any programme material or information from the Website unless authorised under the Terms of Use or to monitor, mirror or copy any content of the Website without our prior written consent.
+* modify, adapt, translate, or reverse engineer any portion of the Website and/or the Done Deal Service;
+* remove any copyright, trademark or other proprietary rights notices contained in or on the Website and/or the DoneDeal Service or in or on any Content or other material obtained via the Website and/or the DoneDeal Service;
+* breach any equality legislation;
+* breach the Code of Standards for Advertising and Marketing Communications in Ireland;
+* offer and/or promote products or services without the required authorisation(s);
+* do or say anything which is deliberately harmful to the reputation of DoneDeal and which may lead any reasonable person to cease conducting business with or to substantially vary in an adverse manner the terms upon which it conducts business with DoneDeal;
+* promote competitor services on our Website;
+* place an undue or unfair burden on our support services including our customer support team;
+* use any robot, spider, website search/retrieval application, or other automated device, process or means to access, retrieve or index any portion of the Website and/or the DoneDeal Service;
+* access, retrieve or index any portion of the Website and/or the DoneDeal Service for the purposes of constructing or populating any database;
+* collect any information about other users or users of the Website and/or the DoneDeal Service (including User Identifiers) for any purpose other than to use the Website for the purposes of responding to advertisements or to use the Website in the manner intended by us;
+* create or transmit unwanted electronic communications such as ‘spam’ to other users of the Website and/or the DoneDeal Service or otherwise interfere with other user’s enjoyment of the Website and/or the DoneDeal Service;
+* collect or store personal data about other users in connection with the prohibited activities described in this section of the Terms of Use;
+* engage in or promote any of the following (or what we deem to be similar to the following): surveys, contests, pyramid schemes, chain letters, get rich quick promotions, profit sharing promotions, unsolicited emailing or spamming via the Website;
+* impersonate any person or entity;
+* identify or speculate as to the identity of any anonymous or pseudonymous user; or
+* solicit passwords or personally identifying information for commercial or unlawful purposes.
+* reformat or frame any portion of the web pages that are part of the Website and/or the DoneDeal Service;
+* create user accounts by automated means or under false or fraudulent pretences or create multiple log ins;
+* transmit any viruses, worms, defects, Trojan horses or other items of a destructive nature;
+* use the Website or the DoneDeal Service to violate the security of any computer network, crack passwords or security encryption codes, transfer or store illegal material including that are deemed threatening or obscene;
+* copy or store any Content offered on the Website for other than your own use;
+* use any device, software or routine that interferes with the proper working of the Website and/or the DoneDeal Service, or otherwise attempt to interfere with the proper working of the Website and/or the DoneDeal Service;
+* take any action that imposes, or may impose in our sole discretion, an unreasonable or disproportionately large load on our IT infrastructure;
+* use the Website and/or the DoneDeal Service, intentionally or unintentionally, to violate or in violation of any applicable law or in a manner that puts us in violation of applicable law;
+* upload, post, email, transmit or otherwise make available using the Website any material that you do not have a right to make available under any law or contractual obligation which includes a breach of third party intellectual property rights;
+* attempt to gain unauthorised access to the Website, its facilities and/or services or any accounts, computer systems and networks connected to any DoneDeal website, its facilities and/or services through hacking, password mining or any other means;
+* post or use any material that is obscene, defamatory, seditious, indecent, offensive, incite racial hatred or incite a crime, be naming or scandalous or inappropriate; and/or
+* harvest or otherwise collect by any means any programme material or information from the Website unless authorised under the Terms of Use or to monitor, mirror or copy any content of the Website without our prior written consent.
 
 Breaches of the above or any other provision of these Terms of Use may lead to your access to the Website being suspended or terminated.  Further information on suspension or termination is outlined in Clause 12 below. 
 
@@ -215,9 +215,9 @@ When users are involved in a transaction, information such as each other’s nam
 
 You may use other users’ information only in accordance with applicable laws and regulations (including, without limitation, data protection laws) and only for:
 
-*   DoneDeal transaction related purposes that are not unsolicited commercial communications;
-*   using services offered through DoneDeal; and
-*   other purposes that a user expressly agrees to.
+* DoneDeal transaction related purposes that are not unsolicited commercial communications;
+* using services offered through DoneDeal; and
+* other purposes that a user expressly agrees to.
 
 Although we cannot monitor the conduct of users off-line, you must not use any information obtained from the Website in order to harass, abuse or harm another person, or in order to contact, advertise to, solicit or sell to any user or person without their prior expressive consent.
 
@@ -237,22 +237,22 @@ By posting Content on the Website, you grant to us, and you represent and warran
 
 The following is a non-exhaustive list of the criteria that Content must comply with. Content must:
 
-*   be accurate (where it states facts);
-*   be genuinely held (where it states opinions); and
-*   comply with applicable law in Ireland, Northern Ireland and in any country from which it is posted, including compliance with the Disability Act 2005 and the Equality Act 2004 (including all 9 grounds: the gender ground, the marital status ground, the family status ground, the sexual orientation ground, the religion ground, the age ground, the disability ground, the race ground, the traveller community ground).
+* be accurate (where it states facts);
+* be genuinely held (where it states opinions); and
+* comply with applicable law in Ireland, Northern Ireland and in any country from which it is posted, including compliance with the Disability Act 2005 and the Equality Act 2004 (including all 9 grounds: the gender ground, the marital status ground, the family status ground, the sexual orientation ground, the religion ground, the age ground, the disability ground, the race ground, the traveller community ground).
 
 The following is a non-exhaustive list of the type of Content that is prohibited on the Website. You must not:
 
-*   comment on, defame, abuse, harass, stalk, threaten or otherwise offend others;
-*   post Content that is unlawful, obscene, defamatory, seditious, indecent, offensive, liable to incite racial hatred, discriminatory, menacing, scandalous, inflammatory, be in breach of confidence, be in breach of privacy or be inappropriate;
-*   post Content in breach any applicable laws or regulations;
-*   deceive or mislead any person and/or entity;
-*   falsely state, impersonate, or otherwise misrepresent your identity, including but not limited to the use of a pseudonym, or misrepresenting your current or previous positions and qualifications, or your affiliations with a person or entity, past or present;
-*   upload Content that duplicates Content already published on the Website;
-*   upload, post, email, transmit or otherwise make available any content or initiate communications which include information that you do not have the right to disclose or make available under any law or under contractual or fiduciary relationships (such as insider information, or proprietary and confidential information learned or disclosed as part of employment relationships or under nondisclosure agreements); upload, post, email, transmit or otherwise make available any content or initiate communication that infringes upon patents, trademarks, trade secrets, copyrights or other proprietary rights;
-*   upload, post, email, transmit or otherwise make available any unsolicited or unauthorised advertising, promotional materials, ‘junk mail’, ‘spam’, ‘chain letters’, ‘pyramid schemes’, or any other form of solicitation;
-*   upload, post, email, transmit or otherwise make available any material that contains software viruses or any other computer code, files or programs designed to interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment; and/or
-*   interfere with or disrupt the Website or servers or networks connected to the Website, or disobey any requirements, procedures, policies or regulations of networks connected to the Website.
+* comment on, defame, abuse, harass, stalk, threaten or otherwise offend others;
+* post Content that is unlawful, obscene, defamatory, seditious, indecent, offensive, liable to incite racial hatred, discriminatory, menacing, scandalous, inflammatory, be in breach of confidence, be in breach of privacy or be inappropriate;
+* post Content in breach any applicable laws or regulations;
+* deceive or mislead any person and/or entity;
+* falsely state, impersonate, or otherwise misrepresent your identity, including but not limited to the use of a pseudonym, or misrepresenting your current or previous positions and qualifications, or your affiliations with a person or entity, past or present;
+* upload Content that duplicates Content already published on the Website;
+* upload, post, email, transmit or otherwise make available any content or initiate communications which include information that you do not have the right to disclose or make available under any law or under contractual or fiduciary relationships (such as insider information, or proprietary and confidential information learned or disclosed as part of employment relationships or under nondisclosure agreements); upload, post, email, transmit or otherwise make available any content or initiate communication that infringes upon patents, trademarks, trade secrets, copyrights or other proprietary rights;
+* upload, post, email, transmit or otherwise make available any unsolicited or unauthorised advertising, promotional materials, ‘junk mail’, ‘spam’, ‘chain letters’, ‘pyramid schemes’, or any other form of solicitation;
+* upload, post, email, transmit or otherwise make available any material that contains software viruses or any other computer code, files or programs designed to interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment; and/or
+* interfere with or disrupt the Website or servers or networks connected to the Website, or disobey any requirements, procedures, policies or regulations of networks connected to the Website.
 
 We do not control the Content posted by users via the DoneDeal Service, including the content of any advertisements or blog postings, and we do not guarantee the accuracy, integrity or quality of such Content. You understand that by using the Website and/or the DoneDeal Service, you may be exposed to Content that is offensive, indecent or objectionable. You are responsible for complying with all laws applicable to the Content you submit to the Website via the DoneDeal Service. We may refuse any DoneDeal Service  in accordance with Clause 12 below. We also have the right, at our discretion, to disclose your identity to any third party who is claiming that any Content posted or uploaded by you to the Website constitutes a violation of their intellectual property rights, or of their right to privacy.
 
@@ -312,7 +312,7 @@ You may also pay the Fee using your phone. If you choose this option you will re
 
 **16\. Cancellation policy**
 
-Once your advertisement is posted on the Website your request for our services cannot be cancelled at that stage. Prior to the advertisement appearing on the Website you may cancel the advertisement by [contacting us](https://hello.donedeal.ie/hc/en-us/requests/new).
+Once your advertisement is posted on the Website your request for our services cannot be cancelled at that stage. Prior to the advertisement appearing on the Website you may cancel the advertisement by [contacting us](https://hello.donedeal.ie/hc/en-us/requests/new).
 
 **17\. Published advertisements and duration of advertisements**
 
@@ -350,11 +350,11 @@ For more information on the advertising of medicinal products please visit the w
 
 Content must not include any reference to ‘kegs’ or ‘beer kegs’ and related items (whether relating to their sale or purchase, requesting information about, or otherwise) as beer kegs are the property of the relevant brewer and therefore cannot be sold on. You can read more about this here: [www.abfi.ie](http://www.abfi.ie/)
 
-Advertisement for the sale of any tickets for Cultural, Entertainment, Recreational and Sporting Events which are made a designated event under the [Sale of Tickets (Cultural, Entertainment, Recreational and Sporting Events) Act 2021](https://www.irishstatutebook.ie/eli/2021/act/21/enacted/en/html) cannot be advertised above the price officially designated on the ticket by the organiser or organisers of such event.
+Advertisement for the sale of any tickets for Cultural, Entertainment, Recreational and Sporting Events which are made a designated event under the [Sale of Tickets (Cultural, Entertainment, Recreational and Sporting Events) Act 2021](https://www.irishstatutebook.ie/eli/2021/act/21/enacted/en/html) cannot be advertised above the price officially designated on the ticket by the organiser or organisers of such event.
 
 Advertisements which are posted and are found to be in breach of our policies will be removed without prior notification and no refund will be given. Users who are found to be in violation of our policies on more than one occasion may have their account removed and their information passed to the policing authority.
 
-**19\. Commercial Terms**   
+**19\. Commercial Terms**   
 
 _Commercial Advertising_
 
@@ -370,13 +370,13 @@ _Ancillary Products and Services_
 
 In addition to running the Website, we offer a number of products and services in partnership with third party providers, which may include:
 
-*   insurance products;
-*   finance products;
-*   services offered by property service providers;
-*   products offered by utility companies;
-*   vehicle history checks;
-*   buy now, pay later services; and
-*   the products and services of various advertisers, as may change from time to time.
+* insurance products;
+* finance products;
+* services offered by property service providers;
+* products offered by utility companies;
+* vehicle history checks;
+* buy now, pay later services; and
+* the products and services of various advertisers, as may change from time to time.
 
 You acknowledge and agree that advertisements relating to these products and services may be displayed alongside any advertisements you post on our Website.
 
@@ -402,16 +402,16 @@ _Complaints Handling and Mediation_
 
 We aim to treat all Business Users in a fair and transparent manner.  We have a designated internal-complaint-handling system available to Business Users with complaints relating to the following:
 
-*   DoneDeal’s alleged non-compliance with any obligations in the Platform to Business Regulation, which affects the Business User lodging the complaint;
-*   Technological issues which relate directly to the provision of our services and which affect the Business User; and
-*   Measures taken by or behaviour of DoneDeal which relates directly to the provision of our services and affects the Business User.
+* DoneDeal’s alleged non-compliance with any obligations in the Platform to Business Regulation, which affects the Business User lodging the complaint;
+* Technological issues which relate directly to the provision of our services and which affect the Business User; and
+* Measures taken by or behaviour of DoneDeal which relates directly to the provision of our services and affects the Business User.
 
 The internal complaint-handling process begins by Business Users submitting a complaint to the following email address [p2bcomplaints@donedeal.ie](mailto:p2bcomplaints@donedeal.ie).  The process then proceeds as follows:
 
-1.  You will receive an automated acknowledgement of your email once your complaint is received. A designated case officer within DoneDeal will be assigned to your complaint and will make initial contact with you within 3 working days.  Depending on the nature of the complaint alleged, the case officer may request additional supporting documents to assess your complaint.
-2.  The case officer will review and carefully consider all information provided, including whether you have complied with the DoneDeal Terms of Use and Policies. Where the complaint relates to a restriction, suspension or termination by DoneDeal, you will be given the opportunity to clarify the facts and circumstances leading to the restriction, suspension or termination.
-3.  Following a comprehensive review of the information provided, the case officer will communicate his/her preliminary decision to you 15 business days after receipt of all requested information. You will be provided with an opportunity to review and provide your comments on the preliminary decision.
-4.  We will consider any feedback and then proceed to issue a final decision in relation to your complaint.
+1. You will receive an automated acknowledgement of your email once your complaint is received. A designated case officer within DoneDeal will be assigned to your complaint and will make initial contact with you within 3 working days.  Depending on the nature of the complaint alleged, the case officer may request additional supporting documents to assess your complaint.
+2. The case officer will review and carefully consider all information provided, including whether you have complied with the DoneDeal Terms of Use and Policies. Where the complaint relates to a restriction, suspension or termination by DoneDeal, you will be given the opportunity to clarify the facts and circumstances leading to the restriction, suspension or termination.
+3. Following a comprehensive review of the information provided, the case officer will communicate his/her preliminary decision to you 15 business days after receipt of all requested information. You will be provided with an opportunity to review and provide your comments on the preliminary decision.
+4. We will consider any feedback and then proceed to issue a final decision in relation to your complaint.
 
 We endeavour to handle and settle disputes and complaints in an amicable manner internally.  However, our mediation service is available to Business Users who have exhausted the above process and are unhappy with the final outcome.  These mediation services are available at:
 
@@ -448,9 +448,9 @@ To ensure the best browsing experience for our users, your potential buyers, we 
 
 We only allow one item/product per advertisement. This ensures that your products appear in the correct search and helps them sell quicker. Your advertisement may be removed if:
 
-*   you have more than one item/product in the listing;
-*   you have multiple listings for one item/product across several sections; and/or
-*   you have multiple listings for one item/product across several counties.
+* you have more than one item/product in the listing;
+* you have multiple listings for one item/product across several sections; and/or
+* you have multiple listings for one item/product across several counties.
 
 This will make it easier for a potential buyer to find the item you wish to sell. It will also make it easier for the advertisement to be removed when the item is sold. If this policy is not complied with, we reserve the right to remove the offending advertisement(s) from the Website without notice to you and without refund.
 
@@ -462,7 +462,7 @@ Please use the ‘Report this Ad’ mechanism which we have placed on the Websit
 
 **22\. Standards**
 
-All advertisements must adhere to the ‘Code of Advertising Standards’ of [The Advertising Standards Authority for Ireland](http://www.asai.ie/) in addition to the standards set out in the Agreement.
+All advertisements must adhere to the ‘Code of Advertising Standards’ of [The Advertising Standards Authority for Ireland](http://www.asai.ie/) in addition to the standards set out in the Agreement.
 
 **23\. Responsibility**
 
@@ -472,14 +472,14 @@ You are solely responsible for the Content appearing in any of your advertisemen
 
 Failure by you to comply with the User Agreement may result in our taking all or any of the following actions:
 
-*   immediate, temporary or permanent withdrawal of your right to use the Website and/or the DoneDeal Service;
-*   immediate, temporary or permanent removal of any posting, material or Content uploaded by you to the Website;
-*   issue of a public (via the Website) or private warning to you;
-*   limit the amount of postings you may make;
-*   suspension, restriction or limitation of any rights or permissions associated with a User Identifier;
-*   initiation of legal proceedings against you for reimbursement of all costs on a full indemnity basis (including, but not limited to, reasonable administrative and legal costs) resulting from the breach;
-*   other legal action against you; and/or
-*   disclosure of such information to law enforcement authorities as we reasonably feel is necessary, as set out in our [Privacy Policy](https://hello.donedeal.ie/hc/en-us/articles/201251721-Privacy-Policy).
+* immediate, temporary or permanent withdrawal of your right to use the Website and/or the DoneDeal Service;
+* immediate, temporary or permanent removal of any posting, material or Content uploaded by you to the Website;
+* issue of a public (via the Website) or private warning to you;
+* limit the amount of postings you may make;
+* suspension, restriction or limitation of any rights or permissions associated with a User Identifier;
+* initiation of legal proceedings against you for reimbursement of all costs on a full indemnity basis (including, but not limited to, reasonable administrative and legal costs) resulting from the breach;
+* other legal action against you; and/or
+* disclosure of such information to law enforcement authorities as we reasonably feel is necessary, as set out in our [Privacy Policy](https://hello.donedeal.ie/hc/en-us/articles/201251721-Privacy-Policy).
 
 We exclude liability for actions taken in response to breaches of the Terms of Use. The responses described above are not exhaustive and we may take any other action we reasonably deem appropriate.  Please see Clause 12 above for examples of circumstances that would be deemed to be a breach of the User Agreement which may give rise to termination or suspension and our rights and obligations in that regard.
 
@@ -489,7 +489,7 @@ Banner advertising on the Website is managed and provided by third party service
 
 **26\. Refund policy**
 
-Where advertisements or other Content are rejected and/or removed from the Website by us, it is our policy NOT to issue refunds. If you have any doubts about the suitability of a proposed advertisement, please [contact us](https://hello.donedeal.ie/hc/en-us/requests/new) in advance of placing the advertisement for appropriate guidance.
+Where advertisements or other Content are rejected and/or removed from the Website by us, it is our policy NOT to issue refunds. If you have any doubts about the suitability of a proposed advertisement, please [contact us](https://hello.donedeal.ie/hc/en-us/requests/new) in advance of placing the advertisement for appropriate guidance.
 
 **27\. SMS information service**
 
@@ -525,8 +525,8 @@ The Website and the DoneDeal Service are provided on an ‘as is’ basis only. 
 
 The Content and other material displayed on the Website is provided without any guarantees, conditions or warranties as to its accuracy. To the extent permitted by law, we expressly exclude:
 
-1.  all conditions, warranties and other terms which might otherwise be implied by statute, common law or the law of equity; and
-2.  any liability for any loss of income or revenue, loss of business, loss of profits or contracts, loss of anticipated savings, loss of data, loss of goodwill, wasted management or office time and for any other loss or damage of any kind, any direct or any indirect or consequential loss or damage incurred by any user in connection with the Website and/or DoneDeal Service or in connection with the use, inability to use, or results of the use of the Website and/or DoneDeal Service, any websites linked to it and any materials posted on it however arising and whether caused by tort (including negligence), breach of contract or otherwise, even if foreseeable.
+1. all conditions, warranties and other terms which might otherwise be implied by statute, common law or the law of equity; and
+2. any liability for any loss of income or revenue, loss of business, loss of profits or contracts, loss of anticipated savings, loss of data, loss of goodwill, wasted management or office time and for any other loss or damage of any kind, any direct or any indirect or consequential loss or damage incurred by any user in connection with the Website and/or DoneDeal Service or in connection with the use, inability to use, or results of the use of the Website and/or DoneDeal Service, any websites linked to it and any materials posted on it however arising and whether caused by tort (including negligence), breach of contract or otherwise, even if foreseeable.
 
 Nothing in these Terms of Use shall exclude or limit our liability in relation to any damages arising from death or personal injury caused by the negligence of DoneDeal.ie or for fraudulent misrepresentation or misrepresentation as to a fundamental matter, or any other liability which cannot be excluded or limited under applicable law.
 
@@ -542,8 +542,8 @@ Any material downloaded or otherwise obtained through the use of the Website is 
 
 You shall indemnify and keep us, our holding company and subsidiaries (each as defined in the Companies Act 2014) and our and their respective officers, directors, shareholders, employees, agents, licensors and suppliers (each an “**Indemnified Person**”) indemnified on demand from and against all judgments, awards, penalties, settlements, fines, costs and expenses (including without limitation, reasonable legal and accounting fees) suffered or incurred by an Indemnified Person and arising out of or in connection with any of the following:
 
-*   any breach of the User Agreement;
-*   your access to or use of the Website, the Content or the DoneDeal Service in a manner that infringes or is alleged to infringe any applicable law or the rights (including, without limitation, the privacy or intellectual property rights) of any other person.
+* any breach of the User Agreement;
+* your access to or use of the Website, the Content or the DoneDeal Service in a manner that infringes or is alleged to infringe any applicable law or the rights (including, without limitation, the privacy or intellectual property rights) of any other person.
 
 **31\. Disclaimer of endorsement**
 
