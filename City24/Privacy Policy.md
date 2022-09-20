@@ -53,22 +53,22 @@ Käesolevad põhimõtted baseeruvad isikuandmete kaitse seadusel ning Euroopa Li
 
 3.2.1. Õiguslik alus Baltic Classifieds Group töötajate Isikuandmete töötlemisel:
 
-*   töötajatega sõlmitud töölepingu täitmiseks või selle täitmise tagamiseks;
-*   juriidiliste kohustuste täitmiseks (nt maksude ja sotsiaalkindlustusmaksete tasumiseks, asjaomaste ametiasutuste teavitamiseks jms);
-*   eluliste huvide kaitseks (nt hädaolukorras kontaktisikuga suhtlemiseks);
-*   töötaja nõusoleku alusel (nt töötaja pildi või sünnipäeva avaldamine Tööandja siseveebis, töötaja ülalpeetavate iga).
+* töötajatega sõlmitud töölepingu täitmiseks või selle täitmise tagamiseks;
+* juriidiliste kohustuste täitmiseks (nt maksude ja sotsiaalkindlustusmaksete tasumiseks, asjaomaste ametiasutuste teavitamiseks jms);
+* eluliste huvide kaitseks (nt hädaolukorras kontaktisikuga suhtlemiseks);
+* töötaja nõusoleku alusel (nt töötaja pildi või sünnipäeva avaldamine Tööandja siseveebis, töötaja ülalpeetavate iga).
 
 3.2.2. Õiguslik alus Baltic Classifieds Group klientide Isikuandmete töötlemisel:
 
-*   klientidega sõlmitud teenuse osutamise lepingu täitmiseks;
-*   kliendi poolt antud nõusoleku alusel;
-*   Baltic Classifieds Groupi õigustatud huvi alusel;
-*   juriidiliste kohustuste täitmiseks (nt raamatupidamisdokumentide säilitamisel);
+* klientidega sõlmitud teenuse osutamise lepingu täitmiseks;
+* kliendi poolt antud nõusoleku alusel;
+* Baltic Classifieds Groupi õigustatud huvi alusel;
+* juriidiliste kohustuste täitmiseks (nt raamatupidamisdokumentide säilitamisel);
 
 3.2.3. Õiguslik alus Baltic Classifieds Groupi poolt avaldatud ajakirjanduslike teoste subjektide Isikuandmete töötlemisel:
 
-*   Ajakirjanduslikul eesmärgil, kui selleks on avalik huvi, see on kooskõlas ajakirjanduseetika põhimõtetega ning ühtlasi ei kahjustata ülemäära Andmesubjekti õigusi;
-*   kliendi poolt antud nõusoleku alusel.
+* Ajakirjanduslikul eesmärgil, kui selleks on avalik huvi, see on kooskõlas ajakirjanduseetika põhimõtetega ning ühtlasi ei kahjustata ülemäära Andmesubjekti õigusi;
+* kliendi poolt antud nõusoleku alusel.
 
 3.3. Oluline on, et kui Isikuandmeid töödeldakse nõusoleku alusel, on õigus selline nõusolek igal ajal tagasi võtta, kuid enne nõusoleku tagasivõtmist toimunud töötlemine on sellest hoolimata õiguspärane, sest töötlemistoimingute tegemise ajal oli antud nõusolek kehtiv.
 
