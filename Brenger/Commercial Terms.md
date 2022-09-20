@@ -146,12 +146,12 @@ If Brenger considers that you have violated the law or the Carrier Terms and Con
 
 Brenger is not liable for any direct or indirect damage you may suffer from using our Website or Service. For example, Brenger is not liable for: 
 
-*   Damage suffered by the User due to incorrect information on the Website;
-*   The conclusion and execution of contracts between the Carrier and the Client through the Website;
-*   The proper functioning of links and hyperlinks on the Website;
-*   Situations in which the User’s mobile device is stolen and a third party subsequently uses the Website or Service by means of the User’s mobile device;
-*   Any damage or change to the User’s device as a consequence of using the Website or Service;
-*   and Brenger’s failure to comply with the obligations in these Carrier Terms and Conditions if the failure is due to events beyond Brenger’s reasonable control.
+* Damage suffered by the User due to incorrect information on the Website;
+* The conclusion and execution of contracts between the Carrier and the Client through the Website;
+* The proper functioning of links and hyperlinks on the Website;
+* Situations in which the User’s mobile device is stolen and a third party subsequently uses the Website or Service by means of the User’s mobile device;
+* Any damage or change to the User’s device as a consequence of using the Website or Service;
+* and Brenger’s failure to comply with the obligations in these Carrier Terms and Conditions if the failure is due to events beyond Brenger’s reasonable control.
 
 Brenger has no influence on the information that Users post on the Website or the information exchanged between Users. Brenger is not liable for this information. Brenger is also not liable for incomplete or incorrect information as a result of incorrect transmission of this information.
 
