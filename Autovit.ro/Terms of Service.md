@@ -6,57 +6,57 @@
 
 **1\. Prevederi preliminare**
 
-1.  Acești Termeni și Condiții definesc regulile pentru furnizarea, de către OLX Online Services SRL, către utilizatorii de Internet, de servicii constând în a le permite acestora să posteze Anunturi pe Site-ul Autovit, împreună cu regulile de accesare și utilizare a resurselor site-ului Autovit.
+1. Acești Termeni și Condiții definesc regulile pentru furnizarea, de către OLX Online Services SRL, către utilizatorii de Internet, de servicii constând în a le permite acestora să posteze Anunturi pe Site-ul Autovit, împreună cu regulile de accesare și utilizare a resurselor site-ului Autovit.
 
-2.  Site-ul Autovit este disponibil la adresa: **autovit.ro** și printr-o aplicație mobilă. Condiția prealabilă pentru obținerea accesului la funcționalitățile Site-ului Autovit este utilizarea unui dispozitiv care comunică cu Internetul și care are un browser web standard. Operatorul de telecomunicații poate percepe o taxă suplimentară pentru accesul la aplicații de pe dispozitivele mobile.
-3.  Folosirea site-ului www.autovit.ro și a serviciilor furnizate de acesta sunt rezervate doar persoanelor care au împlinit vârsta de18 ani.
+2. Site-ul Autovit este disponibil la adresa: **autovit.ro** și printr-o aplicație mobilă. Condiția prealabilă pentru obținerea accesului la funcționalitățile Site-ului Autovit este utilizarea unui dispozitiv care comunică cu Internetul și care are un browser web standard. Operatorul de telecomunicații poate percepe o taxă suplimentară pentru accesul la aplicații de pe dispozitivele mobile.
+3. Folosirea site-ului www.autovit.ro și a serviciilor furnizate de acesta sunt rezervate doar persoanelor care au împlinit vârsta de18 ani.
 
 **2\. Definiții**
 
 Următorii termeni, așa cum sunt definiți mai jos, vor avea următoarele semnificații:
 
-1.  **Furnizor/OLX Online Services SRL –** Societatea OLX Online Services SRL, persoană juridică română, cu sediul în Bucuresti, Sector 1, Sos. Nicolae Titulescu, nr. 4-8, Clădirea America House– Aripa de Vest, Etaj 5, înregistrată la Oficiul Registrului Comertului sub nr. J40/1674/2011, având codul de identificare fiscală RO22457535, fiind înregistrată în Evidența Prelucrării Datelor cu Caracter Personal sub nr. 17272, si avand nr. de telefon: 031/860.90.90 și email: sugestii@autovit.ro.
+1. **Furnizor/OLX Online Services SRL –** Societatea OLX Online Services SRL, persoană juridică română, cu sediul în Bucuresti, Sector 1, Sos. Nicolae Titulescu, nr. 4-8, Clădirea America House– Aripa de Vest, Etaj 5, înregistrată la Oficiul Registrului Comertului sub nr. J40/1674/2011, având codul de identificare fiscală RO22457535, fiind înregistrată în Evidența Prelucrării Datelor cu Caracter Personal sub nr. 17272, si avand nr. de telefon: 031/860.90.90 și email: sugestii@autovit.ro.
 
-2.  **Site-ul Autovit –** un site web operat de Furnizor, în limba română, disponibil în domeniul autovit.ro, prin intermediul unei aplicații mobile, precum și pe alte site-uri web administrate de partenerii Furnizorului, la care se face referire în paginile Site-ului Autovit.
+2. **Site-ul Autovit –** un site web operat de Furnizor, în limba română, disponibil în domeniul autovit.ro, prin intermediul unei aplicații mobile, precum și pe alte site-uri web administrate de partenerii Furnizorului, la care se face referire în paginile Site-ului Autovit.
 
-3.  **Anunț** – oferta publică lansată de un utilizator cu scopul de a fi publicată de către Furnizor, prin intermediul Site-ului Autovit, cu privire la vânzarea de vehicule sau produse conexe, în conformitate cu termenii și condițiile prevăzute în prezentul document.
+3. **Anunț** – oferta publică lansată de un utilizator cu scopul de a fi publicată de către Furnizor, prin intermediul Site-ului Autovit, cu privire la vânzarea de vehicule sau produse conexe, în conformitate cu termenii și condițiile prevăzute în prezentul document.
 
-4.  **Utilizator** – Autorul Anunțului, precum și orice altă persoană care utilizează resursele Site-ului Autovit.
+4. **Utilizator** – Autorul Anunțului, precum și orice altă persoană care utilizează resursele Site-ului Autovit.
 
-5.  **Autorul Anunțului** – o persoană fizică, în vârstă de 18 ani și cu capacitate deplină de exercițiu sau o unitate organizatorică fără personalitate juridică, dar capabilă să dobândească drepturi și să își asume răspunderi în legătură cu Anunțul publicat de aceștia, care, în modul prevăzut prin prezenta, a încheiat un contract cu Furnizorul privind afișarea unui Anunț pe Site-ul Autovit și care utilizează serviciile furnizate în cadrul Site-ului Autovit.
+5. **Autorul Anunțului** – o persoană fizică, în vârstă de 18 ani și cu capacitate deplină de exercițiu sau o unitate organizatorică fără personalitate juridică, dar capabilă să dobândească drepturi și să își asume răspunderi în legătură cu Anunțul publicat de aceștia, care, în modul prevăzut prin prezenta, a încheiat un contract cu Furnizorul privind afișarea unui Anunț pe Site-ul Autovit și care utilizează serviciile furnizate în cadrul Site-ului Autovit.
 
-6.  **Cont al Autorului Anunțului**  – o înregistrare IT individualizată, care a fost creată pe Site-ul Autovit pentru Autorul Anunțului, pentru a face posibilă utilizarea de către acesta a Site-ului Autovit și care adună informații despre utilizarea de către Autorul Anunțului a Site-ului Autovit. Accesul la Cont este asigurat Autorulului Anunțului printr-o adresă de e-mail unică și o parolă. Contul Autorului Anunțului poate fi conectat doar la o singură adresă de e-mail.
+6. **Cont al Autorului Anunțului**  – o înregistrare IT individualizată, care a fost creată pe Site-ul Autovit pentru Autorul Anunțului, pentru a face posibilă utilizarea de către acesta a Site-ului Autovit și care adună informații despre utilizarea de către Autorul Anunțului a Site-ului Autovit. Accesul la Cont este asigurat Autorulului Anunțului printr-o adresă de e-mail unică și o parolă. Contul Autorului Anunțului poate fi conectat doar la o singură adresă de e-mail.
 
-7.  **Lista de Prețuri** – o listă a prețurilor percepute de Furnizor Autorului Anunțului, pentru serviciile furnizate în cadrul Site-ului Autovit.
+7. **Lista de Prețuri** – o listă a prețurilor percepute de Furnizor Autorului Anunțului, pentru serviciile furnizate în cadrul Site-ului Autovit.
 
-8.  **Articol** – o mașină, dubă, camion, motocicletă, moped, scuter, quad, utilaj de construcții sau agricol, combină, motocicletă sau orice altă piesă, accesorii auto unice, precum și orice alte bunuri care, conform deciziei Furnizorului, pot face obiectul unui Anunț pe Site-ul Autovit.
+8. **Articol** – o mașină, dubă, camion, motocicletă, moped, scuter, quad, utilaj de construcții sau agricol, combină, motocicletă sau orice altă piesă, accesorii auto unice, precum și orice alte bunuri care, conform deciziei Furnizorului, pot face obiectul unui Anunț pe Site-ul Autovit.
 
-9.  **Vehicul** \-  orice tip de autovehicul, ca parte a definiției de mai sus.
+9. **Vehicul** \-  orice tip de autovehicul, ca parte a definiției de mai sus.
 
-10.  **Fonduri** **Autovit** – un portofel electronic virtual, alocat automat Contului Autorului Anunțului, pentru a permite acestuia să efectueze plăți în avans pentru serviciile contra cost ale Site-ului Autovit. Pentru informații detaliate despre plățile în avans consultați Anexa nr. 7 la acest document.
+10. **Fonduri** **Autovit** – un portofel electronic virtual, alocat automat Contului Autorului Anunțului, pentru a permite acestuia să efectueze plăți în avans pentru serviciile contra cost ale Site-ului Autovit. Pentru informații detaliate despre plățile în avans consultați Anexa nr. 7 la acest document.
 
-11.  **Website OLX -** site-ul www.olx.ro, inclusiv orice secțiune sau sub-pagină a acestuia, administrat de Furnizor, întreținut în domeniul olx.ro, disponibil și în cadrul altor site-uri administrate de partenerii Furnizorului.
+11. **Website OLX -** site-ul www.olx.ro, inclusiv orice secțiune sau sub-pagină a acestuia, administrat de Furnizor, întreținut în domeniul olx.ro, disponibil și în cadrul altor site-uri administrate de partenerii Furnizorului.
 
-12.  **Termeni și Condiții** – prevederile din acest document, create de OLX Online Services SRL, care definesc condițiile și regulile pe care Utilizatorul trebuie să le respecte în vederea utilizării Site-ului Autovit, aplicabile în egală măsură la achiziționarea de către Utilizator a serviciilor furnizate de OLX Online Services SRL, prin intermediul Autovit.
+12. **Termeni și Condiții** – prevederile din acest document, create de OLX Online Services SRL, care definesc condițiile și regulile pe care Utilizatorul trebuie să le respecte în vederea utilizării Site-ului Autovit, aplicabile în egală măsură la achiziționarea de către Utilizator a serviciilor furnizate de OLX Online Services SRL, prin intermediul Autovit.
 
-13.  **Consumator** – Autorul Anunțului, care este consumator în sensul articolului 2 din  Ordonanța 21/1992 privind protecția consumatorilor, respectiv orice persoană fizică sau grup de persoane fizice constituite în asociaţii, care activează pe Site-ul Autovit în scopuri din afara activităţii sale comerciale, industriale sau de producţie, artizanale ori liberale.
+13. **Consumator** – Autorul Anunțului, care este consumator în sensul articolului 2 din  Ordonanța 21/1992 privind protecția consumatorilor, respectiv orice persoană fizică sau grup de persoane fizice constituite în asociaţii, care activează pe Site-ul Autovit în scopuri din afara activităţii sale comerciale, industriale sau de producţie, artizanale ori liberale.
 
-14.  **Invalidare** – o situație în care (1) Articolul a fost vândut sau (2) Utilizatorul a modificat Anunțul în așa fel încât să indice că se referă la un articol diferit de cel inițial.
+14. **Invalidare** – o situație în care (1) Articolul a fost vândut sau (2) Utilizatorul a modificat Anunțul în așa fel încât să indice că se referă la un articol diferit de cel inițial.
 
 **3\. Termeni și Condiții Generale de Utilizare a Site-ului Autovit**
 
 1\. Pentru a obține funcționalitatea completă a Site-ului Autovit, Utilizatorul trebuie să înregistreze un Cont și să utilizeze Site-ul Autovit după autentificarea la Contul său. Contul oferă Utilizatorului posibilitatea de a folosi, printre altele, următoarele funcționalități:
 
-1.  publicarea și gestionarea Anunțurilor publicate;
-2.  urmărirea Anunțurilor;
-3.  gestionarea plăților și facturilor aferente serviciilor prestate pe Site-ul Autovit de către Furnizor;
-4.  trimiterea și primirea de mesaje către și de la alți Utilizatori;
-5.  comandarea serviciilor de promovare a Anunțurilor.
+1. publicarea și gestionarea Anunțurilor publicate;
+2. urmărirea Anunțurilor;
+3. gestionarea plăților și facturilor aferente serviciilor prestate pe Site-ul Autovit de către Furnizor;
+4. trimiterea și primirea de mesaje către și de la alți Utilizatori;
+5. comandarea serviciilor de promovare a Anunțurilor.
 
 2\. Înregistrarea contului necesită:
 
-1.  completarea formularului disponibil pe Site-ul Autovit și furnizarea datelor solicitate, inclusiv adresa de e-mail și o parolă unică sau autentificare printr-un furnizor extern de servicii precum Facebook, Google sau Apple;
-2.  citirea Termenilor și Condițiilor și a anexelor la prezenta și acceptarea prevederilor acestora.
+1. completarea formularului disponibil pe Site-ul Autovit și furnizarea datelor solicitate, inclusiv adresa de e-mail și o parolă unică sau autentificare printr-un furnizor extern de servicii precum Facebook, Google sau Apple;
+2. citirea Termenilor și Condițiilor și a anexelor la prezenta și acceptarea prevederilor acestora.
 
 3\. Un Anunț este postat pe Site-ul Autovit de către Autorul Anunțului, care este singurul responsabil pentru aranjarea conținutului său.
 
@@ -78,10 +78,10 @@ Următorii termeni, așa cum sunt definiți mai jos, vor avea următoarele semni
 
 12\. În scopul promovării Anunțului, Autorul Anunțului autorizează Furnizorul să publice fotografiile postate în Anunț pe rețelele sociale din România și străine în perioada în care Anunțul este afișat pe Site-ul Autovit. În plus, Autorul Anunțului, prin plasarea conținutului protejat prin drepturi de autor într-un Anunț, este de acord cu distribuirea sa gratuită, nelimitată în timp și teritoriu, pe site-urile web aparținând Furnizorului, precum și pe site-urile web partenere, cu care Furnizorul cooperează, în scopul:
 
-1.  înregistrării și reproducerii prin orice tehnică, inclusiv înregistrarea sau copierea pe orice suport;
-2.  intrării în memoria computerului și într-o rețea de computer și/sau multimedia;
-3.  expunerii și reproducerii publice;
-4.  utilizării în diverse formate, cu dreptul de a le încorpora integral sau parțial în alte lucrări și crearea de lucrări derivate.
+1. înregistrării și reproducerii prin orice tehnică, inclusiv înregistrarea sau copierea pe orice suport;
+2. intrării în memoria computerului și într-o rețea de computer și/sau multimedia;
+3. expunerii și reproducerii publice;
+4. utilizării în diverse formate, cu dreptul de a le încorpora integral sau parțial în alte lucrări și crearea de lucrări derivate.
 
 13\. Descărcarea sau utilizarea materialelor disponibile în cadrul Site-ului Autovit necesită de fiecare dată acordul Furnizorului și nu poate încălca prevederile prezentului document și legile aplicabile, precum și interesele Furnizorului și ale Autorilor de Anunțuri. Datele și informațiile disponibile pe Site-ul Autovit nu trebuie să fie agregate sau prelucrate în scopul dezvăluirii către terți în cadrul altor site-uri de Internet și în afara Internetului. Marcajele Site-ului Autovit, inclusiv elementele grafice caracteristice, nu pot fi utilizate fără acordul Furnizorului.
 
@@ -155,11 +155,11 @@ Următorii termeni, așa cum sunt definiți mai jos, vor avea următoarele semni
 
 5\. În plus, Furnizorul nu își asumă răspunderea pentru:
 
-1.  lipsa de interes pentru Articol;
-2.  orice îndeplinire a obligațiilor care decurg din garanția expresă și implicită cu privire la Articol;
-3.  orice declarații făcute de Utilizator către cealaltă parte la tranzacție;
-4.  funcționarea oricăror sisteme sau dispozitive TIC aflate în afara controlului Furnizorului;
-5.  evenimente de forță majoră.
+1. lipsa de interes pentru Articol;
+2. orice îndeplinire a obligațiilor care decurg din garanția expresă și implicită cu privire la Articol;
+3. orice declarații făcute de Utilizator către cealaltă parte la tranzacție;
+4. funcționarea oricăror sisteme sau dispozitive TIC aflate în afara controlului Furnizorului;
+5. evenimente de forță majoră.
 
 6\. Orice materiale, inclusiv elementele grafice, precum și aspectul și componență acestora, mărcile comerciale și alte informații disponibile pe paginile Site-ului Autovit fac obiectul drepturilor exclusive ale Furnizorului sau ale Autorilor de Anunțuri. Elementele menționate sunt acoperite de drepturi de autor, drepturi de proprietate industrială, inclusiv drepturi care decurg din înregistrarea mărcilor și drepturi asupra bazelor de date și, ca atare, sunt protejate prin lege.
 
@@ -227,13 +227,13 @@ Următorii termeni, așa cum sunt definiți mai jos, vor avea următoarele semni
 
 4\. Furnizorul își rezervă dreptul de a exclude anumite evaluări din ratingul mediu al Utilizatorului sau de a șterge o evaluare, total sau partial, atunci când o evaluare sau un feedback:
 
-1.  se referă la un alt Utilizator decât cel evaluat;
-2.  este dată de Utilizator pentru sine;
-3.  este dată de către angajații, rudele și afinii Utilizatorului;
-4.  este dată ca urmare a contactului cu Utilizatorul numai în scopul de a oferi o evaluare și o opinie (de exemplu, pentru a supraestima sau subestima în mod artificial credibilitatea Utilizatorului);
-5.  este legată de un Cont creat pe baza unei adrese de e-mail temporare;
-6.  a fost expusă într-un mod care indică automatizarea expunerii sau prin intermediul unor soluții care să evite analiza traficului în rețea;
-7.  încalcă Termenii și Condițiile în alt mod.
+1. se referă la un alt Utilizator decât cel evaluat;
+2. este dată de Utilizator pentru sine;
+3. este dată de către angajații, rudele și afinii Utilizatorului;
+4. este dată ca urmare a contactului cu Utilizatorul numai în scopul de a oferi o evaluare și o opinie (de exemplu, pentru a supraestima sau subestima în mod artificial credibilitatea Utilizatorului);
+5. este legată de un Cont creat pe baza unei adrese de e-mail temporare;
+6. a fost expusă într-un mod care indică automatizarea expunerii sau prin intermediul unor soluții care să evite analiza traficului în rețea;
+7. încalcă Termenii și Condițiile în alt mod.
 
 **14\. Modificări ale Termenilor și Condițiilor**
 
@@ -241,7 +241,7 @@ Următorii termeni, așa cum sunt definiți mai jos, vor avea următoarele semni
 
 2\. Orice modificări ale acestor Termeni și Condiții și ale Listei de prețuri vor intra în vigoare nu mai devreme de 15 zile de la data postării lor pe Site-ul Autovit. Orice servicii activate de către Autorii de Anunțuri înainte de data intrării în vigoare a modificărilor acestor Termeni și Condiții vor fi furnizate în termenii anteriori.
 
-3\. Dacă modificările Termenilor și Condițiilor nu sunt acceptate de către Autorul Anunțului, acesta din urmă trebuie să trimită o notificare relevantă la adresa de e-mail ajutor@autovit.ro. Aceasta va avea ca rezultat rezilierea imediată a contractului cu Furnizorul, cu condiția ca rezilierea să intervină la sfârșitul perioadei de afișare a tuturor Anunțurilor existente. 
+3\. Dacă modificările Termenilor și Condițiilor nu sunt acceptate de către Autorul Anunțului, acesta din urmă trebuie să trimită o notificare relevantă la adresa de e-mail ajutor@autovit.ro. Aceasta va avea ca rezultat rezilierea imediată a contractului cu Furnizorul, cu condiția ca rezilierea să intervină la sfârșitul perioadei de afișare a tuturor Anunțurilor existente.                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
 
 **15\. Prevederi finale**
 
@@ -255,14 +255,14 @@ Următorii termeni, așa cum sunt definiți mai jos, vor avea următoarele semni
 
 5\. Consumatorul are posibilitatea de a recurge la un mecanism de solutionare alternativă a litigiului („SAL”) prin intermediul Entității SAL din cadrul Autorității Naționale pentru Protecția Consumatorului („ANPC”), procedura fiind disponibilă la adresa: [https://anpc.ro/galerie/file/diversefg/CerereSAL2.pdf](https://anpc.ro/galerie/file/diversefg/CerereSAL2.pdf). În cazul în care Direcția SAL nu poate analiza reclamația, va transmite ambelor părți o explicație privind motivele neanalizării litigiului în termen de 21 de zile calendaristice de la primirea dosarului de reclamație.
 
-Direcția SAL dispune de un punct de contact la care consumatorii pot apela pentru a primi informații cu privire la procedura alternativă de soluționare a litigiilor si poate fi contactată la următoarele adrese: Blvd. Aviatorilor nr.72, Bucuresti, 011865, România, adresa de email dsal@anpc.ro sau la numărul de telefon 0213121275.
+Direcția SAL dispune de un punct de contact la care consumatorii pot apela pentru a primi informații cu privire la procedura alternativă de soluționare a litigiilor si poate fi contactată la următoarele adrese: Blvd. Aviatorilor nr.72, Bucuresti, 011865, România, adresa de email dsal@anpc.ro sau la numărul de telefon 0213121275.
 
- **Anexe**
+ **Anexe**
 
-*   Anexa Nr. 1 - Lista de Prețuri
-*   Anexa Nr. 2 - Servicii de promovare a Anunțurilor
-*   Anexa Nr. 3 - Serviciul de Reactualizări Automate și Pachete
-*   Anexa Nr. 4 - Reguli pentru postare
-*   Anexa Nr. 5 - Instrucțiuni privind retragerea din contract și modelul declarației privind retragerea
-*   Anexa Nr. 6 - Facturi Electronice
-*   Anexa Nr. 7 - Fonduri pentru Autovit
+* Anexa Nr. 1 - Lista de Prețuri
+* Anexa Nr. 2 - Servicii de promovare a Anunțurilor
+* Anexa Nr. 3 - Serviciul de Reactualizări Automate și Pachete
+* Anexa Nr. 4 - Reguli pentru postare
+* Anexa Nr. 5 - Instrucțiuni privind retragerea din contract și modelul declarației privind retragerea
+* Anexa Nr. 6 - Facturi Electronice
+* Anexa Nr. 7 - Fonduri pentru Autovit
