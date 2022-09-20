@@ -9,9 +9,9 @@ Airbnb uses an algorithm to generate search results that appeal to guests. The a
 
 We provide a variety of filters to help guests refine search results. The algorithm considers many factors to determine how to order search results, but some factors have a larger impact than others. In particular, the quality, popularity, and price of a listing heavily influence how a listing appears in search results.
 
-*   **Quality.** The algorithm assesses many characteristics to evaluate quality, including the listing photos, reviews of the listing, and listing characteristics. Higher quality listings tend to rank higher in search.
-*   **Popularity.** The algorithm evaluates the popularity of a listing using a wide range of information, including how guests engage with the listing and how often the listing gets booked. Examples of guest engagement with a listing include how often guests save a listing to their wish list, how often guests book, and how often guests message the Host. More popular listings tend to rank higher in search.
-*   **Price.** To determine how attractive the price of a listing is, the algorithm considers a variety of price data, including how the price compares to similar listings in the area for the given dates. Listings that are priced below other comparable listings—other listings in the area with similar guest capacity and amenities—tend to rank higher in search.
+* **Quality.** The algorithm assesses many characteristics to evaluate quality, including the listing photos, reviews of the listing, and listing characteristics. Higher quality listings tend to rank higher in search.
+* **Popularity.** The algorithm evaluates the popularity of a listing using a wide range of information, including how guests engage with the listing and how often the listing gets booked. Examples of guest engagement with a listing include how often guests save a listing to their wish list, how often guests book, and how often guests message the Host. More popular listings tend to rank higher in search.
+* **Price.** To determine how attractive the price of a listing is, the algorithm considers a variety of price data, including how the price compares to similar listings in the area for the given dates. Listings that are priced below other comparable listings—other listings in the area with similar guest capacity and amenities—tend to rank higher in search.
 
 The algorithm also encourages variety within search results - so that guests are presented with listings that have different hosts, different characteristics, and a range of prices.
 
