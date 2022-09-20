@@ -3,8 +3,8 @@ How do search engines work?
 
 Ecosia Support
 
-*   2022-05-09T22:38:32Z
-*   Updated
+* 2022-05-09T22:38:32Z
+* Updated
 
 Most internet search engines work based on similar methods. They help you search the web based on important words, so called '**keywords**". Whereas it would be really cool if you could search every single page stored on every single server connected to the internet, it's simply not possible to date. This is because search engines comb through an index they keep of a certain amount of available pages. The number of available pages within every search engine's index may be as high as hundreds of millions of web pages, but it's certainly not complete.
 
