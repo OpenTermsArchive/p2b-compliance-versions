@@ -105,17 +105,17 @@ In some cases of injury/illness that forced the user to cancel the booking, the 
 
 #### 2\. REFUNDABLE BOOKING NOT SELECTED (basic cancellation policy).
 
-1.  **100% refund of the amount paid**, in case of cancellation requested by the Guest within 48 hours after the booking confirmation by the Host. This rule does not apply if the end of 48 hours falls within the last 10 days before the check-in.
-2.  **100% refund of the rent, the cleaning fee and the tourist tax sums paid by the Guest**, in case of termination up to 10 days before the check-in day. In this case the Guest will be charged for the service fee and the social project donation as provided in article 7. The Guest will receive an invoice for the service fee due to Fair Bnb Network.
-3.  **50% refund of the rent, the cleaning fee and the tourist tax sums paid by the Guest**, in case of termination within 10 days,  but at least 2 days before, the check-in day. In this case the Guest will be charged for the service fee and the social project donation as provided in article 7. The Guest will receive an invoice for the service fee due to Fair Bnb Network.
-4.  **No refund of the sums paid by the Guest,** in case of termination within 2 days before the check-in day.  In this case the Guest will be charged for the service fee, the cleaning fee and the social project donation, as provided in article 7, plus additional penalty fee of the same amount of the tourist tax (only if tourist tax sum has been transferred to Fairbnb.coop). The Guest will receive an invoice for the service fee due to Fair Bnb Network.
+1. **100% refund of the amount paid**, in case of cancellation requested by the Guest within 48 hours after the booking confirmation by the Host. This rule does not apply if the end of 48 hours falls within the last 10 days before the check-in.
+2. **100% refund of the rent, the cleaning fee and the tourist tax sums paid by the Guest**, in case of termination up to 10 days before the check-in day. In this case the Guest will be charged for the service fee and the social project donation as provided in article 7. The Guest will receive an invoice for the service fee due to Fair Bnb Network.
+3. **50% refund of the rent, the cleaning fee and the tourist tax sums paid by the Guest**, in case of termination within 10 days,  but at least 2 days before, the check-in day. In this case the Guest will be charged for the service fee and the social project donation as provided in article 7. The Guest will receive an invoice for the service fee due to Fair Bnb Network.
+4. **No refund of the sums paid by the Guest,** in case of termination within 2 days before the check-in day.  In this case the Guest will be charged for the service fee, the cleaning fee and the social project donation, as provided in article 7, plus additional penalty fee of the same amount of the tourist tax (only if tourist tax sum has been transferred to Fairbnb.coop). The Guest will receive an invoice for the service fee due to Fair Bnb Network.
 
 The check-in day is not included in the calculation of the time provided by the paragraph above.
 
 The Host has the right to withdraw from the contract after its formation and this will entail two consequences:
 
-1.  **100% refund for the Guest**, (no charges to the Guest in case of Host’s cancellation).
-2.  **A 10% debit note will be issued to the Host as a penalty fee** to be paid in the next short term rental agreement formed by himself.
+1. **100% refund for the Guest**, (no charges to the Guest in case of Host’s cancellation).
+2. **A 10% debit note will be issued to the Host as a penalty fee** to be paid in the next short term rental agreement formed by himself.
 
 ### 7\. Service costs & Payments
 
@@ -127,12 +127,12 @@ Pre-authorization will be deactivated in case of cancellation made by the Guest 
 
 The Guest pays the following amount in case of booking confirmation:
 
-*   **the rent sum** that the platform transfers to the Host on behalf of the Guest;
-*   t**he donation sum** that the platform transfers to the legal entity in charge of the social project selected by the Guest (calculated as the 7,5% of the rent);
-*   **the service fee** due to Fair BnB Network Soc. Coop (calculated as 7,5% of the rent, vat included).
-*   **the tourist tax** (in case available for payment through the platform);
-*   **the REFUNDABLE BOOKING option fee**, in case required as additional service by the Guest, (calculated as the 8% of the above mentioned items, vat included)
-*   **the cleaning fee,** if included by the host in the overall rental costs.
+* **the rent sum** that the platform transfers to the Host on behalf of the Guest;
+* t**he donation sum** that the platform transfers to the legal entity in charge of the social project selected by the Guest (calculated as the 7,5% of the rent);
+* **the service fee** due to Fair BnB Network Soc. Coop (calculated as 7,5% of the rent, vat included).
+* **the tourist tax** (in case available for payment through the platform);
+* **the REFUNDABLE BOOKING option fee**, in case required as additional service by the Guest, (calculated as the 8% of the above mentioned items, vat included)
+* **the cleaning fee,** if included by the host in the overall rental costs.
 
 According to the exception set by article 6, the guest’s credit card will be charged with the payments after 48 hours by the booking confirmation.  
 If the payment is completed, a notification will be sent to the host, otherwise, this will imply automatically the termination of the agreement and both host and guest will be notified by email.
@@ -143,19 +143,19 @@ After the payment is completed, Fairbnb.coop will send the invoice due to the Gu
 
 ### **The Terms and Conditions for Agent for Payment services**
 
-*   [French](https://www.mangopay.com/terms/PSP/PSP_MANGOPAY_FR.pdf)
+* [French](https://www.mangopay.com/terms/PSP/PSP_MANGOPAY_FR.pdf)
 
-*   [English](https://www.mangopay.com/terms/PSP/PSP_MANGOPAY_EN.pdf)
+* [English](https://www.mangopay.com/terms/PSP/PSP_MANGOPAY_EN.pdf)
 
-*   [German](https://www.mangopay.com/terms/PSP/PSP_MANGOPAY_DE.pdf)
+* [German](https://www.mangopay.com/terms/PSP/PSP_MANGOPAY_DE.pdf)
 
-*   [Italian](https://www.mangopay.com/terms/PSP/PSP_MANGOPAY_IT.pdf)
+* [Italian](https://www.mangopay.com/terms/PSP/PSP_MANGOPAY_IT.pdf)
 
-*   [Spanish](https://www.mangopay.com/terms/PSP/PSP_MANGOPAY_ES.pdf)
+* [Spanish](https://www.mangopay.com/terms/PSP/PSP_MANGOPAY_ES.pdf)
 
-*   [Dutch](https://www.mangopay.com/terms/PSP/PSP_MANGOPAY_NL.pdf)
+* [Dutch](https://www.mangopay.com/terms/PSP/PSP_MANGOPAY_NL.pdf)
 
-*   [Polish](https://www.mangopay.com/terms/PSP/PSP_MANGOPAY_PL.pdf)
+* [Polish](https://www.mangopay.com/terms/PSP/PSP_MANGOPAY_PL.pdf)
 
 ![mangopay T&C logos @fairbnb.coop](https://fairbnb.coop/wp-content/uploads/2021/06/mangopay-tc-logos.842fd231.png "mangopay T&C logos @fairbnb.coop")
 
