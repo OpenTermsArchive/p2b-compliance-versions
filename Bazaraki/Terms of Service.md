@@ -18,48 +18,48 @@ These Terms and Conditions constitute the whole / content of the agreement betwe
 
 ### Definitions
 
-*   "Seller" is defined as the individual or company private or legal person who creates an account on Bazaraki.com for the purpose of posting ads to sell items or the provision of services.
-*   "Buyer" is defined as a private or legal person, an individual or company that, whether or not having created an account at Bazaraki.com, visits or uses the Website for the purpose of purchasing Items or providing services.
-*   "User" is defined as anyone who either simply visits or uses the Website for any purpose, including Sellers and Buyers (and shall be interpreted in accordance with the content of each paragraph). For the purposes of paragraph 2.2. “User” means owners of real estate, developers, agents, legal representatives of owners of real estate pursuant to a relevant Power of Attorney and first-degree relatives of the owners.
-*   "Ad" means any ad posted on Bazaraki.com.
-*   "Object" is defined as any tangible material that constitutes the object of an Ad.
-*   The word "we" then refers to Bazaraki, the Company, the Company owners, the Company’s management, and staff.
+* "Seller" is defined as the individual or company private or legal person who creates an account on Bazaraki.com for the purpose of posting ads to sell items or the provision of services.
+* "Buyer" is defined as a private or legal person, an individual or company that, whether or not having created an account at Bazaraki.com, visits or uses the Website for the purpose of purchasing Items or providing services.
+* "User" is defined as anyone who either simply visits or uses the Website for any purpose, including Sellers and Buyers (and shall be interpreted in accordance with the content of each paragraph). For the purposes of paragraph 2.2. “User” means owners of real estate, developers, agents, legal representatives of owners of real estate pursuant to a relevant Power of Attorney and first-degree relatives of the owners.
+* "Ad" means any ad posted on Bazaraki.com.
+* "Object" is defined as any tangible material that constitutes the object of an Ad.
+* The word "we" then refers to Bazaraki, the Company, the Company owners, the Company’s management, and staff.
 
 01\. Using Bazaraki
 -------------------
 
 You must be over 18 years old to use or access the Website. If you are under 18 you can use Bazaraki.com only with the consent of a parent or guardian. The category “Erotic massage (18+)”, is directed only to people (either users or people who wish to engage in posting an ad) aged 18 years old or over. In addition, you are not temporarily or indefinitely suspended by the user of the Website, its services, applications, or tools. In addition to the Prerequisite for using or accessing Bazaraki.com you agree that you will not:
 
-*   violate any laws
-*   violate the Posting Rules
-*   post any threatening, abusive, defamatory, obscene or indecent material
-*   post or otherwise communicate any false, inaccurate or misleading material or message of any kind
-*   Ads are classified to simple ads, Top ads and VIP ads. These are determined in the section “Help” on the Website
-*   Active Simple Ad: Means the Regular ad that a user can post in bazaraki.com following the policies and rules and prices that the company sets as mentioned in section "Help" on the Website
-*   “Top Ads”: means the Ads that follow the VIP Ads on Bazaraki.com
-*   “VIP Ads”: means the premium Ads on Bazaraki.com
-*   infringe any third-party right
-*   distribute spam, chain letters, or promote pyramid schemes
-*   distribute viruses or any other technologies that may harm Bazaraki or the interests or property of Bazaraki users
-*   impose or contribute to imposing an unreasonable or disproportionately large load on our infrastructure or interfere with the proper working of Bazaraki
-*   copy, modify, or distribute any other person's content without their consent
-*   use any robot spider, scraper or other automated means to access Bazaraki and collect content for any purpose without our express written permission
-*   copy, modify or distribute rights or content from the Bazaraki or Bazaraki's copyrights and trademarks
-*   harvest or otherwise collect information about users, including email addresses, without their consent
-*   bypass measures used to prevent or restrict access to Bazaraki
-*   sell any counterfeit items or otherwise infringe the copyright, trademark or other rights of third parties
+* violate any laws
+* violate the Posting Rules
+* post any threatening, abusive, defamatory, obscene or indecent material
+* post or otherwise communicate any false, inaccurate or misleading material or message of any kind
+* Ads are classified to simple ads, Top ads and VIP ads. These are determined in the section “Help” on the Website
+* Active Simple Ad: Means the Regular ad that a user can post in bazaraki.com following the policies and rules and prices that the company sets as mentioned in section "Help" on the Website
+* “Top Ads”: means the Ads that follow the VIP Ads on Bazaraki.com
+* “VIP Ads”: means the premium Ads on Bazaraki.com
+* infringe any third-party right
+* distribute spam, chain letters, or promote pyramid schemes
+* distribute viruses or any other technologies that may harm Bazaraki or the interests or property of Bazaraki users
+* impose or contribute to imposing an unreasonable or disproportionately large load on our infrastructure or interfere with the proper working of Bazaraki
+* copy, modify, or distribute any other person's content without their consent
+* use any robot spider, scraper or other automated means to access Bazaraki and collect content for any purpose without our express written permission
+* copy, modify or distribute rights or content from the Bazaraki or Bazaraki's copyrights and trademarks
+* harvest or otherwise collect information about users, including email addresses, without their consent
+* bypass measures used to prevent or restrict access to Bazaraki
+* sell any counterfeit items or otherwise infringe the copyright, trademark or other rights of third parties
 
 Regarding the category “Erotic massage (18+)”, users who wish to post an ad on Bazaraki agree to the following:
 
-*   You are over the age of 18
-*   You consent to provide all necessary information such as your Identity card, date of birth, full name and contact details
-*   You consent and accept that Bazaraki has no responsibility for the content of the ads. Exclusive responsibility, whether criminal or any other nature, is solely the person who makes the ad
-*   You consent and declare that the photos posted and the services advertised concern the person who posts the ad
-*   You consent and declare that the ads in this section are made with your own free will and are not the product of pressure or otherwise by third parties
-*   You consent and agree that you will not upload photos of people under the age of 18 or photos of children
-*   You consent and agree that Bazaraki does not review users postings and does not participate in the actual transactions between users
-*   This section may include sexual content for which Bazaraki has no responsibility
-*   You do not promote or participate in any illegal act that constitutes a criminal or other offence under the laws of the legal system of the Republic of Cyprus
+* You are over the age of 18
+* You consent to provide all necessary information such as your Identity card, date of birth, full name and contact details
+* You consent and accept that Bazaraki has no responsibility for the content of the ads. Exclusive responsibility, whether criminal or any other nature, is solely the person who makes the ad
+* You consent and declare that the photos posted and the services advertised concern the person who posts the ad
+* You consent and declare that the ads in this section are made with your own free will and are not the product of pressure or otherwise by third parties
+* You consent and agree that you will not upload photos of people under the age of 18 or photos of children
+* You consent and agree that Bazaraki does not review users postings and does not participate in the actual transactions between users
+* This section may include sexual content for which Bazaraki has no responsibility
+* You do not promote or participate in any illegal act that constitutes a criminal or other offence under the laws of the legal system of the Republic of Cyprus
 
 You are solely responsible for all information that you submit to Bazaraki and any consequences that may result from your post, including possible prosecution by the competent authorities.
 
@@ -78,10 +78,10 @@ Whilst every care has been taken in its preparation, Bazaraki does not make any 
 
 Users are solely responsible for the authenticity and accuracy of the information they post on Bazaraki in relation to the following:
 
-*   their personal information (including their name, age, profession and contact details)
-*   information concerning the object and/or service they post about, promote, and/or advertise
-*   being in compliance with the Cyprus laws and regulations in regards to having the right to sell, rent, lease, commission, advertise, promote and/or act as agents in regards to, the objects or services they post on classifieds, advertisements and/or advertisement banners
-*   information they provide to other users via the chat system.
+* their personal information (including their name, age, profession and contact details)
+* information concerning the object and/or service they post about, promote, and/or advertise
+* being in compliance with the Cyprus laws and regulations in regards to having the right to sell, rent, lease, commission, advertise, promote and/or act as agents in regards to, the objects or services they post on classifieds, advertisements and/or advertisement banners
+* information they provide to other users via the chat system.
 
 Users are responsible for any consequences that may result from their advertisement.
 
@@ -105,8 +105,8 @@ In no case do we take responsibility for the case that any person trusted incorr
 
 In no event, including (without limitation) negligence, will the Company, the Company’s owners, the management, and the personnel of Bazaraki be liable:
 
-*   for false or inaccurate information posted on Bazaraki, advertised on Bazaraki, or otherwise provided to Bazaraki and its representatives by the users.
-*   for any loss or damage of any kind, including (without limitation) any direct, special indirect or consequential damages, arising out of or in connection with the access of, use of, performance of, browsing in or linking to Bazaraki and/or other sites via Bazaraki.
+* for false or inaccurate information posted on Bazaraki, advertised on Bazaraki, or otherwise provided to Bazaraki and its representatives by the users.
+* for any loss or damage of any kind, including (without limitation) any direct, special indirect or consequential damages, arising out of or in connection with the access of, use of, performance of, browsing in or linking to Bazaraki and/or other sites via Bazaraki.
 
 In no event do we accept liability of any description for the posting of any unlawful, threatening, abusive, defamatory, obscene or indecent information, or material of any kind which violates or infringes upon the rights of any other person, including without limitation any transmissions constituting or encouraging conduct that would constitute a criminal offence, give rise to civil liability or otherwise violate any applicable law.
 
@@ -119,158 +119,158 @@ Please also see clause [07: Liability.](#7)
 2.1 Common Rules
 ----------------
 
-*   Only one account is available for each user. Phone numbers, which have been identified by technical analysis that they belong to the same person are determined as duplicates and are merged into one account
-*   Contact details should be added to the corresponding fields and descriptions may not be displayed in titles. In the description field, you will have more space to describe what you are advertising
-*   Please use clean, clear, and accurate photos. You cannot place your contact information (phone number, address, email, link on facebook) on product images. Images with words like “urgent”, “clearance”, “for sale” “good price” and so on are also prohibited. Misleading, fraudulent images are not allowed
-*   You cannot post pictures of products that you do not own
-*   It is only acceptable by legal entities when a photo contains a logo written only at the bottom or in the middle of the photo using small and transparent letters
-*   No links to other websites in your ad are permitted, except in certain cases such as in job ads
-*   You are advised to post your ad under the most suitable category to get more exposure and users who search for it to find it more easily
-*   You can post one ad per item, and one item per ad. Just so nobody gets confused, do not post duplicate ads
-*   You cannot use the name Bazaraki in the description of your post
-*   You can sell a product, on the express condition that it is in your possession or have obtained the consent of the owner
-*   No spam. This includes ad spam and keyword spamming in ads (delete the word, informal)
-*   If you have sold it,deactivate the ad
+* Only one account is available for each user. Phone numbers, which have been identified by technical analysis that they belong to the same person are determined as duplicates and are merged into one account
+* Contact details should be added to the corresponding fields and descriptions may not be displayed in titles. In the description field, you will have more space to describe what you are advertising
+* Please use clean, clear, and accurate photos. You cannot place your contact information (phone number, address, email, link on facebook) on product images. Images with words like “urgent”, “clearance”, “for sale” “good price” and so on are also prohibited. Misleading, fraudulent images are not allowed
+* You cannot post pictures of products that you do not own
+* It is only acceptable by legal entities when a photo contains a logo written only at the bottom or in the middle of the photo using small and transparent letters
+* No links to other websites in your ad are permitted, except in certain cases such as in job ads
+* You are advised to post your ad under the most suitable category to get more exposure and users who search for it to find it more easily
+* You can post one ad per item, and one item per ad. Just so nobody gets confused, do not post duplicate ads
+* You cannot use the name Bazaraki in the description of your post
+* You can sell a product, on the express condition that it is in your possession or have obtained the consent of the owner
+* No spam. This includes ad spam and keyword spamming in ads (delete the word, informal)
+* If you have sold it,deactivate the ad
 
 2.2 Additional rules for Real Estate
 ------------------------------------
 
-*   Ads are allowed regarding properties located exclusively within the Republic of Cyprus
-*   Bazaraki operates as an advertising platform and not as a licensed real estate agent. As such it cannot help with any transactions related to real estate
-*   Bazaraki is not in contact with the interested sellers or buyers
-*   Bazaraki is not in contact with the interested landlords or tenants
-*   Only owners of real estate, developers, agents, legal representatives of owners of real estate pursuant to a relevant Power of Attorney and first-degree relatives of the owners or real estate can list real estate on Bazaraki.
-*   Bazaraki is not obliged to and does not review, check or control any person or organisation or any legal entity that uploads Ads on the Website, but it reserves its right to do so and to take all necessary measures if Bazaraki considers or has reasons to believe that any of these Τerms and Conditions are infringed
-*   Bazaraki cannot arrange viewings of the listed properties
-*   The information on Bazaraki is provided purely for informative purposes and does not constitute or form part of any offer or invitation by Bazaraki to sell or to rent real estate and it should not form the basis of, or be relied on in connection with or act as any inducement to enter into, any contract or commitment whatsoever with respect to any such real estate
-*   Person/s or companies listing real estate on Bazaraki must always ensure that listing details are legitimate and correct, in compliance with all applicable laws, regulations and codes of practice in the Republic of Cyprus and any compliance guidelines published or made available by Bazaraki from time to time, will not be defamatory, misleading, discriminatory or infringe any copyright, trademark or other intellectual property rights or rights of any third party whatsoever, they have the authority to market the listings, has/have all necessary authorities, consents and licences necessary to use, display, reproduce, publish the Ad
-*   Person/s or companies listing real estate on Bazaraki it shall not use Bazaraki's name or any logos, trademarks of Bazaraki in a defamatory or derogatory manner or in any way that might bring Bazaraki, or its directors or employees into disrepute, will abide by any applicable industry code of conduct, recommendations or guidelines issued by the Real Estate Registration Council or any other competent authority and will provide a contactable telephone number and shall ensure that the majority of calls made to that telephone number are answered in person
-*   Person/s or companies listing real estate on Bazaraki is/are responsible for the integrity of the information, which is in all respects true, complete and accurate to the best of its/their knowledge and belief and he/she/they shall promptly update or correct Information by himself/herself/themselves or with necessary changes to xml
-*   Bazaraki may in its absolute discretion, at any time, remove, cause to be removed or decline to display any information or Ad on the Website which fails to comply with these Terms and Conditions, and shall notify the User of such decision and the reason of rejection or removal at the time of, the relevant Information and/or Ad being removed or rejected
-*   Bazaraki may without prejudice to Bazaraki's right as set out in these Terms and Conditions, require the information to be amended at any time if Bazaraki considers or has reason to believe that the User is in breach of the Terms and Conditions or any applicable law or regulation or where it deems in its absolute discretion the information to be of poor quality in terms of presentation, information provided or otherwise
-*   Bazaraki reserves the right to charge the User for additional fees or in a manner it deems appropriate or on a per property basis if Bazaraki has reason to believe that Ad and/or information uploaded by any of the User's branch offices is in breach of these Terms and Conditions
-*   Bazaraki shall not be under any obligation to monitor or censor the Information and/or Ad that appears on the Website, but Bazaraki reserves the right for itself to do so
-*   Bazaraki is not responsible for any error or omissions in any information provided or Ad
-*   The User acknowledges and agrees that technological failure may impede the provision of the listing services or prevent access to all, or any part of the Ad or information displayed on the Website. BZRK makes no representation or warranty that the Website, the listing services, or the information or Ad will be always accessible or available, or that the whole or any part of the Website, listing services or the information will be free from error and while BZRK will make reasonable endeavours to notify the User in advance, it may suspend temporarily or alter the operation of the Website, or listing services without notice to the User
-*   The User acknowledges and agrees that all intellectual property rights in the lisiting services, technology supporting the listing services and the Website vest in Bazaraki and/or its licensors/sub-contractors and that the User has no rights in, or to, such intellectual property other than the right to use the same in accordance with these Terms and Conditions. For the avoidance of doubt, save to the extent otherwise specified in these Terms and Conditions, all intellectual property rights in the information published by the User and Ad shall remain vested in the User (or its licensors, as applicable)
-*   The User shall not publish, disclose, reproduce, or create any derivative works from any information obtained pursuant to the User's use of the services unless expressly agreed in writing by BZRK
-*   All enquiries in relation to real estate, must go to the persons listing the property
-*   According to the relevant legislation to be considered a bona fide purchaser for value (i.e. a purchaser acting in good faith) you must make reasonable enquiries before you proceed to buy any real estate. Therefore, interested buyers should independently ensure that the information in relation to the real estate they are interested in is authentic and correct. The interested buyers are advised to request title deeds of the property and/or a search from the Land Registry to establish, amongst others, the following: the true owner of the property, the size of the property, whether the property has a mortgage or other charges
-*   The information supplied by third parties with reference to listing advertising properties are not guaranteed by Bazaraki, validity needs to be confirmed via contacting person/s or agents who listed the property. If at any time you may think that any listing is misrepresenting true facts or is misleading, then please report the listing though the Bazaraki Help page and the listing and the persons that posted it, will be investigated, and if your claim is justified the listing will be removed from Bazaraki
-*   Your correspondence or business dealings with advertisers found on or through Bazaraki, including payment of a deposit or any other amount in relation to the purchase or real estate, and any other terms, conditions, warranties or representations associated with such dealings, are solely between you and such advertiser
-*   We are not responsible for any loss or damage of any sort incurred as a result of any dealings in relation to real estate
-*   Any form of fiduciary or estate agency relationship between us and the users, owners or real estate, developers and agents does not exist
-*   We strongly recommend that you use the services of a lawyer prior to proceeding with any form of real estate transaction
+* Ads are allowed regarding properties located exclusively within the Republic of Cyprus
+* Bazaraki operates as an advertising platform and not as a licensed real estate agent. As such it cannot help with any transactions related to real estate
+* Bazaraki is not in contact with the interested sellers or buyers
+* Bazaraki is not in contact with the interested landlords or tenants
+* Only owners of real estate, developers, agents, legal representatives of owners of real estate pursuant to a relevant Power of Attorney and first-degree relatives of the owners or real estate can list real estate on Bazaraki.
+* Bazaraki is not obliged to and does not review, check or control any person or organisation or any legal entity that uploads Ads on the Website, but it reserves its right to do so and to take all necessary measures if Bazaraki considers or has reasons to believe that any of these Τerms and Conditions are infringed
+* Bazaraki cannot arrange viewings of the listed properties
+* The information on Bazaraki is provided purely for informative purposes and does not constitute or form part of any offer or invitation by Bazaraki to sell or to rent real estate and it should not form the basis of, or be relied on in connection with or act as any inducement to enter into, any contract or commitment whatsoever with respect to any such real estate
+* Person/s or companies listing real estate on Bazaraki must always ensure that listing details are legitimate and correct, in compliance with all applicable laws, regulations and codes of practice in the Republic of Cyprus and any compliance guidelines published or made available by Bazaraki from time to time, will not be defamatory, misleading, discriminatory or infringe any copyright, trademark or other intellectual property rights or rights of any third party whatsoever, they have the authority to market the listings, has/have all necessary authorities, consents and licences necessary to use, display, reproduce, publish the Ad
+* Person/s or companies listing real estate on Bazaraki it shall not use Bazaraki's name or any logos, trademarks of Bazaraki in a defamatory or derogatory manner or in any way that might bring Bazaraki, or its directors or employees into disrepute, will abide by any applicable industry code of conduct, recommendations or guidelines issued by the Real Estate Registration Council or any other competent authority and will provide a contactable telephone number and shall ensure that the majority of calls made to that telephone number are answered in person
+* Person/s or companies listing real estate on Bazaraki is/are responsible for the integrity of the information, which is in all respects true, complete and accurate to the best of its/their knowledge and belief and he/she/they shall promptly update or correct Information by himself/herself/themselves or with necessary changes to xml
+* Bazaraki may in its absolute discretion, at any time, remove, cause to be removed or decline to display any information or Ad on the Website which fails to comply with these Terms and Conditions, and shall notify the User of such decision and the reason of rejection or removal at the time of, the relevant Information and/or Ad being removed or rejected
+* Bazaraki may without prejudice to Bazaraki's right as set out in these Terms and Conditions, require the information to be amended at any time if Bazaraki considers or has reason to believe that the User is in breach of the Terms and Conditions or any applicable law or regulation or where it deems in its absolute discretion the information to be of poor quality in terms of presentation, information provided or otherwise
+* Bazaraki reserves the right to charge the User for additional fees or in a manner it deems appropriate or on a per property basis if Bazaraki has reason to believe that Ad and/or information uploaded by any of the User's branch offices is in breach of these Terms and Conditions
+* Bazaraki shall not be under any obligation to monitor or censor the Information and/or Ad that appears on the Website, but Bazaraki reserves the right for itself to do so
+* Bazaraki is not responsible for any error or omissions in any information provided or Ad
+* The User acknowledges and agrees that technological failure may impede the provision of the listing services or prevent access to all, or any part of the Ad or information displayed on the Website. BZRK makes no representation or warranty that the Website, the listing services, or the information or Ad will be always accessible or available, or that the whole or any part of the Website, listing services or the information will be free from error and while BZRK will make reasonable endeavours to notify the User in advance, it may suspend temporarily or alter the operation of the Website, or listing services without notice to the User
+* The User acknowledges and agrees that all intellectual property rights in the lisiting services, technology supporting the listing services and the Website vest in Bazaraki and/or its licensors/sub-contractors and that the User has no rights in, or to, such intellectual property other than the right to use the same in accordance with these Terms and Conditions. For the avoidance of doubt, save to the extent otherwise specified in these Terms and Conditions, all intellectual property rights in the information published by the User and Ad shall remain vested in the User (or its licensors, as applicable)
+* The User shall not publish, disclose, reproduce, or create any derivative works from any information obtained pursuant to the User's use of the services unless expressly agreed in writing by BZRK
+* All enquiries in relation to real estate, must go to the persons listing the property
+* According to the relevant legislation to be considered a bona fide purchaser for value (i.e. a purchaser acting in good faith) you must make reasonable enquiries before you proceed to buy any real estate. Therefore, interested buyers should independently ensure that the information in relation to the real estate they are interested in is authentic and correct. The interested buyers are advised to request title deeds of the property and/or a search from the Land Registry to establish, amongst others, the following: the true owner of the property, the size of the property, whether the property has a mortgage or other charges
+* The information supplied by third parties with reference to listing advertising properties are not guaranteed by Bazaraki, validity needs to be confirmed via contacting person/s or agents who listed the property. If at any time you may think that any listing is misrepresenting true facts or is misleading, then please report the listing though the Bazaraki Help page and the listing and the persons that posted it, will be investigated, and if your claim is justified the listing will be removed from Bazaraki
+* Your correspondence or business dealings with advertisers found on or through Bazaraki, including payment of a deposit or any other amount in relation to the purchase or real estate, and any other terms, conditions, warranties or representations associated with such dealings, are solely between you and such advertiser
+* We are not responsible for any loss or damage of any sort incurred as a result of any dealings in relation to real estate
+* Any form of fiduciary or estate agency relationship between us and the users, owners or real estate, developers and agents does not exist
+* We strongly recommend that you use the services of a lawyer prior to proceeding with any form of real estate transaction
 
 2.3 Forbidden Posts
 -------------------
 
-*   Enhancing drugs;
-*   Alcohol;
-*   Animal parts;
-*   Cigarettes, electronic cigarettes, liquid for smoking and related products;
-*   Competing websites;
-*   Dangerous and/or illegal gases and substances;
-*   Drugs and drug paraphernalia;
-*   Medication only available by prescription;
-*   Food, drink and supplements;
-*   Firearms and ammunition (even if it is legal to buy them);
-*   Steel arms (knife etc);
-*   Fireworks of any kind;
-*   Gambling;
-*   Historical artifacts / protected heritage goods;
-*   Personal information or mailing lists;
-*   Propaganda;
-*   Stolen objects;
-*   Terroristic propaganda / accessories;
-*   Threatened / protected wild life, plants and insects;
-*   Threatening, discriminating, violent or offensive behavior;
-*   Trade in human beings;
-*   Any kind of currency (except for numismatic purposes);
-*   Gift cards, vouchers, coupons, tickets, gift certificates;
-*   Fortune-telling, magical services, supplies and goods;
-*   Personal hygiene devices;
-*   Online and offline money loans, company liquidation and credit services;
-*   MLM, Pyramid and referral schemes
+* Enhancing drugs;
+* Alcohol;
+* Animal parts;
+* Cigarettes, electronic cigarettes, liquid for smoking and related products;
+* Competing websites;
+* Dangerous and/or illegal gases and substances;
+* Drugs and drug paraphernalia;
+* Medication only available by prescription;
+* Food, drink and supplements;
+* Firearms and ammunition (even if it is legal to buy them);
+* Steel arms (knife etc);
+* Fireworks of any kind;
+* Gambling;
+* Historical artifacts / protected heritage goods;
+* Personal information or mailing lists;
+* Propaganda;
+* Stolen objects;
+* Terroristic propaganda / accessories;
+* Threatened / protected wild life, plants and insects;
+* Threatening, discriminating, violent or offensive behavior;
+* Trade in human beings;
+* Any kind of currency (except for numismatic purposes);
+* Gift cards, vouchers, coupons, tickets, gift certificates;
+* Fortune-telling, magical services, supplies and goods;
+* Personal hygiene devices;
+* Online and offline money loans, company liquidation and credit services;
+* MLM, Pyramid and referral schemes
 
 2.4 Forbidden animal species
 ----------------------------
 
 The following animals are forbidden by law to be imported in Cyprus, Sale, Advertise for Sale, Offer or Animal Exposure
 
-*   Any animals that belong in the family of Antilocapridae
-*   Any animals that belong in the family of Bovidae (Antelope, Bison, Buffalo, Wildbeest, Impala, Gazelle)
-*   Any animals that belong in the family of Camelidae (Llama, Dromedary, Camel, Alpaca, Vicuna, Guanaco)
-*   Any animals that belong in the family of Carnivora (Candilae, Felidae, Mustelids, badger, Raccoon, Skunks and any other similar that belong in this families) - (Exception in Dogs Canis lupus familiaris)
-*   Any animals that belong in the family of Crocodylia (Crocodile, Alligators, Gharial and any other similar that belong in this families)
-*   Any animals that belong in the family of Cervidae (Deers, Moose, Muntjac. Elk, Chital, Reindeer, Roe deer and any other similar that belong in this families)
-*   Any animals that belong in the family of Diprotodontia (for example: Kangaroo, Wallaby, Koala, Wombat
-*   Any animals that belong in the family of Equidae (Exception in: horses, donkeys)
-*   Any animals that belong in the family of Suidae
-*   Any animals that belong in the family of Tayassuidae
-*   Cyprus warbler (Sylvia melanothorax)
-*   Cyprus wheatear (Oenanthe cypriaca)
-*   Short - toed treecreeper (certhia brachydactyla dorotheae)
-*   Eurasian jay (Garrulus glandarius glaszneri)
-*   Scops Owl (Otus Scops cyprius)
-*   Coal Tit (Periparus ater cypriotes)
-*   Dog breeds: Pit Bull Terrier, American Pit Bull, Japanese Tosa, Tosa Inu, Dogo Argentino, Argentinian Mastiff, Fila Brasileiro, Brazilian Mastiff.
+* Any animals that belong in the family of Antilocapridae
+* Any animals that belong in the family of Bovidae (Antelope, Bison, Buffalo, Wildbeest, Impala, Gazelle)
+* Any animals that belong in the family of Camelidae (Llama, Dromedary, Camel, Alpaca, Vicuna, Guanaco)
+* Any animals that belong in the family of Carnivora (Candilae, Felidae, Mustelids, badger, Raccoon, Skunks and any other similar that belong in this families) - (Exception in Dogs Canis lupus familiaris)
+* Any animals that belong in the family of Crocodylia (Crocodile, Alligators, Gharial and any other similar that belong in this families)
+* Any animals that belong in the family of Cervidae (Deers, Moose, Muntjac. Elk, Chital, Reindeer, Roe deer and any other similar that belong in this families)
+* Any animals that belong in the family of Diprotodontia (for example: Kangaroo, Wallaby, Koala, Wombat
+* Any animals that belong in the family of Equidae (Exception in: horses, donkeys)
+* Any animals that belong in the family of Suidae
+* Any animals that belong in the family of Tayassuidae
+* Cyprus warbler (Sylvia melanothorax)
+* Cyprus wheatear (Oenanthe cypriaca)
+* Short - toed treecreeper (certhia brachydactyla dorotheae)
+* Eurasian jay (Garrulus glandarius glaszneri)
+* Scops Owl (Otus Scops cyprius)
+* Coal Tit (Periparus ater cypriotes)
+* Dog breeds: Pit Bull Terrier, American Pit Bull, Japanese Tosa, Tosa Inu, Dogo Argentino, Argentinian Mastiff, Fila Brasileiro, Brazilian Mastiff.
 
 ### In addition, it is prohibited to post advertisements for Invasive Alien Species which are under EU legislation (Regulation 1143/2014), are not allowed to be imported, kept, bred, sold, exchanged or released into the environment.
 
 Animals:
 
-*   Crab - mitten crab
-*   Turtle
-*   Eagle
-*   Sciurus - Fox squirrel
-*   Squirrel
-*   Crow - Crow
-*   Crayfish - Καραβίδας (for example: Procambarus clarkii, Procambarus fallax f. Virginalis, Marbled crayfish, Red swamp crayfish, Pacifastacus leniusculus Signal crayfish, Orconectes limosus Spiny, cheek crayfish, Orconectes virilis Virile crayfish
-*   Deer
-*   Muntiacus reevesi Muntjac deer
-*   Bullfrog
-*   Raccoon
-*   Trachemys scripta - Yellow-bellied Slider, Redeared Slider, Cumberland Slider
-*   Duck(example: Oxyura jamaicensis, Ruddy duck)
-*   Threskiornis aethiopicus - Sacred ibis
-*   Herpestes javanicus - Small Asian mongoose
-*   Nasua nasua - South American coati
-*   Pseudorasbora parva - Topmouth gudgeon
-*   Alophochen aegyptiacus - Egyptian goose
-*   Procyon lotor Raccoon
-*   Nyctereutes procyonoides - Raccoon dog
-*   Ondantra zibenthicus
-*   Sciurus niger Fox squirrel
-*   Sciurus carolinensis Grey squirrel
-*   Callosciurus erythraeus Pallas's squirrel
-*   Tamias sibiricus Siberian chipmunk
+* Crab - mitten crab
+* Turtle
+* Eagle
+* Sciurus - Fox squirrel
+* Squirrel
+* Crow - Crow
+* Crayfish - Καραβίδας (for example: Procambarus clarkii, Procambarus fallax f. Virginalis, Marbled crayfish, Red swamp crayfish, Pacifastacus leniusculus Signal crayfish, Orconectes limosus Spiny, cheek crayfish, Orconectes virilis Virile crayfish
+* Deer
+* Muntiacus reevesi Muntjac deer
+* Bullfrog
+* Raccoon
+* Trachemys scripta - Yellow-bellied Slider, Redeared Slider, Cumberland Slider
+* Duck(example: Oxyura jamaicensis, Ruddy duck)
+* Threskiornis aethiopicus - Sacred ibis
+* Herpestes javanicus - Small Asian mongoose
+* Nasua nasua - South American coati
+* Pseudorasbora parva - Topmouth gudgeon
+* Alophochen aegyptiacus - Egyptian goose
+* Procyon lotor Raccoon
+* Nyctereutes procyonoides - Raccoon dog
+* Ondantra zibenthicus
+* Sciurus niger Fox squirrel
+* Sciurus carolinensis Grey squirrel
+* Callosciurus erythraeus Pallas's squirrel
+* Tamias sibiricus Siberian chipmunk
 
 Plants:
 
-*   Aquatic plant Alternanthera philoxeroides
-*   Asclepias syriaca -Asklepias kournoutios
-*   Terrestrial plant Baccharis halimifolia
-*   Cabomba caroliniana -Green camomba
-*   Eichhornia crassipes - Hyacinth of water
-*   Aquatic plant Elodea nuttallii
-*   Terrestrial plant Gunnera tinctoria
-*   Heracleum mantegazzianum-Giant Heraklion the flywheel
-*   Heracleum persicum-Golpar terrestrial plant
-*   Heracleum sosnowskyi terrestrial plant
-*   Aquatic plant Hydrocotyle ranunculoides
-*   Impatiens glandulifera - Himalayan Balm
-*   Aquatic plant Lagarosiphon major
-*   Aquatic plant Ludwigia grandiflora
-*   Aquatic plant Ludwigia peploides
-*   Lysichiton americanus terrestrial plant
-*   Terrestrial plant Microstegium vimineum
-*   Aquatic plant Myriophyllum aquaticum
-*   Aquatic plant Myriophyllum heterophyllum
-*   Terrestrial plant Parthenium hysterophorus
-*   Terrestrial plant Pennisetum setaceum
-*   Persicaria perfoliate terrestrial plant
-*   Terrestrial plant Pueraria lobata-Kudzu
+* Aquatic plant Alternanthera philoxeroides
+* Asclepias syriaca -Asklepias kournoutios
+* Terrestrial plant Baccharis halimifolia
+* Cabomba caroliniana -Green camomba
+* Eichhornia crassipes - Hyacinth of water
+* Aquatic plant Elodea nuttallii
+* Terrestrial plant Gunnera tinctoria
+* Heracleum mantegazzianum-Giant Heraklion the flywheel
+* Heracleum persicum-Golpar terrestrial plant
+* Heracleum sosnowskyi terrestrial plant
+* Aquatic plant Hydrocotyle ranunculoides
+* Impatiens glandulifera - Himalayan Balm
+* Aquatic plant Lagarosiphon major
+* Aquatic plant Ludwigia grandiflora
+* Aquatic plant Ludwigia peploides
+* Lysichiton americanus terrestrial plant
+* Terrestrial plant Microstegium vimineum
+* Aquatic plant Myriophyllum aquaticum
+* Aquatic plant Myriophyllum heterophyllum
+* Terrestrial plant Parthenium hysterophorus
+* Terrestrial plant Pennisetum setaceum
+* Persicaria perfoliate terrestrial plant
+* Terrestrial plant Pueraria lobata-Kudzu
 
 According to the provisions of Dogs’ Laws of 2002 until 2019, as well as the Protection and Welfare of Animals (Acquisition and Sale of Animals) Regulations of 2021, as these are amended from time to time, the sale of animals is prohibited to be conducted by non-licensed persons. The sale of animals is conducted by persons who operate properties maintaining animals with intention to sell them and they are obliged to acquire the relevant certificate for that purpose, issued by the competent authority.
 
@@ -337,29 +337,29 @@ As a result of the above, Bazaraki.com assumes no responsibility and disclaims a
 
 Indicatively and not restrictively, Bazaraki.com bears absolutely no responsibility and disclaims any claim in the following:
 
-1.  Negotiation and Execution of the Terms of the Contract
+1. Negotiation and Execution of the Terms of the Contract
     
     It becomes clear that the Seller and the Buyer are free to negotiate and agree on the specific terms of the transaction between them. Users can contract in the way and type that they alone will choose their own responsibility. Bazaraki.com does not take part and does not bear any responsibility regarding the negotiation, but also regarding the execution of the above terms.
     
     Further, you acknowledge that Bazaraki.com is not responsible for any damages caused to persons, objects, property and other items, or for other direct, indirect or ancillary damages suffered by the User or third party due to or on the occasion of the conclusion or execution of a purchase contract.
     
-2.  Financial Terms - Transaction
+2. Financial Terms - Transaction
     
     As Bazaraki.com does not participate and is not part of the agreement or contract that the Seller concludes with the Buyer, it is not involved in the formulation of the financial terms that will govern this agreement or contract, as indicative and not restrictive, with the amount of the purchase price, the time, manner and place of its repayment, but neither with the observance and execution of these conditions.
     
     The price that can be mentioned in a published Ad may be indicative and the parties may agree on a higher or lower price. It is therefore the sole responsibility of the Contracting Users, to agree to the above terms as well as to fulfil them while, it becomes clear that the Seller can claim exclusively from the Buyer (and in no case from Bazaraki.com) the agreed price.
     
-3.  Differences in the quality and characteristics of the Objects
+3. Differences in the quality and characteristics of the Objects
     
     Bazaraki.com bears no responsibility for the security or authenticity of the Items, for any inherent actual or legal defects, lack of agreed properties, as well as in case the quality and general characteristics of the Items do not meet the description given, in the posted Ad. In the event of any dispute between Users regarding the above, you expressly acknowledge that Bazaraki.com assumes no liability, therefore there is no obligation on the part of Bazaraki.com to provide civil restitution, compensation, or payment to Users.
     
-4.  Compliance with the Legislation
+4. Compliance with the Legislation
     
     It is the sole responsibility of the Users to comply with the applicable legislation and the principles imposed by good faith and business ethics and to ensure that the content of the agreement or contract between them and any act or action does not contradict the above.
     
     Bazaraki.com draws the attention of Users to the fact that they must take care of any obligation to impose and refund VAT. and for any obligation to issue a receipt in each of their financial transactions, in accordance with the provisions of law. Compliance with tax legislation is the sole responsibility of the Users and Bazaraki.com bears no responsibility and disclaims any claim regarding the above.
     
-5.  Liability disclaimer
+5. Liability disclaimer
     
     The usage of the Website entails commitment with the terms and conditions. The intel, which appear in the Website are intended to provide customers with information possibly are of their interest. Every effort is being endeavored so as for the intel to be current and precise, howbeit it is not unlikely for errors to be encountered.
     
@@ -369,7 +369,7 @@ Indicatively and not restrictively, Bazaraki.com bears absolutely no responsibil
     
     To the fullest extent allowed from the applicable law, the Company under the trade name BZRK LIMITED disclaims any liability towards you and every other person in relation with the context of this present Website thus every other services provided via the later, in terms of tort, contract, bail, liability or negligence or any other occurrence and in relation with indirect, direct, consequent, special, penal or ancillary damage, even in the case where the Company under the trade name BZRK LIMITED has been informed, knows or should have known the possibility of such damage.
     
-6.  References and hyperlinks to third party websites
+6. References and hyperlinks to third party websites
     
     The Website is able to contain references or/and hyperlinks from and to other Websites. If you refer to any of them or follow some hyperlink towards any of the other Websites, this means that you have already exited from the Website and it should be made known to you that the Company has absolutely none control upon these said other Websites thus neither possesses them or maintain them. The Company has absolutely no obligation or/and liability and in no circumstances accepts thus disclaims any and all together the obligations or liabilities for the context and the material that is provided by the other Websites and for the confidentiality of any information that might be provided during your visit to other Websites. The parties which possess and maintain or/and connect with other Websites bear full responsibility, whether civil or penal for the security, legitimacy or trustworthiness of the contexts of their Website and their services, with the Company under the trade name BZRK LIMITED being excluded from any liability.
     
@@ -431,11 +431,11 @@ You will not modify, adapt, translate, prepare derivative works from, decompile,
 
 These Terms and Conditions and these Terms of Use are an agreement between you and Bazaraki, and not with Apple. Apple is not responsible for the Bazaraki Application and the content thereof
 
-1.  Bazaraki grants you the right to use the Bazaraki Application only on an iOS product that you own or control and as permitted by the Usage Rules set forth in the App Store Terms of Service.
-2.  Apple has no obligation whatsoever to furnish any maintenance and support services with respect to the Bazaraki Application.
-3.  Apple is not responsible for the investigation, defense, settlement, and discharge of any third party intellectual property infringement claim.
-4.  Apple is not responsible for addressing any claims by you or any third party relating to the Bazaraki Application or your possession and/or use of the Bazaraki Application, including but not limited to: (a) product liability claims; (b) any claims that the Bazaraki application does not comply with any applicable legal or regulatory requirements; and (c) claims arising from consumer protection or similar legislation.
-5.  Apple and Apple's subsidiaries are third party beneficiaries of these Terms and Conditions and these Terms of Use, and, upon your acceptance, Apple as a third-party beneficiary thereof will have the right (and will be deemed to have accepted the right) to enforce these Terms and Conditions and these Terms of Use against you.
+1. Bazaraki grants you the right to use the Bazaraki Application only on an iOS product that you own or control and as permitted by the Usage Rules set forth in the App Store Terms of Service.
+2. Apple has no obligation whatsoever to furnish any maintenance and support services with respect to the Bazaraki Application.
+3. Apple is not responsible for the investigation, defense, settlement, and discharge of any third party intellectual property infringement claim.
+4. Apple is not responsible for addressing any claims by you or any third party relating to the Bazaraki Application or your possession and/or use of the Bazaraki Application, including but not limited to: (a) product liability claims; (b) any claims that the Bazaraki application does not comply with any applicable legal or regulatory requirements; and (c) claims arising from consumer protection or similar legislation.
+5. Apple and Apple's subsidiaries are third party beneficiaries of these Terms and Conditions and these Terms of Use, and, upon your acceptance, Apple as a third-party beneficiary thereof will have the right (and will be deemed to have accepted the right) to enforce these Terms and Conditions and these Terms of Use against you.
 
 14\. Refund & Cancellation policy
 ---------------------------------
@@ -467,18 +467,18 @@ Data Controller of Your personal data within the meaning of the General Data Pro
 
 We will collect and process personal information if you voluntarily provide us with such information in connection with the following:
 
-*   Any identifying information such as your name, telephone number and email address when you register for an account with us.
-*   Buying or selling information you provide during a transaction, or other transaction-based content that you generate or is connected to your account as a result of a transaction you are involved in.
-*   Financial and billing information (such as credit card or bank account numbers) in connection with a transaction with us, which is held by our trusted payment processing service providers.
-*   Your information when you submit the feedback and support form and/or information through your participation in community discussions, chats or when you otherwise correspond with us regarding our Services.
-*   Aadditional information we are required or authorized by applicable national law to collect and process in order to authenticate or identify real estate agents.
+* Any identifying information such as your name, telephone number and email address when you register for an account with us.
+* Buying or selling information you provide during a transaction, or other transaction-based content that you generate or is connected to your account as a result of a transaction you are involved in.
+* Financial and billing information (such as credit card or bank account numbers) in connection with a transaction with us, which is held by our trusted payment processing service providers.
+* Your information when you submit the feedback and support form and/or information through your participation in community discussions, chats or when you otherwise correspond with us regarding our Services.
+* Aadditional information we are required or authorized by applicable national law to collect and process in order to authenticate or identify real estate agents.
 
 We also collect information automatically when you use our Services, including but not limited to the following:
 
-*   device ID or unique identifier, device type, ID for advertising, and unique device token
-*   geo-location information, including location information from your mobile device
-*   computer and connection information such as statistics on your page views, traffic to and from the sites, referral URL, ad data, your IP address, your browsing history, and your web log information.
-*   personal information we collect using cookies, web beacons, and similar technologies. For more information about cookies, see our Cookies Policy.
+* device ID or unique identifier, device type, ID for advertising, and unique device token
+* geo-location information, including location information from your mobile device
+* computer and connection information such as statistics on your page views, traffic to and from the sites, referral URL, ad data, your IP address, your browsing history, and your web log information.
+* personal information we collect using cookies, web beacons, and similar technologies. For more information about cookies, see our Cookies Policy.
 
 We may also use call-tracking technologies that will allow us and our users to measure with more precision the number of calls received by our platform's ads. By using such technologies, we might record the first six digits of your telephone number, as well as the duration, date and time of your call. This information is processed without any attempt to identify any individual. The conversation between the concerned agent and the caller is not recorded and not stored in any of the servers of Bazaraki. This technology is merely used for Bazaraki’s performance purposes. We provide our clients only with anonymous data and specifically with the total number of calls they accepted via our ads.
 
@@ -489,10 +489,10 @@ We may allow you to share information with social media sites or use social medi
 
 Depending on how you interact with us, we will process your personal data in order to:
 
-*   Provide, improve, and personalize our Services
-*   Contact you about your account and provide you customer service
-*   Personalize our advertising and marketing communications
-*   Prevent, detect, mitigate, and investigate fraudulent or illegal activities
+* Provide, improve, and personalize our Services
+* Contact you about your account and provide you customer service
+* Personalize our advertising and marketing communications
+* Prevent, detect, mitigate, and investigate fraudulent or illegal activities
 
 For our Services the legal basis for the processing of your personal data is to perform each contract with you. If your personal data are not provided or not provided correctly, we will be unable to provide our Services. For marketing purposes and promotional actions regarding our clients, we consider that we have a legitimate interest in promoting our business. When contacting you via telephone, to ensure efficiency, we may use auto-dialed or pre-recorded calls if you have consented to such contact.
 
@@ -534,12 +534,12 @@ We will process your data at all times in a confidential way and maintain the ma
 
 We undertake to keep your personal data confidential and to ensure that you may exercise your rights at any time free of charge. In particular, notwithstanding the purpose or legal basis we use to process your data, you have the following rights:
 
-*   To obtain confirmation about whether or not your personal data are being processed by us and to request access to your personal data that we hold;
-*   To rectify any inaccurate or incomplete data;
-*   To request that we erase your personal data to the extent that they are no longer necessary for the purpose for which we need to keep processing them, as we have explained above, or when we are no longer legally permitted to process them;
-*   To request that we limit the processing of your personal data, which entails that in certain cases you can request us to temporarily suspend the processing of the data or that we keep them longer than necessary;
-*   If you have given us your consent to process your data, you also have the right to withdraw such consent at any time;
-*   To request the portability of your personal data.
+* To obtain confirmation about whether or not your personal data are being processed by us and to request access to your personal data that we hold;
+* To rectify any inaccurate or incomplete data;
+* To request that we erase your personal data to the extent that they are no longer necessary for the purpose for which we need to keep processing them, as we have explained above, or when we are no longer legally permitted to process them;
+* To request that we limit the processing of your personal data, which entails that in certain cases you can request us to temporarily suspend the processing of the data or that we keep them longer than necessary;
+* If you have given us your consent to process your data, you also have the right to withdraw such consent at any time;
+* To request the portability of your personal data.
 
 Finally, we inform you that you have the right to lodge a complaint regarding the processing of your personal data by us before the Personal Data Commissioner’s Office.
 
@@ -566,10 +566,10 @@ In order to help you better understand this Policy and our use of such technolog
 
 Cookies are small text files (typically made up of letters and numbers) placed in the memory of your browser or device when you visit a website or view a message. Cookies allow a website to recognize a particular device or browser. There are several types of cookies:
 
-*   Session cookies expire at the end of your browser session and allow us to link your actions during that particular browser session;
-*   Persistent cookies are stored on your device in between browser sessions, allowing us to remember your preferences or actions across multiple site;
-*   First-party cookies are set by the site you are visiting;
-*   Third-party cookies are set by a third-party site separate from the site you are visiting.
+* Session cookies expire at the end of your browser session and allow us to link your actions during that particular browser session;
+* Persistent cookies are stored on your device in between browser sessions, allowing us to remember your preferences or actions across multiple site;
+* First-party cookies are set by the site you are visiting;
+* Third-party cookies are set by a third-party site separate from the site you are visiting.
 
 Cookies can be disabled or removed by tools that are available in most commercial browsers. The preferences for each browser you use will need to be set separately and different browsers offer different functionality and options.
 
