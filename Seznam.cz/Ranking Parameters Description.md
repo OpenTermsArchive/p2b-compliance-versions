@@ -6,10 +6,10 @@ Technické podmínky
 
 Po odeslání dotazu se zobrazí stránka s výsledky vyhledávání. Typicky tato stránka obsahuje více výsledků následujících druhů:
 
-*   [Přirozené výsledky](https://napoveda.seznam.cz/cz/fulltext-hledani-v-internetu/technicke-podminky/organic)
-*   [Upoutávky a chytré karty](https://napoveda.seznam.cz/cz/fulltext-hledani-v-internetu/technicke-podminky/upoutavky)
-*   [Miniaplikace a karusel](https://napoveda.seznam.cz/cz/fulltext-hledani-v-internetu/technicke-podminky/miniaplikace)
-*   [Reklamu](https://napoveda.seznam.cz/cz/fulltext-hledani-v-internetu/technicke-podminky/reklama)
+* [Přirozené výsledky](https://napoveda.seznam.cz/cz/fulltext-hledani-v-internetu/technicke-podminky/organic)
+* [Upoutávky a chytré karty](https://napoveda.seznam.cz/cz/fulltext-hledani-v-internetu/technicke-podminky/upoutavky)
+* [Miniaplikace a karusel](https://napoveda.seznam.cz/cz/fulltext-hledani-v-internetu/technicke-podminky/miniaplikace)
+* [Reklamu](https://napoveda.seznam.cz/cz/fulltext-hledani-v-internetu/technicke-podminky/reklama)
 
 Přirozené výsledky
 ------------------
@@ -20,12 +20,12 @@ Pro řazení přirozených výsledků je klíčový proces strojového učení. 
 
 **Informace, které slouží jako hlavní parametry při vyhodnocování modelů relevance:**
 
-*   Informace o výskytu slov z dotazu v dokumentu nebo v odkazech.
-*   Grafové algoritmy nad odkazovou sítí a statistiky zpětných odkazů.
-*   Zpětná vazba od uživatelů: počet kliků na výsledek, počet kliků na výsledky z webu.
-*   Shoda jazyka dokumentu s jazykem dotazu.
-*   Informace o dotazu: jazyk, slovní druhy, vzácnost jednotlivých slov (jak často se vyskytují v textech dokumentů), počet segmentů dotazu, které mají samostatný význam.
-*   Informace o dokumentu: jazyk, statistiky výskytu html elementů (odstavce, nadpisy, seznamy, obrázky), protokol http/https, velikost dokumentu, velikost bezeztrátově komprimovaného dokumentu, výskyt kódů reklamních systémů.
+* Informace o výskytu slov z dotazu v dokumentu nebo v odkazech.
+* Grafové algoritmy nad odkazovou sítí a statistiky zpětných odkazů.
+* Zpětná vazba od uživatelů: počet kliků na výsledek, počet kliků na výsledky z webu.
+* Shoda jazyka dokumentu s jazykem dotazu.
+* Informace o dotazu: jazyk, slovní druhy, vzácnost jednotlivých slov (jak často se vyskytují v textech dokumentů), počet segmentů dotazu, které mají samostatný význam.
+* Informace o dokumentu: jazyk, statistiky výskytu html elementů (odstavce, nadpisy, seznamy, obrázky), protokol http/https, velikost dokumentu, velikost bezeztrátově komprimovaného dokumentu, výskyt kódů reklamních systémů.
 
 Upoutávky a chytré karty
 ------------------------
@@ -34,8 +34,8 @@ Mají přidanou informační hodnotu pro uživatele. Jejich začlenění mezi v�
 
 **Kompletní seznam upoutávek a karet:**
 
-*   [Upoutávky](https://napoveda.seznam.cz/cz/fulltext-hledani-v-internetu/zobrazeni-dalsich-sluzeb/)
-*   [Chytré karty](https://napoveda.seznam.cz/cz/fulltext-hledani-v-internetu/chytre-karty/)
+* [Upoutávky](https://napoveda.seznam.cz/cz/fulltext-hledani-v-internetu/zobrazeni-dalsich-sluzeb/)
+* [Chytré karty](https://napoveda.seznam.cz/cz/fulltext-hledani-v-internetu/chytre-karty/)
 
 Miniaplikace a karusel
 ----------------------
@@ -44,9 +44,9 @@ Miniapliakce mají za cíl přímo odpovědět na dotaz uživatele v základníc
 
 **Kompletní seznam miniaplikací a přímých odpovědí:**
 
-*   [Miniaplikace](https://napoveda.seznam.cz/cz/fulltext-hledani-v-internetu/miniaplikace/)
-*   [Odpovídač](https://napoveda.seznam.cz/cz/fulltext-hledani-v-internetu/odpovidac/)
-*   [Karusely](https://napoveda.seznam.cz/cz/fulltext-hledani-v-internetu/karusely/)
+* [Miniaplikace](https://napoveda.seznam.cz/cz/fulltext-hledani-v-internetu/miniaplikace/)
+* [Odpovídač](https://napoveda.seznam.cz/cz/fulltext-hledani-v-internetu/odpovidac/)
+* [Karusely](https://napoveda.seznam.cz/cz/fulltext-hledani-v-internetu/karusely/)
 
 Reklama
 -------
@@ -55,4 +55,4 @@ Jedná se o speciální pozice v rámci výsledků vyhledávání technologicky 
 
 **Pravidla anotací ke stažení (formát PDF):**
 
-*   [Pravidla anotování relevance verze 4.0.0.-2022.01.pdf](https://napoveda.seznam.cz/soubory/Fulltext/Pravidla-anotovani-relevance-verze-4.0.0_-022.01.pdf)
+* [Pravidla anotování relevance verze 4.0.0.-2022.01.pdf](https://napoveda.seznam.cz/soubory/Fulltext/Pravidla-anotovani-relevance-verze-4.0.0_-022.01.pdf)
