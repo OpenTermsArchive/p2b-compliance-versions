@@ -1,9 +1,9 @@
 CONDICIONES APLICABLES A LOS SERVICIOS
 ======================================
 
-*   [**CONDICIONES APLICABLES PARA LOS WALKERS DE GURUWALK**](#s1)
-*   [**TÉRMINOS Y CONDICIONES APLICABLES PARA LOS GUÍAS DE GURUWALK**](#s2)
-*   [TERMS AND CONDITIONS APPLICABLE TO GURUWALK AFFILIATES](#s3)
+* [**CONDICIONES APLICABLES PARA LOS WALKERS DE GURUWALK**](#s1)
+* [**TÉRMINOS Y CONDICIONES APLICABLES PARA LOS GUÍAS DE GURUWALK**](#s2)
+* [TERMS AND CONDITIONS APPLICABLE TO GURUWALK AFFILIATES](#s3)
 
 #### **CONDICIONES APLICABLES PARA LOS WALKERS DE GURUWALK**
 
@@ -72,13 +72,13 @@ Tú eres el único responsable de la interacción que establezcas con otros usua
 
 No está permitido y, por tanto, sus consecuencias serán de tu exclusiva responsabilidad como **walker**, el acceso o la utilización de la Plataforma con fines ilegales o no autorizados, con o sin finalidad económica, y, con carácter enunciativo, pero no limitativo, queda prohibido:
 
-1.  Usar la Plataforma en forma que pueda provocar daños, interrupciones, ineficiencias o defectos en su funcionalidad o en el ordenador de un tercero;
-2.  Usar la Plataforma para la transmisión, la instalación o la publicación de cualquier virus, código malicioso u otros programas o archivos perjudiciales;
-3.  Registrarse a través de la Plataforma con una identidad falsa, suplantando a terceros o utilizando un perfil falso o realizando cualquier otra acción que pueda confundir a otros usuarios sobre el origen de un mensaje;
-4.  Acceder sin autorización a cualquier sección de la Plataforma, a otros sistemas o redes conectadas a la Plataforma, a ningún servidor de **GURUWALK** ni a los servicios ofrecidos a través de la Plataforma, por medio de pirateo o falsificación, extracción de contraseñas o cualquier otro medio ilegítimo;
-5.  Quebrantar, o intentar quebrantar, las medidas de seguridad o autenticación de la Plataforma o de cualquier red conectada a la misma, o las medidas de seguridad o protección inherentes a los contenidos ofrecidos en la Plataforma
-6.  Llevar a cabo alguna acción que provoque una saturación desproporcionada o innecesaria en la infraestructura de la Plataforma o en los sistemas o redes de **GURUWALK**, así como en los sistemas y redes conectados a la Plataforma, tales como ataques de denegación de servicio;
-7.  Impedir el normal desarrollo de las promociones o concursos o cualquier otra actividad que se pueda ofrecer a través de la Plataforma o cualesquiera de sus funcionalidades, ya sea alterando o tratando de alterar, ilegalmente o de cualquier otra forma, el acceso, participación o funcionamiento de aquéllos, o falseando el resultado de los mismos y/o utilizando métodos de participación fraudulentos, mediante cualquier procedimiento, y/o a través de cualquier práctica que atente o vulnere en modo alguno los presentes términos y condiciones.
+1. Usar la Plataforma en forma que pueda provocar daños, interrupciones, ineficiencias o defectos en su funcionalidad o en el ordenador de un tercero;
+2. Usar la Plataforma para la transmisión, la instalación o la publicación de cualquier virus, código malicioso u otros programas o archivos perjudiciales;
+3. Registrarse a través de la Plataforma con una identidad falsa, suplantando a terceros o utilizando un perfil falso o realizando cualquier otra acción que pueda confundir a otros usuarios sobre el origen de un mensaje;
+4. Acceder sin autorización a cualquier sección de la Plataforma, a otros sistemas o redes conectadas a la Plataforma, a ningún servidor de **GURUWALK** ni a los servicios ofrecidos a través de la Plataforma, por medio de pirateo o falsificación, extracción de contraseñas o cualquier otro medio ilegítimo;
+5. Quebrantar, o intentar quebrantar, las medidas de seguridad o autenticación de la Plataforma o de cualquier red conectada a la misma, o las medidas de seguridad o protección inherentes a los contenidos ofrecidos en la Plataforma
+6. Llevar a cabo alguna acción que provoque una saturación desproporcionada o innecesaria en la infraestructura de la Plataforma o en los sistemas o redes de **GURUWALK**, así como en los sistemas y redes conectados a la Plataforma, tales como ataques de denegación de servicio;
+7. Impedir el normal desarrollo de las promociones o concursos o cualquier otra actividad que se pueda ofrecer a través de la Plataforma o cualesquiera de sus funcionalidades, ya sea alterando o tratando de alterar, ilegalmente o de cualquier otra forma, el acceso, participación o funcionamiento de aquéllos, o falseando el resultado de los mismos y/o utilizando métodos de participación fraudulentos, mediante cualquier procedimiento, y/o a través de cualquier práctica que atente o vulnere en modo alguno los presentes términos y condiciones.
 
 **GURUWALK** podrá eliminar o bloquear la cuenta de cualquier **walker** que incumpla las condiciones antedichas, sin perjuicio del ejercicio de las acciones judiciales y/o administrativas que **GURUWALK** pueda emprender contra el guía infractor. La eliminación de la cuenta no acarreará en caso alguno indemnización de daños y perjuicios.
 
@@ -125,23 +125,23 @@ Al mismo tiempo, es tu responsabilidad garantizar la exactitud, legitimidad y co
 
 Por tanto, garantizas que el contenido que subas tales como fotos de rutas, o redacción de estas es:
 
-1.  Contenido original, es decir, creado por ti mismo.
-2.  Esto implica que la publicación y uso de tu contenido no infringe, malversa ni vulnera los derechos de terceros, incluidos sin limitación; los derechos de privacidad, de publicidad, de autor, de marcas u otros derechos de propiedad intelectual e industrial en sentido amplio.
-3.  En el caso de que uses contenido protegido, la responsabilidad del pago por los derechos de autor del contenido usado de forma no autorizada, recae sobre ti y aceptas expresamente que, si el autor original reclamara a **GURUWALK**, nosotros podamos dirigirnos en su nombre hacia ti, para hacerte cargo y responder ante cualquier eventual conflicto de este tipo.
-4.  En esta misma línea, cualquier posible infracción en cuanto a publicidad, privacidad, derecho de la competencia, si es imputable al contenido publicado en relación a tus fotos, textos o cualquier recurso utilizado, aceptas expresamente también que responderás personalmente y no **GURUWALK**.
-5.  Con el alta como guía en **GURUWALK**, reconoces que tienes el derecho y la capacidad legal de cumplir estos términos y condiciones bajo la jurisdicción española.
+1. Contenido original, es decir, creado por ti mismo.
+2. Esto implica que la publicación y uso de tu contenido no infringe, malversa ni vulnera los derechos de terceros, incluidos sin limitación; los derechos de privacidad, de publicidad, de autor, de marcas u otros derechos de propiedad intelectual e industrial en sentido amplio.
+3. En el caso de que uses contenido protegido, la responsabilidad del pago por los derechos de autor del contenido usado de forma no autorizada, recae sobre ti y aceptas expresamente que, si el autor original reclamara a **GURUWALK**, nosotros podamos dirigirnos en su nombre hacia ti, para hacerte cargo y responder ante cualquier eventual conflicto de este tipo.
+4. En esta misma línea, cualquier posible infracción en cuanto a publicidad, privacidad, derecho de la competencia, si es imputable al contenido publicado en relación a tus fotos, textos o cualquier recurso utilizado, aceptas expresamente también que responderás personalmente y no **GURUWALK**.
+5. Con el alta como guía en **GURUWALK**, reconoces que tienes el derecho y la capacidad legal de cumplir estos términos y condiciones bajo la jurisdicción española.
 
 **5) USOS NO PERMITIDOS DE LA PLATAFORMA COMO GUÍA Y CONSECUENCIAS DEL INCUMPLIMIENTO**
 
 No está permitido y, por tanto, sus consecuencias serán de tu exclusiva responsabilidad como guía el acceso o la utilización de la Plataforma con fines ilegales o no autorizados, con o sin finalidad económica, y, con carácter enunciativo, pero no limitativo, queda prohibido:
 
-1.  Usar la Plataforma en forma que pueda provocar daños, interrupciones, ineficiencias o defectos en su funcionalidad o en el ordenador de un tercero;
-2.  Usar la Plataforma para la transmisión, la instalación o la publicación de cualquier virus, código malicioso u otros programas o archivos perjudiciales;
-3.  Registrarse a través de la Plataforma con una identidad falsa, suplantando a terceros o utilizando un perfil falso o realizando cualquier otra acción que pueda confundir a otros usuarios sobre el origen de un mensaje;
-4.  Acceder sin autorización a cualquier sección de la Plataforma, a otros sistemas o redes conectadas a la Plataforma, a ningún servidor de **GURUWALK** ni a los servicios ofrecidos a través de la Plataforma, por medio de pirateo o falsificación, extracción de contraseñas o cualquier otro medio ilegítimo;
-5.  Quebrantar, o intentar quebrantar, las medidas de seguridad o autenticación de la Plataforma o de cualquier red conectada a la misma, o las medidas de seguridad o protección inherentes a los contenidos ofrecidos en la Plataforma
-6.  Llevar a cabo alguna acción que provoque una saturación desproporcionada o innecesaria en la infraestructura de la Plataforma o en los sistemas o redes de **GURUWALK**, así como en los sistemas y redes conectados a la Plataforma, tales como ataques de denegación de servicio;
-7.  Impedir el normal desarrollo de las promociones o concursos o cualquier otra actividad que se pueda ofrecer a través de la Plataforma o cualesquiera de sus funcionalidades, ya sea alterando o tratando de alterar, ilegalmente o de cualquier otra forma, el acceso, participación o funcionamiento de aquéllos, o falseando el resultado de los mismos y/o utilizando métodos de participación fraudulentos, mediante cualquier procedimiento, y/o a través de cualquier práctica que atente o vulnere en modo alguno los presentes términos y condiciones.
+1. Usar la Plataforma en forma que pueda provocar daños, interrupciones, ineficiencias o defectos en su funcionalidad o en el ordenador de un tercero;
+2. Usar la Plataforma para la transmisión, la instalación o la publicación de cualquier virus, código malicioso u otros programas o archivos perjudiciales;
+3. Registrarse a través de la Plataforma con una identidad falsa, suplantando a terceros o utilizando un perfil falso o realizando cualquier otra acción que pueda confundir a otros usuarios sobre el origen de un mensaje;
+4. Acceder sin autorización a cualquier sección de la Plataforma, a otros sistemas o redes conectadas a la Plataforma, a ningún servidor de **GURUWALK** ni a los servicios ofrecidos a través de la Plataforma, por medio de pirateo o falsificación, extracción de contraseñas o cualquier otro medio ilegítimo;
+5. Quebrantar, o intentar quebrantar, las medidas de seguridad o autenticación de la Plataforma o de cualquier red conectada a la misma, o las medidas de seguridad o protección inherentes a los contenidos ofrecidos en la Plataforma
+6. Llevar a cabo alguna acción que provoque una saturación desproporcionada o innecesaria en la infraestructura de la Plataforma o en los sistemas o redes de **GURUWALK**, así como en los sistemas y redes conectados a la Plataforma, tales como ataques de denegación de servicio;
+7. Impedir el normal desarrollo de las promociones o concursos o cualquier otra actividad que se pueda ofrecer a través de la Plataforma o cualesquiera de sus funcionalidades, ya sea alterando o tratando de alterar, ilegalmente o de cualquier otra forma, el acceso, participación o funcionamiento de aquéllos, o falseando el resultado de los mismos y/o utilizando métodos de participación fraudulentos, mediante cualquier procedimiento, y/o a través de cualquier práctica que atente o vulnere en modo alguno los presentes términos y condiciones.
 
 **GURUWALK** podrá eliminar o bloquear la cuenta de cualquier guía que incumpla las condiciones antedichas, sin perjuicio del ejercicio de las acciones judiciales y/o administrativas que **GURUWALK** pueda emprender contra el guía infractor. La eliminación de la cuenta no acarreará en caso alguno indemnización de daños y perjuicios.
 
@@ -151,11 +151,11 @@ Por ello y en esta línea, **GURUWALK** antes de emprender este tipo de acciones
 
 Sin perjuicio de las limitaciones expuestas en el punto cinco, los Gurus Hobby cuentan además con las siguientes limitaciones de uso de la plataforma **GURUWALK**:
 
-1.  No se permite a un mismo usuario tener más de una cuenta Hobby.
-2.  No podrán crear en la plataforma más de tres tours.
-3.  Por cada Tour solo será posible publicar dos horarios por idioma y día, dichos horarios tendrán que tener una diferencia mínima de dos horas entre sí.
-4.  No se permite bajo ningún concepto la unión de Walkers procedentes de diferentes tours en un mismo evento.
-5.  No se podrán realizar falsas cancelaciones.
+1. No se permite a un mismo usuario tener más de una cuenta Hobby.
+2. No podrán crear en la plataforma más de tres tours.
+3. Por cada Tour solo será posible publicar dos horarios por idioma y día, dichos horarios tendrán que tener una diferencia mínima de dos horas entre sí.
+4. No se permite bajo ningún concepto la unión de Walkers procedentes de diferentes tours en un mismo evento.
+5. No se podrán realizar falsas cancelaciones.
 
 **GURUWALK** podrá eliminar o bloquear la cuenta de cualquier guía Hobby que incumpla las condiciones antedichas. La eliminación de la cuenta no acarreará en caso alguno indemnización de daños y perjuicios.
 
@@ -231,8 +231,8 @@ GuruWalk will pay the Affiliate a fixed amount based on the net income obtained 
 
 The commission will be calculated on the basis of the net income generated in the previous month and applying the following percentages: (i) € 1.00 for each walker (person) that you book on a tour with the PRO tag and who does the tour.
 
-*   Reservation completed. You have to wait for the traveler to take the free tour and for the guru (local guide) to confirm the assistance for the reservation to be counted.
-*   No shows \* will not be counted as a completed reservation.
+* Reservation completed. You have to wait for the traveler to take the free tour and for the guru (local guide) to confirm the assistance for the reservation to be counted.
+* No shows \* will not be counted as a completed reservation.
 
   
 _\*No show: a tourist who reserves a tour but doesn’t do the tour._
