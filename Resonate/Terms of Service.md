@@ -8,10 +8,10 @@ Welcome to Resonate. As a Cooperative, Resonate is primarily concerned with prov
 
 The Cooperative’s objectives are:
 
-*   to provide members with a music exchange platform, which enables the promotion, distribution, sale and/or exchange of music and related products and services.
-*   to undertake all activities related to the development and maintenance of the above.
-*   to engage in any transaction that may seem to the Board of the Cooperative to be directly or indirectly conducive to achieving the objects otherwise outlined in these rules.
-*   to advance Cooperative Values and Principles that create social capital through participatory management and democratic governance processes.
+* to provide members with a music exchange platform, which enables the promotion, distribution, sale and/or exchange of music and related products and services.
+* to undertake all activities related to the development and maintenance of the above.
+* to engage in any transaction that may seem to the Board of the Cooperative to be directly or indirectly conducive to achieving the objects otherwise outlined in these rules.
+* to advance Cooperative Values and Principles that create social capital through participatory management and democratic governance processes.
 
 Acceptance of Terms of Use
 --------------------------
