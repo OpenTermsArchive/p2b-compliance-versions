@@ -48,11 +48,11 @@ These Terms of Use are valid for all services that TRIVAGO provides to Hoteliers
 
 4.5. YOU represent and warrant not to take actions that generate automated page impressions, are intended to harm and/or interfere with TRIVAGO’s software/hardware in any way and/or contradict with applicable laws and good morals in other ways. This includes but is not limited to:
 
-*   the use of viruses, other computer programmes or technologies that harm our software or hardware or can interfere with the use of computers;
-*   the use of bots, spiders, scrapers, viruses, or other malware;
-*   the use of any programme that serves the purpose of collecting or using personal data of other users (especially for commercial use);
-*   generating an improperly high amount of page impressions on the trivago Platforms;
-*   other similar acts that are intended to harm or could harm the functionality of the trivago Platforms.
+* the use of viruses, other computer programmes or technologies that harm our software or hardware or can interfere with the use of computers;
+* the use of bots, spiders, scrapers, viruses, or other malware;
+* the use of any programme that serves the purpose of collecting or using personal data of other users (especially for commercial use);
+* generating an improperly high amount of page impressions on the trivago Platforms;
+* other similar acts that are intended to harm or could harm the functionality of the trivago Platforms.
 
 ### 5\. Special Instructions for the use of the Applications
 
@@ -234,14 +234,14 @@ These Controller-to-Processor Data Processing Terms ("**Data Processing Terms**"
 
 **1\. Definitions and Interpretation**
 
-*   "CPA" means the California Consumer Privacy Act.
-*   "Controller" means the Hotelier.
-*   "GDPR" means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016.
-*   "European Data Protection Laws" means EU GDPR and/or UK GDPR.
-*   "LGPD" means the Brazilian General Data Protection Law (Lei Geral de Proteção de Dados Pessoais).
-*   "UK GDPR" means the GDPR as amended and incorporated into UK law under the UK European Union (Withdrawal) Act 2018 and any national law that gives effect to this law.
-*   "Applicable Data Protection Laws" means (as applicable) the LGPD, CCPA GDPR or the UK GDPR.
-*   "Standard Contractual Clauses" means the standard contractual clauses for the transfer of personal data to third countries pursuant to the GDPR and adopted by the European Commission under document number[C (2021) 3972.](https://studio.trivago.com/home/eu-user-consent-policy)
+* "CPA" means the California Consumer Privacy Act.
+* "Controller" means the Hotelier.
+* "GDPR" means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016.
+* "European Data Protection Laws" means EU GDPR and/or UK GDPR.
+* "LGPD" means the Brazilian General Data Protection Law (Lei Geral de Proteção de Dados Pessoais).
+* "UK GDPR" means the GDPR as amended and incorporated into UK law under the UK European Union (Withdrawal) Act 2018 and any national law that gives effect to this law.
+* "Applicable Data Protection Laws" means (as applicable) the LGPD, CCPA GDPR or the UK GDPR.
+* "Standard Contractual Clauses" means the standard contractual clauses for the transfer of personal data to third countries pursuant to the GDPR and adopted by the European Commission under document number[C (2021) 3972.](https://studio.trivago.com/home/eu-user-consent-policy)
 
 The terms "Controller," "Data Subject," "Personal Data," "Processing," and "Processor" as used in these Data Processing Terms have the meanings given in the GDPR. When terms appear in these Data Processing Terms and they are defined in the Terms of Use, they take on the same meaning as the same term in the Terms of Use.
 
@@ -325,13 +325,13 @@ The Controller can contact TRIVAGO at any time in relation to these Data Process
 
 Hotelier’s general data access in trivago Business Studio
 
-*   **Hotel name**: the name of the inventory item.
-*   **Hotel address**: the address of the inventory item.
-*   **ID**: the unique ID number for the inventory item.
-*   **User roles**: the email address with user role (Admin/Member).
-*   **Personal information**: the title, name, job, position, phone number of the account holder.
-*   **Payment information**: the preferred payment method for the Hotelier’s inventory and associated subscription, payment method, and billing address.
-*   **Subscriptions**: an overview of active and expired paid subscriptions (e.g., Rate Connect).
-*   **Local settings**: language and currency.
-*   **City**: the city in which the inventory item is located.
-*   **Stars**: the number of stars in which the inventory item is categorized (from 1 to 5).
+* **Hotel name**: the name of the inventory item.
+* **Hotel address**: the address of the inventory item.
+* **ID**: the unique ID number for the inventory item.
+* **User roles**: the email address with user role (Admin/Member).
+* **Personal information**: the title, name, job, position, phone number of the account holder.
+* **Payment information**: the preferred payment method for the Hotelier’s inventory and associated subscription, payment method, and billing address.
+* **Subscriptions**: an overview of active and expired paid subscriptions (e.g., Rate Connect).
+* **Local settings**: language and currency.
+* **City**: the city in which the inventory item is located.
+* **Stars**: the number of stars in which the inventory item is categorized (from 1 to 5).
