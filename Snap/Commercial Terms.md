@@ -81,35 +81,35 @@ Notices under these Business Services Terms must be in writing and sent: (a) if 
 9\. Supplemental Terms and Policies
 -----------------------------------
 
-You will comply with the [Community Guidelines](https://snap.com/en-US/community-guidelines), [Advertising Policies](https://snap.com/en-US/ad-policies), [Merchant Policies](https://snap.com/en-US/policies/merchant), [Brand Guidelines](https://snap.com/en-US/brand-guidelines), [Promotions Rules](https://support.snapchat.com/en-US/a/promotions-rules), [Snapcode Usage Guidelines](https://support.snapchat.com/a/snapcode-guidelines), any creative and technical specifications set forth by Snap, and all other Snap terms, guidelines, and policies governing your use of the Business Services, including those described elsewhere in these Business Services Terms and those set forth below if you use the Business Services for the purposes specified in those documents (“Supplemental Terms and Policies”). 
+You will comply with the [Community Guidelines](https://snap.com/en-US/community-guidelines), [Advertising Policies](https://snap.com/en-US/ad-policies), [Merchant Policies](https://snap.com/en-US/policies/merchant), [Brand Guidelines](https://snap.com/en-US/brand-guidelines), [Promotions Rules](https://support.snapchat.com/en-US/a/promotions-rules), [Snapcode Usage Guidelines](https://support.snapchat.com/a/snapcode-guidelines), any creative and technical specifications set forth by Snap, and all other Snap terms, guidelines, and policies governing your use of the Business Services, including those described elsewhere in these Business Services Terms and those set forth below if you use the Business Services for the purposes specified in those documents (“Supplemental Terms and Policies”). 
 
-*   If the entity using the Business Services has its principal place of business in a country listed in the [Local Terms](https://snap.com/en-US/terms/local) and is using the Business Services for purposes specified in the [Local Terms](https://snap.com/en-US/terms/local), then you agree to the [Local Terms](https://snap.com/en-US/terms/local).
+* If the entity using the Business Services has its principal place of business in a country listed in the [Local Terms](https://snap.com/en-US/terms/local) and is using the Business Services for purposes specified in the [Local Terms](https://snap.com/en-US/terms/local), then you agree to the [Local Terms](https://snap.com/en-US/terms/local).
     
-*   If you use the Business Services to create or manage content, including ads and catalogs, then you agree to the [Self-Serve Advertising Terms](https://snap.com/en-US/terms/self-serve-advertising).
+* If you use the Business Services to create or manage content, including ads and catalogs, then you agree to the [Self-Serve Advertising Terms](https://snap.com/en-US/terms/self-serve-advertising).
     
-*   If you use the Business Services to provide Snap and its affiliates with access to your product catalog then you agree to the [Catalog Terms](https://snap.com/en-US/terms/catalog).
+* If you use the Business Services to provide Snap and its affiliates with access to your product catalog then you agree to the [Catalog Terms](https://snap.com/en-US/terms/catalog).
     
-*   If Snap provides creative services to you then you agree to the [Snap Creative Services Terms](https://snap.com/en-US/terms/cst).
+* If Snap provides creative services to you then you agree to the [Snap Creative Services Terms](https://snap.com/en-US/terms/cst).
     
-*   Payments for purchases under these Business Services Terms are governed by the [Payment Terms](https://snap.com/en-US/terms/payment).
+* Payments for purchases under these Business Services Terms are governed by the [Payment Terms](https://snap.com/en-US/terms/payment).
     
-*   If you use the Business Services for Snap’s customer list audience program then you agree to the [Customer List Audience Terms](https://snap.com/en-US/terms/snap-audience-match).
+* If you use the Business Services for Snap’s customer list audience program then you agree to the [Customer List Audience Terms](https://snap.com/en-US/terms/snap-audience-match).
     
-*   If Snap acts as your service provider for Snap's customer list audience program, then you agree to the [Service Provider Terms](https://snap.com/en-US/terms/service-provider).
+* If Snap acts as your service provider for Snap's customer list audience program, then you agree to the [Service Provider Terms](https://snap.com/en-US/terms/service-provider).
     
-*   If you use the Business Services for Snap’s conversion program then you agree to the [Snap Conversion Terms](https://snap.com/en-US/terms/snap-conversion).
+* If you use the Business Services for Snap’s conversion program then you agree to the [Snap Conversion Terms](https://snap.com/en-US/terms/snap-conversion).
     
-*   If you provide or receive personal data via the Business Services then you agree to the [Personal Data Terms](https://snap.com/en-US/terms/personal-data).
+* If you provide or receive personal data via the Business Services then you agree to the [Personal Data Terms](https://snap.com/en-US/terms/personal-data).
     
-*   If Snap processes personal data on your behalf then you agree to the [Data Processing Agreement](https://snap.com/en-US/terms/data-processing-agreement).
+* If Snap processes personal data on your behalf then you agree to the [Data Processing Agreement](https://snap.com/en-US/terms/data-processing-agreement).
     
-*   If you and Snap are independent controllers of personal data provided via the Business Services then you agree to the [Data Sharing Agreement](https://snap.com/en-US/terms/data-sharing-agreement).
+* If you and Snap are independent controllers of personal data provided via the Business Services then you agree to the [Data Sharing Agreement](https://snap.com/en-US/terms/data-sharing-agreement).
     
-*   If you use the Business Services for Snap’s developer program then you agree to the [Snap Developer Terms](https://snap.com/en-US/terms/developer).
+* If you use the Business Services for Snap’s developer program then you agree to the [Snap Developer Terms](https://snap.com/en-US/terms/developer).
     
-*   If you use the Business Services to access Snap’s business tools then you agree to the [Snap Business Tools Terms](https://snap.com/en-US/terms/snap-business-tools).
+* If you use the Business Services to access Snap’s business tools then you agree to the [Snap Business Tools Terms](https://snap.com/en-US/terms/snap-business-tools).
     
-*   If you use the Business Services for displaying, facilitating the sale of, and selling products or services then you agree to the [Snap Merchant Terms](https://snap.com/en-US/terms/merchant).
+* If you use the Business Services for displaying, facilitating the sale of, and selling products or services then you agree to the [Snap Merchant Terms](https://snap.com/en-US/terms/merchant).
     
 
 Other Business Services may also be governed by Supplemental Terms and Policies, which will be made available to you when you elect to use those specific Business Services, and those Supplemental Terms and Policies are incorporated by reference into these Business Services Terms when you accept them.
