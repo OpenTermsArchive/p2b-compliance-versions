@@ -36,9 +36,9 @@ Portal nepremicnine.net uporabnikom omogoča pregledovanje vpisanih in objavo la
 
 Zasebni uporabniki, ki se s posredovanjem nepremičnin ne ukvarjajo profesionalno, lahko na portalu nepremicnine.net:
 
-1.  Brezplačno objavijo 1 (en) mali oglas (ne velja za novogradnje - starost do treh let) s ponudbo oziroma povpraševanjem po nepremičnini, ki se prikaže na seznamu zadetkov iskanih nepremičnin;
-2.  V primeru novogradenj (starost do treh let) in oddajanja počitniških kapacitet za turistične namene, so oglasi plačljivi tudi za fizične osebe v skladu s cenikom MEGANET. Oglasi zasebnih uporabnikov, ki so fizične osebe, ki se s posredovanjem nepremičnin ne ukvarjajo profesionalno, se aktivirajo v roku 24 ur in so po aktivaciji na portalu vidni v roku 60 minut;
-3.  V primeru uvrstitve oglasa v rubriko »ne spreglejte«, se oglas prikaže ma vrhu seznama zadetkov ter je oglas plačljiv za fizične osebe kot tudi za poslovne uporabnike.
+1. Brezplačno objavijo 1 (en) mali oglas (ne velja za novogradnje - starost do treh let) s ponudbo oziroma povpraševanjem po nepremičnini, ki se prikaže na seznamu zadetkov iskanih nepremičnin;
+2. V primeru novogradenj (starost do treh let) in oddajanja počitniških kapacitet za turistične namene, so oglasi plačljivi tudi za fizične osebe v skladu s cenikom MEGANET. Oglasi zasebnih uporabnikov, ki so fizične osebe, ki se s posredovanjem nepremičnin ne ukvarjajo profesionalno, se aktivirajo v roku 24 ur in so po aktivaciji na portalu vidni v roku 60 minut;
+3. V primeru uvrstitve oglasa v rubriko »ne spreglejte«, se oglas prikaže ma vrhu seznama zadetkov ter je oglas plačljiv za fizične osebe kot tudi za poslovne uporabnike.
 
 Poslovni uporabniki, ki se s posredovanjem nepremičnin ukvarjajo profesionalno, lahko na portalu nepremicnine.net objavijo svojo ponudbo oz. povpraševanje, le po predhodnem dogovoru z MEGANET.  
 Enako velja tudi za vse družbe in druge posrednike, ki se s posredovanjem nepremičnin ne ukvarjajo profesionalno in tržijo lastne nepremičnine.
@@ -49,22 +49,22 @@ Uporabnik mora plačati za storitev objave po cenah, ki so navedene v ceniku MEG
 
 Uporabnik se zavezuje, da bo pri vnosu oglasa spoštoval naslednja navodila:
 
-*   oglas mora biti napisan izključno v slovenskem jeziku,
-*   vsebina oglasa mora biti resnična, pravilna, aktualna,
-*   vsebina oglasa ne sme biti nezakonita, škodljiva, zavajajoča, sporna, moralno neprimerna ali žaljiva, zlasti ne sme predstavljati kršenja pravic intelektualne lastnine,
-*   vsebina oglasa ne sme biti identična oglasu (popolnoma prepisan oglas drugega uporabnika), ki je že vpisan na portal nepremicnine.net,
-*   prepovedano je namerno brisanje in ponovno vpisovanje oglasov za nepremičnine, katere so že bile objavljene na spletni strani oziroma portalu nepremicnine.net; upravljalec portala ima v primeru kršitve pravico, da kršitelje kaznuje z enomesečnim izklopom vseh oglasov iz rubrike 24 ur,
-*   poslovni uporabniki, ki se s posredovanjem nepremičnin ukvarjajo profesionalno in imajo na portalu zakupljene pakete oglaševanja, v primeru neizkoriščenega paketa, ne smejo vpisovati podvojenih oglasov,
-*   vsebina oglasa se mora nanašati na nepremičninsko ponudbo (izključno prodaja, nakup, oddaja ali najem nepremičnine),
-*   vsebina oglasa se mora nanašati izključno na predmet ponudbe, prepovedano je vpisovanje kakršne koli druge vsebine v oglas, ki se ne nanašajo na konkretno nepremičninsko ponudbo,
-*   javna dražba oziroma zbiranje ponudb je javna prodaja, pri kateri dobi nepremičnino tisti kupec, ki zanj ponudi najvišjo ceno, pri čemer se takšni oglasi na portalu nepremicnine.net lahko oglašujejo le v rubriki »Javne dražbe«,
-*   vsebina posameznih polj mora biti skladna s pomenom polja in izključno v slovenskem jeziku, razen v primeru, da je za posamezno polje posebej določen jezik vpisa,
-*   vsebina oglasa se mora nanašati le na posamezno nepremičnino in ne sme vsebovati podatkov za več ločenih, nepovezanih ali povezanih nepremičnin,
-*   slike, dodane k oglasu lahko vsebujejo izrecno fotografije oglaševanih nepremičnin, skico objekta ali tloris pri čemer v ta prostor ni dovoljeno dodajati logotipov, komercialnih oglasov, ipd.,
-*   kontaktni podatki morajo biti resnični,
-*   uporabnik mora v primeru oglaševanja prodaje ali oddaje imeti ustrezne pravice na nepremičnini, ki mu dajejo možnost razpolaganja s to nepremičnino,
-*   uporabnik ne sme objaviti oglasa za katero koli tretjo osebo ali objaviti kontaktnih podatkov tretje osebe brez njenega dovoljenja,
-*   kontaktne podatke podjetij za oglaševanje pri oglasih ureja izključno MEGANET, upravljalec portala nepremicnine.net. Kontaktni podatki so privzeti, pri oglasih je prepovedano oglaševanje drugega podjetja oziroma druge blagovne znamke in kontaktov, ki ne pripadajo podjetju, katero je sklenilo oglaševanje pri upravljalcu spletne strani. V primeru kršitve in navedbe podatkov drugega podjetja oziroma druge blagovne znamke pri oglasih, ima upravljalec portala, pravico naročniku izklopiti oglaševanje.
+* oglas mora biti napisan izključno v slovenskem jeziku,
+* vsebina oglasa mora biti resnična, pravilna, aktualna,
+* vsebina oglasa ne sme biti nezakonita, škodljiva, zavajajoča, sporna, moralno neprimerna ali žaljiva, zlasti ne sme predstavljati kršenja pravic intelektualne lastnine,
+* vsebina oglasa ne sme biti identična oglasu (popolnoma prepisan oglas drugega uporabnika), ki je že vpisan na portal nepremicnine.net,
+* prepovedano je namerno brisanje in ponovno vpisovanje oglasov za nepremičnine, katere so že bile objavljene na spletni strani oziroma portalu nepremicnine.net; upravljalec portala ima v primeru kršitve pravico, da kršitelje kaznuje z enomesečnim izklopom vseh oglasov iz rubrike 24 ur,
+* poslovni uporabniki, ki se s posredovanjem nepremičnin ukvarjajo profesionalno in imajo na portalu zakupljene pakete oglaševanja, v primeru neizkoriščenega paketa, ne smejo vpisovati podvojenih oglasov,
+* vsebina oglasa se mora nanašati na nepremičninsko ponudbo (izključno prodaja, nakup, oddaja ali najem nepremičnine),
+* vsebina oglasa se mora nanašati izključno na predmet ponudbe, prepovedano je vpisovanje kakršne koli druge vsebine v oglas, ki se ne nanašajo na konkretno nepremičninsko ponudbo,
+* javna dražba oziroma zbiranje ponudb je javna prodaja, pri kateri dobi nepremičnino tisti kupec, ki zanj ponudi najvišjo ceno, pri čemer se takšni oglasi na portalu nepremicnine.net lahko oglašujejo le v rubriki »Javne dražbe«,
+* vsebina posameznih polj mora biti skladna s pomenom polja in izključno v slovenskem jeziku, razen v primeru, da je za posamezno polje posebej določen jezik vpisa,
+* vsebina oglasa se mora nanašati le na posamezno nepremičnino in ne sme vsebovati podatkov za več ločenih, nepovezanih ali povezanih nepremičnin,
+* slike, dodane k oglasu lahko vsebujejo izrecno fotografije oglaševanih nepremičnin, skico objekta ali tloris pri čemer v ta prostor ni dovoljeno dodajati logotipov, komercialnih oglasov, ipd.,
+* kontaktni podatki morajo biti resnični,
+* uporabnik mora v primeru oglaševanja prodaje ali oddaje imeti ustrezne pravice na nepremičnini, ki mu dajejo možnost razpolaganja s to nepremičnino,
+* uporabnik ne sme objaviti oglasa za katero koli tretjo osebo ali objaviti kontaktnih podatkov tretje osebe brez njenega dovoljenja,
+* kontaktne podatke podjetij za oglaševanje pri oglasih ureja izključno MEGANET, upravljalec portala nepremicnine.net. Kontaktni podatki so privzeti, pri oglasih je prepovedano oglaševanje drugega podjetja oziroma druge blagovne znamke in kontaktov, ki ne pripadajo podjetju, katero je sklenilo oglaševanje pri upravljalcu spletne strani. V primeru kršitve in navedbe podatkov drugega podjetja oziroma druge blagovne znamke pri oglasih, ima upravljalec portala, pravico naročniku izklopiti oglaševanje.
 
 Vsebina oglasa za namene teh pogojev uporabe pomeni vso vsebino, ki jo je na portalu nepremicnine.net objavil posamezni uporabnik in vsebuje besedilo oglasa in slike oglaševane nepremičnine. MEGANET z objavo oglasa na portalu nepremicnine.net v slovenskem jeziku objavi oglas tudi v angleškem jeziku in se uporabnik strinja tudi z avtomatsko objavo v angleškem jeziku.
 
@@ -74,8 +74,8 @@ MEGANET si pridržuje pravico do dodatnega preverjanja oglasa pred njegovo objav
 
 V primeru registracije uporabnika in naročilu storitve:
 
-1.  objave oglasa prodaje novogradenj in oddajanja počitniških kapacitet za turistične namene se oglas aktivira po prejetju in/ali avtorizaciji plačila oglasa,
-2.  v primeru uvrstitve oglasa v rubriko »ne spreglejte«, je oglas aktiviran in viden na portalu nemudoma po prejetju in/ali avtorizaciji plačila oglasa.
+1. objave oglasa prodaje novogradenj in oddajanja počitniških kapacitet za turistične namene se oglas aktivira po prejetju in/ali avtorizaciji plačila oglasa,
+2. v primeru uvrstitve oglasa v rubriko »ne spreglejte«, je oglas aktiviran in viden na portalu nemudoma po prejetju in/ali avtorizaciji plačila oglasa.
 
 Zahteva za spremembo in/ali prekinitev naročniškega razmerja mora biti podana v pisni obliki, poslana na naslov MEGANET d.o.o. Narof 10, 1411 Izlake, ali na elektronski naslov [info@nepremicnine.net](mailto:info@nepremicnine.net). Uporabnik ni upravičen do povračila sorazmernega dela naročnine za objavo, v kolikor želi prekiniti naročniško razmerje pred potekom tekočega naročniškega razmerja.
 
@@ -87,8 +87,8 @@ Zasebni uporabnik, ki želi izkoristiti vse funkcionalnosti portala nepremicnine
 
 Uporabnik se zavezuje, da bo pri registraciji spoštoval naslednja navodila:
 
-*   vpisani podatki, zlasti kontaktni podatki morajo biti popolni in resnični; izdajanje za tretjo osebo oziroma vpisovanje podatkov tretje osebe brez njenega dovoljenja je prepovedano,
-*   vsak uporabnik ima lahko na eno telefonsko številko in en elektronski naslov odprt le en uporabniški profil.
+* vpisani podatki, zlasti kontaktni podatki morajo biti popolni in resnični; izdajanje za tretjo osebo oziroma vpisovanje podatkov tretje osebe brez njenega dovoljenja je prepovedano,
+* vsak uporabnik ima lahko na eno telefonsko številko in en elektronski naslov odprt le en uporabniški profil.
 
 Registracijo poslovnih uporabnikov, ki se s posredovanjem nepremičnin ukvarjajo profesionalno, oziroma ki želijo objaviti oglas lastne nepremičnine podjetja, opravi MEGANET na podlagi sklenjenega pisnega dogovora o oglaševanju na portalu nepremicnine.net. med MEGANET in poslovnim uporabnikom.
 
@@ -96,7 +96,7 @@ Registracijo poslovnih uporabnikov, ki se s posredovanjem nepremičnin ukvarjajo
 
 Plačilo oglasa zasebnega uporabnika v skladu s cenikom in temi splošnimi pogoji se izvede:
 
-1.  s plačilom storitve objave oglasa po predračunu ali računu, katerega izda MEGANET zasebnemu uporabniku in za objavo oglasa na seznamu zadetkov iskanja nepremičnin na portalu nepremicnine.net
+1. s plačilom storitve objave oglasa po predračunu ali računu, katerega izda MEGANET zasebnemu uporabniku in za objavo oglasa na seznamu zadetkov iskanja nepremičnin na portalu nepremicnine.net
 
 ### **VII. DAVEK NA DODANO VREDNOST IN IZDAJANJE RAČUNOV**
 
@@ -120,18 +120,18 @@ Informacije in gradiva, ki so prikazana na portalu nepremicnine.net, uporabniki 
 
 Uporabniku so izrecno prepovedana vsa naslednja dejanja, za katera se uporabnik izrecno zavezuje, da jih ne bo izvajal niti poskušal izvajati:
 
-*   uporaba storitve z namenom objavljanja ali propagiranja katerekoli vsebine in/ali dejavnosti, ki je v nasprotju z veljavno zakonodajo in/ali javnim redom in moralo,
-*   uporaba groženj, slabšalnega, poniževalnega ali žaljivega načina izražanja v komunikaciji ter izražanja, ki bi lahko kršil osebnostne pravice tretjih oseb,
-*   uporaba določil, v nasprotju z Zakonom o varstvu pred diskriminacijo (Uradni list RS št. 33/16 s spremembami in dopolnitvami, ZVarD), ki bi na kakršenkoli način nakazovala na diskriminacijo, predvsem a ne samo glede na spol, narodnost, raso ali etnično poreklo, jezik, vero ali prepričanje, invalidnost, starost, spolno usmerjenost, spolno identiteto in spolni izraz, družbeni položaj, premoženjsko stanje, izobrazbo ali katero koli drugo osebno okoliščino na različnih področjih družbenega življenja,
-*   komuniciranje z drugimi uporabniki v imenu tretjih oseb,
-*   uporaba osebnih podatkov tretje osebe brez njenega soglasja,
-*   objavljanje neresničnih, nezakonitih, škodljivih, zavajajočih, spornih, moralno neprimernih ali žaljivih vsebin,
-*   izrabljanje storitve v komercialne, nelegalne ali kakršne koli druge namene od tistih, ki so določeni v teh pogojih uporabe, npr. zlasti objavljanje oglasov, ki tematsko ne sodijo na portal nepremicnine.net,
-*   distribuiranje avtorsko zaščitenih vsebin ali vsebin, ki so v lasti druge pravne ali fizične osebe,
-*   uporaba računalniških kod, škodljivih programov ali česar koli, kar bi lahko motilo, onesposobilo ali škodovalo tej storitvi, ponudniku storitve in njegovi programski ter strojni opremi ter telekomunikacijskim napravam ali elektronskemu komunikacijskemu omrežju,
-*   kakršni koli poskus pridobiti, zbirati, uničevati, spreminjati in/ali shranjevati osebne podatke drugih uporabnikov in podatke, ki jih ti uporabniki vnesejo z namenom uporabe storitve,
-*   oblikovanje oglasa, ki ni v slovenskem jeziku,
-*   oblikovanje oglasa, ki vsebuje versko ali politično obarvano vsebino, ali prikazuje verske ali politične simbole.
+* uporaba storitve z namenom objavljanja ali propagiranja katerekoli vsebine in/ali dejavnosti, ki je v nasprotju z veljavno zakonodajo in/ali javnim redom in moralo,
+* uporaba groženj, slabšalnega, poniževalnega ali žaljivega načina izražanja v komunikaciji ter izražanja, ki bi lahko kršil osebnostne pravice tretjih oseb,
+* uporaba določil, v nasprotju z Zakonom o varstvu pred diskriminacijo (Uradni list RS št. 33/16 s spremembami in dopolnitvami, ZVarD), ki bi na kakršenkoli način nakazovala na diskriminacijo, predvsem a ne samo glede na spol, narodnost, raso ali etnično poreklo, jezik, vero ali prepričanje, invalidnost, starost, spolno usmerjenost, spolno identiteto in spolni izraz, družbeni položaj, premoženjsko stanje, izobrazbo ali katero koli drugo osebno okoliščino na različnih področjih družbenega življenja,
+* komuniciranje z drugimi uporabniki v imenu tretjih oseb,
+* uporaba osebnih podatkov tretje osebe brez njenega soglasja,
+* objavljanje neresničnih, nezakonitih, škodljivih, zavajajočih, spornih, moralno neprimernih ali žaljivih vsebin,
+* izrabljanje storitve v komercialne, nelegalne ali kakršne koli druge namene od tistih, ki so določeni v teh pogojih uporabe, npr. zlasti objavljanje oglasov, ki tematsko ne sodijo na portal nepremicnine.net,
+* distribuiranje avtorsko zaščitenih vsebin ali vsebin, ki so v lasti druge pravne ali fizične osebe,
+* uporaba računalniških kod, škodljivih programov ali česar koli, kar bi lahko motilo, onesposobilo ali škodovalo tej storitvi, ponudniku storitve in njegovi programski ter strojni opremi ter telekomunikacijskim napravam ali elektronskemu komunikacijskemu omrežju,
+* kakršni koli poskus pridobiti, zbirati, uničevati, spreminjati in/ali shranjevati osebne podatke drugih uporabnikov in podatke, ki jih ti uporabniki vnesejo z namenom uporabe storitve,
+* oblikovanje oglasa, ki ni v slovenskem jeziku,
+* oblikovanje oglasa, ki vsebuje versko ali politično obarvano vsebino, ali prikazuje verske ali politične simbole.
 
 Uporaba portala nepremicnine.net v nasprotju s temi Splošnimi pogoji uporabe portala ali na kakršnekoli drug, nezakonit način je strogo prepovedana. V primeru dvoma o dopustnosti uporabe portala se vsakršna uporaba, ki ni izrecno dovoljena s strani MEGANET šteje za nedopustno.
 
@@ -151,10 +151,10 @@ MEGANET se zavezuje, da si bo prizadevala, da bo celotna vsebina portala nepremi
 
 V zvezi z zagotavljanjem portala nepremicnine.net veljajo naslednje omejitve odgovornosti, razen če v teh pogojih uporabe ni drugače določeno:
 
-*   MEGANET ne prevzema odgovornosti za vsebino, dostopnost, delovanje in brezhibnost portala nepremicnine.net,
-*   MEGANET ne prevzema odgovornosti za kakršno koli morebitno škodo, ki bi nastala uporabniku zaradi nezmožnosti uporabe portala nepremicnine.net, zaradi zaupanja v vsebino storitve portala nepremicnine.net, zaradi izgube podatkov ali zaradi drugih razlogov povezanih z delovanjem in dostopnostjo portala nepremicnine.net,
-*   MEGANET ne prevzema odgovornosti za izgubo vsebin in vsebinskih motivov, ki so posledica napačne uporabe, tehnične neustreznosti računalnika in neznanja ali nespretnosti uporabnika,
-*   MEGANET storitev ne more zagotavljati delovanja storitve v primeru izpada omrežja pogodbenih partnerjev, izpada električne energije ali drugih tehničnih motenj, ki bi lahko začasno motile delovanje portala nepremicnine.net.
+* MEGANET ne prevzema odgovornosti za vsebino, dostopnost, delovanje in brezhibnost portala nepremicnine.net,
+* MEGANET ne prevzema odgovornosti za kakršno koli morebitno škodo, ki bi nastala uporabniku zaradi nezmožnosti uporabe portala nepremicnine.net, zaradi zaupanja v vsebino storitve portala nepremicnine.net, zaradi izgube podatkov ali zaradi drugih razlogov povezanih z delovanjem in dostopnostjo portala nepremicnine.net,
+* MEGANET ne prevzema odgovornosti za izgubo vsebin in vsebinskih motivov, ki so posledica napačne uporabe, tehnične neustreznosti računalnika in neznanja ali nespretnosti uporabnika,
+* MEGANET storitev ne more zagotavljati delovanja storitve v primeru izpada omrežja pogodbenih partnerjev, izpada električne energije ali drugih tehničnih motenj, ki bi lahko začasno motile delovanje portala nepremicnine.net.
 
 MEGANET ne prevzema odgovornosti za z resničnost objavljenih podatkov, niti podatkov, ki jih vpisujejo uporabniki. Vsak dogovor o nakupu/prodaji blaga oziroma storitve, objavljene na spletni strani, je dogovor zgolj med kupcem in uporabnikom, ki blago oz. storitev prodaja, in ne povzroči nikakršnega posrednega ali neposrednega pogodbenega odnosa med kupcem, uporabnikom kot prodajalcem ter MEGANET. Ponudnik si pridržuje pravico, da kadar koli, iz katerega koli razloga in za kakršno koli obdobje, brez predhodnega obvestila, prekine zagotavljanje portala nepremicnine.net, če meni, da je to potrebno.
 
@@ -193,15 +193,15 @@ Upravljalec mobilne aplikacije nepremicnine.net je družba MEGANET oglaševalska
 
 Uporabnik je lahko:
 
-*   vsaka polnoletna fizična oseba, ki uporablja mobilno aplikacijo nepremicnine.net.,
-*   vsaka pravna oseba, ki ima ustvarjen Apple ID račun za podjetje in Google račun za podjetja (npr. Google Business, ipd.).
+* vsaka polnoletna fizična oseba, ki uporablja mobilno aplikacijo nepremicnine.net.,
+* vsaka pravna oseba, ki ima ustvarjen Apple ID račun za podjetje in Google račun za podjetja (npr. Google Business, ipd.).
 
 ### **II. PRENOS MOBILNE APLIKACIJE**
 
 Uporabnik lahko mobilno aplikacijo, glede na obstoječi pametni telefon ali tablični računalnik in glede na razpoložljivost, prenese preko spletnih ali mobilnih trgovin za mobilne aplikacije, in sicer vedno na način in pod pogoji, ki so določeni za izbrane spletne mobilne trgovine:
 
-*   Apple iOS: App Store,
-*   Google Android: Google Play Store.
+* Apple iOS: App Store,
+* Google Android: Google Play Store.
 
 Uporaba aplikacije je za uporabnika brezplačna, razen za storitev prejemanja potisnih sporočil. Uporabnik je za uporabo aplikacije dolžan plačati prenos podatkov, ki mu ga izbrani operater zaračuna po veljavnem ceniku. Prenos in uporaba aplikacij sta ob ustreznem omrežju možna tudi v tujini (roaming), vendar se ob prenosu in uporabi obračunava prenos podatkov v tujini, in sicer po veljavnem ceniku izbranega operaterja za prenos podatkov v tujini.
 
@@ -209,8 +209,8 @@ Za prenos in uporabo mobilne aplikacije, MEGANET d.o.o., priporoča uporabo LTE 
 
 Nastavitev aplikacije za prejem potisnih sporočil se vzpostavi v sistemu:
 
-*   Android: Izberi ikono Nastavitve → Upravitelj aplikacij → nepremicnine.net–› Obvestila → Dovoli/Pokaži obvestila;
-*   iOS: Izberi ikono Settings, kliknite Notifications → nepremicnine.net–› Allow notifications.
+* Android: Izberi ikono Nastavitve → Upravitelj aplikacij → nepremicnine.net–› Obvestila → Dovoli/Pokaži obvestila;
+* iOS: Izberi ikono Settings, kliknite Notifications → nepremicnine.net–› Allow notifications.
 
 Mobilna aplikacija deluje na operacijskih sistemih: iOS 10 in novejših (Apple) ali Android 5.0 in novejših (Google).
 
@@ -238,8 +238,8 @@ Vrste storitev ter znesek plačila oziroma naročnine za mobilno aplikacijo nepr
 
 Plačilo storitev v mobilni aplikaciji je mogoče z uporabo:
 
-*   storitve APPLE PAY za imetnike Apple iOS sistema,
-*   storitve BRAIN TREE Sistema za imetnika GOOGLE ANDROID.
+* storitve APPLE PAY za imetnike Apple iOS sistema,
+* storitve BRAIN TREE Sistema za imetnika GOOGLE ANDROID.
 
 Sklenitev naročniškega razmerja in pogodba se sklene za posamezno storitev, za obdobje, kot je opredeljeno v poglavju III. Sklenitev pogodbe teh splošnih pogojev.
 
