@@ -5,45 +5,45 @@ Terms & Conditions of Use of Daft
 
   
 
-1.  [Introduction](#intro)
-2.  [Your consent](#consent)
-3.  [Modification of terms](#modification)
-4.  [Information about Us](#us)
-5.  [Access to and use of the Website and the Daft Service](#access)
-6.  [Registration of accounts, usernames and passwords, deactivating accounts](#registration)
-7.  [Using and accessing the Website, Content and the Daft Service](#use)
-8.  [Restrictions on right to use](#restrictions)
-9.  [Your interactions with other users](#interactions)
-10.  [Content standards](#content)
-11.  [Additional policies](#additional)
-12.  [Suspension and termination](#suspension)
-13.  [Your concerns and complaints](#concerns)
-14.  [Disputes with third parties](#disputes)
-15.  [Payment for advertisements](#payments)
-16.  [Cancellation policy](#cancellation)
-17.  [Published advertisements and duration of advertisements](#advertisements)
-18.  [Advertising terms and conditions](#advertising)
-19.  [Commercial Advertising](#commercial)
-20.  [Fair usage policy](#fair)
-21.  [Reporting breaches](#reporting)
-22.  [Standards](#standards)
-23.  [Responsibility](#responsibility)
-24.  [Consequences for failure to comply with the Agreement](#consequences)
-25.  [Banner advertising](#banner)
-26.  [Refund policy](#refund)
-27.  [Intellectual property](#intellectual)
-28.  [Disclaimer of liability](#disclaimer)
-29.  [Indemnity](#indemnity)
-30.  [Disclaimer of endorsement](#endorsement)
-31.  [Links to the Website](#linksto)
-32.  [Links from the Website](#linksfrom)
-33.  [Contact from Us](#contact)
-34.  [Privacy and Cookies Policy](#privacy)
-35.  [Governing law and jurisdiction](#jurisdiction)
-36.  [Waiver](#waiver)
-37.  [Severability](#severability)
-38.  [Assignment and entire agreement](#assignment)
-39.  [Submissions](#submissions)
+1. [Introduction](#intro)
+2. [Your consent](#consent)
+3. [Modification of terms](#modification)
+4. [Information about Us](#us)
+5. [Access to and use of the Website and the Daft Service](#access)
+6. [Registration of accounts, usernames and passwords, deactivating accounts](#registration)
+7. [Using and accessing the Website, Content and the Daft Service](#use)
+8. [Restrictions on right to use](#restrictions)
+9. [Your interactions with other users](#interactions)
+10. [Content standards](#content)
+11. [Additional policies](#additional)
+12. [Suspension and termination](#suspension)
+13. [Your concerns and complaints](#concerns)
+14. [Disputes with third parties](#disputes)
+15. [Payment for advertisements](#payments)
+16. [Cancellation policy](#cancellation)
+17. [Published advertisements and duration of advertisements](#advertisements)
+18. [Advertising terms and conditions](#advertising)
+19. [Commercial Advertising](#commercial)
+20. [Fair usage policy](#fair)
+21. [Reporting breaches](#reporting)
+22. [Standards](#standards)
+23. [Responsibility](#responsibility)
+24. [Consequences for failure to comply with the Agreement](#consequences)
+25. [Banner advertising](#banner)
+26. [Refund policy](#refund)
+27. [Intellectual property](#intellectual)
+28. [Disclaimer of liability](#disclaimer)
+29. [Indemnity](#indemnity)
+30. [Disclaimer of endorsement](#endorsement)
+31. [Links to the Website](#linksto)
+32. [Links from the Website](#linksfrom)
+33. [Contact from Us](#contact)
+34. [Privacy and Cookies Policy](#privacy)
+35. [Governing law and jurisdiction](#jurisdiction)
+36. [Waiver](#waiver)
+37. [Severability](#severability)
+38. [Assignment and entire agreement](#assignment)
+39. [Submissions](#submissions)
 
   
 
@@ -104,10 +104,10 @@ Names and Email Addresses
 
 You may not enter a name or email address that:
 
-*   Contains "Daft" or otherwise misrepresents your relationship with Daft.ie or any other party;
-*   Contains any profanity, is vulgar or offensive, or promotes an illegal activity;
-*   Violates any trade mark or other proprietary right; and/or
-*   Misleadingly impersonates someone else.
+* Contains "Daft" or otherwise misrepresents your relationship with Daft.ie or any other party;
+* Contains any profanity, is vulgar or offensive, or promotes an illegal activity;
+* Violates any trade mark or other proprietary right; and/or
+* Misleadingly impersonates someone else.
 
   
 
