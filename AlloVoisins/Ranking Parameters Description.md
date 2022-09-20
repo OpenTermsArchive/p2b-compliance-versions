@@ -37,15 +37,15 @@ En tant que Demandeur, vous devez notamment vous assurer que le bien ou service 
 Il est notamment interdit de publier des annonces relatives aux produits suivants :  
   
 
-*   Tabac, drogue et objets associés, substances dangereuses et illicites
-*   Cosmétique, médicament et parapharmacie
-*   Armes blanches de combat ou d’autodéfense, armes à feu, explosifs
-*   Contenu réservé aux adultes (pornographie, nudité, etc.)
-*   Certaines espèces végétales et animales protégées, menacées ou prélevées dans leur milieu naturel
-*   Appel aux dons financiers privés ou à but humanitaire
-*   Offres pouvant mener à des pratiques tendancieuses
-*   Produits amincissants, de compléments alimentaires ou présentés comme étant miraculeux
-*   Cette liste est non exhaustive.
+* Tabac, drogue et objets associés, substances dangereuses et illicites
+* Cosmétique, médicament et parapharmacie
+* Armes blanches de combat ou d’autodéfense, armes à feu, explosifs
+* Contenu réservé aux adultes (pornographie, nudité, etc.)
+* Certaines espèces végétales et animales protégées, menacées ou prélevées dans leur milieu naturel
+* Appel aux dons financiers privés ou à but humanitaire
+* Offres pouvant mener à des pratiques tendancieuses
+* Produits amincissants, de compléments alimentaires ou présentés comme étant miraculeux
+* Cette liste est non exhaustive.
 
 #### INTERDICTIONS GENERALES
 
@@ -87,9 +87,9 @@ Toutes les annonces restent référencées sur le site pendant 90 jours à parti
 Le Service Client peut procéder au déréférencement les annonces pendant cette période dans les cas suivants :  
   
 
-*   Signalement par un Utilisateur d’une demande qui ne respecte pas les conditions d’utilisation du site.
-*   Demande frauduleuse identifiée.
-*   Cas de doublon.
+* Signalement par un Utilisateur d’une demande qui ne respecte pas les conditions d’utilisation du site.
+* Demande frauduleuse identifiée.
+* Cas de doublon.
 
 Référencement et contrôle des avis
 ----------------------------------
@@ -103,8 +103,8 @@ Dans le cadre d’un marché conclu sur AlloVoisins, les Utilisateurs disposent 
 L’avis est composé d’une note globale sur 5, moyenne des notes sur les critères suivants :  
   
 
-*   Sympathie sur 5
-*   Satisfaction sur 5
+* Sympathie sur 5
+* Satisfaction sur 5
 
   
 
