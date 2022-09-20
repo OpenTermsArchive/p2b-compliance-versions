@@ -8,30 +8,30 @@ How the site works
 
 In order to be listed on Tripadvisor, **accommodations** must meet all of the following criteria:
 
-*   Must be open to the general public
-*   Must have an official name
-*   Must have an official address at a single and permanent location
-*   Must be open for a minimum of 12 consecutive weeks of the year at a single and permanent location
-*   Must have multiple rooms/units
-*   Must be able to accommodate more than one guest/group of guests at a time
-*   Must not require guests to stay more than 7 nights
-*   Must be currently open or taking reservations for a future opening date
+* Must be open to the general public
+* Must have an official name
+* Must have an official address at a single and permanent location
+* Must be open for a minimum of 12 consecutive weeks of the year at a single and permanent location
+* Must have multiple rooms/units
+* Must be able to accommodate more than one guest/group of guests at a time
+* Must not require guests to stay more than 7 nights
+* Must be currently open or taking reservations for a future opening date
 
 To be listed in the hotel category, an accommodation must also meet all of the following criteria or have an official business license issued by a local governmental or tourism authority that identifies the accommodation is classified as Hotel as defined by local authorities:
 
-*   A front desk is open and staffed 24 hours a day, 7 days a week
-*   Check-in hours can have a start time, but should not have a designated end time
-*   Daily housekeeping is included in the room rate
-*   Private bathroom for each unit
-*   Must not require guests to stay more than 3 nights
+* A front desk is open and staffed 24 hours a day, 7 days a week
+* Check-in hours can have a start time, but should not have a designated end time
+* Daily housekeeping is included in the room rate
+* Private bathroom for each unit
+* Must not require guests to stay more than 3 nights
 
 In select countries, some specially-designated accommodations are displayed with Hotels. These accommodations are editorially selected and not available by request. Currently, these include Onsen Hotel, Onsen Ryokan, and Ryokan, all in Japan.
 
 To be listed in the B&B and Inns category, an accommodation must also meet all of the following criteria or have an official business license issued by a local governmental or tourism authority that identifies the accommodation is classified as B&B, Inn, Guest House, or Pension as defined by local authorities:
 
-*   Daily on-site management
-*   Daily housekeeping is included in the room rate
-*   Must not require guests to stay more than 3 nights
+* Daily on-site management
+* Daily housekeeping is included in the room rate
+* Must not require guests to stay more than 3 nights
 
 We may, on a case-by-case basis, allow B&Bs with only one room. To qualify, the accommodation must be locally licensed to operate as a B&B, and it must be listed with local tourism authorities.
 
@@ -41,21 +41,21 @@ For more information, see [Accommodation Listing Guidelines.](https://www.tripa
 
 In order to be listed on Tripadvisor, **restaurants** must meet all of the following criteria:
 
-*   Must serve prepared food
-*   Must be open to the public; cannot require membership
-*   Must be open on a regularly scheduled basis
-*   Must be open for at least 12 consecutive weeks of the year
-*   Must maintain a permanent location in one city/town but can deliver to multiple cities/towns
-*   Must be stationary and have a permanent address (Food trucks may be listed as long as their schedule and locations are posted online. Requests must include a valid website for confirmation.)
+* Must serve prepared food
+* Must be open to the public; cannot require membership
+* Must be open on a regularly scheduled basis
+* Must be open for at least 12 consecutive weeks of the year
+* Must maintain a permanent location in one city/town but can deliver to multiple cities/towns
+* Must be stationary and have a permanent address (Food trucks may be listed as long as their schedule and locations are posted online. Requests must include a valid website for confirmation.)
 
 For more information, see [Restaurant Listing Guidelines.](https://www.tripadvisor.com/Trust-lvz7RK0Xs9UI-Listings_policies_and_guidelines.html#Restaurant%20listing%20guidelines)
 
 In order to be listed on Tripadvisor, **airlines** must meet the following criteria:
 
-*   Operate a scheduled service under their own brand
-*   Publish fares or schedules to the public
-*   Operate a service that transports a passenger from one point to another
-*   Has been in commercial operation for a minimum of 60 days
+* Operate a scheduled service under their own brand
+* Publish fares or schedules to the public
+* Operate a service that transports a passenger from one point to another
+* Has been in commercial operation for a minimum of 60 days
 
 For more information, see [Airline Listing Guidelines.](https://www.tripadvisor.com/Trust-lvz7RK0Xs9UI-Listings_policies_and_guidelines.html#Airline%20Listing%20Guidelines)
 
@@ -63,27 +63,27 @@ In order to be listed on Tripadvisor, **Things to Do** must meet the following
 
 Permanent attractions:
 
-*   Must be of interest to tourists
-*   Must be family-friendly
-*   Must abide by our [Animal Welfare Policy](https://www.tripadvisor.com/Trust-lIFsY9GSDYn4-Animal_welfare_policy.html)
-*   Must have an official name and a permanent address
-*   Must be open and available to the general public on a regularly scheduled basis
-*   Must be open for at least 12 consecutive weeks of the year (Exception: Performances must operate at one venue for at least 24 consecutive weeks of the year)
-*   Must be currently open or taking reservations for a future opening date
+* Must be of interest to tourists
+* Must be family-friendly
+* Must abide by our [Animal Welfare Policy](https://www.tripadvisor.com/Trust-lIFsY9GSDYn4-Animal_welfare_policy.html)
+* Must have an official name and a permanent address
+* Must be open and available to the general public on a regularly scheduled basis
+* Must be open for at least 12 consecutive weeks of the year (Exception: Performances must operate at one venue for at least 24 consecutive weeks of the year)
+* Must be currently open or taking reservations for a future opening date
 
 Tours, cruises, and classes:
 
-*   Must be of interest to tourists
-*   Must be family-friendly
-*   Must abide by our [Animal Welfare Policy](https://www.tripadvisor.com/Trust-lIFsY9GSDYn4-Animal_welfare_policy.html)
-*   Must have an official name and published phone number or email
-*   Must be a tour company, not an individual tour
-*   Must operate for at least 12 consecutive weeks of the year
-*   Must have an official website that offers a sample itinerary, which includes:
+* Must be of interest to tourists
+* Must be family-friendly
+* Must abide by our [Animal Welfare Policy](https://www.tripadvisor.com/Trust-lIFsY9GSDYn4-Animal_welfare_policy.html)
+* Must have an official name and published phone number or email
+* Must be a tour company, not an individual tour
+* Must operate for at least 12 consecutive weeks of the year
+* Must have an official website that offers a sample itinerary, which includes:
 
-*   duration of tour
-*   description of what is included in the tour
-*   name of the city where the tour departs
+* duration of tour
+* description of what is included in the tour
+* name of the city where the tour departs
 
 For more information, see [Things To Do Listing Guidelines.](https://www.tripadvisor.com/Trust-lvz7RK0Xs9UI-Listings_policies_and_guidelines.html#Things%20To%20Do%20Listing%20Guidelines)
 
@@ -102,14 +102,14 @@ The results displayed are not necessarily exhaustive of all offers that may be a
 
 **Hotels and restaurants** are currently ranked in the following ways:
 
-*   “Traveler Ranking” or “Highest Rating”: ranks the top rated hotels or restaurants, as the case may be, based on user input on Tripadvisor. Results are ranked on the basis of the ['Popularity Index'](https://www.tripadvisor.com/TripadvisorInsights/w765) , which is based on the quality, recency and quantity of reviews an establishment receives from users.
+* “Traveler Ranking” or “Highest Rating”: ranks the top rated hotels or restaurants, as the case may be, based on user input on Tripadvisor. Results are ranked on the basis of the ['Popularity Index'](https://www.tripadvisor.com/TripadvisorInsights/w765) , which is based on the quality, recency and quantity of reviews an establishment receives from users.
 
 When restaurants are filtered by sub-category (for instance : type of cuisine, dinner, local cuisine, etc), then within this sub-category they are ranked according to the ['Popularity Index'](https://www.tripadvisor.com/TripadvisorInsights/w765). This is the same for the subcategory of bookable table and/or for which a special offer is applied.
 
-*   “Best Value” is the default sort order for hotels and ranks these establishments using exclusive Tripadvisor data, including confirmed availability from our partners, booking popularity as reported to us by our partners, traveler ratings, prices, location and personal user preferences.
-*   “Price (low to high)”: ranks the establishments according to the lowest prices offered through our partners for your selected dates at the time of your search.
-*   “Distance to city centre”: ranks first the establishments closest to the applicable city centre with confirmed availability for your dates from our partners.
-*   “Featured”: ranks accommodations taking into account the compensation paid to us by those accommodations and/or booking sites. It also incorporates exclusive Tripadvisor data, including traveler ratings, confirmed availability from our partners, prices, booking popularity, location and personal user preferences.
+* “Best Value” is the default sort order for hotels and ranks these establishments using exclusive Tripadvisor data, including confirmed availability from our partners, booking popularity as reported to us by our partners, traveler ratings, prices, location and personal user preferences.
+* “Price (low to high)”: ranks the establishments according to the lowest prices offered through our partners for your selected dates at the time of your search.
+* “Distance to city centre”: ranks first the establishments closest to the applicable city centre with confirmed availability for your dates from our partners.
+* “Featured”: ranks accommodations taking into account the compensation paid to us by those accommodations and/or booking sites. It also incorporates exclusive Tripadvisor data, including traveler ratings, confirmed availability from our partners, prices, booking popularity, location and personal user preferences.
 
 Pages featuring Hotels may also feature horizontal selections of other points of interest, suppliers or their products. A range of different factors inform these selections, and the title is usually indicative of this. Revenue paid to companies in the Tripadvisor group can also be a factor. The ingredients that feed these selections are summarised below. Those selections that are influenced by revenue are highlighted.
 
@@ -126,11 +126,11 @@ Pages featuring Hotels may also feature horizontal selections of other points of
 
 **Things to Do** are currently ranked in the following ways:
 
-*   “Traveller Favourites”: Tours, activities and experiences bookable on Tripadvisor, ranked according to revenue made by Tripadvisor on those bookings, plus the number of page views by Tripadvisor users, and the quantity and quality of reviews.
-*   “Traveller Ranking”: ranks places of interest and/or tour operators on Tripadvisor, based on traveller reviews in accordance with the Popularity Index, using the same method as stated above.
-*   “Book Online”: ranks places of interest and/or tour operators on Tripadvisor, promoting those where there is at least one tour or activity available to book on Tripadvisor. 
-*   “Price”: ranks tours, activities and experiences bookable on Tripadvisor, based on the prices offered by our partners.
-*   “Duration”: ranks tours, activities and experiences bookable on Tripadvisor, based on their duration.
+* “Traveller Favourites”: Tours, activities and experiences bookable on Tripadvisor, ranked according to revenue made by Tripadvisor on those bookings, plus the number of page views by Tripadvisor users, and the quantity and quality of reviews.
+* “Traveller Ranking”: ranks places of interest and/or tour operators on Tripadvisor, based on traveller reviews in accordance with the Popularity Index, using the same method as stated above.
+* “Book Online”: ranks places of interest and/or tour operators on Tripadvisor, promoting those where there is at least one tour or activity available to book on Tripadvisor. 
+* “Price”: ranks tours, activities and experiences bookable on Tripadvisor, based on the prices offered by our partners.
+* “Duration”: ranks tours, activities and experiences bookable on Tripadvisor, based on their duration.
 
 Pages featuring Things to Do may also feature horizontal selections of other points of interest, suppliers or their products. A range of different factors inform these selections, and the title is usually indicative of this. Revenue to companies in the Tripadvisor group can also be a factor. The ingredients that feed these selections are summarised below. Those selections that are influenced by revenue are highlighted.
 
@@ -170,24 +170,24 @@ Pages featuring Things to Do may also feature horizontal selections of other poi
 
 **Vacation rental properties** are currently ranked in the following ways:
 
-*   “Tripadvisor Sort” is the default sort order, and ranks vacation rental property listings based on (in order of importance from least to most) the property’s overall traveler rating, number of times the listing has been viewed, and the revenue made by Tripadvisor companies from bookings made through our sites. For all other sort orders with the exception of Traveler Rating, the Tripadvisor Sort also works as a “tie-breaker” to determine ordering where there are two or more properties with the same attributes.
-*   “Price (Low to high/ High to low)”: ranks properties based on priceon the dates searched.
-*   “Bedrooms (Most to least/ Least to most)”: ranks properties based on the number of bedrooms, in the order selected.
-*   “# of reviews”: ranks properties based on the number of reviews of the property.
+* “Tripadvisor Sort” is the default sort order, and ranks vacation rental property listings based on (in order of importance from least to most) the property’s overall traveler rating, number of times the listing has been viewed, and the revenue made by Tripadvisor companies from bookings made through our sites. For all other sort orders with the exception of Traveler Rating, the Tripadvisor Sort also works as a “tie-breaker” to determine ordering where there are two or more properties with the same attributes.
+* “Price (Low to high/ High to low)”: ranks properties based on priceon the dates searched.
+* “Bedrooms (Most to least/ Least to most)”: ranks properties based on the number of bedrooms, in the order selected.
+* “# of reviews”: ranks properties based on the number of reviews of the property.
 
 **Flights** are currently ranked in the following ways:
 
-*   “Price”: ranks the results according to the prices currently offered by our partners.
-*   “Duration”: ranks based on total estimated flight time from departure to arrival.
-*   “Best Value”: ranks the best combination of price, flight duration, and sometimes factors such as additional fees.
-*   “Earliest/Latest Outbound/Return Arrival/Departure”: these options list by various aspects of available flight times.
+* “Price”: ranks the results according to the prices currently offered by our partners.
+* “Duration”: ranks based on total estimated flight time from departure to arrival.
+* “Best Value”: ranks the best combination of price, flight duration, and sometimes factors such as additional fees.
+* “Earliest/Latest Outbound/Return Arrival/Departure”: these options list by various aspects of available flight times.
 
 **Search:** Tripadvisor’s internal search function presents results relevant to your text query. To give you the most useful information, search algorithms look at many factors and signals, including the words of your query, reviews, bubble rating, number of page views, and your location. Different result types can have different factors relevant to them, but the text query is applied to rank all the results on the search page. Apart from the query, the following factors are used to order the search results, depending on the type of Tripadvisor content discovered by the search:
 
-*   Followers/followees count, verified member flag - for Member Profiles.
-*   Reviews, bubble rating, number of page views, distance from you, open/closed state - for Hotels, Restaurants, Things to Do, Vacation Rental properties.
-*   Number of page views - for Geographic Locations.
-*   Date (freshness of the content) - for Forum Posts.
+* Followers/followees count, verified member flag - for Member Profiles.
+* Reviews, bubble rating, number of page views, distance from you, open/closed state - for Hotels, Restaurants, Things to Do, Vacation Rental properties.
+* Number of page views - for Geographic Locations.
+* Date (freshness of the content) - for Forum Posts.
 
 3\. No ownership of any listed businesses
 -----------------------------------------
@@ -243,7 +243,7 @@ For more information, please see our [Terms and Conditions](https://tripadvisor.
 
 For vacation rentals and attractions booked on our site, the price payable is the total price, inclusive of taxes and fees. Prices are provided in real time for each search conducted by a user.
 
-For vacation rentals, our vacation rental-related affiliate companies offer a [payment protection](https://www.tripadvisorsupport.com/hc/en-us/articles/115008376888-What-is-Tripadvisor-Payment-Protection-) policy, giving guests extra peace of mind when booking a rental through them. It means that, subject to the terms of the policy, a guest will be offered a refund for their stay if they are  denied access to the property, or if the property is misrepresented (differing substantially to what was advertised), or as otherwise covered under the terms of the policy.
+For vacation rentals, our vacation rental-related affiliate companies offer a [payment protection](https://www.tripadvisorsupport.com/hc/en-us/articles/115008376888-What-is-Tripadvisor-Payment-Protection-) policy, giving guests extra peace of mind when booking a rental through them. It means that, subject to the terms of the policy, a guest will be offered a refund for their stay if they are  denied access to the property, or if the property is misrepresented (differing substantially to what was advertised), or as otherwise covered under the terms of the policy.
 
 For more information, please see our vacation rental-related affiliate companies’ [Terms and Conditions.](https://rentals.tripadvisor.com/termsandconditions/traveler)
 
@@ -272,10 +272,10 @@ We want to ensure that Tripadvisor remains a reliable and secure source for our 
 
 For reviews of vacation rental properties, there are additional criteria listed [here](https://www.tripadvisorsupport.com/hc/en-us/articles/218501218). In summary, vacation rental reviews must also be:
 
-*   based on short-term stays,
-*   written after check-in,
-*   verifiable by the name on the rental contract, and
-*   written in relation to stays that can be evidenced by the reviewer.
+* based on short-term stays,
+* written after check-in,
+* verifiable by the name on the rental contract, and
+* written in relation to stays that can be evidenced by the reviewer.
 
 Any review that does not meet these [publication criteria](https://www.tripadvisorsupport.com/hc/en-us/articles/200614797) will not be published.
 
@@ -295,9 +295,9 @@ If we are unable to host your review, you may be notified of the refusal and the
 
 Once posted, your review will appear indefinitely on our site. Your review will only be removed if:
 
-*   you remove [it](https://www.tripadvisorsupport.com/en-US/hc/traveler/articles/344).
-*   our team of moderators has determined that this review did not meet our Guidelines.
-*   an establishment is removed from our site, in which case all reviews are removed.
+* you remove [it](https://www.tripadvisorsupport.com/en-US/hc/traveler/articles/344).
+* our team of moderators has determined that this review did not meet our Guidelines.
+* an establishment is removed from our site, in which case all reviews are removed.
 
 12\. Can I be rewarded for a review?
 ------------------------------------
