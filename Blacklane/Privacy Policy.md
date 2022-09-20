@@ -5,53 +5,53 @@ Please note: The English translation of the Blacklane Privacy Policy is provided
 
 ### **[](#privacy-policy)Privacy Policy**
 
-1.  [Scope](#Scope)
-2.  [Name and Contact Information of the Controller](#NameandContactInformationoftheController)
-3.  [Contact Information for the Data Protection Officer](#ContactInformationfortheDataProtectionOfficer)
-4.  [Data Security](#DataSecurity)
-5.  [Provision of the websites](#Provisionofthewebsites)
-6.  [Cookies, pixels and similar technologies](#Cookiespixelsandsimilartechnologies)
-7.  [Special Features for the Blacklane Apps](#SpecialFeaturesfortheBlacklaneApps)
-8.  [Social Media/Social Networks](#SocialMediaSocialNetworks)
-9.  [Data Processing During Registered Use of Blacklane Services and Booking Rides](#DataProcessingDuringRegisteredUseofBlacklaneServicesandBookingRides)
-10.  [Payment & Fraud Prevention](#PaymentandFraudPrevention)
-11.  [Communication with Blacklane](#CommunicationwithBlacklane)
-12.  [E-mail Advertising, Newsletter](#EmailAdvertisingNewsletter)
-13.  [Involvement of Data Processors by Blacklane](#InvolvementofDataProcessorsbyBlacklane)
-14.  [Rights of Data Subjects](#RightsofDataSubjects)
-15.  [Automated decisions](#Automateddecisions)
-16.  [Data Erasure and Storage Duration](#DataErasureandStorageDuration)
-17.  [Amendment or Update of this Privacy Policy](#AmendmentorUpdateofthisPrivacyPolicy)
+1. [Scope](#Scope)
+2. [Name and Contact Information of the Controller](#NameandContactInformationoftheController)
+3. [Contact Information for the Data Protection Officer](#ContactInformationfortheDataProtectionOfficer)
+4. [Data Security](#DataSecurity)
+5. [Provision of the websites](#Provisionofthewebsites)
+6. [Cookies, pixels and similar technologies](#Cookiespixelsandsimilartechnologies)
+7. [Special Features for the Blacklane Apps](#SpecialFeaturesfortheBlacklaneApps)
+8. [Social Media/Social Networks](#SocialMediaSocialNetworks)
+9. [Data Processing During Registered Use of Blacklane Services and Booking Rides](#DataProcessingDuringRegisteredUseofBlacklaneServicesandBookingRides)
+10. [Payment & Fraud Prevention](#PaymentandFraudPrevention)
+11. [Communication with Blacklane](#CommunicationwithBlacklane)
+12. [E-mail Advertising, Newsletter](#EmailAdvertisingNewsletter)
+13. [Involvement of Data Processors by Blacklane](#InvolvementofDataProcessorsbyBlacklane)
+14. [Rights of Data Subjects](#RightsofDataSubjects)
+15. [Automated decisions](#Automateddecisions)
+16. [Data Erasure and Storage Duration](#DataErasureandStorageDuration)
+17. [Amendment or Update of this Privacy Policy](#AmendmentorUpdateofthisPrivacyPolicy)
 
 ### **[](#BlacklaneCookiePolicy)[](#cookie-policy)Cookie Policy**
 
-1.  [Adjust](#Adjust)
-2.  [Adnxs (AppNexus)](#Adnxs)
-3.  [Bing Ads](#Bing)
-4.  [DoubleClick](#DoubleClick)
-5.  [Facebook (Custom Audiences und Impressions)](#FacebookCustomAudiencesundImpressions)
-6.  [Google Ads (former Google AdWords Conversion Tracker)](#GoogleAds)
-7.  [Google Analytics](#GoogleAnalytics)
-8.  [Google Dynamic Remarketing](#GoogleDynamicRemarketing)
-9.  [Google Firebase](#GoogleFirebase)
-10.  [Google Fonts](#GoogleFonts)
-11.  [Google reCAPTCHA](#GooglereCAPTCHA)
-12.  [Google Tag Manager and Conversion Link](#GoogleTagManagerandConversionLink)
-13.  [Hotjar](#Hotjar)
-14.  [Intercom](#Intercom)
-15.  [LinkedIn Marketing Solutions](#LinkedInMarketingSolutions)
-16.  [Mailchimp](#Mailchimp)
-17.  [Mixpanel](#Mixpanel)
-18.  [Nexmo](#Nexmo)
-19.  [Optimizely](#Optimizely)
-20.  [Outbrain Pixel / OutBrain Amplify](#Outbrain)
-21.  [Polyfill](#Polyfill)
-22.  [Raygun](#Raygun)
-23.  [Salesforce](#Salesforce)
-24.  [Sendgrid](#Sendgrid)
-25.  [Snowplow](#Snowplow)
-26.  [Twitter Advertising](#Twitter)
-27.  [Xandr](#Xandr)
+1. [Adjust](#Adjust)
+2. [Adnxs (AppNexus)](#Adnxs)
+3. [Bing Ads](#Bing)
+4. [DoubleClick](#DoubleClick)
+5. [Facebook (Custom Audiences und Impressions)](#FacebookCustomAudiencesundImpressions)
+6. [Google Ads (former Google AdWords Conversion Tracker)](#GoogleAds)
+7. [Google Analytics](#GoogleAnalytics)
+8. [Google Dynamic Remarketing](#GoogleDynamicRemarketing)
+9. [Google Firebase](#GoogleFirebase)
+10. [Google Fonts](#GoogleFonts)
+11. [Google reCAPTCHA](#GooglereCAPTCHA)
+12. [Google Tag Manager and Conversion Link](#GoogleTagManagerandConversionLink)
+13. [Hotjar](#Hotjar)
+14. [Intercom](#Intercom)
+15. [LinkedIn Marketing Solutions](#LinkedInMarketingSolutions)
+16. [Mailchimp](#Mailchimp)
+17. [Mixpanel](#Mixpanel)
+18. [Nexmo](#Nexmo)
+19. [Optimizely](#Optimizely)
+20. [Outbrain Pixel / OutBrain Amplify](#Outbrain)
+21. [Polyfill](#Polyfill)
+22. [Raygun](#Raygun)
+23. [Salesforce](#Salesforce)
+24. [Sendgrid](#Sendgrid)
+25. [Snowplow](#Snowplow)
+26. [Twitter Advertising](#Twitter)
+27. [Xandr](#Xandr)
 
 [](#a-id-scope)1\. Scope
 ------------------------
@@ -162,12 +162,12 @@ We will inform you about cookies and similar procedures of Google, which are use
 
 Blacklane processes the following personal data provided by you when you register and use Blacklane Services or when you book rides (hereinafter “customer data”).
 
-*   Personal master data (form of address, title, first name, last name, company, address, zip code, place, country, password);
-*   Contact data (e.g. telephone number, cellphone number, e-mail address);
-*   Contract data (e.g. time and manner of registration, status)
-*   Ride-related data (e.g. pickup location, destination, times, flight number, special requests).
-*   Status (e.g. bonus program), customer history (e.g. previous rides);
-*   Contract invoicing (e.g. invoices, status, invoicing address) and payment data (e.g. last 4 digits of the credit card number).
+* Personal master data (form of address, title, first name, last name, company, address, zip code, place, country, password);
+* Contact data (e.g. telephone number, cellphone number, e-mail address);
+* Contract data (e.g. time and manner of registration, status)
+* Ride-related data (e.g. pickup location, destination, times, flight number, special requests).
+* Status (e.g. bonus program), customer history (e.g. previous rides);
+* Contract invoicing (e.g. invoices, status, invoicing address) and payment data (e.g. last 4 digits of the credit card number).
 
 The customer data will be used for Blacklane services, i.e. for the personalized fulfillment of the framework agreement after registration (creation, storage, administration and support of your Blacklane account), for the procurement of booked rides and for the fulfillment of the contract of carriage for the benefit of the customer with the limousine service provider. Blacklane provides customer data to third parties, if necessary, in particular to the limousine service providers so that the customer can be transported in accordance with their booking and the transport can be processed. If the customer has indicated a bonus program supported by Blacklane, the data required in this regard is transmitted to the bonus program provider. The payment data collected is stored via a payment service provider and transferred to the intermediary financial service provider or bank (see [Point 10](#PaymentandFraudPrevention)).
 
@@ -296,11 +296,11 @@ The legal basis for the processing of personal data when using cookies, pixels a
 
 In the context of your visit, Blacklane will set the required cookies, which are technically necessary, to improve functionality or make the use of Blacklane services more user-friendly. This concerns, for example,
 
-*   Your identification and authentication,
-*   Storage and user preferences and settings (e.g. language settings), which you have made,
-*   the inclusion of information already provided so that repeated input of information is not necessary,
-*   security-related cookies or
-*   cookies for using multimedia players
+* Your identification and authentication,
+* Storage and user preferences and settings (e.g. language settings), which you have made,
+* the inclusion of information already provided so that repeated input of information is not necessary,
+* security-related cookies or
+* cookies for using multimedia players
 
 Blacklane also uses its own cookies in order to analyze and improve the usage of Blacklane services, to detect and remedy interruptions and problems of a technical or process-related nature and to prevent illegal usage of Blacklane services (e.g. fraudulent booking, cyberattacks). Evaluations by Blacklane take place in pseudonymized or anonymized form as far as is possible.
 
@@ -316,11 +316,11 @@ Adjust provides mobile analytics and attribution services for app providers. As 
 
 The Adjust SDK and APIs (jointly the “Adjust technology”) may collect and use some of the following data from you as the end user:
 
-*   Hashed IP address mobile identifiers such as the advertising ID for iOS (IDFA),
-*   Google Advertising ID or similar mobile identifiers,
-*   Installation and initial opening of an app on your mobile device,
-*   Your interaction within an app (e.g. in-app purchases, registration),
-*   Information on which adverts you have viewed or clicked.
+* Hashed IP address mobile identifiers such as the advertising ID for iOS (IDFA),
+* Google Advertising ID or similar mobile identifiers,
+* Installation and initial opening of an app on your mobile device,
+* Your interaction within an app (e.g. in-app purchases, registration),
+* Information on which adverts you have viewed or clicked.
 
 Adjust uses the collected data to provide mobile analytics and attribution services for their customers and thereby enables Blacklane to track its marketing performance to compare them with their campaigns and to understand how you use the Blacklane app. Adjust also enables Blacklane to track your interactions in their apps in real time in order to see how you behave during your entire time using the app. The collected data is thus used to analyze the performance of marketing campaigns and to provide Blacklane with performance reports. Adjust does not combine the collected data with other data, which would allow Adjust to personally identify you.
 
@@ -338,13 +338,13 @@ AppNexus uses cookies and web beacons to build groups of users (segments) that a
 
 Information that may be tracked about a browser include:
 
-*   a unique identifier (so a browser can be recognised when it appears on another website using AppNexus' services).
-*   what adverts the browser has seen.
-*   what page the browser was on when they saw the advert.
-*   when the browser saw the advert.
-*   whether the advert has been clicked or not.
-*   what type of pages the browser has visited (to build up an idea of what content might be used).
-*   IP Address (to infer location).
+* a unique identifier (so a browser can be recognised when it appears on another website using AppNexus' services).
+* what adverts the browser has seen.
+* what page the browser was on when they saw the advert.
+* when the browser saw the advert.
+* whether the advert has been clicked or not.
+* what type of pages the browser has visited (to build up an idea of what content might be used).
+* IP Address (to infer location).
 
 You can find more information on AppNexus Technology here: [](https://www.appnexus.com/corporate-privacy-policy-de)[https://www.appnexus.com/corporate-privacy-policy-de](https://www.appnexus.com/corporate-privacy-policy-de) If you would like to opt out of the AppNexus Technology tracking, please open the following page: [](https://www.appnexus.com/corporate-privacy-policy-de#choices)[https://www.appnexus.com/corporate-privacy-policy-de#choices](https://www.appnexus.com/corporate-privacy-policy-de#choices). If you have any questions regarding this opt-out, please send an e-mail to [privacy@appnexus.com](mailto:privacy@appnexus.com) and AppNexus will get back to you as soon as possible.
 
@@ -584,13 +584,13 @@ Xandr uses cookies and web beacons to build groups of users (segments) that are 
 
 Information that may be tracked about a browser include:
 
-*   the type of browser you use, browser language, browser settings, and cookie information. This may include data about you related to bid requests an ad impressions, collected when we decide to show you an ad on a Digital Property and when we deliver an ad.
-*   Information about your device including device operating system version, connection type, device make, device model, device Identifiers such as your IDFA or AAID, and the IP address from which the device accesses a client’s Digital Property.
-*   Location information, including precise location information when location services have been enabled for an app on your device that has integrated our technology or that sends that information to our Platform.
-*   Information about your activity on a Digital Property such as browsing history, viewing history, search history and information regarding an individual’s interaction with an internet website, app, or advertisement, including the time web pages or apps were visited or used, including in-game or online viewing activity (e.g., videos viewed, pages viewed).
-*   Inferences or audience segmentation derived from Platform Data, such as individual profiles, preferences, characteristics, and behaviors.
-*   Information about ads served, viewed or clicked on, including the type of ad, where the ad was served, whether you clicked on it and whether you visited the advertiser’s website or downloaded the advertiser’s app.
-*   Information about your internet service including information about which internet service provider is used by you.
+* the type of browser you use, browser language, browser settings, and cookie information. This may include data about you related to bid requests an ad impressions, collected when we decide to show you an ad on a Digital Property and when we deliver an ad.
+* Information about your device including device operating system version, connection type, device make, device model, device Identifiers such as your IDFA or AAID, and the IP address from which the device accesses a client’s Digital Property.
+* Location information, including precise location information when location services have been enabled for an app on your device that has integrated our technology or that sends that information to our Platform.
+* Information about your activity on a Digital Property such as browsing history, viewing history, search history and information regarding an individual’s interaction with an internet website, app, or advertisement, including the time web pages or apps were visited or used, including in-game or online viewing activity (e.g., videos viewed, pages viewed).
+* Inferences or audience segmentation derived from Platform Data, such as individual profiles, preferences, characteristics, and behaviors.
+* Information about ads served, viewed or clicked on, including the type of ad, where the ad was served, whether you clicked on it and whether you visited the advertiser’s website or downloaded the advertiser’s app.
+* Information about your internet service including information about which internet service provider is used by you.
 
 You can find more information on Xandr Technology here: [](https://www.xandr.com/privacy/platform-privacy-policy/)[https://www.xandr.com/privacy/platform-privacy-policy/](https://www.xandr.com/privacy/platform-privacy-policy/) If you would like to opt out of the Xandr Technology tracking, you can find more information on the following page: [](https://www.xandr.com/privacy/platform-privacy-policy/)[https://www.xandr.com/privacy/platform-privacy-policy/](https://www.xandr.com/privacy/platform-privacy-policy/). To review your opt in status or learn more about interest-based advertising, please visit the Network Advertising Initiative opt out page, the DAA’s WebChoice tool or the DAAC’s WebChoices tool. If you have any questions regarding the opt-out, please send an e-mail to legal@xandr.com and Xandr will get back to you as soon as possible.
 
