@@ -27,10 +27,10 @@ For all aspects of use, as a user of a Funda website you should behave in line w
 
 In particular the following actions and / or behaviour is prohibited:
 
-1.  infringement or otherwise acting in breach with the intellectual property rights of Funda and / or third parties;
-2.  making infringing, unlawful or misleading statements;
-3.  distributing illegal material;
-4.  evading or deleting the security of (parts of) the website
+1. infringement or otherwise acting in breach with the intellectual property rights of Funda and / or third parties;
+2. making infringing, unlawful or misleading statements;
+3. distributing illegal material;
+4. evading or deleting the security of (parts of) the website
 
 You are only permitted to download one copy of the material made available on the website for personal, non-commercial use. Without Funda's prior written consent, you are not permitted to copy, modify, distribute, disseminate, reverse engineer, decompile or otherwise use and / or exploit the provided material.
 
@@ -60,8 +60,8 @@ When in doubt as to the accuracy of the provided information or if inaccuracies 
 
 You indemnify Funda against all claims for damages by third party who (claim to) have suffered damages as a consequence of:
 
-1.  the use of information on one or more Funda websites posted by you or by (authorized) persons acting on your behalf;
-2.  otherwise relating to or arising from your use of the Funda websites.
+1. the use of information on one or more Funda websites posted by you or by (authorized) persons acting on your behalf;
+2. otherwise relating to or arising from your use of the Funda websites.
 
 ### Which law is applicable to these Terms of Use?
 
