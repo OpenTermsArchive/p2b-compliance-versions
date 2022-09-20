@@ -35,11 +35,11 @@ I. Allgemeine Bestimmungen
 
 3\. Zur Zahlungsabwicklung stellt Avocadostore eine verlässliche und sichere Zahlungsabwicklung zur Verfügung. Hierbei darf Avocadostore auch Dritte hinzuziehen:
 
-1.  Sobald der vereinbarte Kaufpreis eingeht, wird der Verkäufer über den Eingang unverzüglich informiert. Der Verkäufer ist verpflichtet, den verkauften Artikel nach Erhalt der Information über den Zahlungseingang innerhalb der in der Artikelbeschreibung angegebenen Lieferzeit an den Käufer zu versenden.
-2.  Avocadostore erstellt dem Verkäufer jeweils spätestens am 21. eines Monats für den jeweiligen Vormonat eine Abrechnung über die für ihn gutgeschriebenen Beträge.
-3.  Die Auszahlung der gutgeschriebenen Beträge abzüglich der Verkaufsprovisionen nach II. Ziff. 5 dieser Nutzungsbedingungen erfolgt unabhängig von der monatlichen Abrechnung. Avocadostore strebt eine wöchentliche Auszahlung an. Die Auszahlung erfolgt auf das im Stripe Connected Account hinterlegte Bankkonto des Verkäufers (siehe dazu II.1.5). Avocadostore ist berechtigt gegenseitige Forderungen miteinander zu verrechnen.
-4.  Ein Anspruch auf Auszahlung besteht nicht und die Auszahlung nach Ziffer c) unterbleibt, wenn und soweit Käufer bestellte Artikel nicht erhalten haben; dies gilt auch, wenn und soweit Käufer gegenüber Avocadostore angezeigt haben, Artikel nicht erhalten zu haben, es sei denn, der Verkäufer kann den Zugang der Artikel durch Vorlage einer Zustellbestätigung nachweisen.
-5.  Avocadostore ist dazu berechtigt, die Auszahlung zu verweigern, bis der Verkäufer die von Avocadostore aufzuzeichnenden Informationen gemäß § 22f UStG, insbesondere seine gültige deutsche Umsatzsteuer-Identifikationsnummer oder im Falle der Nutzung des One-Stop-Shop Verfahrens nach Ziffer II 1. 2. S. 3 eine gültige Umsatzsteuer-Identifikationsnummer eines Mitgliedstaats der EU **und** einen Nachweis seiner Ansässigkeit nach Ziffer II. 1. 2. übermittelt hat.
+1. Sobald der vereinbarte Kaufpreis eingeht, wird der Verkäufer über den Eingang unverzüglich informiert. Der Verkäufer ist verpflichtet, den verkauften Artikel nach Erhalt der Information über den Zahlungseingang innerhalb der in der Artikelbeschreibung angegebenen Lieferzeit an den Käufer zu versenden.
+2. Avocadostore erstellt dem Verkäufer jeweils spätestens am 21. eines Monats für den jeweiligen Vormonat eine Abrechnung über die für ihn gutgeschriebenen Beträge.
+3. Die Auszahlung der gutgeschriebenen Beträge abzüglich der Verkaufsprovisionen nach II. Ziff. 5 dieser Nutzungsbedingungen erfolgt unabhängig von der monatlichen Abrechnung. Avocadostore strebt eine wöchentliche Auszahlung an. Die Auszahlung erfolgt auf das im Stripe Connected Account hinterlegte Bankkonto des Verkäufers (siehe dazu II.1.5). Avocadostore ist berechtigt gegenseitige Forderungen miteinander zu verrechnen.
+4. Ein Anspruch auf Auszahlung besteht nicht und die Auszahlung nach Ziffer c) unterbleibt, wenn und soweit Käufer bestellte Artikel nicht erhalten haben; dies gilt auch, wenn und soweit Käufer gegenüber Avocadostore angezeigt haben, Artikel nicht erhalten zu haben, es sei denn, der Verkäufer kann den Zugang der Artikel durch Vorlage einer Zustellbestätigung nachweisen.
+5. Avocadostore ist dazu berechtigt, die Auszahlung zu verweigern, bis der Verkäufer die von Avocadostore aufzuzeichnenden Informationen gemäß § 22f UStG, insbesondere seine gültige deutsche Umsatzsteuer-Identifikationsnummer oder im Falle der Nutzung des One-Stop-Shop Verfahrens nach Ziffer II 1. 2. S. 3 eine gültige Umsatzsteuer-Identifikationsnummer eines Mitgliedstaats der EU **und** einen Nachweis seiner Ansässigkeit nach Ziffer II. 1. 2. übermittelt hat.
 
 ### 4\. Bewertungssystem
 
@@ -59,10 +59,10 @@ I. Allgemeine Bestimmungen
 
 1\. Avocadostore legt großen Wert auf das Vertrauen der Teilnehmer in die bei dem Avocadostore-Marktplatz getätigten Verkäufe. Avocadostore wird sich deshalb im Streitfalle um eine Schlichtung nach den nachfolgenden Bestimmungen bemühen:
 
-1.  Jeder Teilnehmer ist im Streitfalle mit einem anderen Teilnehmer (z.B. Streit über die Mangelfreiheit einer Ware) berechtigt, den Sachverhalt an Avocadostore mittels einer Beschwerde mitzuteilen.
-2.  Avocadostore wird sodann den Sachverhalt zusammentragen und dazu gegebenenfalls mit beiden Teilnehmern in Kontakt treten.
-3.  Avocadostore wird sodann innerhalb von zwei Wochen nach Eingang der Beschwerde den Sachverhalt abschließend prüfen und beiden Parteien einen Lösungsvorschlag unterbreiten.
-4.  Zur Unterbreitung des Lösungsvorschlages ist Avocadostore berechtigt, sich juristischen Rat einzuholen und dafür den Sachverhalt an einen schweigepflichtigen Rechtsanwalt zu übermitteln. Die Einholung eines Rates ist nicht mit zusätzlichen Kosten für die Teilnehmer verbunden.
+1. Jeder Teilnehmer ist im Streitfalle mit einem anderen Teilnehmer (z.B. Streit über die Mangelfreiheit einer Ware) berechtigt, den Sachverhalt an Avocadostore mittels einer Beschwerde mitzuteilen.
+2. Avocadostore wird sodann den Sachverhalt zusammentragen und dazu gegebenenfalls mit beiden Teilnehmern in Kontakt treten.
+3. Avocadostore wird sodann innerhalb von zwei Wochen nach Eingang der Beschwerde den Sachverhalt abschließend prüfen und beiden Parteien einen Lösungsvorschlag unterbreiten.
+4. Zur Unterbreitung des Lösungsvorschlages ist Avocadostore berechtigt, sich juristischen Rat einzuholen und dafür den Sachverhalt an einen schweigepflichtigen Rechtsanwalt zu übermitteln. Die Einholung eines Rates ist nicht mit zusätzlichen Kosten für die Teilnehmer verbunden.
 
 2\. Auf die Schlichtung einer Streitigkeit haben die Teilnehmer keinen Rechtsanspruch.
 
@@ -94,12 +94,12 @@ Der Teilnehmer steht dafür ein, dass die von ihm bei der Registrierung oder Be
 
 1\. Soweit ein Teilnehmer gegen seine vertraglichen Pflichten – dazu zählt auch ein Verstoß gegen die [Avocadostore-Käufergrundsätze](https://www.avocadostore.de/terms_user) und die [Avocadostore-Verkäufergrundsätze](https://www.avocadostore.de/terms_vendor), gegen das Gesetz oder gegen die guten Sitten verstößt, kann Avocadostore darauf nach eigenem Ermessen wie folgt reagieren:
 
-1.  Avocadostore kann den Teilnehmer verwarnen;
-2.  Avocadostore kann Angebote oder Inhalte (z.B. Bewertungen) des Teilnehmers löschen;
-3.  Avocadostore kann die Berechtigung des Teilnehmers zur Nutzung des Avocadostore-Marktplatzes beschränken;
-4.  Avocadostore kann den Account des Teilnehmers vorübergehend sperren
-5.  Avocadostore kann den Account des Teilnehmers endgültig sperren und den Vertrag kündigen.
-6.  Für den Fall, dass Verkäufer in den Bestellungen über Avocadostore wiederholt Gutscheine oder Werbung für andere Online-Angebote beilegen, ist Avocadostore berechtigt die Provision im Folgemonat um 10% zu erhöhen. Voraussetzung ist, dass Avocadostore den Verstoß und auch den wiederholten Verstoß gegenüber dem Verkäufer schriftlich (E-Mail ausreichend) angezeigt hat.
+1. Avocadostore kann den Teilnehmer verwarnen;
+2. Avocadostore kann Angebote oder Inhalte (z.B. Bewertungen) des Teilnehmers löschen;
+3. Avocadostore kann die Berechtigung des Teilnehmers zur Nutzung des Avocadostore-Marktplatzes beschränken;
+4. Avocadostore kann den Account des Teilnehmers vorübergehend sperren
+5. Avocadostore kann den Account des Teilnehmers endgültig sperren und den Vertrag kündigen.
+6. Für den Fall, dass Verkäufer in den Bestellungen über Avocadostore wiederholt Gutscheine oder Werbung für andere Online-Angebote beilegen, ist Avocadostore berechtigt die Provision im Folgemonat um 10% zu erhöhen. Voraussetzung ist, dass Avocadostore den Verstoß und auch den wiederholten Verstoß gegenüber dem Verkäufer schriftlich (E-Mail ausreichend) angezeigt hat.
 
 2\. Avocadostore wird dabei die berechtigten Interessen des betroffenen Teilnehmers angemessen berücksichtigen. Der Teilnehmer hat im Falle eines Verstoßes gegen seine vertraglichen Pflichten jedoch kein Recht zur Fortführung des Vertrages, wenn Avocadostore den Nutzungsvertrag kündigt.
 
@@ -115,10 +115,10 @@ Der Teilnehmer steht dafür ein, dass die von ihm bei der Registrierung oder Be
 
 5\. Das Recht zur fristlosen Kündigung aus wichtigem Grund bleibt unberührt. Avocadostore kann den Vertrag insbesondere fristlos kündigen, wenn:
 
-1.  der Teilnehmer vorsätzlich unrichtige Angaben im Rahmen des Bewertungssystems abgibt,
-2.  der Teilnehmer unrichtige oder unvollständige Angaben bei der Registrierung macht,
-3.  der Teilnehmer wiederholt negative Beurteilungen im Rahmen des Bewertungssystems erhält und diese nicht offensichtlich unberechtigt sind,
-4.  der Teilnehmer wiederholt gegen sonstige vertragliche Pflichten verstößt und die Pflichtverletzung auch nach Aufforderung durch Avocadostore nicht unterlässt.
+1. der Teilnehmer vorsätzlich unrichtige Angaben im Rahmen des Bewertungssystems abgibt,
+2. der Teilnehmer unrichtige oder unvollständige Angaben bei der Registrierung macht,
+3. der Teilnehmer wiederholt negative Beurteilungen im Rahmen des Bewertungssystems erhält und diese nicht offensichtlich unberechtigt sind,
+4. der Teilnehmer wiederholt gegen sonstige vertragliche Pflichten verstößt und die Pflichtverletzung auch nach Aufforderung durch Avocadostore nicht unterlässt.
 
 6\. Soweit Avocadostore den Vertrag gekündigt hat, hat der Teilnehmer keinen Anspruch auf Einrichtung eines neuen Accounts, auch nicht unter einer anderen Namen oder einer anderen Bezeichnung.
 
@@ -138,26 +138,26 @@ Der Teilnehmer steht dafür ein, dass die von ihm bei der Registrierung oder Be
 
 2\. Avocadostore hat im Rahmen des Avocadostore-Marktplatz Zugriff auf folgende Kategorien von Daten, dabei handelt es sich sowohl um Daten mit, als auch um solche ohne Personenbezug:
 
-*   Accountdaten;
-*   Adress-/Kontaktdaten;
-*   Bestelldaten;
-*   Warenbestandsdaten;
-*   Produktdaten;
-*   Zahlungsdaten (nur limitierter Zugang);
-*   Zugriffsdaten.
+* Accountdaten;
+* Adress-/Kontaktdaten;
+* Bestelldaten;
+* Warenbestandsdaten;
+* Produktdaten;
+* Zahlungsdaten (nur limitierter Zugang);
+* Zugriffsdaten.
 
 3\. Den Verkäufern stellt Avocadostore die folgenden Kategorien von Daten zur Verfügung, die im Zusammenhang mit seiner Nutzung des Avocadostore-Marktplatzes generiert werden:
 
-*   Accountdaten (des Verkäufers);
-*   Accountdaten (der Käufer) – soweit sie zur Abwicklung der Bestellung erforderlich sind;
-*   Bestelldaten – soweit sie zur Abwicklung der Bestellung oder zur Provisionsabrechnung erforderlich sind;
-*   Warenbestands- und Produktdaten (des Verkäufers).
+* Accountdaten (des Verkäufers);
+* Accountdaten (der Käufer) – soweit sie zur Abwicklung der Bestellung erforderlich sind;
+* Bestelldaten – soweit sie zur Abwicklung der Bestellung oder zur Provisionsabrechnung erforderlich sind;
+* Warenbestands- und Produktdaten (des Verkäufers).
 
 4\. Die oben unter Ziff. 11.2. genannten Kategorien von Daten stellt Avocadostore teilweise Dritten zur Verfügung, die diese Daten für die weitere Bereitstellung bzw. Weiterentwicklung und Analyse des Avocadostore-Marktplatzes verwenden:
 
-*   Zahlungsdienste
-*   CRM\- und Marketing-Software/Dienstleister
-*   Statistik- und Analyse-Software/Dienstleister
+* Zahlungsdienste
+* CRM\- und Marketing-Software/Dienstleister
+* Statistik- und Analyse-Software/Dienstleister
 
 II. Besondere Bestimmungen für Verkäufer
 ------------------------------------------
@@ -178,15 +178,15 @@ II. Besondere Bestimmungen für Verkäufer
 
 1\. Der Avocadostore-Markplatz versteht sich als Handelsplatz für ökologische und nachhaltige Produkte. Die von den Verkäufern angebotenen Waren müssen deshalb mindestens eines der nachfolgend genannten Kriterien erfüllen:
 
-1.  CO2-sparend,
-2.  Ressourcenschonend,
-3.  Schadstoffreduzierte Herstellung, d) Cradle to Cradle,
-4.  Rohstoffe aus Bioanbau,
-5.  Fair & Sozial,
-6.  Vegan,
-7.  Recycelt,
-8.  Haltbar,
-9.  Made in Germany.
+1. CO2-sparend,
+2. Ressourcenschonend,
+3. Schadstoffreduzierte Herstellung, d) Cradle to Cradle,
+4. Rohstoffe aus Bioanbau,
+5. Fair & Sozial,
+6. Vegan,
+7. Recycelt,
+8. Haltbar,
+9. Made in Germany.
 
 2\. Avocadostore kann verlangen, dass auf dem Avocadostore-Marktplatz verkaufte Produkte mehr als eines der unter 2.1 aufgeführten Kriterien erfüllt.
 
@@ -266,9 +266,9 @@ IV. Besondere Bestimmungen für Avocadostore
 
 4\. Die Haftung von Avocadostore für und in Zusammenhang mit der Bereitstellung des Avocadostore-Marktplatzes, gleich aus welchem Rechtsgrund, bestimmt sich nach den folgenden Vorschriften:
 
-1.  Avocadostore haftet für Vorsatz und grobe Fahrlässigkeit sowie im Fall von Personenschäden (Verletzung des Lebens, des Körpers und der Gesundheit) uneingeschränkt, für leichte Fahrlässigkeit jedoch nur bei der Verletzung vertragswesentlicher Pflichten, bei von Avocadostore zu vertretendem Verzug und/oder Unmöglichkeit. Die Haftung bei Verletzung einer solchen vertragswesentlichen Pflicht ist auf den vertragstypischen Schaden begrenzt, mit dem Avocadostore bei Vertragsabschluss auf Grund der zu diesem Zeitpunkt bekannten Umstände rechnen musste. Zu den vertragswesentlichen Pflichten gehört insbesondere die Bereitstellung und Ermöglichung der Nutzung des Avocadostore-Marktplatzes.
-2.  Für den Verlust von Daten haftet Avocadostore nach Maßgabe der vorstehenden Absätze nur, wenn ein solcher Verlust durch angemessene Datensicherungsmaßnahmen seitens des Teilnehmers nicht vermeidbar gewesen wäre.
-3.  Im Übrigen ist die Haftung von Avocadostore ausgeschlossen. Die Vorschriften des Produkthaftungsgesetzes bleiben unberührt.
+1. Avocadostore haftet für Vorsatz und grobe Fahrlässigkeit sowie im Fall von Personenschäden (Verletzung des Lebens, des Körpers und der Gesundheit) uneingeschränkt, für leichte Fahrlässigkeit jedoch nur bei der Verletzung vertragswesentlicher Pflichten, bei von Avocadostore zu vertretendem Verzug und/oder Unmöglichkeit. Die Haftung bei Verletzung einer solchen vertragswesentlichen Pflicht ist auf den vertragstypischen Schaden begrenzt, mit dem Avocadostore bei Vertragsabschluss auf Grund der zu diesem Zeitpunkt bekannten Umstände rechnen musste. Zu den vertragswesentlichen Pflichten gehört insbesondere die Bereitstellung und Ermöglichung der Nutzung des Avocadostore-Marktplatzes.
+2. Für den Verlust von Daten haftet Avocadostore nach Maßgabe der vorstehenden Absätze nur, wenn ein solcher Verlust durch angemessene Datensicherungsmaßnahmen seitens des Teilnehmers nicht vermeidbar gewesen wäre.
+3. Im Übrigen ist die Haftung von Avocadostore ausgeschlossen. Die Vorschriften des Produkthaftungsgesetzes bleiben unberührt.
 
 ### 2\. Datenschutz
 
