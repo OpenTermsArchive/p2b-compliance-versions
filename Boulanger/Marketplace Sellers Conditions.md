@@ -3,10 +3,10 @@
 
 Version n°5 en vigueur au 30 septembre 2021Version n°5 en vigueur au 30 septembre 2021
 
-*   [Version n° 4 du 29 mars 2017](https://www.boulanger.com/content/static/bcom/cgv/ctn/pdf/CGV%20Partenaire%20V4_29.03.2017.pdf)
-*   [Version n° 3 - du 25 mai 2015](https://www.boulanger.com/content/static/bcom/cgv/ctn/pdf/CGV%20Partenaire%20V3_26.05.2015.pdf)
-*   [Version n° 2 - du 16 mars 2015](https://www.boulanger.com/content/static/bcom/cgv/ctn/pdf/CGV%20Partenaire%20V2_16.03.2015.pdf)
-*   [Version n° 1 - du 14 octobre 2014](https://www.boulanger.com/content/static/bcom/cgv/ctn/pdf/CGV%20Partenaire%20V1_14.10.2014.pdf)
+* [Version n° 4 du 29 mars 2017](https://www.boulanger.com/content/static/bcom/cgv/ctn/pdf/CGV%20Partenaire%20V4_29.03.2017.pdf)
+* [Version n° 3 - du 25 mai 2015](https://www.boulanger.com/content/static/bcom/cgv/ctn/pdf/CGV%20Partenaire%20V3_26.05.2015.pdf)
+* [Version n° 2 - du 16 mars 2015](https://www.boulanger.com/content/static/bcom/cgv/ctn/pdf/CGV%20Partenaire%20V2_16.03.2015.pdf)
+* [Version n° 1 - du 14 octobre 2014](https://www.boulanger.com/content/static/bcom/cgv/ctn/pdf/CGV%20Partenaire%20V1_14.10.2014.pdf)
 
   
 
@@ -348,10 +348,10 @@ Haut
 
 ![Veuillez patienter s'il vous plaît](/content/static/bcom/cgv/img/waiting.svg)
 
-*   [Version n° 4 du 29 mars 2017](https://www.boulanger.com/content/static/bcom/cgv/ctn/pdf/CGV%20Partenaire%20V4_29.03.2017.pdf)
-*   [Version n° 3 - du 25 mai 2015](https://www.boulanger.com/content/static/bcom/cgv/ctn/pdf/CGV%20Partenaire%20V3_26.05.2015.pdf)
-*   [Version n° 2 - du 16 mars 2015](https://www.boulanger.com/content/static/bcom/cgv/ctn/pdf/CGV%20Partenaire%20V2_16.03.2015.pdf)
-*   [Version n° 1 - du 14 octobre 2014](https://www.boulanger.com/content/static/bcom/cgv/ctn/pdf/CGV%20Partenaire%20V1_14.10.2014.pdf)
+* [Version n° 4 du 29 mars 2017](https://www.boulanger.com/content/static/bcom/cgv/ctn/pdf/CGV%20Partenaire%20V4_29.03.2017.pdf)
+* [Version n° 3 - du 25 mai 2015](https://www.boulanger.com/content/static/bcom/cgv/ctn/pdf/CGV%20Partenaire%20V3_26.05.2015.pdf)
+* [Version n° 2 - du 16 mars 2015](https://www.boulanger.com/content/static/bcom/cgv/ctn/pdf/CGV%20Partenaire%20V2_16.03.2015.pdf)
+* [Version n° 1 - du 14 octobre 2014](https://www.boulanger.com/content/static/bcom/cgv/ctn/pdf/CGV%20Partenaire%20V1_14.10.2014.pdf)
 
   
 
