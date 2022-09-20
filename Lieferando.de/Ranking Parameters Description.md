@@ -22,8 +22,8 @@ We also restrict the number of spots a restaurant can move up the list to ensure
   
 **Favourites:** Customers have the possibility to save restaurants as a ‘Favourite’. These restaurants will appear higher up in the restaurant list in order for customers to find them more easily.  
   
-**Other factors:** Furthermore, if any filtering, sorting, or searching actions have been taken, this will affect the order and types of restaurants shown based on the eligibility of those restaurants to the filtering, sorting, or searching criteria.  
+**Other factors:** Furthermore, if any filtering, sorting, or searching actions have been taken, this will affect the order and types of restaurants shown based on the eligibility of those restaurants to the filtering, sorting, or searching criteria.  
   
-**Testing:** From time to time, we may run tests or experiments to monitor and improve our service, which may temporarily impact the restaurant order. 
+**Testing:** From time to time, we may run tests or experiments to monitor and improve our service, which may temporarily impact the restaurant order. 
 
 * * *
