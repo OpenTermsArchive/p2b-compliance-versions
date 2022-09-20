@@ -3,13 +3,13 @@ Conditions particulières – Vendeurs professionnels
 
 _**Version mise à jour le 08 septembre 2022**_
 
-_Pour consulter la version précédemment en vigueur des Conditions Particulières Pro, cliquez [ici](https://fr.shopping.rakuten.com/visuels/0_merch/contest/reglement/Conditions%20Particulieres%20Pro%20(en%20vigueur%20entre%20le%202021.09.24%20et%20le%202022.01.01).pdf)._
+_Pour consulter la version précédemment en vigueur des Conditions Particulières Pro, cliquez [ici](https://fr.shopping.rakuten.com/visuels/0_merch/contest/reglement/Conditions%20Particulieres%20Pro%20(en%20vigueur%20entre%20le%202021.09.24%20et%20le%202022.01.01).pdf)._
 
-Les présentes Conditions particulières ( les _«_ Conditions Particulières Pro_»_) ont pour objet de préciser les stipulations applicables aux relations entre Rakuten et les vendeurs agissant à titre professionnel (ci-après les _«_Vendeurs Professionnels_»_), et en particulier leurs obligations au sens de l'article 6.7 des [Conditions générales d'utilisation](https://fr.shopping.rakuten.com/newhelp/conditions-generales/).
+Les présentes Conditions particulières ( les _«_ Conditions Particulières Pro_»_) ont pour objet de préciser les stipulations applicables aux relations entre Rakuten et les vendeurs agissant à titre professionnel (ci-après les _«_Vendeurs Professionnels_»_), et en particulier leurs obligations au sens de l'article 6.7 des [Conditions générales d'utilisation](https://fr.shopping.rakuten.com/newhelp/conditions-generales/).
 
 Les Conditions Particulières Pro, que le Vendeur Professionnel déclare accepter sans aucune restriction ni réserve, complètent en tant que de besoin les Conditions générales d'utilisation acceptées par tout utilisateur de la Plateforme Rakuten. En cas de contrariété entre les Conditions Particulières Pro et les Conditions générales d'utilisation, les premières prévaudront.
 
-Rakuten est signataire de la [_Charte des acteurs du e-commerce_](https://www.economie.gouv.fr/files/files/directions_services/mediateur-des-entreprises/Charte%20des%20acteurs%20du%20e-commerce%20sign%C3%A9e.pdf).
+Rakuten est signataire de la [_Charte des acteurs du e-commerce_](https://www.economie.gouv.fr/files/files/directions_services/mediateur-des-entreprises/Charte%20des%20acteurs%20du%20e-commerce%20sign%C3%A9e.pdf).
 
 [**PRO. 1 - Définitions**](https://fr.shopping.rakuten.com/newhelp/cpvp/#ancre1)
 
@@ -82,12 +82,12 @@ _• Pro. 10.2.2 - Contenus mis en ligne par le Vendeur Professionnel_
 **Pro. 1 - Définitions**
 ------------------------
 
-Dans les présentes, les termes suivants employés avec une première lettre en majuscule auront le sens ci-après spécifié, étant précisé que les termes au pluriel peuvent s'entendre au singulier et réciproquement. Sauf mentions particulières au sein des présentes, les autres termes employés avec une majuscule dans les présentes Conditions Particulières Pro ont le sens qui leur est donné par les [Conditions générales d'utilisation](https://fr.shopping.rakuten.com/newhelp/conditions-generales/).
+Dans les présentes, les termes suivants employés avec une première lettre en majuscule auront le sens ci-après spécifié, étant précisé que les termes au pluriel peuvent s'entendre au singulier et réciproquement. Sauf mentions particulières au sein des présentes, les autres termes employés avec une majuscule dans les présentes Conditions Particulières Pro ont le sens qui leur est donné par les [Conditions générales d'utilisation](https://fr.shopping.rakuten.com/newhelp/conditions-generales/).
 
 |     |     |
 | --- | --- |
 | **Code source  :** | Ensemble des instructions écrites dans un langage de programmation informatique, de balisage ou de formats de présentation, en ce compris tous les éléments multimédias ou autres inclus, utilisés par le Vendeur Professionnel pour les besoins des services personnalisables. |
-| **Contrat :** | Les [Conditions Générales d'Utilisation](https://fr.shopping.rakuten.com/newhelp/conditions-generales/) de la Plateforme Rakuten complétées par les présentes Conditions Particulières Pro, qui fixent la relation contractuelle entre Rakuten et le Vendeur Professionnel. |
+| **Contrat :** | Les [Conditions Générales d'Utilisation](https://fr.shopping.rakuten.com/newhelp/conditions-generales/) de la Plateforme Rakuten complétées par les présentes Conditions Particulières Pro, qui fixent la relation contractuelle entre Rakuten et le Vendeur Professionnel. |
 | **Coordonnées des acheteurs :** | L'ensemble des données à caractère personnel de l'Acheteur nécessaire au passage d’une commande sur la Plateforme Rakuten, notamment son nom, prénom, adresse postale, ainsi que le détail de sa commande. |
 | **Indicateurs de Performance et de Confiance :** | Indicateurs notamment (mais sans s'y limiter) relatifs au nombre, à la qualité et à la nature des Produits disponibles dans l'inventaire du Vendeur Professionnel, à son taux de confirmation de la disponibilité des Produits, à son taux de Réclamations déposées par les Acheteurs de ses Produits et aux notes attribuées au Vendeur Professionnel par ces Acheteurs, ainsi qu’à la qualité de ses services en termes de livraison, pondérés sous la forme de rangs (« A », « B », « C », « D ») et d’une note, tel que détaillé sur le compte du Vendeur Professionnel. |
 | **Parties :** | Rakuten et le Vendeur Professionnel soumis au respect des Conditions Particulières Pro. |
@@ -97,14 +97,14 @@ Dans les présentes, les termes suivants employés avec une première lettre en 
 
 **• Pro. 2.1 - Diffusion des offres sur la Plateforme Rakuten**
 
-_Pro.2.1.1 - Diffusion des offres de vente sur la Plateforme_ _Rakuten  
+_Pro.2.1.1 - Diffusion des offres de vente sur la Plateforme_ _Rakuten  
 _
 
 Le Vendeur Professionnel dispose d'un outil de publication et de diffusion de ses offres de vente sur la Plateforme Rakuten de manière non limitée dans le temps. Cet outil permet au Vendeur Professionnel de mettre en ligne des Produits ou des caractéristiques essentielles de ces Produits en s'appuyant sur des bases de données (par exemple : titre, support, photographie, label, prix public conseillé).
 
 Au regard du caractère stratégique de l’arborescence de la Plateforme Rakuten et de la facilité d’accès aux offres par les Membres, le Vendeur Professionnel diffuse ses offres dans le strict respect des catégories existantes.
 
-_Pro.2.1.2 - Diffusion des offres en précommande sur la Plateforme_ _Rakuten_
+_Pro.2.1.2 - Diffusion des offres en précommande sur la Plateforme_ _Rakuten_
 
 Le Vendeur Professionnel a la faculté de diffuser des offres de Produits en précommande sur la Plateforme Rakuten. Cette option lui permet de mettre en ligne des Produits non disponibles à la vente au jour de la parution de l’annonce mais dont la date de sortie est annoncée.
 
@@ -139,7 +139,7 @@ Tout autre proposition de biens et services accessoires à l’Acheteur devra ê
 
 **• Pro. 2.6 - Classement des offres sur la Plateforme Rakuten**
 
-Le Vendeur Professionnel a la possibilité de consulter les principaux paramètres déterminant le classement des offres sur la Plateforme Rakuten, les raisons justifiant l’importance de ces principaux paramètres et l’existence de paramètres basés sur une rémunération directe ou indirecte de Rakuten par le Vendeur Professionnel sur la page « Fonctionnement du service » accessible [ici](https://fr.shopping.rakuten.com/newhelp/fonctionnement/).
+Le Vendeur Professionnel a la possibilité de consulter les principaux paramètres déterminant le classement des offres sur la Plateforme Rakuten, les raisons justifiant l’importance de ces principaux paramètres et l’existence de paramètres basés sur une rémunération directe ou indirecte de Rakuten par le Vendeur Professionnel sur la page « Fonctionnement du service » accessible [ici](https://fr.shopping.rakuten.com/newhelp/fonctionnement/).
 
 **Pro. 3 - Obligations particulières du Vendeur Professionnel**
 ---------------------------------------------------------------
@@ -200,7 +200,7 @@ Sont conventionnellement considérés comme fériés les jours suivants :
 
 |     |     |
 | --- | --- |
-| 1er janvier  <br>Lundi de Pâques (lendemain du jour de Pâques)  <br>1er mai  <br>8 mai  <br>Jeudi de l'Ascension (40ème jour après Pâques)  <br>Lundi de Pentecôte  <br>14 juillet | 15 août  <br>1er novembre  <br>11 novembre  <br>24 décembre  <br>25 décembre  <br>31 décembre |
+| 1er janvier  <br>Lundi de Pâques (lendemain du jour de Pâques)  <br>1er mai  <br>8 mai  <br>Jeudi de l'Ascension (40ème jour après Pâques)  <br>Lundi de Pentecôte  <br>14 juillet | 15 août  <br>1er novembre  <br>11 novembre  <br>24 décembre  <br>25 décembre  <br>31 décembre |
 
 Dès que possible et au plus tard au moment de l’expédition, le Vendeur Professionnel communique à Rakuten  le numéro de suivi du colis via le suivi de commande ou les WebServices.
 
@@ -214,19 +214,19 @@ Le Vendeur Professionnel s'interdit de détourner à son profit ou au profit de 
 
 Dans le cadre de l’utilisation des services personnalisables (tels que le Rakuten E-Shop) par le Vendeur Professionnel, ce dernier s’engage à :  
 
-*   Créer le Code Source sous sa seule responsabilité, étant précisé que Rakuten n’assurera aucun contrôle, validation, correction ou modification dudit Code Source et de toute autre donnée connexe ;
-*   S’assurer que le Code Source est exempt de tout vice et/ou tout élément qui aurait pour objet ou pour effet de créer une faille de sécurité ou de perturber l’affichage de tout élément figurant sur la Plateforme Rakuten ;
-*   Ne pas insérer de Code source qui viserait à collecter les données (à caractère personnel ou non) de navigation et/ou de fréquentation des utilisateurs de la Plateforme, notamment relatives à son Rakuten E-Shop;
-*   Être titulaire de l’ensemble des droits de propriété intellectuelle afférents au Code Source et des images utilisés pour les services personnalisables ou l’ensemble des autorisations lui permettant de représenter et/ou de reproduire ces éléments ;
-*   Ne pas insérer de liens et/ou tout élément dans le Code Source ayant pour objet ou pour effet de renvoyer les utilisateurs de la Plateforme Rakuten vers des contenus situés en dehors de la Plateforme Rakuten. En particulier, le Vendeur Professionnel s’interdit d’insérer tout lien pointant vers son propre site internet, vers son adresse de courrier électronique ou, plus généralement, s’interdit d’insérer toute publicité (bannière, lien commercial, etc.) au bénéfice ou au profit de tout site ou tout contenu qui ne serait pas hébergé sur la Plateforme Rakuten ;
-*   Procéder, avant toute modification du Code Source, et plus généralement de façon régulière, à un archivage de la version précédente du Code Source et de toute donnée connexe sur ses propres supports de stockage, Rakuten n’assurant aucun archivage ou historisation des diverses versions du Code Source créées par le Vendeur Professionnel.
+* Créer le Code Source sous sa seule responsabilité, étant précisé que Rakuten n’assurera aucun contrôle, validation, correction ou modification dudit Code Source et de toute autre donnée connexe ;
+* S’assurer que le Code Source est exempt de tout vice et/ou tout élément qui aurait pour objet ou pour effet de créer une faille de sécurité ou de perturber l’affichage de tout élément figurant sur la Plateforme Rakuten ;
+* Ne pas insérer de Code source qui viserait à collecter les données (à caractère personnel ou non) de navigation et/ou de fréquentation des utilisateurs de la Plateforme, notamment relatives à son Rakuten E-Shop;
+* Être titulaire de l’ensemble des droits de propriété intellectuelle afférents au Code Source et des images utilisés pour les services personnalisables ou l’ensemble des autorisations lui permettant de représenter et/ou de reproduire ces éléments ;
+* Ne pas insérer de liens et/ou tout élément dans le Code Source ayant pour objet ou pour effet de renvoyer les utilisateurs de la Plateforme Rakuten vers des contenus situés en dehors de la Plateforme Rakuten. En particulier, le Vendeur Professionnel s’interdit d’insérer tout lien pointant vers son propre site internet, vers son adresse de courrier électronique ou, plus généralement, s’interdit d’insérer toute publicité (bannière, lien commercial, etc.) au bénéfice ou au profit de tout site ou tout contenu qui ne serait pas hébergé sur la Plateforme Rakuten ;
+* Procéder, avant toute modification du Code Source, et plus généralement de façon régulière, à un archivage de la version précédente du Code Source et de toute donnée connexe sur ses propres supports de stockage, Rakuten n’assurant aucun archivage ou historisation des diverses versions du Code Source créées par le Vendeur Professionnel.
 
 **• Pro. 3.4 - Reprise des produits usagés**
 
 Conformément aux lois et règlements relatifs à la prévention et à la gestion des déchets, lesquels sont pour certains expressément visés à l’article Pro. 6.4 des présentes Conditions Particulières Pro, le Vendeur Professionnel s’engage, pour les catégories de produits visées par cette réglementation, à :
 
-*   mettre en œuvre, à la demande de l’Acheteur, la reprise sans frais d’un produit usagé au point de livraison d’un Produit, auprès d’un point de collecte de proximité ou par la mise à disposition d’une solution de renvoi sans frais pour l’Acheteur, dans les conditions fixées par cette réglementation,
-*   indiquer préalablement à tout achat, dans son Offre de vente ou par tout moyen écrit à sa convenance, les conditions, modalités et limites de cette reprise sans frais.
+* mettre en œuvre, à la demande de l’Acheteur, la reprise sans frais d’un produit usagé au point de livraison d’un Produit, auprès d’un point de collecte de proximité ou par la mise à disposition d’une solution de renvoi sans frais pour l’Acheteur, dans les conditions fixées par cette réglementation,
+* indiquer préalablement à tout achat, dans son Offre de vente ou par tout moyen écrit à sa convenance, les conditions, modalités et limites de cette reprise sans frais.
 
 **Pro.4 - Conditions financières**
 ----------------------------------
@@ -235,7 +235,7 @@ Conformément aux lois et règlements relatifs à la prévention et à la gestio
 
 _Pro. 4.1.1 – Paiement des ventes_
 
-Rakuten reverse au Vendeur Professionnel après chaque vente réputée parfaite, c’est-à-dire pour laquelle (i) l’Acheteur a confirmé la réception conforme du Produit à l’offre du Vendeur Professionnel par le biais de la notation (dans les conditions détaillées à l'article 4.3 des [Conditions Générales d'Utilisation](https://fr.shopping.rakuten.com/newhelp/conditions-generales/)) ou, à défaut, (ii) au terme d’un délai maximal de trente (30) jours à compter de la date de confirmation de la disponibilité du Produit par le Vendeur, selon celui de ces événements qui survient le premier, sans préjudice des conditions posées par l’article 7.5 des [Conditions Générales d’Utilisation](https://fr.shopping.rakuten.com/newhelp/conditions-generales/), le prix de vente convenu minoré de la commission applicable sur le prix de vente final et plus généralement de toute somme due par le Vendeur Professionnel à Rakuten en application du Contrat.
+Rakuten reverse au Vendeur Professionnel après chaque vente réputée parfaite, c’est-à-dire pour laquelle (i) l’Acheteur a confirmé la réception conforme du Produit à l’offre du Vendeur Professionnel par le biais de la notation (dans les conditions détaillées à l'article 4.3 des [Conditions Générales d'Utilisation](https://fr.shopping.rakuten.com/newhelp/conditions-generales/)) ou, à défaut, (ii) au terme d’un délai maximal de trente (30) jours à compter de la date de confirmation de la disponibilité du Produit par le Vendeur, selon celui de ces événements qui survient le premier, sans préjudice des conditions posées par l’article 7.5 des [Conditions Générales d’Utilisation](https://fr.shopping.rakuten.com/newhelp/conditions-generales/), le prix de vente convenu minoré de la commission applicable sur le prix de vente final et plus généralement de toute somme due par le Vendeur Professionnel à Rakuten en application du Contrat.
 
 Le paiement des ventes réputées parfaites intervient par virement bancaire chaque lundi et jeudi.
 
@@ -260,11 +260,11 @@ En contrepartie du ou des services compris dans l’offre souscrite, le Vendeur 
 
 **• Pro. 4.3 – Montants de la Commission et de l’Abonnement**
 
-Les montants de l’Abonnement, de la Commission et des services et options payants sont fixés au sein de la [Grille Tarifaire Pro](https://fr.shopping.rakuten.com/newhelp/cpvp/grille-tarifaire-pro/), qui fait partie intégrante du Contrat.
+Les montants de l’Abonnement, de la Commission et des services et options payants sont fixés au sein de la [Grille Tarifaire Pro](https://fr.shopping.rakuten.com/newhelp/cpvp/grille-tarifaire-pro/), qui fait partie intégrante du Contrat.
 
 La Commission est prélevée lors du paiement de la commande par l’Acheteur et facturée automatiquement au Vendeur Professionnel lorsque celui-ci transfère le montant de ses ventes « Payables » sur son Porte-Monnaie (pour l’ensemble des ventes concernées).
 
-La Commission est due même à la suite de l’annulation de la commande pour toute cause étrangère à Rakuten incluant, sans s’y limiter, le fait pour le Vendeur Professionnel de ne pas confirmer la disponibilité du Produit, d’annuler une commande après la confirmation de la disponibilité du Produit, toute annulation d’une commande faisant suite à une réclamation fondée de la part de l’Acheteur dans les conditions du chapitre 8 (« Réclamations et droit de rétractation ») des [Conditions Générales d’Utilisation](https://fr.shopping.rakuten.com/newhelp/conditions-generales/), etc. Dans ce cas, le montant de la Commission sera calculé entre le quatrième (4ème) et le  septième (7ème) jour du mois suivant (m+1) pour les ventes réalisées au cours du mois précédent (m). Ce montant est porté sur la même facture que celle de l’Abonnement visé à l’article Pro. 4.2 et payé dans les mêmes conditions que l’Abonnement.
+La Commission est due même à la suite de l’annulation de la commande pour toute cause étrangère à Rakuten incluant, sans s’y limiter, le fait pour le Vendeur Professionnel de ne pas confirmer la disponibilité du Produit, d’annuler une commande après la confirmation de la disponibilité du Produit, toute annulation d’une commande faisant suite à une réclamation fondée de la part de l’Acheteur dans les conditions du chapitre 8 (« Réclamations et droit de rétractation ») des [Conditions Générales d’Utilisation](https://fr.shopping.rakuten.com/newhelp/conditions-generales/), etc. Dans ce cas, le montant de la Commission sera calculé entre le quatrième (4ème) et le  septième (7ème) jour du mois suivant (m+1) pour les ventes réalisées au cours du mois précédent (m). Ce montant est porté sur la même facture que celle de l’Abonnement visé à l’article Pro. 4.2 et payé dans les mêmes conditions que l’Abonnement.
 
 **• Pro. 4.4 – Impayés**
 
@@ -292,21 +292,21 @@ Le montant de la réserve au sens du présent article est défini pour chaque mo
 
 _Pro. 4.5.2 – Réserve - Gestion des risques_
 
-Sans préjudice des stipulations de l’article Pro. 4.5.1, Rakuten se réserve le droit de constituer sur le Porte-Monnaie du Vendeur Professionnel une réserve à hauteur d’un montant permettant audit Vendeur Professionnel de garantir le respect de ses obligations au titre des [Conditions Générales d’Utilisation](https://fr.shopping.rakuten.com/newhelp/conditions-generales/), des Conditions Particulières Pro et de la réglementation en vigueur, dans le cas où Rakuten constaterait une situation/activité sur le compte du Vendeur Professionnel lui permettant raisonnablement d’envisager que le Vendeur Professionnel pourrait ne plus être en mesure d’honorer ses obligations à l’égard des Acheteurs de ses Produits ou de Rakuten (ce à compter de la survenance de cette situation et jusqu’à sa parfaite résolution), notamment, mais sans s’y limiter, dans le cadre :
+Sans préjudice des stipulations de l’article Pro. 4.5.1, Rakuten se réserve le droit de constituer sur le Porte-Monnaie du Vendeur Professionnel une réserve à hauteur d’un montant permettant audit Vendeur Professionnel de garantir le respect de ses obligations au titre des [Conditions Générales d’Utilisation](https://fr.shopping.rakuten.com/newhelp/conditions-generales/), des Conditions Particulières Pro et de la réglementation en vigueur, dans le cas où Rakuten constaterait une situation/activité sur le compte du Vendeur Professionnel lui permettant raisonnablement d’envisager que le Vendeur Professionnel pourrait ne plus être en mesure d’honorer ses obligations à l’égard des Acheteurs de ses Produits ou de Rakuten (ce à compter de la survenance de cette situation et jusqu’à sa parfaite résolution), notamment, mais sans s’y limiter, dans le cadre :
 
-*   d'une hausse du taux de Réclamations et/ou de pics anormaux de Réclamations de même ou de différente(s) nature(s),
-*   d'un taux anormal de transactions pour lesquelles le suivi du transporteur est indisponible ou n’indique pas de mouvements du colis à destination de l’Acheteur,
-*   d'un taux anormal de Réclamations ou de signalements de la part d’Acheteurs eu égard à la conformité, la nature ou le fonctionnement d’un même Produit ou d’une même catégorie de Produits vendu(s) par le Vendeur Professionnel,
-*   le cas échéant, d’une demande de la part du Vendeur Professionnel visant à ce que son compte soit clôturé dans l’une ou plusieurs des situations précédentes.
+* d'une hausse du taux de Réclamations et/ou de pics anormaux de Réclamations de même ou de différente(s) nature(s),
+* d'un taux anormal de transactions pour lesquelles le suivi du transporteur est indisponible ou n’indique pas de mouvements du colis à destination de l’Acheteur,
+* d'un taux anormal de Réclamations ou de signalements de la part d’Acheteurs eu égard à la conformité, la nature ou le fonctionnement d’un même Produit ou d’une même catégorie de Produits vendu(s) par le Vendeur Professionnel,
+* le cas échéant, d’une demande de la part du Vendeur Professionnel visant à ce que son compte soit clôturé dans l’une ou plusieurs des situations précédentes.
 
-Le montant de la réserve constituée au titre du présent article est actualisé suivant l’évolution de l’activité du Vendeur Professionnel et des circonstances entourant la mise en place de cette réserve.
+Le montant de la réserve constituée au titre du présent article est actualisé suivant l’évolution de l’activité du Vendeur Professionnel et des circonstances entourant la mise en place de cette réserve.
 
 **Pro. 5 - Dépendance économique**
 ----------------------------------
 
 Le Vendeur Professionnel informera Rakuten par écrit dès lors qu’il se trouverait en situation de dépendance économique à l’égard de cette dernière. À cette occasion, le Vendeur Professionnel précisera quelles mesures seront mises en œuvre sans délai par ses soins pour corriger la situation.
 
-En toute hypothèse, le Vendeur Professionnel dégage Rakuten de toute responsabilité à son égard au titre du choix stratégique qu’il ferait en se plaçant et/ou en se maintenant en situation de dépendance économique.
+En toute hypothèse, le Vendeur Professionnel dégage Rakuten de toute responsabilité à son égard au titre du choix stratégique qu’il ferait en se plaçant et/ou en se maintenant en situation de dépendance économique.
 
 **Pro. 6 - Responsabilités et garanties**
 -----------------------------------------
@@ -329,16 +329,16 @@ Les informations soumises par le Vendeur Professionnel à Rakuten pour l’accom
 
 Le Vendeur Professionnel s’engage par ailleurs à fournir à Rakuten, dans les délais prévus par Rakuten, toutes les informations sollicitées par Rakuten et nécessaires à l’accomplissement par Rakuten de ses obligations sociales, douanières et fiscales en France ou hors de France.
 
-Le Vendeur Professionnel reconnait que Rakuten ne pourra en aucun cas réaliser, participer ou faciliter l’accomplissement des obligations résultant des normes de TVA et douanières incombant au Vendeur Professionnel. Le Vendeur Professionnel ne pourra en aucun cas imputer à Rakuten tout manquement à l’accomplissement de ses propres obligations résultant des normes de TVA et douanières.
+Le Vendeur Professionnel reconnait que Rakuten ne pourra en aucun cas réaliser, participer ou faciliter l’accomplissement des obligations résultant des normes de TVA et douanières incombant au Vendeur Professionnel. Le Vendeur Professionnel ne pourra en aucun cas imputer à Rakuten tout manquement à l’accomplissement de ses propres obligations résultant des normes de TVA et douanières.
 
 **• Pro. 6.4 – Engagements et informations à fournir par le Vendeur Professionnel au regard de la Responsabilité Élargie du Producteur ("REP")**
 
 Le Vendeur Professionnel s’engage à se conformer aux lois et règlements relatifs à la prévention et à la gestion des déchets (incluant, sans s’y limiter, les dispositions de la loi n° 2020-105 du 10 février 2020 relative à la lutte contre le gaspillage et à l'économie circulaire, ainsi que tout décret ou arrêté pris pour l’application de ces dispositions et de tous textes s’y substituant ou les amendant). Spécifiquement, au titre de la Responsabilité Élargie du Producteur (« REP »), le Vendeur Professionnel s’engage à :
 
-*   adhérer à un éco-organisme agréé pour la prévention et la gestion des déchets qui proviennent de certaines catégories de produits vendus par ses soins via la Plateforme Rakuten, ou à mettre en place un système individuel de collecte et de traitement– également agréé – de ces produits, conformément à cette dernière réglementation,
-*   communiquer à Rakuten dans les plus brefs délais suivant leur obtention ou l’inscription du Vendeur Professionnel sur la Plateforme Rakuten, selon les modalités indiquées par Rakuten, son ou ses identifiant(s) unique(s) délivrés pour les catégories de produits en question, ainsi que tous les éléments sollicités par Rakuten permettant d’établir que le Vendeur Professionnel remplit ou a déjà rempli ses obligations au titre de la réglementation précitée.
+* adhérer à un éco-organisme agréé pour la prévention et la gestion des déchets qui proviennent de certaines catégories de produits vendus par ses soins via la Plateforme Rakuten, ou à mettre en place un système individuel de collecte et de traitement– également agréé – de ces produits, conformément à cette dernière réglementation,
+* communiquer à Rakuten dans les plus brefs délais suivant leur obtention ou l’inscription du Vendeur Professionnel sur la Plateforme Rakuten, selon les modalités indiquées par Rakuten, son ou ses identifiant(s) unique(s) délivrés pour les catégories de produits en question, ainsi que tous les éléments sollicités par Rakuten permettant d’établir que le Vendeur Professionnel remplit ou a déjà rempli ses obligations au titre de la réglementation précitée.
 
-Le Vendeur Professionnel accepte que l’ensemble des sommes que Rakuten pourrait être tenue de payer du fait d’un manquement du Vendeur Professionnel à cette réglementation (incluant, sans s’y limiter, tout défaut de paiement de l’éco-participation ou tout frais né de la demande de reprise d’un produit usagé par un Acheteur non pris en charge par le Vendeur Professionnel) seront refacturées par Rakuten au Vendeur Professionnel dans les conditions visées dans la [Grille Tarifaire Pro](https://fr.shopping.rakuten.com/newhelp/cpvp/grille-tarifaire-pro/).
+Le Vendeur Professionnel accepte que l’ensemble des sommes que Rakuten pourrait être tenue de payer du fait d’un manquement du Vendeur Professionnel à cette réglementation (incluant, sans s’y limiter, tout défaut de paiement de l’éco-participation ou tout frais né de la demande de reprise d’un produit usagé par un Acheteur non pris en charge par le Vendeur Professionnel) seront refacturées par Rakuten au Vendeur Professionnel dans les conditions visées dans la [Grille Tarifaire Pro](https://fr.shopping.rakuten.com/newhelp/cpvp/grille-tarifaire-pro/).
 
 **Pro. 7 - Niveau de service**
 ------------------------------
@@ -351,7 +351,7 @@ Rakuten pourra procéder, après avoir prévenu le Vendeur Professionnel dans un
 
 Le Vendeur Professionnel est informé et reconnaît que Rakuten pourra procéder à des modifications évolutives des services. En conséquence, le Vendeur Professionnel est informé que les Codes Sources devront faire l’objet d’éventuelles modifications, par ses soins et à ses frais, qui seraient rendues nécessaires par les propres développements informatiques opérés par Rakuten. En pareil cas, Rakuten s’engage à informer le Vendeur Professionnel dans un délai raisonnable.
 
-Le Vendeur Professionnel reconnaît que les réseaux ayant des capacités de transmission inégales et des politiques d’utilisation propres, nul ne peut garantir le bon fonctionnement de l’internet dans son ensemble. Le Vendeur Professionnel accepte ainsi de supporter dans les limites raisonnables de la diligence de Rakuten, des risques d’imperfection ou d’indisponibilité des services (exemples : accessibilité des contenus, délai d’affichage des pages).
+Le Vendeur Professionnel reconnaît que les réseaux ayant des capacités de transmission inégales et des politiques d’utilisation propres, nul ne peut garantir le bon fonctionnement de l’internet dans son ensemble. Le Vendeur Professionnel accepte ainsi de supporter dans les limites raisonnables de la diligence de Rakuten, des risques d’imperfection ou d’indisponibilité des services (exemples : accessibilité des contenus, délai d’affichage des pages).
 
 **Pro. 8 - Protection des données à caractère personnel**
 ---------------------------------------------------------
@@ -361,9 +361,9 @@ Chaque Partie s’engage à traiter les Coordonnées des acheteurs conformément
 
 Dans le cadre de l’exécution du Contrat, le Vendeur Professionnel accède aux Coordonnées des Acheteurs qu’il s’engage à utiliser pour :
 
-*   expédier la commande de l’Acheteur ou lui remettre physiquement celle-ci,
-*   communiquer avec l’Acheteur dans le cadre d’une transaction,
-*   respecter ses obligations légales et réglementaires, notamment fiscales.
+* expédier la commande de l’Acheteur ou lui remettre physiquement celle-ci,
+* communiquer avec l’Acheteur dans le cadre d’une transaction,
+* respecter ses obligations légales et réglementaires, notamment fiscales.
 
 Le Vendeur Professionnel peut également accéder, après en avoir fait la demande à Rakuten et sous réserve que Rakuten l’accepte, à l’adresse électronique et au numéro de téléphone de l’Acheteur afin de faciliter le suivi de la livraison de la commande. L’adresse électronique et le numéro de téléphone de l’Acheteur font partie intégrante des Coordonnées de l’acheteur, une fois que Rakuten autorise le Vendeur Professionnel à y accéder.
 
@@ -371,12 +371,12 @@ Le Vendeur Professionnel s’interdit d’utiliser, copier, louer et/ou vendre l
 
 Le Vendeur Professionnel s’engage par ailleurs à :
 
-*   effacer, sauf disposition légale ou réglementaire contraire, les Coordonnées des acheteurs dès lors que les Coordonnées des acheteurs ne sont plus utiles à l’exécution des présentes et/ou sur simple demande de Rakuten en cas de non-respect par le Vendeur Professionnel des termes du Contrat,
-*   préserver la sécurité, l’intégrité et la confidentialité des Coordonnées des acheteurs en mettant en place toutes les mesures techniques et organisationnelles appropriées pour protéger les Coordonnées des acheteurs, en prenant en compte l'état des connaissances en matière de sécurité informatique et les coûts de mise en oeuvre afin de garantir un niveau de sécurité adapté au risque,
-*   former et sensibiliser périodiquement les employés ayant accès aux Coordonnées des acheteurs aux enjeux liés à la protection des données à caractère personnel. Il s’engage également à mettre en place une politique de contrôle d’accès, en définissant notamment des profils d’habilitation, afin de limiter l’accès aux Coordonnées des acheteurs aux seuls employés devant nécessairement, dans le cadre de leur fonction et dans les limites des présentes, y avoir accès,
-*   mettre en place des procédures pour que tout tiers ou sous-traitant qu'il autorise à avoir accès aux Coordonnées des acheteurs respecte les mêmes obligations que celles lui incombant en vertu du présent Contrat,
-*   satisfaire avec diligence et dans les meilleurs délais à toute demande de Rakuten relative au traitement des Coordonnées des acheteurs dans le cadre des présentes,
-*   informer Rakuten, dans les meilleurs délais et par courriel à l’adresse [fr-privacy@mail.rakuten.com](mailto:fr-cil@mail.rakuten.com), en cas de découverte d’une violation de données, au sens du Règlement (UE) 2016/679, qui affecterait les Coordonnées des acheteurs.
+* effacer, sauf disposition légale ou réglementaire contraire, les Coordonnées des acheteurs dès lors que les Coordonnées des acheteurs ne sont plus utiles à l’exécution des présentes et/ou sur simple demande de Rakuten en cas de non-respect par le Vendeur Professionnel des termes du Contrat,
+* préserver la sécurité, l’intégrité et la confidentialité des Coordonnées des acheteurs en mettant en place toutes les mesures techniques et organisationnelles appropriées pour protéger les Coordonnées des acheteurs, en prenant en compte l'état des connaissances en matière de sécurité informatique et les coûts de mise en oeuvre afin de garantir un niveau de sécurité adapté au risque,
+* former et sensibiliser périodiquement les employés ayant accès aux Coordonnées des acheteurs aux enjeux liés à la protection des données à caractère personnel. Il s’engage également à mettre en place une politique de contrôle d’accès, en définissant notamment des profils d’habilitation, afin de limiter l’accès aux Coordonnées des acheteurs aux seuls employés devant nécessairement, dans le cadre de leur fonction et dans les limites des présentes, y avoir accès,
+* mettre en place des procédures pour que tout tiers ou sous-traitant qu'il autorise à avoir accès aux Coordonnées des acheteurs respecte les mêmes obligations que celles lui incombant en vertu du présent Contrat,
+* satisfaire avec diligence et dans les meilleurs délais à toute demande de Rakuten relative au traitement des Coordonnées des acheteurs dans le cadre des présentes,
+* informer Rakuten, dans les meilleurs délais et par courriel à l’adresse [fr-privacy@mail.rakuten.com](mailto:fr-cil@mail.rakuten.com), en cas de découverte d’une violation de données, au sens du Règlement (UE) 2016/679, qui affecterait les Coordonnées des acheteurs.
 
 Dans l’hypothèse où le Vendeur Professionnel accéderait aux Coordonnées des acheteurs depuis un pays se situant en dehors de l’Espace économique européen, Rakuten et le Vendeur Professionnel s’engagent à respecter les clauses contractuelles types encadrant par la décision n°2021/914 de la Commission européenne du 4 juin 2021 et dans le cadre desquelles le module 1 « Transfert de responsable du traitement à responsable du traitement » sera applicable. 
 
@@ -389,26 +389,26 @@ Le Vendeur Professionnel devra remédier sans délai à toute violation de ses o
 
 Sont notamment considérées (sans que cette liste soit limitative) comme des violations des obligations incombant au Vendeur Professionnel au titre du Contrat :
 
-*   une erreur de prix manifeste dans les offres du Vendeur Professionnel,
-*   un taux anormal de Réclamations déposées à la suite des ventes du Vendeur Professionnel,
-*   un taux d'annulations de commandes de la part du Vendeur Professionnel égal ou supérieur à cinq pour cent (5%) de l'ensemble des commandes de Membres réalisées au cours des trente (30) jours précédents,
-*   toute offre à la vente ou vente de Produit Interdit (dont produits contrefaisants, substances dangereuses et illégales, fausse monnaie, contenus pornographiques, armes à feu, explosifs, produits du corps humain, etc.),
-*   toute offre de Produits pour lesquels le Vendeur Professionnel ne pourrait pas justifier à Rakuten dans les conditions prévues au Contrat de son droit à commercialiser lesdits Produits (notamment, mais sans s’y limiter, à la suite d’une réclamation de tout tiers signalant une telle situation),
-*   tout manquement aux obligations sociales, fiscales et douanières,
-*   tout manquement du Vendeur Professionnel à ses obligations, légales ou conventionnelles, en matière de prévention et de gestion des déchets,
+* une erreur de prix manifeste dans les offres du Vendeur Professionnel,
+* un taux anormal de Réclamations déposées à la suite des ventes du Vendeur Professionnel,
+* un taux d'annulations de commandes de la part du Vendeur Professionnel égal ou supérieur à cinq pour cent (5%) de l'ensemble des commandes de Membres réalisées au cours des trente (30) jours précédents,
+* toute offre à la vente ou vente de Produit Interdit (dont produits contrefaisants, substances dangereuses et illégales, fausse monnaie, contenus pornographiques, armes à feu, explosifs, produits du corps humain, etc.),
+* toute offre de Produits pour lesquels le Vendeur Professionnel ne pourrait pas justifier à Rakuten dans les conditions prévues au Contrat de son droit à commercialiser lesdits Produits (notamment, mais sans s’y limiter, à la suite d’une réclamation de tout tiers signalant une telle situation),
+* tout manquement aux obligations sociales, fiscales et douanières,
+* tout manquement du Vendeur Professionnel à ses obligations, légales ou conventionnelles, en matière de prévention et de gestion des déchets,
 
 Rakuten pourra mettre en oeuvre, jusqu’à parfaite et pérenne résolution des violations constatés, toute mesure (i) rendue nécessaire par un ou plusieurs manquements du Vendeur Professionnel à ses obligations au titre du Contrat, à toute disposition légale ou réglementaire en vigueur ou à tout document de nature contractuelle auquel l’adhésion est nécessaire pour bénéficier de tout ou partie des services de la Plateforme Rakuten, et (ii) proportionnelle à ces manquements et aux circonstances entourant leur commission (notamment en considération de leur caractère grave et/ou répété, ainsi que de l’urgence de la situation) (une « Mesure »).
 
 Sont notamment considérées (mais sans que cette liste soit limitative) comme des Mesures les procédures suivantes :
 
-*   Suspension du ou des comptes concerné(s) du Vendeur Professionnel,
-*   Suspension de l’accès à la Plateforme Rakuten par le Vendeur Professionnel,
-*   Blocage du Porte-Monnaie du ou des compte concerné(s) du Vendeur Professionnel,
-*   Suspension de l’accès à toute offre associée à son accès à la Plateforme Rakuten,
-*   Suspension de l’accès à certaines options dont bénéficie le Vendeur Professionnel,
-*   Suspension ou suppression d’une ou plusieurs offres publiées par le Vendeur Professionnel sur la Plateforme Rakuten,
-*   Résiliation du Contrat aux torts du Vendeur Professionnel,
-*   Annulation d’une ou plusieurs transactions en cours ou pour lesquelles le Vendeur Professionnel n’a pas encore confirmé la disponibilité du Produit.
+* Suspension du ou des comptes concerné(s) du Vendeur Professionnel,
+* Suspension de l’accès à la Plateforme Rakuten par le Vendeur Professionnel,
+* Blocage du Porte-Monnaie du ou des compte concerné(s) du Vendeur Professionnel,
+* Suspension de l’accès à toute offre associée à son accès à la Plateforme Rakuten,
+* Suspension de l’accès à certaines options dont bénéficie le Vendeur Professionnel,
+* Suspension ou suppression d’une ou plusieurs offres publiées par le Vendeur Professionnel sur la Plateforme Rakuten,
+* Résiliation du Contrat aux torts du Vendeur Professionnel,
+* Annulation d’une ou plusieurs transactions en cours ou pour lesquelles le Vendeur Professionnel n’a pas encore confirmé la disponibilité du Produit.
 
 La présente section ne fait pas échec à la possibilité pour Rakuten comme pour le Vendeur Professionnel de résilier amiablement le Contrat selon les stipulations de l’article Pro. 9.2. Hormis dans les cas où la réglementation le lui interdit ou l’en dispense pour des motifs définis par cette réglementation, Rakuten notifiera le Vendeur Professionnel par tout moyen de la mise en oeuvre d’une Mesure avant ou au moment de sa mise en oeuvre. Le Vendeur Professionnel dispose à tout moment de la possibilité de donner réponse et de solliciter toute information à Rakuten au sujet de la mise en oeuvre d’une Mesure.
 
@@ -420,7 +420,7 @@ Le Vendeur Professionnel ne pourra revendiquer dans ces hypothèses aucune indem
 
 **• Pro. 9.2 - Résiliation amiable**
 
-Le Contrat est un contrat à durée indéterminée. En tant que tel, il est résiliable à tout moment par Rakuten ou par le Vendeur Professionnel sans motif particulier par simple notification via ce [formulaire](https://fr.shopping.rakuten.com/help/pro_closing_account/popup/true?hid=1916&pp=false) ou par lettre recommandée adressée à :
+Le Contrat est un contrat à durée indéterminée. En tant que tel, il est résiliable à tout moment par Rakuten ou par le Vendeur Professionnel sans motif particulier par simple notification via ce [formulaire](https://fr.shopping.rakuten.com/help/pro_closing_account/popup/true?hid=1916&pp=false) ou par lettre recommandée adressée à :
 
 RAKUTEN FRANCE SAS  
 ECC Operations  
@@ -434,7 +434,7 @@ La résiliation amiable du Contrat par Rakuten prendra effet à la fin du deuxi�
 
 **• Pro. 9.3 - Résiliation et clôture du compte du Vendeur Professionnel**
 
-Afin de garantir la bonne exécution des obligations dont il serait débiteur à l'égard des Acheteurs ou de Rakuten, le Vendeur Professionnel accepte que la clôture de son compte intervienne postérieurement à la date d'effet de la résiliation  du Contrat.
+Afin de garantir la bonne exécution des obligations dont il serait débiteur à l'égard des Acheteurs ou de Rakuten, le Vendeur Professionnel accepte que la clôture de son compte intervienne postérieurement à la date d'effet de la résiliation  du Contrat.
 
 **Pro. 10 - Stipulations générales**
 ------------------------------------
@@ -473,7 +473,7 @@ Sans préjudice des stipulations prévues à l’article Pro. 9, Rakuten se rés
 
 **• Pro. 10.3 - Accès aux données**
 
-Dans le cadre de l’utilisation de la Plateforme Rakuten, un certain nombre de données, à caractère personnel ou non, sont transmises à Rakuten par le Vendeur Professionnel et, de manière générale, par tout Membre de la Plateforme Rakuten, ou produites à l’occasion de son utilisation. Le Vendeur Professionnel peut prendre connaissance des modalités de l’accès à ces données, pendant l’exécution du Contrat après son expiration, [ici](https://fr.shopping.rakuten.com/newhelp/fonctionnement/).
+Dans le cadre de l’utilisation de la Plateforme Rakuten, un certain nombre de données, à caractère personnel ou non, sont transmises à Rakuten par le Vendeur Professionnel et, de manière générale, par tout Membre de la Plateforme Rakuten, ou produites à l’occasion de son utilisation. Le Vendeur Professionnel peut prendre connaissance des modalités de l’accès à ces données, pendant l’exécution du Contrat après son expiration, [ici](https://fr.shopping.rakuten.com/newhelp/fonctionnement/).
 
 **• Pro. 10.4 - Non-dénigrement et loyauté**
 
@@ -527,11 +527,11 @@ Le texte de la notification sera rédigé en français et devra être clair et s
 
 Le Vendeur Professionnel a la possibilité de déposer auprès de Rakuten toute plainte ayant trait à :
 
-*   un manquement présumé de Rakuten à ses obligations au titre du Règlement (UE) 2019/1150 du Parlement Européen et du Conseil du 20 juin 2019 promouvant l’équité et la transparence pour les entreprises utilisatrices de services d’intermédiation en ligne qui affecterait la capacité du Vendeur Professionnel à déposer une plainte (au sens qui lui est donné au présent article) (d’une manière qu’il incombera au Vendeur Professionnel de détailler à Rakuten),
+* un manquement présumé de Rakuten à ses obligations au titre du Règlement (UE) 2019/1150 du Parlement Européen et du Conseil du 20 juin 2019 promouvant l’équité et la transparence pour les entreprises utilisatrices de services d’intermédiation en ligne qui affecterait la capacité du Vendeur Professionnel à déposer une plainte (au sens qui lui est donné au présent article) (d’une manière qu’il incombera au Vendeur Professionnel de détailler à Rakuten),
 
-*   une question technologique directement liée à la fourniture des services de la Plateforme Rakuten qui affecterait le Vendeur Professionnel (d’une manière qu’il incombera au Vendeur Professionnel de détailler à Rakuten),
+* une question technologique directement liée à la fourniture des services de la Plateforme Rakuten qui affecterait le Vendeur Professionnel (d’une manière qu’il incombera au Vendeur Professionnel de détailler à Rakuten),
 
-*   la mise en oeuvre d’une Mesure au sens de l’article Pro. 9.1 qui affecterait le Vendeur Professionnel (d’une manière qu’il incombera au Vendeur Professionnel de détailler à Rakuten),
+* la mise en oeuvre d’une Mesure au sens de l’article Pro. 9.1 qui affecterait le Vendeur Professionnel (d’une manière qu’il incombera au Vendeur Professionnel de détailler à Rakuten),
 
 sous réserve que cette plainte soit formulée par écrit et soit suffisamment détaillée pour que Rakuten puisse procéder à son traitement dans des conditions adéquates.
 
@@ -539,9 +539,9 @@ sous réserve que cette plainte soit formulée par écrit et soit suffisamment d
 
 Avant toute saisine des juridictions compétentes ci-après définies, les Parties ont la possibilité de recourir :
 
-*   au Médiateur des entreprises en vue de résoudre tout différend né de la conclusion, de l’interprétation, de l’exécution ou de la cessation du Contrat ; dans un tel cas, la durée de la médiation ne pourra excéder trois (3) mois, sauf accord contraire des Parties,
+* au Médiateur des entreprises en vue de résoudre tout différend né de la conclusion, de l’interprétation, de l’exécution ou de la cessation du Contrat ; dans un tel cas, la durée de la médiation ne pourra excéder trois (3) mois, sauf accord contraire des Parties,
 
-*   au « [Center for Effective Dispute Resolution](https://www.cedr.com/) » (CEDR) en suivant les instructions accessibles [ici](https://www.cedr.com/p2b/) ; dans un tel cas, la médiation via le CEDR sera effectuée en français ou en anglais seulement, selon le choix du Vendeur Professionnel.
+* au « [Center for Effective Dispute Resolution](https://www.cedr.com/) » (CEDR) en suivant les instructions accessibles [ici](https://www.cedr.com/p2b/) ; dans un tel cas, la médiation via le CEDR sera effectuée en français ou en anglais seulement, selon le choix du Vendeur Professionnel.
 
 Tous les échanges effectués entre les Parties dans le cadre de la médiation, indifféremment du médiateur choisi par le Vendeur Professionnel, seront, sauf accord des Parties, confidentiels pendant une durée illimitée.
 
