@@ -15,30 +15,30 @@ THIS AGREEMENT CONTAINS THE TERMS AND CONDITIONS THAT GOVERN YOUR ACCESS TO AND 
 
 As used in this Agreement, "we," "us," and "Amazon" means the Amazon company named in the applicable Service Terms and "you" means the applicant (if registering for or using a Service as an individual), or the business the applicant is employed by or represents (if registering for or using a Service as a business). Capitalised terms have the meanings listed in the **[Definitions](https://sellercentral.amazon.co.uk/gp/on-board/help-content.html?ie=UTF8&agreementID=&hasCloseButton=1&hasPrintButton=1&helpNodeID=&invitationID=&isOnlineMapa=&localizationKey=A1F83G8C2ARO7P&mapaAcceptanceDate=&marketplaceID=A1F83G8C2ARO7P&repeatButtonsAtEnd=1&showTitles=1&tokens=agreement.MERCHANT_ABP#Definitions)** below.  If there is any conflict between these General Terms and the applicable Service Terms and Programme Policies, the General Terms will govern and the applicable Service Terms will prevail over the Programme Policies.
 
-1.  **Enrolment**
+1. **Enrolment**
 
 To begin the enrolment process, you must complete the registration process for one or more of the Services. By registering for or using the Services you confirm that you did not rely on any oral or written representations made by employees of Amazon and/or any of its affiliates and that you chose the service based on your own due diligence and consideration. Use of the Services is limited to parties that can lawfully enter into and form contracts under applicable law (for example, a particular Amazon Site Country may not allow minors to use the Services).  As part of the application, you must provide us with your (or your business') legal name, Primary Place of Business address, phone number and e-mail address, as well as any other information we may request. Any personal data you provide to us will be handled in accordance with Amazon’s Privacy Notice.  
 
-2.  **Service Fee Payments**
+2. **Service Fee Payments**
 
 Fee details are described fully in the applicable Service Terms and Programme Policies. You are responsible for all of your expenses in connection with this Agreement, unless this Agreement or the applicable Service Terms provide otherwise. To use a Service, you must provide Amazon Payments Europe s.c.a. (“APE”) or Amazon Payments UK Limited (“APUK”) with valid credit card information from a credit card or credit cards accepted by Amazon ( “Your Credit Card”). You will use only a name you are authorized to use in connection with a Service and will update all of the preceding information as necessary to ensure that it at all times remains accurate and complete. You authorize APE or APUK (and will provide us documentation evidencing your authorization upon our request) to verify your information (including any updated information), to obtain credit reports about you from time to time, to obtain credit authorizations from the issuer of Your Credit Card, and to charge Your Credit Card or debit any of your payment account(s) held with APE and/or APUK, where applicable, for any sums payable by you to us (in reimbursement or otherwise). If you registered for Selling on Amazon before December 14, 2018 and have not yet received an APUK Account Confirmation Notice, all payments to you will be made in accordance with the APE User Agreement. If you registered for Selling on Amazon on or after December 14, 2018 or have received an APUK Account Confirmation Notice, all payments to you in relation to the UK Amazon Site will be made in accordance with the APUK User Agreement and all payments to you in relation to the DE Amazon Site, the ES Amazon Site, the FR Amazon Site, the IT Amazon Site, the NL Amazon Site, the SE Amazon Site and/or the PL Amazon Site will be made in accordance with the APE User Agreement. In addition to charging payable sums to Your Credit Card, you authorize APE or APUK to choose instead to either (a) offset any amounts that are payable by you to us (in reimbursement or otherwise) against any payments we may make to you, or (b) invoice you for amounts due to us, in which case you will pay the invoiced amounts upon receipt. Except as provided otherwise, all amounts contemplated in this Agreement will be expressed and displayed in the Local Currency, and all payments contemplated by this Agreement will be made in the Local Currency. 
 
-3.  **Term and Termination**
+3. **Term and Termination**
 
 The term of this Agreement will start on the date of your completed registration for use of a Selling Service and continue until terminated by us or you as provided below. You may at any time terminate your use of any Selling Service immediately on notice to us via Seller Central, email, the Contact Us Form, or similar means. We may terminate your use of any Services or terminate this Agreement with at least 30 days’ advance notice (a) if we stop or restrict the provision of any Services in relation to the FR Amazon Site or (b) if you have violated the Agreement including any Program Policies or (c) in compliance with the applicable rules of civil law on the termination of a contract as this Agreement is entered into for an indefinite period. We may terminate your use of any Services immediately: (a) to exercise a right of termination under an imperative reason pursuant to national law which is in compliance with European Union law; (b) where you have repeatedly infringed this Agreement; or (c) if we are subject to a legal or regulatory obligation which requires us to terminate the provision of the services in a manner which does not allow us to respect the notice period .  
 We may suspend your use of any Services immediately: (a) where you have materially breached this Agreement and failed to cure within 7 days of a cure notice unless your breach exposes us to liability towards a third party, in which case we are entitled to reduce, or waive, the aforementioned cure period;  (b) where you have repeatedly infringed this Agreement; (c) if you have violated a legal or regulatory obligation or failed to comply with a legal or regulatory obligation; or (d) in case of illicit or inappropriate content, concern with the safety of Your Product, counterfeiting, fraud, malware, spam, data breaches, other cybersecurity risks or suitability of your Product to minors.  
 Any suspension will last until you have provided satisfactory evidence that you have cured its cause and implemented the necessary changes.  
 We will promptly notify you of any termination or suspension via email or similar means sent to you individually, and on Seller Central, indicating any options to appeal and the reason, except where we are subject to a legal or regulatory obligation not to provide the specific facts or circumstances or the reference to the applicable ground or grounds for that termination or suspension, or where you have repeatedly infringed this Agreement. On termination of this Agreement, all related rights and obligations under this Agreement immediately terminate, except that you will remain responsible for performing all of your obligations in connection with transactions entered into before termination and for any liabilities that accrued before or as a result of termination, and Sections 2, 3, 4, 5, 6, 7, 8, 9, 11, 15 and 17 of these General Terms survive.
 
-4.  **Licence**
+4. **Licence**
 
 You grant us a royalty-free, non-exclusive, worldwide, right and licence for the duration of your original and derivative intellectual property rights to use,  any and all of Your Materials for the Services or other Amazon product or service, and to sublicense the foregoing rights to our affiliates and operators of Amazon Associated Properties; provided, however, that we will not alter any of Your Trademarks from the form provided by you (except to re-size trademarks to the extent necessary for presentation, so long as the relative proportions of such trademarks remain the same) and will comply with your removal requests as to specific uses of Your Materials (provided you are unable to do so using standard functionality made available to you via the applicable Amazon Site or Service); provided further, however, that nothing in this Agreement will prevent or impair our right to use Your Materials without your consent to the extent that such use is allowable without a licence from you or your affiliates under applicable law (e.g., fair use under copyright law, referential use under trademark law, or valid licence from a third party).
 
-5.  **Representations** 
+5. **Representations** 
 
 Each party represents and warrants that:  (a) if it is a business, it is duly organized, validly existing and in good standing under the laws of the territory in which the business is registered; (b) it has all requisite right, power and authority to enter into this Agreement and perform its obligations and grant the rights, licences and authorizations its grants hereunder; (c) any information provided or made available by one party to the other party or its affiliates is accurate and complete, and it will promptly update such information as necessary to ensure it at all times remains accurate and complete, (d) it is not subject to sanctions or otherwise designated on any list of prohibited or restricted parties or owned or controlled by such a party, including but not limited to the lists maintained by the United Nations Security Council, the US Government (e.g., the US Department of Treasury’s Specially Designated Nationals list and Foreign Sanctions Evaders list and the US Department of Commerce’s Entity List), the European Union or its member states, or other applicable government authority and (e) it will comply with all applicable Laws in  performance of its obligations and exercise of its rights under this Agreement.
 
-6.  **Indemnification** 
+6. **Indemnification** 
 
 6.1 Your indemnification obligations. You will defend, indemnify, and hold harmless Amazon, and our officers, directors, employees, and agents, against any third-party claim, loss, damage, settlement, cost, expense, or other liability (including, without limitation, attorneys’ fees) (each, a “Claim”) arising from or related to (a) your non-compliance with applicable laws; (b) Your Products, including the offer, sale, fulfillment (except Your Products fulfilled using the FBA service), refund, cancellation, return, or adjustments thereof, and any personal injury, death (to the extent the injury or death is not caused by Amazon), or property damage related thereto; (c) Your Taxes and duties or the collection, payment, or failure to collect or pay Your Taxes or duties, or the failure to meet tax registration obligations or duties; or (d) actual or, based on specific indications, alleged breach of any representations you have made.
 
@@ -46,25 +46,25 @@ Each party represents and warrants that:  (a) if it is a business, it is duly o
 
 6.3 Process. If any indemnified Claim might adversely affect us, we may, to the extent permitted by applicable law, voluntarily intervene in the proceedings at our expense. No party may consent to the entry of any judgment or enter into any settlement of an indemnified Claim without the prior written consent of the other party, which may not be unreasonably withheld; except that a party may settle any claim that is exclusively directed at and exclusively affects that party.
 
-7.  **Limitation of Liability** 
+7. **Limitation of Liability** 
 
 Both parties are only liable for damages suffered as a result of willful misconduct or gross negligence.  In case of minor negligence, the parties are only liable for (a) injury to life, body, or health; or (b) foreseeable typically occurring damages resulting from the breach of a fundamental contractual obligation.
 
-8.  **Insurance**
+8. **Insurance**
 
 If the gross proceeds from sales of Your products processed through the Fulfilment by Amazon Service exceed the applicable Insurance Threshold during each month over any period of three (3) consecutive months, or otherwise if requested by us, then within thirty (30) days thereafter, you will maintain at your expense throughout the remainder of the Term public third party liability insurance in connection with each Amazon Site with at least the Insurance Limits per occurrence/aggregate covering liabilities caused by or occurring in conjunction with the operation of your business in connection with such Amazon Site, including products liability and bodily injury, with policy (ies) naming Amazon and its assignees as additional insureds.  At our request, you will provide to us certificates of insurance evidencing the **coverage required by this Section 8** to the following address_: **Amazon Services Europe S.à r.l., 38 avenue John F. Kennedy, L-1855 Luxembourg, Attn: Risk Management**_; and with a copy to_:  **c/o Amazon, P.O. Box 81226, Seattle, WA 98108- 1226, USA, Attention: Risk Management**._ 
 
-9.  **Tax Matters**
+9. **Tax Matters**
 
 As between the parties, you will be responsible for the collection, reporting, and payment of any and all of Your Taxes, except to the extent that (i) Amazon automatically calculates, collects, or remits taxes on your behalf according to applicable law; or (ii) Amazon expressly agrees to receive taxes or other transaction-based charges on your behalf in connection with tax calculation services made available by Amazon and used by you. You agree to and will comply with the tax policies listed under the Programme Policies . All fees and payments payable by you to Amazon under this Agreement or the applicable Service Terms are exclusive of any applicable taxes, deductions or withholding (including but not limited to cross-border withholding taxes), and you will be responsible for paying Amazon any of Your Taxes imposed on such fees and any deduction or withholding required on any payment.
 
 You agree to accept electronic invoices from Amazon in a format and method of delivery as determined by us.
 
-10.  **Self-billing** 
+10. **Self-billing** 
 
 In the event that we purchase any of Your Products, you agree that Amazon may issue self-billed invoices on your behalf for the period from the date on which you have agreed to allow Amazon to buy Your Products until the date on which this Agreement is terminated by us or you. Self-billed invoices will contain any information that we determine is required to issue a VAT-compliant invoice under the applicable Law. Amazon may retain this information and use it as required by Law. You must notify us immediately if you (i) are aware of any additional information that needs to be provided to the self-billed invoices to comply with the applicable Law, (ii) cease to be registered for VAT, or (iii) change your VAT registration number. Self-billed invoices will be issued in the currency of the applicable Amazon Site(s). Each self-billed invoice will be considered accepted if you do not reject it within 30 days from the date of issue. You agree to not raise separate sales invoices for the transactions covered by a self-billed invoice.
 
-11.  **Confidentiality and Personal Data**
+11. **Confidentiality and Personal Data**
 
 11.1 During the course of your use of the Services, you may receive Confidential Information. You agree that for the term of the Agreement and 5 years after termination: (a) all Confidential Information will remain Amazon’s exclusive property except for customer personal data ; (b) you and your affiliates will use Confidential Information only as is  strictly necessary for your participation in the Services; (c) you will not, and will cause your affiliates not to, directly or indirectly (including through a third party) otherwise disclose Confidential Information to any individual, company, or other third party except as required to comply with  applicable law; and (d) you will take all reasonable measures to protect the Confidential Information against any use or disclosure that is not expressly permitted in this Agreement; and (e) you will retain Confidential Information only for so long as its use is strictly necessary for participation in the Services or to fulfill your statutory obligations (e.g. tax) and in all cases will delete such information upon termination or as soon as no longer required for the fulfilment of statutory obligations. The foregoing sentence does not restrict your right to share Confidential Information with a governmental entity that has jurisdiction over you, provided that you limit the disclosure to the minimum necessary and explicitly indicate the confidential nature of the shared information to the governmental entity.  You may not issue any press release related to the Services, or use our name, trademarks or logo in any way (including in promotional material) without our advance written permission, or misrepresent or embellish the relationship between us in any way. You may only use the "Available at Amazon" Badge as defined in and according to the Trademark Usage Guidelines available in Seller Central; you may not use our name, trademarks, or logos in any way (including in promotional material) not covered by the Trademark Usage Guidelines without our advance written permission.
 
@@ -74,19 +74,19 @@ In the event that we purchase any of Your Products, you agree that Amazon may is
 
 11.4 For the purpose of this Section 11, "Restricted Transfer" shall mean the transfer of customer personal data from the United Kingdom (UK) to another country or from the European Economic Area (EEA) to another jurisdiction outside of the EEA and such a transfer is not on the basis of an adequacy decision. To the extent that we transfer any customer personal data to you and such transfer constitutes a Restricted Transfer, then you and we acknowledge and agree that such a transfer, with you as the data importer and us as data exporter, will be subject to the EU Standard Contractual Clauses set forth in the Programme Policies and where the processing of the customer personal data is subject to the applicable data protection law in the UK, the UK Addendum set forth in the Programme Policies (both hereby incorporated by reference to this Agreement). You shall not make a Restricted Transfer unless such transfer is subject to a lawful transfer mechanism.
 
-12.  **Force Majeure.** 
+12. **Force Majeure.** 
 
 We will not be liable for any delay or failure to perform any of our obligations under this Agreement by reasons, events or other matters beyond our reasonable control.
 
-13.  **Relationship of Parties**
+13. **Relationship of Parties**
 
 You and we are independent contractors, and nothing in this Agreement will be construed to create a partnership, joint venture, agency, franchise, sales representative, or employment relationship between the parties. Amazon is not an auctioneer, neither is it an intermediary between the buyer and the seller. You will have no authority to make or accept any offers or representations on our behalf.  You will not make any statement, whether on your site or otherwise, that would contradict anything in this section.  This Agreement will not create an exclusive relationship between you and us. Nothing expressed or mentioned in or implied from this Agreement is intended or will be construed to give to any Person other than the parties hereto any legal or equitable right, remedy, or claim under or in respect to this Agreement. This Agreement and all of the representations, warranties, covenants, conditions, and provisions of this Agreement are intended to be and are for the sole and exclusive benefit of Amazon, you, and relying customers or sellers. As between you and us, you will be solely responsible for all obligations associated with the use of any third party service or feature that you permit us to use on your behalf, including compliance with any applicable terms of use.
 
-14.  **Suggestions and Other Information**
+14. **Suggestions and Other Information**
 
 If you or any of your affiliates elect to provide or make available suggestions, comments, ideas, improvements, or other feedback or materials to us in connection with or related to any Amazon Site or Service (including any related Technology), you will, to the extent necessary and authorized by law, irrevocably grant to us, a royalty-free and worldwide license on all right, title, and interest in and to the suggestions for the duration of protection of the underlying rights.  In order to cooperate with governmental requests, to protect our systems and customers, or to ensure the integrity and operation of our business and systems, we may access and disclose any information we consider necessary or appropriate, including but not limited to user contact details, IP addresses and traffic information, usage history and posted content.
 
-15.  **Modification**
+15. **Modification**
 
 We will provide at least 15 days’ advance notice in accordance with Section 17 for changes to the Agreement.
 
@@ -94,11 +94,11 @@ However, we may change or modify the Agreement at any time with immediate effect
 Your continued use of the Services after the effective date of any change to this Agreement in accordance with this Section 15 will constitute your acceptance of that change. If any change is unacceptable to you, you agree not to use the Services and to end the Agreement as described in Section 3.  
   
 
-16.  **Password Security** 
+16. **Password Security** 
 
 Any password we provide to you may be used only during the Term to access Seller Central (or other tools we provide) to use the Services, electronically accept Your Transactions, and review your completed Transactions.  You are solely responsible for maintaining the security of your password.  You may not disclose your password to any third party (other than third parties authorized by you to use your account or Seller Central in accordance with this Agreement) and are solely responsible for any use of or action taken under your password.  If your password is compromised, you must immediately change your password. 
 
-17.  **Miscellaneous**
+17. **Miscellaneous**
 
 The laws of the Grand Duchy of Luxembourg govern this Agreement and all of its terms and conditions, without giving effect to any principles of conflicts of laws or the United Nations Convention on Contracts for the International Sale of Goods. Any dispute relating in any way to your use of the Services or this Agreement will be adjudicated in the courts of the district of Luxembourg City, Luxembourg non-exclusively. You may not assign this Agreement, by operation of law or otherwise, without our prior written consent.  Any attempt to assign or otherwise transfer in violation of this section is void provided, however, that upon notice to Amazon, you may assign or transfer this Agreement, in whole or in part, to any of your Affiliates as long as you remain liable for your obligations that arose prior to the effective date of the assignment or transfer under this Agreement. You agree that we may assign or transfer our rights and obligations under this Agreement: (a) in connection with a merger, consolidation, acquisition or sale of all or substantially all of our assets or similar transaction;, or (b) to any Affiliate or as part of a corporate reorganization; and effective upon such assignment, the assignee is deemed substituted for Amazon as the party to this Agreement. Subject to that restriction, this Agreement will be binding on, inure to, and be enforceable against the parties and their respective successors and assigns. 
 
@@ -106,7 +106,7 @@ Amazon may delist your product, or restrict your listing immediately: (i) for le
 
 The authentic language of this Agreement and subsidiary or associated documentation is English and any translations provided are for convenience only. In the event of any conflict or difference in interpretation between the English language version of this Agreement and subsidiary or associated documentation and any translation of them, the English language version and interpretation will prevail. 
 
-Amazon will provide notice to you under this Agreement by posting changes on Seller Central or on the applicable Amazon Services site to which the changes relate (such as the Marketplace Developer site accessible through your account), and by sending you an email notification or by similar means sent to you individually. You must send all notices and other communications relating to Amazon to our Selling Partner Support team via Seller Central, email, the Contact Us form, or similar means. We may also communicate with you in connection with your listings, sales, and the Services electronically and in other media, and you consent to such communications. You may change your e-mail addresses by updating your information in Seller Central.  You will update your e-mail addresses (as well as your legal name, address and phone number) as often as necessary to ensure that they are accurate.  
+Amazon will provide notice to you under this Agreement by posting changes on Seller Central or on the applicable Amazon Services site to which the changes relate (such as the Marketplace Developer site accessible through your account), and by sending you an email notification or by similar means sent to you individually. You must send all notices and other communications relating to Amazon to our Selling Partner Support team via Seller Central, email, the Contact Us form, or similar means. We may also communicate with you in connection with your listings, sales, and the Services electronically and in other media, and you consent to such communications. You may change your e-mail addresses by updating your information in Seller Central.  You will update your e-mail addresses (as well as your legal name, address and phone number) as often as necessary to ensure that they are accurate.  
 
 If any provision of this Agreement is deemed unlawful, void, or for any reason unenforceable, then that provision will be deemed severable from these terms and conditions and will not affect the validity and enforceability of any remaining provisions.  This Agreement, together with the APE User Agreement and the APUK User Agreement, represents the entire agreement between the parties with respect to the Services and related subject matter described herein and supersedes any previous or contemporaneous oral or written agreements and understandings.
 
@@ -120,14 +120,14 @@ As used in this Agreement, the following terms have the following meanings:
 
 **"Amazon Site Country"** means the applicable one of the following:
 
-*   Germany (if the Amazon Site is the DE Amazon Site),
-*   France (if the Amazon Site is the FR Amazon Site),
-*   Italy (if the Amazon Site is the IT Amazon Site),
-*   Spain (if the Amazon Site is the ES Amazon Site),
-*   United Kingdom and Channel Islands (if the Amazon Site is the UK Amazon Site),
-*   The Netherlands (if the Amazon Site is the NL Amazon Site),
-*   Sweden (if the Amazon Site is the SE Amazon Site),
-*   Poland (if the Amazon Site is the PL Amazon Site).
+* Germany (if the Amazon Site is the DE Amazon Site),
+* France (if the Amazon Site is the FR Amazon Site),
+* Italy (if the Amazon Site is the IT Amazon Site),
+* Spain (if the Amazon Site is the ES Amazon Site),
+* United Kingdom and Channel Islands (if the Amazon Site is the UK Amazon Site),
+* The Netherlands (if the Amazon Site is the NL Amazon Site),
+* Sweden (if the Amazon Site is the SE Amazon Site),
+* Poland (if the Amazon Site is the PL Amazon Site).
 
 **"APE User Agreement"** has the meaning set forth in the Selling on Amazon Service Terms.
 
@@ -141,7 +141,7 @@ As used in this Agreement, the following terms have the following meanings:
 
 **"Confidential Information"** means information relating to us, to the Services or Amazon customers that is not known to the general public including, but not limited to, any information identifying or unique to specific customers; reports, insights, and other information about the Services, data derived from the Services except for data (other than customer personal data)  arising from the sale of your products comprising of products sold, prices, sales, volumes and time of the transaction; and technical or operational specifications relating to the Services. For the purposes of this Agreement, customer personal data constitutes Confidential Information at all times.
 
-**"Content"** means copyrightable works under applicable Law and content protected by database rights.
+**"Content"** means copyrightable works under applicable Law and content protected by database rights.
 
 **"DE Amazon Site"** means that website, the primary home page of which is identified by the URL [www.amazon.de](http://www.amazon.de/), and any successor or replacement website.
 
@@ -151,32 +151,32 @@ As used in this Agreement, the following terms have the following meanings:
 
 **"FR Amazon Site"** means that website, the primary home page of which is identified by the URL [www.amazon.fr](http://www.amazon.fr/), and any successor or replacement website.
 
-**"Insurance Limits"** means the applicable one of the following:
+**"Insurance Limits"** means the applicable one of the following:
 
-*   Five Hundred Thousand Euros (€500,000) (if the Amazon Site is the DE Amazon Site, the FR Amazon Site or the IT Amazon Site, the ES Amazon Site or the NL Amazon Site),
-*   Four Hundred Thousand British Pounds (£400,000) (if the Amazon Site is the UK Amazon Site),
-*   Five Million Swedish Krona (kr 5,000,000) (if the Amazon Site is the SE Amazon Site),
-*   Two Million Two Hundred Fifty Thousand Polish Złoty (PLN 2,250,000) (if the Amazon Site is the PL Amazon Site).
+* Five Hundred Thousand Euros (€500,000) (if the Amazon Site is the DE Amazon Site, the FR Amazon Site or the IT Amazon Site, the ES Amazon Site or the NL Amazon Site),
+* Four Hundred Thousand British Pounds (£400,000) (if the Amazon Site is the UK Amazon Site),
+* Five Million Swedish Krona (kr 5,000,000) (if the Amazon Site is the SE Amazon Site),
+* Two Million Two Hundred Fifty Thousand Polish Złoty (PLN 2,250,000) (if the Amazon Site is the PL Amazon Site).
 
-**"Insurance Threshold"** means the applicable one of the following:
+**"Insurance Threshold"** means the applicable one of the following:
 
-*   Five Thousand Euros (€5,000) (if the Amazon Site is the DE Amazon Site, the FR Amazon Site, the IT Amazon Site, the ES Amazon Site or the NL Amazon Site),
-*   Four Thousand British Pounds (£4,000) (if the Amazon Site is the UK Amazon Site),
-*   Fifty Thousand Swedish Krona (kr 50,000) (if the Amazon Site is the SE Amazon Site),
-*   Twenty-Two Thousand Five Hundred Polish Złoty (PLN 22,500) (if the Amazon Site is the PL Amazon Site).
+* Five Thousand Euros (€5,000) (if the Amazon Site is the DE Amazon Site, the FR Amazon Site, the IT Amazon Site, the ES Amazon Site or the NL Amazon Site),
+* Four Thousand British Pounds (£4,000) (if the Amazon Site is the UK Amazon Site),
+* Fifty Thousand Swedish Krona (kr 50,000) (if the Amazon Site is the SE Amazon Site),
+* Twenty-Two Thousand Five Hundred Polish Złoty (PLN 22,500) (if the Amazon Site is the PL Amazon Site).
 
-**"Intellectual Property Right"** means any patent, copyright, Trademark, domain name, moral right, trade secret right or any other intellectual property right arising under any Laws and all ancillary and related rights, including all rights of registration and renewal and causes of action for violation, misappropriation or infringement of any of the foregoing.
+**"Intellectual Property Right"** means any patent, copyright, Trademark, domain name, moral right, trade secret right or any other intellectual property right arising under any Laws and all ancillary and related rights, including all rights of registration and renewal and causes of action for violation, misappropriation or infringement of any of the foregoing.
 
 **"IT Amazon Site"** means that website, the primary home page of which is identified by the URL [www.amazon.it](http://www.amazon.it/), and any successor or replacement website.
 
 **"Law"** means any law, ordinance, rule, regulation, order, licence, permit, judgment, decision or other requirement, now or hereafter in effect, of any governmental authority of competent jurisdiction.
 
-**"Local Currency"** means the applicable one of the following:
+**"Local Currency"** means the applicable one of the following:
 
-*   Euros (if the Amazon Site is the DE Amazon Site, the FR Amazon Site, the IT Amazon Site, the ES Amazon Site or the NL Amazon Site),
-*   British Pounds (if the Amazon Site is the UK Amazon Site),
-*   Swedish Krona (if the Amazon Site is the SE Amazon Site),
-*   Polish Złoty (if the Amazon Site is the PL Amazon Site)
+* Euros (if the Amazon Site is the DE Amazon Site, the FR Amazon Site, the IT Amazon Site, the ES Amazon Site or the NL Amazon Site),
+* British Pounds (if the Amazon Site is the UK Amazon Site),
+* Swedish Krona (if the Amazon Site is the SE Amazon Site),
+* Polish Złoty (if the Amazon Site is the PL Amazon Site)
 
 **"NL Amazon Site"** means that website, the primary home page of which is identified by the URL [www.amazon.nl](http://www.amazon.nl/), and any successor or replacement website.
 
@@ -218,7 +218,7 @@ As used in this Agreement, the following terms have the following meanings:
 
 **"Your Transaction"** means any sale of Your Product(s) through an Amazon Site.
 
-  
+ 
 
 **Selling on Amazon Service Terms**
 
@@ -242,9 +242,9 @@ These Selling on Amazon Service Terms are part of the Amazon Services Europe Bus
 
 **S-3.     Problems with Your Products** 
 
-**S-3.1   Delivery Errors and Nonconformities; Recalls.** You are responsible for any non-performance, non-delivery, misdelivery, theft or other mistake or act in connection with the fulfilment and delivery of Your Products, except to the extent caused by: (a) credit card fraud for which Amazon Payments Europe s.c.a. is responsible under Section 3.1 of the APE User Agreement or for which Amazon Payments UK Limited is responsible under Section 3.1 of the APUK User Agreement; or (b) our failure to make available to you Order Information as it was received by us or resulting from address verification.  Notwithstanding the previous sentence, for those of Your Products that are fulfilled using Fulfilment by Amazon, if any, the Fulfilment by Amazon Service Terms will apply to non-delivery, misdelivery, theft or other mistake or act in connection with the fulfilment and delivery of those of Your Products.  You are also responsible for any non-conformity or defect in, or any public or private recall of, as well as any other safety concerns related to, any of Your Products or other products provided in connection with Your Products.  You will notify us promptly as soon as you have knowledge of any public or private recalls of Your Products or other products provided in connection with Your Products. You are responsible under this clause for reimbursing APE or APUK (as applicable) for any refund, adjustment or replacement we pay or make for any public or private recall of, as well as any other safety concerns, intellectual property infringement, or noncompliance with laws, related to, any of Your Products or other products provided in connection with Your Products. Regarding any refund, adjustment or replacement we pay or make for any non-conformity or defect related to, any of Your Products or other products provided in connection with Your Products, you shall reimburse us only pursuant to and in compliance with Clause S-3.2. 
+**S-3.1   Delivery Errors and Nonconformities; Recalls.** You are responsible for any non-performance, non-delivery, misdelivery, theft or other mistake or act in connection with the fulfilment and delivery of Your Products, except to the extent caused by: (a) credit card fraud for which Amazon Payments Europe s.c.a. is responsible under Section 3.1 of the APE User Agreement or for which Amazon Payments UK Limited is responsible under Section 3.1 of the APUK User Agreement; or (b) our failure to make available to you Order Information as it was received by us or resulting from address verification.  Notwithstanding the previous sentence, for those of Your Products that are fulfilled using Fulfilment by Amazon, if any, the Fulfilment by Amazon Service Terms will apply to non-delivery, misdelivery, theft or other mistake or act in connection with the fulfilment and delivery of those of Your Products.  You are also responsible for any non-conformity or defect in, or any public or private recall of, as well as any other safety concerns related to, any of Your Products or other products provided in connection with Your Products.  You will notify us promptly as soon as you have knowledge of any public or private recalls of Your Products or other products provided in connection with Your Products. You are responsible under this clause for reimbursing APE or APUK (as applicable) for any refund, adjustment or replacement we pay or make for any public or private recall of, as well as any other safety concerns, intellectual property infringement, or noncompliance with laws, related to, any of Your Products or other products provided in connection with Your Products. Regarding any refund, adjustment or replacement we pay or make for any non-conformity or defect related to, any of Your Products or other products provided in connection with Your Products, you shall reimburse us only pursuant to and in compliance with Clause S-3.2. 
 
-**S-3.2   A-to-z Guarantee.** If we inform you that we have received a claim under the “A-to-z Guarantee” offered on a particular Amazon Site or any other dispute relating to the offer, sale or fulfillment of Your Product(s) (other than a chargeback), concerning one of Your Transactions, you will have 30 days to appeal our decision of the claim. If, after investigation, we find that a claim, chargeback, or dispute is your responsibility, you (i) will not take recourse against the customer, and (ii) are responsible for reimbursing  APE or APUK (as applicable) for the amount paid by the customer (including taxes and shipping and handling charges, but excluding any Referral Fees that we retained as defined in Section S-4), and all other fees and expenses associated with the original transaction (such as credit card, bank, payment processing, re-presentment, or penalty fees) and any related chargebacks or refunds to the extent payable by us. You will not be responsible for reimbursing APE or APUK (as applicable) where the customer has not shipped Your Product(s) back to you. However, customers will not be required to ship your Products back to you and you will be responsible for bearing the cost where there are safety or hazardous risk, IP violation, or fraudulent activity related to Your Product(s), or where you have agreed not to require the return of Your Product. Where we find that a claim, chargeback, or dispute is your responsibility and the customer has returned Your Product, you are responsible for reimbursing the return shipping cost. Only A-to-z claims that we determine are your responsibility are taken into consideration to calculate your performance indicators. Your performance indicators are not affected if an investigation is pending and as long as the customers' claim has not been validated. If a claim is filed and you choose to provide a full refund, your performance indicators will be impacted if after examining the claim it is determined that you were at fault.
+**S-3.2   A-to-z Guarantee.** If we inform you that we have received a claim under the “A-to-z Guarantee” offered on a particular Amazon Site or any other dispute relating to the offer, sale or fulfillment of Your Product(s) (other than a chargeback), concerning one of Your Transactions, you will have 30 days to appeal our decision of the claim. If, after investigation, we find that a claim, chargeback, or dispute is your responsibility, you (i) will not take recourse against the customer, and (ii) are responsible for reimbursing  APE or APUK (as applicable) for the amount paid by the customer (including taxes and shipping and handling charges, but excluding any Referral Fees that we retained as defined in Section S-4), and all other fees and expenses associated with the original transaction (such as credit card, bank, payment processing, re-presentment, or penalty fees) and any related chargebacks or refunds to the extent payable by us. You will not be responsible for reimbursing APE or APUK (as applicable) where the customer has not shipped Your Product(s) back to you. However, customers will not be required to ship your Products back to you and you will be responsible for bearing the cost where there are safety or hazardous risk, IP violation, or fraudulent activity related to Your Product(s), or where you have agreed not to require the return of Your Product. Where we find that a claim, chargeback, or dispute is your responsibility and the customer has returned Your Product, you are responsible for reimbursing the return shipping cost. Only A-to-z claims that we determine are your responsibility are taken into consideration to calculate your performance indicators. Your performance indicators are not affected if an investigation is pending and as long as the customers' claim has not been validated. If a claim is filed and you choose to provide a full refund, your performance indicators will be impacted if after examining the claim it is determined that you were at fault.
 
 **S-4.     Compensation**
 
@@ -256,13 +256,13 @@ All taxes or surcharges imposed on fees payable by you to us or our affiliates w
 
 Amazon determines the design, content and functionality, of its websites, selection, and all aspects of each Selling Service in accordance with the Agreement. Amazon may assign any of these rights or delegate any of its responsibilities.
 
- **S-6.     Tax Matters** 
+ **S-6.     Tax Matters** 
 
 In addition to the General Terms, you agree that the price stated by you for Your Products is inclusive of any VAT, customs duty, excise tax or other tax that may be required to be remitted in connection with such sale, unless otherwise provided in any Programme Policy or otherwise agreed by Amazon in advance in writing.
 
 **Selling on Amazon Definitions**
 
-**"Amazon Refund Policies"** means the return and refund policies published on a particular Amazon Site and applicable to products sold by Amazon EU S.à r.l. via such Amazon Site.
+**"Amazon Refund Policies"** means the return and refund policies published on a particular Amazon Site and applicable to products sold by Amazon EU S.à r.l. via such Amazon Site.
 
 **"Estimated Ship Date"** means, with respect to any of Your Products, either: (a) the end of the shipping availability period (which begins as of the date on which the relevant order is placed by the customer), or the shipping availability date, as applicable, specified by you in the relevant inventory/product data feed for Your Product; or (b) if you do not specify shipping availability information in such inventory/product data feed or that Your Product is in a product category that Amazon designates as requiring shipment within two (2) business days, two (2) business days after the date on which the relevant order is placed by the customer.
 
@@ -272,23 +272,23 @@ In addition to the General Terms, you agree that the price stated by you for You
 
 **"Required Product Information"** means, with respect to each of Your Products in connection with a particular Amazon Site, the following (except to the extent expressly not required under the applicable Programme Policies): (a) description, including as applicable, location-specific availability and options, scheduling guidelines and service cancellation policies; (b) SKU and EAN/UPC numbers and other identifying information as Amazon may reasonably request; (c) information regarding in-stock status and availability, shipping limitations or requirements, and Shipment Information (in each case, in accordance with any categorizations prescribed by Amazon from time to time); (d) categorization within each Amazon product category and browse structure as prescribed by Amazon from time to time; (e) digitized image that accurately depicts only Your Product, complies with all Amazon image guidelines and does not include any additional logos, text or other markings; (f) Purchase Price; (g) shipping and handling charge (in accordance with our standard functionality therefor); (h) any text, disclaimers, warnings, notices, labels or other content required by applicable Law to be displayed in connection with the offer, merchandising, advertising or sale of Your Product; (i) any vendor requirements fees or other terms and conditions applicable to such product that a customer should be aware of prior to purchasing the product; (j) brand; (k) model; (l) product dimensions; (m) weight; (n) a delimited list of technical specifications; (o) SKU and EAN/UPC numbers (and other identifying information as we may reasonably request) for accessories related to Your Product that is available in our catalogue; (p) the state or country Your Products ships from; and (q) any other information reasonably requested by us (e.g., the condition of used or refurbished products).
 
-**"Selling on Amazon Launch Date"** means the date on which we first list one of Your Products for sale on a particular Amazon Site.
+**"Selling on Amazon Launch Date"** means the date on which we first list one of Your Products for sale on a particular Amazon Site.
 
 **"Shipment Information"** means, with respect to any of Your Products, the estimated or promised shipment and/or delivery date.
 
 **"Street Date"** means the date(s), if any, specified by the manufacturer, distributor and/or licensor of a product as the date before which specified information regarding such product (e.g., title of a book) should not be disclosed publicly, or such product should not be delivered or otherwise made available to customers.
 
-**"URL Marks"** means any Trademark, or any other logo, name, phrase, identifier or character string, that contains or incorporates any top level domain (e.g., .com, co.uk, .de, .es, .edu, .fr, .jp) or any variation thereof (e.g., dot com, dotcom, net, or com).
+**"URL Marks"** means any Trademark, or any other logo, name, phrase, identifier or character string, that contains or incorporates any top level domain (e.g., .com, co.uk, .de, .es, .edu, .fr, .jp) or any variation thereof (e.g., dot com, dotcom, net, or com).
 
-**"Your Transaction"** is defined in the Business Solutions Agreement; however, as used in these Service Terms, it means any and all such transactions through Selling on Amazon only.
+**"Your Transaction"** is defined in the Business Solutions Agreement; however, as used in these Service Terms, it means any and all such transactions through Selling on Amazon only.
 
-  
+ 
 
-**Fulfilment by Amazon Service Terms** 
+**Fulfilment by Amazon Service Terms** 
 
 Fulfilment by Amazon ("**FBA**") provides fulfilment and associated services for Your Products. FBA is operated by Amazon Services Europe S.à r.l.
 
-These FBA Service Terms are part of the Amazon Services Europe Business Solutions Agreement (**"Business Solutions Agreement"**), and, unless specifically provided otherwise, concern and apply only to your participation in FBA.  BY REGISTERING FOR OR USING FBA, YOU (ON BEHALF OF YOURSELF OR THE BUSINESS YOU REPRESENT) AGREE TO BE BOUND BY THE [BUSINESS SOLUTIONS AGREEMENT](https://sellercentral-europe.amazon.com/gp/help/external/G201190440) AND THESE FBA SERVICE TERMS. Unless defined in these FBA Service Terms, all capitalized terms are as defined in the Business Solutions Agreement. You expressly agree that Amazon may engage its affiliate(s) or a third party in order to complete one or more of the fulfilment and associated services outlined below.
+These FBA Service Terms are part of the Amazon Services Europe Business Solutions Agreement (**"Business Solutions Agreement"**), and, unless specifically provided otherwise, concern and apply only to your participation in FBA.  BY REGISTERING FOR OR USING FBA, YOU (ON BEHALF OF YOURSELF OR THE BUSINESS YOU REPRESENT) AGREE TO BE BOUND BY THE [BUSINESS SOLUTIONS AGREEMENT](https://sellercentral-europe.amazon.com/gp/help/external/G201190440) AND THESE FBA SERVICE TERMS.  Unless defined in these FBA Service Terms, all capitalized terms are as defined in the Business Solutions Agreement. You expressly agree that Amazon may engage its affiliate(s) or a third party in order to complete one or more of the fulfilment and associated services outlined below.
 
 **F.1. Your Products** 
 
@@ -310,7 +310,7 @@ You will, in accordance with applicable Programme Policies, provide accurate and
 
 We will provide storage services as described in these FBA Service Terms once we confirm receipt of delivery. We will keep electronic records that track inventory of Units by identifying the number of Units stored in any fulfilment centre. We will not be required to physically mark or segregate Units from other inventory units (e.g., products with the same Amazon standard identification number) owned by us, our affiliates or third parties in the applicable fulfilment centre(s). If we elect to commingle Units with such other inventory units, both parties agree that our records will be sufficient to identify which products are Units. We may move Units among facilities. If there is a loss of or damage to any Units while they are being stored, we will  compensate you in accordance with the [FBA Guidelines for the applicable Amazon Site](https://sellercentral.amazon.co.uk/gp/help/external/53921/ref=am_53921_cont_200700310?locale=en-US)). If we compensate you for a Unit, we will be entitled to dispose of the Unit pursuant to Section F-7. Our confirmed receipt of delivery does not waive, limit, or reduce any of our rights under this Business Solutions Agreement. We reserve the right to change scheduling restrictions and volume limitations on the delivery and storage of your inventory in the fulfilment centres in accordance with Section 15, and you will comply with any of these restrictions or limitations. For the avoidance of doubt, this article F-4 only covers storage in a fulfilment centre and not shipping to customers.   
 
-**F.5. Fulfilment** 
+**F.5. Fulfilment**  
 
 As part of our fulfilment services, we will ship Units from the inventory of Your Products in connection with a particular Amazon Site to the shipping addresses in the applicable Amazon Site Country included in valid customer orders, or submitted by you as part of a Fulfilment Request.  We may ship Units together with products purchased from us and/or other sellers, including any of our affiliates.  We also may ship Units separately that are included in a single Fulfilment Request.  If you participate in our export fulfilment services in connection with a particular Amazon Site, we will also ship Your Products that we determine to be eligible (each, a **"Foreign-Eligible Product"**) to Foreign Addresses within countries we determine to be eligible for foreign shipments, subject to the additional terms on foreign shipments in the [FBA Guidelines for the applicable Amazon Site](https://sellercentral.amazon.co.uk/gp/help/external/200146920?language=en_GB&ref=efph_200146920_cont_201190440). 
 
@@ -326,7 +326,7 @@ As part of our fulfilment services, we will ship Units from the inventory of You
 
 **F.6.5.** You will be responsible for all VAT and Intrastat obligations as result of any returns.
 
-**F.7. Returns to You and Disposal** 
+**F.7. Returns to You and Disposal** 
 
 **F.7.1.** Subject to Section F.7.5., you may, at any time, request that Units be returned to you or that we dispose of Units.
 
@@ -344,17 +344,17 @@ As part of our fulfilment services, we will ship Units from the inventory of You
 
 **F.8.2.** We will be responsible for all customer service issues relating to packaging, handling and shipment and customer returns, refunds and adjustments related to Amazon Fulfilment Units.  We will determine whether a customer will receive a refund, adjustment or replacement for any Amazon Fulfilment Unit and we will require you to reimburse us where we determine you have responsibility in accordance with the Business Solutions Agreement (including these Service Terms and the Programme Policies for the applicable Amazon Site).  We will promptly notify you when you are responsible for a customer refund. You may appeal if you disagree with our finding within thirty (30) days after our notification, in addition to your right to request that Units be returned to you under section F.7.1. Except as provided in this Section F-8 regarding any Amazon Fulfilment Units, customer service will be handled as set forth in your Seller Agreement.  You will be responsible for VAT related customer service enquiries including but not limited to pricing and VAT, VAT invoices and credit memos.
 
-**F.8.3.** In situations relating to Amazon Fulfilment Units where the wrong item was delivered or the item was damaged or lost or is missing, unless we determine that the basis for such request is caused by you or any of your employees, agents or contractors, we will, at our option: (a) for any Amazon Fulfilment Unit (i) ship a replacement Unit to the customer and pay you the applicable Replacement Value (as described in the [FBA Guidelines for the applicable Amazon Site](https://sellercentral.amazon.co.uk/gp/help/external/200213130?language=en_GB&ref=efph_200213130_cont_201190440)) for the replacement Unit,  or (ii) initiate a refund to the customer on your behalf and pay you the Replacement Value for the Unit; or (b) for any Multi-Channel Fulfilment Unit, pay you the Replacement Value for the Unit (and you will, at our request, provide us a valid tax invoice for the Replacement Value paid to you). Any customer refund will be initiated in accordance with the Selling on Amazon Service Terms.  Notwithstanding the Selling on Amazon Service Terms, we will be entitled to charge you for the applicable fees payable to us under the Selling on Amazon Service Terms and these Service Terms, respectively. Except as expressly provided in this Section F-8.3 you will be responsible for all costs associated with any replacement or return.
+**F.8.3.** In situations relating to Amazon Fulfilment Units where the wrong item was delivered or the item was damaged or lost or is missing, unless we determine that the basis for such request is caused by you or any of your employees, agents or contractors, we will, at our option: (a) for any Amazon Fulfilment Unit (i) ship a replacement Unit to the customer and pay you the applicable Replacement Value (as described in the [FBA Guidelines for the applicable Amazon Site](https://sellercentral.amazon.co.uk/gp/help/external/200213130?language=en_GB&ref=efph_200213130_cont_201190440)) for the replacement Unit,  or (ii) initiate a refund to the customer on your behalf and pay you the Replacement Value for the Unit; or (b) for any Multi-Channel Fulfilment Unit, pay you the Replacement Value for the Unit (and you will, at our request, provide us a valid tax invoice for the Replacement Value paid to you). Any customer refund will be initiated in accordance with the Selling on Amazon Service Terms.  Notwithstanding the Selling on Amazon Service Terms, we will be entitled to charge you for the applicable fees payable to us under the Selling on Amazon Service Terms and these Service Terms, respectively. Except as expressly provided in this Section F-8.3 you will be responsible for all costs associated with any replacement or return.
 
-**F.8.4.** If we provide a replacement Unit or refund as described in Section F-8.3 to a customer and that customer returns the original Unit to us, we will be entitled to dispose of the Unit pursuant to Section F-7, or, if it is a Sellable Unit, we may, at our option, place such Unit back into your inventory in accordance with Section F-6. If we do put it back into your inventory, you will reimburse us for the Replacement Value of the returned Unit.  Any replacement Unit shipped by us under these Service Terms will be deemed to be, and will be treated in the same manner as, an order and sale of such Unit from you to the customer via the applicable Amazon Site in accordance with the Business Solutions Agreement, the APE User Agreement and/or the APUK User Agreement, and your Seller Agreement, and will be subject to all terms and conditions applicable thereto.
+**F.8.4.** If we provide a replacement Unit or refund as described in Section F-8.3 to a customer and that customer returns the original Unit to us, we will be entitled to dispose of the Unit pursuant to Section F-7, or, if it is a Sellable Unit, we may, at our option, place such Unit back into your inventory in accordance with Section F-6.  If we do put it back into your inventory, you will reimburse us for the Replacement Value of the returned Unit.  Any replacement Unit shipped by us under these Service Terms will be deemed to be, and will be treated in the same manner as, an order and sale of such Unit from you to the customer via the applicable Amazon Site in accordance with the Business Solutions Agreement, the APE User Agreement and/or the APUK User Agreement, and your Seller Agreement, and will be subject to all terms and conditions applicable thereto.
 
-**F.9. Compensation** 
+**F.9. Compensation**  
 
-**F.9.1. Fees.** You will pay us the applicable fees set forth in the [FBA Fee Schedule for the DE Amazon Site](http://services.amazon.de/programme/versand-durch-amazon/preisgestaltung.html), the [FBA Fee Schedule for the FR Amazon Site](http://services.amazon.fr/services/expedie-par-amazon/tarifs.html), the [FBA Fee Schedule for the IT Amazon Site](http://services.amazon.it/servizi/logistica-di-amazon/tariffe.html), [FBA Fee Schedule for the ES Amazon Site](http://services.amazon.es/servicios/logistica-de-amazon/precios.html), the [FBA Fee Schedule for the UK Amazon Site](http://services.amazon.co.uk/services/fulfilment-by-amazon/pricing.html), the [FBA Fee Schedule for the NL Amazon Site](https://services.amazon.nl/diensten/verzonden-door-amazon/prijsstelling.html), the [FBA Fee Schedule for the SE Amazon Sites](http://sell.amazon.se/tjanster/uppfylld-av-amazon/prissattning), and the [FBA Fee Schedule for the PL Amazon Site](https://sell.amazon.pl/fulfilment-by-amazon.html#fbapricing). You will be charged the Storage Fees beginning on the day (up to midnight) that the Unit arrives at the fulfilment centre and is available for fulfilment by Amazon (or in the case of any Unsuitable Unit, the arrival day (up to midnight)), until the earlier of: (a) the day (up to midnight) we receive a valid customer order for such product or a request from you to return or dispose of the Unit; or (b) the day (up to midnight) we actually ship the Unit to your designated return location or dispose of the Unit. You hereby authorise us to debit Your credit card, Your APE Selling on Amazon payment account and/or Your APUK Selling on Amazon payment account for any amounts due to us under these Service Terms.
+**F.9.1. Fees.**  You will pay us the applicable fees set forth in the [FBA Fee Schedule for the DE Amazon Site](http://services.amazon.de/programme/versand-durch-amazon/preisgestaltung.html), the [FBA Fee Schedule for the FR Amazon Site](http://services.amazon.fr/services/expedie-par-amazon/tarifs.html), the [FBA Fee Schedule for the IT Amazon Site](http://services.amazon.it/servizi/logistica-di-amazon/tariffe.html), [FBA Fee Schedule for the ES Amazon Site](http://services.amazon.es/servicios/logistica-de-amazon/precios.html), the [FBA Fee Schedule for the UK Amazon Site](http://services.amazon.co.uk/services/fulfilment-by-amazon/pricing.html), the [FBA Fee Schedule for the NL Amazon Site](https://services.amazon.nl/diensten/verzonden-door-amazon/prijsstelling.html), the [FBA Fee Schedule for the SE Amazon Sites](http://sell.amazon.se/tjanster/uppfylld-av-amazon/prissattning), and the [FBA Fee Schedule for the PL Amazon Site](https://sell.amazon.pl/fulfilment-by-amazon.html#fbapricing). You will be charged the Storage Fees beginning on the day (up to midnight) that the Unit arrives at the fulfilment centre and is available for fulfilment by Amazon (or in the case of any Unsuitable Unit, the arrival day (up to midnight)), until the earlier of: (a) the day (up to midnight) we receive a valid customer order for such product or a request from you to return or dispose of the Unit; or (b) the day (up to midnight) we actually ship the Unit to your designated return location or dispose of the Unit. You hereby authorise us to debit Your credit card, Your APE Selling on Amazon payment account and/or Your APUK Selling on Amazon payment account for any amounts due to us under these Service Terms.
 
-**F.9.2. Shipping and Gift Wrap.** For any Amazon Fulfilment Units we will determine the amounts charged to the customer for shipping and gift wrap services for the Units that we fulfil through the FBA Programme.  As between you and us, these charges will be your tax inclusive charges to the customer, and we will report them to you.  We will charge you (and you will pay us) a fee equal to the amount of such charges to the customer. You acknowledge and agree that you are responsible to account for any applicable VAT on the shipping and gift wrap charges to customer.
+**F.9.2. Shipping and Gift Wrap.**  For any Amazon Fulfilment Units we will determine the amounts charged to the customer for shipping and gift wrap services for the Units that we fulfil through the FBA Programme.  As between you and us, these charges will be your tax inclusive charges to the customer, and we will report them to you.  We will charge you (and you will pay us) a fee equal to the amount of such charges to the customer. You acknowledge and agree that you are responsible to account for any applicable VAT on the shipping and gift wrap charges to customer.
 
-**F.9.3. Proceeds.** We may as appropriate keep part of or all proceeds of any Units that we are entitled to dispose of pursuant to section F.7 above, or to which title transfers, including returned, damaged or abandoned Units.  You will have no security interest, lien or other claim to the proceeds that we receive in connection with the sale, fulfilment and/or shipment of these Units.
+**F.9.3. Proceeds.**  We may as appropriate keep part of or all proceeds of any Units that we are entitled to dispose of pursuant to section F.7 above, or to which title transfers, including returned, damaged or abandoned Units.  You will have no security interest, lien or other claim to the proceeds that we receive in connection with the sale, fulfilment and/or shipment of these Units.
 
 **F.10. Indemnity**
 
@@ -362,7 +362,7 @@ In addition to your obligations under Section 6 of the Business Solutions Agreem
 
 **F.11. Effect of Termination**
 
-Your termination rights are set out in [Section 3 of the Business Solutions Agreement](https://sellercentral.amazon.co.uk/gp/on-board/help-content.html?ie=UTF8&agreementID=&hasCloseButton=1&hasPrintButton=1&helpNodeID=&invitationID=&isOnlineMapa=&localizationKey=A1F83G8C2ARO7P&mapaAcceptanceDate=&marketplaceID=A1F83G8C2ARO7P&repeatButtonsAtEnd=1&showTitles=1&tokens=agreement.MERCHANT_ABP#TermTermination). Following any termination of the Business Solutions Agreement or these FBA Service Terms in connection with a particular Amazon Site, we will, as directed by you, return to you or dispose of the Units registered in connection with such Amazon Site as provided in Section F-7.  If you fail to direct us to return or dispose of the Units within thirty (30) days (or as otherwise specified in the applicable Programme Policy) after termination, then we may elect to return and/or dispose of the Units in whole or in part, as provided in Section F-7, and you agree to such action.  Upon any termination of these FBA Service Terms in connection with a particular Amazon Site, all rights and obligations of the parties under these FBA Service Terms with regard to such Amazon Site will be extinguished, except that the rights and obligations of the parties under Sections F-3, F-7, F-8, F-9, F-10, F-11, and F-12 with respect to Units received or stored by Amazon as of the date of termination will survive the termination.
+Your termination rights are set out in [Section 3 of the Business Solutions Agreement](https://sellercentral.amazon.co.uk/gp/on-board/help-content.html?ie=UTF8&agreementID=&hasCloseButton=1&hasPrintButton=1&helpNodeID=&invitationID=&isOnlineMapa=&localizationKey=A1F83G8C2ARO7P&mapaAcceptanceDate=&marketplaceID=A1F83G8C2ARO7P&repeatButtonsAtEnd=1&showTitles=1&tokens=agreement.MERCHANT_ABP#TermTermination). Following any termination of the Business Solutions Agreement or these FBA Service Terms in connection with a particular Amazon Site, we will, as directed by you, return to you or dispose of the Units registered in connection with such Amazon Site as provided in Section F-7.  If you fail to direct us to return or dispose of the Units within thirty (30) days (or as otherwise specified in the applicable Programme Policy) after termination, then we may elect to return and/or dispose of the Units in whole or in part, as provided in Section F-7, and you agree to such action.  Upon any termination of these FBA Service Terms in connection with a particular Amazon Site, all rights and obligations of the parties under these FBA Service Terms with regard to such Amazon Site will be extinguished, except that the rights and obligations of the parties under Sections F-3, F-7, F-8, F-9, F-10, F-11, and F-12 with respect to Units received or stored by Amazon as of the date of termination will survive the termination.
 
 **F.12. Tax Matters**
 
@@ -378,25 +378,25 @@ In addition to your representations and warranties in Section 5 of the Business 
 
 **"FBA Excluded Product" mean**s, with respect to any Amazon Site you register Units in connection with, any Unit that is an Excluded Product, or is otherwise prohibited by the applicable [Programme Policies](https://sellercentral-europe.amazon.com/gp/help/external/G521?locale=en-US).
 
-**"Foreign Address"** means any mailing address that is not within the applicable Amazon Site Country.
+**"Foreign Address"** means any mailing address that is not within the applicable Amazon Site Country.
 
 **"Fulfilment Request"** means a request that you submit to us (in accordance with the standard methods for submission prescribed by us) to fulfil one or more Multi-Channel Fulfilment Units.
 
-**"Multi-Channel Fulfilment Units"** has the meaning in Section F-2.
+**"Multi-Channel Fulfilment Units"** has the meaning in Section F-2.
 
-**"Sellable Unit"** means a Unit that is not an Unsuitable Unit.
+**"Sellable Unit"** means a Unit that is not an Unsuitable Unit.
 
 “**Seller Agreement**” means the Selling on Amazon Service Terms, the Professional Seller Addendum, any successor to any of these agreements, or any other similar agreement (as determined by Amazon) between you and us that permits you to list and sell certain products and services via a particular Amazon Site.
 
-**"Shipping Information"** means with respect to any purchased Unit(s), the following information: the name of the recipient, the shipping address, the quantity of Units to be shipped, and any other shipping-related information we may reasonably request.
+**"Shipping Information"** means with respect to any purchased Unit(s), the following information: the name of the recipient, the shipping address, the quantity of Units to be shipped, and any other shipping-related information we may reasonably request.
 
-**"Site Fulfilment Centre(s)"** means the fulfilment centre(s) designated or used by Amazon to store and fulfil Units in connection with a particular Amazon Site.
+**"Site Fulfilment Centre(s)"** means the fulfilment centre(s) designated or used by Amazon to store and fulfil Units in connection with a particular Amazon Site.
 
 **"Unit"** means a unit of Your Product that you deliver to Amazon in connection with the FBA Programme in connection with a particular Amazon Site.
 
 **"Unsuitable Unit"** means a Unit:  (a) that is defective, damaged, unfit for a particular purpose, or lacking required label(s); (b) the labels for which were not properly registered with Amazon before shipment or do not match the product that was registered; (c) that is an FBA Excluded Product or does not comply with the Agreement (including applicable Service Terms and Programme Policies); (d) that Amazon determines is unsellable or unfulfillable; or (e) that Amazon determines is otherwise unsuitable.
 
-  
+ 
 
 **Sponsored Ads Service Terms**
 
@@ -406,7 +406,7 @@ The Amazon Advertising Agreement is available at [https://advertising.amazon.co.
 
 In the event of any conflict between the General Terms or Programme Policies and the Amazon Advertising Agreement with respect to the Ad Services, the Amazon Advertising Agreement will prevail to the extent of the conflict.
 
-  
+ 
 
 **Selling Partner API Terms**
 
@@ -420,7 +420,7 @@ Where Confidential Information and/or customer personal data is disclosed to Dev
 
 **API-2 License and Related Requirements**
 
-**API-2.1 Generally.** 
+**API-2.1 Generally.** 
 
 We grant you a limited, revocable, non-exclusive, non-sublicenseable, nontransferable license during the term of the Agreement to allow Developers to access and use Confidential Information and Your Materials through the Selling Partner APIs and the API Materials solely in support of your use of the Services covered by this Agreement.  As between you and us, we or our licensors own all right, title, and interest in and to the Confidential Information, the Selling Partner APIs, the API Materials, any technical and operational specifications, security protocols and other documentation or policies provided or made available by us with respect to the Selling Partner APIs or the API Materials (the “Selling Partner API Specifications”), and our internal data center facilities, servers, networking equipment, and host software systems that are within our or their reasonable control and are used to provide the Selling Partner APIs or the API Materials (the “Amazon Network”).
 
@@ -446,7 +446,7 @@ We are not responsible for any unauthorized access to, alteration of, or deletio
 
 **API-3 Termination**
 
-**API-3.1 Termination of Your Access to the Selling Partner APIs and the API Materials.** 
+**API-3.1 Termination of Your Access to the Selling Partner APIs and the API Materials.** 
 
 Without limiting the parties’ rights and obligations under this Agreement, the Amazon Marketplace Developer Agreement, or the Amazon Marketplace API License Agreement, we may limit, suspend, or terminate your access to the Selling Partner APIs and the API Materials for convenience with 30 days’ notice. We may terminate immediately if (a) we determine that you have materially breached this Agreement and failed to cure within 7 days of a cure notice; (b) you or your account have been engaged in deceptive, fraudulent, or illegal activity; or (c) your use of the Selling Partner APIs and the API Materials may harm our customers.
 
