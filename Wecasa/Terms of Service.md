@@ -8,20 +8,20 @@ Dernière mise à jour le 21/06/2021
 
 Les définitions suivantes sont applicables à l'intégralité des CGU.
 
-*   **_« Application »_ :** désigne l'application mobile exploitée par Wecasa disponible sur iOS et Android, réservée aux Clients.
-*   **_« Application Wecasa Pro »_ :** désigne l'application mobile exploitée par Wecasa disponible sur iOS et Android et réservée aux Partenaires.
-*   **_« CGU »_ :** désigne les présentes conditions générales d'utilisation.
-*   **_« Client »_ :** désigne toute personne physique ou morale utilisant la Plateforme dans le but d'être mise en relation avec un Partenaire pour bénéficier d'une Prestation.
-*   **_« Commande »_ :** désigne une commande d'une Prestation faite par un Client.
-*   **_« Compte » :_** désigne l'espace numérique dédiée et individualisé d'un Utilisateur sur la Plateforme.
-*   **_« Contenu » :_** désigne tout propos, messages, information ou données mis en ligne sur la Plateforme.
-*   **_« Plateforme »_** désigne la plateforme de mise en relation opérée par Wecasa accessible depuis le Site, l'Application et l'Application Wecasa Pro, permettant de réaliser les Services.
-*   **_« Partenaire »_ :** désigne un prestataire de service exerçant par l'intermédiaire d'une société ou du statut d'autoentrepreneur, régulièrement inscrit sur la Plateforme et disposant des compétences nécessaires pour effectuer des Prestations.
-*   **_« Site »_ :** désigne le site Internet [https://www.wecasa.fr/](https://www.wecasa.fr/) ainsi que l'ensemble de ses sous-domaines.
-*   **_« Prestation »_ :** désigne la prestation de service à domicile rendue par un Partenaire à un Client dans le domaine de la beauté/esthétique, de la coiffure, des massages de l'entretien ou de toute autre prestation de service à domicile proposée sur la Plateforme.
-*   **_« Services »_ :** désigne l'ensemble des services rendus par Wecasa aux Utilisateurs (et notamment la mise en relation entre les Partenaires et les Clients, les outils de facturation et de paiement, l'assurance des Prestations, etc.).
-*   **_« Utilisateur »_ :** désigne indifféremment un Client ou un Partenaire qui utilise la Plateforme.
-*   **_« Wecasa »_ :** désigne la société par actions simplifiée WECASA, enregistrée au registre du commerce et des sociétés de Paris sous le numéro 822 686 788, domiciliée au 23 rue du départ, boite 37, 75014 Paris.
+* **_« Application »_ :** désigne l'application mobile exploitée par Wecasa disponible sur iOS et Android, réservée aux Clients.
+* **_« Application Wecasa Pro »_ :** désigne l'application mobile exploitée par Wecasa disponible sur iOS et Android et réservée aux Partenaires.
+* **_« CGU »_ :** désigne les présentes conditions générales d'utilisation.
+* **_« Client »_ :** désigne toute personne physique ou morale utilisant la Plateforme dans le but d'être mise en relation avec un Partenaire pour bénéficier d'une Prestation.
+* **_« Commande »_ :** désigne une commande d'une Prestation faite par un Client.
+* **_« Compte » :_** désigne l'espace numérique dédiée et individualisé d'un Utilisateur sur la Plateforme.
+* **_« Contenu » :_** désigne tout propos, messages, information ou données mis en ligne sur la Plateforme.
+* **_« Plateforme »_** désigne la plateforme de mise en relation opérée par Wecasa accessible depuis le Site, l'Application et l'Application Wecasa Pro, permettant de réaliser les Services.
+* **_« Partenaire »_ :** désigne un prestataire de service exerçant par l'intermédiaire d'une société ou du statut d'autoentrepreneur, régulièrement inscrit sur la Plateforme et disposant des compétences nécessaires pour effectuer des Prestations.
+* **_« Site »_ :** désigne le site Internet [https://www.wecasa.fr/](https://www.wecasa.fr/) ainsi que l'ensemble de ses sous-domaines.
+* **_« Prestation »_ :** désigne la prestation de service à domicile rendue par un Partenaire à un Client dans le domaine de la beauté/esthétique, de la coiffure, des massages de l'entretien ou de toute autre prestation de service à domicile proposée sur la Plateforme.
+* **_« Services »_ :** désigne l'ensemble des services rendus par Wecasa aux Utilisateurs (et notamment la mise en relation entre les Partenaires et les Clients, les outils de facturation et de paiement, l'assurance des Prestations, etc.).
+* **_« Utilisateur »_ :** désigne indifféremment un Client ou un Partenaire qui utilise la Plateforme.
+* **_« Wecasa »_ :** désigne la société par actions simplifiée WECASA, enregistrée au registre du commerce et des sociétés de Paris sous le numéro 822 686 788, domiciliée au 23 rue du départ, boite 37, 75014 Paris.
 
 Sauf exigence contraire résultant du contexte, les termes et définitions déclinés au singulier incluent le pluriel, et inversement.
 
@@ -64,9 +64,9 @@ A compter de son acceptation, le Partenaire reçoit un courrier électronique co
 
 Afin de finaliser la création de son Compte et pouvoir réaliser des Prestations, le Partenaire doit fournir à Wecasa, en plus des informations initialement fournies :
 
-*   pour tous les Partenaires : (i) un document justificatif d'identité autorisant le travail en France et (ii) la documentation relative à leur statut légal (n° SIRET ou d'immatriculation au RCS) ;
-*   pour tout Partenaire exerçant une profession réglementée ou subordonnée à la détention d'une qualification professionnelle au sens de la loi n°96-603 du 5 juillet 1996, par exemple dans les domaines _« beauté», « massage »_ et _« coiffure »_ tel qu'indiqué sur la Plateforme : les diplômes attestant de leurs compétences ; et
-*   pour tout Partenaire exerçant une activité de services à la personne au sens des articles L.7231- 1 et s. et D.7231-1 et s. du Code du travail, par exemple dans le domaine _« ménage » et de la « garde d'enfant »_ au sens de la Plateforme : justifier (i) d'un minimum de 12 mois d'expérience, (ii) de documents d'identité autorisant le travail en France (iii) d'un extrait de casier judiciaire et (iv) de la déclaration de services à la personne.
+* pour tous les Partenaires : (i) un document justificatif d'identité autorisant le travail en France et (ii) la documentation relative à leur statut légal (n° SIRET ou d'immatriculation au RCS) ;
+* pour tout Partenaire exerçant une profession réglementée ou subordonnée à la détention d'une qualification professionnelle au sens de la loi n°96-603 du 5 juillet 1996, par exemple dans les domaines _« beauté», « massage »_ et _« coiffure »_ tel qu'indiqué sur la Plateforme : les diplômes attestant de leurs compétences ; et
+* pour tout Partenaire exerçant une activité de services à la personne au sens des articles L.7231- 1 et s. et D.7231-1 et s. du Code du travail, par exemple dans le domaine _« ménage » et de la « garde d'enfant »_ au sens de la Plateforme : justifier (i) d'un minimum de 12 mois d'expérience, (ii) de documents d'identité autorisant le travail en France (iii) d'un extrait de casier judiciaire et (iv) de la déclaration de services à la personne.
 
 Le Partenaire comprend et accepte que Wecasa peut soumettre le Partenaire à un entretien téléphonique et à un processus de validation de compétences, notamment par le passage d'un test. Wecasa peut refuser l'inscription d'un Partenaire sans avoir à s'en justifier auprès de lui.
 
@@ -115,9 +115,9 @@ Les Partenaires réalisant des Prestations relevant des prestations de services 
 
 Wecasa sélectionne un Partenaire pour le Client sur la base d'un score qui varie notamment en fonction des critères suivants :
 
-*   la capacité de fidélisation des Clients par le Partenaire
-*   la note du Partenaire attribuée par les Clients ; et
-*   le nombre d'annulation de Commandes à l'initiative du Partenaire.
+* la capacité de fidélisation des Clients par le Partenaire
+* la note du Partenaire attribuée par les Clients ; et
+* le nombre d'annulation de Commandes à l'initiative du Partenaire.
 
 Les Prestations sont également attribuées en fonction de la localisation des Partenaires et des Clients.
 
@@ -137,11 +137,11 @@ Lorsqu'une Commande est validée moins de 14 jours à l'avance conformément au 
 
 Dans tous les cas et pour toutes les Commandes, les règles d'annulation suivantes s'appliquent :
 
-*   annulation plus de 6 heures ouvrées avant le rendez-vous prévu : aucun frais d'annulation ;
-*   annulation entre 3 heures et 6 heures ouvrées avant le rendez-vous prévu : frais d'annulation forfaitaires de dix (10) euros ;
-*   annulation entre 1 heure et 3 heures ouvrées avant le rendez-vous prévu : frais d'annulation de 50% du montant de la Commande, pour un maximum de vingt (20) euros ;
-*   annulation entre 1 heure ouvrée et l'heure du rendez-vous prévu : frais d'annulation de 80% de la Commande, pour un maximum de trente (30) euros ;
-*   annulation après l'heure du rendez-vous prévu, ou dans le cas où le Client serait absent 30 minutes après l'heure du rendez-vous : 100% de la Commande, pour un maximum de quarante (40) euros
+* annulation plus de 6 heures ouvrées avant le rendez-vous prévu : aucun frais d'annulation ;
+* annulation entre 3 heures et 6 heures ouvrées avant le rendez-vous prévu : frais d'annulation forfaitaires de dix (10) euros ;
+* annulation entre 1 heure et 3 heures ouvrées avant le rendez-vous prévu : frais d'annulation de 50% du montant de la Commande, pour un maximum de vingt (20) euros ;
+* annulation entre 1 heure ouvrée et l'heure du rendez-vous prévu : frais d'annulation de 80% de la Commande, pour un maximum de trente (30) euros ;
+* annulation après l'heure du rendez-vous prévu, ou dans le cas où le Client serait absent 30 minutes après l'heure du rendez-vous : 100% de la Commande, pour un maximum de quarante (40) euros
 
 Pour l'application de cet article, il est convenu que les heures ouvrées désignent les périodes allant de 7h à 22h30, 7 jours sur 7.
 
@@ -188,15 +188,15 @@ Le mandat de facturation est effectif pendant toute la durée où les CGU sont e
 
 Pour les besoins du mandat, le Partenaire transmet à Wecasa les informations suivantes, selon sa situation :
 
-*   Prénom et nom / ou raison sociale ;
-*   Adresse postale / ou siège social ;
-*   Numéro de SIRET / ou numéro d'immatriculation au RCS ;
-*   Adresse email ;
-*   Copie d'une pièce d'identité en cours de validité (recto/verso) / ou extrait Kbis ;
-*   Photo en format portrait ;
-*   Relevé d'identité bancaire ;
-*   Un avis de situation SIRENE de moins de 3 mois ;
-*   Un numéro de TVA intracommunautaire si les Prestations sont réalisées hors de France.
+* Prénom et nom / ou raison sociale ;
+* Adresse postale / ou siège social ;
+* Numéro de SIRET / ou numéro d'immatriculation au RCS ;
+* Adresse email ;
+* Copie d'une pièce d'identité en cours de validité (recto/verso) / ou extrait Kbis ;
+* Photo en format portrait ;
+* Relevé d'identité bancaire ;
+* Un avis de situation SIRENE de moins de 3 mois ;
+* Un numéro de TVA intracommunautaire si les Prestations sont réalisées hors de France.
 
 Le Partenaire s'engage (i) à verser au Trésor public la taxe sur la valeur ajoutée dont il est le cas échéant redevable, (ii) à demander et à conserver une copie des factures émises pour son compte par Wecasa et (iii) à signaler à Wecasa toute modification dans les informations ci-dessus.
 
@@ -229,15 +229,15 @@ En tout état de cause, dans les cas où la responsabilité de Wecasa pourrait �
 
 L'Utilisateur s'engage expressément à :
 
-*   respecter les lois et règlements en vigueur et à ne pas porter atteinte à l'ordre public, aux bonnes mœurs ou aux droits de tiers et à n'enfreindre aucune disposition législative ou règlementaire ;
-*   ne permettre à aucun tiers d'utiliser son Compte ;
-*   ne pas publier de Contenus injurieux, diffamant, dénigrant, calomnieux, contraire aux bonnes mœurs, contrefaisant, portant atteinte à l'ordre public ou aux droits de tiers, susceptible de porter atteinte aux droits, à la réputation et à l'image de Wecasa ou d'un autre Utilisateur ;
-*   ne pas utiliser la Plateforme ou les Services de manière frauduleuse (ex : un faux compte ou une fausse identité) et/ou pour nuire aux intérêts de Wecasa ou d'un autre Utilisateur ;
-*   ne pas céder ou transférer d'une quelconque manière son Compte à un tiers ;
-*   fournir à Wecasa toutes les informations nécessaires à la bonne exécution des Services et garantir leur exactitude ;
-*   faire une utilisation loyale de la Plateforme et des Services, c'est-à-dire de participer au processus d'inscription, de Commandes ou encore de notation ;
-*   informer Wecasa en cas de complication de toute nature, de tout problème avec un autre Utilisateur ou lors de l'utilisation de la Plateforme, du Compte et des Services ; et
-*   conserver strictement confidentiel et ne partager à aucun tiers tout échange, conversation, information et, plus généralement, tout élément concernant les Prestations, les Commandes et les échanges entre Utilisateurs ou avec Wecasa.
+* respecter les lois et règlements en vigueur et à ne pas porter atteinte à l'ordre public, aux bonnes mœurs ou aux droits de tiers et à n'enfreindre aucune disposition législative ou règlementaire ;
+* ne permettre à aucun tiers d'utiliser son Compte ;
+* ne pas publier de Contenus injurieux, diffamant, dénigrant, calomnieux, contraire aux bonnes mœurs, contrefaisant, portant atteinte à l'ordre public ou aux droits de tiers, susceptible de porter atteinte aux droits, à la réputation et à l'image de Wecasa ou d'un autre Utilisateur ;
+* ne pas utiliser la Plateforme ou les Services de manière frauduleuse (ex : un faux compte ou une fausse identité) et/ou pour nuire aux intérêts de Wecasa ou d'un autre Utilisateur ;
+* ne pas céder ou transférer d'une quelconque manière son Compte à un tiers ;
+* fournir à Wecasa toutes les informations nécessaires à la bonne exécution des Services et garantir leur exactitude ;
+* faire une utilisation loyale de la Plateforme et des Services, c'est-à-dire de participer au processus d'inscription, de Commandes ou encore de notation ;
+* informer Wecasa en cas de complication de toute nature, de tout problème avec un autre Utilisateur ou lors de l'utilisation de la Plateforme, du Compte et des Services ; et
+* conserver strictement confidentiel et ne partager à aucun tiers tout échange, conversation, information et, plus généralement, tout élément concernant les Prestations, les Commandes et les échanges entre Utilisateurs ou avec Wecasa.
 
 L'Utilisateur comprend et accepte qu'est strictement interdit : (i) tout comportement de nature à interrompre, suspendre, ralentir ou empêcher la continuité de la Plateforme ou des Services, (ii) toute intrusion ou tentative d'intrusions dans les systèmes de Wecasa, (iii) tout détournement des ressources système du Compte et de la Plateforme, (iv) toute action de nature à imposer une charge disproportionnée sur les infrastructures numériques de Wecasa, (v) toute atteinte aux mesures de sécurité et d'authentification, (vi) tout acte de nature à porter atteinte aux droits et intérêts financiers, commerciaux ou moraux de Wecasa et des autres Utilisateurs, (vii) tout manquement aux CGU, (viii) toute copie et/ou le détournement de l'infrastructure numérique de Wecasa et (ix) plus généralement toute pratique détournant la Plateforme et les Services à des fins autres que celles pour lesquelles ils ont été conçus.
 
@@ -245,20 +245,20 @@ L'Utilisateur comprend et accepte qu'est strictement interdit : (i) tout comport
 
 Le Client s'engage expressément à :
 
-*   avoir une attitude correcte, polie et décente vis-à-vis des Partenaires (par ex. conserver ses sous-vêtements pendant les Prestations de massage, qui sont des massages de bien être) ;
-*   ne pas annuler des Commandes de façon récurrente ou répétitive ;
-*   mettre les Partenaires dans les meilleures dispositions pour leur permettre de réaliser les Prestations dans de bonnes conditions (par exemple, prévoir une pièce avec un espace suffisant) ;
-*   informer le Partenaire de certaines conditions particulières à des Prestations, et en particulier informer de la présence d'animaux au domicile du Client (cela peut empêcher certains Partenaires ayant des allergies de réaliser des Prestations) ; et
-*   ne pas contacter les Partenaires après la réalisation d'une Prestation afin que ceux-ci réalisent des prestations en dehors de la Plateforme.
+* avoir une attitude correcte, polie et décente vis-à-vis des Partenaires (par ex. conserver ses sous-vêtements pendant les Prestations de massage, qui sont des massages de bien être) ;
+* ne pas annuler des Commandes de façon récurrente ou répétitive ;
+* mettre les Partenaires dans les meilleures dispositions pour leur permettre de réaliser les Prestations dans de bonnes conditions (par exemple, prévoir une pièce avec un espace suffisant) ;
+* informer le Partenaire de certaines conditions particulières à des Prestations, et en particulier informer de la présence d'animaux au domicile du Client (cela peut empêcher certains Partenaires ayant des allergies de réaliser des Prestations) ; et
+* ne pas contacter les Partenaires après la réalisation d'une Prestation afin que ceux-ci réalisent des prestations en dehors de la Plateforme.
 
 ### 11.3. Engagements du Partenaire
 
 Le Partenaire s'engage expressément à :
 
-*   répondre aux propositions de Prestations transmises par Wecasa, que sa réponse soit positive ou négative, le Partenaire demeurant libre d'accepter ou de refuser une proposition de Prestation ;
-*   honorer les rendez-vous qu'il a pris pour réaliser les Prestations ; et
-*   disposer des compétences nécessaires à l'exercice des Prestations tout au long de la durée des CGU et tant qu'il réalise des Prestations par l'intermédiaire de la Plateforme.
-*   se comporter de façon loyale vis-à-vis de Wecasa, en invitant notamment les Clients à faire usage de la Plateforme lorsqu'ils souhaitent réserver une nouvelle prestation.
+* répondre aux propositions de Prestations transmises par Wecasa, que sa réponse soit positive ou négative, le Partenaire demeurant libre d'accepter ou de refuser une proposition de Prestation ;
+* honorer les rendez-vous qu'il a pris pour réaliser les Prestations ; et
+* disposer des compétences nécessaires à l'exercice des Prestations tout au long de la durée des CGU et tant qu'il réalise des Prestations par l'intermédiaire de la Plateforme.
+* se comporter de façon loyale vis-à-vis de Wecasa, en invitant notamment les Clients à faire usage de la Plateforme lorsqu'ils souhaitent réserver une nouvelle prestation.
 
 12\. Responsabilité des Utilisateurs
 ------------------------------------
@@ -267,8 +267,8 @@ L'Utilisateur est responsable de son utilisation de la Plateforme et des Service
 
 Plus spécifiquement, les Utilisateurs sont responsables :
 
-*   des informations qu'ils choisissent de mettre en ligne sur leur Compte et qu'ils diffusent en utilisant la Plateforme ou les Services ; et
-*   de la négociation, de la conclusion et de l'exécution des contrats qui interviennent le cas échéant entre eux pour la réalisation des Prestations, Wecasa n'étant qu'une plateforme numérique de mise en relation.
+* des informations qu'ils choisissent de mettre en ligne sur leur Compte et qu'ils diffusent en utilisant la Plateforme ou les Services ; et
+* de la négociation, de la conclusion et de l'exécution des contrats qui interviennent le cas échéant entre eux pour la réalisation des Prestations, Wecasa n'étant qu'une plateforme numérique de mise en relation.
 
 13\. Durée, suspension et résiliation
 -------------------------------------
@@ -283,11 +283,11 @@ Les CGU sont conclues pour une durée indéterminée et entrent en vigueur à co
 
 Le Compte et les Services rendus au Partenaire seront limités, pendant une durée déterminée, dans les cas suivants :
 
-*   le Partenaire a envoyé des messages désobligeants ou agressifs aux équipes de Wecasa ;
-*   le Partenaire s'est comporté de manière désagréable ou agressive avec les Clients ;
-*   le Partenaire a reçu de manière répétée des avis négatifs de la part des Clients ;
-*   le Partenaire n'a pas honoré un rendez-vous prévu avec un Client sans informer celui-ci au préalable ;
-*   le Partenaire a annulé de manière répétée des rendez-vous chez des Clients qu'il avait préalablement acceptés.
+* le Partenaire a envoyé des messages désobligeants ou agressifs aux équipes de Wecasa ;
+* le Partenaire s'est comporté de manière désagréable ou agressive avec les Clients ;
+* le Partenaire a reçu de manière répétée des avis négatifs de la part des Clients ;
+* le Partenaire n'a pas honoré un rendez-vous prévu avec un Client sans informer celui-ci au préalable ;
+* le Partenaire a annulé de manière répétée des rendez-vous chez des Clients qu'il avait préalablement acceptés.
 
 Au plus tard au moment où la limitation prend effet, Wecasa s'engage à envoyer au Partenaire un courrier électronique précisant (i) la mise en œuvre de la mesure de limitation, (ii) sa durée, (iii) les motifs ayant conduit à celle-ci et (iv) la faculté pour le Partenaire de fournir des explications sur cette situation.
 
@@ -299,8 +299,8 @@ Au terme de cette période, selon les performances du Partenaire et l'évolution
 
 Le Compte et les Services rendus au Partenaire seront limités dans les cas suivants :
 
-*   le Partenaire n'a pas répondu à 4 propositions de Prestations de suite en ayant eu pour chacune d'entre elle un temps suffisant pour la consulter et répondre ;
-*   le Partenaire n'a accepté aucune des 50 dernières propositions de Prestations transmises.
+* le Partenaire n'a pas répondu à 4 propositions de Prestations de suite en ayant eu pour chacune d'entre elle un temps suffisant pour la consulter et répondre ;
+* le Partenaire n'a accepté aucune des 50 dernières propositions de Prestations transmises.
 
 Au plus tard au moment où la limitation prend effet, Wecasa s'engage à envoyer au Partenaire un courrier électronique précisant (i) la mise en œuvre de la mesure de limitation et (ii) les motifs ayant conduit à celle-ci.
 
@@ -332,13 +332,13 @@ Au terme du préavis, le Partenaire n'aura plus accès au Compte, à la Platefor
 
 Moyennant un préavis de trente (30) jours, les CGU peuvent être résiliées par Wecasa :
 
-*   si le Partenaire a manqué à ses obligations contractuelles au titre des CGU (par exemple, l'absence de compétences pour réaliser les Prestations) ;
-*   si les Clients ne sont pas satisfaits du Partenaire (par exemple, des mauvais avis/retours de Clients ou l'annulation de rendez-vous) ;
-*   si le Partenaire a envoyé des messages désobligeants ou agressifs aux équipes de Wecasa ;
-*   si le Partenaire s'est comporté de manière désagréable ou agressive avec les Clients ;
-*   si le Partenaire n'a pas honoré un rendez-vous prévu avec un Client sans informer celui-ci au préalable ;
-*   si le Partenaire a annulé de manière répétée des rendez-vous chez des Clients qu'il avait préalablement acceptés ;
-*   si le Partenaire n'est plus en mesure d'exécuter ses engagements au titre des CGU (par exemple, en cas de procédure collective).
+* si le Partenaire a manqué à ses obligations contractuelles au titre des CGU (par exemple, l'absence de compétences pour réaliser les Prestations) ;
+* si les Clients ne sont pas satisfaits du Partenaire (par exemple, des mauvais avis/retours de Clients ou l'annulation de rendez-vous) ;
+* si le Partenaire a envoyé des messages désobligeants ou agressifs aux équipes de Wecasa ;
+* si le Partenaire s'est comporté de manière désagréable ou agressive avec les Clients ;
+* si le Partenaire n'a pas honoré un rendez-vous prévu avec un Client sans informer celui-ci au préalable ;
+* si le Partenaire a annulé de manière répétée des rendez-vous chez des Clients qu'il avait préalablement acceptés ;
+* si le Partenaire n'est plus en mesure d'exécuter ses engagements au titre des CGU (par exemple, en cas de procédure collective).
 
 Au plus tard trente (30) jours avant que la résiliation ne prenne effet, Wecasa s'engage à envoyer au Partenaire un courrier électronique précisant (i) la mise en œuvre de la mesure de résiliation, (ii) la date à laquelle celle-ci sera effective, (iii) les motifs ayant conduit à celle-ci et (iv) la faculté pour le Partenaire de fournir des explications sur cette situation.
 
@@ -352,14 +352,14 @@ Au terme du préavis, le Partenaire n'aura plus accès au Compte, à la Platefor
 
 Les CGU pourront être résiliées sans préavis par les Parties dans les cas suivants :
 
-*   à l'initiative du Partenaire :
-    *   si une obligation légale ou règlementaire ne permet pas au Partenaire de respecter le délai de préavis de trente (30) jours ;
-    *   si le Partenaire exerce un droit de résiliation pour une raison impérative prévue par le droit français et conforme avec le droit européen ;
-    *   si le Partenaire peut apporter la preuve que Wecasa a enfreint, à plusieurs reprises ou de manière grave, à ses obligations contractuelles au titre des CGU (par exemple, l'absence d'accès à la Plateforme ou une défaillance dans la mise en relation).
-*   à l'initiative de Wecasa :
-    *   si une obligation légale ou règlementaire ne permet pas à Wecasa de respecter le délai de préavis de trente (30) jours ;
-    *   si Wecasa exerce un droit de résiliation pour une raison impérative prévue par le droit français et conforme avec le droit européen ;
-    *   si Wecasa peut apporter la preuve que le Partenaire a enfreint, à plusieurs reprises ou de manière grave, à ses obligations contractuelles au titre des CGU (par exemple, l'absence d'accès à la Plateforme ou une défaillance dans la mise en relation).
+* à l'initiative du Partenaire :
+    * si une obligation légale ou règlementaire ne permet pas au Partenaire de respecter le délai de préavis de trente (30) jours ;
+    * si le Partenaire exerce un droit de résiliation pour une raison impérative prévue par le droit français et conforme avec le droit européen ;
+    * si le Partenaire peut apporter la preuve que Wecasa a enfreint, à plusieurs reprises ou de manière grave, à ses obligations contractuelles au titre des CGU (par exemple, l'absence d'accès à la Plateforme ou une défaillance dans la mise en relation).
+* à l'initiative de Wecasa :
+    * si une obligation légale ou règlementaire ne permet pas à Wecasa de respecter le délai de préavis de trente (30) jours ;
+    * si Wecasa exerce un droit de résiliation pour une raison impérative prévue par le droit français et conforme avec le droit européen ;
+    * si Wecasa peut apporter la preuve que le Partenaire a enfreint, à plusieurs reprises ou de manière grave, à ses obligations contractuelles au titre des CGU (par exemple, l'absence d'accès à la Plateforme ou une défaillance dans la mise en relation).
 
 Sans retard indu à compter de la décision de résiliation, la Partie souhaitant résilier les CGU s'engage à envoyer à l'autre un courrier électronique précisant (i) la mise en œuvre de cette mesure de résiliation, (ii) la date à laquelle celle-ci sera effective, (iii) les motifs ayant conduit à celle-ci et (iv) la faculté pour le Partenaire de fournir des explications sur cette situation.
 
@@ -376,8 +376,8 @@ Le Partenaire est seul responsable de toutes les déclarations et formalités n�
 
 Le Partenaire est notamment invité à se renseigner auprès des administrations concernées :
 
-*   pour les impôts : [https://www.impots.gouv.fr/portail/node/10841](https://www.impots.gouv.fr/portail/node/10841)
-*   pour les obligations sociales : [https://www.urssaf.fr/portail/home/espaces-dedies/activites-relevant-de-leconomie.html](https://www.urssaf.fr/portail/home/espaces-dedies/activites-relevant-de-leconomie.html)
+* pour les impôts : [https://www.impots.gouv.fr/portail/node/10841](https://www.impots.gouv.fr/portail/node/10841)
+* pour les obligations sociales : [https://www.urssaf.fr/portail/home/espaces-dedies/activites-relevant-de-leconomie.html](https://www.urssaf.fr/portail/home/espaces-dedies/activites-relevant-de-leconomie.html)
 
 15\. Autonomie et indépendance
 ------------------------------
