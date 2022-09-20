@@ -5,7 +5,7 @@ För den svenska versionen av detta avtal, klicka här: [Användaravtal](https:/
 
 #### Introduction
 
-**This agreement, Tradera’s User Agreement, Tradera’s Privacy Policy and all other policies posted on our site set out the terms on which Tradera offers you access to and use of Tradera’s sites, services, applications and tools (collectively ”Services”). You can find our policies** [**here**](http://info.tradera.com/faq/regler-pa-tradera/)**. All policies, including Tradera’s Privacy Policy, are incorporated in this User Agreement. You agree to comply with all terms of this User Agreement when accessing or using our Services. The entity you are contracting with is Tradera Marketplace AB (reg. no. 556569-4642), Sankt Eriksgatan 117, 113 43 Stockholm (”Tradera”, ”we” or ”us”).**
+**This agreement, Tradera’s User Agreement, Tradera’s Privacy Policy and all other policies posted on our site set out the terms on which Tradera offers you access to and use of Tradera’s sites, services, applications and tools (collectively ”Services”). You can find our policies** [**here**](http://info.tradera.com/faq/regler-pa-tradera/)**. All policies, including Tradera’s Privacy Policy, are incorporated in this User Agreement. You agree to comply with all terms of this User Agreement when accessing or using our Services. The entity you are contracting with is Tradera Marketplace AB (reg. no. 556569-4642), Sankt Eriksgatan 117, 113 43 Stockholm (”Tradera”, ”we” or ”us”).**
 
 This User Agreement is effective from 18 July 2020 for existing users and upon acceptance for new users. [The previous version](https://info.tradera.com/anvandaravtal-eng-2019-2020/) of this User Agreement was effective for all users on 1 August 2019.
 
@@ -21,25 +21,25 @@ We can provide guidance regarding prices, pricing, listing and other such questi
 
 In connection with using or accessing the Services, you will not:
 
-*   post, list or upload content or items in inappropriate categories or areas on our sites;
-*   breach or circumvent any laws, third-party rights or our policies;
-*   sell items infringing any intellectual property rights that belong to third parties or in any other way infringe any copyright, trademark or intellectual property right that belongs to a third party;
-*   use our Services if you are not able to form legally binding contracts (for example, if you are under 18 years old), or are temporarily or indefinitely suspended from using our Services;
-*   fail to pay for items purchased by you, unless the seller has materially changed the item’s description after you bid, a clear typographical error is made, or you cannot contact the seller (see our [Rules for Buyers](https://info.tradera.com/en/bids-are-binding/));
-*   fail to deliver items sold by you, unless the buyer fails to comply with the posted terms in your listing or you cannot contact the buyer:
-*   manipulate the price of any item or interfere with any other user’s listings;
-*   post or use false, inaccurate, misleading or defamatory content or information;
-*   take any actions that may undermine the feedback or ratings system (see our [Feedback policies](https://info.tradera.com/en/review-policy/));
-*   transfer your Tradera account (including Feedback) and user ID to another party without our consent;
-*   allow, directly or indirectly, another party to use your user ID or password;
-*   distribute or post spam, unsolicited or bulk electronic communications, chain letters or pyramid schemes;
-*   distribute or post viruses or any other technologies that may harm Tradera or the interests or property of Tradera’s users
-*   use automated means, such as scrapers, robots or spiders to access our Services for any purpose. You will also not circumvent our automated means, prevent or interfere with the working of our Services, or impose an unreasonable or disproportionately large load on our infrastructure;
-*   export or re-export any Tradera application or tool, except in compliance with the export control laws of any relevant jurisdictions and in accordance with rules and restrictions posted on the site;
-*   copy, change or make available (a) rights or content related to our Services or (b) Tradera’s work, photographs, pictures, trademarks, texts or other content;
-*   copy, reproduce, change, process, translate, transfer, make available or present any content (except your own content) from Tradera, Tradera’s Services or any third party, without obtaining prior written consent from Tradera or, if applicable, any concerned third party;
-*   commercialize or sublicense any Tradera application or any information or software associated with such application; or
-*   collect information about users, such as e-mail addresses, without their consent.
+* post, list or upload content or items in inappropriate categories or areas on our sites;
+* breach or circumvent any laws, third-party rights or our policies;
+* sell items infringing any intellectual property rights that belong to third parties or in any other way infringe any copyright, trademark or intellectual property right that belongs to a third party;
+* use our Services if you are not able to form legally binding contracts (for example, if you are under 18 years old), or are temporarily or indefinitely suspended from using our Services;
+* fail to pay for items purchased by you, unless the seller has materially changed the item’s description after you bid, a clear typographical error is made, or you cannot contact the seller (see our [Rules for Buyers](https://info.tradera.com/en/bids-are-binding/));
+* fail to deliver items sold by you, unless the buyer fails to comply with the posted terms in your listing or you cannot contact the buyer:
+* manipulate the price of any item or interfere with any other user’s listings;
+* post or use false, inaccurate, misleading or defamatory content or information;
+* take any actions that may undermine the feedback or ratings system (see our [Feedback policies](https://info.tradera.com/en/review-policy/));
+* transfer your Tradera account (including Feedback) and user ID to another party without our consent;
+* allow, directly or indirectly, another party to use your user ID or password;
+* distribute or post spam, unsolicited or bulk electronic communications, chain letters or pyramid schemes;
+* distribute or post viruses or any other technologies that may harm Tradera or the interests or property of Tradera’s users
+* use automated means, such as scrapers, robots or spiders to access our Services for any purpose. You will also not circumvent our automated means, prevent or interfere with the working of our Services, or impose an unreasonable or disproportionately large load on our infrastructure;
+* export or re-export any Tradera application or tool, except in compliance with the export control laws of any relevant jurisdictions and in accordance with rules and restrictions posted on the site;
+* copy, change or make available (a) rights or content related to our Services or (b) Tradera’s work, photographs, pictures, trademarks, texts or other content;
+* copy, reproduce, change, process, translate, transfer, make available or present any content (except your own content) from Tradera, Tradera’s Services or any third party, without obtaining prior written consent from Tradera or, if applicable, any concerned third party;
+* commercialize or sublicense any Tradera application or any information or software associated with such application; or
+* collect information about users, such as e-mail addresses, without their consent.
 
 If you register with Tradera as a business user, you accept that you have the authority to represent and commit the business to this User Agreement. If you carry out business on Tradera, you must comply with the laws that apply to trading on the site that you use.
 
@@ -55,12 +55,12 @@ _General_
 
 We may limit, suspend or terminate our Services and user accounts, and limit or prohibit your access to and use of our Services, stop bidding processes and remove listings, delay or remove content on the site, remove certain status updates that belong to an account, reduce or eliminate discounts and take technical and legal steps to prevent you from using our Services, if:
 
-*   we believe that you are causing problems or risks of liability in damages;
-*   we believe that such limitations will increase the safety and security for Tradera’s users or reduce the risk that we or Tradera’s users will incur a payment obligation;
-*   we believe that you are infringing the rights of a third party;
-*   we believe that you are acting contrary to the purpose of this User Agreement or our policies or are insulting our employees or users;
-*   despite our reasonable efforts, we are unable to confirm information that you provide to us; or
-*   you fail to pay the fees for our Services when they fall due for payment.
+* we believe that you are causing problems or risks of liability in damages;
+* we believe that such limitations will increase the safety and security for Tradera’s users or reduce the risk that we or Tradera’s users will incur a payment obligation;
+* we believe that you are infringing the rights of a third party;
+* we believe that you are acting contrary to the purpose of this User Agreement or our policies or are insulting our employees or users;
+* despite our reasonable efforts, we are unable to confirm information that you provide to us; or
+* you fail to pay the fees for our Services when they fall due for payment.
 
 This provision shall not limit other remedies to which Tradera is entitled.
 
@@ -76,9 +76,9 @@ A decision on suspending or restricting a business user's use of the Services, i
 
 A decision on terminating a business user's use of the Services, in whole or in part, will be provided to the concerned business user at the latest 30 days prior to the effective date of the termination with a statement of the reasons for the decision. However, the notice period of 30 days shall not apply if:
 
-*   the termination is caused by a legal or regulatory obligation which requires Tradera to terminate the provision of the whole of its Services to a given business user in a manner which does not allow Tradera to respect that notice period;
-*   Tradera exercises a right of termination under an imperative reason pursuant to national law which is in compliance with EU law; or
-*   Tradera can demonstrate that the business user concerned has repeatedly infringed the applicable terms and conditions, resulting in the termination of the provision of the whole of the Services in question.
+* the termination is caused by a legal or regulatory obligation which requires Tradera to terminate the provision of the whole of its Services to a given business user in a manner which does not allow Tradera to respect that notice period;
+* Tradera exercises a right of termination under an imperative reason pursuant to national law which is in compliance with EU law; or
+* Tradera can demonstrate that the business user concerned has repeatedly infringed the applicable terms and conditions, resulting in the termination of the provision of the whole of the Services in question.
 
 In case the notice period does not apply, Tradera will provide the business user concerned, without undue delay, with a statement of reasons for that decision.
 
@@ -94,24 +94,24 @@ By using the Services, you accept our invoicing procedures and payment terms, wh
 
 When listing an item for sale, you agree to comply with our [Rules](https://info.tradera.com/en/rules-at-tradera/) for sellers and that:
 
-*   you are responsible for the content of the listing and agree to only post listings in accordance with our policies relating to [prohibited and unauthorized items or listing](https://info.tradera.com/en/rules-at-tradera/);
-*   your listing may not be immediately searchable by keyword or category until after up to 24 hours. Tradera cannot guarantee exact listing durations;
-*   when and if your listing appears in search results on Tradera or the Internet may depend on factors such as the listing format, heading, bidding activity, deadline for responses, keyword, price and shipping costs, valuation, and feedback about you as a seller;
-*   some optional listing upgrades will only be visible on certain Tradera Services;
-*   some Services require you to enter into a separate agreement with a third party, and such third party will decide if you can access such services;
-*   you accept the terms that apply for the payment method you choose when you list, sell and receive payment for items sold; and
-*   we have the right to agree with third parties providing payment solutions on Tradera that they will withhold part of the amount they are paying you from the buyer and that they will use such withheld payment to pay Tradera directly the fees that you owe us.
-*   Limitations regarding the types of Services you may use and their functionality may apply based on your use of the Services.
+* you are responsible for the content of the listing and agree to only post listings in accordance with our policies relating to [prohibited and unauthorized items or listing](https://info.tradera.com/en/rules-at-tradera/);
+* your listing may not be immediately searchable by keyword or category until after up to 24 hours. Tradera cannot guarantee exact listing durations;
+* when and if your listing appears in search results on Tradera or the Internet may depend on factors such as the listing format, heading, bidding activity, deadline for responses, keyword, price and shipping costs, valuation, and feedback about you as a seller;
+* some optional listing upgrades will only be visible on certain Tradera Services;
+* some Services require you to enter into a separate agreement with a third party, and such third party will decide if you can access such services;
+* you accept the terms that apply for the payment method you choose when you list, sell and receive payment for items sold; and
+* we have the right to agree with third parties providing payment solutions on Tradera that they will withhold part of the amount they are paying you from the buyer and that they will use such withheld payment to pay Tradera directly the fees that you owe us.
+* Limitations regarding the types of Services you may use and their functionality may apply based on your use of the Services.
 
 #### Purchase Conditions
 
 When buying an item you agree to comply with our Rules for Buyers, and that:
 
-*   you are responsible for reading the full item listing before making a bid or commitment to buy;
-*   you enter into a legally binding contract to purchase an item when you commit to buy an item or if you have the winning bid (or if your offer for an item is accepted in another way);
-*   some Services require you to enter a separate agreement with a third party and such third party will determine if, and to what extent, you will be allowed to access such services;
-*   you accept the terms that apply for the payment method that you use when you buy an item (see more information under Section "Payment" below); and
-*   you accept the terms that apply for the shipping method that you have chosen when you buy an item.
+* you are responsible for reading the full item listing before making a bid or commitment to buy;
+* you enter into a legally binding contract to purchase an item when you commit to buy an item or if you have the winning bid (or if your offer for an item is accepted in another way);
+* some Services require you to enter a separate agreement with a third party and such third party will determine if, and to what extent, you will be allowed to access such services;
+* you accept the terms that apply for the payment method that you use when you buy an item (see more information under Section "Payment" below); and
+* you accept the terms that apply for the shipping method that you have chosen when you buy an item.
 
 #### Buyer protection
 
@@ -121,12 +121,12 @@ Tradera's buyer protection is included if the buyer chooses to pay by way of an 
 
 Certain types of purchase are in no case included in Tradera's buyer protection, namely the following:
 
-*   purchases of real estate (including, without limitation, residential property);
-*   purchases of vehicles (including, without limitation, motor vehicles, motorcycles, caravans, aircrafts and boats), except for personally portable light vehicles used for recreational purposes, such as bicycles and wheeled hoverboards;
-*   purchases of custom-made items (unless they are claimed to have not been received);
-*   purchases of items equivalent to cash (including, without limitation, gift cards);
-*   purchases of tickets for events, such as tickets for sporting events or concerts; and
-*   purchases of goods or services that are prohibited under Tradera's Rules for Sellers.
+* purchases of real estate (including, without limitation, residential property);
+* purchases of vehicles (including, without limitation, motor vehicles, motorcycles, caravans, aircrafts and boats), except for personally portable light vehicles used for recreational purposes, such as bicycles and wheeled hoverboards;
+* purchases of custom-made items (unless they are claimed to have not been received);
+* purchases of items equivalent to cash (including, without limitation, gift cards);
+* purchases of tickets for events, such as tickets for sporting events or concerts; and
+* purchases of goods or services that are prohibited under Tradera's Rules for Sellers.
 
 This is how Tradera's dispute resolution process works
 
@@ -180,15 +180,15 @@ We try to keep access to Tradera and the Services safe, secure, and functioning 
 
 We (and our parent, subsidiaries, affiliates, representatives, officers, agents and employees) will in no event be liable to you for any indirect losses, including loss occurring in the business, loss of data, loss of profits, loss of business opportunity, loss of reputation, or disruption to the business, or any other losses that we could not reasonably foresee, resulting directly or indirectly from:
 
-*   your use of or your inability to use the Services;
-*   pricing, shipping, or other guidance provided by Tradera;
-*   delays or disruptions in our Services;
-*   viruses or other malicious software obtained by accessing or linking to our Services;
-*   the content, actions, or inactions of third parties, including losses caused by items that are listed via our Services;
-*   the destruction of items allegedly infringing third-party intellectual property rights;
-*   a suspension or other action taken with respect to your account or breach of the ”Abusing Tradera” section above;
-*   the duration or manner in which your listings appear in search results as set out in the ”Listing Conditions” section above; or
-*   your need to modify practices, content, or behavior, or your loss of or inability to do business, as a result of changes to this User Agreement or our policies.
+* your use of or your inability to use the Services;
+* pricing, shipping, or other guidance provided by Tradera;
+* delays or disruptions in our Services;
+* viruses or other malicious software obtained by accessing or linking to our Services;
+* the content, actions, or inactions of third parties, including losses caused by items that are listed via our Services;
+* the destruction of items allegedly infringing third-party intellectual property rights;
+* a suspension or other action taken with respect to your account or breach of the ”Abusing Tradera” section above;
+* the duration or manner in which your listings appear in search results as set out in the ”Listing Conditions” section above; or
+* your need to modify practices, content, or behavior, or your loss of or inability to do business, as a result of changes to this User Agreement or our policies.
 
 You agree that you are solely responsible for ensuring that the actions you take comply with the laws and rules and regulations that apply to you and that the items you list, sell or buy on our site are in compliance with law.
 
@@ -206,9 +206,9 @@ You will indemnify and hold us harmless (and our parent, subsidiaries, affiliate
 
 If you are using ”[Butik](https://info.tradera.com/en/foretag/#butik)”, our add-on service for business users, we place great emphasis on ensuring that, _inter alia_, products, product descriptions and delivery terms for your Butik maintain a high standard. Therefore, in addition to the rules for sellers in force from time to time, Tradera may impose additional requirements on individual Butiks concerning e.g:
 
-*   delivery time;
-*   types of products offered for sale; and
-*   quality of images and product description.
+* delivery time;
+* types of products offered for sale; and
+* quality of images and product description.
 
 If additional terms and conditions are relevant to your Butik, you will be requested to make corrections. If, following such request, you have not made the necessary corrections within the time limit set out under section "_Changes to agreements if you are a business user" below_, Tradera is entitled to immediately limit or prohibit access to and use of the add-on service according to the terms set out in section "_Suspending and restricting a business user's use of the Services_" above. Tradera may then also remove listings or other content that belong to your Butik and take other steps to prevent you from using your Butik. Additional terms and conditions for the add-on service Butik, such as applicable price lists, are available on the [Butik](https://info.tradera.com/en/foretag/#butik) pages on our website. The add-on service Butik is terminable by either you or us on 30 days’ notice.
 
@@ -270,8 +270,8 @@ The notice period may be waived by the business user by means of a written state
 
 A notice period shall not apply if:
 
-*   Tradera is subject to a legal or regulatory obligation which requires it to change its terms and conditions in a manner which does not allow it to respect the notice period; or
-*   Tradera has to change its terms and conditions to address an unforeseen and imminent danger related to defending the Services, consumers or business users from fraud, malware, spam, data breaches or other cybersecurity risks.
+* Tradera is subject to a legal or regulatory obligation which requires it to change its terms and conditions in a manner which does not allow it to respect the notice period; or
+* Tradera has to change its terms and conditions to address an unforeseen and imminent danger related to defending the Services, consumers or business users from fraud, malware, spam, data breaches or other cybersecurity risks.
 
 _No agency or partnership_
 
