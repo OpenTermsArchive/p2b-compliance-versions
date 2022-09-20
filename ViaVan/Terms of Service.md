@@ -1,8 +1,8 @@
 Terms of Use
 ------------
 
-*   [![](https://www.viavan.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png)English](#)
-    *   [![](https://www.viavan.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/de.png)Deutsch (German)](https://www.viavan.com/de/nutzungsbedingungen/)
+* [![](https://www.viavan.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png)English](#)
+    * [![](https://www.viavan.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/de.png)Deutsch (German)](https://www.viavan.com/de/nutzungsbedingungen/)
 
 Effective Date: **26 January 2018**
 
@@ -40,8 +40,8 @@ No one under the age of 18 is allowed to register with or use the Service withou
 
 **Agent of a Company, Entity, or Organization.** If you are using the Service on behalf of a company, entity, or organization (collectively “**Organization**“), then you represent and warrant that you:
 
-1.  are an authorized representative of that Organization;
-2.  have the authority to bind that Organization to these Terms; and
+1. are an authorized representative of that Organization;
+2. have the authority to bind that Organization to these Terms; and
 
 agree to be bound by these Terms on behalf of that Organization.  
 Your Account
@@ -58,7 +58,7 @@ You agree to notify us immediately of any breach in secrecy of your log-in infor
 
 #### Payments and Billing
 
-ViaVan charges a fee (the “**Fee**”) for use of the Service. You will be charged when your Ride is complete, provided that we may pre-authorize and hold an estimated amount of the Fee on your card before the Ride begins. Your payment to us as the commercial agent of the transportation provider will discharge your obligation to the transportation provider in respect of the Fee. All Fees are non-refundable. Fees include any applicable VAT. Fees are exclusive of other taxes or government surcharges.
+ViaVan charges a fee (the “**Fee**”) for use of the Service. You will be charged when your Ride is complete, provided that we may pre-authorize and hold an estimated amount of the Fee on your card before the Ride begins. Your payment to us as the commercial agent of the transportation provider will discharge your obligation to the transportation provider in respect of the Fee. All Fees are non-refundable. Fees include any applicable VAT. Fees are exclusive of other taxes or government surcharges.
 
 **No termination Allowed.** After placing the Reservation, termination is not possible based on articles 6:230p sub d and 230p sub e of the Dutch Civil Code.
 
@@ -104,17 +104,17 @@ You (or the people who allow you to use their content), own all of the content y
 
 It is very important that you have permission to use other people’s content, or they (or their parent or guardian) may be able to sue you for violating their legal rights.
 
-1.  **ViaVan Claims No Ownership.** The Service may provide Users with the ability to post content (“**User Content**“). ViaVan claims no ownership or control over User Content. You or a third-party licensor, as appropriate, retain all copyright, patent, and trademark rights to any of the content you post on or through the Service. You are responsible for protecting those rights.
-2.  **ViaVan’s Use of Posted Content on the Service.** By posting User Content on or through the Service, and subject to ViaVan’s Privacy Policy, you grant ViaVan a worldwide, non-exclusive, irrevocable, perpetual, royalty-free, transferable right to license, sublicense, use, view, copy, adapt, sell, transfer, modify, remove, publish, transmit, distribute, broadcast, stream, perform or publicly display your User Content for any purpose without compensation to you, including for the purpose of promoting ViaVan and its services. While we will try our best to not use your User Content in a way that may be objectionable to you, you waive any rights you may have regarding your User Content being altered or manipulated in any way that may be objectionable to you. Please e-mail us at [\[email protected\]](https://www.viavan.com/cdn-cgi/l/email-protection) if you believe your User Content is being used in an objectionable manner and we will do what we reasonably can to remedy such use of your User Content. The license granted in this paragraph will continue even after you stop using the Service. ViaVan reserves the right to refuse to accept, post, display, or transmit any User Content at its sole discretion.
-3.  **You Acquire No Ownership in the Content of ViaVan or Others.** You understand and agree that you will not obtain as a result of your use of the Service, any right, title or interest in or to such content delivered via the Service or in any intellectual property rights (including, without limitation, any copyrights, patents, trademarks, trade secrets or other rights) in the content. ViaVan alone (and its licensors, where applicable) owns all right, title and interest, including all related intellectual property rights, in and to the Service. The Company name, the Company logo, and the product names associated with the Service are trademarks of ViaVan or third parties, and no right or license is granted to use them.
-4.  **You Must Have Rights to the Content You Post.** You represent and warrant that: (i) you own the content posted by you on or through the Service or otherwise have the right to grant the license set forth in these Terms, (ii) the posting and use of your User Content on or through the Service does not violate the privacy rights, publicity rights, copyrights, contract rights, intellectual property rights, or any other rights of any person or entity, and (iii) the posting of User Content on the Service does not result in a breach of contract between you and a third party. You agree to pay for all royalties, fees, and any other monies owing to any person by reason of content you post on or through the Service. You also acknowledge and agree that your User Content is non-confidential and non-proprietary.
-5.  **Additional Licenses.** Certain materials made available for download from or through the Service may be subject to additional or different license terms and conditions. The Service contains content from Users and other ViaVan licensors. Except as provided within these Terms, you may not copy, modify, translate, publish, broadcast, transmit, distribute, perform, display, or sell any content appearing on or through the Service.
+1. **ViaVan Claims No Ownership.** The Service may provide Users with the ability to post content (“**User Content**“). ViaVan claims no ownership or control over User Content. You or a third-party licensor, as appropriate, retain all copyright, patent, and trademark rights to any of the content you post on or through the Service. You are responsible for protecting those rights.
+2. **ViaVan’s Use of Posted Content on the Service.** By posting User Content on or through the Service, and subject to ViaVan’s Privacy Policy, you grant ViaVan a worldwide, non-exclusive, irrevocable, perpetual, royalty-free, transferable right to license, sublicense, use, view, copy, adapt, sell, transfer, modify, remove, publish, transmit, distribute, broadcast, stream, perform or publicly display your User Content for any purpose without compensation to you, including for the purpose of promoting ViaVan and its services. While we will try our best to not use your User Content in a way that may be objectionable to you, you waive any rights you may have regarding your User Content being altered or manipulated in any way that may be objectionable to you. Please e-mail us at [\[email protected\]](https://www.viavan.com/cdn-cgi/l/email-protection) if you believe your User Content is being used in an objectionable manner and we will do what we reasonably can to remedy such use of your User Content. The license granted in this paragraph will continue even after you stop using the Service. ViaVan reserves the right to refuse to accept, post, display, or transmit any User Content at its sole discretion.
+3. **You Acquire No Ownership in the Content of ViaVan or Others.** You understand and agree that you will not obtain as a result of your use of the Service, any right, title or interest in or to such content delivered via the Service or in any intellectual property rights (including, without limitation, any copyrights, patents, trademarks, trade secrets or other rights) in the content. ViaVan alone (and its licensors, where applicable) owns all right, title and interest, including all related intellectual property rights, in and to the Service. The Company name, the Company logo, and the product names associated with the Service are trademarks of ViaVan or third parties, and no right or license is granted to use them.
+4. **You Must Have Rights to the Content You Post.** You represent and warrant that: (i) you own the content posted by you on or through the Service or otherwise have the right to grant the license set forth in these Terms, (ii) the posting and use of your User Content on or through the Service does not violate the privacy rights, publicity rights, copyrights, contract rights, intellectual property rights, or any other rights of any person or entity, and (iii) the posting of User Content on the Service does not result in a breach of contract between you and a third party. You agree to pay for all royalties, fees, and any other monies owing to any person by reason of content you post on or through the Service. You also acknowledge and agree that your User Content is non-confidential and non-proprietary.
+5. **Additional Licenses.** Certain materials made available for download from or through the Service may be subject to additional or different license terms and conditions. The Service contains content from Users and other ViaVan licensors. Except as provided within these Terms, you may not copy, modify, translate, publish, broadcast, transmit, distribute, perform, display, or sell any content appearing on or through the Service.
 
 #### Copyright Policy
 
 ViaVan respects the intellectual property rights of others and expects its users to do the same. Tell us if you think a user has violated your copyright using the Service, or if you think someone incorrectly reported that you violated his or her copyright.
 
-1.  The Dutch Copyright Act and Book 6 of the Dutch Civil Code provides recourse for copyright owners who believe that material appearing on the Internet infringes their rights under Dutch copyright law. If you believe in good faith that materials posted on the Service infringe your copyright, you (or your agent) may send ViaVan a “Notification of Claimed Infringement” requesting that the material be removed, or access to it blocked. The notice must include the following information:
+1. The Dutch Copyright Act and Book 6 of the Dutch Civil Code provides recourse for copyright owners who believe that material appearing on the Internet infringes their rights under Dutch copyright law. If you believe in good faith that materials posted on the Service infringe your copyright, you (or your agent) may send ViaVan a “Notification of Claimed Infringement” requesting that the material be removed, or access to it blocked. The notice must include the following information:
 
 (i) A physical or electronic signature of a person authorized to act on behalf of the owner of the works that have been allegedly infringed;
 
@@ -128,8 +128,8 @@ ViaVan respects the intellectual property rights of others and expects its users
 
 (vi) A statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
 
-1.  Notices and counter-notices with respect to the Service should be sent to: ViaVan Technologies B.V. Weesperstraat 61, 1018 VN Amsterdam.
-2.  Upon receipt of such notice as described above, ViaVan will take whatever action, in its sole discretion, it deems to be appropriate, including removal of the challenged material from the Service.
+1. Notices and counter-notices with respect to the Service should be sent to: ViaVan Technologies B.V. Weesperstraat 61, 1018 VN Amsterdam.
+2. Upon receipt of such notice as described above, ViaVan will take whatever action, in its sole discretion, it deems to be appropriate, including removal of the challenged material from the Service.
 
 #### Suggestions and Submissions
 
@@ -137,9 +137,9 @@ We appreciate your comments, but if you send us creative ideas, we can use them 
 
 We appreciate hearing from our users and welcome your comments regarding the Service. Please be advised, however, that if you send us creative ideas, suggestions, inventions, enhancement requests, feedback, recommendations or materials (“**Creative Ideas**”), we shall:
 
-1.  own, exclusively, all now known or later discovered rights to the Creative Ideas;
-2.  not be subject to any obligation of confidentiality and shall not be liable for any use or disclosure of any Creative Ideas; and
-3.  be entitled to unrestricted use of the Creative Ideas for any purpose whatsoever, commercial or otherwise, without compensation to you or any other person.
+1. own, exclusively, all now known or later discovered rights to the Creative Ideas;
+2. not be subject to any obligation of confidentiality and shall not be liable for any use or disclosure of any Creative Ideas; and
+3. be entitled to unrestricted use of the Creative Ideas for any purpose whatsoever, commercial or otherwise, without compensation to you or any other person.
 
 #### Third-Party Content Disclaimers, Limitations, and Prohibitions
 
@@ -151,15 +151,15 @@ Do not do bad things with the Service, try to break it, or steal our hard work.
 
 You agree to use the Service only for its intended purpose. You must use the Service in compliance with all privacy, data protection, intellectual property, and other applicable laws. The following uses of the Service are prohibited. You may not:
 
-1.  attempt to interfere with, harm, reverse engineer, steal from, or gain unauthorized access to the Service, user accounts, or the technology and equipment supporting the Service;
-2.  frame, mirror or link to the Service without permission;
-3.  use data mining, robots, web spiders, viruses or worms or other data gathering devices on or through the Service, including any program which may make multiple server requests per second, or unduly burdens or hinders the operation or performance of the Service;
-4.  post incomplete, false, or misleading information, impersonate another person, or misrepresent your affiliation with a person or entity;
-5.  disclose personal information about another person, or post, send or store infringing, obscene, threatening, libelous or otherwise tortious material, including material that is harmful to children, violates the rights of third parties, or is intended to harass, abuse, or degrade another person;
-6.  sell, transfer, or assign any of your rights to use the Service to a third party without our express written consent;
-7.  post advertising or marketing links or content, including spam or otherwise duplicative and unsolicited messages, except as specifically allowed by these Terms;
-8.  use the Service in an illegal way or to commit an illegal act in relation to the Service or that otherwise results in fines, penalties, and other liability to ViaVan or others; or
-9.  access the Service from a jurisdiction where it is illegal or unauthorized.
+1. attempt to interfere with, harm, reverse engineer, steal from, or gain unauthorized access to the Service, user accounts, or the technology and equipment supporting the Service;
+2. frame, mirror or link to the Service without permission;
+3. use data mining, robots, web spiders, viruses or worms or other data gathering devices on or through the Service, including any program which may make multiple server requests per second, or unduly burdens or hinders the operation or performance of the Service;
+4. post incomplete, false, or misleading information, impersonate another person, or misrepresent your affiliation with a person or entity;
+5. disclose personal information about another person, or post, send or store infringing, obscene, threatening, libelous or otherwise tortious material, including material that is harmful to children, violates the rights of third parties, or is intended to harass, abuse, or degrade another person;
+6. sell, transfer, or assign any of your rights to use the Service to a third party without our express written consent;
+7. post advertising or marketing links or content, including spam or otherwise duplicative and unsolicited messages, except as specifically allowed by these Terms;
+8. use the Service in an illegal way or to commit an illegal act in relation to the Service or that otherwise results in fines, penalties, and other liability to ViaVan or others; or
+9. access the Service from a jurisdiction where it is illegal or unauthorized.
 
 #### Consequences of Violating These Terms
 
