@@ -281,7 +281,7 @@ Spotify USA Inc.
 
 New York, NY 10007 USA
 
-*   or -
+* or -
 
 Spotify AB
 
