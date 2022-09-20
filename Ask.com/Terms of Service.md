@@ -12,25 +12,25 @@ These Terms of Service may change from time to time, without any notice other th
 
 Links to the various sections in these Terms of Service are provided below for your convenience.
 
-1.  [Privacy](#link1)
-2.  [Your License to Access Content on Site](#link2)
-3.  [Age Restriction](#link3)
-4.  [Code of Conduct](#link4)
-5.  [Use the Site and Services at Your Own Risk](#link5)
-6.  [Modifications to the Services](#link6)
-7.  [Termination of Your Access to the Services](#link7)
-8.  [Disclaimers](#link8)
-9.  [Limitation of Liability](#link9)
-10.  [Indemnification](#link10)
-11.  [Copyright and Trademark Protection](#link11)
-12.  [Notice for Claims of Copyright Infringement](#link12)
-13.  [Applicable Law](#link13)
-14.  [Binding Arbitration and Class Action Waiver](#link14)
-15.  [Severability of These Terms of Service](#link15)
-16.  [Limitation of Actions Brought Against AMG](#link16)
-17.  [Third Party Beneficiaries](#link17)
-18.  [Section Titles](#link18)
-19.  [Contact Information](#link19)
+1. [Privacy](#link1)
+2. [Your License to Access Content on Site](#link2)
+3. [Age Restriction](#link3)
+4. [Code of Conduct](#link4)
+5. [Use the Site and Services at Your Own Risk](#link5)
+6. [Modifications to the Services](#link6)
+7. [Termination of Your Access to the Services](#link7)
+8. [Disclaimers](#link8)
+9. [Limitation of Liability](#link9)
+10. [Indemnification](#link10)
+11. [Copyright and Trademark Protection](#link11)
+12. [Notice for Claims of Copyright Infringement](#link12)
+13. [Applicable Law](#link13)
+14. [Binding Arbitration and Class Action Waiver](#link14)
+15. [Severability of These Terms of Service](#link15)
+16. [Limitation of Actions Brought Against AMG](#link16)
+17. [Third Party Beneficiaries](#link17)
+18. [Section Titles](#link18)
+19. [Contact Information](#link19)
 
 1\. Privacy
 
@@ -52,32 +52,32 @@ When using any portion of and/or functionality on or through the Sites or Servic
 
 You may not:
 
-*   Copy, modify, create a derivative work of, reverse engineer, reverse assemble or otherwise attempt to discover any source code of the Sites or Services;
-*   Remove or obscure the copyright notice or other notices displayed in connection with the content accessible through the Sites or Services;
-*   Interfere with or disrupt the Sites’ functionalities, Services, or servers and networks connected to Sites, or disobey any requirements, procedures, policies, or regulations of networks connected directly or indirectly to the Sites;
-*   Modify the Sites or Services in any manner or form , or use modified versions of the Sites or Services, including (without limitation) for the purpose of obtaining unauthorized access to the Sites or Services;
-*   Reproduce, print, cache, store or distribute content retrieved from the Sites or Services in any way, for any commercial use without the prior written permission of AMG;
-*   Sell, assign, sublicense, or otherwise transfer any right in the Services or content accessible through the Sites;
-*   Access the Sites or Services by any means other than through the interface that is provided by AMG;
-*   Violate the restrictions in any robot exclusion headers on the Sites or in the Services, if any, or bypass or circumvent other measures employed to prevent or limit access to the Sites or Services;
-*   Collect or store personal data about other users of the Sites or Services;
-*   Engage in any activities that would violate the personal privacy rights of others, including but not limited to, collecting and distributing information about Internet users without their permission, except as permitted by applicable law; or
-*   Use the Sites or Services to violate any law (whether local, state, national, or international), whether or not intentionally.
+* Copy, modify, create a derivative work of, reverse engineer, reverse assemble or otherwise attempt to discover any source code of the Sites or Services;
+* Remove or obscure the copyright notice or other notices displayed in connection with the content accessible through the Sites or Services;
+* Interfere with or disrupt the Sites’ functionalities, Services, or servers and networks connected to Sites, or disobey any requirements, procedures, policies, or regulations of networks connected directly or indirectly to the Sites;
+* Modify the Sites or Services in any manner or form , or use modified versions of the Sites or Services, including (without limitation) for the purpose of obtaining unauthorized access to the Sites or Services;
+* Reproduce, print, cache, store or distribute content retrieved from the Sites or Services in any way, for any commercial use without the prior written permission of AMG;
+* Sell, assign, sublicense, or otherwise transfer any right in the Services or content accessible through the Sites;
+* Access the Sites or Services by any means other than through the interface that is provided by AMG;
+* Violate the restrictions in any robot exclusion headers on the Sites or in the Services, if any, or bypass or circumvent other measures employed to prevent or limit access to the Sites or Services;
+* Collect or store personal data about other users of the Sites or Services;
+* Engage in any activities that would violate the personal privacy rights of others, including but not limited to, collecting and distributing information about Internet users without their permission, except as permitted by applicable law; or
+* Use the Sites or Services to violate any law (whether local, state, national, or international), whether or not intentionally.
 
 You may not send automated queries of any sort to the Sites, including using any software which sends queries to determine how a website or webpage “ranks” for various queries, “meta-searching”, and performing “offline” searches on the Sites.
 
 You agree not to use the Sites or Services to:
 
-*   Post any content that is unlawful, harmful, threatening, abusive, harassing, tortious, defamatory, vulgar, obscene, libelous, hateful, degrades others on the basis of gender, race, class, ethnicity, national origin, religion, sexual preference, disability or other classification or otherwise objectionable in any way;
-*   Harm or threaten to harm anyone in any way;
-*   “Stalk” or otherwise harass any other person or entity;
-*   Impersonate any person or entity (including an AMG agent), or falsely state or otherwise misrepresent your affiliation with any person or entity;
-*   Post any unsolicited or unauthorized advertising, promotional materials, junk mail, spam, chain letters, pyramid schemes, or any other form of solicitation;
-*   Disseminate or transmit any content that (i) violates any law (whether local, state, national, or international), (ii) infringes or violates any copyright, trademark, trade secret, patent or any other proprietary right (including, but not limited to, using third party copyrighted materials or trademarks without appropriate permission or attribution), or (iii) includes third party information (whether or not protected as a trade secret) in violation of a duty of confidentiality;
-*   Disseminate or transmit any worms, viruses or other harmful, disruptive or destructive files, code, programs or other similar technologies; or post any material that contains software viruses or any other computer code, files, programs or other similar technologies designed to interrupt, destroy, or limit the functionality of any computer software or hardware or telecommunications equipment;
-*   Manipulate identifiers in order to disguise the origin of any content or comment you post on or through the Sites and Services;
-*   Post any content that would violate the personal privacy rights of others, including but not limited to revealing personal or private information about others without their permission; or
-*   Facilitate violations of these Terms of Service or the Sites’ Privacy Policies
+* Post any content that is unlawful, harmful, threatening, abusive, harassing, tortious, defamatory, vulgar, obscene, libelous, hateful, degrades others on the basis of gender, race, class, ethnicity, national origin, religion, sexual preference, disability or other classification or otherwise objectionable in any way;
+* Harm or threaten to harm anyone in any way;
+* “Stalk” or otherwise harass any other person or entity;
+* Impersonate any person or entity (including an AMG agent), or falsely state or otherwise misrepresent your affiliation with any person or entity;
+* Post any unsolicited or unauthorized advertising, promotional materials, junk mail, spam, chain letters, pyramid schemes, or any other form of solicitation;
+* Disseminate or transmit any content that (i) violates any law (whether local, state, national, or international), (ii) infringes or violates any copyright, trademark, trade secret, patent or any other proprietary right (including, but not limited to, using third party copyrighted materials or trademarks without appropriate permission or attribution), or (iii) includes third party information (whether or not protected as a trade secret) in violation of a duty of confidentiality;
+* Disseminate or transmit any worms, viruses or other harmful, disruptive or destructive files, code, programs or other similar technologies; or post any material that contains software viruses or any other computer code, files, programs or other similar technologies designed to interrupt, destroy, or limit the functionality of any computer software or hardware or telecommunications equipment;
+* Manipulate identifiers in order to disguise the origin of any content or comment you post on or through the Sites and Services;
+* Post any content that would violate the personal privacy rights of others, including but not limited to revealing personal or private information about others without their permission; or
+* Facilitate violations of these Terms of Service or the Sites’ Privacy Policies
 
 AMG reserves the right to take any action it deems appropriate if it determines, in its sole and absolute discretion, that you have engaged in any of these practices or otherwise violated these Terms of Service. Such action may include terminating your license to access the Sites or use the Services or initiating civil or criminal legal proceedings.
 
@@ -105,21 +105,21 @@ We may terminate your use of the Sites and/or Services or any other features in 
 
 BY USING THE SITE AND SERVICES YOU UNDERSTAND AND AGREE THAT:
 
-*   THE SITES AND SERVICES ARE PROVIDED FOR INFORMATIONAL PURPOSES ONLY. NO CONTENT ON OUR SITE IS INTENDED TO CONSTITUTE PROFESSIONAL ADVICE, WHETHER MEDICAL, FINANCIAL, LEGAL OR OTHERWISE. AMG IS NOT RESPONSIBLE OR LIABLE FOR ANY CONSEQUENCES RELATING DIRECTLY OR INDIRECTLY TO ANY ACTION YOU TAKE OR FAIL TO TAKE BASED ON THE INFORMATION, SERVICES OR OTHER MATERIAL ON THE SITES.
-*   YOUR USE OF THE SITES AND SERVICES IS AT YOUR SOLE RISK. THE SITES AND SERVICES ARE PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS. AMG EXPRESSLY DISCLAIMS ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF TITLE, MERCHANTABILITY, FITNESS FOR ANY PARTICULAR PURPOSE AND NON- INFRINGEMENT.
-*   AMG MAKES NO REPRESENTATION OR WARRANTY THAT THE SITES OR SERVICES WILL MEET YOUR REQUIREMENTS, OR WILL BE UNINTERRUPTED, SECURE, CURRENT OR ERROR-FREE, OR THAT THE SEARCH RESULTS OR CONTENT THAT MAY BE OBTAINED FROM THE USE OF THE SITES AND SERVICES WILL BE ACCURATE, TIMELY, USEFUL OR RELIABLE.
-*   ANY MATERIAL OBTAINED BY YOU THROUGH USE OF THE SITES OR SERVICES IS OBTAINED AT YOUR OWN DISCRETION AND RISK, AND YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO COMPUTER SYSTEMS OR LOSS OF DATA THAT RESULTS FROM YOUR DOWNLOAD OR USE OF ANY THIRD PARTY SOFTWARE OR MATERIAL.
+* THE SITES AND SERVICES ARE PROVIDED FOR INFORMATIONAL PURPOSES ONLY. NO CONTENT ON OUR SITE IS INTENDED TO CONSTITUTE PROFESSIONAL ADVICE, WHETHER MEDICAL, FINANCIAL, LEGAL OR OTHERWISE. AMG IS NOT RESPONSIBLE OR LIABLE FOR ANY CONSEQUENCES RELATING DIRECTLY OR INDIRECTLY TO ANY ACTION YOU TAKE OR FAIL TO TAKE BASED ON THE INFORMATION, SERVICES OR OTHER MATERIAL ON THE SITES.
+* YOUR USE OF THE SITES AND SERVICES IS AT YOUR SOLE RISK. THE SITES AND SERVICES ARE PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS. AMG EXPRESSLY DISCLAIMS ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF TITLE, MERCHANTABILITY, FITNESS FOR ANY PARTICULAR PURPOSE AND NON- INFRINGEMENT.
+* AMG MAKES NO REPRESENTATION OR WARRANTY THAT THE SITES OR SERVICES WILL MEET YOUR REQUIREMENTS, OR WILL BE UNINTERRUPTED, SECURE, CURRENT OR ERROR-FREE, OR THAT THE SEARCH RESULTS OR CONTENT THAT MAY BE OBTAINED FROM THE USE OF THE SITES AND SERVICES WILL BE ACCURATE, TIMELY, USEFUL OR RELIABLE.
+* ANY MATERIAL OBTAINED BY YOU THROUGH USE OF THE SITES OR SERVICES IS OBTAINED AT YOUR OWN DISCRETION AND RISK, AND YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO COMPUTER SYSTEMS OR LOSS OF DATA THAT RESULTS FROM YOUR DOWNLOAD OR USE OF ANY THIRD PARTY SOFTWARE OR MATERIAL.
 
 9\. Limitation of Liability
 
 YOU UNDERSTAND AND AGREE THAT AMG, AND ITS SISTER COMPANIES AND AFFILIATES, AND THEIR OFFICERS, DIRECTORS, EMPLOYEES AND AGENTS, ARE NOT LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY OR PUNITIVE DAMAGES, INCLUDING, BUT NOT LIMITED TO, ANY LOSS OF USE, LOSS OF PROFITS, LOSS OF DATA, LOSS OF GOODWILL, COST OF PROCUREMENT OF SUBSTITUTE SERVICES, OR ANY OTHER INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY OR PUNITIVE DAMAGES, HOWSOEVER CAUSED, AND ON ANY THEORY OF LIABILITY, WHETHER FOR BREACH OF CONTRACT, TORT (INCLUDING NEGLIGENCE AND STRICT LIABILITY), OR OTHERWISE RESULTING FROM:
 
-*   THE USE OF, OR THE INABILITY TO USE, THE SITES OR SERVICES,
-*   THE COST OF PROCUREMENT OF SUBSTITUTE SERVICES,
-*   UNAUTHORIZED ACCESS TO OR ALTERATION OF YOUR TRANSMISSIONS OF DATA,
-*   THE STATEMENTS OR CONDUCT OF ANY THIRD PARTY ON THE SITES,
-*   RELIANCE ON CONTENT OR POSTINGS ON THE SITES, OR
-*   ANY OTHER MATTER RELATING TO THE SITES OR SERVICES.
+* THE USE OF, OR THE INABILITY TO USE, THE SITES OR SERVICES,
+* THE COST OF PROCUREMENT OF SUBSTITUTE SERVICES,
+* UNAUTHORIZED ACCESS TO OR ALTERATION OF YOUR TRANSMISSIONS OF DATA,
+* THE STATEMENTS OR CONDUCT OF ANY THIRD PARTY ON THE SITES,
+* RELIANCE ON CONTENT OR POSTINGS ON THE SITES, OR
+* ANY OTHER MATTER RELATING TO THE SITES OR SERVICES.
 
 THESE LIMITATIONS WILL APPLY WHETHER OR NOT AMG HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED REMEDY.
 
@@ -139,12 +139,12 @@ AMG respects the intellectual property rights of others and requires those that 
 
 If you believe that your work has been used on the Sites or in connection with the Services in any manner that constitutes copyright infringement, please notify AMG’s copyright agent by written notice. The notice should include the following information:
 
-*   An electronic or physical signature of a person authorized to act on behalf of the owner of the copyright allegedly infringed;
-*   A description of the copyrighted work you claim has been infringed, including a copy of the copyrighted work or the web page address where the copyrighted work may be found;
-*   Identification of the location on the Sites or Services of the material you claim has been infringed (by copying the URL of the relevant page), or the link or reference to another website that contains the material you claim has been infringed;
-*   Your name, address, telephone number and email address;
-*   A statement by you that you have a good faith belief that the disputed use of the material at issue is not authorized by the copyright owner, the agent of the copyright owner or the law; and
-*   A statement by you that the information in this notification is accurate and a statement, under penalty of perjury, that you are the copyright owner of the material allegedly infringed or authorized to act on the copyright owner’s behalf.
+* An electronic or physical signature of a person authorized to act on behalf of the owner of the copyright allegedly infringed;
+* A description of the copyrighted work you claim has been infringed, including a copy of the copyrighted work or the web page address where the copyrighted work may be found;
+* Identification of the location on the Sites or Services of the material you claim has been infringed (by copying the URL of the relevant page), or the link or reference to another website that contains the material you claim has been infringed;
+* Your name, address, telephone number and email address;
+* A statement by you that you have a good faith belief that the disputed use of the material at issue is not authorized by the copyright owner, the agent of the copyright owner or the law; and
+* A statement by you that the information in this notification is accurate and a statement, under penalty of perjury, that you are the copyright owner of the material allegedly infringed or authorized to act on the copyright owner’s behalf.
 
 The best way to submit a copyright infringement notice and takedown request is to contact us [here](https://help.askmediagroup.com/hc/en-us). The mailing address for Ask’s copyright agent for notice of claims of copyright infringement on the Site and/or in connection with the Services is:
 
@@ -161,10 +161,10 @@ PLEASE READ THIS SECTION CAREFULLY – IT MAY SIGNIFICANTLY AFFECT YOUR LEGAL RI
 
 ARBITRATION IS DIFFERENT FROM COURT; THE RULES, INCLUDING DISCOVERY ARE DIFFERENT AND NO JUDGE OR JURY IS PRESENT AT AN ARBITRATION. THE AWARD IS FINAL AND BINDING AND SUBJECT ONLY TO LIMITED REVIEW BY A COURT.
 
-*   General. Except as otherwise provided in this section 15, by using the Sites and Services, you and AMof California as set forth in section 14 above. You agree to submit to binding arbitration in either San Francisco, California or your county of residence. AMG will agree to commence arbitration in your county of residence. At your written request, AMG will consider any requests to advance or reimburse any arbitration filing fee, or administrative and hearing fees that you are required to pay to pursue a claim in arbitration. The arbitrator will decide who will ultimately be responsible for paying those fees. In no event will you be required to reimburse AMG for any arbitration filing, administrative, or hearing fees in an amount greater than what your court costs would have been if the claim had been resolved in court. Any award in an arbitration initiated under this clause shall be limited to monetary damages and shall include no injunction or direction to any party other than the direction to pay a monetary amount. Further, the arbitrator(s) shall have no authority to award punitive, consequential or other damages not measured by the prevailing party’s actual damages in any arbitration initiated under this section, except as may be required by statute.
-*   Class Action Waiver. Any proceedings to resolve any dispute will be conducted solely on an individual basis. Neither you nor AMG will seek to have any dispute heard as a class action, private attorney general action, or in any other proceeding in which either party acts or proposes to act in a representative capacity. No arbitration proceeding may be combined with another without the prior written consent of all parties to the applicable proceeding.
-*   NO RIGHT TO JURY TRIAL FOR ARBITRAL CLAIM. YOU AND AMG ALSO HEREBY WAIVE THE RIGHT TO A JURY TRIAL FOR ANY ARBITRAL CLAIM. IF FOR ANY REASON THIS SECTION 15 IS HELD NOT TO APPLY TO AN ARBITRAL CLAIM, WHETHER SUCH ARBITRAL CLAIM IS AGAINST YOU, AMG, OR AMG INDEMNIFIED PARTIES, BOTH YOU AND AMG STILL AGREE TO WAIVE TRIAL BY JURY FOR THAT ARBITRAL CLAIM. BY USING THE SITE AND/OR SERVICES, YOU EXPRESSLY WAIVE YOUR RIGHT TO A JURY TRIAL.
-*   Exception. Notwithstanding the parties’ decision to resolve all disputes through arbitration, this agreement does not preclude claims by AMG to enforce its intellectual property rights and/or remedy unfair competition, misappropriation of trade secrets, unauthorized access, fraud or computer fraud, and/or industrial espionage. Neither party is precluded from seeking relief in a court located in San Francisco, for provisional remedies, including temporary restraining order, preliminary injunctions, and receiverships, pending arbitraG agree to submit any disputes arising from the use of the Sites or Services or any interpretation, violation, non-performance, termination or invalidity of these Terms of Service or this arbitration provision (including questions of its formation and enforceability) to final and binding arbitration under the Commercial Rules of Arbitration of the American Arbitration Association, which can be found here, by one or more arbitrators appointed in accordance with those Rules. Notwithstanding these rules, however, such proceeding shall be governed by the laws of the state tion or comprehensive litigation, to the extent authorized in this section 15.
+* General. Except as otherwise provided in this section 15, by using the Sites and Services, you and AMof California as set forth in section 14 above. You agree to submit to binding arbitration in either San Francisco, California or your county of residence. AMG will agree to commence arbitration in your county of residence. At your written request, AMG will consider any requests to advance or reimburse any arbitration filing fee, or administrative and hearing fees that you are required to pay to pursue a claim in arbitration. The arbitrator will decide who will ultimately be responsible for paying those fees. In no event will you be required to reimburse AMG for any arbitration filing, administrative, or hearing fees in an amount greater than what your court costs would have been if the claim had been resolved in court. Any award in an arbitration initiated under this clause shall be limited to monetary damages and shall include no injunction or direction to any party other than the direction to pay a monetary amount. Further, the arbitrator(s) shall have no authority to award punitive, consequential or other damages not measured by the prevailing party’s actual damages in any arbitration initiated under this section, except as may be required by statute.
+* Class Action Waiver. Any proceedings to resolve any dispute will be conducted solely on an individual basis. Neither you nor AMG will seek to have any dispute heard as a class action, private attorney general action, or in any other proceeding in which either party acts or proposes to act in a representative capacity. No arbitration proceeding may be combined with another without the prior written consent of all parties to the applicable proceeding.
+* NO RIGHT TO JURY TRIAL FOR ARBITRAL CLAIM. YOU AND AMG ALSO HEREBY WAIVE THE RIGHT TO A JURY TRIAL FOR ANY ARBITRAL CLAIM. IF FOR ANY REASON THIS SECTION 15 IS HELD NOT TO APPLY TO AN ARBITRAL CLAIM, WHETHER SUCH ARBITRAL CLAIM IS AGAINST YOU, AMG, OR AMG INDEMNIFIED PARTIES, BOTH YOU AND AMG STILL AGREE TO WAIVE TRIAL BY JURY FOR THAT ARBITRAL CLAIM. BY USING THE SITE AND/OR SERVICES, YOU EXPRESSLY WAIVE YOUR RIGHT TO A JURY TRIAL.
+* Exception. Notwithstanding the parties’ decision to resolve all disputes through arbitration, this agreement does not preclude claims by AMG to enforce its intellectual property rights and/or remedy unfair competition, misappropriation of trade secrets, unauthorized access, fraud or computer fraud, and/or industrial espionage. Neither party is precluded from seeking relief in a court located in San Francisco, for provisional remedies, including temporary restraining order, preliminary injunctions, and receiverships, pending arbitraG agree to submit any disputes arising from the use of the Sites or Services or any interpretation, violation, non-performance, termination or invalidity of these Terms of Service or this arbitration provision (including questions of its formation and enforceability) to final and binding arbitration under the Commercial Rules of Arbitration of the American Arbitration Association, which can be found here, by one or more arbitrators appointed in accordance with those Rules. Notwithstanding these rules, however, such proceeding shall be governed by the laws of the state tion or comprehensive litigation, to the extent authorized in this section 15.
 
 15\. Severability of These Terms of Service
 
