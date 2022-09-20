@@ -35,25 +35,25 @@ Your Conduct
 
 You may not access or use the GetJar Site or access or use any Materials, services or sites available on or accessible through the GetJar Site, to do any of the following:
 
-*   collect, harvest, mine or engage in any other activity to obtain e-mail addresses, phone numbers, personal information or any other information about others;
-*   use or attempt to gain access to or use another's account, password, GetJar Service, Materials or computer systems or networks connected to any GetJar server or to the GetJar Site without authorization from GetJar, whether through hacking, password mining or any other means;
-*   remove from any Materials posted on the GetJar Site or falsely add to any Materials uploaded to the GetJar Site, any copyright, trademark or other legal or proprietary rights notices, author attributions or other information such as origin or source of such Materials;
-*   access or attempt to access any Materials on the GetJar Site that you are not authorized to access or any Materials through any means not intentionally made available through the GetJar Site or GetJar Services;
-*   make available any files containing GetJar Materials or Third Party Materials where you have not received the necessary licenses to, or all rights (including all intellectual property rights) in and to such GetJar Materials or Third Party Materials, as applicable;
-*   use any Materials posted on the GetJar Site in any manner that violates or infringes any rights (including any intellectual property rights) of any other person;
-*   disrupt or interfere with the security of, or otherwise cause harm to, the GetJar Site, or any services, Materials, systems resources, accounts, passwords, servers or networks connected to or accessible through the GetJar Site or any linked sites;
-*   transmit unsolicited or bulk communications to any GetJar account holder or to any getjar.mobi or affiliated e-mail address or use the GetJar Site as a return address for unsolicited commercial mail originating elsewhere;
-*   post or otherwise submit any software, programs or files that are harmful or disruptive of another's equipment, software or other property, including any corrupted files, time bombs, Trojan horses, viruses and worms;
-*   create a false identity for the purpose of misleading others;
-*   download any Third Party Materials posted on the GetJar Site that you know, or reasonably should know, cannot be legally reproduced, distributed, performed or displayed in such manner;
-*   disrupt, interfere or inhibit any other user from using and enjoying the GetJar Site, any Materials or services accessible through the GetJar Site, or Third Party Sites linked from the GetJar Site;
-*   breach any license terms, guidelines or other codes of conduct applicable to a particular Material or service accessible through the GetJar Site or a particular Third Party Site linked from the GetJar Site;
-*   violate any applicable laws or regulations related to the access to or use of the GetJar Site, or engage in any activity prohibited by these Terms;
-*   post or otherwise submit any topic, name, Material or information that is child pornography, defamatory, excessively violent, harassing, inappropriate, indecent, lascivious, lewd, obscene, profane, racist, unlawful, or otherwise objectionable;
-*   prepare, compile, use, download or otherwise copy any GetJar Site user directory or other user or usage information or any portion thereof, or transmit, provide or otherwise distribute (whether or not for a fee) such directory or information to any third party;
-*   violate the rights of GetJar or any third party (including other users' rights) or abuse, defame, harass, stalk or threaten another; or
-*   use any GetJar domain name as a pseudonymous return e-mail address;
-*   gambling, gaming and/or any other activity with an entry fee and a prize, including, but not limited to casino games, sports betting, horse or greyhound racing, lottery tickets, other ventures that facilitate gambling games of skill (whether or not it is legally defined as a lottery) and sweepstakes unless the operator has obtained prior approval from GetJar and the operator and customers are located exclusively in jurisdictions where such activities are permitted by law.
+* collect, harvest, mine or engage in any other activity to obtain e-mail addresses, phone numbers, personal information or any other information about others;
+* use or attempt to gain access to or use another's account, password, GetJar Service, Materials or computer systems or networks connected to any GetJar server or to the GetJar Site without authorization from GetJar, whether through hacking, password mining or any other means;
+* remove from any Materials posted on the GetJar Site or falsely add to any Materials uploaded to the GetJar Site, any copyright, trademark or other legal or proprietary rights notices, author attributions or other information such as origin or source of such Materials;
+* access or attempt to access any Materials on the GetJar Site that you are not authorized to access or any Materials through any means not intentionally made available through the GetJar Site or GetJar Services;
+* make available any files containing GetJar Materials or Third Party Materials where you have not received the necessary licenses to, or all rights (including all intellectual property rights) in and to such GetJar Materials or Third Party Materials, as applicable;
+* use any Materials posted on the GetJar Site in any manner that violates or infringes any rights (including any intellectual property rights) of any other person;
+* disrupt or interfere with the security of, or otherwise cause harm to, the GetJar Site, or any services, Materials, systems resources, accounts, passwords, servers or networks connected to or accessible through the GetJar Site or any linked sites;
+* transmit unsolicited or bulk communications to any GetJar account holder or to any getjar.mobi or affiliated e-mail address or use the GetJar Site as a return address for unsolicited commercial mail originating elsewhere;
+* post or otherwise submit any software, programs or files that are harmful or disruptive of another's equipment, software or other property, including any corrupted files, time bombs, Trojan horses, viruses and worms;
+* create a false identity for the purpose of misleading others;
+* download any Third Party Materials posted on the GetJar Site that you know, or reasonably should know, cannot be legally reproduced, distributed, performed or displayed in such manner;
+* disrupt, interfere or inhibit any other user from using and enjoying the GetJar Site, any Materials or services accessible through the GetJar Site, or Third Party Sites linked from the GetJar Site;
+* breach any license terms, guidelines or other codes of conduct applicable to a particular Material or service accessible through the GetJar Site or a particular Third Party Site linked from the GetJar Site;
+* violate any applicable laws or regulations related to the access to or use of the GetJar Site, or engage in any activity prohibited by these Terms;
+* post or otherwise submit any topic, name, Material or information that is child pornography, defamatory, excessively violent, harassing, inappropriate, indecent, lascivious, lewd, obscene, profane, racist, unlawful, or otherwise objectionable;
+* prepare, compile, use, download or otherwise copy any GetJar Site user directory or other user or usage information or any portion thereof, or transmit, provide or otherwise distribute (whether or not for a fee) such directory or information to any third party;
+* violate the rights of GetJar or any third party (including other users' rights) or abuse, defame, harass, stalk or threaten another; or
+* use any GetJar domain name as a pseudonymous return e-mail address;
+* gambling, gaming and/or any other activity with an entry fee and a prize, including, but not limited to casino games, sports betting, horse or greyhound racing, lottery tickets, other ventures that facilitate gambling games of skill (whether or not it is legally defined as a lottery) and sweepstakes unless the operator has obtained prior approval from GetJar and the operator and customers are located exclusively in jurisdictions where such activities are permitted by law.
 
 Third Party Materials, Third Party Sites and Third Party Services
 -----------------------------------------------------------------
@@ -115,12 +115,12 @@ Copyrights and Copyright Agents
 
 We respect the intellectual property of others, and we ask our users to do the same. If you believe that your work has been copied in a way that constitutes copyright infringement, or your intellectual property rights have been otherwise violated, please provide our Copyright Agent the following information:
 
-*   an electronic or physical signature of the person authorized to act on behalf of the owner of the copyright or other intellectual property interest;
-*   a description of the copyrighted work or other intellectual property that you claim has been infringed;
-*   a description of where the Material that you claim is infringing is located on the GetJar Site;
-*   your address, telephone number, and email address;
-*   a statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law; and
-*   a statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright or intellectual property owner or authorized to act on the copyright or intellectual property owner's behalf.
+* an electronic or physical signature of the person authorized to act on behalf of the owner of the copyright or other intellectual property interest;
+* a description of the copyrighted work or other intellectual property that you claim has been infringed;
+* a description of where the Material that you claim is infringing is located on the GetJar Site;
+* your address, telephone number, and email address;
+* a statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law; and
+* a statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright or intellectual property owner or authorized to act on the copyright or intellectual property owner's behalf.
 
 Our Agent for notice of claims of copyright or other intellectual property infringement can be reached as follows through email: support@getjar.mobi.
 
