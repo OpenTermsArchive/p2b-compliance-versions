@@ -30,5 +30,5 @@ Use a "Description" meta-tag and write your description accurately and carefully
 Advanced
 --------
 
-*   Add a sitemap and link to it from your welcome page, to help make sure all your webpages are crawled. [Learn how to submit a sitemap to Yahoo Search via robots.txt](https://help.yahoo.com/kb/search-for-desktop/learn-robots-metadata-sln2213.html "See our help article about meta tags and robots.txt to learn how to submit your sitemap to Yahoo Search via robots.txt.").
-*   Since the organic search listings on Yahoo Search are powered in part by Bing, it's helpful to familiarize yourself with the tools available in the [Bing Webmaster Center](https://www.bing.com/toolbox/webmaster/ "Visit the Bing Webmaster Center.").
+* Add a sitemap and link to it from your welcome page, to help make sure all your webpages are crawled. [Learn how to submit a sitemap to Yahoo Search via robots.txt](https://help.yahoo.com/kb/search-for-desktop/learn-robots-metadata-sln2213.html "See our help article about meta tags and robots.txt to learn how to submit your sitemap to Yahoo Search via robots.txt.").
+* Since the organic search listings on Yahoo Search are powered in part by Bing, it's helpful to familiarize yourself with the tools available in the [Bing Webmaster Center](https://www.bing.com/toolbox/webmaster/ "Visit the Bing Webmaster Center.").
