@@ -9,30 +9,30 @@ Lietojot Servisu Vietnē, Lietotājs piekrīt visiem šajā dokumentā minētaji
 
 ### Definīcijas
 
-*   "Uzņēmums" vai "GetaPro" - sabiedrība ar ierobežotu atbildību “City24”, reģistrācijas numurs: 40003692375.
-*   "Vietne" - Uzņēmuma tīmekļa vietne www.getapro.lv, visi dati, informatīvie materiāli un dokumenti, izvietoti tās lapās un apakšlapās.
-*   "Pasūtītājs" - jebkura persona, kura izveidoja Pasūtījumu Izpildītājiem, izmantojot Servisu.
-*   “Biznesa Pasūtītājs» ir Pasūtītājs, reģistrējies vietnē kā juridiska persona.
-*   "Pasūtījums" – darba pieprasījums, kuru izveidoja Pasūtītājs ar Servisa palīdzību.
-*   "Biznesa pasūtījums" ir darbs, ko Biznesa Pasūtītājs iesniedzis, izmantojot GetaPro Vietni.
-*   "Lietotājs" - jebkura persona, kura tiešā vai netiešā veidā izmanto Servisu.
-*   "Serviss" - jebkura procedūra vai pakalpojums, nodrošināts Vietnes Lietotājiem, kas iekļauj, bet neaprobežojas ar informāciju, pakalpojumiem un produktiem, piedāvātiem Vietnē, telefoniski vai ar e-pasta palīdzību.
-*   "Izpildītājs" - jebkura fiziskā vai juridiskā persona, piereģistrēta Vietnē ar mērķi piedāvāt savus pakalpojumus un saņemt Pasūtījumus no Pasūtītājiem.
-*   "Biznesa Izpildītājs" ir Izpildītājs, kurš saņēmis piekļuvi Biznesa pasūtījumiem.
-*   “Rēķins” ir elektronisks rēķins par izpildītāja pakalpojumiem Pasūtījuma izpildei, ko Izpildītājs ģenerējis Vietnē.
-*   "Pakalpojumu sniegšanas līgums" – jebkura vienošanās, panākta starp Izpildītāju un Pasūtītāju par to pakalpojumu sniegšanu, kuri tiks izpildīti nākotnē. Pakalpojumu sniegšanas līgums var būt noslēgts telefoniski, izmantojot īsziņas (SMS), caur e-pastu, ar rakstisko iesniegumu vai līgumu.
-*   "Saturs" - jebkuras publikācijas, ziņojumi, teksti, faili, grafiskie attēli, fotogrāfijas, videomateriāli, skaņu ieraksti un citi datu materiāli.
-*   "Pretendentu saraksts"- Izpildītāju, kuri iesniedza savus piedāvājumus Pasūtītājam, izmantojot Servisu, galīgais saraksts, no kura Pasūtītājs izvēlas, kuru Lietotāju nozīmēt par Izpildītāju savam Pasūtījumam.
-*   "Lietotāja vārds" - Lietotāja e-pasta adrese, kuru viņš izvēlējās reģistrējoties un izmanto to, lietojot Vietni. Vienam un tam pašam Lietotājam aizliegts reģistrēt un izmantot vairākus Lietotāja vārdus
-*   "Parole" - ar Lietotāju izvēlēta simbolu, burtu un ciparu kombinācija, kas kopā ar Lietotāja vārdu nodrošina viņa identifikāciju, lietojot Vietni.
-*   "Komisijas maksa" - komisija par Uzņēmuma Pakalpojumiem, izteikta EUR. Komisijas maksā tiek iekļauts pievienotās vērtības nodoklis (PVN).
-*   "Virtuālais naudas maks" - virtuālais Izpildītāja konts Vietnē, ko izmanto Izpildītājs naudas līdzekļu pārsakaitīšanai, kā priekšapmaksas iemaksu par Komisijas maksu.
-*   "Piesaistīta maksājumu karte" - Izpildītāja debeta vai kredīta maksājumu karte, kas ir piesaistīta Izpildītāja profilam Vietnē, lai veiktu automātiskus Komisijas maksas maksājumus.
-*   "Bonuss" - papildus maksājuma līdzekļi, ko Uzņēmums izsniedz Izpildītājam. Bonuss var tikt izmantots tikai Komisijas maksas apmaksai. Bonuss nevar tikt izņemts no Virtuālā naudas maka reālas naudas veidā.
-*   "Bilance" - naudas līdzekļu atlikums Virtuālajā naudas makā, ieskaitot Bonusu.
-*   "Drošs darījums" - pakalpojums, kas ļauj Pasūtītājam apmaksāt Izpildītāja pakalpojumus par izpildītu pasūtījumu priekšapmaksas veidā, izmantojot PaySera maksājumu servisu (300060819).
-*   "Budžets" - Pasūtītāja piedāvāto un pasūtījumā norādīto Izpildītāja pakalpojumu/darba izmaksas.
-*   "Abonements" - pakalpojumu kopums, ko Uzņēmums sniedz Izpildītājam noteiktā laika periodā par abonementa maksu.
+* "Uzņēmums" vai "GetaPro" - sabiedrība ar ierobežotu atbildību “City24”, reģistrācijas numurs: 40003692375.
+* "Vietne" - Uzņēmuma tīmekļa vietne www.getapro.lv, visi dati, informatīvie materiāli un dokumenti, izvietoti tās lapās un apakšlapās.
+* "Pasūtītājs" - jebkura persona, kura izveidoja Pasūtījumu Izpildītājiem, izmantojot Servisu.
+* “Biznesa Pasūtītājs» ir Pasūtītājs, reģistrējies vietnē kā juridiska persona.
+* "Pasūtījums" – darba pieprasījums, kuru izveidoja Pasūtītājs ar Servisa palīdzību.
+* "Biznesa pasūtījums" ir darbs, ko Biznesa Pasūtītājs iesniedzis, izmantojot GetaPro Vietni.
+* "Lietotājs" - jebkura persona, kura tiešā vai netiešā veidā izmanto Servisu.
+* "Serviss" - jebkura procedūra vai pakalpojums, nodrošināts Vietnes Lietotājiem, kas iekļauj, bet neaprobežojas ar informāciju, pakalpojumiem un produktiem, piedāvātiem Vietnē, telefoniski vai ar e-pasta palīdzību.
+* "Izpildītājs" - jebkura fiziskā vai juridiskā persona, piereģistrēta Vietnē ar mērķi piedāvāt savus pakalpojumus un saņemt Pasūtījumus no Pasūtītājiem.
+* "Biznesa Izpildītājs" ir Izpildītājs, kurš saņēmis piekļuvi Biznesa pasūtījumiem.
+* “Rēķins” ir elektronisks rēķins par izpildītāja pakalpojumiem Pasūtījuma izpildei, ko Izpildītājs ģenerējis Vietnē.
+* "Pakalpojumu sniegšanas līgums" – jebkura vienošanās, panākta starp Izpildītāju un Pasūtītāju par to pakalpojumu sniegšanu, kuri tiks izpildīti nākotnē. Pakalpojumu sniegšanas līgums var būt noslēgts telefoniski, izmantojot īsziņas (SMS), caur e-pastu, ar rakstisko iesniegumu vai līgumu.
+* "Saturs" - jebkuras publikācijas, ziņojumi, teksti, faili, grafiskie attēli, fotogrāfijas, videomateriāli, skaņu ieraksti un citi datu materiāli.
+* "Pretendentu saraksts"- Izpildītāju, kuri iesniedza savus piedāvājumus Pasūtītājam, izmantojot Servisu, galīgais saraksts, no kura Pasūtītājs izvēlas, kuru Lietotāju nozīmēt par Izpildītāju savam Pasūtījumam.
+* "Lietotāja vārds" - Lietotāja e-pasta adrese, kuru viņš izvēlējās reģistrējoties un izmanto to, lietojot Vietni. Vienam un tam pašam Lietotājam aizliegts reģistrēt un izmantot vairākus Lietotāja vārdus
+* "Parole" - ar Lietotāju izvēlēta simbolu, burtu un ciparu kombinācija, kas kopā ar Lietotāja vārdu nodrošina viņa identifikāciju, lietojot Vietni.
+* "Komisijas maksa" - komisija par Uzņēmuma Pakalpojumiem, izteikta EUR. Komisijas maksā tiek iekļauts pievienotās vērtības nodoklis (PVN).
+* "Virtuālais naudas maks" - virtuālais Izpildītāja konts Vietnē, ko izmanto Izpildītājs naudas līdzekļu pārsakaitīšanai, kā priekšapmaksas iemaksu par Komisijas maksu.
+* "Piesaistīta maksājumu karte" - Izpildītāja debeta vai kredīta maksājumu karte, kas ir piesaistīta Izpildītāja profilam Vietnē, lai veiktu automātiskus Komisijas maksas maksājumus.
+* "Bonuss" - papildus maksājuma līdzekļi, ko Uzņēmums izsniedz Izpildītājam. Bonuss var tikt izmantots tikai Komisijas maksas apmaksai. Bonuss nevar tikt izņemts no Virtuālā naudas maka reālas naudas veidā.
+* "Bilance" - naudas līdzekļu atlikums Virtuālajā naudas makā, ieskaitot Bonusu.
+* "Drošs darījums" - pakalpojums, kas ļauj Pasūtītājam apmaksāt Izpildītāja pakalpojumus par izpildītu pasūtījumu priekšapmaksas veidā, izmantojot PaySera maksājumu servisu (300060819).
+* "Budžets" - Pasūtītāja piedāvāto un pasūtījumā norādīto Izpildītāja pakalpojumu/darba izmaksas.
+* "Abonements" - pakalpojumu kopums, ko Uzņēmums sniedz Izpildītājam noteiktā laika periodā par abonementa maksu.
 
 ### Regulējošā likumdošana un jurisdikcija
 
@@ -56,9 +56,9 @@ Lietotāji garantē, ka Vietnes un Servisa izmantošana tiks veikta tikai likum�
 
 Pasūtījumi, Izpildītāju profili, apraksti, atsauksmes un cits saturs nedrīkst:
 
-*   Saturēt nenormatīvu leksiku;
-*   Iekļaut rasistiskus aizvainojumus, seksistiskas piezīmes vai jebkurus citus aizvainojošus izteicienus;
-*   Iekļaut kontaktinformāciju vai saites uz citām vietnēm, izņemot tam īpaši norādītos laukus;
+* Saturēt nenormatīvu leksiku;
+* Iekļaut rasistiskus aizvainojumus, seksistiskas piezīmes vai jebkurus citus aizvainojošus izteicienus;
+* Iekļaut kontaktinformāciju vai saites uz citām vietnēm, izņemot tam īpaši norādītos laukus;
 
 Lietotājs apstiprina. ka viss Saturs, publicēts ar viņu Vietnē; vai nosūtīts ar Servisa palīdzību; vai kādā citā veidā saistīts ar GetaPro, ir pilnībā tās personas, kura šo Saturu radījuši. atbildībā. Lietotājs atbildīgs par visu informāciju, kuru nopublicējis Vietnē, sūta pa e-pastu vai nodrošina tai piekļuvi citā veidā, izmantojot Servisu un savus reģistrācijas datus (Lietotāja vārdu un Paroli). Uzņēmums nenes atbildību tajos gadījumos, kad trešās personas nesankcionēti izmantoja Lietotāja reģistrācijas datus.
 
@@ -100,11 +100,11 @@ Izpildītāji saprot, ka GetaPro nav atbildīgs par atsauksmju Saturu, ko bija a
 
 Lietotājs saprot un apstiprina, ka var saņemt atteikumu konta reģistrēšanai, pasūtījumu izveidei, pasūtījumu piedāvājumu apstiprināšanai, piekļuvei Vietnei un turpmākai Servisa izmantošanai sekojošos gadījumos:
 
-*   ja nesankcionēti bija izmantota jebkura kontaktinformācija (tālruņa numurs, e-pasts, sociālo tīklu konts, uc);
-*   ja tika pielietota necenzēta leksika, bija pamanīta apmelojoša uzvedība, kas aizskar Lietotājus/Uzņēmumu/trešās personas;
-*   ja tika veiktas nelikumīgas darbības, vai cita veida ļaunprātīgi izmantotas reģistrācijas, profila veidošanas un atjaunošanas funkcijas( "Mani dati" Izpildītājiem un "Iestatījumi" Pasūtītājiem);
-*   ja nelikumīgi vai ļaunprātīgi tika izmantota pasūtījumu, piedāvājumu, pakalpojumu pasūtījumam, kā arī pievienoto pie viņiem atsauksmju un komentāru funkcionalitāte;
-*   nelikumīgi un ļaunprātīgi izmantojot jebkura cita Vietnes funkcionalitāti.
+* ja nesankcionēti bija izmantota jebkura kontaktinformācija (tālruņa numurs, e-pasts, sociālo tīklu konts, uc);
+* ja tika pielietota necenzēta leksika, bija pamanīta apmelojoša uzvedība, kas aizskar Lietotājus/Uzņēmumu/trešās personas;
+* ja tika veiktas nelikumīgas darbības, vai cita veida ļaunprātīgi izmantotas reģistrācijas, profila veidošanas un atjaunošanas funkcijas( "Mani dati" Izpildītājiem un "Iestatījumi" Pasūtītājiem);
+* ja nelikumīgi vai ļaunprātīgi tika izmantota pasūtījumu, piedāvājumu, pakalpojumu pasūtījumam, kā arī pievienoto pie viņiem atsauksmju un komentāru funkcionalitāte;
+* nelikumīgi un ļaunprātīgi izmantojot jebkura cita Vietnes funkcionalitāti.
 
 GetaPro veic atsauksmju pārbaudi ar mērķi nodrošināt patiesas atsauksmes, un nodzēš visus komentārus, kas pēc tā apraksta izskatās, kā viltotas. GetaPro nepretendē un negarantē atsauksmju precizitāti vai ticamību. GetaPro, pēc saviem ieskatiem, var dzēst atsauksmi, pēc autora prasības.
 
@@ -164,9 +164,9 @@ Katru reizi, kad izpildītājs apmaksā Komisijas maksu, Izpildītāja Virtuāl�
 
 Izpildītājs var pieprasīt atgriezt brīvo atlikumu no Virtuālā naudas maka, piekrītot atgriešanas noteikumiem:
 
-*   Uzņēmums atgriež naudas līdzekļus 5 darba dienu laikā no pieprasījuma brīža uz izpildītāja maksājumu karti, no kuras tikai veikta pēdējā priekšapmaksa.
-*   Uzņēmums neatgriež naudas līdzekļus, ja Virtuālā naudas maka atlikums ir 1,00€ vai mazāk.
-*   Uzņēmums neatgriež naudas līdzekļus, kas ir rezervēti Komisijas maksas apmaksai, tik ilgi, kamēr Pasūtītājs nav atdevis Pasūtījumu izpildei vai atcēlis Pasūtījumu Vietnē.
+* Uzņēmums atgriež naudas līdzekļus 5 darba dienu laikā no pieprasījuma brīža uz izpildītāja maksājumu karti, no kuras tikai veikta pēdējā priekšapmaksa.
+* Uzņēmums neatgriež naudas līdzekļus, ja Virtuālā naudas maka atlikums ir 1,00€ vai mazāk.
+* Uzņēmums neatgriež naudas līdzekļus, kas ir rezervēti Komisijas maksas apmaksai, tik ilgi, kamēr Pasūtītājs nav atdevis Pasūtījumu izpildei vai atcēlis Pasūtījumu Vietnē.
 
 Ja pēdējo priekšapmaksu Virtuālajā naudas makā Izpildītājs veica vairāk kā pirms 3 mēnešiem, tad naudas līdzekļu vērtība Virtuālajā naudas makā tiks pārskaitīta uz Bonusa kontu, turklāt kopējā bilance paliks nemainīga.
 
@@ -204,8 +204,8 @@ Lietotājs piekrīt un apstiprina, ka Uzņēmums nav atbildīgs par jebkāda vei
 
 Lietotājs piekrīt un apstiprina, ka GetaPro pēc saviem ieskatiem, ir tiesības, (bet ne pienākums) nekavējoties un bez brīdināšanas atslēgt Lietotāja kontu un pārtraukt, vai kādā citā veidā ierobežot piekļuvi Vietnei jebkuru iemeslu dēļ, ja GetaPro uzskata, ka Lietotāja rīcība neatbilst šiem Lietošanas Noteikumiem.
 
-*   Pirmā saņemtā atsauksme Vietnē ir negatīva (Pasūtītājs norādīja, ka neiesaka sadarbību ar šo Izpildītāju)
-*   Kopsummā Izpildītājs bija saņēmis trīs negatīvas atsauksmes (Pasūtītāji norādīja, ka neiesaka sadarbību ar šo Izpildītāju)
+* Pirmā saņemtā atsauksme Vietnē ir negatīva (Pasūtītājs norādīja, ka neiesaka sadarbību ar šo Izpildītāju)
+* Kopsummā Izpildītājs bija saņēmis trīs negatīvas atsauksmes (Pasūtītāji norādīja, ka neiesaka sadarbību ar šo Izpildītāju)
 
 Turklāt, Lietotājs piekrīt, ka GetaPro nenes atbildību Lietotāja vai trešās personas priekšā par piekļuves vai lietošanas ierobežojumiem Vietnei.
 
@@ -213,18 +213,18 @@ Lietotājs piekrīt nemēģināt izmantot Vietni pēc minētajiem piekļuves ier
 
 ### Abonementi
 
-*   Pakalpojumi – Abonements ietver sniegto pakalpojumu kopumu, kas tiek aktivizēti Abonementa iegādes brīdī. Abonementā iekļauto pakalpojumu kopums ir skaidri norādīts sadaļā "Abonementi".
-*   Abonēšanas darbība - Abonēšanas darbības sākums tiek aprēķināts no brīža, kad Izpildītājs samaksā abonēšanas maksu. Izpildītājs var jebkurā brīdī atteikties no Abonementa sadaļā «Abonementi». Izpildītāja Abonēšanas pakalpojumi tiek pārtraukti no nākamās dienas pēc apmaksātā perioda pēdējās dienas.
-*   Izmaksas - katra Abonēšanas veida izmaksas ir norādītas sadaļā “Abonementi”. Visi Izpildītāju veiktie maksājumi Uzņēmumam kā daļa no Abonēšanas maksājuma ietver pievienotās vērtības nodokli (PVN).
-*   Apmaksa - Noklikšķinot uz pogas "Iegādāties", Izpildītājs bez iebildumiem piekrīt Abonēšanas izmaksām un piedāvāto pakalpojumu komplektam, kas iekļauts izvēlētajā Abonementā.
-    *   Apmaksājot Abonementu, pēc noklusējuma tiek iespējota automātiskā atjaunošana. Izpildītājs izsaka savu piekrišanu Abonementa vērtības norakstīšanai pilnā apmērā par nākamo Abonementa termiņu iepriekšējā Abonementa termiņa beigu datumā. Izpildītājs ir tiesīgs atspējot automātiskās Abonementa pagarināšanas iespēju sadaļā «Abonementi».
-    *   Izpildītājs piekrīt, ka, ja apmaksātā Abonementa termiņa pēdējā dienā Izpildītājam nav pietiekami naudas līdzekļu, lai samaksātu nākamo Abonēšanas termiņu, tad Uzņēmums ir tiesīgs apturēt vai atspējot automātisko Abonementa atjaunošanu no dienas, kas seko pēdējai apmaksātā termiņa dienai.
-    *   Maksājot par Abonementu, Izpildītājs piekrīt, ka samaksa par Abonementu nav atmaksājama, un Abonēšanas izmaksas nav atkarīgas no saņemto Pasūtījumu skaita, kā arī no Pakalpojumu izmantošanas vai neizmantošanas abonēšanas laika periodā. Izpildītājs piekrīt, ka Uzņēmums nav atbildīgs un neatgriež līdzekļus, ja Izpildītājs abonēšanas periodā vietnē nav saņēmis Pasūtījumu (-us).
-*   Piekļuves ierobežošana - Izpildītājs apstiprina, ka GetaPro pēc saviem ieskatiem var ierobežot piekļuvi mājaslapas pakalpojumiem, tostarp par apmaksātajiem abonēšanas pakalpojumiem, GetaPro portāla Lietošanas noteikumu sadaļā "Pakalpojuma pārtraukšana" ietvaros. Tajā pašā laikā Izpildītājs piekrīt, ka Uzņēmums nav atbildīgs par jebkādu kaitējumu, ko ar šādām darbībām var radīt Izpildītājam.
-*   PRO Expert un PRO Super abonementu darbība - Izpildītājs saprot un piekrīt, ka:
-    *   iegādājoties PRO Expert vai PRO Super abonementu, Izpildītājs piekrīt, ka viņa kontaktinformācija tiks nodota klientam, kurš veicis tiešu pasūtījumu pie konkrētā Izpildītāja.
-    *   PRO Expert un PRO Super abonementu darbība tiks apturēta, ja virtuālā maka bilance ir negatīva. Pēc bilances papildināšanas abonomenta darbība automātiski atjaunosies.
-    *   Izpildītāji, kuri iegādāsies abonomentu, tiks iekļauti "GetaPro iesaka" sarakstā, ja par saviem piedāvātajiem pakalpojumiem būs saņēmuši tikai pozitīvas atsauksmes.
-    *   Uzņēmums negarantē, ka Izpildītājs būs pastāvīgi redzams “GetaPro iesaka” sarakstā, jo tiks izmantots nejaušas rotācijas princips, kur katrs speciālists tiks uzrādīts tikpat daudz reižu cik pārējie.
-*   Pakalpojumu un cenu izmaiņas - Izpildītājs piekrīt, ka Uzņēmums patur tiesības bez īpaša paziņojuma Lietotājam mainīt vai vienpusēji noteikt jaunas Abonēšanas izmaksas un veidus, termiņus un samaksas kārtību.
-*   Abonementa iegāde neatbrīvo Izpildītāju no Komisijas maksas apmaksas par saņemtu pasūtījumu.
+* Pakalpojumi – Abonements ietver sniegto pakalpojumu kopumu, kas tiek aktivizēti Abonementa iegādes brīdī. Abonementā iekļauto pakalpojumu kopums ir skaidri norādīts sadaļā "Abonementi".
+* Abonēšanas darbība - Abonēšanas darbības sākums tiek aprēķināts no brīža, kad Izpildītājs samaksā abonēšanas maksu. Izpildītājs var jebkurā brīdī atteikties no Abonementa sadaļā «Abonementi». Izpildītāja Abonēšanas pakalpojumi tiek pārtraukti no nākamās dienas pēc apmaksātā perioda pēdējās dienas.
+* Izmaksas - katra Abonēšanas veida izmaksas ir norādītas sadaļā “Abonementi”. Visi Izpildītāju veiktie maksājumi Uzņēmumam kā daļa no Abonēšanas maksājuma ietver pievienotās vērtības nodokli (PVN).
+* Apmaksa - Noklikšķinot uz pogas "Iegādāties", Izpildītājs bez iebildumiem piekrīt Abonēšanas izmaksām un piedāvāto pakalpojumu komplektam, kas iekļauts izvēlētajā Abonementā.
+    * Apmaksājot Abonementu, pēc noklusējuma tiek iespējota automātiskā atjaunošana. Izpildītājs izsaka savu piekrišanu Abonementa vērtības norakstīšanai pilnā apmērā par nākamo Abonementa termiņu iepriekšējā Abonementa termiņa beigu datumā. Izpildītājs ir tiesīgs atspējot automātiskās Abonementa pagarināšanas iespēju sadaļā «Abonementi».
+    * Izpildītājs piekrīt, ka, ja apmaksātā Abonementa termiņa pēdējā dienā Izpildītājam nav pietiekami naudas līdzekļu, lai samaksātu nākamo Abonēšanas termiņu, tad Uzņēmums ir tiesīgs apturēt vai atspējot automātisko Abonementa atjaunošanu no dienas, kas seko pēdējai apmaksātā termiņa dienai.
+    * Maksājot par Abonementu, Izpildītājs piekrīt, ka samaksa par Abonementu nav atmaksājama, un Abonēšanas izmaksas nav atkarīgas no saņemto Pasūtījumu skaita, kā arī no Pakalpojumu izmantošanas vai neizmantošanas abonēšanas laika periodā. Izpildītājs piekrīt, ka Uzņēmums nav atbildīgs un neatgriež līdzekļus, ja Izpildītājs abonēšanas periodā vietnē nav saņēmis Pasūtījumu (-us).
+* Piekļuves ierobežošana - Izpildītājs apstiprina, ka GetaPro pēc saviem ieskatiem var ierobežot piekļuvi mājaslapas pakalpojumiem, tostarp par apmaksātajiem abonēšanas pakalpojumiem, GetaPro portāla Lietošanas noteikumu sadaļā "Pakalpojuma pārtraukšana" ietvaros. Tajā pašā laikā Izpildītājs piekrīt, ka Uzņēmums nav atbildīgs par jebkādu kaitējumu, ko ar šādām darbībām var radīt Izpildītājam.
+* PRO Expert un PRO Super abonementu darbība - Izpildītājs saprot un piekrīt, ka:
+    * iegādājoties PRO Expert vai PRO Super abonementu, Izpildītājs piekrīt, ka viņa kontaktinformācija tiks nodota klientam, kurš veicis tiešu pasūtījumu pie konkrētā Izpildītāja.
+    * PRO Expert un PRO Super abonementu darbība tiks apturēta, ja virtuālā maka bilance ir negatīva. Pēc bilances papildināšanas abonomenta darbība automātiski atjaunosies.
+    * Izpildītāji, kuri iegādāsies abonomentu, tiks iekļauti "GetaPro iesaka" sarakstā, ja par saviem piedāvātajiem pakalpojumiem būs saņēmuši tikai pozitīvas atsauksmes.
+    * Uzņēmums negarantē, ka Izpildītājs būs pastāvīgi redzams “GetaPro iesaka” sarakstā, jo tiks izmantots nejaušas rotācijas princips, kur katrs speciālists tiks uzrādīts tikpat daudz reižu cik pārējie.
+* Pakalpojumu un cenu izmaiņas - Izpildītājs piekrīt, ka Uzņēmums patur tiesības bez īpaša paziņojuma Lietotājam mainīt vai vienpusēji noteikt jaunas Abonēšanas izmaksas un veidus, termiņus un samaksas kārtību.
+* Abonementa iegāde neatbrīvo Izpildītāju no Komisijas maksas apmaksas par saņemtu pasūtījumu.
