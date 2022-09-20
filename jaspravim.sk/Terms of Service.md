@@ -53,33 +53,33 @@ V prípade splnení podmienok získania nového levelu predajcu, bude level preg
 Podmienky a odmeny poskytnutia odznakov kvality Predávajúcim sú nasledovné:  
 **1\. level „KVALITNÝ PREDAJCA“:** odznak kvality s jednou hviezdičkou  
 
-*   na jaspravim.sk registrovaný dlhšie ako 20 dní
-*   kompletne vyplnený profil (okrem povinných údajov aj údaje „o tebe“ a vloženú fotografiu)
-*   pozvať na jaspravim.sk aspoň jedného priateľa, ktorý sa zaregistruje cez pozývací link
-*   zdieľať na sociálnych sieťach aspoň 3 inzeráty
-*   v čase dosiahnutia levelu aspoň jeden aktívny inzerát
-*   obrat min. 50,- EUR
-*   hodnotenie Predávajúceho musí byť min. na úrovni 85%
+* na jaspravim.sk registrovaný dlhšie ako 20 dní
+* kompletne vyplnený profil (okrem povinných údajov aj údaje „o tebe“ a vloženú fotografiu)
+* pozvať na jaspravim.sk aspoň jedného priateľa, ktorý sa zaregistruje cez pozývací link
+* zdieľať na sociálnych sieťach aspoň 3 inzeráty
+* v čase dosiahnutia levelu aspoň jeden aktívny inzerát
+* obrat min. 50,- EUR
+* hodnotenie Predávajúceho musí byť min. na úrovni 85%
 
 Bezpečnostná lehota, v rámci ktorej má Kupujúci možnosť vyjadriť svoju spokojnosť s inzerovaným obsahom Predávajúceho, sa skracuje zo 14 kalendárnych dní na 12 kalendárnych dní, odmeny budú pripísané na konto Predávajúceho už po 12 kalendárnych dňoch od doručenia inzerovaného obsahu.
 
 **2\. level „PROFI PREDAJCA“:** odznak kvality s tromi hviezdičkami  
 
-*   dosiahnutý 1. level „Kvalitného Predajcu“
-*   zdieľať na sociálnych sieťach aspoň 5 inzerátov
-*   v čase dosiahnutia levelu aspoň jeden aktívny inzerát
-*   obrat min. 200,- EUR
-*   hodnotenie Predávajúceho musí byť min. na úrovni 90%
+* dosiahnutý 1. level „Kvalitného Predajcu“
+* zdieľať na sociálnych sieťach aspoň 5 inzerátov
+* v čase dosiahnutia levelu aspoň jeden aktívny inzerát
+* obrat min. 200,- EUR
+* hodnotenie Predávajúceho musí byť min. na úrovni 90%
 
 Bezpečnostná lehota, v rámci ktorej má Kupujúci možnosť vyjadriť svoju spokojnosť s inzerovaným obsahom Predávajúceho, sa skracuje zo 14 kalendárnych dní na 10 kalendárnych dní, odmeny budú pripísané na konto Predávajúceho už po 10 kalendárnych dňoch od doručenia inzerovaného obsahu.
 
 **3\. level „MAJSTER PREDAJCA“:**
 
-*   dosiahnutý 2. level „Profi Predajcu“
-*   zdieľať na sociálnych sieťach aspoň 10 inzerátov
-*   v čase dosiahnutia levelu aspoň jeden aktívny inzerát
-*   obrat min. 500,- EUR
-*   hodnotenie Predávajúceho musí byť min. na úrovni 95%
+* dosiahnutý 2. level „Profi Predajcu“
+* zdieľať na sociálnych sieťach aspoň 10 inzerátov
+* v čase dosiahnutia levelu aspoň jeden aktívny inzerát
+* obrat min. 500,- EUR
+* hodnotenie Predávajúceho musí byť min. na úrovni 95%
 
 Bezpečnostná lehota, v rámci ktorej má Kupujúci možnosť vyjadriť svoju spokojnosť inzerovaným obsahom Predávajúceho, sa skracuje zo 14 kalendárnych dní na 6 kalendárnych dní, odmeny budú pripísané na konto Predávajúceho už po 6 kalendárnych dňoch od doručenia inzerovaného obsahu.
 
@@ -91,12 +91,12 @@ Tento level je pre vybraných užívateľov, ktorí sa registrovali do programu 
 
 Na zaradenie do programu "PRO" musí predávajúci spĺňať nasledujúce podmienky:
 
-*   predajca musí byť SZČO alebo právnická osoba s IČO a DIČ (pri slobodných povolaniach stačí IČO)
-*   pri existujúcich užívateľoch % zrušených objednávok pod 10 %
-*   odpovedať na správy do 1 pracovného dňa
-*   hodnotenie minimálne 4 hviezdičky
-*   Maximálne 1 upozornenie na zdieľanie kontaktov.
-*   Pre užívateľov bez konta na Jaspravim.sk, je vytvorenie konta na Jaspravim.sk nutné.
+* predajca musí byť SZČO alebo právnická osoba s IČO a DIČ (pri slobodných povolaniach stačí IČO)
+* pri existujúcich užívateľoch % zrušených objednávok pod 10 %
+* odpovedať na správy do 1 pracovného dňa
+* hodnotenie minimálne 4 hviezdičky
+* Maximálne 1 upozornenie na zdieľanie kontaktov.
+* Pre užívateľov bez konta na Jaspravim.sk, je vytvorenie konta na Jaspravim.sk nutné.
 
 Zároveň ťa chceme upozorniť, že tvoj level nemáš automaticky navždy, môže sa stať, že pridaním čo i len jedného negatívneho hodnotenia sa ti celkové hodnotenie zníži, prípadne si vypneš inzeráty, nebudeš mať žiadny aktívny inzerát, opäť sa tvoje hodnotenie zníži a takisto sa zníži tvoj level, prípadne o neho prídeš. Tvoj level sa môže znížiť napr. nevhodným správaním, nekomunikáciou s kupujúcim, nedodržiavaním termínov objednávok, nekalím chovaním. Preto si svoj dosiahnutý level váž a chráň.
 
@@ -162,9 +162,9 @@ Môžeš si zvoliť dĺžku topovania na 7 dní, 14 dní alebo 30 dní.
 
 Ceny topovania inzerátov sa odvíjajú od počtu dní, počas ktorých bude inzerát topovaný, nasledovne:  
 
-*   7 dní topovania 4,99 EUR s DPH
-*   14 dní topovania 6,79 EUR s DPH
-*   30 dní topovania 10,39 EUR s DPH
+* 7 dní topovania 4,99 EUR s DPH
+* 14 dní topovania 6,79 EUR s DPH
+* 30 dní topovania 10,39 EUR s DPH
 
 **PROMOVANIE V KATEGÓRII.** Promo v kategórii zvýrazní tvoj inzerát v zozname ponúk bannerom, ktorý vytŕča spomedzi všetkých ponúk. Grafiky pozostáva z fotky inzerátu a krátkeho popisu. Inzerát je promovaný v kategórii do ktorej je zaradený a striedaný v pravidelnej rotácii.
 
@@ -174,9 +174,9 @@ Môžeš si zvoliť dĺžku topovania na 7 dní, 14 dní alebo 30 dní.
 
 Ceny topovania inzerátov sa odvíjajú od počtu dní, počas ktorých bude inzerát topovaný, nasledovne:  
 
-*   7 dní promo v kategórií 9,99 EUR s DPH
-*   14 dní promo v kategórií 15,77 EUR s DPH
-*   30 dní promo v kategórií 20,39 EUR s DPH
+* 7 dní promo v kategórií 9,99 EUR s DPH
+* 14 dní promo v kategórií 15,77 EUR s DPH
+* 30 dní promo v kategórií 20,39 EUR s DPH
 
 Promovanie v kategórii je súčasťou plateného promovania inzerátu.
 
@@ -188,9 +188,9 @@ Môžeš si zvoliť dĺžku topovania na 7 dní, 14 dní alebo 30 dní.
 
 Ceny promovania inzerátov v kategórii sa odvíjajú od počtu dní, počas ktorých bude inzerát promovaný, nasledovne:  
 
-*   7 dní promo v horizontálnom menu 11,99 EUR s DPH
-*   14 dní promo v horizontálnom menu 15,79 EUR s DPH
-*   30 dní promo v horizontálnom menu 21,37 EUR s DPH
+* 7 dní promo v horizontálnom menu 11,99 EUR s DPH
+* 14 dní promo v horizontálnom menu 15,79 EUR s DPH
+* 30 dní promo v horizontálnom menu 21,37 EUR s DPH
 
 Promovanie v horizontálnom menu je súčasťou plateného promovania inzerátu.
 
@@ -198,9 +198,9 @@ Promovanie v horizontálnom menu je súčasťou plateného promovania inzerátu.
 
 Ceny umiestnenia inzerátov v newslettri sa odvíjajú od počtu opakovaní počas ktorých bude inzerát promovaný nasledovne:  
 
-*   1x odoslanie v rámci newslettra 5,99 EUR s DPH
-*   2x odoslanie v rámci newslettra 8,99 EUR s DPH
-*   4x odoslanie v rámci newslettra 10,99 EUR s DPH
+* 1x odoslanie v rámci newslettra 5,99 EUR s DPH
+* 2x odoslanie v rámci newslettra 8,99 EUR s DPH
+* 4x odoslanie v rámci newslettra 10,99 EUR s DPH
 
 Promovanie v newslettri je súčasťou plateného promovania inzerátu.
 
@@ -208,9 +208,9 @@ Promovanie v newslettri je súčasťou plateného promovania inzerátu.
 
 Ceny promo sa odvíjajú podľa počtu opakovaní počas ktorých bude inzerát promovaný nasledovne:  
 
-*   1 promovaný inzerát na Facebook stránke 6,99 EUR s DPH
-*   2 promovaný inzerát na Facebook stránke 10,69 EUR s DPH
-*   4 promovaný inzerát na Facebook stránke 15,99 EUR s DPH
+* 1 promovaný inzerát na Facebook stránke 6,99 EUR s DPH
+* 2 promovaný inzerát na Facebook stránke 10,69 EUR s DPH
+* 4 promovaný inzerát na Facebook stránke 15,99 EUR s DPH
 
 Promovanie na Facebook stránke jaspravim.sk je súčasťou plateného promovania.
 
@@ -224,12 +224,12 @@ Zvýraznenie inzerátov nie je len platenou službou, ale aj odmenou, ktorú jas
 
 Poskytujeme Predávajúcemu body za splnenie nasledovných úloh:  
 
-*   pridanie inzerátu 3 body
-*   zdieľanie inzerátu na sociálnej sieti 10 bodov
-*   pozvanie priateľa na jaspravim.sk 10 bodov
-*   vyplnenie profilu 10 bod
-*   objednanie inzerátu od iného Predávajúceho 15 bodov
-*   úspešné dodanie obsahu inzerátu 20 bodov
+* pridanie inzerátu 3 body
+* zdieľanie inzerátu na sociálnej sieti 10 bodov
+* pozvanie priateľa na jaspravim.sk 10 bodov
+* vyplnenie profilu 10 bod
+* objednanie inzerátu od iného Predávajúceho 15 bodov
+* úspešné dodanie obsahu inzerátu 20 bodov
 
 V prípade zisku dostatočného počtu bodov môže Predávajúci vybrať svoju odmenu, a to tak, že za 200 bodov dostane vybraný inzerát Predávajúceho na 5 dní ikonu NAJ – hviezdičku.
 
@@ -394,15 +394,15 @@ V prípade, že v inzeráte ponúkaný produkt alebo služba je autorským die
 
 Používateľ pri svojej návšteve a ďalšom používaní webových stránok jaspravim.sk môže prevádzkovateľovi poskytnúť svoje osobné údaje. K poskytnutiu osobných údajov používateľa môže dôjsť pri registrácií alebo pri dobrovoľnej registrácii k odberu newsletteru za pomoci takej emailovej adresy, z ktorej možno určiť jeho totožnosť, alebo pri dobrovoľnom vyplnení registračné formulára spojeného s vybraným obsahom webových stránok jaspravim.sk. Osobné údaje, ktoré môže používateľ poskytnúť prevádzkovateľovi, sú:
 
-*   meno a priezvisko
-*   emailový kontakt
-*   telefonický kontakt
-*   adresa bydliska alebo dodacia adresa používateľa.
+* meno a priezvisko
+* emailový kontakt
+* telefonický kontakt
+* adresa bydliska alebo dodacia adresa používateľa.
 
 Používateľ pre takéto prípady výslovne súhlasí so:
 
-*   spracovaním získaných osobných údajov,
-*   použitím získaných osobných údajov v rozsahu nevyhnutnom pre dosiahnutie účelu stanoveného v tomto článku.
+* spracovaním získaných osobných údajov,
+* použitím získaných osobných údajov v rozsahu nevyhnutnom pre dosiahnutie účelu stanoveného v tomto článku.
 
 Súhlas používateľa podľa predošlého odseku nadobúda platnosť okamihom dobrovoľného poskytnutia osobných údajov a trvá po dobu dvoch rokov. V prípade registrácie používateľa k odberu newsletteru tento súhlas platí po dobu trvania registrácie ako i po dobu dvoch rokov od jej skončenia. Upozorňujeme, že údaje potrebné pre fakturácie nemožno z účtovných dôvodov vymazať ani zmeniť.
 
@@ -416,33 +416,33 @@ Oprávnenou osobou sa rozumie osoba, ktorá prichádza do styku s osobnými úda
 
 Osobné údaje používateľa môžu byť poskytnuté nasledujúcim 3. osobám, a to pre účely umožnenia komunikácie medzi takouto osobou a používateľom:
 
-*   GS Mark, s.r.o., IČO: 36 052 094, A. Hlinku 905/14, 962 12 Detva
+* GS Mark, s.r.o., IČO: 36 052 094, A. Hlinku 905/14, 962 12 Detva
     
-*   Ezmid, s.r.o., IČO: 48 164 887, Moyzesova 42, 01001 Žilina
+* Ezmid, s.r.o., IČO: 48 164 887, Moyzesova 42, 01001 Žilina
     
-*   Heger & Partners, s.r.o., IČO: 36 647 489, Na Troskách 3, 97401 Banská Bystrica
+* Heger & Partners, s.r.o., IČO: 36 647 489, Na Troskách 3, 97401 Banská Bystrica
     
-*   Dataconcept, s.r.o., IČO: 50 023 497, Pribinova 25, 811 09 Bratislava
+* Dataconcept, s.r.o., IČO: 50 023 497, Pribinova 25, 811 09 Bratislava
     
 
 Práva používateľa v súvislosti s ochranou osobných údajov upravuje zákon č. 18/2018 Z. z., v znení neskorších predpisov (ďalej len “ZOOÚ“). Používateľ má najmä právo na základe písomnej žiadosti adresovanej prevádzkovateľovi požadovať:
 
-*   potvrdenie, či sú alebo nie sú osobné údaje o ňom spracúvané,
-*   vo všeobecne zrozumiteľnej forme informácie o spracúvaní osobných údajov v informačnom systéme v rozsahu podľa ZOOÚ; pri vydaní rozhodnutia podľa ZOOÚ je používateľ oprávnený oboznámiť sa s postupom spracúvania a vyhodnocovania operácií,
-*   vo všeobecne zrozumiteľnej forme presné informácie o zdroji, z ktorého získal jeho osobné údaje na spracúvanie,
-*   vo všeobecne zrozumiteľnej forme zoznam jeho osobných údajov, ktoré sú predmetom spracúvania,
-*   opravu alebo likvidáciu svojich nesprávnych, neúplných alebo neaktuálnych osobných údajov, ktoré sú predmetom spracúvania,
-*   likvidáciu jeho osobných údajov, ktorých účel spracúvania sa skončil; ak sú predmetom spracúvania úradné doklady obsahujúce osobné údaje, môže požiadať o ich vrátenie,
-*   likvidáciu jeho osobných údajov, ktoré sú predmetom spracúvania, ak došlo k porušeniu zákona,
-*   blokovanie jeho osobných údajov z dôvodu odvolania súhlasu pred uplynutím času jeho platnosti, ak prevádzkovateľ spracúva osobné údaje na základe súhlasu používateľa.
+* potvrdenie, či sú alebo nie sú osobné údaje o ňom spracúvané,
+* vo všeobecne zrozumiteľnej forme informácie o spracúvaní osobných údajov v informačnom systéme v rozsahu podľa ZOOÚ; pri vydaní rozhodnutia podľa ZOOÚ je používateľ oprávnený oboznámiť sa s postupom spracúvania a vyhodnocovania operácií,
+* vo všeobecne zrozumiteľnej forme presné informácie o zdroji, z ktorého získal jeho osobné údaje na spracúvanie,
+* vo všeobecne zrozumiteľnej forme zoznam jeho osobných údajov, ktoré sú predmetom spracúvania,
+* opravu alebo likvidáciu svojich nesprávnych, neúplných alebo neaktuálnych osobných údajov, ktoré sú predmetom spracúvania,
+* likvidáciu jeho osobných údajov, ktorých účel spracúvania sa skončil; ak sú predmetom spracúvania úradné doklady obsahujúce osobné údaje, môže požiadať o ich vrátenie,
+* likvidáciu jeho osobných údajov, ktoré sú predmetom spracúvania, ak došlo k porušeniu zákona,
+* blokovanie jeho osobných údajov z dôvodu odvolania súhlasu pred uplynutím času jeho platnosti, ak prevádzkovateľ spracúva osobné údaje na základe súhlasu používateľa.
 
 Práva používateľa môžu byť obmedzené iba ak takéto obmedzenie vyplýva z osobitného zákona alebo jeho uplatnením by bola porušená ochrana používateľa, alebo by boli porušené práva a slobody iných dotknutých osôb.
 
 Používateľ má na základe písomnej žiadosti právo u prevádzkovateľa namietať voči:
 
-*   spracúvaniu jeho osobných údajov na iný účel ako je účel stanovený v týchto podmienkach,
-*   spracúvaniu jeho osobných údajov, o ktorých predpokladá, že sú alebo budú spracúvané na účely priameho marketingu bez jeho súhlasu, a žiadať ich likvidáciu,
-*   využívaniu osobných údajov uvedených v § 27 ods. 2 ZOOÚ na účely priameho marketingu v poštovom styku, alebo
+* spracúvaniu jeho osobných údajov na iný účel ako je účel stanovený v týchto podmienkach,
+* spracúvaniu jeho osobných údajov, o ktorých predpokladá, že sú alebo budú spracúvané na účely priameho marketingu bez jeho súhlasu, a žiadať ich likvidáciu,
+* využívaniu osobných údajov uvedených v § 27 ods. 2 ZOOÚ na účely priameho marketingu v poštovom styku, alebo
 
 Používateľ na základe písomnej žiadosti alebo osobne, ak vec neznesie odklad, ďalej má právo u prevádzkovateľa kedykoľvek namietať a nepodrobiť sa rozhodnutiu prevádzkovateľa, ktoré by malo preňho právne účinky alebo významný dosah, ak sa také rozhodnutie vydá výlučne na základe úkonov automatizovaného spracúvania jeho osobných údajov. Používateľ má právo žiadať prevádzkovateľa o preskúmanie vydaného rozhodnutia metódou odlišnou od automatizovanej formy spracúvania, pričom prevádzkovateľ je povinný žiadosti používateľa vyhovieť, a to tak, že rozhodujúcu úlohu pri preskúmaní rozhodnutia bude mať oprávnená osoba.
 
@@ -452,10 +452,10 @@ Informačný systém prevádzkovateľa bol oznámený Úradu na ochranu osobnýc
 
 Používateľ berie na vedomie, že pri použití webových stránok jaspravim.sk, môže dochádzať k ukladaniu súborov cookies na elektronickom zariadení, pomocou ktorého používateľ k týmto stránkam pristupuje. Požívateľ má vždy možnosť vyjadriť svoj súhlas alebo odmietnuť ukladanie súborov cookies.V prípade udelenia súhlasu môžu byť na elektronickom zariadení používateľa ukladané:
 
-*   dočasné súbory cookies, ktoré sa pri vypnutí internetového prehliadača používateľa automaticky vymažú,
-*   dlhodobé súbory cookies, ktoré v internetovom prehliadači používateľa zostávajú zachované aj po vypnutí zariadenia, pomocou ktorého používateľ pristupuje k webovým stránkam jaspravim.sk.
-*   Svojím súhlasom používateľ zároveň povoľuje, aby prevádzkovateľ súbory cookies využil na vlastné reklamné alebo štatistické účely. Súhlas používateľa trvá po dobu zachovania nastavení jeho internetového prehliadača. Zmenou nastavení internetového prehliadača používateľa alebo zákazom používania súborov cookies súhlas používateľa zaniká.
-*   Prevádzkovateľ nenesie zodpovednosť za ukladanie súborov cookies na internetových stránkach 3. osôb.
+* dočasné súbory cookies, ktoré sa pri vypnutí internetového prehliadača používateľa automaticky vymažú,
+* dlhodobé súbory cookies, ktoré v internetovom prehliadači používateľa zostávajú zachované aj po vypnutí zariadenia, pomocou ktorého používateľ pristupuje k webovým stránkam jaspravim.sk.
+* Svojím súhlasom používateľ zároveň povoľuje, aby prevádzkovateľ súbory cookies využil na vlastné reklamné alebo štatistické účely. Súhlas používateľa trvá po dobu zachovania nastavení jeho internetového prehliadača. Zmenou nastavení internetového prehliadača používateľa alebo zákazom používania súborov cookies súhlas používateľa zaniká.
+* Prevádzkovateľ nenesie zodpovednosť za ukladanie súborov cookies na internetových stránkach 3. osôb.
 
 Predávajúci sú taktiež povinní zachovávať mlčanlivosť o všetkých skutočnostiach, ktoré sa dozvedel v súvislosti s realizáciou práv a povinností z právnych vzťahov vznikajúcich medzi registrovanými používateľmi navzájom.
 
@@ -489,15 +489,15 @@ Jaspravim.sk vráti Kupujúcemu už zaplatenú cenu za produkt alebo službu (vr
 
 **Kupujúci nemôže odstúpiť od zmluvy:**  
 
-*   ak je predmetom kúpa elektronického obsahu inak ako na hmotnom nosiči súhlasí s jeho dodaním v prípade, že zrealizoval platbu a bola mu služba doručená. Podľa §7 ods.6 písmeno l zákona o 102/2014 o ochrane spotrebiteľa pri predaji tovaru alebo poskytovaní služieb na základe zmluvy uzavretej na diaľku alebo zmluvy uzavretej mimo prevádzkových priestorov
-*   ak jej predmetom je poskytnutie služby a už došlo k jej úplnému poskytnutiu (na základe výslovného súhlasu Kupujúceho),
-*   ak jej predmetom je produkt zhotovený podľa osobitných požiadaviek Kupujúceho produkt vyrobený na mieru alebo produkt určený osobitne pre jedného spotrebiteľa,
-*   ak jej predmetom je elektronický obsah neposkytovaný na hmotnom nosiči, ak už došlo k jeho poskytnutiu (na základe výslovného súhlasu Kupujúceho).
+* ak je predmetom kúpa elektronického obsahu inak ako na hmotnom nosiči súhlasí s jeho dodaním v prípade, že zrealizoval platbu a bola mu služba doručená. Podľa §7 ods.6 písmeno l zákona o 102/2014 o ochrane spotrebiteľa pri predaji tovaru alebo poskytovaní služieb na základe zmluvy uzavretej na diaľku alebo zmluvy uzavretej mimo prevádzkových priestorov
+* ak jej predmetom je poskytnutie služby a už došlo k jej úplnému poskytnutiu (na základe výslovného súhlasu Kupujúceho),
+* ak jej predmetom je produkt zhotovený podľa osobitných požiadaviek Kupujúceho produkt vyrobený na mieru alebo produkt určený osobitne pre jedného spotrebiteľa,
+* ak jej predmetom je elektronický obsah neposkytovaný na hmotnom nosiči, ak už došlo k jeho poskytnutiu (na základe výslovného súhlasu Kupujúceho).
 
 Kupujúci zodpovedá len za zníženie hodnoty produktu, ktoré vzniklo v dôsledku takého zaobchádzania s produktom, ktoré je nad rámec zaobchádzania potrebného na zistenie vlastností a funkčnosti produktu. Jaspravim.sk však Kupujúcim odporúča v prípade nespokojnosti s dodaným inzerovaným obsahom pred využitím svojho práva odstúpiť od Zmluvy o dielo využiť jednoduchšie možnosti ponúkané systémom Jaspravim:  
 
-*   zrušenie objednávky bez akejkoľvek sankcie a s garanciou vrátenia peňazí alebo náprava
-*   – kontaktovať Predávajúcich s požiadavkou na zapracovanie pripomienok a opätovné dodanie objednaného inzerovaného obsahu.
+* zrušenie objednávky bez akejkoľvek sankcie a s garanciou vrátenia peňazí alebo náprava
+* – kontaktovať Predávajúcich s požiadavkou na zapracovanie pripomienok a opätovné dodanie objednaného inzerovaného obsahu.
 
 Kupujúci má právo obrátiť sa na Predávajúceho so žiadosťou o nápravu (e-mailom na ), ak nie je spokojný so spôsobom, ktorým jaspravim.sk vybavilo jeho reklamáciu alebo ak sa domnieva, že Predávajúci porušil jeho práva. Ak Predávajúci odpovie na túto žiadosť zamietavo alebo na ňu neodpovie do 30 dní od jej odoslania, Kupujúci má právo podať návrh na začatie alternatívneho riešenia sporu subjektu alternatívneho riešenia sporov (ďalej len subjekt ARS) podľa zákona 391/2015 Z.z. ARS subjektami sú orgány a oprávnené právnické osoby podľa §3 zákona 391/2015 Z.z. Návrh môže spotrebiteľ podať spôsobom určeným podľa §12 Zákona 391/2015 Z.z.
 
@@ -537,21 +537,21 @@ Na zákaznícky servis jaspravim.sk sa môže kedykoľvek obrátiť registrovan�
 
 **Kontaktné údaje Prevádzkovateľa sú nasledovné:**  
 
-*   adresa pre doručovanie: Gami 5 s.r.o. Panenská 13,81103 Bratislava
-*   IČO: 46442995, DIČ: 2820012063, IČ DPH: SK2820012063
-*   e-mailová adresa:
+* adresa pre doručovanie: Gami 5 s.r.o. Panenská 13,81103 Bratislava
+* IČO: 46442995, DIČ: 2820012063, IČ DPH: SK2820012063
+* e-mailová adresa:
 
 Kontrolnými orgánmi, na ktoré sa možno obrátiť so sťažnosťami a podnetmi, sú miestne príslušné živnostenské úrady, v ktorých pôsobnosti je kontrola dodržiavania povinností, ktoré pre podnikateľov vyplývajú zo živnostenského zákona a z osobitných predpisov, ak sa vzťahujú na živnostenské podnikanie, ďalej Úrad pre ochranu osobných údajov, v ktorého pôsobnosti je dozor nad ochranou osobných údajov a podieľa sa na ochrane základných práv a slobôd fyzických osôb pri spracúvaní ich osobných údajov, a napokon Slovenská obchodná inšpekcia, v ktorej pôsobnosti je o. i. dozor nad dodržiavaním právnych predpisov ochrany spotrebiteľa.
 
 Tieto VOP boli spracované v súlade so:  
 
-*   zákonom č. 40/1964 Zb., Občiansky zákonník v znení neskorších predpisov,
-*   zákonom č. 513/1991 Zb., Obchodný zákonník v znení neskorších predpisov,
-*   zákonom č. 618/2003 Z. z. o autorskom práve a právach súvisiacich s autorským právom (autorský zákon) v znení neskorších predpisov,
-*   zákonom č. 250/2007 Z. z. o ochrane spotrebiteľa v znení neskorších predpisov,
-*   zákonom č. 102/2014 Z. z. o ochrane spotrebiteľa pri predaji tovaru alebo poskytovaní služieb na základe zmluvy uzavretej na diaľku alebo zmluvy uzavretej mimo prevádzkových priestorov predávajúceho,
-*   zákonom č. 22/2004 Z. z. o elektronickom obchode v znení neskorších predpisov,
-*   zákonom č. 18/2018 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
+* zákonom č. 40/1964 Zb., Občiansky zákonník v znení neskorších predpisov,
+* zákonom č. 513/1991 Zb., Obchodný zákonník v znení neskorších predpisov,
+* zákonom č. 618/2003 Z. z. o autorskom práve a právach súvisiacich s autorským právom (autorský zákon) v znení neskorších predpisov,
+* zákonom č. 250/2007 Z. z. o ochrane spotrebiteľa v znení neskorších predpisov,
+* zákonom č. 102/2014 Z. z. o ochrane spotrebiteľa pri predaji tovaru alebo poskytovaní služieb na základe zmluvy uzavretej na diaľku alebo zmluvy uzavretej mimo prevádzkových priestorov predávajúceho,
+* zákonom č. 22/2004 Z. z. o elektronickom obchode v znení neskorších predpisov,
+* zákonom č. 18/2018 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
 
 Práva a povinnosti z právnych vzťahov vznikajúcich na jaspravim.sk, ktoré nie sú v týchto VOP výslovne upravené, sa spravujú príslušnými ustanoveniami vyššie uvedených zákonov a ostatnými právnym predpismi platnými na území Slovenskej republiky.
 
