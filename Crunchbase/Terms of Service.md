@@ -1,20 +1,20 @@
 #### Terms of Service
 
-*   [Terms of Service](https://about.crunchbase.com/terms-of-service/)
-*   [Privacy Policy](https://about.crunchbase.com/terms-of-service/privacy-policy/)
-*   [GDPR Privacy Policy](https://about.crunchbase.com/terms-of-service/gdpr-privacy-policy/)
-*   [Engagement Suite Terms](https://about.crunchbase.com/terms-of-service/engagement-suite-terms/)
-*   [Data Use Addendum](https://about.crunchbase.com/terms-of-service/data-use-addendum/)
-*   [Cancellation Policy](https://about.crunchbase.com/terms-of-service/cancellation-policy/)
-*   [Copyright Dispute Policy](https://about.crunchbase.com/terms-of-service/copyright-dispute-policy/)
-*   [Attribution Instructions](https://about.crunchbase.com/terms-of-service/attribution-instructions/)
-*   [Crunchbase Marketplace Terms of Service](https://about.crunchbase.com/terms-of-service/marketplace-partners/)
-*   [Apple Application Terms](https://about.crunchbase.com/terms-of-service/apple-application-terms/)
+* [Terms of Service](https://about.crunchbase.com/terms-of-service/)
+* [Privacy Policy](https://about.crunchbase.com/terms-of-service/privacy-policy/)
+* [GDPR Privacy Policy](https://about.crunchbase.com/terms-of-service/gdpr-privacy-policy/)
+* [Engagement Suite Terms](https://about.crunchbase.com/terms-of-service/engagement-suite-terms/)
+* [Data Use Addendum](https://about.crunchbase.com/terms-of-service/data-use-addendum/)
+* [Cancellation Policy](https://about.crunchbase.com/terms-of-service/cancellation-policy/)
+* [Copyright Dispute Policy](https://about.crunchbase.com/terms-of-service/copyright-dispute-policy/)
+* [Attribution Instructions](https://about.crunchbase.com/terms-of-service/attribution-instructions/)
+* [Crunchbase Marketplace Terms of Service](https://about.crunchbase.com/terms-of-service/marketplace-partners/)
+* [Apple Application Terms](https://about.crunchbase.com/terms-of-service/apple-application-terms/)
 
 Terms of Service
 ================
 
-****We’ve updated our governing terms to clarify your general release of us, clarify our right to seek injunctive and other equitable relief, clarify the categories of personal data we collect listed on our Privacy Policy, update the contact information listed on our GDPR Privacy Policy and elsewhere, revise our Data Use Addendum to reflect changes to applicable laws and update our Marketplace Terms of Service to reflect the data currently available in the Marketplace. The new Terms of Service went into effect on July 29th, 2022 and are listed below. PLEASE NOTE THAT YOUR USE OF AND ACCESS TO OUR SERVICE (DEFINED BELOW) IS SUBJECT TO THE FOLLOWING TERMS; IF YOU DO NOT AGREE TO ALL OF THE FOLLOWING, YOU MAY NOT USE OR ACCESS THE SERVICE IN ANY MANNER.**** 
+****We’ve updated our governing terms to clarify your general release of us, clarify our right to seek injunctive and other equitable relief, clarify the categories of personal data we collect listed on our Privacy Policy, update the contact information listed on our GDPR Privacy Policy and elsewhere, revise our Data Use Addendum to reflect changes to applicable laws and update our Marketplace Terms of Service to reflect the data currently available in the Marketplace. The new Terms of Service went into effect on July 29th, 2022 and are listed below. PLEASE NOTE THAT YOUR USE OF AND ACCESS TO OUR SERVICE (DEFINED BELOW) IS SUBJECT TO THE FOLLOWING TERMS; IF YOU DO NOT AGREE TO ALL OF THE FOLLOWING, YOU MAY NOT USE OR ACCESS THE SERVICE IN ANY MANNER.**** 
 
 Last Updated: July 29th, 2022 
 
@@ -46,7 +46,7 @@ As part of using the Service you may be required to sign up for an account and s
 
 You represent and warrant that you are of legal age to form a binding contract (or if not, you’ve received your parent’s or guardian’s permission to use the Service and gotten your parent or guardian to agree to these Terms on your behalf). If you’re agreeing to these Terms on behalf of an organization or entity, you represent and warrant that you are authorized to agree to these Terms on that organization or entity’s behalf and bind them to these Terms (in which case, the references to “you” and “your” in these Terms, except for in this sentence, refer to that organization or entity). 
 
-****Your use of the Service is subject to the following additional restrictions:**** 
+****Your use of the Service is subject to the following additional restrictions:**** 
 
 You represent, warrant, and agree that you will not contribute or submit any User Submission (defined below) or other materials or otherwise use the Service or interact with the Service in a manner that: 
 
@@ -74,12 +74,12 @@ You represent, warrant, and agree that you will not contribute or submit any Use
 
 A violation of any of the foregoing is grounds for account suspension or termination of your right to use or access the Service. 
 
-****What are my rights with respect to the Service?**** 
+****What are my rights with respect to the Service?**** 
 
 The materials displayed or published or available on or through the Service, including, but not limited to, text, graphics, data, articles, information, photos, images, illustrations, User Submissions, and so forth (all of the foregoing, the “Content”) are protected by copyright and/or other intellectual property laws. You promise to abide by all copyright notices, trademark rules, information, and restrictions contained in any Content you access through the Service in any way (including through the Crunchbase website, API, mobile applications, downloads, etc.). You will not use, copy, reproduce, adapt, modify, translate, publish, broadcast, transmit, distribute, perform, upload, display, license, sell or otherwise exploit for any purpose any Content not owned by you in a way that violates someone else’s (including Crunchbase’s) rights.  Notwithstanding the foregoing, you may display insubstantial excerpts of Content for criticism, commentary, news reporting, teaching, scholarship, research and similar purposes, provided: 
 
-*   The use does not compete with the Service; and 
-*   Proper attribution is provided to Crunchbase (please follow our [Attribution Instructions](https://about.crunchbase.com/terms-of-service/attribution-instructions/) to ensure that you are properly attributing Crunchbase). 
+* The use does not compete with the Service; and 
+* Proper attribution is provided to Crunchbase (please follow our [Attribution Instructions](https://about.crunchbase.com/terms-of-service/attribution-instructions/) to ensure that you are properly attributing Crunchbase). 
 
 Any other uses of Content require Crunchbase’s prior written consent. 
 
@@ -91,17 +91,17 @@ Additionally, Crunchbase provides access to the [Crunchbase 2013 Snapshot](htt
 
 Subject to your compliance with these Terms, you may access and use the Snapshot and the ODM pursuant to the [Creative Commons Attribution License](https://creativecommons.org/licenses/by/4.0/). The Snapshot must be attributed to our designated pseudonym “CrunchBase 2013 Snapshot” and bear the copyright notice “© 2013” in accordance with the Creative Commons requirements. The pseudonym and copyright notice are meant to avoid confusion with the current Crunchbase dataset and to promote transparency to users of the data. If you have questions, please contact us at [policy@crunchbase.com](mailto:policy@crunchbase.com). 
 
-****Do I have to grant any licenses to Crunchbase or to other users?**** 
+****Do I have to grant any licenses to Crunchbase or to other users?**** 
 
 Certain parts of the Service may allow you to integrate with other third-party accounts of yours, such as data from your productivity tools (e.g. CRMs, e-mail, sales engagement tools, etc.). If you choose to use these parts of the Service, you grant Crunchbase all licenses and rights necessary for Crunchbase to provide the Service to you, including a license for Crunchbase to read and write to your third-party account, to extract data from and upload data to your third-party account, and to share data extracted from your third-party account with other members of your team or institution, as further described in the next paragraph.   
 
-Anything you post, upload, share, store, integrate with or otherwise provide through the Service is your “User Submission.” Some User Submissions (such as profile data you contribute to Crunchbase, or information you elect to share with other users through the Service, such as your team members) are viewable by other users.  For all User Submissions, you hereby grant Crunchbase a royalty-free, perpetual, sublicenseable, irrevocable, and worldwide license to translate, modify, aggregate, reproduce, display, distribute, and otherwise use and exploit such User Submissions for Crunchbase’s business purposes, including to provide, develop, and improve our products and services, except, for the avoidance of doubt, the foregoing shall not permit Crunchbase to publish, display or distribute your data from your productivity tools (e.g. CRMs, e-mail, sales engagement tools, etc.) in a manner that is identifiable as originating from you without your written consent.  Please note that the foregoing license is subject to our [Privacy](https://about.crunchbase.com/docs/privacy-policy/) [](https://about.crunchbase.com/tos/pp/) [Policy](https://about.crunchbase.com/terms-of-service/privacy-policy/) to the extent it relates to User Submissions that are also your personally-identifiable information, and to our Data Use Addendum to the extent it relates to User Submissions that are the personally-identifiable information of another person. You are prohibited from including Social Security Numbers, driver’s license numbers, passport numbers, financial account and payment card information (except where expressly requested by Crunchbase), precise geolocation, and health and biometric information as part of any User Submission. 
+Anything you post, upload, share, store, integrate with or otherwise provide through the Service is your “User Submission.” Some User Submissions (such as profile data you contribute to Crunchbase, or information you elect to share with other users through the Service, such as your team members) are viewable by other users.  For all User Submissions, you hereby grant Crunchbase a royalty-free, perpetual, sublicenseable, irrevocable, and worldwide license to translate, modify, aggregate, reproduce, display, distribute, and otherwise use and exploit such User Submissions for Crunchbase’s business purposes, including to provide, develop, and improve our products and services, except, for the avoidance of doubt, the foregoing shall not permit Crunchbase to publish, display or distribute your data from your productivity tools (e.g. CRMs, e-mail, sales engagement tools, etc.) in a manner that is identifiable as originating from you without your written consent.  Please note that the foregoing license is subject to our [Privacy](https://about.crunchbase.com/docs/privacy-policy/) [](https://about.crunchbase.com/tos/pp/)[Policy](https://about.crunchbase.com/terms-of-service/privacy-policy/) to the extent it relates to User Submissions that are also your personally-identifiable information, and to our Data Use Addendum to the extent it relates to User Submissions that are the personally-identifiable information of another person. You are prohibited from including Social Security Numbers, driver’s license numbers, passport numbers, financial account and payment card information (except where expressly requested by Crunchbase), precise geolocation, and health and biometric information as part of any User Submission. 
 
-****What if I see something on the Service that infringes my copyright?**** 
+****What if I see something on the Service that infringes my copyright?**** 
 
 You may have heard of the Digital Millennium Copyright Act (the “DMCA”), as it relates to online service providers, like Crunchbase, being asked to remove material that allegedly violates someone’s copyright. We respect others’ intellectual property rights, and we reserve the right to delete or disable Content alleged to be infringing, and to terminate the accounts of repeat alleged infringers; to review our complete [Copyright Dispute Policy](https://about.crunchbase.com/terms-of-service/copyright-dispute-policy/) and learn how to report potentially infringing content, [click here](https://about.crunchbase.com/terms-of-service/copyright-dispute-policy/). To learn more about the DMCA, [click here](https://www.copyright.gov/legislation/dmca.pdf). 
 
-****Who is responsible for what I see and do on the Service?**** 
+****Who is responsible for what I see and do on the Service?**** 
 
 Any information or Content publicly posted or privately transmitted through the Service is the sole responsibility of the person or organization from whom such Content originated. You access all such information and Content at your own risk, and we aren’t liable for any errors or omissions in that information or Content or for any damages or loss you might suffer in connection with it. We cannot control and have no duty to take any action regarding how you may interpret and use the Content or what actions you may take as a result of having been exposed to the Content, and you hereby release us from all liability for you having acquired or not acquired Content through the Service. We can’t guarantee the identity of any users with whom you interact when using the Service and are not responsible for which users gain access to the Service. 
 
@@ -139,7 +139,7 @@ Account termination may result in destruction of any Content associated with you
 
 Additionally, upon termination of your account Crunchbase may require you to expunge some or all of the Content in your possession, and you will do so promptly. 
 
-****I use the Crunchbase App available via the Apple App Store – should I know anything about that?**** 
+****I use the Crunchbase App available via the Apple App Store – should I know anything about that?**** 
 
 These Terms apply to your use of all parts of the Service, including, without limitation the iPhone and iPad applications available via the Apple, Inc. App Store (the “Apple Application”), but [additional terms](https://about.crunchbase.com/terms-of-service/apple-application-terms/) also apply to the Apple Application. 
 
