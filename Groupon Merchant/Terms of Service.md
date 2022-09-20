@@ -16,11 +16,11 @@ Groupon operates the Site. By using the Site, any service provided through the S
 
 The Site provides information for prospective and current merchant partners about how Groupon’s promotion and marketing services can help your business effectively advertise its goods and services to new and existing customers through Groupon’s platform. As a condition of your use of the Site, you agree that:
 
-*   You are an individual person at least 18 years of age.
-*   You possess the authority to create a binding legal obligation.
-*   Your use of the Site will at all times comply with these Terms of Use.
-*   You must safeguard your password and supervise the use of your account, and understand and agree that you are responsible for the use of your account by anyone you allow to access it.
-*   You have the right to provide any and all information you submit to the Site, and all such information is accurate, true, current and complete.
+* You are an individual person at least 18 years of age.
+* You possess the authority to create a binding legal obligation.
+* Your use of the Site will at all times comply with these Terms of Use.
+* You must safeguard your password and supervise the use of your account, and understand and agree that you are responsible for the use of your account by anyone you allow to access it.
+* You have the right to provide any and all information you submit to the Site, and all such information is accurate, true, current and complete.
 
 **4\. AVAILABILITY OF THE SITE**
 
@@ -40,23 +40,23 @@ The Site and other websites operated by Groupon that is available to End Users i
 
 **PLEASE DO NOT ENGAGE IN ANY OF THE FOLLOWING ACTIVITIES–**they are prohibited on the Groupon Sites and constitute express violations of these Terms of Use:
 
-*   Submitting any purposely inaccurate information, committing fraud or falsifying information;
-*   Attempting to, or actually accessing data not intended for you, such as logging into a server or an account which you are not authorized to access;
-*   Attempting to scan, or test the security or configuration of the Groupon Sites or to breach security or authentication measures without proper authorization;
-*   Tampering or interfering with the proper functioning of any part, page or area of the Groupon Sites and any and all functions and services provided by Groupon;
-*   Attempting to interfere with service to any user in any manner, including, without limitation, by means of submitting a virus to our Site, or attempts at overloading, “flooding”, “spamming”, “mail bombing” or “crashing” the Groupon Sites;
-*   Using the Groupon Sites or any of its contents to advertise or solicit, for any other commercial, political or religious purpose, or to compete, directly or indirectly with Groupon, without Groupon prior written consent;
-*   Reselling or repurposing your access to the Groupon Sites;
-*   Using the Groupon Sites or any of its resources to solicit Groupon customers, merchants or other business partners of Groupon to become users or partners of other online or offline services directly or indirectly competitive or potentially competitive with Groupon, including without limitation, aggregating current or previously offered deals;
-*   Using any Groupon customer or merchant information that is not your information from the Groupon Sites for any commercial purpose, including, but not limited to, marketing;
-*   Offering vouchers or otherwise using any Groupon account to offer vouchers for resale, or for speculative, false, fraudulent or any other purpose not expressly permitted by agreement between you and Groupon;
-*   Accessing, monitoring or copying any content or information from any Groupon Sites using any robot, spider, scraper or other automated means or any manual process for any purpose without our express written permission;
-*   Violating the restrictions in any robot exclusion headers on any Groupon Sites or bypassing or circumventing other measures employed to prevent or limit access to the Groupon Sites;
-*   Taking any action that places excessive demand on our services, or imposes, or may impose an unreasonable or disproportionately large load on our servers or other portion of our infrastructure (as determined in our sole discretion) supporting the Groupon Sites;
-*   Aggregating any live or post-feature content or other information from the Groupon Sites (whether using links or other technical means or physical records associated with purchases made through the Groupon Sites) with material from other sites or on a secondary site without our express written permission.
-*   Deep-linking to any portion of the Groupon Sites (including, without limitation, the purchase path for any voucher) without our express written permission;
-*   Acting illegally or maliciously against the business interests or reputation of Groupon, our other merchants or our services; or
-*   Hyperlinking to the Groupon Sites from any other website without our initial and ongoing consent.
+* Submitting any purposely inaccurate information, committing fraud or falsifying information;
+* Attempting to, or actually accessing data not intended for you, such as logging into a server or an account which you are not authorized to access;
+* Attempting to scan, or test the security or configuration of the Groupon Sites or to breach security or authentication measures without proper authorization;
+* Tampering or interfering with the proper functioning of any part, page or area of the Groupon Sites and any and all functions and services provided by Groupon;
+* Attempting to interfere with service to any user in any manner, including, without limitation, by means of submitting a virus to our Site, or attempts at overloading, “flooding”, “spamming”, “mail bombing” or “crashing” the Groupon Sites;
+* Using the Groupon Sites or any of its contents to advertise or solicit, for any other commercial, political or religious purpose, or to compete, directly or indirectly with Groupon, without Groupon prior written consent;
+* Reselling or repurposing your access to the Groupon Sites;
+* Using the Groupon Sites or any of its resources to solicit Groupon customers, merchants or other business partners of Groupon to become users or partners of other online or offline services directly or indirectly competitive or potentially competitive with Groupon, including without limitation, aggregating current or previously offered deals;
+* Using any Groupon customer or merchant information that is not your information from the Groupon Sites for any commercial purpose, including, but not limited to, marketing;
+* Offering vouchers or otherwise using any Groupon account to offer vouchers for resale, or for speculative, false, fraudulent or any other purpose not expressly permitted by agreement between you and Groupon;
+* Accessing, monitoring or copying any content or information from any Groupon Sites using any robot, spider, scraper or other automated means or any manual process for any purpose without our express written permission;
+* Violating the restrictions in any robot exclusion headers on any Groupon Sites or bypassing or circumventing other measures employed to prevent or limit access to the Groupon Sites;
+* Taking any action that places excessive demand on our services, or imposes, or may impose an unreasonable or disproportionately large load on our servers or other portion of our infrastructure (as determined in our sole discretion) supporting the Groupon Sites;
+* Aggregating any live or post-feature content or other information from the Groupon Sites (whether using links or other technical means or physical records associated with purchases made through the Groupon Sites) with material from other sites or on a secondary site without our express written permission.
+* Deep-linking to any portion of the Groupon Sites (including, without limitation, the purchase path for any voucher) without our express written permission;
+* Acting illegally or maliciously against the business interests or reputation of Groupon, our other merchants or our services; or
+* Hyperlinking to the Groupon Sites from any other website without our initial and ongoing consent.
 
 **8\. MODIFICATION OF THESE TERMS OF USE**
 
@@ -84,8 +84,8 @@ Contact information for Groupon’s DMCA Agent for notice of claims of copyright
 
 We do not accept or consider, directly or through any Groupon employee or agent, unsolicited ideas of any kind, including without limitation, ideas or suggestions relating to new or improved products, enhancements, names or technologies, advertising and marketing campaigns, plans or other promotions. Do not send us (or any of our employees) any unsolicited ideas, suggestions, material, images or other work in any form (“unsolicited materials”). If you send us unsolicited materials, you understand and agree that the following terms will apply, notwithstanding any cover letter or other terms that accompany them:
 
-*   Groupon has no obligation to review any unsolicited materials, nor to keep any unsolicited materials confidential; and
-*   Groupon will own, and may use and redistribute unsolicited materials for any purpose, without restriction and free of any obligation to acknowledge or compensate you.
+* Groupon has no obligation to review any unsolicited materials, nor to keep any unsolicited materials confidential; and
+* Groupon will own, and may use and redistribute unsolicited materials for any purpose, without restriction and free of any obligation to acknowledge or compensate you.
 
 **12\. DISCLAIMER OF WARRANTY**
 
