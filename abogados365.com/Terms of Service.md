@@ -59,11 +59,11 @@ En especial al usuario le estará prohibido: utilizar contenidos injuriosos o ca
 
 Se prohíbe al usuario las siguientes acciones:
 
-*   Utilizar mecanismos, software o scripts en relación con la utilización del Sitio Web.
-*   Bloquear, sobrescribir, modificar o copiar, a no ser que ello sea necesario para la correcta utilización de los servicios de los sitios web. Por ejemplo, el copiado mediante tecnologías de buscador tipo "Robot/Crawler" no es necesario para la correcta utilización de los servicios del Sitio Web, por lo que está prohibido expresamente.
-*   Difundir y reproducir públicamente contenidos del Sitio Web de VERTICALES INTERCOM, S.L o de otros USUARIOS, sin la autorización previa.
-*   Toda acción apta para perjudicar la funcionalidad de la infraestructura de VERTICALES INTERCOM, S.L , especialmente para sobrecargarla.
-*   A utilizar cualquiera de los materiales e informaciones contenidos en este Sitio Web con fines ilícitos y expresamente prohibidos en las presentes Condiciones Generales de Uso, así como a las condiciones particulares que, en su caso, se habiliten que resulten contrarios a los derechos e intereses de VERTICALES INTERCOM, S.L. , sus miembros y/o terceros, y deberá responder frente a los mismos en caso de contravenir o incumplir dichas obligaciones y/o que, de cualquier modo (incluida la introducción o difusión de "virus informáticos"), dañe, inutilice, sobrecargue, deteriore o impida la normal utilización de los materiales e informaciones contenidos en el Sitio Web, los sistemas de información o los documentos, archivos y toda clase de contenidos almacenados en cualquier equipo informático (hacking) de VERTICALES INTERCOM, S.L. , de sus miembros o de cualquier usuario.
+* Utilizar mecanismos, software o scripts en relación con la utilización del Sitio Web.
+* Bloquear, sobrescribir, modificar o copiar, a no ser que ello sea necesario para la correcta utilización de los servicios de los sitios web. Por ejemplo, el copiado mediante tecnologías de buscador tipo "Robot/Crawler" no es necesario para la correcta utilización de los servicios del Sitio Web, por lo que está prohibido expresamente.
+* Difundir y reproducir públicamente contenidos del Sitio Web de VERTICALES INTERCOM, S.L o de otros USUARIOS, sin la autorización previa.
+* Toda acción apta para perjudicar la funcionalidad de la infraestructura de VERTICALES INTERCOM, S.L , especialmente para sobrecargarla.
+* A utilizar cualquiera de los materiales e informaciones contenidos en este Sitio Web con fines ilícitos y expresamente prohibidos en las presentes Condiciones Generales de Uso, así como a las condiciones particulares que, en su caso, se habiliten que resulten contrarios a los derechos e intereses de VERTICALES INTERCOM, S.L. , sus miembros y/o terceros, y deberá responder frente a los mismos en caso de contravenir o incumplir dichas obligaciones y/o que, de cualquier modo (incluida la introducción o difusión de "virus informáticos"), dañe, inutilice, sobrecargue, deteriore o impida la normal utilización de los materiales e informaciones contenidos en el Sitio Web, los sistemas de información o los documentos, archivos y toda clase de contenidos almacenados en cualquier equipo informático (hacking) de VERTICALES INTERCOM, S.L. , de sus miembros o de cualquier usuario.
 
 El usuario es consciente de, y acepta voluntariamente, que el uso del servicio tiene lugar, en todo caso, bajo su única y exclusiva responsabilidad.
 
@@ -77,10 +77,10 @@ En este sentido, el USUARIO declara tener los derechos suficientes para la inser
 
 VERTICALES INTERCOM, S.L no permite la inserción de contenidos que deterioren la calidad del servicio. Está prohibida la inserción de contenidos que:
 
-*   Que sean presuntamente ilícitos por la normativa nacional, comunitaria o internacional o que realicen actividades presuntamente ilícitas o contravengan los principios de la buena fe.
-*   Que no reúnan los parámetros de calidad establecidos en VERTICALES INTERCOM, S.L
-*   Que atenten contra los derechos fundamentales de las personas, puedan buscar la debilidad del usuario, falten a la cortesía en la red, molesten o puedan generar opiniones negativas en nuestros USUARIOS o terceros. En concreto, y a modo enunciativo pero no limitativo: cualesquiera de los derechos legales de terceros; aquellos que favorezcan o potencien la creación, mantenimiento y fomento de negocios relacionados con la pornografía, material obsceno o gestión de contactos eróticos; aquellos que estén relacionados con la videncia, tarot, "ciencias ocultas" o cualquier otro contenido relacionado; y en general cualesquiera contenidos que VERTICALES INTERCOM, S.L. considere no apropiados para los USUARIOS y, en especial, para los menores de edad.
-*   Y en general que contravengan los principios de legalidad, honradez, responsabilidad, protección de la dignidad humana, protección de menores, protección del orden público, la protección de la vida privada, la protección del consumidor y los derechos de propiedad intelectual e industrial.
+* Que sean presuntamente ilícitos por la normativa nacional, comunitaria o internacional o que realicen actividades presuntamente ilícitas o contravengan los principios de la buena fe.
+* Que no reúnan los parámetros de calidad establecidos en VERTICALES INTERCOM, S.L
+* Que atenten contra los derechos fundamentales de las personas, puedan buscar la debilidad del usuario, falten a la cortesía en la red, molesten o puedan generar opiniones negativas en nuestros USUARIOS o terceros. En concreto, y a modo enunciativo pero no limitativo: cualesquiera de los derechos legales de terceros; aquellos que favorezcan o potencien la creación, mantenimiento y fomento de negocios relacionados con la pornografía, material obsceno o gestión de contactos eróticos; aquellos que estén relacionados con la videncia, tarot, "ciencias ocultas" o cualquier otro contenido relacionado; y en general cualesquiera contenidos que VERTICALES INTERCOM, S.L. considere no apropiados para los USUARIOS y, en especial, para los menores de edad.
+* Y en general que contravengan los principios de legalidad, honradez, responsabilidad, protección de la dignidad humana, protección de menores, protección del orden público, la protección de la vida privada, la protección del consumidor y los derechos de propiedad intelectual e industrial.
 
 Asimismo, VERTICALES INTERCOM, S.L se reserva la potestad de retirar del Sitio Web aquellos contenidos que se consideren no apropiados a las características y finalidades de abogados365.com.
 
@@ -186,10 +186,10 @@ La legitimidad de los derechos de propiedad intelectual o industrial correspondi
 
 A los efectos de preservar los posibles derechos de propiedad intelectual, en el caso de que cualquier USUARIO o un tercero considere que se ha producido una violación de sus legítimos derechos por la introducción de un determinado contenido en el Sitio Web, deberá notificar dicha circunstancia, por escrito, a VERTICALES INTERCOM, S.L. , Sant Cugat Trade Center Av. Corts Catalanes, 5-7 - Oficina A-0408173 Sant Cugat del Vallés (Barcelona), indicando:
 
-*   Datos de carácter personal identificativos del interesado titular de los derechos presuntamente infringidos. Si la reclamación la presenta un tercero distinto del interesado, deberá indicar la representación que ostenta con la que actúa.
-*   Indicación de los contenidos protegidos por los derechos de propiedad intelectual y su ubicación en el web.
-*   Acreditación de la existencia, titularidad y vigencia de los citados derechos de propiedad intelectual.
-*   Declaración expresa en la que el interesado se responsabilice de la veracidad de los datos e información facilitados en la notificación a que se refiere este punto.
+* Datos de carácter personal identificativos del interesado titular de los derechos presuntamente infringidos. Si la reclamación la presenta un tercero distinto del interesado, deberá indicar la representación que ostenta con la que actúa.
+* Indicación de los contenidos protegidos por los derechos de propiedad intelectual y su ubicación en el web.
+* Acreditación de la existencia, titularidad y vigencia de los citados derechos de propiedad intelectual.
+* Declaración expresa en la que el interesado se responsabilice de la veracidad de los datos e información facilitados en la notificación a que se refiere este punto.
 
 Razón social
 ------------
