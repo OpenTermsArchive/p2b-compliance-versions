@@ -92,16 +92,16 @@ A Felhasználó és az Árukereső közötti, a jelen ÜFF-ben szabályozott szo
 
 5.5. A jelen KFF szerint tárolt személyes adatok kezeléséhez a szolgáltatás nyújtása során alkalmazott informatikai eszközöket az Árukereső úgy választja meg és üzemelteti, hogy az:
 
-*   az arra feljogosítottak számára hozzáférhető (rendelkezésre állás);
-*   hitelessége és hitelesítése biztosított (adatkezelés hitelessége);
-*   változatlansága igazolható (adatintegritás);
-*   jogosulatlan hozzáférés ellen védett (adat bizalmassága) legyen.
+* az arra feljogosítottak számára hozzáférhető (rendelkezésre állás);
+* hitelessége és hitelesítése biztosított (adatkezelés hitelessége);
+* változatlansága igazolható (adatintegritás);
+* jogosulatlan hozzáférés ellen védett (adat bizalmassága) legyen.
 
 5.6. Az Árukereső olyan műszaki, szervezési és szervezeti intézkedésekkel gondoskodik a személyes adatok biztonságának védelméről, amely a személyes adatok tárolásával kapcsolatban jelentkező kockázatoknak megfelelő védelmi szintet nyújt és az adatkezelés során megőrzi
 
-*   a titkosságot: megvédi az információt, hogy csak az férhessen hozzá, aki erre jogosult;
-*   a sértetlenséget: megvédi az információnak és a feldolgozás módszerének a pontosságát és teljességét;
-*   a rendelkezésre állást: gondoskodik arról, hogy amikor a jogosult használónak szüksége van rá, valóban hozzá tudjon férni a kívánt információhoz, és rendelkezésre álljanak az ezzel kapcsolatos eszközök.
+* a titkosságot: megvédi az információt, hogy csak az férhessen hozzá, aki erre jogosult;
+* a sértetlenséget: megvédi az információnak és a feldolgozás módszerének a pontosságát és teljességét;
+* a rendelkezésre állást: gondoskodik arról, hogy amikor a jogosult használónak szüksége van rá, valóban hozzá tudjon férni a kívánt információhoz, és rendelkezésre álljanak az ezzel kapcsolatos eszközök.
 
 5.7. Az Árukereső informatikai rendszere és hálózata egyaránt védett a számítógéppel támogatott csalás, kémkedés, szabotázs, vandalizmus, tűz és árvíz, továbbá a számítógépvírusok, a számítógépes betörések és a szolgálatmegtagadásra vezető támadások ellen. Az Árukereső a biztonságról szerverszintű és alkalmazásszintű védelmi eljárásokkal gondoskodik.
 
