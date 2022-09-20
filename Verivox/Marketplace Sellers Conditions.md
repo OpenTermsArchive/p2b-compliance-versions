@@ -134,7 +134,7 @@ B Weitere Leistungen & Vertriebswege
 
 § 1 Nebenleistungen und Vermarktung
 
-1.1 Verivox behält sich vor im Rahmen von Vermarktungskampagnen Produkte und Dienstleistungen der Serviceanbieter durch Werbemittel, Werbemittelplatzierungen (bspw. auf der Plattform und/oder im Umfeld des Vergleichsrechners), eigene Zugaben (z.B. technische Geräte, Hardware, Software, Gutscheine) sowie der stets optionalen Möglichkeit der Inanspruchnahme von eigenen Nebenwaren und -dienstleistungen oder solcher Dritter an Endkunden zu vermarkten. Serviceanbieter haben jedoch auf der Plattform die Möglichkeit Endkunden ihre Produkte und Dienstleistungen auch durch eigene Zugaben sowie Nebenwaren und/oder -dienstleistungen wie beispielsweise eine durch den Serviceanbieter selbst oder in Kooperation mit Dritten angebotenen Hardware anzubieten. Sofern ein Serviceanbieter Nebenwaren und -dienstleistungen zusätzlich zu seinen Produkten und Dienstleistungen anbieten möchte, kann er sich an [\[email protected\]](https://www.verivox.de/cdn-cgi/l/email-protection#removed) wenden. Die Möglichkeit der Vermarktung von Nebenwaren und -dienstleistungen durch den Serviceanbieter auf der Plattform erfordert eine hierauf bezogenen Vertriebsvereinbarung mit Verivox.
+1.1 Verivox behält sich vor im Rahmen von Vermarktungskampagnen Produkte und Dienstleistungen der Serviceanbieter durch Werbemittel, Werbemittelplatzierungen (bspw. auf der Plattform und/oder im Umfeld des Vergleichsrechners), eigene Zugaben (z.B. technische Geräte, Hardware, Software, Gutscheine) sowie der stets optionalen Möglichkeit der Inanspruchnahme von eigenen Nebenwaren und -dienstleistungen oder solcher Dritter an Endkunden zu vermarkten. Serviceanbieter haben jedoch auf der Plattform die Möglichkeit Endkunden ihre Produkte und Dienstleistungen auch durch eigene Zugaben sowie Nebenwaren und/oder -dienstleistungen wie beispielsweise eine durch den Serviceanbieter selbst oder in Kooperation mit Dritten angebotenen Hardware anzubieten. Sofern ein Serviceanbieter Nebenwaren und -dienstleistungen zusätzlich zu seinen Produkten und Dienstleistungen anbieten möchte, kann er sich an [\[email protected\]](https://www.verivox.de/cdn-cgi/l/email-protection) wenden. Die Möglichkeit der Vermarktung von Nebenwaren und -dienstleistungen durch den Serviceanbieter auf der Plattform erfordert eine hierauf bezogenen Vertriebsvereinbarung mit Verivox.
 
 1.2 Verivox behält sich vor in die Vergleichsrechner und/oder die diesem nachgelagerte Antragsstrecke den Kündigungsservice der aboalarm GmbH einzubinden, um es Benutzern zu ermöglichen ggf. mit anderen Anbietern bestehende (Vor-)Verträge über ähnliche oder inhaltsgleiche Produkte und Dienstleistungen zu kündigen. Die Einbindung eines Kündigungsservices anderer Anbieter ist nicht vorgesehen.
 
@@ -148,7 +148,7 @@ B Weitere Leistungen & Vertriebswege
 
 3.1 Verivox verarbeitet im Rahmen der einschlägigen datenschutzrechtlichen Bestimmungen bei Antrag eines Benutzers des Vergleichsrechners auf Vertragsschluss über Produkte oder Dienstleistungen eines Serviceanbieters die für die Erfüllung dieses Vertrages oder zur Durchführung vorvertraglicher Maßnahmen erforderlichen personenbezogene Daten des Benutzers und gibt diese an den Serviceanbieter weiter. Eine Weitergabe sonstiger personenbezogener Daten, die Verivox als Verantwortlicher erhebt (siehe [Datenschutz bei Verivox](https://www.verivox.de/company/datenschutz/)), erfolgt nicht.
 
-3.2 Verivox generiert im Rahmen des Betriebs der Plattform und der Vergleichsrechner verschiedene marktrelevante Daten, die von dem mit Verivox verbundenem Unternehmen VX Sales Solutions GmbH zu Datenprodukten aggregiert und als solche vertrieben werden. Diese Datenprodukte enthalten keine personenbezogenen Daten. Jedem Serviceanbieter steht es frei die VX Sales Solutions GmbH unter [\[email protected\]](https://www.verivox.de/cdn-cgi/l/email-protection#removed) bei Interesse am Erwerb der vorbenannten Datenprodukte zu kontaktieren.
+3.2 Verivox generiert im Rahmen des Betriebs der Plattform und der Vergleichsrechner verschiedene marktrelevante Daten, die von dem mit Verivox verbundenem Unternehmen VX Sales Solutions GmbH zu Datenprodukten aggregiert und als solche vertrieben werden. Diese Datenprodukte enthalten keine personenbezogenen Daten. Jedem Serviceanbieter steht es frei die VX Sales Solutions GmbH unter [\[email protected\]](https://www.verivox.de/cdn-cgi/l/email-protection) bei Interesse am Erwerb der vorbenannten Datenprodukte zu kontaktieren.
 
 C Beschwerdemanagement & Mediation
 ----------------------------------
@@ -165,7 +165,7 @@ c) von Maßnahmen oder Verhaltensweisen von Verivox, die in direktem Zusammenhan
 
 das Recht eine Beschwerde über das interne Beschwerdemanagement von Verivox einzureichen.
 
-1.2 Der Zugang zum internen Beschwerdemanagement von Verivox ist kostenfrei und erreichbar per E-Mail unter [\[email protected\]](https://www.verivox.de/cdn-cgi/l/email-protection#removed).
+1.2 Der Zugang zum internen Beschwerdemanagement von Verivox ist kostenfrei und erreichbar per E-Mail unter [\[email protected\]](https://www.verivox.de/cdn-cgi/l/email-protection).
 
 1.3 Im Falle einer Beschwerde hat der beschwerdeführende Serviceanbieter in seiner Beschwerde-E-Mail den Beschwerdeführer, eine Beschreibung des Beschwerdegegenstands, einen Ansprechpartner des beschwerdeführenden Serviceanbieters (inkl. Kontaktdaten) und sofern gegeben und bekannt, den von Verivox als für den Serviceanbieter zuständig benannten Key Account Manager zu benennen.
 
@@ -177,13 +177,13 @@ das Recht eine Beschwerde über das interne Beschwerdemanagement von Verivox ein
 
 2.1 Jeder Serviceanbieter hat die Möglichkeit sich zu etwaigen Streitigkeiten, die sich auf die Bereitstellung der Plattform für den Serviceanbieter beziehen, an einen der nachfolgenden unparteiischen und unabhängigen Mediatoren zu wenden, mit denen Verivox bereit ist zusammenzuarbeiten, um eine Beilegung der Streitigkeit zu erzielen:
 
-* Bitkom Servicegesellschaft mbH, Albrechtstr. 10, 10117 Berlin, E-Mail: [\[email protected\]](https://www.verivox.de/cdn-cgi/l/email-protection#removed)
-* Bundesverband Onlinehandel e.V. - Mediationsstelle -, Friedrichstraße 123, 10117 Berlin, E-Mail: [\[email protected\]](https://www.verivox.de/cdn-cgi/l/email-protection#removed), Telefon: +49 351 450 44 17
+* Bitkom Servicegesellschaft mbH, Albrechtstr. 10, 10117 Berlin, E-Mail: [\[email protected\]](https://www.verivox.de/cdn-cgi/l/email-protection)
+* Bundesverband Onlinehandel e.V. - Mediationsstelle -, Friedrichstraße 123, 10117 Berlin, E-Mail: [\[email protected\]](https://www.verivox.de/cdn-cgi/l/email-protection), Telefon: +49 351 450 44 17
 
 Diese Möglichkeit besteht insbesondere auch für Beschwerden, die nicht mit den in § 1 genannten Mitteln des internen Beschwerdemanagements gelöst werden können.
 
 2.2. Jeder Versuch nach 2.1 eine Einigung über die Streitbeilegung durch Mediation herbeizuführen, berührt nicht das Recht des Serviceanbieters oder Verivox zu jedem Zeitpunkt vor, während oder nach der Mediation Klage vor Gericht zu erheben.
 
-2.3 Der Serviceanbieter kann auf Anfrage per E-Mail unter [\[email protected\]](https://www.verivox.de/cdn-cgi/l/email-protection#removed) von Verivox weitere Informationen, insbesondere über Funktionsweise und Wirksamkeit der Mediation im Zusammenhang mit der Plattform oder der Tätigkeit von Verivox, erhalten.
+2.3 Der Serviceanbieter kann auf Anfrage per E-Mail unter [\[email protected\]](https://www.verivox.de/cdn-cgi/l/email-protection) von Verivox weitere Informationen, insbesondere über Funktionsweise und Wirksamkeit der Mediation im Zusammenhang mit der Plattform oder der Tätigkeit von Verivox, erhalten.
 
 Stand: 06.10.2022
