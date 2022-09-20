@@ -13,10 +13,10 @@ Esta página (y cualquier documento al que se haga referencia en ella) establece
 
 El propósito de esta cláusula es definir los diversos términos esenciales del contrato:
 
-*   Camarada: este término se refiere a cualquier persona que utilice el sitio y nuestro Servicio...
-*   Contribuciones: elementos con los que usted contribuye a nuestro Servicio
-*   Camarada cooptado: el camarada se convierte en un camarada cooptado cuando se identifica en el sitio.
-*   Identificador y contraseña: esta es toda la información necesaria para identificar a un compañero cooperante en el sitio. El nombre de usuario y la contraseña permiten a un Miembro Cooperado acceder a los servicios reservados para los Miembros Cooperados del sitio. La contraseña es confidencial.
+* Camarada: este término se refiere a cualquier persona que utilice el sitio y nuestro Servicio...
+* Contribuciones: elementos con los que usted contribuye a nuestro Servicio
+* Camarada cooptado: el camarada se convierte en un camarada cooptado cuando se identifica en el sitio.
+* Identificador y contraseña: esta es toda la información necesaria para identificar a un compañero cooperante en el sitio. El nombre de usuario y la contraseña permiten a un Miembro Cooperado acceder a los servicios reservados para los Miembros Cooperados del sitio. La contraseña es confidencial.
 
 3\. Acceso a nuestro sitio o servicios
 --------------------------------------
@@ -33,15 +33,15 @@ Sólo puede utilizar nuestro Servicio para fines lícitos. No puede utilizar nue
 
 Estas normas de contenido se aplican a todos los materiales con los que usted contribuye a nuestro Servicio (las "Contribuciones"). Debe cumplir con el espíritu y la letra de las siguientes normas. Las normas se aplican a cada parte de las Contribuciones y a las Contribuciones en su conjunto. Las Contribuciones deben ser exactas (cuando exponen hechos), veraces (cuando exponen creencias) y conformes a la legislación aplicable en Francia y en el país de donde proceden. Las contribuciones no deben..:
 
-*   contienen elementos difamatorios para una persona, obscenos, insultantes, odiosos o inflamatorios
-*   promover escenas sexualmente explícitas o promover la violencia
-*   promover la discriminación por motivos de raza, sexo, género, religión, nacionalidad, discapacidad, orientación sexual o edad
-*   promover el capitalismo, la descapacitación del trabajo fuera de cualquier regla definida colectiva y democráticamente, el patriarcado, el colonialismo, la reapropiación cultural y/o de clase (cuya interseccionalidad se cristaliza en el Dab en traje de cera), el uso del término "disruptivo", cualquier referencia a Bernard Stiegler, el uso lucrativo de los datos, los relojes conectados y la fuente Comic Sans MS
-*   infringir los derechos de autor, los derechos de la base de datos o las marcas comerciales de un tercero;
-*   es probable que induzca a error a un tercero o incumpla una obligación legal con un tercero, como una obligación contractual o una obligación de discreción, o promueva una actividad ilegal;
-*   amenazar, infringir o violar la privacidad de un tercero, causar molestias, inconvenientes o ansiedad innecesaria, o ser susceptible de acosar, perturbar, avergonzar, alarmar o incomodar a un tercero;
-*   ser utilizado para hacerse pasar por otra persona o hacerse pasar por usted o tergiversar su afiliación con una persona o dar la impresión de que es de nuestra parte, si no es así; o
-*   defender, promover o ayudar en un acto ilegal como (sólo a modo de ejemplo) la infracción de los derechos de autor.arroz o la piratería informática.
+* contienen elementos difamatorios para una persona, obscenos, insultantes, odiosos o inflamatorios
+* promover escenas sexualmente explícitas o promover la violencia
+* promover la discriminación por motivos de raza, sexo, género, religión, nacionalidad, discapacidad, orientación sexual o edad
+* promover el capitalismo, la descapacitación del trabajo fuera de cualquier regla definida colectiva y democráticamente, el patriarcado, el colonialismo, la reapropiación cultural y/o de clase (cuya interseccionalidad se cristaliza en el Dab en traje de cera), el uso del término "disruptivo", cualquier referencia a Bernard Stiegler, el uso lucrativo de los datos, los relojes conectados y la fuente Comic Sans MS
+* infringir los derechos de autor, los derechos de la base de datos o las marcas comerciales de un tercero;
+* es probable que induzca a error a un tercero o incumpla una obligación legal con un tercero, como una obligación contractual o una obligación de discreción, o promueva una actividad ilegal;
+* amenazar, infringir o violar la privacidad de un tercero, causar molestias, inconvenientes o ansiedad innecesaria, o ser susceptible de acosar, perturbar, avergonzar, alarmar o incomodar a un tercero;
+* ser utilizado para hacerse pasar por otra persona o hacerse pasar por usted o tergiversar su afiliación con una persona o dar la impresión de que es de nuestra parte, si no es así; o
+* defender, promover o ayudar en un acto ilegal como (sólo a modo de ejemplo) la infracción de los derechos de autor.arroz o la piratería informática.
 
 6\. Suspensión y terminación
 ----------------------------
