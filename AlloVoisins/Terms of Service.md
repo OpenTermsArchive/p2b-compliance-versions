@@ -59,22 +59,22 @@ L’engagement ne sera réputé conclu qu'à compter de la réception de la conf
 
 Tout Utilisateur du Service AlloVoisins s’engage, comme demandé dans le formulaire d'inscription ou lors de toute autre demande d'information nécessaire au bon fonctionnement du service :
 
-*   À fournir des informations réelles, exactes, à jour et complètes comme demandé dans le formulaire;
+* À fournir des informations réelles, exactes, à jour et complètes comme demandé dans le formulaire;
     
-*   À maintenir et remettre à jour régulièrement les données d’inscription afin de les conserver réelles, exactes, à jour et complètes.
+* À maintenir et remettre à jour régulièrement les données d’inscription afin de les conserver réelles, exactes, à jour et complètes.
     
 
 Dans l'hypothèse où les informations fournies seraient fausses, inexactes, périmées ou incomplètes, AlloVoisins serait en droit de fermer le compte et de refuser immédiatement et pour le futur l'accès à tout ou partie du service. À l'issue de la procédure d'inscription, chaque Utilisateur se voit attribuer un nom de compte constitué par son prénom, son nom, le cas échant son nom commercial. Le mot de passe est choisi par l’utilisateur lors de son inscription. Hors circonstances dans lesquelles les mesures de sécurité d’AlloVoisins serait mises en cause, l’Utilisateur est présumé responsable de la conservation du caractère confidentiel du nom de compte et du mot de passe et de toutes actions qui pourront être faites sous l’identification du compte et/ou avec le mot de passe. L’inscription implique notamment l’obligation de fournir une adresse de messagerie qui sera utilisée comme moyen de communication entre l’Utilisateur et AlloVoisins. AlloVoisins ne peut être tenu pour responsable des conséquences de la non-réception des messages due à l’absence de mise à jour de l’adresse de messagerie par l’Utilisateur.
 
 L’Utilisateur s’engage :
 
-*   À informer immédiatement par email AlloVoisins de tout vol ou perte de son mot de passe, de toute utilisation non autorisée du compte et/ou du mot de passe et de toute atteinte à la sécurité dont il a connaissance. AlloVoisins procèdera alors au remplacement du mot de passe. La déclaration de perte ou de vol pourrait entraîner la destruction pure et simple des informations et fichiers stockés, sans aucun droit à indemnisation;
+* À informer immédiatement par email AlloVoisins de tout vol ou perte de son mot de passe, de toute utilisation non autorisée du compte et/ou du mot de passe et de toute atteinte à la sécurité dont il a connaissance. AlloVoisins procèdera alors au remplacement du mot de passe. La déclaration de perte ou de vol pourrait entraîner la destruction pure et simple des informations et fichiers stockés, sans aucun droit à indemnisation;
     
-*   À s’assurer qu'il se déconnecte à l'issue de chaque session;
+* À s’assurer qu'il se déconnecte à l'issue de chaque session;
     
-*   À ne pas partager, communiquer ni transférer à aucune autre personne le nom de compte et le mot de passe. Chaque profil et ses évaluations ou commentaires sont strictement personnels, et individuels à l’Utilisateur;
+* À ne pas partager, communiquer ni transférer à aucune autre personne le nom de compte et le mot de passe. Chaque profil et ses évaluations ou commentaires sont strictement personnels, et individuels à l’Utilisateur;
     
-*   À ne pas créer ou utiliser d'autres comptes que celui initialement créé, que ce soit sous sa propre identité ou celle de tiers. Un même Utilisateur peut avoir 2 comptes, sous la seule condition que l’un soit enregistré sous le statut Auto-entrepreneur ou Entreprise à partir des coordonnées professionnelles et l’autre pour poster des demandes ou pour complément de revenus en tant que particulier sur un autre secteur d’activité.
+* À ne pas créer ou utiliser d'autres comptes que celui initialement créé, que ce soit sous sa propre identité ou celle de tiers. Un même Utilisateur peut avoir 2 comptes, sous la seule condition que l’un soit enregistré sous le statut Auto-entrepreneur ou Entreprise à partir des coordonnées professionnelles et l’autre pour poster des demandes ou pour complément de revenus en tant que particulier sur un autre secteur d’activité.
     
 
 Le non-respect de ces obligations pourra entraîner la fermeture immédiate des comptes de l’Utilisateur et de tous les services associés. AlloVoisins ne pourra être tenu responsable de toute perte ou dommage survenant dans ce cas.
@@ -88,31 +88,31 @@ L’Utilisateur reconnait également qu’il doit faire preuve de discernement, 
 
 L’Utilisateur s’engage à ne pas utiliser le Service, de quelque manière que ce soit, pour proposer des offres ou des demandes, communiquer des contenus contraires aux bonnes mœurs ou non autorisés en vertu de dispositions législatives, réglementaires ou contractuelles, ou attentatoires aux droits des tiers tels que, sans que cette liste soit exhaustive :
 
-*   Détenir, proposer ou solliciter des contrefaçons au sens du Code de la propriété intellectuelle transmettre des propos destinés à encourager, aider, colporter ou propager de quelque manière que ce soit des rumeurs et/ou violant le caractère privé des correspondances et de ce fait, en portant atteinte aux droits de tiers, propriété intellectuelle, vie privée, droit à l’image;
+* Détenir, proposer ou solliciter des contrefaçons au sens du Code de la propriété intellectuelle transmettre des propos destinés à encourager, aider, colporter ou propager de quelque manière que ce soit des rumeurs et/ou violant le caractère privé des correspondances et de ce fait, en portant atteinte aux droits de tiers, propriété intellectuelle, vie privée, droit à l’image;
     
-*   Constituer le non-respect de dispositions concernant le recel de toute activité illégale (vol, escroquerie, abus de confiance), l’exercice illégal d'activité réglementée ou soumis à autorisation quelle qu’elle soit, ou qui seraient proposées en violation de réseaux de distribution sélective ou exclusive. Il est en particulier souligné que le recours à AlloVoisins ne doit en aucun cas les conduire à dépasser, violer, enfreindre ou porter atteinte de quelque manière que ce soit et a quelque titre que ce soit aux règles légales applicables aux offres et demandes d’emplois objets des dispositions du Code du travail relatives aux contrats de mise à disposition et aux entreprises de travail temporaire, ou encore la législation sur les services à la personne...;
+* Constituer le non-respect de dispositions concernant le recel de toute activité illégale (vol, escroquerie, abus de confiance), l’exercice illégal d'activité réglementée ou soumis à autorisation quelle qu’elle soit, ou qui seraient proposées en violation de réseaux de distribution sélective ou exclusive. Il est en particulier souligné que le recours à AlloVoisins ne doit en aucun cas les conduire à dépasser, violer, enfreindre ou porter atteinte de quelque manière que ce soit et a quelque titre que ce soit aux règles légales applicables aux offres et demandes d’emplois objets des dispositions du Code du travail relatives aux contrats de mise à disposition et aux entreprises de travail temporaire, ou encore la législation sur les services à la personne...;
     
-*   Exercer une activité autre que ponctuelle, dans le cadre des besoins directs et des possibilités des Utilisateurs, et ne pas entretenir une activité régulière et pratiquée de manière intensive, susceptible de constituer une pratique illicite, comme une activité dissimulée, une fraude fiscale, l’exercice illégal d’une profession réglementée, le délit de prêt illicite de main-d’œuvre ou de marchandage...;
+* Exercer une activité autre que ponctuelle, dans le cadre des besoins directs et des possibilités des Utilisateurs, et ne pas entretenir une activité régulière et pratiquée de manière intensive, susceptible de constituer une pratique illicite, comme une activité dissimulée, une fraude fiscale, l’exercice illégal d’une profession réglementée, le délit de prêt illicite de main-d’œuvre ou de marchandage...;
     
-*   Transmettre par tout moyen tout Contenu qui soit discourtois, déplacé, illégal, nuisible, menaçant, abusif, constitutif de harcèlement, diffamatoire, insultants, vulgaire, obscène, menaçant, haineux, raciste, attentatoire à la vie privée d'autrui ou autrement répréhensible;
+* Transmettre par tout moyen tout Contenu qui soit discourtois, déplacé, illégal, nuisible, menaçant, abusif, constitutif de harcèlement, diffamatoire, insultants, vulgaire, obscène, menaçant, haineux, raciste, attentatoire à la vie privée d'autrui ou autrement répréhensible;
     
-*   Transmettre par tout moyen tout Contenu qui pourrait être constitutif, sans que ce qui suit ne soit limitatif, d'incitation à la réalisation de crimes et délits ; d’incitation à la discrimination, à la haine d’une personne ou d’un groupe de personnes notamment en raison de leur origine, de leur appartenance ou non à une ethnie, une nation, une race ou une religion déterminée ou faisant l’apologie des crimes de guerre ou des crimes contre l’humanité, contraires à l’ordre public ou aux bonnes mœurs ; d’incitation à la maltraitance et/ou l’attaque d’individus ou d’animaux ; de fausse information ou de mensonge; d'atteinte à l'autorité de la justice ou aux institutions ; d'informations relatives à l'adoption, au procès en cours, au suicide ou à une situation fiscale individuelle ; des propos incitant au suicide ou à la réalisation d’actions violentes contre l’Utilisateur lui-même ou autrui ; ou encore d'acte mettant en péril des personnes notamment par la fabrication, le transport, et la diffusion de message à caractère violent ou pornographique ou de nature à porter gravement atteinte à la dignité humaine...;
+* Transmettre par tout moyen tout Contenu qui pourrait être constitutif, sans que ce qui suit ne soit limitatif, d'incitation à la réalisation de crimes et délits ; d’incitation à la discrimination, à la haine d’une personne ou d’un groupe de personnes notamment en raison de leur origine, de leur appartenance ou non à une ethnie, une nation, une race ou une religion déterminée ou faisant l’apologie des crimes de guerre ou des crimes contre l’humanité, contraires à l’ordre public ou aux bonnes mœurs ; d’incitation à la maltraitance et/ou l’attaque d’individus ou d’animaux ; de fausse information ou de mensonge; d'atteinte à l'autorité de la justice ou aux institutions ; d'informations relatives à l'adoption, au procès en cours, au suicide ou à une situation fiscale individuelle ; des propos incitant au suicide ou à la réalisation d’actions violentes contre l’Utilisateur lui-même ou autrui ; ou encore d'acte mettant en péril des personnes notamment par la fabrication, le transport, et la diffusion de message à caractère violent ou pornographique ou de nature à porter gravement atteinte à la dignité humaine...;
     
-*   Contrefaire des en-têtes ou manipuler de toute autre manière l'identifiant de manière à dissimuler l'origine du Contenu transmis via le Service;
+* Contrefaire des en-têtes ou manipuler de toute autre manière l'identifiant de manière à dissimuler l'origine du Contenu transmis via le Service;
     
-*   Télécharger, afficher, transmettre par tout moyen tout Contenu violant tout brevet, marque déposée, secret de fabrication, droit de propriété intellectuelle ou tout autre droit de propriété appartenant à autrui, tel que notamment le droit à l’image;
+* Télécharger, afficher, transmettre par tout moyen tout Contenu violant tout brevet, marque déposée, secret de fabrication, droit de propriété intellectuelle ou tout autre droit de propriété appartenant à autrui, tel que notamment le droit à l’image;
     
-*   Télécharger, afficher, transmettre par tout moyen toute publicité ou tout matériel promotionnel non sollicités ou non autorisés (notamment se livrer à des "spam", à la transmission de "junk mail", de chaîne de lettres ou toute autre forme de sollicitation);
+* Télécharger, afficher, transmettre par tout moyen toute publicité ou tout matériel promotionnel non sollicités ou non autorisés (notamment se livrer à des "spam", à la transmission de "junk mail", de chaîne de lettres ou toute autre forme de sollicitation);
     
-*   Commettre des actes pouvant mettre en cause la sécurité informatique de AlloVoisins ou des autres Utilisateurs tels qu’entraver ou perturber le Service, les serveurs, les réseaux connectés, enregistrer ou transmettre des fichiers et données contenant des virus ou des programmes destinés à écraser des données en mémoire ou toute autre fonction contaminatrice ou refuser de se conformer aux conditions requises, aux procédures, aux règles générales ou aux dispositions réglementaires applicables aux réseaux connectés au Service;
+* Commettre des actes pouvant mettre en cause la sécurité informatique de AlloVoisins ou des autres Utilisateurs tels qu’entraver ou perturber le Service, les serveurs, les réseaux connectés, enregistrer ou transmettre des fichiers et données contenant des virus ou des programmes destinés à écraser des données en mémoire ou toute autre fonction contaminatrice ou refuser de se conformer aux conditions requises, aux procédures, aux règles générales ou aux dispositions réglementaires applicables aux réseaux connectés au Service;
     
-*   Violer, intentionnellement ou non, toute loi ou réglementation nationale ou internationale en vigueur et toutes autres règles ayant force de loi;
+* Violer, intentionnellement ou non, toute loi ou réglementation nationale ou internationale en vigueur et toutes autres règles ayant force de loi;
     
-*   Accéder aux comptes tiers et ne pas accéder à des parties du site dont l’accès est réservé;
+* Accéder aux comptes tiers et ne pas accéder à des parties du site dont l’accès est réservé;
     
-*   Harceler de quelque manière que ce soit un autre ou plusieurs autres Utilisateurs;
+* Harceler de quelque manière que ce soit un autre ou plusieurs autres Utilisateurs;
     
-*   Collecter et stocker des données personnelles afférentes aux autres Utilisateurs.
+* Collecter et stocker des données personnelles afférentes aux autres Utilisateurs.
     
 
 L’Utilisateur est averti que la réalisation de transactions rémunérées à titre habituel est susceptible de constituer une activité professionnelle et d’entraîner notamment l’application du droit de la Consommation, l’affiliation obligatoire à un régime de sécurité sociale, le paiement de la cotisation foncière des entreprises et des prélèvements sociaux. Le cas échéant, l’Utilisateur s’enregistre auprès du Centre de Formalités des Entreprises et des organismes compétents. L’Utilisateur inscrit sur le site AlloVoisins en qualité de professionnel (Auto-entrepreneur / Entreprise / Association) se soumet aux conditions particulières relatives aux professionnels exposés ci-après. En cas de doute sur son statut, l’Utilisateurs s’engage à se rapprocher d’un conseil juridique aux fins de s’assurer de l’entier respect des obligations fiscales et sociales en vigueur. La responsabilité d’AlloVoisins ne saurait être engagée du fait du non-respect de celles-ci par l’Utilisateur.
@@ -122,30 +122,30 @@ L’Utilisateur est averti que la réalisation de transactions rémunérées à 
 
 L’Utilisateur est averti qu’AlloVoisins n’examine pas le Contenu avant sa diffusion et, en conséquence, ne garantit pas l'opportunité, la probité ou la qualité de ce Contenu. Néanmoins, AlloVoisins ou toute personne ou entité désignée par cette dernière, se réserve le droit, à sa seule discrétion (sans que cela ne constitue une obligation), de refuser ou de déplacer tout Contenu disponible via le Service. Par ailleurs, AlloVoisins, ou toute personne ou entité désignée par cette société sera en droit de supprimer ou de retirer tout Contenu qui violerait les termes des présentes ou serait répréhensible de toute autre façon. L’Utilisateur sera averti du retrait et des motifs de celui-ci, au préalable si possible, et en tout état de cause dans les 72h, afin d’être en mesure de faire valoir ses observations auprès d’AlloVoisins. En outre, AlloVoisins se réserve le droit de refuser de traiter les contenus qui lui semblent violer les termes des présentes ou répréhensibles de toute autre façon. Enfin, l’Utilisateur reconnaît et accepte que si AlloVoisins protège le Contenu contre les accès frauduleux, AlloVoisins peut néanmoins être amené à le divulguer, pour se conformer aux lois en vigueur ou si de bonne foi, AlloVoisins pense qu'une telle mesure est nécessaire :
 
-*   Dans le cadre d'une procédure judiciaire;
+* Dans le cadre d'une procédure judiciaire;
     
-*   Pour faire respecter les Conditions d'Utilisation du Service;
+* Pour faire respecter les Conditions d'Utilisation du Service;
     
-*   Pour répondre à des plaintes arguant de la violation des droits de tiers;
+* Pour répondre à des plaintes arguant de la violation des droits de tiers;
     
-*   Pour protéger les droits ou les intérêts d’AlloVoisins, de ses Utilisateurs ou encore du public.
+* Pour protéger les droits ou les intérêts d’AlloVoisins, de ses Utilisateurs ou encore du public.
     
 
 La responsabilité de AlloVoisins ne peut être recherchée en cas de conflit ou litige portant sur le contenu des informations communiquées par les Utilisateurs sur le Site (textes, images, photographies, logos…) tant qu’AlloVoisins, qui n’est que l’hébergeur des annonces éditées sur le Site par ses Utilisateurs, ne se voit pas notifier, dans les conditions prévues par la loi, le caractère manifestement illicite ou illégal du contenu présent sur le site. Cela étant précisé, AlloVoisins invite les Utilisateurs à l’informer de tout éventuel abus constaté sur le site au moyen du bouton « SIGNALER UN ABUS » figurant sur la plupart des pages du site AlloVoisins. Il est rappelé qu'un tel signalement n'est qu'indicatif et ne lie en aucun cas AlloVoisins, en particulier au sujet du retrait d'un contenu prétendument abusif ou illégal. En effet, toute notification de contenus illicites ou protégés par des droits d’auteur auprès d’AlloVoisins doit obligatoirement être formulé par courrier recommandé avec accusé réception à l'adresse de AlloVoisins (société 2CED) et indiquer les informations suivantes :
 
-*   La date de la notification;
+* La date de la notification;
     
-*   Si le notifiant est une personne physique : ses nom, prénoms, profession, domicile, nationalité, date et lieu de naissance;
+* Si le notifiant est une personne physique : ses nom, prénoms, profession, domicile, nationalité, date et lieu de naissance;
     
-*   Si le notifiant est une personne morale : sa forme, sa dénomination, son siège social et l’organe qui la représente légalement;
+* Si le notifiant est une personne morale : sa forme, sa dénomination, son siège social et l’organe qui la représente légalement;
     
-*   Les noms et domicile du destinataire ou, s’il s’agit d’une personne morale, sa dénomination et son siège social;
+* Les noms et domicile du destinataire ou, s’il s’agit d’une personne morale, sa dénomination et son siège social;
     
-*   La description des faits litigieux et leur localisation précise (avec copie de l’adresse URL précise du contenu);
+* La description des faits litigieux et leur localisation précise (avec copie de l’adresse URL précise du contenu);
     
-*   Les motifs pour lesquels le contenu doit être retiré, comprenant la mention des dispositions légales et des justifications de fait;
+* Les motifs pour lesquels le contenu doit être retiré, comprenant la mention des dispositions légales et des justifications de fait;
     
-*   La copie de la correspondance adressée à l’auteur ou à l’éditeur des informations ou activités litigieuses demandant leur interruption, leur retrait ou leur modification, ou la justification de ce que l’auteur ou l’éditeur n’a pu être contacté.
+* La copie de la correspondance adressée à l’auteur ou à l’éditeur des informations ou activités litigieuses demandant leur interruption, leur retrait ou leur modification, ou la justification de ce que l’auteur ou l’éditeur n’a pu être contacté.
     
 
 Il est rappelé que le fait, pour toute personne, de présenter un contenu ou une activité comme étant illicite dans le but d'en obtenir le retrait ou d'en faire cesser la diffusion, alors qu'elle sait cette information inexacte, est susceptible de faire l’objet de sanctions conformément à la législation en vigueur.
@@ -193,15 +193,15 @@ AlloVoisins ne joue pas d’autre rôle que celui d’intermédiaire de mise en 
 
 Les Utilisateurs du Site déclarent exonérer AlloVoisins de toute responsabilité :
 
-*   Tenant aux réponses ou à l’absence de réponse obtenue à la suite de la publication d’une Annonce ou d’un Profil;
+* Tenant aux réponses ou à l’absence de réponse obtenue à la suite de la publication d’une Annonce ou d’un Profil;
     
-*   Liée à la sélection ou à la non-sélection d’une Annonce déterminée;
+* Liée à la sélection ou à la non-sélection d’une Annonce déterminée;
     
-*   Tenant au bon déroulement ou au résultat de l'exécution d’une offre (par exemple le fait qu’un Utilisateur ne se présente pas, la qualité de service, le délai de service…);
+* Tenant au bon déroulement ou au résultat de l'exécution d’une offre (par exemple le fait qu’un Utilisateur ne se présente pas, la qualité de service, le délai de service…);
     
-*   Liée au contrôle de la qualité et du déroulement de l'exécution de l'offre;
+* Liée au contrôle de la qualité et du déroulement de l'exécution de l'offre;
     
-*   Ou plus largement en cas de conflit ou de litige survenant entre les Utilisateurs.
+* Ou plus largement en cas de conflit ou de litige survenant entre les Utilisateurs.
     
 
 Les Utilisateurs sont seuls responsables des dommages et préjudices directs ou indirects, matériels ou immatériels, causés entre eux, à AlloVoisins et/ou à tout tiers et s'engagent en particulier à indemniser AlloVoisins en cas de demande, réclamation et/ou condamnation à des dommages et intérêts dont AlloVoisins pourrait être menacée ou être l'objet et/ou qui pourrait être prononcée contre cette dernière, y compris les frais raisonnables que AlloVoisins aura pu être conduite à exposer pour la défense de ses intérêts (procédure, conseils et avocats…), dès lors que ces demandes, réclamations et/ou condamnations auraient pour cause, fondement ou origine des informations communiquées par les Utilisateurs sur le Site ou la réalisation d'offres en application d’informations communiquées par les Utilisateurs sur le Site.
@@ -237,19 +237,19 @@ L’Utilisateur est également informé qu’AlloVoisins supprime automatiquemen
 
 AlloVoisins est théoriquement accessible par le réseau Internet 24 heures sur 24 et 7 jours sur 7 et s’engage à tout mettre en œuvre pour assurer la permanence, la continuité et la qualité des services qu’elle propose. Néanmoins, du fait des caractéristiques et limites de l'Internet, que l’Utilisateur déclare connaître, AlloVoisins ne peut en aucune manière être tenue responsable, sauf pour des raisons qui pourraient lui être directement imputables ou relèveraient de l’un de ses fournisseurs ou préposés :
 
-*   Des vitesses d'accès depuis d'autres Services dans le monde, de ralentissements, ou de difficultés d'accès aux données de l’Utilisateur;
+* Des vitesses d'accès depuis d'autres Services dans le monde, de ralentissements, ou de difficultés d'accès aux données de l’Utilisateur;
     
-*   Du non-acheminement de courriers électroniques, du fait des mêmes limitations et caractéristiques de l'Internet;
+* Du non-acheminement de courriers électroniques, du fait des mêmes limitations et caractéristiques de l'Internet;
     
-*   En cas d’altération des informations ou des données durant le transfert par un quelconque moyen de télécommunication ou par tous autres moyens;
+* En cas d’altération des informations ou des données durant le transfert par un quelconque moyen de télécommunication ou par tous autres moyens;
     
-*   De la contamination par virus des données et/ou logiciels de l’Utilisateur, dont la protection incombe à ce dernier;
+* De la contamination par virus des données et/ou logiciels de l’Utilisateur, dont la protection incombe à ce dernier;
     
-*   Des intrusions malveillantes de tiers sur l’espace de l’Utilisateur ou du piratage des données, malgré les mesures de sécurité mises en place conformément aux règles de l’Art;
+* Des intrusions malveillantes de tiers sur l’espace de l’Utilisateur ou du piratage des données, malgré les mesures de sécurité mises en place conformément aux règles de l’Art;
     
-*   En cas de dommage résultant de la perte, de l’altération ou de toute utilisation frauduleuse de données, de la transmission accidentelle de virus ou autres éléments nuisibles, de l’attitude ou comportement d’un tiers, de la non-conclusion d’une opération;
+* En cas de dommage résultant de la perte, de l’altération ou de toute utilisation frauduleuse de données, de la transmission accidentelle de virus ou autres éléments nuisibles, de l’attitude ou comportement d’un tiers, de la non-conclusion d’une opération;
     
-*   Des intrusions malveillantes de tiers sur l’espace de l’Utilisateur ou du piratage des données de l’Utilisateur, malgré les mesures de sécurité mises en place conformément aux règles de l’Art;
+* Des intrusions malveillantes de tiers sur l’espace de l’Utilisateur ou du piratage des données de l’Utilisateur, malgré les mesures de sécurité mises en place conformément aux règles de l’Art;
     
 
 11\. Propriété Intellectuelle
@@ -341,22 +341,22 @@ L’inscription validée par l’Utilisateur et confirmée par AlloVoisins ne se
 
 Dans le cas de l’offre « Voisin à la Une » :
 
-*   La possibilité de devenir « Voisin à la Une » en favorisant le classement de son Profil dans les résultats de recherche sur la plateforme, prioritairement aux Utilisateurs n’ayant pas souscrit à cette option, suivant le rayon géographique et les catégories d’objets et de services choisis par l’Utilisateur. Lorsque plusieurs Utilisateurs ont souscrit cette option « Voisin à la Une » pour le même périmètre géographique et les mêmes catégories de service, alors le classement entre eux se fait par distance, pertinence ou par date de publication en fonction du choix de l’Utilisateur bénéficiaire;
+* La possibilité de devenir « Voisin à la Une » en favorisant le classement de son Profil dans les résultats de recherche sur la plateforme, prioritairement aux Utilisateurs n’ayant pas souscrit à cette option, suivant le rayon géographique et les catégories d’objets et de services choisis par l’Utilisateur. Lorsque plusieurs Utilisateurs ont souscrit cette option « Voisin à la Une » pour le même périmètre géographique et les mêmes catégories de service, alors le classement entre eux se fait par distance, pertinence ou par date de publication en fonction du choix de l’Utilisateur bénéficiaire;
     
-*   Un référencement prioritaire sur les listes de résultats de requête;
+* Un référencement prioritaire sur les listes de résultats de requête;
     
-*   En cas de résiliation de l’offre « Voisin à la Une », l’Utilisateur renonce à tous ses avantages. Il s’engage également à ce que seulement 3 photos maximum soient conservées dans sa galerie.
+* En cas de résiliation de l’offre « Voisin à la Une », l’Utilisateur renonce à tous ses avantages. Il s’engage également à ce que seulement 3 photos maximum soient conservées dans sa galerie.
     
 
 Dans le cas de l’abonnement Premier (pour les particuliers – pour les offres dédiées aux utilisateurs professionnels – voir les conditions applicables aux professionnels) :
 
-*   La réception d’alertes par email et par notification informant en temps réel l’Utilisateur de l’ensemble des demandes auxquelles l’Utilisateur est susceptible de pouvoir répondre suivant un rayon géographique et les catégories d’objets et services choisies par l’Utilisateur;
+* La réception d’alertes par email et par notification informant en temps réel l’Utilisateur de l’ensemble des demandes auxquelles l’Utilisateur est susceptible de pouvoir répondre suivant un rayon géographique et les catégories d’objets et services choisies par l’Utilisateur;
     
-*   Un référencement prioritaire sur les listes de résultats de requête;
+* Un référencement prioritaire sur les listes de résultats de requête;
     
-*   La possibilité d’ajouter jusqu’à 50 photos de réalisations sur son profil;
+* La possibilité d’ajouter jusqu’à 50 photos de réalisations sur son profil;
     
-*   La possibilité de répondre en illimité aux demandes du périmètre souscrit.
+* La possibilité de répondre en illimité aux demandes du périmètre souscrit.
     
 
 En cas de résiliation de l’Abonnement Premier, l’Utilisateur renonce à tous ses avantages. Il s’engage également à ce que seulement 3 photos maximum soient conservées dans sa galerie.
@@ -383,9 +383,9 @@ AlloVoisins se réserve également le droit de modifier le prix des options paya
 
 L’Utilisateur souscrit à une ou plusieurs Options Payantes :
 
-*   En ligne, par carte bancaire, depuis le site internet AlloVoisins ou son application mobile ; ou sur l’App Store;
+* En ligne, par carte bancaire, depuis le site internet AlloVoisins ou son application mobile ; ou sur l’App Store;
     
-*   Après avoir (i) accepté les présentes conditions générales, (ii) vérifié la nature et les critères des Options Payantes choisies et (iii) validé définitivement sa commande.
+* Après avoir (i) accepté les présentes conditions générales, (ii) vérifié la nature et les critères des Options Payantes choisies et (iii) validé définitivement sa commande.
     
 
 La souscription des Options Payantes, hors Abonnement Apple, donne lieu à l’émission d’une confirmation de commande, d’une facture et d’un justificatif de paiement adressés à l’Utilisateur par courrier électronique à l’adresse renseignée sur son compte.
@@ -402,9 +402,9 @@ En cas de suppression des Options Payantes ou de modification des critères choi
 
 L'Utilisateur qui ne reçoit pas le bénéfice d'une option payante qu'il a réglé, en dehors des cas ci-dessous, se verra rembourser le montant réglé au titre de l’option. Les Options Payantes souscrites ne sont pas remboursables, y compris :
 
-*   Lorsque l’Utilisateur ne reçoit pas d’alertes lorsqu’aucune annonce postée par les autres Utilisateurs ne correspond aux critères sélectionnés par lui;
+* Lorsque l’Utilisateur ne reçoit pas d’alertes lorsqu’aucune annonce postée par les autres Utilisateurs ne correspond aux critères sélectionnés par lui;
     
-*   Lorsque le Profil de l’Utilisateur est supprimé par AlloVoisins en raison de sa violation des conditions générales d’utilisation du site.
+* Lorsque le Profil de l’Utilisateur est supprimé par AlloVoisins en raison de sa violation des conditions générales d’utilisation du site.
     
 
 L 221-18 du Code de la Consommation permet à l’Utilisateur non professionnel de se rétracter dans un délai de quatorze (14) jours à compter de la transaction conclue avec un professionnel. Toutefois, en souscrivant les Options Payantes, l’Utilisateur reconnaît demander à AlloVoisins de commencer à exécuter sa transaction avant l’expiration de ce délai et renoncer ainsi expressément à son droit de rétractation conformément à l’article L 221-28 du Code de la consommation.
@@ -414,11 +414,11 @@ L 221-18 du Code de la Consommation permet à l’Utilisateur non professionnel 
 
 A l’occasion de la publication d’une offre sur la plateforme, l'Utilisateur s'engage à concéder au bénéfice de AlloVoisins (société 2CED), à titre gratuit et non-exclusif, les droits de propriété intellectuelle afférents aux diverses contributions à AlloVoisins qui relèveraient d’un tel droit (marque, logo, domaine Web, etc…) dans l’objectif de permettre la publication par AlloVoisins sur la plateforme des Services proposés. Cette concession concerne le monde entier compte tenu de la visibilité sur Internet, pour une durée n’excédant pas celle de la relation de l’utilisateur avec AlloVoisins. Les droits concédés comprennent :
 
-*   Pour le droit de reproduction : le droit de reproduire, de faire reproduire ou d’autoriser un tiers à reproduire, sans limitation de nombre, tout ou partie des contributions de l'Utilisateur;
+* Pour le droit de reproduction : le droit de reproduire, de faire reproduire ou d’autoriser un tiers à reproduire, sans limitation de nombre, tout ou partie des contributions de l'Utilisateur;
     
-*   Pour le droit de représentation : le droit de représenter/diffuser, de faire représenter/diffuser ou d’autoriser un tiers à représenter/diffuser tout ou partie des contributions de l'Utilisateur;
+* Pour le droit de représentation : le droit de représenter/diffuser, de faire représenter/diffuser ou d’autoriser un tiers à représenter/diffuser tout ou partie des contributions de l'Utilisateur;
     
-*   Pour le droit de diffusion : le droit pour AlloVoisins de faire usage à titre direct de tout ou partie des contributions de l'Utilisateur, notamment à des fins de publicité.
+* Pour le droit de diffusion : le droit pour AlloVoisins de faire usage à titre direct de tout ou partie des contributions de l'Utilisateur, notamment à des fins de publicité.
     
 
 Pour l’ensemble des droits susvisés, sont compris notamment les moyens de communication et les supports de toute nature, connus ou inconnus, sous toute forme. Les droits cédés au titre du présent article sont eux-mêmes cessibles à des tiers par AlloVoisins, dans les circonstances exclusives d’une transmission de l’activité, à l’occasion d’une prise de contrôle, d’une fusion, ou d’un rachat de la société AlloVoisins, et ce exclusivement dans les limites prévues au présent article, ce que l'Utilisateur reconnaît accepter au préalable. L’utilisateur déclare quant à lui détenir tous droits de propriété intellectuelle ou toute autorisation du ou des titulaires ou de tiers impliqués, en vue de permettre à AlloVoisins l’utilisation visée au présent article.
@@ -573,9 +573,9 @@ L’Utilisateur professionnel doit rembourser le consommateur qui exerce son dro
 
 Dans le cas d’une transaction établie par un Utilisateur professionnel, celui-ci est tenu de délivrer aux bénéficiaires une facture comportant l’ensemble des mentions légales en vigueur. Lorsque le contrat conclu par voie électronique porte sur une somme égale ou supérieure à 120 €, il doit être archivé par le vendeur :
 
-*   Si la livraison du bien ou l'exécution de la transaction est immédiate, pendant un délai de dix (10) ans à partir de la conclusion du contrat;
+* Si la livraison du bien ou l'exécution de la transaction est immédiate, pendant un délai de dix (10) ans à partir de la conclusion du contrat;
     
-*   Dans le cas contraire, à partir de la conclusion du contrat et pendant un délai de dix (10) ans à partir de la date de livraison ou d'exécution du bien ou du service.
+* Dans le cas contraire, à partir de la conclusion du contrat et pendant un délai de dix (10) ans à partir de la date de livraison ou d'exécution du bien ou du service.
     
 
 8\. Engagements et durée (Options payantes)
@@ -587,9 +587,9 @@ Dans le cas d’une transaction établie par un Utilisateur professionnel, celui
 
 Ces options payantes ont les mêmes caractéristiques que pour les particuliers mais l'utilisateur professionnel bénéficie de fonctionnalités complémentaires :
 
-*   Un accès au logiciel d’activité (contacts, devis, facturation et encaissements);
+* Un accès au logiciel d’activité (contacts, devis, facturation et encaissements);
     
-*   La possibilité d’éditer des cartes de visites et prospectus.
+* La possibilité d’éditer des cartes de visites et prospectus.
     
 
 ### 8.2 Durée d’engagement
@@ -615,26 +615,26 @@ AlloVoisins propose à ses utilisateurs professionnels abonnés Premier exclusiv
 
 AlloVoisins permet ainsi de créer rapidement et facilement des documents :
 
-*   Editer des devis;
+* Editer des devis;
     
-*   Enregistrer des commandes par la validation de ceux-ci;
+* Enregistrer des commandes par la validation de ceux-ci;
     
-*   Editer et délivrer des factures;
+* Editer et délivrer des factures;
     
-*   Enregistrer les encaissements correspondants.
+* Enregistrer les encaissements correspondants.
     
 
 Une base de contacts permet également d’accéder ultérieurement aux informations précédemment saisies. En conséquence, le service propose à la fois des fonctionnalités relevant d’un logiciel de caisse.
 
 Dans le strict respect de la réglementation, dans le cadre où l’utilisateur professionnel est susceptible d’être assujetti à la TVA, AlloVoisins s’engage à respecter les exigences de sécurisation exigée à l’égard d’un logiciel de caisse (article 105 de la loi de finances pour 2018 - [BOI-TVA-DECLA-30-10-30](http://bofip.impots.gouv.fr/bofip/10691-PGP.html?identifiant=BOI-TVA-DECLA-30-10-30-20180704)) :
 
-*   Inaltérabilité des données;
+* Inaltérabilité des données;
     
-*   Sécurisation par traçabilité;
+* Sécurisation par traçabilité;
     
-*   Conservation des données de clôture;
+* Conservation des données de clôture;
     
-*   Fonctionnalités d’archivage des données figées et datées.
+* Fonctionnalités d’archivage des données figées et datées.
     
 
 À cet égard, AlloVoisins permet à l’utilisateur professionnel de télécharger une attestation de conformité personnalisée aux exigences légales telles que le prévoit la loi (en contactant le service client).
@@ -679,80 +679,80 @@ En conséquence, au regard de la réglementation AlloVoisins agit en qualité de
 
 Dans le cadre de leurs relations, le Sous-Traitant s'engage à effectuer pour le compte du Responsable de Traitement s'engagent à respecter la réglementation en vigueur applicable au traitement de données à caractère personnel et, en particulier, le Règlement Général sur la Protection des Données.
 
-*   Les conditions dans lesquelles le Sous-Traitant s'engage à effectuer pour le compte du Responsable de Traitement les opérations de traitement de données à caractère personnel dans les conditions suivantes
+* Les conditions dans lesquelles le Sous-Traitant s'engage à effectuer pour le compte du Responsable de Traitement les opérations de traitement de données à caractère personnel dans les conditions suivantes
     
-    *   Traiter les données à caractère personnel pour les seules finalités et dans les conditions convenues dans les CGUV afin de fournir les services objets de la sous-traitance;
+    * Traiter les données à caractère personnel pour les seules finalités et dans les conditions convenues dans les CGUV afin de fournir les services objets de la sous-traitance;
         
-    *   Traiter les données conformément et limitativement aux instructions du responsable de traitement. Si le sous- traitant considère qu’une action constitue une violation a la réglementation, il en informe le responsable de traitement et se réserve le droit de ne pas effectuer le traitement;
+    * Traiter les données conformément et limitativement aux instructions du responsable de traitement. Si le sous- traitant considère qu’une action constitue une violation a la réglementation, il en informe le responsable de traitement et se réserve le droit de ne pas effectuer le traitement;
         
-    *   Garantir la confidentialité́ des données à caractère personnel traitées et veille à ce que les personnes autorisées à traiter les données à caractère personnel s’engagent à respecter la confidentialité́ ou soient soumises à une obligation légale appropriée de confidentialité́, et reçoivent la sensibilisation nécessaire en matière de protection des données à caractère personnel;
+    * Garantir la confidentialité́ des données à caractère personnel traitées et veille à ce que les personnes autorisées à traiter les données à caractère personnel s’engagent à respecter la confidentialité́ ou soient soumises à une obligation légale appropriée de confidentialité́, et reçoivent la sensibilisation nécessaire en matière de protection des données à caractère personnel;
         
-    *   Prendre en compte, s’agissant de ses outils, produits, applications ou services, les principes de protection des données dès la conception (Privacy by Design), et de protection des données par défaut (Privacy by Default);
+    * Prendre en compte, s’agissant de ses outils, produits, applications ou services, les principes de protection des données dès la conception (Privacy by Design), et de protection des données par défaut (Privacy by Default);
         
-    *   S’abstenir de modifier, changer ou altérer le contenu des données personnelles, de divulguer des données personnelles ou d’autoriser leur divulgation a un tiers, sauf autorisation écrite expresse du responsable de traitement ou obligation légale;
+    * S’abstenir de modifier, changer ou altérer le contenu des données personnelles, de divulguer des données personnelles ou d’autoriser leur divulgation a un tiers, sauf autorisation écrite expresse du responsable de traitement ou obligation légale;
         
-    *   Mettre en place des mesures techniques et organisationnelles appropriées pour:
+    * Mettre en place des mesures techniques et organisationnelles appropriées pour:
         
-        *   Protéger les données personnelles de tout traitement non autorise ou illicite et de toute perte, destruction, dommage, modification ou divulgation accidentelles ou illicites;
+        * Protéger les données personnelles de tout traitement non autorise ou illicite et de toute perte, destruction, dommage, modification ou divulgation accidentelles ou illicites;
             
-        *   De conformer à la législation sur la protection des données;
+        * De conformer à la législation sur la protection des données;
             
-        *   Garantir la protection des droits de la personne concernée.
+        * Garantir la protection des droits de la personne concernée.
             
-*   Communiquer les coordonnées de son Délégué à la Protection des Données :
+* Communiquer les coordonnées de son Délégué à la Protection des Données :
     
-    *   Régis Lechien, Avocat - DPO (355 rue de l’Elorn 29200 Brest
+    * Régis Lechien, Avocat - DPO (355 rue de l’Elorn 29200 Brest
         
-    *   Coordonnées à utiliser : 1 rue Victor Hugo 44400 Rezé France
+    * Coordonnées à utiliser : 1 rue Victor Hugo 44400 Rezé France
         
-    *   Adresse électronique dédiée dpo@allovoisins.com
+    * Adresse électronique dédiée dpo@allovoisins.com
         
-*   Tenir un registre de toutes les catégories d’activités de traitement effectuées pour le compte du Responsable de Traitement comprenant :
+* Tenir un registre de toutes les catégories d’activités de traitement effectuées pour le compte du Responsable de Traitement comprenant :
     
-    *   Le nom et les coordonnées du Responsable de Traitement pour le compte duquel il agit, des éventuels Sous-Traitants et, le cas échéant, du délégué à la protection des données;
+    * Le nom et les coordonnées du Responsable de Traitement pour le compte duquel il agit, des éventuels Sous-Traitants et, le cas échéant, du délégué à la protection des données;
         
-    *   Les catégories de traitements effectués pour le compte du Responsable du Traitement;
+    * Les catégories de traitements effectués pour le compte du Responsable du Traitement;
         
-    *   Le cas échéant, les transferts de données à caractère personnel vers un pays tiers ou à une organisation internationale, y compris l'identification de ce pays tiers ou de cette organisation internationale et, dans le cas des transferts le nécessitant, les documents attestant de l'existence de garanties appropriées;
+    * Le cas échéant, les transferts de données à caractère personnel vers un pays tiers ou à une organisation internationale, y compris l'identification de ce pays tiers ou de cette organisation internationale et, dans le cas des transferts le nécessitant, les documents attestant de l'existence de garanties appropriées;
         
-    *   Dans la mesure du possible, une description générale des mesures de sécurité techniques et organisationnelles.
+    * Dans la mesure du possible, une description générale des mesures de sécurité techniques et organisationnelles.
         
-*   Au terme de la prestation de services relative au traitement de ces données, s’engager à :
+* Au terme de la prestation de services relative au traitement de ces données, s’engager à :
     
-    *   Détruire toutes les données personnelles ou,
+    * Détruire toutes les données personnelles ou,
         
-    *   Mettre à disposition toutes les données personnelles à Responsable de Traitement.
+    * Mettre à disposition toutes les données personnelles à Responsable de Traitement.
         
-*   Faire appel à un autre Sous-Traitant (« le sous-traitant ultérieur ») pour mener des activités de traitement spécifiques. Dans ce cas, il tient l’information à la disposition du Responsable de Traitement qui a la possibilité de s’y opposer pour des motifs légitimes. Il appartient au responsable de traitement de s’assurer qu’il répercute l’information aux personnes concernées par les opérations de traitement au moment de la collecte des données;
+* Faire appel à un autre Sous-Traitant (« le sous-traitant ultérieur ») pour mener des activités de traitement spécifiques. Dans ce cas, il tient l’information à la disposition du Responsable de Traitement qui a la possibilité de s’y opposer pour des motifs légitimes. Il appartient au responsable de traitement de s’assurer qu’il répercute l’information aux personnes concernées par les opérations de traitement au moment de la collecte des données;
     
-*   Fournir, au moment de la collecte des données, aux personnes concernées par les opérations de traitement l’information relative aux traitements de données qu’il réalise;
+* Fournir, au moment de la collecte des données, aux personnes concernées par les opérations de traitement l’information relative aux traitements de données qu’il réalise;
     
-*   Dans la mesure du possible, aider le Responsable de Traitement à s’acquitter de son obligation de donner suite aux demandes d’exercice des droits des personnes concernées : droit d’accès, de rectification, d’effacement et d’opposition, droit à la limitation du traitement, droit à la portabilité des données, droit de ne pas faire l’objet d’une décision individuelle automatisée (y compris le profilage). Lorsque les personnes concernées exercent auprès du Sous-Traitant des demandes d’exercice de leurs droits, le Sous-Traitant adresse ces demandes dès réception par courrier électronique au Responsable de Traitement;
+* Dans la mesure du possible, aider le Responsable de Traitement à s’acquitter de son obligation de donner suite aux demandes d’exercice des droits des personnes concernées : droit d’accès, de rectification, d’effacement et d’opposition, droit à la limitation du traitement, droit à la portabilité des données, droit de ne pas faire l’objet d’une décision individuelle automatisée (y compris le profilage). Lorsque les personnes concernées exercent auprès du Sous-Traitant des demandes d’exercice de leurs droits, le Sous-Traitant adresse ces demandes dès réception par courrier électronique au Responsable de Traitement;
     
-*   Notifier au Responsable de Traitement toute violation de données à caractère personnel dans un délai maximum de 8 heures après en avoir pris connaissance et par courrier électronique. Cette notification est accompagnée de toute documentation utile afin de permettre au responsable de traitement, si nécessaire, de notifier cette violation à l’autorité de contrôle compétente;
+* Notifier au Responsable de Traitement toute violation de données à caractère personnel dans un délai maximum de 8 heures après en avoir pris connaissance et par courrier électronique. Cette notification est accompagnée de toute documentation utile afin de permettre au responsable de traitement, si nécessaire, de notifier cette violation à l’autorité de contrôle compétente;
     
-*   Aider le responsable de traitement pour la réalisation d’analyses d’impact relative à la protection des données, et aider le Responsable de Traitement pour la réalisation de la consultation préalable de l’autorité de contrôle;
+* Aider le responsable de traitement pour la réalisation d’analyses d’impact relative à la protection des données, et aider le Responsable de Traitement pour la réalisation de la consultation préalable de l’autorité de contrôle;
     
-*   Mettre à la disposition du Responsable de Traitement la documentation nécessaire pour démontrer le respect de toutes ses obligations.
+* Mettre à la disposition du Responsable de Traitement la documentation nécessaire pour démontrer le respect de toutes ses obligations.
     
 
 Les conditions dans lesquelles le Responsable de Traitement s'engage à collaborer avec le Sous-Traitant sont les suivantes :
 
-*   Fournir au sous-traitant les données nécessaires au traitement;
+* Fournir au sous-traitant les données nécessaires au traitement;
     
-    *   Le Responsable de Traitement reconnait être le propriétaire de l’intégralité des informations constitutives de données à caractère personnel traitées par le Sous-Traitant. À ce titre, le Responsable de Traitement s’engage à garantir la licéité des données à caractère personnel qu’il transmet au Sous-Traitant. Le Sous-Traitant ne peut être tenu responsable en cas de nonconformité des données visées au Règlement Général sur la Protection des Données ou à l’ordre public;
+    * Le Responsable de Traitement reconnait être le propriétaire de l’intégralité des informations constitutives de données à caractère personnel traitées par le Sous-Traitant. À ce titre, le Responsable de Traitement s’engage à garantir la licéité des données à caractère personnel qu’il transmet au Sous-Traitant. Le Sous-Traitant ne peut être tenu responsable en cas de nonconformité des données visées au Règlement Général sur la Protection des Données ou à l’ordre public;
         
-    *   Le Responsable de Traitement s’engage à ce que les données à caractère personnel soient collectées et traitées de manière adéquate, pertinente et limitée au regard des finalités déterminées, explicites et légitimes.
+    * Le Responsable de Traitement s’engage à ce que les données à caractère personnel soient collectées et traitées de manière adéquate, pertinente et limitée au regard des finalités déterminées, explicites et légitimes.
         
-*   Collaborer avec le Sous-Traitant afin de lui permettre d’exécuter pleinement ses obligations et ce notamment en cas de manipulation illégale, d’incidents relatifs à la sécurité ou à la violation des droits des personnes concernées;
+* Collaborer avec le Sous-Traitant afin de lui permettre d’exécuter pleinement ses obligations et ce notamment en cas de manipulation illégale, d’incidents relatifs à la sécurité ou à la violation des droits des personnes concernées;
     
-*   D’assurer que les personnes autorisées à traiter les Données à Caractère Personnel reçoivent la formation nécessaire en matière de protection de ces données;
+* D’assurer que les personnes autorisées à traiter les Données à Caractère Personnel reçoivent la formation nécessaire en matière de protection de ces données;
     
-*   Veiller, au préalable et pendant toute la durée du traitement, au respect des obligations du SousTraitant;
+* Veiller, au préalable et pendant toute la durée du traitement, au respect des obligations du SousTraitant;
     
-*   Documenter par écrit toute instruction concernant le traitement des données par le Sous-Traitant;
+* Documenter par écrit toute instruction concernant le traitement des données par le Sous-Traitant;
     
-*   Superviser le traitement, y compris réaliser les audits et les inspections auprès du Sous-Traitant.
+* Superviser le traitement, y compris réaliser les audits et les inspections auprès du Sous-Traitant.
     
 
 Le Sous-Traitant s’engage, par une obligation de résultat, à prendre toutes les mesures techniques et organisationnelles liées à la mise en œuvre de la présente convention. La responsabilité du sous-traitant est limitée à une obligation de moyen concernant l’efficacité de ces mesures.
@@ -771,31 +771,31 @@ Aucune Partie ne pourra toutefois être tenue pour responsable envers l’autre 
 
 Informations particulières et instructions :
 
-*   Liste des Sous-Traitants ultérieurs de données à caractère personnel
+* Liste des Sous-Traitants ultérieurs de données à caractère personnel
     
     Liste des Sous-Traitants ultérieurs de données à caractère personnel pour le traitement des DCP du logiciel d’activité :
     
-    *   Magic online : hébergeur (130-134 Avenue du Président Wilson 93512 Montreuil Cedex)
+    * Magic online : hébergeur (130-134 Avenue du Président Wilson 93512 Montreuil Cedex)
         
-    *   Nexmo : routage des SMS (25 Canada Square Level 37, London, England, E14 5LQ)
+    * Nexmo : routage des SMS (25 Canada Square Level 37, London, England, E14 5LQ)
         
-    *   INTERSTIS : service clients (filiale du groupe VIPP - 11 Boulevard Brune, 75014 Paris)
+    * INTERSTIS : service clients (filiale du groupe VIPP - 11 Boulevard Brune, 75014 Paris)
         
-*   Description des traitements
+* Description des traitements
     
     Le Sous-Traitant est autorisé à traiter pour le compte du Responsable de Traitement les DCP nécessaires pour fournir la ou les Prestation(s) objet du Contrat :
     
-    *   La nature des DCP traitée est : Catégorie (client, fournisseur, particulier / professionnel, activité, Nom, prénom, Coordonnées, fonction dans la structure…);
+    * La nature des DCP traitée est : Catégorie (client, fournisseur, particulier / professionnel, activité, Nom, prénom, Coordonnées, fonction dans la structure…);
         
-    *   La nature des opérations réalisées sur les DCP est le classement, et le tri par critères, la conservation, l’export;
+    * La nature des opérations réalisées sur les DCP est le classement, et le tri par critères, la conservation, l’export;
         
-    *   La ou les finalité(s) du traitement sont :
+    * La ou les finalité(s) du traitement sont :
         
-        *   La conservation et le classement de coordonnées pour la sollicitation et la gestion de la relation commerciale;
+        * La conservation et le classement de coordonnées pour la sollicitation et la gestion de la relation commerciale;
             
-        *   L’édition de documents d’activité (devis, factures…) comportant les coordonnées des destinataires;
+        * L’édition de documents d’activité (devis, factures…) comportant les coordonnées des destinataires;
             
-    *   Les catégories de personnes concernées sont les clients et prospects, les fournisseurs, les partenaires;
+    * Les catégories de personnes concernées sont les clients et prospects, les fournisseurs, les partenaires;
         
 
 ANNEXE III : FORMULAIRE TYPE DE RETRACTATION (ARTICLE 17 ET 4 DES CONDITIONS PRO) :
@@ -823,81 +823,81 @@ Signature du (des) consommateur(s) (uniquement en cas de notification du présen
 
 Les mesures de protection administratives, techniques et physiques que prend AlloVoisins pour protéger les données sur ses clients sont les suivantes :
 
-*   Elles sont conçues pour protéger la confidentialité, l’intégrité et la disponibilité des données sur les clients contre les menaces ou les dangers prévus ou réels; l’accès, l’utilisation, la divulgation, la modification ou la destruction non autorisés ou illégaux et finalement, la perte, la destruction ou les dommages accidentels conformément aux lois applicables. AlloVoisins tient à jour des politiques, des normes et des procédures en matière de sécurité conçues pour protéger le traitement des renseignements sur les clients par ses employés et ses contractuels conformément auxdites mesures de contrôle.
+* Elles sont conçues pour protéger la confidentialité, l’intégrité et la disponibilité des données sur les clients contre les menaces ou les dangers prévus ou réels; l’accès, l’utilisation, la divulgation, la modification ou la destruction non autorisés ou illégaux et finalement, la perte, la destruction ou les dommages accidentels conformément aux lois applicables. AlloVoisins tient à jour des politiques, des normes et des procédures en matière de sécurité conçues pour protéger le traitement des renseignements sur les clients par ses employés et ses contractuels conformément auxdites mesures de contrôle.
     
-*   AlloVoisins accorde une grande importance à ses rapports avec ses clients et ses partenaires, ainsi qu’à la confiance qu’ils lui témoignent. Dans le contexte actuel de haute technologie, nous comprenons qu’un programme de sécurité adaptable et agile est essentiel à l’intégrité de nos activités et que la protection des données confidentielles et de nature exclusive est l’une de nos principales priorités. Nous évaluons nos contrôles de sécurité, de disponibilité et de confidentialité et les faisons évoluer pour nous adapter à la situation actuelle quant aux menaces.
+* AlloVoisins accorde une grande importance à ses rapports avec ses clients et ses partenaires, ainsi qu’à la confiance qu’ils lui témoignent. Dans le contexte actuel de haute technologie, nous comprenons qu’un programme de sécurité adaptable et agile est essentiel à l’intégrité de nos activités et que la protection des données confidentielles et de nature exclusive est l’une de nos principales priorités. Nous évaluons nos contrôles de sécurité, de disponibilité et de confidentialité et les faisons évoluer pour nous adapter à la situation actuelle quant aux menaces.
     
-*   AlloVoisins met en œuvre les mesures pour minimiser la probabilité et l’incidence des attaques et des incidents de sécurité sur ses propres informations celles des utilisateurs et tierces parties.
+* AlloVoisins met en œuvre les mesures pour minimiser la probabilité et l’incidence des attaques et des incidents de sécurité sur ses propres informations celles des utilisateurs et tierces parties.
     
-*   AlloVoisins s’engage à garantir la sécurité, la disponibilité et la confidentialité des renseignements sur ses clients lors de l’utilisation de ses produits et services.
+* AlloVoisins s’engage à garantir la sécurité, la disponibilité et la confidentialité des renseignements sur ses clients lors de l’utilisation de ses produits et services.
     
-*   D&B classe ses données dans les catégories suivantes : publiques, à usage interne seulement, commerciales en toute confidentialité, confidentielles restreintes et sensibles restreintes. Il s’agit de données que AlloVoisins acquiert, traite, analyse et offre dans des produits que les clients peuvent utiliser pour répondre à leurs besoins. Il est impératif d’en comprendre leur utilisation autorisée avant de s’en servir. Nous les protégeons en utilisant une combinaison de technologies préventives et de détection, notamment le chiffrement et les systèmes de détection d’intrusion. Parallèlement à ces mesures de sécurité, nous avons mis en place des politiques et des procédures pour valider nos contrôles de sécurité et les faire respecter. L’accès à ces données est limité au personnel autorisé au moyen de contrôles d’accès physiques et logiques.
+* D&B classe ses données dans les catégories suivantes : publiques, à usage interne seulement, commerciales en toute confidentialité, confidentielles restreintes et sensibles restreintes. Il s’agit de données que AlloVoisins acquiert, traite, analyse et offre dans des produits que les clients peuvent utiliser pour répondre à leurs besoins. Il est impératif d’en comprendre leur utilisation autorisée avant de s’en servir. Nous les protégeons en utilisant une combinaison de technologies préventives et de détection, notamment le chiffrement et les systèmes de détection d’intrusion. Parallèlement à ces mesures de sécurité, nous avons mis en place des politiques et des procédures pour valider nos contrôles de sécurité et les faire respecter. L’accès à ces données est limité au personnel autorisé au moyen de contrôles d’accès physiques et logiques.
     
-*   La structure des activités s’articule autour des domaines et mesures de contrôle qui suivent : Gestion de l’accès, Sécurité du réseau, Sécurité des données, Détection et intervention, Sécurité du système, Sécurité des logiciels, Validation et essais, Sensibilisation et formation,
+* La structure des activités s’articule autour des domaines et mesures de contrôle qui suivent : Gestion de l’accès, Sécurité du réseau, Sécurité des données, Détection et intervention, Sécurité du système, Sécurité des logiciels, Validation et essais, Sensibilisation et formation,
     
-*   La sécurité est la responsabilité de tous, et nous comprenons que cela commence avec nos employés. Dès l’embauche, nous vérifions leurs antécédents. Ceux-ci suivent les formations nécessaires et nous continuons à partager et à assurer l’adoption des meilleures pratiques en matière de sécurité pour les garder au fait des dernières tendances.
+* La sécurité est la responsabilité de tous, et nous comprenons que cela commence avec nos employés. Dès l’embauche, nous vérifions leurs antécédents. Ceux-ci suivent les formations nécessaires et nous continuons à partager et à assurer l’adoption des meilleures pratiques en matière de sécurité pour les garder au fait des dernières tendances.
     
-*   Les politiques, les normes, les procédures et les lignes directrices sont des éléments essentiels de la gouvernance. Ils fournissent la structure et les règles autour desquelles fonctionne AlloVoisins. Les politiques sont examinées avec les responsables concernés afin de s’assurer qu’elles sont conformes aux objectifs opérationnels et toujours pertinentes, adéquates et efficaces. Grâce à une telle approche, nous nous alignons davantage sur les divers règlements et améliorons notre capacité de faire face aux menaces à la sécurité auxquelles nous sommes confrontés.
+* Les politiques, les normes, les procédures et les lignes directrices sont des éléments essentiels de la gouvernance. Ils fournissent la structure et les règles autour desquelles fonctionne AlloVoisins. Les politiques sont examinées avec les responsables concernés afin de s’assurer qu’elles sont conformes aux objectifs opérationnels et toujours pertinentes, adéquates et efficaces. Grâce à une telle approche, nous nous alignons davantage sur les divers règlements et améliorons notre capacité de faire face aux menaces à la sécurité auxquelles nous sommes confrontés.
     
-*   Nous mettons également en application des processus de conformité qui visent le traitement des données protégées, afin de nous conformer aux exigences prévues par la loi, la réglementation, les contrats et la sécurité. Le personnel dispose de politiques documentées d’élimination des données pour le guider dans les procédures à suivre.
+* Nous mettons également en application des processus de conformité qui visent le traitement des données protégées, afin de nous conformer aux exigences prévues par la loi, la réglementation, les contrats et la sécurité. Le personnel dispose de politiques documentées d’élimination des données pour le guider dans les procédures à suivre.
     
-*   Les droits et privilèges d’accès nécessaires à l’exécution des tâches d’un utilisateur sont accordés en conformité avec ce qui suit : le besoin de connaître ; le besoin d’utiliser; le moindre privilège; la séparation des tâches; les obligations contractuelles quant à la limitation de l’accès aux données ou aux services; les exigences prévues par la réglementation.
+* Les droits et privilèges d’accès nécessaires à l’exécution des tâches d’un utilisateur sont accordés en conformité avec ce qui suit : le besoin de connaître ; le besoin d’utiliser; le moindre privilège; la séparation des tâches; les obligations contractuelles quant à la limitation de l’accès aux données ou aux services; les exigences prévues par la réglementation.
     
-*   Les utilisateurs autorisés doivent s’identifier et s’authentifier sur le réseau, les applications et les platesformes en utilisant leur nom d’utilisateur et leur mot de passe. L’authentification des utilisateurs et des appareils aux systèmes d’information est protégée par des mots de passe qui répondent aux exigences en matière de complexité des mots de passe. En cas de départ, l’accès aux systèmes est révoqué.
+* Les utilisateurs autorisés doivent s’identifier et s’authentifier sur le réseau, les applications et les platesformes en utilisant leur nom d’utilisateur et leur mot de passe. L’authentification des utilisateurs et des appareils aux systèmes d’information est protégée par des mots de passe qui répondent aux exigences en matière de complexité des mots de passe. En cas de départ, l’accès aux systèmes est révoqué.
     
-*   L’authentification multifactorielle est requise pour les sessions distantes et l’accès administratif aux environnements qui hébergent les systèmes de production. De plus, les plus hauts niveaux d’accès privilégié aux systèmes, notamment les contrôleurs de domaine, sont sous le contrôle de notre système de gestion des accès privilégiés.
+* L’authentification multifactorielle est requise pour les sessions distantes et l’accès administratif aux environnements qui hébergent les systèmes de production. De plus, les plus hauts niveaux d’accès privilégié aux systèmes, notamment les contrôleurs de domaine, sont sous le contrôle de notre système de gestion des accès privilégiés.
     
-*   La protection des connexions réseau est assurée par une combinaison de mesures de contrôle de sécurité pour la protection des données et des systèmes. Celles-ci sont basées sur le type et l’objectif de la connexion et comprennent, sans s’y limiter, la segmentation du réseau, le déploiement de pare-feu et autres dispositifs de sécurité, ainsi que des mécanismes d’authentification appropriés.
+* La protection des connexions réseau est assurée par une combinaison de mesures de contrôle de sécurité pour la protection des données et des systèmes. Celles-ci sont basées sur le type et l’objectif de la connexion et comprennent, sans s’y limiter, la segmentation du réseau, le déploiement de pare-feu et autres dispositifs de sécurité, ainsi que des mécanismes d’authentification appropriés.
     
-*   Un contrôle de l’accès à l’information offert sur le réseau permet de prévenir et de détecter les accès non autorisés tout en fournissant un accès sécurisé aux utilisateurs et aux systèmes autorisés. La consignation et le stockage centralisé des activités et du trafic réseau s’effectuent selon les normes ou selon des mécanismes de collecte propres aux fournisseurs.
+* Un contrôle de l’accès à l’information offert sur le réseau permet de prévenir et de détecter les accès non autorisés tout en fournissant un accès sécurisé aux utilisateurs et aux systèmes autorisés. La consignation et le stockage centralisé des activités et du trafic réseau s’effectuent selon les normes ou selon des mécanismes de collecte propres aux fournisseurs.
     
-*   La mise en œuvre de nouveaux dispositifs de réseautage (c.-à-d. routeurs, commutateurs, pare-feu) ou composants de systèmes de réseautage suit un processus officiel de gestion du changement. La configuration des appareils déployés dans le réseau répond aux exigences de sécurité propres à chaque usage (interne, public, démilitarisé). Les services non essentiels sur les périphériques réseau sont désactivés ou supprimés.
+* La mise en œuvre de nouveaux dispositifs de réseautage (c.-à-d. routeurs, commutateurs, pare-feu) ou composants de systèmes de réseautage suit un processus officiel de gestion du changement. La configuration des appareils déployés dans le réseau répond aux exigences de sécurité propres à chaque usage (interne, public, démilitarisé). Les services non essentiels sur les périphériques réseau sont désactivés ou supprimés.
     
-*   L’accès public direct entre les réseaux publics (par exemple Internet) et tout réseau interne est restreint. De plus, il y a restriction du trafic, entrant et sortant, provenant de réseaux non fiables (y compris les connexions sans fil invitées et externes) et d’hôtes.
+* L’accès public direct entre les réseaux publics (par exemple Internet) et tout réseau interne est restreint. De plus, il y a restriction du trafic, entrant et sortant, provenant de réseaux non fiables (y compris les connexions sans fil invitées et externes) et d’hôtes.
     
-*   Le branchement d’un nouveau réseau à un réseau d’entreprise ou à un réseau de systèmes commerciaux existant à n’importe quel emplacement ou centre de données de la compagnie doit être approuvé par l’équipe responsable de la sécurité ou suivre la norme pour les connexions de tunnel par RPV. Il est possible d’accéder aux connexions à distance au réseau de l’entreprise par le biais de RPV et de connexions MPLS sur des passerelles gérées.
+* Le branchement d’un nouveau réseau à un réseau d’entreprise ou à un réseau de systèmes commerciaux existant à n’importe quel emplacement ou centre de données de la compagnie doit être approuvé par l’équipe responsable de la sécurité ou suivre la norme pour les connexions de tunnel par RPV. Il est possible d’accéder aux connexions à distance au réseau de l’entreprise par le biais de RPV et de connexions MPLS sur des passerelles gérées.
     
-*   L’accès sans fil et à distance aux personnes extérieures fait l’objet de mesures d’identification, d’inventaire et de gestion.
+* L’accès sans fil et à distance aux personnes extérieures fait l’objet de mesures d’identification, d’inventaire et de gestion.
     
-*   La transmission des renseignements de nature délicate ne se fait par Internet ou par d’autres moyens de communication publics que s’il y a chiffrement en transit. Le chiffrement des fichiers de données s’effectue à l’aide du protocole TLS (Transport Layer Security) pour les sessions de communication Web.
+* La transmission des renseignements de nature délicate ne se fait par Internet ou par d’autres moyens de communication publics que s’il y a chiffrement en transit. Le chiffrement des fichiers de données s’effectue à l’aide du protocole TLS (Transport Layer Security) pour les sessions de communication Web.
     
-*   De plus, le chiffrement au repos est utilisé lorsque la loi l’exige et que nos normes de classification des données le prévoient.
+* De plus, le chiffrement au repos est utilisé lorsque la loi l’exige et que nos normes de classification des données le prévoient.
     
-*   Enfin, nous utilisons des processus de gestion des clés de chiffrement pour assurer la production, le stockage, la distribution et la destruction sécurisés de celles-ci.
+* Enfin, nous utilisons des processus de gestion des clés de chiffrement pour assurer la production, le stockage, la distribution et la destruction sécurisés de celles-ci.
     
-*   AlloVoisins enquête sur les incidents liés à la sécurité, la disponibilité ou la confidentialité des renseignements sur ses clients ou à la protection de la vie privée. Nous intervenons de manière opportune et coordonnée en cas de violation réelle ou présumée de nos systèmes d’information, tout en respectant les lois et règlements applicables.
+* AlloVoisins enquête sur les incidents liés à la sécurité, la disponibilité ou la confidentialité des renseignements sur ses clients ou à la protection de la vie privée. Nous intervenons de manière opportune et coordonnée en cas de violation réelle ou présumée de nos systèmes d’information, tout en respectant les lois et règlements applicables.
     
-*   AlloVoisins a mis au point des pratiques qu’elle continue d’employer pour établir une classification et un ordre de priorité des incidents de sécurité de l’information en fonction de la gravité de chacun d’eux, ainsi que de la sensibilité des systèmes touchés et des données concernées. Pour appuyer ces initiatives, AlloVoisins a mis en œuvre des alertes provenant de divers outils et continue de les surveiller afin de fournir une capacité de détection efficace. Nous menons toujours une enquête en cas d’alerte ou d’événements relatifs à la sécurité, notamment s’ils sont liés à la disponibilité et à la confidentialité. Nous visons ainsi à dépister le plus rapidement possible de nouveaux modèles d’attaque et à ne déclarer les incidents qu’en fonction des résultats de l’enquête.
+* AlloVoisins a mis au point des pratiques qu’elle continue d’employer pour établir une classification et un ordre de priorité des incidents de sécurité de l’information en fonction de la gravité de chacun d’eux, ainsi que de la sensibilité des systèmes touchés et des données concernées. Pour appuyer ces initiatives, AlloVoisins a mis en œuvre des alertes provenant de divers outils et continue de les surveiller afin de fournir une capacité de détection efficace. Nous menons toujours une enquête en cas d’alerte ou d’événements relatifs à la sécurité, notamment s’ils sont liés à la disponibilité et à la confidentialité. Nous visons ainsi à dépister le plus rapidement possible de nouveaux modèles d’attaque et à ne déclarer les incidents qu’en fonction des résultats de l’enquête.
     
-*   Des outils de surveillance sont en place pour mesurer l’utilisation actuelle par rapport à des seuils prédéfinis. Ceux-ci génèrent aussi des alertes pour avertir les équipes de soutien des applications et des infrastructures en cas de dépassement des seuils. Ces dernières sont examinées pour déterminer si des mesures correctives s’imposent. Advenant que des ressources additionnelles d’information soient nécessaires pour répondre aux besoins d’utilisation, elles seront déployées conformément aux politiques officielles visant un tel déploiement et à celles de gestion du changement.
+* Des outils de surveillance sont en place pour mesurer l’utilisation actuelle par rapport à des seuils prédéfinis. Ceux-ci génèrent aussi des alertes pour avertir les équipes de soutien des applications et des infrastructures en cas de dépassement des seuils. Ces dernières sont examinées pour déterminer si des mesures correctives s’imposent. Advenant que des ressources additionnelles d’information soient nécessaires pour répondre aux besoins d’utilisation, elles seront déployées conformément aux politiques officielles visant un tel déploiement et à celles de gestion du changement.
     
-*   La configuration des journaux d’audit permet d’enregistrer les activités et les événements importants liés à la sécurité de l’information dans les systèmes de AlloVoisins.
+* La configuration des journaux d’audit permet d’enregistrer les activités et les événements importants liés à la sécurité de l’information dans les systèmes de AlloVoisins.
     
-*   La surveillance des serveurs, des postes de travail et des appareils mobiles s’effectue à l’aide d’agents de découverte d’inventaire.
+* La surveillance des serveurs, des postes de travail et des appareils mobiles s’effectue à l’aide d’agents de découverte d’inventaire.
     
-*   La protection des données sur les ordinateurs portables est assurée au moyen du chiffrement. Des logiciels antimaliciels sont déployés sur toutes les plates-formes (postes de travail et serveurs) vulnérables aux piratages, puis tenus à jour.
+* La protection des données sur les ordinateurs portables est assurée au moyen du chiffrement. Des logiciels antimaliciels sont déployés sur toutes les plates-formes (postes de travail et serveurs) vulnérables aux piratages, puis tenus à jour.
     
-*   L’utilisation de supports électroniques amovibles est restreinte.
+* L’utilisation de supports électroniques amovibles est restreinte.
     
-*   Les mots de passe par défaut, livrés avec les systèmes d’exploitation, sont modifiés après la première utilisation.
+* Les mots de passe par défaut, livrés avec les systèmes d’exploitation, sont modifiés après la première utilisation.
     
-*   Une fois élaborées, les normes en matière de configuration sont révisées chaque année. Périodiquement, des évaluations de la sécurité sont effectuées à l’égard des données de référence sur la configuration afin de veiller à la conformité et de s’assurer de la prise en compte des recommandations des fournisseurs et des pratiques exemplaires de l’industrie.
+* Une fois élaborées, les normes en matière de configuration sont révisées chaque année. Périodiquement, des évaluations de la sécurité sont effectuées à l’égard des données de référence sur la configuration afin de veiller à la conformité et de s’assurer de la prise en compte des recommandations des fournisseurs et des pratiques exemplaires de l’industrie.
     
-*   L’évaluation du niveau de sécurité des logiciels et des applications se fait dans le cadre du programme de gestion de la vulnérabilité des applications. Elle est régie par la politique et les normes visant le développement sécurisé.
+* L’évaluation du niveau de sécurité des logiciels et des applications se fait dans le cadre du programme de gestion de la vulnérabilité des applications. Elle est régie par la politique et les normes visant le développement sécurisé.
     
-*   En fonction de la classification des risques liés à l’application, le logiciel est soumis à des examens et à des essais appropriés, notamment à des examens de la conception, des essais statiques de sécurité des applications (SAST) et des essais dynamiques de sécurité des applications (DAST). Les résultats des essais sont saisis puis transmis au moyen d’un rapport et d’un système de gestion des enjeux. Les problèmes, les cotes de gravité et le délai d’assainissement requis (en fonction de la gravité de ces problèmes) sont documentés dans le rapport.
+* En fonction de la classification des risques liés à l’application, le logiciel est soumis à des examens et à des essais appropriés, notamment à des examens de la conception, des essais statiques de sécurité des applications (SAST) et des essais dynamiques de sécurité des applications (DAST). Les résultats des essais sont saisis puis transmis au moyen d’un rapport et d’un système de gestion des enjeux. Les problèmes, les cotes de gravité et le délai d’assainissement requis (en fonction de la gravité de ces problèmes) sont documentés dans le rapport.
     
-*   Les modifications apportées aux ressources et aux systèmes d’information sont soumises à notre processus formel d’examen et d’approbation de la gestion du changement avant toute mise en œuvre dans un environnement de production.
+* Les modifications apportées aux ressources et aux systèmes d’information sont soumises à notre processus formel d’examen et d’approbation de la gestion du changement avant toute mise en œuvre dans un environnement de production.
     
-*   Dans le cadre du processus d’embauche, les nouveaux employés doivent suivre une formation sur la sécurité, le code de déontologie et la protection des renseignements personnels et recevoir, par la suite, une formation annuelle et ciblée (au besoin et selon leur rôle) pour les aider à se conformer aux politiques de sécurité ainsi que nos politiques et procédures sur la protection des renseignements personnels. AlloVoisins mène périodiquement des campagnes de sensibilisation à la sécurité et des évaluations en matière d’hameçonnage afin de sensibiliser le personnel à ses responsabilités et de les guider dans la création et le maintien d’un environnement sécuritaire.
+* Dans le cadre du processus d’embauche, les nouveaux employés doivent suivre une formation sur la sécurité, le code de déontologie et la protection des renseignements personnels et recevoir, par la suite, une formation annuelle et ciblée (au besoin et selon leur rôle) pour les aider à se conformer aux politiques de sécurité ainsi que nos politiques et procédures sur la protection des renseignements personnels. AlloVoisins mène périodiquement des campagnes de sensibilisation à la sécurité et des évaluations en matière d’hameçonnage afin de sensibiliser le personnel à ses responsabilités et de les guider dans la création et le maintien d’un environnement sécuritaire.
     
-*   Le processus de conformité des tierces parties suit un cadre défini visant le cycle de vie des approvisionnements et de la gestion des risques à l’échelle mondiale tout au long de la sélection, de l’intégration, du suivi et de la résiliation des relations. De plus, nous avons établi des règles pour régir les exigences en matière de sécurité et de diligence raisonnable (qui englobent la conformité, la confidentialité et la technologie) pour les tierces parties (notamment nos fournisseurs et nos partenaires commerciaux). Les tierces parties doivent se conformer à nos politiques, normes et procédures de sécurité de l’information applicables au service fourni.
+* Le processus de conformité des tierces parties suit un cadre défini visant le cycle de vie des approvisionnements et de la gestion des risques à l’échelle mondiale tout au long de la sélection, de l’intégration, du suivi et de la résiliation des relations. De plus, nous avons établi des règles pour régir les exigences en matière de sécurité et de diligence raisonnable (qui englobent la conformité, la confidentialité et la technologie) pour les tierces parties (notamment nos fournisseurs et nos partenaires commerciaux). Les tierces parties doivent se conformer à nos politiques, normes et procédures de sécurité de l’information applicables au service fourni.
     
-*   Poursuite des activités et reprise après sinistre : nous identifions les menaces potentielles et leurs impacts sur les activités au moyen d’évaluations continues, puis nous élaborons des plans d’atténuation. Nous avons élaboré des stratégies et des plans de continuité des activités et de reprise après sinistre pour faire face aux catastrophes naturelles (tremblements de terre, ouragans, pandémies, etc.) et à celles d’origine humaine (troubles politiques, terrorisme, etc.).
+* Poursuite des activités et reprise après sinistre : nous identifions les menaces potentielles et leurs impacts sur les activités au moyen d’évaluations continues, puis nous élaborons des plans d’atténuation. Nous avons élaboré des stratégies et des plans de continuité des activités et de reprise après sinistre pour faire face aux catastrophes naturelles (tremblements de terre, ouragans, pandémies, etc.) et à celles d’origine humaine (troubles politiques, terrorisme, etc.).
     
-*   Sécurité physique et environnementale : nous avons conçu nos normes de sécurité physique pour restreindre tout accès physique non autorisé aux ressources du centre de données. Les systèmes corporatifs et les composantes de l’infrastructure réseau sont physiquement situés dans des zones à accès contrôlé. Parmi les mesures de contrôle, mentionnons les points d’accès limités, les lecteurs d’accès, l’accès surveillé par des caméras de surveillance et l’accès réservé au personnel autorisé.
+* Sécurité physique et environnementale : nous avons conçu nos normes de sécurité physique pour restreindre tout accès physique non autorisé aux ressources du centre de données. Les systèmes corporatifs et les composantes de l’infrastructure réseau sont physiquement situés dans des zones à accès contrôlé. Parmi les mesures de contrôle, mentionnons les points d’accès limités, les lecteurs d’accès, l’accès surveillé par des caméras de surveillance et l’accès réservé au personnel autorisé.
     
-*   Chez nos fournisseurs de centres de données hébergés, l’identification, la détection et la protection des menaces physiques et environnementales (infrastructure, données et logiciels) sont gérées par le biais d’exigences de conformité tierces et par des ententes sur le niveau de service.
+* Chez nos fournisseurs de centres de données hébergés, l’identification, la détection et la protection des menaces physiques et environnementales (infrastructure, données et logiciels) sont gérées par le biais d’exigences de conformité tierces et par des ententes sur le niveau de service.
     
 
 Il est possible que AlloVoisins mette à jour ces dernières de temps à autre afin de refléter les changements apportés à sa posture de sécurité. Néanmoins, ceux-ci ne doivent pas réduire de façon appréciable le niveau de sécurité prévu aux présentes.
@@ -905,8 +905,8 @@ Il est possible que AlloVoisins mette à jour ces dernières de temps à autre a
 Historique de la politique de confidentialité et de respect de la vie privée
 ----------------------------------------------------------------------------
 
-*   [Version du 17 février 2022](https://www.allovoisins.com/pdf/conditions_generales_utilisation/ALLOVOISINS_CGU_20220217.pdf)
-*   [Version du 18 janvier 2022](https://www.allovoisins.com/pdf/conditions_generales_utilisation/ALLOVOISINS_CGU_20211215.pdf)
-*   [Version du 15 novembre 2018](https://www.allovoisins.com/pdf/conditions_generales_utilisation/ALLOVOISINS_CGU_20181115.pdf)
-*   [Version du 1er juillet 2018](https://www.allovoisins.com/pdf/conditions_generales_utilisation/ALLOVOISINS_CGU_20180701.pdf)
-*   [Version du 5 décembre 2017](https://www.allovoisins.com/pdf/conditions_generales_utilisation/ALLOVOISINS_CGU_20171205.pdf)
+* [Version du 17 février 2022](https://www.allovoisins.com/pdf/conditions_generales_utilisation/ALLOVOISINS_CGU_20220217.pdf)
+* [Version du 18 janvier 2022](https://www.allovoisins.com/pdf/conditions_generales_utilisation/ALLOVOISINS_CGU_20211215.pdf)
+* [Version du 15 novembre 2018](https://www.allovoisins.com/pdf/conditions_generales_utilisation/ALLOVOISINS_CGU_20181115.pdf)
+* [Version du 1er juillet 2018](https://www.allovoisins.com/pdf/conditions_generales_utilisation/ALLOVOISINS_CGU_20180701.pdf)
+* [Version du 5 décembre 2017](https://www.allovoisins.com/pdf/conditions_generales_utilisation/ALLOVOISINS_CGU_20171205.pdf)
