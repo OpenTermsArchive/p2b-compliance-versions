@@ -57,19 +57,19 @@ Algemene voorwaarden
 
 4.2 In het bijzonder zal het Lid:
 
-1.  zich houden aan de [Huisregels](https://tweakers.net/info/algemene-voorwaarden/huisregels/ "tweakers.net - Algemene voorwaarden - Huisregels") van Tweakers.
-2.  zich houden aan de voorschriften en richtlijnen die zijn opgenomen in de Policies;
-3.  geen handelingen verrichten of Content plaatsen die in strijd zijn met wet- of regelgeving, de goede zeden of de openbare orde;
-4.  alle op de Website weergegeven of aan hem gerichte voorschriften en aanwijzingen in acht nemen, waaronder aanwijzingen van de Crew;
-5.  geen inbreuk maken op of anderszins in strijd handelen met intellectuele eigendomsrechten van Tweakers.net of derden;
-6.  geen handelingen verrichten of Content plaatsen die overlast veroorzaken voor andere Leden of bezoekers van de Website;
-7.  geen spam of andere ongewenste berichten verspreiden aan andere Leden of bezoekers van de Website via bijvoorbeeld instant messaging (zoals Discord, Slack, WhatsApp, etc.), direct messaging (het berichtensysteem in de Website van Tweakers.net) en e-mail;
-8.  geen Content van Tweakers.net of andere Leden wijzigen, wissen of onbruikbaar maken;
-9.  geen Malware verspreiden;
-10.  geen robots, spiders, toepassingen voor het doorzoeken van websites of andere middelen voor het zoeken of indexeren van (delen van) de Website en Content van Leden gebruiken;
-11.  de beveiliging van Tweakers.net niet ontwijken of verwijderen;
-12.  geen gebruik maken van adblockers of op andere wijze reclame-uitingen weren, anders dan de optie die Tweakers.net het Lid biedt indien hij een betaald abonnement heeft afgesloten.
-13.  In een review zal het lid transparant zijn over de herkomst van het product en of er een beloning is ontvangen of in het vooruitzicht wordt gesteld voor het plaatsen van de review
+1. zich houden aan de [Huisregels](https://tweakers.net/info/algemene-voorwaarden/huisregels/ "tweakers.net - Algemene voorwaarden - Huisregels") van Tweakers.
+2. zich houden aan de voorschriften en richtlijnen die zijn opgenomen in de Policies;
+3. geen handelingen verrichten of Content plaatsen die in strijd zijn met wet- of regelgeving, de goede zeden of de openbare orde;
+4. alle op de Website weergegeven of aan hem gerichte voorschriften en aanwijzingen in acht nemen, waaronder aanwijzingen van de Crew;
+5. geen inbreuk maken op of anderszins in strijd handelen met intellectuele eigendomsrechten van Tweakers.net of derden;
+6. geen handelingen verrichten of Content plaatsen die overlast veroorzaken voor andere Leden of bezoekers van de Website;
+7. geen spam of andere ongewenste berichten verspreiden aan andere Leden of bezoekers van de Website via bijvoorbeeld instant messaging (zoals Discord, Slack, WhatsApp, etc.), direct messaging (het berichtensysteem in de Website van Tweakers.net) en e-mail;
+8. geen Content van Tweakers.net of andere Leden wijzigen, wissen of onbruikbaar maken;
+9. geen Malware verspreiden;
+10. geen robots, spiders, toepassingen voor het doorzoeken van websites of andere middelen voor het zoeken of indexeren van (delen van) de Website en Content van Leden gebruiken;
+11. de beveiliging van Tweakers.net niet ontwijken of verwijderen;
+12. geen gebruik maken van adblockers of op andere wijze reclame-uitingen weren, anders dan de optie die Tweakers.net het Lid biedt indien hij een betaald abonnement heeft afgesloten.
+13. In een review zal het lid transparant zijn over de herkomst van het product en of er een beloning is ontvangen of in het vooruitzicht wordt gesteld voor het plaatsen van de review
 
 4.3 Het Lid is verantwoordelijk voor de inhoud van alle Content die via zijn Account op de Website worden geplaatst. Tweakers.net adviseert het Lid om geen persoonlijke informatie op de Website te plaatsen zoals adresgegevens, telefoonnummers of financiële informatie. Tweakers is in beginsel niet verplicht deze persoonlijke informatie te verwijderen.
 
@@ -79,14 +79,14 @@ Algemene voorwaarden
 
 4.6 Het Lid mag (ter uitsluitende beoordeling van Tweakers.net) geen Content op de Website plaatsen:
 
-1.  die (seksueel) intimiderend, beledigend, discriminerend of van pornografische aard is of die anderszins naar algemene maatstaven als controversieel moet worden beschouwd;
-2.  waarin piramidespelen of kettingbrieven worden gepromoot;
-3.  die de privacy of persoonlijke levenssfeer van andere Leden of bezoekers van de Website schendt;
-4.  waarin een foto of afbeelding is opgenomen van een andere persoon zonder diens toestemming;
-5.  waarin illegale software wordt aangeboden of gevraagd;
-6.  waarin hardware of consumentenelektronica wordt aangeboden of gevraagd die door middel van of in verband met een strafbaar feit zijn verkregen.
-7.  die gericht is op het werven van personeel, met uitzondering van Content die wordt geplaatst binnen Jobs;
-8.  voor reclame- of marketingdoeleinden.
+1. die (seksueel) intimiderend, beledigend, discriminerend of van pornografische aard is of die anderszins naar algemene maatstaven als controversieel moet worden beschouwd;
+2. waarin piramidespelen of kettingbrieven worden gepromoot;
+3. die de privacy of persoonlijke levenssfeer van andere Leden of bezoekers van de Website schendt;
+4. waarin een foto of afbeelding is opgenomen van een andere persoon zonder diens toestemming;
+5. waarin illegale software wordt aangeboden of gevraagd;
+6. waarin hardware of consumentenelektronica wordt aangeboden of gevraagd die door middel van of in verband met een strafbaar feit zijn verkregen.
+7. die gericht is op het werven van personeel, met uitzondering van Content die wordt geplaatst binnen Jobs;
+8. voor reclame- of marketingdoeleinden.
 
 4.7 Indien het Lid meent dat een ander Lid of een bezoeker van de Website handelt in strijd met dit artikel 4, kan hij Tweakers.net hiervan op de hoogte stellen.
 
@@ -130,9 +130,9 @@ De voorwaarden voor Vraag & Aanbod zijn onderbracht in [losse aanvullende voorwa
 
 8.2 Onverminderd enig andere recht van Tweakers.net op grond van de wet of deze Algemene Voorwaarden, geldt dat indien het Lid in strijd handelt met artikel 4 tot en met 7 van deze Algemene Voorwaarden of met de Policies, Tweakers.net gerechtigd is om met onmiddellijke ingang en zonder ingebrekestelling:
 
-1.  door het Lid geplaatste Content aan te passen of te verwijderen;
-2.  het Lid de toegang tot de Website te ontzeggen (al dan niet tijdelijk); en
-3.  de Account van het Lid op te heffen.
+1. door het Lid geplaatste Content aan te passen of te verwijderen;
+2. het Lid de toegang tot de Website te ontzeggen (al dan niet tijdelijk); en
+3. de Account van het Lid op te heffen.
 
 8.3 Tweakers.net en de Crew zijn niet gehouden tot vergoeding van kosten of schade van het Lid in verband met een opgelegde Sanctie.
 
@@ -142,8 +142,8 @@ De voorwaarden voor Vraag & Aanbod zijn onderbracht in [losse aanvullende voorwa
 
 9.2 Tweakers.net behoudt zich het recht voor om:
 
-1.  de Website onaangekondigd te blokkeren of deze buiten gebruik te stellen ten behoeve van onderhoud, aanpassing of verbetering daarvan;
-2.  onaangekondigd onderdelen van de Website aan te passen, uit te breiden, te schrappen of anderszins te wijzigen.
+1. de Website onaangekondigd te blokkeren of deze buiten gebruik te stellen ten behoeve van onderhoud, aanpassing of verbetering daarvan;
+2. onaangekondigd onderdelen van de Website aan te passen, uit te breiden, te schrappen of anderszins te wijzigen.
 
 9.3 Tweakers.net garandeert niet dat de Website vrij is van fouten, gebreken of Malware of dat de Website actueel, compleet of accuraat is.
 
@@ -161,10 +161,10 @@ De voorwaarden voor Vraag & Aanbod zijn onderbracht in [losse aanvullende voorwa
 
 10.4 Door het plaatsen van Content op de Website;
 
-1.  verleent het Lid onherroepelijk toestemming aan Tweakers.net om deze Content zonder vergoeding te publiceren, aan te passen en commercieel te exploiteren via de Website of andere online of print media van DPG Media;
-2.  verleent het Lid toestemming aan andere Leden en bezoekers van de Website om deze Content te raadplegen en daarvan kopieën te maken voor eigen gebruik;
-3.  geeft het Lid toestemming aan Tweakers.net voor de openbaarmaking van zijn portret, voorzover dit voorkomt in deze Content; en
-4.  doet het Lid, voorzover wettelijk mogelijk, afstand van de op de Content rustende persoonlijkheidsrechten.
+1. verleent het Lid onherroepelijk toestemming aan Tweakers.net om deze Content zonder vergoeding te publiceren, aan te passen en commercieel te exploiteren via de Website of andere online of print media van DPG Media;
+2. verleent het Lid toestemming aan andere Leden en bezoekers van de Website om deze Content te raadplegen en daarvan kopieën te maken voor eigen gebruik;
+3. geeft het Lid toestemming aan Tweakers.net voor de openbaarmaking van zijn portret, voorzover dit voorkomt in deze Content; en
+4. doet het Lid, voorzover wettelijk mogelijk, afstand van de op de Content rustende persoonlijkheidsrechten.
 
 10.5 Het Lid garandeert dat hij bevoegd is om voorgaande toestemmingen te verlenen en dat hij eventueel voor publicatie van deze informatie benodigde toestemmingen van derden heeft verkregen. Het Lid vrijwaart Tweakers.net, de Crew en de overige voor haar werkzame derden voor alle schade en kosten ter zake van aanspraken van derden dat het gebruik of de exploitatie van de door het Lid geplaatste Content inbreuk maakt op (intellectuele) eigendomsrechten van derden of anderszins onrechtmatig is jegens derden.
 
