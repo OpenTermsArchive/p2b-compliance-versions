@@ -11,21 +11,21 @@ Terms of Use
 
 [**REVIEWS, COMMENTS AND USE OF OTHER INTERACTIVE AREAS; LICENCE GRANT**](#REVIEWS, COMMENTS AND USE OF OTHER INTERACTIVE AREAS; LICENCE GRANT)
 
-*   [**Restricting Tripadvisor’s Licence Rights**](#Restricting TripAdvisor’s Licence Rights)
+* [**Restricting Tripadvisor’s Licence Rights**](#Restricting TripAdvisor’s Licence Rights)
 
 [**BOOKING WITH THIRD-PARTY SUPPLIERS THROUGH Tripadvisor**](#BOOKING WITH THIRD-PARTY SUPPLIERS THROUGH TRIPADVISOR)
 
-*   [**Use of Tripadvisor Booking Services**](#Use of TripAdvisor Booking Services.)  
+* [**Use of Tripadvisor Booking Services**](#Use of TripAdvisor Booking Services.)  
      
-*   [**Third-Party Suppliers**](#Third-Party Suppliers.)  
+* [**Third-Party Suppliers**](#Third-Party Suppliers.)  
      
-*   [**Booking Holiday Rentals, Restaurant Reservations and Experiences with Third-Party Suppliers Listed on Corporate Affiliate Sites**](#Booking Holiday Rentals, Restaurant Reservations and Experiences with Third-Party Suppliers Listed on Corporate Affiliate Sites.)  
+* [**Booking Holiday Rentals, Restaurant Reservations and Experiences with Third-Party Suppliers Listed on Corporate Affiliate Sites**](#Booking Holiday Rentals, Restaurant Reservations and Experiences with Third-Party Suppliers Listed on Corporate Affiliate Sites.)  
      
 
 [**TRAVEL DESTINATIONS**](#TRAVEL DESTINATIONS)  
  
 
-*   [**International Travel**](#International Travel.)
+* [**International Travel**](#International Travel.)
 
 [**LIABILITY DISCLAIMER**](#LIABILITY DISCLAIMER)
 
@@ -37,7 +37,7 @@ Terms of Use
 
 [**COPYRIGHT AND TRADEMARK NOTICES**](#COPYRIGHT AND TRADEMARK NOTICES)
 
-*   [**Notice and Take-Down Policy for Illegal Content**](#Notice and Take-Down Policy for Illegal Content)
+* [**Notice and Take-Down Policy for Illegal Content**](#Notice and Take-Down Policy for Illegal Content)
 
 [**MODIFICATIONS TO THE SERVICES; TERMINATION**](#MODIFICATIONS TO THE SERVICES; TERMINATION)
 
@@ -57,8 +57,8 @@ The term “you” refers to the individual, company, business organisation or o
 
 The Services are provided solely to:
 
-1.  Assist customers in gathering travel information, posting Content and searching for and booking travel services and reservations; and
-2.  Assist travel, tourism and hospitality businesses in engaging with customers and potential customers, by way of free and/or paid-for services offered by or through the Tripadvisor Companies.
+1. Assist customers in gathering travel information, posting Content and searching for and booking travel services and reservations; and
+2. Assist travel, tourism and hospitality businesses in engaging with customers and potential customers, by way of free and/or paid-for services offered by or through the Tripadvisor Companies.
 
 We may change or otherwise modify this Agreement in the future in accordance with the terms and conditions herein, and you understand and agree that your continued access or use of the Services after such change signifies your acceptance of the updated or modified Agreement. We will note the date that revisions were last made to this Agreement at the bottom of this Agreement, and any revisions will take effect upon posting. We will notify registered users of our Services (such registered users to be referred to as “Account Holders”) of material changes to these terms and conditions by either sending a notice to the email address associated with the Account Holder’s profile or by placing a notice on our websites. Be sure to return to this page periodically to review the most current version of this Agreement.
 
@@ -94,15 +94,15 @@ We also offer other services that may be governed by additional terms or agreeme
 
 The Content and information available on and through the Services (including, but not limited to, messages, data, information, text, music, sound, photos, graphics, video, maps, icons, software, code or other material), as well as the infrastructure used to provide such Content and information, is proprietary to the Tripadvisor Companies or licensed to the Tripadvisor Companies by third parties. For all Content other than your Content, you agree not to otherwise modify, copy, distribute, transmit, display, perform, reproduce, publish, license, create derivative works from, transfer or sell or re-sell any information, software, products or services obtained from or through the Services. Additionally, you agree not to:
 
-*   (i) use the Services or Content for any commercial purpose, outside the scope of those commercial purposes explicitly permitted under this Agreement and related guidelines as made available by the Tripadvisor Companies;
-*   (ii) access, monitor, reproduce, distribute, transmit, broadcast, display, sell, license, copy or otherwise exploit any Content of the Services, including but not limited to, user profiles and photos, using any robot, spider, scraper or other automated means or any manual process for any purpose not in accordance with this Agreement or without our express written permission;
-*   (iii) violate the restrictions in any robot exclusion headers on the Services or bypass or circumvent other measures employed to prevent or limit access to the Services;
-*   (iv) take any action that imposes, or may impose, in our discretion, an unreasonable or disproportionately large load on our infrastructure;
-*   (v) deep-link to any portion of the Services for any purpose without our express written permission;
-*   (vi) "frame", "mirror" or otherwise incorporate any part of the Services into any other websites or service without our prior written authorisation;
-*   (vii) attempt to modify, translate, adapt, edit, decompile, disassemble or reverse engineer any software programs used by the Tripadvisor Companies in connection with the Services;
-*   (viii) circumvent, disable or otherwise interfere with security-related features of the Services or features that prevent or restrict use or copying of any Content; or
-*   (ix) download any Content unless it’s expressly made available for download by the Tripadvisor Companies.
+* (i) use the Services or Content for any commercial purpose, outside the scope of those commercial purposes explicitly permitted under this Agreement and related guidelines as made available by the Tripadvisor Companies;
+* (ii) access, monitor, reproduce, distribute, transmit, broadcast, display, sell, license, copy or otherwise exploit any Content of the Services, including but not limited to, user profiles and photos, using any robot, spider, scraper or other automated means or any manual process for any purpose not in accordance with this Agreement or without our express written permission;
+* (iii) violate the restrictions in any robot exclusion headers on the Services or bypass or circumvent other measures employed to prevent or limit access to the Services;
+* (iv) take any action that imposes, or may impose, in our discretion, an unreasonable or disproportionately large load on our infrastructure;
+* (v) deep-link to any portion of the Services for any purpose without our express written permission;
+* (vi) "frame", "mirror" or otherwise incorporate any part of the Services into any other websites or service without our prior written authorisation;
+* (vii) attempt to modify, translate, adapt, edit, decompile, disassemble or reverse engineer any software programs used by the Tripadvisor Companies in connection with the Services;
+* (viii) circumvent, disable or otherwise interfere with security-related features of the Services or features that prevent or restrict use or copying of any Content; or
+* (ix) download any Content unless it’s expressly made available for download by the Tripadvisor Companies.
 
 **PRIVACY POLICY AND DISCLOSURES**
 
@@ -118,18 +118,18 @@ Note that any feedback and other suggestions you provide may be used at any time
 
 The Services may contain discussion forums, bulletin boards, review services, travel feeds or other forums in which you may post your Content, such as reviews of travel experiences, messages, materials or other items ("Interactive Areas"). If Tripadvisor provides such Interactive Areas on the websites, you are solely responsible for your use of such Interactive Areas and use them at your own risk. The Tripadvisor Companies do not guarantee any confidentiality with respect to any of your Content you provide to the Services or in any Interactive Area.  To the extent that any entity that is one of the Tripadvisor Companies provides any form of private communication channel between Account Holders, you agree that such entity(ies) may monitor the substance of such communications in order to help safeguard our community and the Services. You understand that the Tripadvisor Companies do not edit or control the user messages posted to or distributed through the Services, including through any chat rooms, bulletin boards or other communications forums, and will not be in any way responsible or liable for such messaging.  In particular, Tripadvisor does not edit or control users’ Content that appears on the websites.  The Tripadvisor Companies nevertheless reserve the right to remove without notice any such messaging or other Content from the Services, where they believe in good faith that such Content breaches this Agreement or otherwise believe the removal is reasonably necessary to safeguard the rights of the Tripadvisor Companies and/or other users of the Services. Should you disagree with the removal of your Content from the websites, you may contact Tripadvisor using the [**Help Center**](https://www.tripadvisorsupport.com/hc/en-gb) to make your objections.  By using any Interactive Areas, you expressly agree only to submit Content of yours that complies with Tripadvisor’s published guidelines, as are in force at the time of submission and made available to you by Tripadvisor.  You expressly agree not to post, upload to, transmit, distribute, store, create or otherwise publish through the Services any Content of yours that:
 
-1.  Is false, unlawful, misleading, libelous, defamatory, obscene, pornographic, indecent, lewd, suggestive, harassing (or advocates harassment of another person), threatening, invasive of privacy or publicity rights, abusive, inflammatory, fraudulent or otherwise objectionable;
-2.  Is patently offensive to the online community, such as that which promotes racism, bigotry, hatred or physical harm of any kind against any group or individual;
-3.  Would constitute, encourage, promote or provide instructions for conduct of an illegal activity, a criminal offense, give rise to civil liability, violate the rights of any party in any country of the world, or that would otherwise create liability or violate any local, national or international law, including, without limitation, the regulations of the U.S. Securities and Exchange Commission (SEC) or any rules of any securities exchange, including but not limited to, the New York Stock Exchange (NYSE), the NASDAQ or the London Stock Exchange;
-4.  Provides instructional information about illegal activities such as making or buying illegal weapons, violating someone’s privacy or providing or creating computer viruses;
-5.  May infringe any patent, trademark, trade secret, copyright or other intellectual or proprietary right of any party. In particular, content that promotes an illegal or unauthorised copy of another’s copyrighted work, such as providing pirated computer programs or links to them, providing information to circumvent manufacturer-installed copy-protect devices, or providing pirated music or links to pirated music files;
-6.  Constitutes mass mailings or “spamming”, “junk mail”, “chain letters” or “pyramid schemes”;
-7.  Impersonates any person or entity or otherwise misrepresents your affiliation with a person or entity, including the Tripadvisor Companies;
-8.  Is private information of any third party, including, without limitation, addresses, phone numbers, email addresses, National Insurance numbers and credit card numbers.  Note that an individual’s surname (family name) may be posted to our websites, but only where express permission of the identified individual has been secured beforehand;
-9.  Contains restricted or password-only access pages, or hidden pages or images (those not linked to or from another accessible page);
-10.  Include or are intended to facilitate viruses, corrupted data or other harmful, disruptive or destructive files;
-11.  Is unrelated to the topic of the Interactive Area(s) in which such Content is posted; or
-12.  In the sole judgment of Tripadvisor, (a) violates the previous subsections herein, (b) violates Tripadvisor’s related guidelines as made available to you by Tripadvisor, (c) is objectionable, (d) restricts or inhibits any other person from using or enjoying the Interactive Areas or any other aspect of the Services, or (e) may expose any of the Tripadvisor Companies or their users to any harm or liability of any type.
+1. Is false, unlawful, misleading, libelous, defamatory, obscene, pornographic, indecent, lewd, suggestive, harassing (or advocates harassment of another person), threatening, invasive of privacy or publicity rights, abusive, inflammatory, fraudulent or otherwise objectionable;
+2. Is patently offensive to the online community, such as that which promotes racism, bigotry, hatred or physical harm of any kind against any group or individual;
+3. Would constitute, encourage, promote or provide instructions for conduct of an illegal activity, a criminal offense, give rise to civil liability, violate the rights of any party in any country of the world, or that would otherwise create liability or violate any local, national or international law, including, without limitation, the regulations of the U.S. Securities and Exchange Commission (SEC) or any rules of any securities exchange, including but not limited to, the New York Stock Exchange (NYSE), the NASDAQ or the London Stock Exchange;
+4. Provides instructional information about illegal activities such as making or buying illegal weapons, violating someone’s privacy or providing or creating computer viruses;
+5. May infringe any patent, trademark, trade secret, copyright or other intellectual or proprietary right of any party. In particular, content that promotes an illegal or unauthorised copy of another’s copyrighted work, such as providing pirated computer programs or links to them, providing information to circumvent manufacturer-installed copy-protect devices, or providing pirated music or links to pirated music files;
+6. Constitutes mass mailings or “spamming”, “junk mail”, “chain letters” or “pyramid schemes”;
+7. Impersonates any person or entity or otherwise misrepresents your affiliation with a person or entity, including the Tripadvisor Companies;
+8. Is private information of any third party, including, without limitation, addresses, phone numbers, email addresses, National Insurance numbers and credit card numbers.  Note that an individual’s surname (family name) may be posted to our websites, but only where express permission of the identified individual has been secured beforehand;
+9. Contains restricted or password-only access pages, or hidden pages or images (those not linked to or from another accessible page);
+10. Include or are intended to facilitate viruses, corrupted data or other harmful, disruptive or destructive files;
+11. Is unrelated to the topic of the Interactive Area(s) in which such Content is posted; or
+12. In the sole judgment of Tripadvisor, (a) violates the previous subsections herein, (b) violates Tripadvisor’s related guidelines as made available to you by Tripadvisor, (c) is objectionable, (d) restricts or inhibits any other person from using or enjoying the Interactive Areas or any other aspect of the Services, or (e) may expose any of the Tripadvisor Companies or their users to any harm or liability of any type.
 
 The Tripadvisor Companies take no responsibility and assume no liability for any Content posted, stored, transmitted or uploaded to the Services by you (in the case of your Content) or any third party (in the case of any and all Content more generally), or for any loss or damage thereto, nor are the Tripadvisor Companies liable for any mistakes, defamation, slander, libel, omissions, falsehoods, obscenity, pornography or profanity you may encounter. As a provider of interactive services, Tripadvisor is not liable for any statements, representations or any other Content provided by its users (including you as to your Content) in the websites or any other forum. Although Tripadvisor has no obligation to screen, edit or monitor any of the Content posted to or distributed through any Interactive Area, Tripadvisor reserves the right, and has absolute discretion, to remove, screen, translate or edit without notice any Content posted or stored on the Services at any time and for any reason, or to have such actions performed by third parties on their behalf, and you are solely responsible for creating backup copies of and replacing any Content you post or otherwise submit to us or store on the Services at your sole cost and expense.
 
@@ -137,17 +137,17 @@ Any use of the Interactive Areas or other aspects of the Services in violation o
 
 **Restricting Tripadvisor’s Licence Rights****.**You may elect on a going forward basis to limit the Tripadvisor Companies’ use of your Content under this Agreement (as described above) by opting to provide the Tripadvisor Companies with a more limited licence as described further below (such limited licence to be referred to herein as a “Restricted Licence”).  You may make this election by selecting such Restricted Licence grant [**here**](https://www.tripadvisor.co.uk/Settings-cs) (note that to do so you shall need to be logged into your account). If you make this election, the rights you grant the Tripadvisor Companies to your Content pursuant to the licence terms set forth above (referred to as the “Standard Licence”) shall be limited in some important ways described in paragraphs 1 through 6 directly below, such that the Tripadvisor Companies shall not hold a Standard Licence to any of your Content other than the text-based reviews and associated bubble ratings you post (as to which the Tripadvisor Companies shall continue to be granted a Standard Licence), but shall be granted a “Restricted Licence” as to the balance of your Content as defined below: 
 
-1.  When you post your Content to the Services, the licence you grant the Tripadvisor Companies in Your Content shall be limited to a nonexclusive, royalty-free, transferable, sublicensable and worldwide licence to host, use, distribute, modify, run, reproduce, publicly display or perform, translate and create derivative works of your Content for purposes of displaying such on the Services, as well as using your name and/or trademark in connection with that Content. Subject to Paragraph 6 below, the Restricted Licence applies to any of your Content (again, other than text-based reviews and associated bubble ratings) you or another on your behalf (e.g. a third party that contributes to or otherwise manages your account) make available on or in connection with the Services.  
+1. When you post your Content to the Services, the licence you grant the Tripadvisor Companies in Your Content shall be limited to a nonexclusive, royalty-free, transferable, sublicensable and worldwide licence to host, use, distribute, modify, run, reproduce, publicly display or perform, translate and create derivative works of your Content for purposes of displaying such on the Services, as well as using your name and/or trademark in connection with that Content. Subject to Paragraph 6 below, the Restricted Licence applies to any of your Content (again, other than text-based reviews and associated bubble ratings) you or another on your behalf (e.g. a third party that contributes to or otherwise manages your account) make available on or in connection with the Services.  
      
-2.  As to any individual item of your Content that is subject to the Restricted Licence, you can terminate the Tripadvisor Companies’ licence rights hereunder to such by deleting such post from the Services.  Correspondingly, you may terminate the Tripadvisor Companies’ licence rights in all of your Content that is subject to the Restricted Licence by terminating your account (a description of how to do so is available [**here**](https://www.tripadvisorsupport.com/hc/en-gb/articles/200615117-How-do-I-close-my-member-account-)).  Notwithstanding anything to the contrary, your Content (a) shall remain on the Services to the extent you shared it with others and they copied it or stored it prior to you deleting it or terminating your account, (b) may continue to be displayed upon the Services for a reasonable amount of time after you delete it or terminate your account as we seek to remove it, and/or (c) may be retained (but not publicly displayed) for technical, fraud moderation, regulatory or legal reasons in backup copy form for a period of time.  
+2. As to any individual item of your Content that is subject to the Restricted Licence, you can terminate the Tripadvisor Companies’ licence rights hereunder to such by deleting such post from the Services.  Correspondingly, you may terminate the Tripadvisor Companies’ licence rights in all of your Content that is subject to the Restricted Licence by terminating your account (a description of how to do so is available [**here**](https://www.tripadvisorsupport.com/hc/en-gb/articles/200615117-How-do-I-close-my-member-account-)).  Notwithstanding anything to the contrary, your Content (a) shall remain on the Services to the extent you shared it with others and they copied it or stored it prior to you deleting it or terminating your account, (b) may continue to be displayed upon the Services for a reasonable amount of time after you delete it or terminate your account as we seek to remove it, and/or (c) may be retained (but not publicly displayed) for technical, fraud moderation, regulatory or legal reasons in backup copy form for a period of time.  
      
-3.  The Tripadvisor Companies will not use your Content in advertisements for the products and services of third parties to others without your separate consent (including sponsored Content), although you agree and understand that the Tripadvisor Companies may place advertising and promotions on the Services alongside, near, adjacent, or otherwise in close proximity to your Content (including, for video or other dynamic content, before, during or after its presentation), as well as the Content of others.  In all instances in which your Content is displayed on the Services, we shall provide attribution by using the name and/or trademark that you submit in connection with your Content.     
+3. The Tripadvisor Companies will not use your Content in advertisements for the products and services of third parties to others without your separate consent (including sponsored Content), although you agree and understand that the Tripadvisor Companies may place advertising and promotions on the Services alongside, near, adjacent, or otherwise in close proximity to your Content (including, for video or other dynamic content, before, during or after its presentation), as well as the Content of others.  In all instances in which your Content is displayed on the Services, we shall provide attribution by using the name and/or trademark that you submit in connection with your Content.     
      
-4.  The Tripadvisor Companies will not give third parties the right to publish your Content beyond the Services. However, sharing your Content on the Services (save for our “Trips” feature, which can be made private) shall result in your Content being made "_public_" and we will enable a feature that allows other users to share (by way of embedding that public post or otherwise) such Content of yours (save, as noted, Trips you configure to be private) onto third-party services, and we will enable search engines to make that public Content of yours findable through their services.   
+4. The Tripadvisor Companies will not give third parties the right to publish your Content beyond the Services. However, sharing your Content on the Services (save for our “Trips” feature, which can be made private) shall result in your Content being made "_public_" and we will enable a feature that allows other users to share (by way of embedding that public post or otherwise) such Content of yours (save, as noted, Trips you configure to be private) onto third-party services, and we will enable search engines to make that public Content of yours findable through their services.   
      
-5.  Except as modified by paragraphs 1 through 6 of this section of this Agreement, your and our rights and obligations shall remain subject to the balance of the terms of this Agreement. The licence you grant the Tripadvisor Companies as modified by these paragraphs 1-6 shall be referred to as a “Restricted Licence”.  
+5. Except as modified by paragraphs 1 through 6 of this section of this Agreement, your and our rights and obligations shall remain subject to the balance of the terms of this Agreement. The licence you grant the Tripadvisor Companies as modified by these paragraphs 1-6 shall be referred to as a “Restricted Licence”.  
      
-6.  For the sake of clarity, the Content you submit to the Services in connection with other Tripadvisor Companies services or programmes is not subject to the Restricted Licence, but shall instead be governed by the terms and conditions associated with that specific Tripadvisor service or programme.
+6. For the sake of clarity, the Content you submit to the Services in connection with other Tripadvisor Companies services or programmes is not subject to the Restricted Licence, but shall instead be governed by the terms and conditions associated with that specific Tripadvisor service or programme.
 
 **BOOKING WITH THIRD-PARTY SUPPLIERS THROUGH Tripadvisor**
 
@@ -217,9 +217,9 @@ IF THE LAW OF THE COUNTRY WHERE YOU LIVE DOES NOT ALLOW ANY PARTICULAR LIMITATIO
 
 You agree to defend and indemnify the Tripadvisor Companies and any of their officers, directors, employees and agents from and against any claims, causes of action, demands, recoveries, losses, damages, fines, penalties or other costs or expenses of any kind or nature including but not limited to reasonable legal and accounting fees, brought by third parties as a result of:
 
-*   (i) your breach of this Agreement or the documents referenced herein;
-*   (ii) your violation of any law or the rights of a third party; or
-*   (iii) your use of the Services, including the Tripadvisor Companies’ websites.
+* (i) your breach of this Agreement or the documents referenced herein;
+* (ii) your violation of any law or the rights of a third party; or
+* (iii) your use of the Services, including the Tripadvisor Companies’ websites.
 
 **LINKS TO THIRD-PARTY SITES**
 
@@ -281,21 +281,21 @@ This Agreement (and any other terms and conditions referenced herein) constitute
 
 The following sections shall survive any termination of this Agreement:
 
-*   [Additional Products](#OLE_LINK3)
-*   [Prohibited Activities](#OLE_LINK4)
-*   [Reviews, Comments and Use of Other Interactive Areas; Licence Grant](#OLE_LINK6)
-    *   [Restricting Tripadvisor’s Licence Rights](#OLE_LINK7)
-*   [Travel Destinations](#OLE_LINK12)
-    *   [International Travel](#OLE_LINK13)
-*   [Liability Disclaimer](#OLE_LINK14)
-*   [Indemnification](#OLE_LINK15)
-*   [Software as Part of Services; Additional Mobile Licences](#OLE_LINK17)
-*   [Copyright and Trademark Notices](#OLE_LINK18)
-    *   [Notice and Take-Down Policy for Illegal Content](#OLE_LINK19)
-*   [Modifications to the Services; Termination](#OLE_LINK20)
-*   [Jurisdictions and Governing Law](#OLE_LINK21)
-*   [General Provisions](#OLE_LINK23)
-*   [Service Help](#OLE_LINK24)
+* [Additional Products](#OLE_LINK3)
+* [Prohibited Activities](#OLE_LINK4)
+* [Reviews, Comments and Use of Other Interactive Areas; Licence Grant](#OLE_LINK6)
+    * [Restricting Tripadvisor’s Licence Rights](#OLE_LINK7)
+* [Travel Destinations](#OLE_LINK12)
+    * [International Travel](#OLE_LINK13)
+* [Liability Disclaimer](#OLE_LINK14)
+* [Indemnification](#OLE_LINK15)
+* [Software as Part of Services; Additional Mobile Licences](#OLE_LINK17)
+* [Copyright and Trademark Notices](#OLE_LINK18)
+    * [Notice and Take-Down Policy for Illegal Content](#OLE_LINK19)
+* [Modifications to the Services; Termination](#OLE_LINK20)
+* [Jurisdictions and Governing Law](#OLE_LINK21)
+* [General Provisions](#OLE_LINK23)
+* [Service Help](#OLE_LINK24)
 
 The terms and conditions of this Agreement are available in the language of the Tripadvisor websites and/or apps on which Services may be accessed.
 
