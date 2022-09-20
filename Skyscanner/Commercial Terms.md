@@ -3,7 +3,7 @@ Partner Terms – Skyscanner Limited
 
 ![](https://wordpress-network.prod.aws.skyscnr.com/wp-content/uploads/2018/05/GettyImages-184903109.jpg?w=1000&h=312&crop=1)
 
-1.  **DEFINITIONS**  
+1. **DEFINITIONS**  
     In these Terms the following definitions shall apply:
 
 1.1 **“Anti-Bribery Laws”** means all applicable laws, statutes, regulations and codes relating to anti-bribery and anti-corruption including but not limited to, the Bribery Act 2010;
@@ -82,7 +82,7 @@ Partner Terms – Skyscanner Limited
 
 1.38 **“User Interface”** means Your online management pages, accessible by Skyscanner, which detail the Customer Acquisitions and Clicks.
 
-2.  **PROVISION OF SERVICES**
+2. **PROVISION OF SERVICES**
 
 2.1 Subject to implementation time, Skyscanner will provide the Services defined in these Terms and the Partner Order Form to You from the Effective Date, in the Supported Languages.
 
@@ -98,7 +98,7 @@ Partner Terms – Skyscanner Limited
 
 2.7 Where Customer requests the implementation of javascript or other technology on the Direct Booking Platform for the purposes of programmatic fraud detection or other purpose approved in writing by Skyscanner (“**Fraud Detection Scripts**”), Customer accepts that any such Fraud Detection Scripts shall be delivered as a static file to Skyscanner and shall not be dynamically loaded in to the Skyscanner Site. Customer warrants that any Fraud Detection Scripts shall (i) comply with Data Protections Laws and each of the Customer’s and Skyscanner’s privacy policies; (ii) not contain any additional or incidental functionality beyond what is necessary for the purposes of fraud detection or as otherwise agreed with Skyscanner; and (iii) be free or viruses, spyware or other harmful components. Implementation of any Fraud Detection Script on the Skyscanner Site is at Skyscanner’s discretion, and Customer shall promptly notify Skyscanner of any known vulnerability with any Fraud Detection Scripts.  Customer shall be liable to Skyscanner and hold Skyscanner harmless for any Loss caused to the Skyscanner Group arising from the implementation or operation of any Fraud Detection Scripts.
 
-3.  **PAYMENTS**
+3. **PAYMENTS**
 
 3.1 You shall pay the Service Fees to Skyscanner in accordance with these Terms. All fees quoted and payments made hereunder shall be made in the Partner Order Form and shall be exclusive of any applicable taxes, except where You are required by law to make such payment subject to the deduction of withholding tax, in which case the sum paid by You shall be increased to the extent necessary to ensure that Skyscanner receives an amount equal to Service Fees it would have received had no such deduction or withholding been required. No Customer Acquisitions which are cancelled by an End User shall be deducted from the Service Fees due to Skyscanner.
 
@@ -112,7 +112,7 @@ Partner Terms – Skyscanner Limited
 
 3.6 At any time throughout the Term, either Party at its own expense may engage an independent auditor to review and audit the other Party’s relevant records to verify the Service Fees charged and the other Party shall, having been given reasonable notice, take reasonable steps to facilitate the review.
 
-4.  **CONFIDENTIALITY**
+4. **CONFIDENTIALITY**
 
 4.1 Each Party undertakes to keep the other Party’s Confidential Information confidential and shall not use or disclose such Confidential Information except for the purpose of exercising or performing its rights and obligations under these Terms.
 
@@ -121,7 +121,7 @@ Partner Terms – Skyscanner Limited
 4.3 Confidential Information shall not include any information which was in the lawful possession of the receiving Party prior to its first receipt from the disclosing Party; or received independently by the receiving party in good faith from a third party; or is or becomes (through no act or failure to act of the receiving party) public knowledge.  
 4.4 You may not issue a press release regarding these Terms or your engagement with Skyscanner without the prior written consent of Skyscanner.
 
-5.  **DATA PROTECTION**
+5. **DATA PROTECTION**
 
 5.1 The Parties acknowledge and agree that in respect of any Personal Data relating to End Users which Skyscanner collects and transfers pursuant to delivery of the Direct Booking Services, You and Skyscanner (and/or, where relevant, another Skyscanner Group Company) are each acting as independent Controllers in respect of that Personal Data. You further acknowledge and agree that, except where expressly agreed in writing with Skyscanner, any Third Party Intermediary which collects, processes or stores such Personal Data is acting as a Processor of Yours and that You shall at all times engage such Third Party Intermediary pursuant to the requirements imposed on you as a Controller under the Data Protection Laws.
 
@@ -129,7 +129,7 @@ Partner Terms – Skyscanner Limited
 
 5.3 Notwithstanding any other provision of these Terms, in exercising their respective rights and performing their respective obligations under these Terms the Parties shall comply with the Data Protection Laws and shall not do or omit to do anything which has the effect of placing the other Party in breach of any such laws or regulations.
 
-6.  **INTELLECTUAL PROPERTY**
+6. **INTELLECTUAL PROPERTY**
 
 6.1 As between You and Skyscanner, You acknowledge that all rights, titles and interests, including without limitation all Intellectual Property Rights, associated with the Services and Skyscanner Site are owned by or licensed to Skyscanner, and that You shall not acquire any rights, titles, or interests in or to the Intellectual Property Rights associated with the Services or created for use on or via Skyscanner Site.
 
@@ -139,7 +139,7 @@ Partner Terms – Skyscanner Limited
 
 6.4 You hereby grant Skyscanner a non-exclusive, sub-licensable right to use the Content for display on the Skyscanner Sites and Skyscanner Affiliate Sites, to make such Content available to Skyscanner Group Companies, Skyscanner Affiliates and Skyscanner Affiliate Sites, and to combine the Content with other data to create aggregated data sets for analytical purposes.
 
-7.  **WARRANTIES, INDEMNITY, AND DISCLAIMER**
+7. **WARRANTIES, INDEMNITY, AND DISCLAIMER**
 
 7.1 Skyscanner warrants that it has full power and authority to enter into these Terms. Skyscanner does not warrant that the Services will meet all of Your requirements or that performance of the Services will be uninterrupted or error-free. Skyscanner makes no other warranty of any kind, whether express, implied, statutory or otherwise, including without limitation warranties of merchantability, fitness for a particular use or purpose, and non infringement.
 
@@ -171,7 +171,7 @@ Partner Terms – Skyscanner Limited
 
 7.4 You hereby agree to indemnify Skyscanner from and against all Loss it suffers as a result of (i) any non-compliance with the Skyscanner Standards; (ii) any breach of Your warranties in clauses 7.2 and 7.3; and/or (iii) any actions, proceedings, claims or demands from any third party relating to a Sale, attempted Sale or the travel services provided pursuant to a Sale (except to the extent that such Loss was caused by a negligent act or omission of Skyscanner).
 
-8.  **LIMITATION OF LIABILITY**
+8. **LIMITATION OF LIABILITY**
 
 8.1 Subject to clause 8.3, neither Party will be liable for any indirect, special, incidental, consequential, exemplary or punitive damages, including but not limited to damages for lost data, lost profits or costs of procurement of substitute goods or services, however caused and under any theory of liability, including but not limited to contract or tort (including strict liability and negligence), and whether or not such Party was or should have been aware of the possibility of such damage and notwithstanding the failure of essential purpose of any limited remedy stated herein. Furthermore, Skyscanner shall not be liable for any loss, damage, cost or expense of any kind incurred by You as a result of any act or omission of any Third Party Intermediary.
 
@@ -181,7 +181,7 @@ Partner Terms – Skyscanner Limited
 
 8.4 The parties agree that this clause 8 represents a reasonable allocation of risk.
 
-9.  **TERM AND TERMINATION**
+9. **TERM AND TERMINATION**
 
 9.1 These Terms shall commence on the Effective Date and continue until terminated in accordance with clauses 2.4, 3.3 or this clause 9.
 
@@ -193,7 +193,7 @@ Partner Terms – Skyscanner Limited
 
 9.5 In the event of any termination or expiration of these Terms for any reason, clauses 1, 3, 4, 5, 6, 7, 8, 9.4, 10, and 11 shall survive termination.
 
-10.  **THIRD PARTY RIGHTS**
+10. **THIRD PARTY RIGHTS**
 
 10.1 Subject to clauses 10.2 and 10.3, these Terms are made for the benefit of the Parties and (where applicable) their successors and permitted assigns, and is not intended to be enforceable by anyone else.
 
@@ -201,7 +201,7 @@ Partner Terms – Skyscanner Limited
 
 10.3 Skyscanner or any Skyscanner Group Company will be able to recover any Loss from You subject to any limits on Your liability contained in these Terms. For this purpose, any Loss suffered by Skyscanner Group Companies will not be treated as being indirect, special, incidental, consequential, exemplary or punitive because it has been suffered by a Skyscanner Group Company and not by Skyscanner directly.
 
-11.  **MISCELLANEOUS**
+11. **MISCELLANEOUS**
 
 11.1 Neither Party shall be entitled to assign or sub-contract any of its rights or obligations under these Terms in whole or in part, without the prior written consent of the other Party (such consent not to be unreasonably withheld) except that Skyscanner may at any time assign, novate or sub-contract any of its rights and/or obligations under these Terms to any Skyscanner Group Company.
 
