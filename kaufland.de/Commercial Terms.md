@@ -4,27 +4,27 @@ Allgemeine Geschäftsbedingungen der Kaufland e-commerce GmbH für Händler (Hä
 Inhaltsverzeichnis
 ------------------
 
-1.  [Gegenstand der allgemeinen Geschäftsbedingungen](#one)
-2.  [Leistungen des Anbieters](#two)
-3.  [Teilnahme und Zugang](#three)
-4.  [Allgemeine Pflichten des Händlers](#four)
-5.  [Sonstige Pflichten des Händlers](#five)
-6.  [Preise und Versandkosten](#six)
-7.  [Gebühren](#seven)
-8.  [Vertragsschluss und Kaufabwicklung](#eight)
-9.  [Zahlungsabwicklung](#nine)
-10.  [Forderungsabtretung](#ten)
-11.  [Auszahlungsmodalitäten](#eleven)
-12.  [Rückabwicklung und Widerrufsrecht](#twelve)
-13.  [Gewährleistung](#thirteen)
-14.  [Sanktionen bei Regelverstößen](#fourteen)
-15.  [Belastungen bei Stornierungen](#fifteen)
-16.  [Haftung des Anbieters](#sixteen)
-17.  [Freistellung des Anbieters von Ansprüchen wegen Rechtsverletzungen sowie Mitwirkungspflichten durch den Händler](#seventeen)
-18.  [Datenschutz](#eightteen)
-19.  [Laufzeit und Kündigung](#nineteen)
-20.  [Beschwerdemanagement/Mediationsverfahren](#twenty)
-21.  [Schlussbestimmungen](#twentyone)
+1. [Gegenstand der allgemeinen Geschäftsbedingungen](#one)
+2. [Leistungen des Anbieters](#two)
+3. [Teilnahme und Zugang](#three)
+4. [Allgemeine Pflichten des Händlers](#four)
+5. [Sonstige Pflichten des Händlers](#five)
+6. [Preise und Versandkosten](#six)
+7. [Gebühren](#seven)
+8. [Vertragsschluss und Kaufabwicklung](#eight)
+9. [Zahlungsabwicklung](#nine)
+10. [Forderungsabtretung](#ten)
+11. [Auszahlungsmodalitäten](#eleven)
+12. [Rückabwicklung und Widerrufsrecht](#twelve)
+13. [Gewährleistung](#thirteen)
+14. [Sanktionen bei Regelverstößen](#fourteen)
+15. [Belastungen bei Stornierungen](#fifteen)
+16. [Haftung des Anbieters](#sixteen)
+17. [Freistellung des Anbieters von Ansprüchen wegen Rechtsverletzungen sowie Mitwirkungspflichten durch den Händler](#seventeen)
+18. [Datenschutz](#eightteen)
+19. [Laufzeit und Kündigung](#nineteen)
+20. [Beschwerdemanagement/Mediationsverfahren](#twenty)
+21. [Schlussbestimmungen](#twentyone)
 
 1 Gegenstand der allgemeinen Geschäftsbedingungen
 -------------------------------------------------
@@ -54,12 +54,12 @@ Durch die Annahme dieser Vereinbarung und die Benutzung des Marktplatzes erklär
 
 Angebote richten sich nach den folgenden Hauptparametern:
 
-*   a. Preis
-*   b. Lieferzeit
-*   c. Händlerbedingte Stornierungen
-*   d. Händlerbedingte Tickets
-*   e. Ticket-Bearbeitungszeit
-*   f. Lieferverspätungen
+* a. Preis
+* b. Lieferzeit
+* c. Händlerbedingte Stornierungen
+* d. Händlerbedingte Tickets
+* e. Ticket-Bearbeitungszeit
+* f. Lieferverspätungen
 
 Darüber hinaus werden stets auch Ergebnisse für Angebote angezeigt, für deren Verkauf sich der jeweilige Händler zur Zahlung einer zusätzlichen Anzeigengebühr bereit erklärt hat. Diese Suchergebnisse werden als „Werbeanzeige” gekennzeichnet. Weitere Informationen zu Sponsored Products Ads erhalten Sie unter [https://www.marketplaceworld.de/sponsored-product-ads-auf-kaufland-de/](https://www.marketplaceworld.de/sponsored-product-ads-auf-kaufland-de/).
 
@@ -349,18 +349,18 @@ Gewährleistung und Haftung des Händlers gegenüber dem Kunden richten sich nac
 
 14.1 Soweit ein Händler
 
-*   wiederholt Beanstandungen Dritter oder niedrige Bewertungen zu seiner Verkäuferperformance, respektive seinen Produkten erhalten hat und die Sperrung zur Wahrung der Interessen der anderen Nutzer geboten ist
-*   falsche Kontaktdaten angegeben hat,
-*   sein Händlerkonto überträgt oder Dritten hierzu Zugang gewährt,
-*   einen Dritten oder dem Anbieter selbst in erheblichem Maße schädigt,
+* wiederholt Beanstandungen Dritter oder niedrige Bewertungen zu seiner Verkäuferperformance, respektive seinen Produkten erhalten hat und die Sperrung zur Wahrung der Interessen der anderen Nutzer geboten ist
+* falsche Kontaktdaten angegeben hat,
+* sein Händlerkonto überträgt oder Dritten hierzu Zugang gewährt,
+* einen Dritten oder dem Anbieter selbst in erheblichem Maße schädigt,
 
 oder der Anbieter einen begründeten Verdacht hat, dass
 
-*   ein Händler gegen seine vertraglichen Pflichten, auch soweit diese durch die vorliegenden AGB begründet werden,
-*   Vorgaben aus den sog. Hilfsseiten,
-*   Rechte Dritter,
-*   das Gesetz
-*   oder die guten Sitten verstößt,
+* ein Händler gegen seine vertraglichen Pflichten, auch soweit diese durch die vorliegenden AGB begründet werden,
+* Vorgaben aus den sog. Hilfsseiten,
+* Rechte Dritter,
+* das Gesetz
+* oder die guten Sitten verstößt,
 
 oder ein vergleichbarer Umstand zu tragen kommt, kann der Anbieter darauf nach eigenem Ermessen – unter Berücksichtigung der berechtigten Interessen des betroffenen Händlers – wie nachfolgenden aufgezählt reagieren; wobei die Reihenfolge der einzelnen Maßnahmen keine Wertung beinhaltet und demgemäß keine Bindung des Anbieters hinsichtlich der Einhaltung einer bestimmten Reihenfolge entfaltet:
 
@@ -410,9 +410,9 @@ Der Händler stellt den Anbieter auf erstes Anfordern von sämtlichen Ansprüche
 
 18.4 In Bezug auf Daten von anderen Händlern und Kunden, die er im Rahmen der Nutzung des Marktplatzes erlangt, verpflichtet sich der Händler, diese ausschließlich im Rahmen der Abwicklung der Bestellung zu verarbeiten und nicht an Dritte weiterzugeben oder in irgendeiner Weise kommerziell zu verwenden. Insbesondere wird der Händler  
 
-*   a)nicht ohne vorherige Einwilligung des Kunden kommerzielle E-Mails an andere Händler oder Kunden versenden;
-*   b) Kunden oder Händler nicht über das für die Abwicklung der über den Marktplatz getätigten Transaktion notwendige Maß hinaus kontaktieren;
-*   c) dafür Sorge tragen, dass mit Blick auf die Abwicklung der über den Marktplatz getätigten Transaktionen und die damit verbundene Verarbeitung von personenbezogenen Daten alle datenschutzrechtlichen Rechtsvorschriften eingehalten und eine Beauftragung von Dienstleistern oder anderen Dritten zur Verarbeitung von personenbezogenen Daten durch den Händler nur unter der Voraussetzung erfolgt, dass die notwendigen vertraglichen Vereinbarungen geschlossen wurden und der Händler sich versichert hat, dass die technisch und organisatorischen Maßnahmen des Anbieters angemessen sind.
+* a)nicht ohne vorherige Einwilligung des Kunden kommerzielle E-Mails an andere Händler oder Kunden versenden;
+* b) Kunden oder Händler nicht über das für die Abwicklung der über den Marktplatz getätigten Transaktion notwendige Maß hinaus kontaktieren;
+* c) dafür Sorge tragen, dass mit Blick auf die Abwicklung der über den Marktplatz getätigten Transaktionen und die damit verbundene Verarbeitung von personenbezogenen Daten alle datenschutzrechtlichen Rechtsvorschriften eingehalten und eine Beauftragung von Dienstleistern oder anderen Dritten zur Verarbeitung von personenbezogenen Daten durch den Händler nur unter der Voraussetzung erfolgt, dass die notwendigen vertraglichen Vereinbarungen geschlossen wurden und der Händler sich versichert hat, dass die technisch und organisatorischen Maßnahmen des Anbieters angemessen sind.
 
 Bei etwaigen Verstößen des Händlers, insbesondere, aber nicht ausschließlich, bei Verstößen gegen datenschutzrechtliche Bestimmungen, behält sich der Anbieter ausdrücklich das Recht zur Einleitung der in Ziffer 14 „Sanktionen bei Regelverstößen“ dieser AGB näherer beschrieben und/oder rechtlicher Schritte vor.
 
@@ -473,27 +473,27 @@ Allgemeine Geschäftsbedingungen der Kaufland e-commerce GmbH für Händler (Hä
 Inhaltsverzeichnis
 ------------------
 
-1.  [Gegenstand der allgemeinen Geschäftsbedingungen](#one)
-2.  [Leistungen des Anbieters](#two)
-3.  [Teilnahme und Zugang](#three)
-4.  [Allgemeine Pflichten des Händlers](#four)
-5.  [Sonstige Pflichten des Händlers](#five)
-6.  [Preise und Versandkosten](#six)
-7.  [Gebühren](#seven)
-8.  [Vertragsschluss und Kaufabwicklung](#eight)
-9.  [Zahlungsabwicklung](#nine)
-10.  [Forderungsabtretung](#ten)
-11.  [Auszahlungsmodalitäten](#eleven)
-12.  [Rückabwicklung und Widerrufsrecht](#twelve)
-13.  [Gewährleistung](#thirteen)
-14.  [Sanktionen bei Regelverstößen](#fourteen)
-15.  [Belastungen bei Stornierungen](#fifteen)
-16.  [Haftung des Anbieters](#sixteen)
-17.  [Freistellung des Anbieters von Ansprüchen wegen Rechtsverletzungen sowie Mitwirkungspflichten durch den Händler](#seventeen)
-18.  [Datenschutz](#eightteen)
-19.  [Laufzeit und Kündigung](#nineteen)
-20.  [Beschwerdemanagement/Mediationsverfahren](#twenty)
-21.  [Schlussbestimmungen](#twentyone)
+1. [Gegenstand der allgemeinen Geschäftsbedingungen](#one)
+2. [Leistungen des Anbieters](#two)
+3. [Teilnahme und Zugang](#three)
+4. [Allgemeine Pflichten des Händlers](#four)
+5. [Sonstige Pflichten des Händlers](#five)
+6. [Preise und Versandkosten](#six)
+7. [Gebühren](#seven)
+8. [Vertragsschluss und Kaufabwicklung](#eight)
+9. [Zahlungsabwicklung](#nine)
+10. [Forderungsabtretung](#ten)
+11. [Auszahlungsmodalitäten](#eleven)
+12. [Rückabwicklung und Widerrufsrecht](#twelve)
+13. [Gewährleistung](#thirteen)
+14. [Sanktionen bei Regelverstößen](#fourteen)
+15. [Belastungen bei Stornierungen](#fifteen)
+16. [Haftung des Anbieters](#sixteen)
+17. [Freistellung des Anbieters von Ansprüchen wegen Rechtsverletzungen sowie Mitwirkungspflichten durch den Händler](#seventeen)
+18. [Datenschutz](#eightteen)
+19. [Laufzeit und Kündigung](#nineteen)
+20. [Beschwerdemanagement/Mediationsverfahren](#twenty)
+21. [Schlussbestimmungen](#twentyone)
 
 1 Gegenstand der allgemeinen Geschäftsbedingungen
 -------------------------------------------------
@@ -523,12 +523,12 @@ Durch die Annahme dieser Vereinbarung und die Benutzung des Marktplatzes erklär
 
 Angebote richten sich nach den folgenden Hauptparametern:
 
-*   a. Preis
-*   b. Lieferzeit
-*   c. Händlerbedingte Stornierungen
-*   d. Händlerbedingte Tickets
-*   e. Ticket-Bearbeitungszeit
-*   f. Lieferverspätungen
+* a. Preis
+* b. Lieferzeit
+* c. Händlerbedingte Stornierungen
+* d. Händlerbedingte Tickets
+* e. Ticket-Bearbeitungszeit
+* f. Lieferverspätungen
 
 Darüber hinaus werden stets auch Ergebnisse für Angebote angezeigt, für deren Verkauf sich der jeweilige Händler zur Zahlung einer zusätzlichen Anzeigengebühr bereit erklärt hat. Diese Suchergebnisse werden als „Werbeanzeige” gekennzeichnet. Weitere Informationen zu Sponsored Products Ads erhalten Sie unter [https://www.marketplaceworld.de/sponsored-product-ads-auf-kaufland-de/](https://www.marketplaceworld.de/sponsored-product-ads-auf-kaufland-de/).
 
@@ -818,18 +818,18 @@ Gewährleistung und Haftung des Händlers gegenüber dem Kunden richten sich nac
 
 14.1 Soweit ein Händler
 
-*   wiederholt Beanstandungen Dritter oder niedrige Bewertungen zu seiner Verkäuferperformance, respektive seinen Produkten erhalten hat und die Sperrung zur Wahrung der Interessen der anderen Nutzer geboten ist
-*   falsche Kontaktdaten angegeben hat,
-*   sein Händlerkonto überträgt oder Dritten hierzu Zugang gewährt,
-*   einen Dritten oder dem Anbieter selbst in erheblichem Maße schädigt,
+* wiederholt Beanstandungen Dritter oder niedrige Bewertungen zu seiner Verkäuferperformance, respektive seinen Produkten erhalten hat und die Sperrung zur Wahrung der Interessen der anderen Nutzer geboten ist
+* falsche Kontaktdaten angegeben hat,
+* sein Händlerkonto überträgt oder Dritten hierzu Zugang gewährt,
+* einen Dritten oder dem Anbieter selbst in erheblichem Maße schädigt,
 
 oder der Anbieter einen begründeten Verdacht hat, dass
 
-*   ein Händler gegen seine vertraglichen Pflichten, auch soweit diese durch die vorliegenden AGB begründet werden,
-*   Vorgaben aus den sog. Hilfsseiten,
-*   Rechte Dritter,
-*   das Gesetz
-*   oder die guten Sitten verstößt,
+* ein Händler gegen seine vertraglichen Pflichten, auch soweit diese durch die vorliegenden AGB begründet werden,
+* Vorgaben aus den sog. Hilfsseiten,
+* Rechte Dritter,
+* das Gesetz
+* oder die guten Sitten verstößt,
 
 oder ein vergleichbarer Umstand zu tragen kommt, kann der Anbieter darauf nach eigenem Ermessen – unter Berücksichtigung der berechtigten Interessen des betroffenen Händlers – wie nachfolgenden aufgezählt reagieren; wobei die Reihenfolge der einzelnen Maßnahmen keine Wertung beinhaltet und demgemäß keine Bindung des Anbieters hinsichtlich der Einhaltung einer bestimmten Reihenfolge entfaltet:
 
@@ -879,9 +879,9 @@ Der Händler stellt den Anbieter auf erstes Anfordern von sämtlichen Ansprüche
 
 18.4 In Bezug auf Daten von anderen Händlern und Kunden, die er im Rahmen der Nutzung des Marktplatzes erlangt, verpflichtet sich der Händler, diese ausschließlich im Rahmen der Abwicklung der Bestellung zu verarbeiten und nicht an Dritte weiterzugeben oder in irgendeiner Weise kommerziell zu verwenden. Insbesondere wird der Händler  
 
-*   a)nicht ohne vorherige Einwilligung des Kunden kommerzielle E-Mails an andere Händler oder Kunden versenden;
-*   b) Kunden oder Händler nicht über das für die Abwicklung der über den Marktplatz getätigten Transaktion notwendige Maß hinaus kontaktieren;
-*   c) dafür Sorge tragen, dass mit Blick auf die Abwicklung der über den Marktplatz getätigten Transaktionen und die damit verbundene Verarbeitung von personenbezogenen Daten alle datenschutzrechtlichen Rechtsvorschriften eingehalten und eine Beauftragung von Dienstleistern oder anderen Dritten zur Verarbeitung von personenbezogenen Daten durch den Händler nur unter der Voraussetzung erfolgt, dass die notwendigen vertraglichen Vereinbarungen geschlossen wurden und der Händler sich versichert hat, dass die technisch und organisatorischen Maßnahmen des Anbieters angemessen sind.
+* a)nicht ohne vorherige Einwilligung des Kunden kommerzielle E-Mails an andere Händler oder Kunden versenden;
+* b) Kunden oder Händler nicht über das für die Abwicklung der über den Marktplatz getätigten Transaktion notwendige Maß hinaus kontaktieren;
+* c) dafür Sorge tragen, dass mit Blick auf die Abwicklung der über den Marktplatz getätigten Transaktionen und die damit verbundene Verarbeitung von personenbezogenen Daten alle datenschutzrechtlichen Rechtsvorschriften eingehalten und eine Beauftragung von Dienstleistern oder anderen Dritten zur Verarbeitung von personenbezogenen Daten durch den Händler nur unter der Voraussetzung erfolgt, dass die notwendigen vertraglichen Vereinbarungen geschlossen wurden und der Händler sich versichert hat, dass die technisch und organisatorischen Maßnahmen des Anbieters angemessen sind.
 
 Bei etwaigen Verstößen des Händlers, insbesondere, aber nicht ausschließlich, bei Verstößen gegen datenschutzrechtliche Bestimmungen, behält sich der Anbieter ausdrücklich das Recht zur Einleitung der in Ziffer 14 „Sanktionen bei Regelverstößen“ dieser AGB näherer beschrieben und/oder rechtlicher Schritte vor.
 
