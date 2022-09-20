@@ -1,17 +1,17 @@
 Supplementary Terms of Service for E.U. and U.K. Merchants
 ==========================================================
 
-*   [1\. Changes to the EU Terms](#Changes)
-*   [2\. When Can Shopify Restrict, Suspend or Terminate Your Account?](#Termination)
-*   [3\. Merchant Termination Rights](#TerminationRights)
-*   [4\. Access to and Use of Store Data](#Data)
-*   [5\. Intellectual Property Rights](#IpRights)
-*   [6\. Additional Distribution Channels](#DistributionChannels)
-*   [7\. Store and Product Ranking](#Ranking)
-*   [8\. Ancillary Good and Services](#Ancillary)
-*   [9\. Internal Complaint-Handling System](#Complaints)
-*   [10\. Mediators](#Mediators)
-*   [11\. General](#General)
+* [1\. Changes to the EU Terms](#Changes)
+* [2\. When Can Shopify Restrict, Suspend or Terminate Your Account?](#Termination)
+* [3\. Merchant Termination Rights](#TerminationRights)
+* [4\. Access to and Use of Store Data](#Data)
+* [5\. Intellectual Property Rights](#IpRights)
+* [6\. Additional Distribution Channels](#DistributionChannels)
+* [7\. Store and Product Ranking](#Ranking)
+* [8\. Ancillary Good and Services](#Ancillary)
+* [9\. Internal Complaint-Handling System](#Complaints)
+* [10\. Mediators](#Mediators)
+* [11\. General](#General)
 
 Last updated on: February 14, 2022
 
@@ -41,15 +41,15 @@ Subject to the exception below, if you do not agree with any of these changes, b
 
 Under the EU Terms, Shopify may restrict, suspend or terminate your Account, your access to the Services, or certain products and services (“Products”) you make available through your Store. Restriction can include removal of Products from the Shop App search results. Such restriction, suspension or termination may happen for the following reasons:
 
-1.  If you breach or violate any of the EU Terms (as determined in the sole discretion of Shopify) as described in Section 14.3 of the Shopify Terms of Service, including (without limitation): (i) the AUP; or (ii) any terms and conditions applicable to your use of the Out of Scope Services;
+1. If you breach or violate any of the EU Terms (as determined in the sole discretion of Shopify) as described in Section 14.3 of the Shopify Terms of Service, including (without limitation): (i) the AUP; or (ii) any terms and conditions applicable to your use of the Out of Scope Services;
     
-2.  If your Fees remain outstanding for longer than 60 days (as described in Section 5.4 of the Shopify Terms of Service);
+2. If your Fees remain outstanding for longer than 60 days (as described in Section 5.4 of the Shopify Terms of Service);
     
-3.  If there is a dispute about the rightful ownership of your Account and Shopify, acting reasonably, is not able to determine the rightful Store Owner (as described in Section 3.6 of the Shopify Terms of Service);
+3. If there is a dispute about the rightful ownership of your Account and Shopify, acting reasonably, is not able to determine the rightful Store Owner (as described in Section 3.6 of the Shopify Terms of Service);
     
-4.  If you engage in verbal or written abuse of any kind (including abuse or retribution) with a Shopify or Merchant customer, or Shopify or Merchant employee, member or officer (as described in Section 3.3 of the Shopify Terms of Service); or
+4. If you engage in verbal or written abuse of any kind (including abuse or retribution) with a Shopify or Merchant customer, or Shopify or Merchant employee, member or officer (as described in Section 3.3 of the Shopify Terms of Service); or
     
-5.  If we suspect that you (by conviction, settlement, insurance or escrow investigation or otherwise) have engaged in fraudulent activity in connection with your use of the P2B Services (as described in Section 14.3 of the Shopify Terms of Service).
+5. If we suspect that you (by conviction, settlement, insurance or escrow investigation or otherwise) have engaged in fraudulent activity in connection with your use of the P2B Services (as described in Section 14.3 of the Shopify Terms of Service).
     
 
 If you disagree with our actions regarding the restriction, suspension or termination of your Account (in its entirety) or your ability to make certain Products available through the P2B Services, you may use our complaints handling system (described in Section 8 below) in order to clarify the facts and circumstances surrounding our decision.
@@ -66,13 +66,13 @@ You can cancel your Account and (without prejudice to any accrued rights or obli
 
 You can view and export the following information from within your Store by logging in to your Account:
 
-*   information that you provide when setting up and managing your Store, such as your contact information, your staff contact information, your store policies, your product information, your customer information, apps installed on your Store, and any customizations on your Store’s theme; and
-*   business information that is generated from the use of your Store by you and/or your customers, such as details of Store transactions, payouts, invoices for subscription payments for our Services or Third Party Services, and analytics reports about your Store.
+* information that you provide when setting up and managing your Store, such as your contact information, your staff contact information, your store policies, your product information, your customer information, apps installed on your Store, and any customizations on your Store’s theme; and
+* business information that is generated from the use of your Store by you and/or your customers, such as details of Store transactions, payouts, invoices for subscription payments for our Services or Third Party Services, and analytics reports about your Store.
 
 You can contact us to access the following other information that is not accessible by logging in to your Account (i.e., the following information is “contractually accessible”):
 
-*   information that you provide when setting up your Shopify Account, such as your payment and banking information, and information collected pursuant to Know-Your-Customer checks or to comply with other legal obligations such as your ID; and
-*   other information generated through your use of the P2B Services, such as your tax documentation about your Store, a record of your interaction with our customer support team, and usage data that we retain about your access to your Store, such as IP logs.
+* information that you provide when setting up your Shopify Account, such as your payment and banking information, and information collected pursuant to Know-Your-Customer checks or to comply with other legal obligations such as your ID; and
+* other information generated through your use of the P2B Services, such as your tax documentation about your Store, a record of your interaction with our customer support team, and usage data that we retain about your access to your Store, such as IP logs.
 
 Except as stated above, you do not have the technical ability or any right to access personal information or Confidential Information relating to third parties. For example, you do not have the right to access information relating to other Merchants, or to customers interacting with other Merchants' Stores or Shopify Services independent from your Store. You also cannot, and do not have the right to, access any information on Shopify’s decisions about or investigations into your eligibility for any of the P2B Services.
 
@@ -109,17 +109,17 @@ The Shopify mobile application known as the “Shop App” is available for down
 
 The main parameters for Store/Product ranking and display within the Shop App are set out below:
 
-1.  The Shop App allows Buyers to: (a) search for Stores within the Shop App by name (e.g. “ABC Stationery”); (b) search for Stores in close proximity to the Buyer’s location; (c) search for Stores based on certain business characteristics; and (d) "follow" individual Stores. Users cannot search for individual Products.
+1. The Shop App allows Buyers to: (a) search for Stores within the Shop App by name (e.g. “ABC Stationery”); (b) search for Stores in close proximity to the Buyer’s location; (c) search for Stores based on certain business characteristics; and (d) "follow" individual Stores. Users cannot search for individual Products.
     
     A Buyer is considered to be “following” a Store if they: (i) purchase anything from a Shop-App enabled Store and do not choose to unfollow that Store; or (ii) find a Store through the Shop App and elect to follow them.
     
-2.  When a Buyer opens the Shop App and selects the “Shops” section, Stores and Products are displayed as follows: (a) at the top of the page the different Stores a Buyer is following are listed in the order of the Stores most recently followed by the Buyer; and (b) below the general listing of Stores, specific Products are featured based on all the different Stores the Buyer is following – the Products are selected at random from each Store based on the following four categories and presented in a random order:
+2. When a Buyer opens the Shop App and selects the “Shops” section, Stores and Products are displayed as follows: (a) at the top of the page the different Stores a Buyer is following are listed in the order of the Stores most recently followed by the Buyer; and (b) below the general listing of Stores, specific Products are featured based on all the different Stores the Buyer is following – the Products are selected at random from each Store based on the following four categories and presented in a random order:
     
     (i) ‘new’ Products (meaning those Products that were published online in the previous 30 day period); (ii) ‘on sale’ Products from Merchant Stores that a Buyer follows; (iii) recommended Products that are relevant to the Buyer (based on Shopify’s proprietary algorithms and using the Buyer’s purchase history as inputs – for more information on recommended Products please see [https://help.shopify.com/en/manual/online-store/legacy/using-themes/change-the-layout/theme-settings/product-recommendations](https://help.shopify.com/en/manual/online-store/legacy/using-themes/change-the-layout/theme-settings/product-recommendations)); and (iv) trending Products (meaning Products that have seen an increase in sales in the last 30 days).
     
     If a Buyer is not following any Stores, then no Products will be displayed.
     
-3.  Within your Store’s unique profile in the Shop App, your Products are displayed according to the parameters described above, and according to your Buyer purchase-history data.
+3. Within your Store’s unique profile in the Shop App, your Products are displayed according to the parameters described above, and according to your Buyer purchase-history data.
     
 
 8\. Ancillary Good and Services
@@ -143,9 +143,9 @@ In the event of a dispute, either of us can request the other party to engage in
 
 If we agree to mediate, we would be willing to engage in mediation using either of the following 2 mediators:
 
-1.  ICDR: [https://www.icdr.org/about\_icdr](https://www.icdr.org/about_icdr)
+1. ICDR: [https://www.icdr.org/about\_icdr](https://www.icdr.org/about_icdr)
     
-2.  CEDR: [https://www.cedr.com/commercial/cedrmediators/](https://www.cedr.com/commercial/cedrmediators/)
+2. CEDR: [https://www.cedr.com/commercial/cedrmediators/](https://www.cedr.com/commercial/cedrmediators/)
     
 
 You do not have to use one of the mediators set out above. Together, you and we may also agree on another mediator.
@@ -153,12 +153,12 @@ You do not have to use one of the mediators set out above. Together, you and we 
 11\. General
 ------------
 
-1.  **Applicable Law.** The EU Terms are governed by and construed in accordance with the laws of the country of Ireland. The United Nations Convention on Contracts for the International Sale of Goods will not apply to these Terms of Service and is hereby expressly excluded. You agree to resolve any judicial disputes arising under the EU Terms in accordance with Section 13.3.2 of the Shopify Terms of Service.
+1. **Applicable Law.** The EU Terms are governed by and construed in accordance with the laws of the country of Ireland. The United Nations Convention on Contracts for the International Sale of Goods will not apply to these Terms of Service and is hereby expressly excluded. You agree to resolve any judicial disputes arising under the EU Terms in accordance with Section 13.3.2 of the Shopify Terms of Service.
     
-2.  **Severability.** If any provision of the EU Terms is held by a court of competent jurisdiction to be contrary to law, such provision shall be changed and interpreted so as to best accomplish the objectives of the original provision to the fullest extent allowed by law, and the remaining provisions of the EU Terms shall remain in full force and effect.
+2. **Severability.** If any provision of the EU Terms is held by a court of competent jurisdiction to be contrary to law, such provision shall be changed and interpreted so as to best accomplish the objectives of the original provision to the fullest extent allowed by law, and the remaining provisions of the EU Terms shall remain in full force and effect.
     
-3.  **Waiver.** The failure of either party to exercise or enforce any right or provision of the EU Terms shall not constitute a waiver of such right or provision or any other provision of the EU Terms or otherwise affect the rights of such party.
+3. **Waiver.** The failure of either party to exercise or enforce any right or provision of the EU Terms shall not constitute a waiver of such right or provision or any other provision of the EU Terms or otherwise affect the rights of such party.
     
-4.  **Entire Agreement.** The EU Terms and any documents incorporated by reference constitute the entire agreement between the parties respecting your use of the Services and supersede any prior written or oral agreements between the parties with respect to the Services.
+4. **Entire Agreement.** The EU Terms and any documents incorporated by reference constitute the entire agreement between the parties respecting your use of the Services and supersede any prior written or oral agreements between the parties with respect to the Services.
     
-5.  **Survival.** All sections of the EU Terms that by their nature should survive termination will survive such termination.
+5. **Survival.** All sections of the EU Terms that by their nature should survive termination will survive such termination.
