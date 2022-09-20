@@ -9,13 +9,13 @@ _För företag som annonserar på Blocket ska de villkor som anges nedan från o
 
 Blocket erbjuder en rad olika kanaler som kan användas för annonsering. Här finns de olika kanalerna som Blocket erbjuder för radannonsering.
 
-*   Fordon: Blocket (blocket.se) och BytBil (bytbil.com).
+* Fordon: Blocket (blocket.se) och BytBil (bytbil.com).
     
-*   Jobb: Blocket Jobb (jobb.blocket.se) och Jobbsafari (jobbsafari.se).
+* Jobb: Blocket Jobb (jobb.blocket.se) och Jobbsafari (jobbsafari.se).
     
-*   Bostäder: Blocket (bostad.blocket.se) och Qasa (qasa.se). Bostadsannons i kategorin uthyres som publiceras på Blocket kommer även att synas på Qasa.
+* Bostäder: Blocket (bostad.blocket.se) och Qasa (qasa.se). Bostadsannons i kategorin uthyres som publiceras på Blocket kommer även att synas på Qasa.
     
-*   För annonsering av andra produkter och tjänster än de kategorier som nämnts ovan erbjuds annonsering på Blocket (blocket.se).
+* För annonsering av andra produkter och tjänster än de kategorier som nämnts ovan erbjuds annonsering på Blocket (blocket.se).
     
 
 En Annonsör kan också köpa reklam, exempelvis banners, i flera av Blockets kanaler. Med tanke på att Blocket ingår i Schibstedkoncernen har Annonsörer som annonserar i Blockets kanaler möjlighet att köpa reklam i Schibsteds kanaler. För Annonsörer som är bilhandlare finns möjlighet att köpa reklam i Schibsteds kanaler direkt via Blocket.
@@ -24,25 +24,25 @@ En Annonsör kan också köpa reklam, exempelvis banners, i flera av Blockets ka
 
 Annonsören ansvarar för att de annonser som publiceras i Blockets Kanaler uppfyller de regler som uppställs av Blocket. Detta innebär t.ex. att:
 
-*   Innehållet i annons får inte strida mot svensk lag, ICC:s regler för reklam och marknadskommunikation, Blockets vid var tid gällande riktlinjer eller andra tillämpliga regler eller föreskrifter.
+* Innehållet i annons får inte strida mot svensk lag, ICC:s regler för reklam och marknadskommunikation, Blockets vid var tid gällande riktlinjer eller andra tillämpliga regler eller föreskrifter.
     
-*   Innehållet i annons får inte göra intrång i annans rättigheter.
+* Innehållet i annons får inte göra intrång i annans rättigheter.
     
-*   Annonsen får inte väcka förargelse, t.ex. genom att innehålla inslag av hets mot folkgrupp, pornografi eller våld.
+* Annonsen får inte väcka förargelse, t.ex. genom att innehålla inslag av hets mot folkgrupp, pornografi eller våld.
     
-*   Annonsören ansvarar för att eventuella personer som kan identifieras i en annons (exempelvis genom en bild eller en film eller enbart genom sitt namn) har godkänt sin medverkan i annonsen.
+* Annonsören ansvarar för att eventuella personer som kan identifieras i en annons (exempelvis genom en bild eller en film eller enbart genom sitt namn) har godkänt sin medverkan i annonsen.
     
-*   Annonsören ska tillse att annons är i överensstämmelse med tillämpliga dataskyddsregler, inklusive dataskyddsförordningen (“GDPR”), och att Blocket genom exponering av annons inte agerar i strid med tillämpliga dataskyddsregler.
+* Annonsören ska tillse att annons är i överensstämmelse med tillämpliga dataskyddsregler, inklusive dataskyddsförordningen (“GDPR”), och att Blocket genom exponering av annons inte agerar i strid med tillämpliga dataskyddsregler.
     
-*   Externa länkar till annan än annonsören är inte tillåtna i annonsen.
+* Externa länkar till annan än annonsören är inte tillåtna i annonsen.
     
-*   Annons måste uppfylla de tekniska och redaktionella krav som Blocket från tid till annan fastställer.
+* Annons måste uppfylla de tekniska och redaktionella krav som Blocket från tid till annan fastställer.
     
-*   Blocket förbehåller sig rätten att göra justeringar av annonsen om Blocket bedömer att det förbättrar annonsens kvalitet.
+* Blocket förbehåller sig rätten att göra justeringar av annonsen om Blocket bedömer att det förbättrar annonsens kvalitet.
     
-*   Att annons ändras eller tas bort medför inte att annonsören har rätt att få betalda avgifter, eller delar därav, återbetalda.
+* Att annons ändras eller tas bort medför inte att annonsören har rätt att få betalda avgifter, eller delar därav, återbetalda.
     
-*   Om en annons enligt Blockets bedömning inte uppfyller de villkor som gäller för annonsering på Blocket, har Blocket rätt att vägra exponering av annonsen. Annonsören ges då möjlighet att ändra annonsen. Om annonsören trots vägledning från Blocket om hur annons bör utformas inte levererar en godkänd annons ska annonsören vara skyldig att ersätta Blocket med den avgift som avtalats för annonseringen.
+* Om en annons enligt Blockets bedömning inte uppfyller de villkor som gäller för annonsering på Blocket, har Blocket rätt att vägra exponering av annonsen. Annonsören ges då möjlighet att ändra annonsen. Om annonsören trots vägledning från Blocket om hur annons bör utformas inte levererar en godkänd annons ska annonsören vara skyldig att ersätta Blocket med den avgift som avtalats för annonseringen.
     
 
 Notera att det kan tillkomma ytterligare annonseringsregler beroende på vilken kanal du annonserar i. Du hittar information om särskilda annonseringsregler i de allmänna villkoren för respektive kanal.
@@ -121,13 +121,13 @@ Om en annons, enligt Blockets bedömning, inte uppfyller Blockets villkor för a
 
 Blocket har även rätt att, helt eller delvis, stänga av eller avbryta publicering av annonsörens annonser om:
 
-*   Annonsören bryter mot Blockets allmänna villkor.
+* Annonsören bryter mot Blockets allmänna villkor.
     
-*   Annonsören, eller representant för Annonsören, beter sig olämpligt gentemot Blockets personal, användare eller andra annonsörer.
+* Annonsören, eller representant för Annonsören, beter sig olämpligt gentemot Blockets personal, användare eller andra annonsörer.
     
-*   Annonsören inte följer Allmänna reklamationsnämndens beslut eller andra konsumentskyddande lagar.
+* Annonsören inte följer Allmänna reklamationsnämndens beslut eller andra konsumentskyddande lagar.
     
-*   Blocket har anledning av misstänka att annonsören inte bedriver en seriös verksamhet, t.ex. genom att agera bedrägligt gentemot Blockets användare, sakna nödvändiga tillstånd för att bedriva verksamheten eller tillhandahålla otillräcklig eller missvisande information.
+* Blocket har anledning av misstänka att annonsören inte bedriver en seriös verksamhet, t.ex. genom att agera bedrägligt gentemot Blockets användare, sakna nödvändiga tillstånd för att bedriva verksamheten eller tillhandahålla otillräcklig eller missvisande information.
     
 
 **Förtida upphörande**
