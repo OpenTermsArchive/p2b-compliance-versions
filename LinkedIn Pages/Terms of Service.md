@@ -21,18 +21,18 @@ You agree to only use the Business Services in accordance with these Service Ter
 
 2.1    Administrators. “**Administrator(s)**” are Member(s) who have signed up on the Business Services to be (or who were added as) “administrators” of the Page. [Learn More about Administrators](https://www.linkedin.com/help/linkedin/answer/4783/linkedin-page-administrators-overview?lang=en). You acknowledge and agree that: 
 
-*   The Page must have at least one Administrator identified for the Page. 
-*   Each Administrator of the Page must be a current registered member of LinkedIn.com (“**Member**”) with correct contact information.
+* The Page must have at least one Administrator identified for the Page. 
+* Each Administrator of the Page must be a current registered member of LinkedIn.com (“**Member**”) with correct contact information.
 
 2.2    Name Changes and Mergers.  Subject to Section 4, You agree to accurately reflect the identity of the Organization on the Page and to promptly update any name changes of the Organization, including any that may result from mergers, acquisitions or other restructuring. Please [Contact Us](https://www.linkedin.com/help/linkedin/ask/cp-master) with requests related to the Page.
 
 2.3    Content and Conduct. You agree that:
 
-*   You will follow our “[Do’s and Don’ts](https://www.linkedin.com/legal/user-agreement#dos),” and keep content professional, respectful, relevant, and accurate.
-*   You will only post content that is truthful and does not infringe anyone else’s rights.
-*   You will only use the Business Services to identify and promote your own Organization.
-*   Your Organization operates a lawful business in accordance with applicable laws.
-*   You will ensure that all of the Organization’s actions (including by any Administrator) regarding the Page (such as all posts, additions, and deletions) comply with all applicable laws.
+* You will follow our “[Do’s and Don’ts](https://www.linkedin.com/legal/user-agreement#dos),” and keep content professional, respectful, relevant, and accurate.
+* You will only post content that is truthful and does not infringe anyone else’s rights.
+* You will only use the Business Services to identify and promote your own Organization.
+* Your Organization operates a lawful business in accordance with applicable laws.
+* You will ensure that all of the Organization’s actions (including by any Administrator) regarding the Page (such as all posts, additions, and deletions) comply with all applicable laws.
 
 2.4    Compliance with Data Policies. 
 
@@ -56,12 +56,12 @@ Subject to your privacy policy linked to the Lead Gen Forms on Pages, the reason
 
 You acknowledge and agree that:
 
-*   Any Administrator’s identity and actions related to the Page may be visible to others, including visitors and other Administrators of the Page.
-*   We may add or suspend any Administrator’s access to the Business Services (including administration of the Page) at any time at our own discretion.
-*   We may change or discontinue any of our services, including Business Services. In addition, LinkedIn reserves the right to remove any Page on the Business Services at any time without notice, including all, or part of, the Page’s content.
-*   We may modify the Page in accordance with our policies. For example, we may modify the Organization name on the Page and add clarification statements to the Page to address member confusion or conflicting trademark rights. In addition, we may (a) restrict any name change and have no obligations to perform any change, merger or other request, and (b) determine how name changes will be represented on profiles and on other references to the Organization on LinkedIn services.
-*   We are not obligated to publish any information or content on our Business Services (or other services) and can remove it in our sole discretion, with or without notice. LinkedIn may be required by law to remove certain information or content in certain countries.
-*   We do not promise to store or keep showing any information and content that You have posted. We have no obligation to store, maintain or provide You a copy of any content or information that You or others provide, except to the extent required by applicable laws and as noted in our Privacy Policy.
+* Any Administrator’s identity and actions related to the Page may be visible to others, including visitors and other Administrators of the Page.
+* We may add or suspend any Administrator’s access to the Business Services (including administration of the Page) at any time at our own discretion.
+* We may change or discontinue any of our services, including Business Services. In addition, LinkedIn reserves the right to remove any Page on the Business Services at any time without notice, including all, or part of, the Page’s content.
+* We may modify the Page in accordance with our policies. For example, we may modify the Organization name on the Page and add clarification statements to the Page to address member confusion or conflicting trademark rights. In addition, we may (a) restrict any name change and have no obligations to perform any change, merger or other request, and (b) determine how name changes will be represented on profiles and on other references to the Organization on LinkedIn services.
+* We are not obligated to publish any information or content on our Business Services (or other services) and can remove it in our sole discretion, with or without notice. LinkedIn may be required by law to remove certain information or content in certain countries.
+* We do not promise to store or keep showing any information and content that You have posted. We have no obligation to store, maintain or provide You a copy of any content or information that You or others provide, except to the extent required by applicable laws and as noted in our Privacy Policy.
 
 ### 5. Modification and Termination
 
