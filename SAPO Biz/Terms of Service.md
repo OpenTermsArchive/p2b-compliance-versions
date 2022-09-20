@@ -1,7 +1,7 @@
 [Condições de utilização - SAPO Biz](https://ajuda.sapo.pt/condicoes-de-utilizacao-sapo-biz-60687)
 --------------------------------------------------------------------------------------------------
 
-*   10.08.16
+* 10.08.16
 
 ### Condições de utilização - SAPO BIZ
 
@@ -317,15 +317,15 @@ Em tudo o que não estiver previsto nos presentes Condições Específicas, ser�
 
 \--------------------------------------------------------------------------------
 
-*   [link do post](https://ajuda.sapo.pt/condicoes-de-utilizacao-sapo-biz-60687)
-*   [favorito](https://blogs.sapo.pt/tools/memadd.bml?journal=ajudasapo&itemid=60687&cw=1)
+* [link do post](https://ajuda.sapo.pt/condicoes-de-utilizacao-sapo-biz-60687)
+* [favorito](https://blogs.sapo.pt/tools/memadd.bml?journal=ajudasapo&itemid=60687&cw=1)
     
       
     
 
-*   [](#)
-*   [](#)
+* [](#)
+* [](#)
 
-*   [« anterior](https://ajuda.sapo.pt/condicoes-de-utilizacao-portal-sapo-60556)
-*   [início](https://ajuda.sapo.pt/)
-*   [seguinte »](https://ajuda.sapo.pt/condicoes-de-utilizacao-sapo-id-61045)
+* [« anterior](https://ajuda.sapo.pt/condicoes-de-utilizacao-portal-sapo-60556)
+* [início](https://ajuda.sapo.pt/)
+* [seguinte »](https://ajuda.sapo.pt/condicoes-de-utilizacao-sapo-id-61045)
