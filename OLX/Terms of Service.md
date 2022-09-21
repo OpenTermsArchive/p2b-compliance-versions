@@ -2,7 +2,7 @@
 
 POR FAVOR LEIA ATENTAMENTE ESTES TERMOS E CONDIÇÕES DE SERVIÇO ANTES DE UTILIZAR ESTE SITE OU ESTA APLICAÇÃO E CONTRATAR OS NOSSOS SERVIÇOS.
 
-(Última atualização em  10 de Agosto de 2022)
+(Última atualização em  06 de Setembro de 2022)
 
 1. **Definições**
 
@@ -36,6 +36,7 @@ Salvo se do contexto claramente decorrer um sentido diferente, nos presentes Ter
 26. **Anunciante/Utilizador**\- pessoa singular, pessoa colectiva ou entidade organizacional sem personalidade jurídica, com capacidade jurídica plena para a promoção e/ou celebração de transações relativas ao Produto que tem intenção de anunciar, de acordo com o direito português, e que utiliza o Serviço depois de iniciar a sessão na Conta/fazer login.
 27. **Anunciante Profissional** \- Utilizador do Serviço que atue enquanto comerciante ou profissional, que é uma pessoa singular, pessoa colectiva ou entidade organizacional sem personalidade jurídica, à qual a lei confere capacidade jurídica para, em seu próprio nome, exercer atividades comerciais ou profissionais e utilizar os serviços do OLX no Website, no âmbito da sua atividade comercial ou profissional.
 28. **Mediação**\- um processo estruturado, na acepção do artigo 3.º, alínea a), da Diretiva 2008/52/CE.
+29. **Serviço OLX “2nd life”:** Um serviço disponível no Site para todos os utilizadores, que queiram vender produtos ao OLX, e para os utilizadores que os queiram comprar recondicionados, em categorias específicas do Site, através do preenchimento de um formulário de submissão para posterior avaliação do OLX na aquisição do artigo.
 
 2. **Disposições Gerais.**
 
@@ -77,8 +78,7 @@ A contratação através desta plataforma é uma contratação eletrónica, nos 
 3. JavaScript e cookies ativados (normalmente ativados por predefinição no browser);
 4. Em dispositivos móveis as versões mínimas suportadas são:
 
-* versão Android com sistema operativo 6.0 (Marshmallow) e Aplicação Android com sistema operativo 7.0 (Nougat);
-* versão iOS com sistema operativo não inferior à 12.0;
+* Para as versões Android e iOS, devem ser utilizadas as versões mais recentes e compatíveis com o respectivo sistema operativo, por forma a permitir uma melhor performance ou utilização dos nossos Serviços OLX
 * Para a utilização das aplicações OLX é necessário a transferência a partir de uma loja oficial (p. ex. App Store ou Google Play);
 * O Website pode não ser mostrado corretamente em televisores ou telefones Blackberry e Windows.
 
