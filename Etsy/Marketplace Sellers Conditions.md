@@ -173,6 +173,8 @@ European Union Right of Withdrawal Buyers in the European Union (EU) may be enti
 
 Please be aware that in addition to this policy, each country has its own laws surrounding shipping, cancellations, returns, and exchanges. Please familiarize yourself with the laws of your own country and those of your buyers’ countries.
 
+Sellers may still cancel an order and work toward a resolution with a buyer as they see fit for policies applied to their shops, such as the digital items policy.
+
 3\. Feedback, Cases and Your Success
 ------------------------------------
 
@@ -215,4 +217,4 @@ If Etsy has reason to believe you, Your Content, or your use of the Services vio
 
 Etsy also provides limited solutions to sellers who meet the requirements of our Purchase Protection Program for Sellers. Read more about Purchase Protection Program for Sellers [here](https://www.etsy.com/legal/policy/seller-protection-policy/34509585385).
 
-Last updated on Aug 16, 2022
+Last updated on Sep 23, 2022
