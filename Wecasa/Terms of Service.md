@@ -207,7 +207,7 @@ Wecasa s'engage à mettre la Plateforme et les Services à la disposition des Ut
 
 À ce titre, Wecasa s'engage à ce que la Plateforme et les Services soient accessibles 24/24h et 7/7j sauf cas de force majeure ou comportement imprévisible et insurmontable d'un tiers, et sous réserve des éventuelles pannes et interventions de maintenance et de mise à jour nécessaires au bon fonctionnement de la Plateforme et à la fourniture des Services.
 
-Wecasa met à la disposition des Utilisateurs un service de support pour répondre aux questions et fournir une assistance en cas de difficulté. Pour toute question ou demande d'information concernant la Plateforme ou les Services, l'Utilisateur peut contacter Wecasa en lui adressant un courrier électronique à l'adresse suivante : [\[email protected\]a.fr](https://www.wecasa.fr/cdn-cgi/l/email-protection#removed).
+Wecasa met à la disposition des Utilisateurs un service de support pour répondre aux questions et fournir une assistance en cas de difficulté. Pour toute question ou demande d'information concernant la Plateforme ou les Services, l'Utilisateur peut contacter Wecasa en lui adressant un courrier électronique à l'adresse suivante : [\[email protected\]](https://www.wecasa.fr/cdn-cgi/l/email-protection#removed).
 
 En cas d'un dysfonctionnement ou d'une anomalie perturbant le bon fonctionnement de la Plateforme ou des Services, Wecasa s'engage à faire ses meilleurs efforts pour rétablir la situation.
 
