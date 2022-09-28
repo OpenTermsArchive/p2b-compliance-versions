@@ -329,10 +329,9 @@ You agree to indemnify and release Fresha (and its subsidiaries, agents, licenso
 
 Ending these Terms of service
 
-You may terminate your use of the Fresha services at any time by closing your Fresha Account via the Fresha Platform (by following the instructions on Fresha Platform) and, if you have used the App deleting of the App installed on your device. 
+Fresha shall, as soon as reasonably practicable following, and in any event within thirty (30) days of, termination of the agreement, delete (including by putting beyond practicable use) or return to the Client (at the Client's direction) all personal data.
 
-Fresha may terminate your use of the Fresha Services at any time without notice and with immediate effect (by disabling your use of the Fresha Platform) for any reason, including, if you: violate or breach any term of these Terms of service, or in the opinion of Fresha, misuse the Fresha Platform.   
-  
+Notwithstanding the foregoing, Fresha may retain personal data beyond the termination or expiry solely if, and for so long as, such personal data must be retained in order to comply with applicable law.
 
 General
 
