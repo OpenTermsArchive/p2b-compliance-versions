@@ -1,15 +1,15 @@
 Términos y Condiciones para Propietarios
 ========================================
 
-**Términos y Condiciones para Propietarios**
-
+[**Termes i condicions per a propietaris**](https://forever.travel-assets.com/flex/flexmanager/mediaasset/621715-0_2-Vrbo%20Owners%20Ts%26Cs_ca_ES.pdf)  
+  
 **CONDICIONES GENERALES DE USO DEL SITIO WEB PARA PROPIETARIOS O PROFESIONALES INMOBILIARIOS**
 
- **A**_**ctualización: 1 de enero de 2021**_
+ **A****_ctualización: 1 de septiembre de 2022_**
 
 **1\. Introducción**
 
-1.1 _**Las Condiciones aplicables al**_ _**Propietario**_ _**constituyen un contrato vinculante entre Vrbo y el Propietario.**_ Las operaciones de Vrbo en Europa las gestiona EG Vacation Rentals Ireland Limited, sita en 53 Merrion Square South, Suite 303, Dublín 2 D02 PR63, Irlanda, con número de registro 673084 («**Vrbo**», «nosotros», «nos» o «nuestro/a(s)»). Vrbo es una filial indirecta del Grupo Expedia, Inc. («**Expedia**») sita en Estados Unidos de América. Vrbo proporciona una plataforma en línea, además de distintas herramientas, servicios y funcionalidades disponibles a través de su plataforma, que permiten a los propietarios y profesionales inmobiliarios anunciar sus propiedades y que los viajeros seleccionen dichas propiedades e interactúen con sus propietarios y profesionales inmobiliarios (conjuntamente, los «**Servicios**»). Los Servicios se prestan a través de unas URL específicas a cada país, incluido el Sitio [www.vrbo.com/es-es](http://www.vrbo.com/es-es/) o las plataformas o sistemas de Vrbo, así como mediante aplicaciones para dispositivos móviles (teléfono móvil, tabletas u otros dispositivos o aparatos) (de forma conjunta el «**Sitio**»). Los pagos de reservas realizados a través del Sitio (los «**Servicios de Pago**») son gestionados por proveedores de pago externos y/o por Vrbo u otras empresas afiliadas del Grupo Vrbo (como se define a continuación), en función de la moneda proporcionadas por los proveedores de servicios de pago externos («**Pagos Vrbo**»). Los Servicios de Pago están sujetos a las condiciones de los proveedores de pagos externos y, en el caso de Pagos Vrbo, también al [Contrato de cobro de derechos de alquiler](https://www.vrbo.com/es-es/legal/terminos-y-condiciones-de-pago). A efectos aclaratorios (pero sin ninguna otra finalidad), el uso de la expresión «**Grupo Vrbo**» en estas condiciones hará referencia a Expedia, a Vrbo y a cualquiera de sus filiales y empresas participadas.
+1.1 **_Las Condiciones aplicables al_** **_Propietario_** **_constituyen un contrato vinculante entre Vrbo y el Propietario._** Las operaciones de Vrbo en Europa las gestiona EG Vacation Rentals Ireland Limited, sita en 53 Merrion Square South, Suite 303, Dublín 2 D02 PR63, Irlanda, con número de registro 673084 («**Vrbo**», «nosotros», «nos» o «nuestro/a(s)»). Vrbo es una filial indirecta del Grupo Expedia, Inc. («**Expedia**») sita en Estados Unidos de América. Vrbo proporciona una plataforma en línea, además de distintas herramientas, servicios y funcionalidades disponibles a través de su plataforma, que permiten a los propietarios y profesionales inmobiliarios anunciar sus propiedades y que los viajeros seleccionen dichas propiedades e interactúen con sus propietarios y profesionales inmobiliarios (conjuntamente, los «**Servicios**»). Los Servicios se prestan a través de unas URL específicas a cada país, incluido el Sitio [www.vrbo.com/es-es](http://www.vrbo.com/es-es/) o las plataformas o sistemas de Vrbo, así como mediante aplicaciones para dispositivos móviles (teléfono móvil, tabletas u otros dispositivos o aparatos) (de forma conjunta el «**Sitio**»). Los pagos de reservas realizados a través del Sitio (los «**Servicios de Pago**») son gestionados por proveedores de pago externos y/o por Vrbo u otras empresas afiliadas del Grupo Vrbo (como se define a continuación), en función de la moneda proporcionadas por los proveedores de servicios de pago externos («**Pagos Vrbo**»). Los Servicios de Pago están sujetos a las condiciones de los proveedores de pagos externos y, en el caso de Pagos Vrbo, también al [Contrato de cobro de derechos de alquiler](https://www.vrbo.com/es-es/info/quienes-somos/aviso-legal/payments-terms-and-conditions). A efectos aclaratorios (pero sin ninguna otra finalidad), el uso de la expresión «**Grupo Vrbo**» en estas condiciones hará referencia a Expedia, a Vrbo y a cualquiera de sus filiales y empresas participadas.
 
 1.2 Las presentes condiciones (las «**Condiciones aplicables al Propietario**»), regirán la relación entre Vrbo y cualquier persona que haga uso del Sitio o acceda al mismo para ofrecer o anunciar cualquier Propiedad para su alquiler, incluidos propietarios de propiedades inmobiliarias, arrendatarios y profesionales inmobiliarios (conjuntamente, los «**Propietarios**» o «**usted**»).
 
@@ -21,7 +21,7 @@ Términos y Condiciones para Propietarios
 
 1.6 Aquellos Propietarios que infrinjan las Condiciones aplicables al Propietario podrían ver suspendido su acceso al Sitio, así como su uso del mismo, y sus Anuncios podrían ser retirados de este, previa notificación, además de cualesquiera otros derechos y recursos legales que asistan a Vrbo en virtud de estas Condiciones aplicables al Propietario o que estén a su alcance en otra virtud. Puede ponerse en contacto con el servicio de atención al cliente para apelar dicha decisión.
 
-1.7 Vrbo tiene una política de tolerancia cero en relación con actos de discriminación (en particular, y sin limitación, por razón de raza, etnia, religión, origen nacional, discapacidad, sexo, identidad de género u orientación sexual) de acoso o violencia, y eliminaremos del Sitio, a cualquier Viajero y/o Propietario que exhiba o promocione tal comportamiento. Vrbo se reserva el derecho a aplicar esta política en el caso de riesgo para la seguridad o derechos de los Propietarios y Viajeros.
+1.7 Vrbo tiene una política de tolerancia cero en relación con actos de discriminación (en particular, y sin limitación, por razón de raza, etnia, religión, origen nacional, discapacidad, sexo, identidad de género u orientación sexual) de acoso o violencia, y eliminaremos del Sitio, a cualquier Viajero y/o Propietario que exhiba o promocione tal comportamiento. Vrbo se reserva el derecho a aplicar esta política a su sola discreción en el caso de riesgo para la seguridad o derechos de los Propietarios y Viajeros.
 
 **2\. El Sitio es solo un espacio de encuentro**
 
@@ -35,9 +35,9 @@ Términos y Condiciones para Propietarios
 
 2.5 Los Propietarios reconocen que son, en todo momento, responsables del cumplimiento de todas las leyes, regulaciones o normas aplicables, en relación con cualquier descuento, ahorro u otros mensajes promocionales y/o sobre precios de referencia, que hayan mostrado en la información de sus Anuncios en el Sitio, tal y como se establece en la [Guía de Descuentos](https://www.vrbo.com/es-es/info/quienes-somos/aviso-legal/Terminos-Condiciones/Directrices-descuento) . Los Propietarios resarcirán a Vrbo de las multas, daños, costes, pérdidas, responsabilidades, tasas, penalizaciones y gastos en los que incurra Vrbo a consecuencia del incumplimiento por parte de dichos Propietarios de las leyes, regulaciones o normas aplicables en relación con los mensajes mencionados sobre precios.
 
-**3.** **Anuncios de Propiedades**
+**3.** **Anuncios de Propiedades**
 
-3.1 Los Propietarios podrán, conforme a estas _**Condiciones aplicables al Propietario**_, acordar con Vrbo la publicación en el Sitio de un anuncio de una Propiedad concreta bajo la modalidad de pago por reserva (_pay-per-booking_) («**Anuncios de Pago por Reserva**») o la modalidad de suscripción anual («**Anuncios de Suscripción Anual**») (conjuntamente, un «**Anuncio**»).
+3.1 Los Propietarios podrán, conforme a estas **_Condiciones aplicables al Propietario_**, acordar con Vrbo la publicación en el Sitio de un anuncio de una Propiedad concreta bajo la modalidad de pago por reserva (_pay-per-booking_) («**Anuncios de Pago por Reserva**») o la modalidad de suscripción anual («**Anuncios de Suscripción Anual**») (conjuntamente, un «**Anuncio**»).
 
 3.2 Al darse de alta en el Sitio como Propietario, recibirá nuestro boletín de comunicaciones comerciales para «**Propietarios**», servicio que forma parte integrante del abanico de servicios que prestamos. Nosotros podríamos enviarle periódicamente distintos boletines de comunicaciones comerciales para mejorar los servicios que prestamos. Los Propietarios podrán optar por recibir o no comunicaciones de marketing por correo electrónico de Vrbo, y podrán dar de baja su suscripción a dichos mensajes comerciales de correo electrónico en cualquier momento a través del [**Centro de Preferencias de nuestras comunicaciones**](http://mailaway.homeaway.com/PreferenceCenter), si bien los cambios en las preferencias podrían tardar un tiempo en ser efectivos.
 
@@ -65,19 +65,19 @@ _3.4 Condiciones adicionales - «Anuncios de Pago por Reserva»_
 
 3.4.4 Todos los Anuncios de Pago por Reserva estarán sujetos a condiciones y requisitos adicionales, según se describan en el proceso de registro de dichos Anuncios (incluidos los de proveedores externos).
 
-3.4.5 La gestión del cobro y el procesamiento de los importes pagados por los Viajeros, así como de la transferencia de los importes adeudados al Propietario, la realizan (1) nuestros proveedores de pagos externos; (2) Pagos Vrbo (con la ayuda de un proveedor de servicios de pago externo) o, (3) en el caso de algunos Propietarios integrados, sus propios proveedores de pagos externos. El Propietario entiende y acepta que, con la excepción de las obligaciones de Pagos Vrbo de conformidad con el [Contrato de cobro de derechos de alquiler,](https://www.vrbo.com/es-es/legal/terminos-y-condiciones-de-pago) Vrbo no está involucrado en el procesamiento de los pagos y no asume responsabilidad alguna por el pago correcto de las reservas. Aunque en determinados casos un representante del servicio de atención al cliente de Vrbo podría proporcionar ayuda a los Viajeros en relación con preguntas relativas al procesamiento de los pagos, Vrbo no tendrá responsabilidad alguna por lo que respecta al pago correcto de las reservas.
+3.4.5 La gestión del cobro y el procesamiento de los importes pagados por los Viajeros, así como de la transferencia de los importes adeudados al Propietario, la realizan (1) nuestros proveedores de pagos externos; (2) Pagos Vrbo (con la ayuda de un proveedor de servicios de pago externo) o, (3) en el caso de algunos Propietarios integrados, sus propios proveedores de pagos externos. El Propietario entiende y acepta que, con la excepción de las obligaciones de Pagos Vrbo de conformidad con el [Contrato de cobro de derechos de alquiler,](https://www.vrbo.com/es-es/info/quienes-somos/aviso-legal/payments-terms-and-conditions) Vrbo no está involucrado en el procesamiento de los pagos y no asume responsabilidad alguna por el pago correcto de las reservas. Aunque en determinados casos un representante del servicio de atención al cliente de Vrbo podría proporcionar ayuda a los Viajeros en relación con preguntas relativas al procesamiento de los pagos, Vrbo no tendrá responsabilidad alguna por lo que respecta al pago correcto de las reservas.
 
 3.4.6 Los Anuncios podrán mostrarse en otros sitios del Grupo Vrbo, así como en los sitios de empresas con las que Vrbo pueda haber suscrito contratos de distribución, siempre que dichos sitios permitan la realización de pagos en línea. No obstante, Vrbo no ofrece ninguna garantía de publicación en ningún lugar distinto del Sitio en el que el Propietario haya registrado su Anuncio originalmente, y ello sin perjuicio del derecho de Vrbo a publicar o no un Anuncio.
 
 3.4.7 Los Anuncios de Pago por Reserva se mostrarán en el Sitio de forma indefinida; no obstante, Vrbo se reserva el derecho a retirar un Anuncio o negarse a publicarlo, previa notificación. El Propietario también podrá suspender o retirar sus Anuncios en cualquier momento a través de su panel de control o poniéndose en contacto con el [servicio de atención al cliente.](https://www.vrbo.com/es-es/ayuda/contact)
 
-3.4.8 La conversión de un Anuncio de Suscripción en un Anuncio de Pago por Reserva solo es posible al final del periodo de suscripción de cada Anuncio de Suscripción. La conversión de un Anuncio de Pago por Reserva en un Anuncio de Suscripción podrá tramitarse en cualquier momento previo pago de las Tarifas de los Anuncios de Suscripción, si bien todas las reservas ya realizadas mediante la modalidad de Pago por Reserva seguirán sujetas a las comisiones aplicables a los Anuncios de Pago por Reserva.
+3.4.8 La conversión de un Anuncio de Suscripción en un Anuncio de Pago por Reserva solo es posible al final del periodo de suscripción de cada Anuncio de Suscripción. La conversión de un Anuncio de Pago por Reserva en un Anuncio de Suscripción no está permitida.
 
 _3.5 Disposiciones adicionales relativas a los Anuncios de Suscripción_
 
-3.5.1 Para publicar un Anuncio de Suscripción, el Propietario deberá solicitarlo cumplimentando el formulario de pedido en línea disponible en el Sitio y pagar a Vrbo el importe correspondiente al Anuncio («**Tarifas de los Anuncios de Suscripción**»). El precio de una Suscripción se especifica en el Sitio en la lista de [tarifas vigentes.](https://ayuda.homeaway.es/articles/Cual-es-el-precio-de-la-suscripcion-anual-de-HomeAway) Si actúa como consumidor, y salvo la aplicación de alguna excepción legal, tiene derecho a cancelar la publicación los Anuncios de Suscripción y sus correspondientes tarifas durante el plazo de desistimiento sin indicar el motivo y sin incurrir en ningún coste. El «plazo de desistimiento» será de 14 días naturales desde la fecha de suscripción de las presentes Condiciones aplicables al Propietario. Podrá ejercer este derecho de desistimiento notificándonoslo través del , y le reembolsaremos, cuando proceda, cualquier pago realizado en un plazo de 14 días naturales.
+3.5.1 Para publicar un Anuncio de Suscripción, el Propietario deberá solicitarlo cumplimentando el formulario de pedido en línea disponible en el Sitio y pagar a Vrbo el importe correspondiente al Anuncio, que Vrbo podrá aceptar o rechazar («**Tarifas de los Anuncios de Suscripción**»). El precio de una Suscripción se especifica en el Sitio en la lista de [tarifas vigentes.](https://ayuda.homeaway.es/articles/Cual-es-el-precio-de-la-suscripcion-anual-de-HomeAway) Si actúa como consumidor, y salvo la aplicación de alguna excepción legal, tiene derecho a cancelar la publicación los Anuncios de Suscripción y sus correspondientes tarifas durante el plazo de desistimiento sin indicar el motivo y sin incurrir en ningún coste. El «plazo de desistimiento» será de 14 días naturales desde la fecha de suscripción de las presentes Condiciones aplicables al Propietario. Podrá ejercer este derecho de desistimiento notificándonoslo conforme a lo dispuesto en la cláusula 16 o través del formulario de desistimiento, y le reembolsaremos, cuando proceda, cualquier pago realizado en un plazo de 14 días naturales. Vrbo no acepta Anuncios de Suscripción nuevos; solo permite la renovación de Anuncios de Suscripción existentes.
 
-Mediante el envío del formulario de pedido, el Propietario garantiza que toda la información proporcionada a Vrbo es exacta y que cumple con estas Condiciones aplicables al Propietario.
+Mediante el envío del [formulario de pedido](https://csvcus.homeaway.com/rsrcs/static-pages/master-552/vrbo/files/live/sites/vrbo/files/es-es/shared/legal/1812%20HAES%20Withdrawal%20form.pdf), el Propietario garantiza que toda la información proporcionada a Vrbo es exacta y que cumple con estas Condiciones aplicables al Propietario.
 
 3.5.2 Los Anuncios de Suscripción vendidos por Vrbo se mostrarán durante todo el periodo seleccionado por el Propietario en el formulario de pedido correspondiente («**Periodo Inicial del Anuncio**»). Dicho periodo comenzará en la fecha en la que el Propietario envíe el pago completo o inicial (según corresponda) de las Tarifas de los Anuncios de Suscripción (la «**Fecha de Compra**») y vencerá el último día del periodo seleccionado por el Propietario (el «**Periodo del Anuncio de Suscripción**»), a no ser que se renueve tal y como se dispone más adelante. A modo de ejemplo, si un Propietario contrata una suscripción anual el 1 de julio, el Anuncio de Suscripción expirará el 30 de junio del año siguiente (a no ser que se renueve tal y como se dispone más adelante).
 
@@ -93,7 +93,7 @@ Mediante el envío del formulario de pedido, el Propietario garantiza que toda 
 
 4.2 El Panel de Control proporciona distintas funcionalidades destinadas a ayudar a los Propietarios a gestionar sus Propiedades en el Sitio; estas funcionalidades y el propio Panel de Control se facilitarán «tal cual», sin que Vrbo se comprometa a que estén completos o carezcan de errores.
 
-4.3 La funcionalidad de «Reserva Online» de los Anuncios permite a los Viajeros reservar las Propiedades en línea. El servicio de «pago online» permite a los Viajeros que reserven en línea pagar al Propietario mediante una pasarela de pagos en línea gestionada por Pagos Vrbo proporcionada por un proveedor de servicio de pagos externo o por un proveedor de pagos externo. El servicio de pagos en línea está sujeto a las condiciones del proveedor de pagos externo y/o al [Contrato de cobro de derechos de alquiler](https://www.vrbo.com/es-es/legal/terminos-y-condiciones-de-pago), y el Propietario acepta que (con la excepción de las obligaciones de Pagos Vrbo de conformidad con el Contrato de cobro de derechos de alquiler), Vrbo no ejercerá ningún control sobre dichos servicios de pago en línea ni tendrá ninguna responsabilidad con respecto a los mismos.
+4.3 La funcionalidad de «Reserva Online» de los Anuncios permite a los Viajeros reservar las Propiedades en línea. El servicio de «pago online» permite a los Viajeros que reserven en línea pagar al Propietario mediante una pasarela de pagos en línea gestionada por Pagos Vrbo proporcionada por un proveedor de servicio de pagos externo o por un proveedor de pagos externo. El servicio de pagos en línea está sujeto a las condiciones del proveedor de pagos externo y/o al [Contrato de cobro de derechos de alquiler](https://www.vrbo.com/es-es/info/quienes-somos/aviso-legal/payments-terms-and-conditions), y el Propietario acepta que (con la excepción de las obligaciones de Pagos Vrbo de conformidad con el Contrato de cobro de derechos de alquiler), Vrbo no ejercerá ningún control sobre dichos servicios de pago en línea ni tendrá ninguna responsabilidad con respecto a los mismos.
 
 4.4 En el Panel de Control, el Propietario tendrá acceso a Comentarios de los Viajeros con respecto a las Propiedades del Propietario y cualesquiera Evaluaciones de los Propietarios en relación con un Viajero que se haya puesto en contacto con el Propietario.
 
@@ -111,7 +111,7 @@ Por lo demás, Vrbo declina expresamente cualquier responsabilidad por los Comen
 
 4.6 Vrbo exige que todos los Comentarios sobre Propiedades, las Respuestas de los Propietarios, los Comentarios de los Viajeros y otras comunicaciones se ajusten a las [Directrices sobre contenido](https://www.vrbo.com/es-es/info/homeaway-es/normasdecomentarios), y podría denegar su publicación si considera que no se ciñen a las mismas. En caso de que cualesquiera Comentarios sobre Propiedades, Respuestas de los Propietarios, Comentarios de los Viajeros u otras comunicaciones se publiquen en el Sitio pero no se ajusten a las Directrices sobre contenido, sin perjuicio de otros recursos disponibles, Vrbo tendrá derecho a retirar sin demora del Sitio aquellos Comentarios sobre Propiedades, Respuestas de los Propietarios, Comentarios de los Viajeros u otras comunicaciones contrarios a las normas referidas. Vrbo comunicará rápidamente al usuario los motivos por los que el contenido no ha sido mostrado o ha sido retirado del sitio web. El Propietario puede recurrir la decisión de eliminar cualquier Contenido poniéndose en contacto con el servicio de atención al cliente.
 
-4.7 Las comunicaciones realizadas a través del Sitio (y cualesquiera herramientas facilitadas en este) podrán ser comentadas por el Viajero y por el Propietario a los que se refiera la comunicación y vistas por los empleados y representantes del Grupo Vrbo para cumplir con sus obligaciones derivadas de su condición de entidad de alojamiento web y para hacer seguimiento del cumplimiento de las Condiciones aplicables al Propietario. _**Los Propietarios deberán imprimir una copia para sus propios registros de cualesquiera mensajes que pudieran ser importantes, como un recibo de pago o la confirmación de una reserva.**_
+4.7 Las comunicaciones realizadas a través del Sitio (y cualesquiera herramientas facilitadas en este) podrán ser comentadas por el Viajero y por el Propietario a los que se refiera la comunicación y vistas por los empleados y representantes del Grupo Vrbo para cumplir con sus obligaciones derivadas de su condición de entidad de alojamiento web y para hacer seguimiento del cumplimiento de las Condiciones aplicables al Propietario. **_Los Propietarios deberán imprimir una copia para sus propios registros de cualesquiera mensajes que pudieran ser importantes, como un recibo de pago o la confirmación de una reserva._**
 
 4.8 Los mensajes enviados a través de los sistemas Vrbo solo deberán versar sobre consultas legítimas relacionadas con reservas. No toleraremos correo basura (_spam_) ni ningún tipo de comunicación electrónica comercial no solicitada. Queda prohibido realizar un uso incorrecto de los sistemas Vrbo enviando comunicaciones comerciales no solicitadas (_spam_) o revelando a terceros datos personales de los usuarios, salvo que cuente con la autorización expresa de tales usuarios. Los correos electrónicos y las recomendaciones del Sitio transmitidos a través de la funcionalidad «Recomiende este Sitio» solo deberán enviarse con el consentimiento del destinatario. Usted acepta que protegerá la información personal de otros usuarios de conformidad con las leyes y normas vigentes y, en cualquier caso, con un nivel de diligencia razonable, y que asumirá toda la responsabilidad por el uso incorrecto, la pérdida o la transmisión no autorizada de dicha información.
 
@@ -147,26 +147,25 @@ Vrbo no puede garantizar que un Anuncio aparezca en un orden específico en los 
 
 **8\. Resolución**
 
-8.1 Sin limitar ninguno de los derechos descritos a continuación, Vrbo puede finalizar el presente Acuerdo por razón de conveniencia en cualquier momento tras notificárselo al Propietario con una antelación de treinta (30) días a través de la dirección de correo electrónico registrada del Propietario.
+8.1 Sin limitar ninguno de los derechos descritos a continuación, Vrbo puede finalizar el presente Acuerdo por razón de conveniencia en cualquier momento tras notificárselo al Propietario con una antelación de treinta (30) días a través de la dirección de correo electrónico registrada del Propietario.
 
 8.2 En caso de que Vrbo determine (o reciba una reclamación al efecto) que: 
 
-* algún Anuncio o cualquier otro contenido asociado con un Propietario incluye cualquier material que infringe las [Directrices sobre contenido](https://www.vrbo.com/es-es/legal/directrices-sobre-contenido), la [Guía de Descuentos,](https://www.vrbo.com/es-es/legal/directrices-descuento) la ley, las normas aplicables o los derechos de cualquier persona o entidad;
-    
-* un Propietario ha subido al Sitio contenido inadecuado o ha realizado un uso indebido del Sitio;
-    
-* las prácticas de anuncio o alquiler de un Propietario son inaceptables o injustas, o si tenemos conocimiento o recibimos una o varias quejas de cualquier usuario o tercero sobre una práctica de anuncio o de alquiler de un Propietario que justifiquen la retirada inmediata del Sitio de tales anuncios del Propietario (por ejemplo, y sin limitación, en caso de que un Propietario alquile una misma Propiedad a múltiples viajeros en la misma fecha o, teniendo habilitada la funcionalidad de reserva online, no acepte reservas cuando la propiedad se encuentre disponible o cancele reservas previamente aceptadas, o lleve a cabo cualquier práctica que pudiera considerarse injusta o inadecuada en el sector del alquiler de propiedades de corta duración);
-    
-* el Propietario ha cometido un incumplimiento esencial de estas Condiciones aplicables al Propietario (lo cual incluirá, a efectos aclaratorios, cualquier infracción de la cláusula 3.3 «Requisitos aplicables a los Propietarios para publicar Anuncios», la cláusula 4, «Uso del servicio», la cláusula 11, «Derechos y obligaciones del Propietario» o la cláusula 13, «Prohibiciones») o cualesquier otras obligaciones frente al Grupo Vrbo o cualquier Viajero;
-    
-* un Propietario ha actuado de manera abusiva u ofensiva contra cualquier Viajero o empleado o representante de Vrbo;
-    
-* un Propietario usa una identidad falsa;
-    
-* se ha hecho cualquier otro uso indebido de los sistemas o plataformas de comunicación de Vrbo; o
-    
-* se ha producido cualquier otra situación similar a las anteriores en relación con el Grupo Vrbo,
-    
+algún Anuncio o cualquier otro contenido asociado con un Propietario incluye cualquier material que infringe las [Directrices sobre contenido](https://www.vrbo.com/es-es/legal/directrices-sobre-contenido), la [Guía de Descuentos,](https://www.vrbo.com/es-es/legal/directrices-descuento) la ley, las normas aplicables o los derechos de cualquier persona o entidad;
+
+un Propietario ha subido al Sitio contenido inadecuado o ha realizado un uso indebido del Sitio;
+
+las prácticas de anuncio o alquiler de un Propietario son inaceptables o injustas, o si tenemos conocimiento o recibimos una o varias quejas de cualquier usuario o tercero sobre una práctica de anuncio o de alquiler de un Propietario que justifiquen la retirada inmediata del Sitio de tales anuncios del Propietario (por ejemplo, y sin limitación, en caso de que un Propietario alquile una misma Propiedad a múltiples viajeros en la misma fecha o, teniendo habilitada la funcionalidad de reserva online, no acepte reservas cuando la propiedad se encuentre disponible o cancele reservas previamente aceptadas, o lleve a cabo cualquier práctica que pudiera considerarse injusta o inadecuada en el sector del alquiler de propiedades de corta duración);
+
+el Propietario ha cometido un incumplimiento esencial de estas Condiciones aplicables al Propietario (lo cual incluirá, a efectos aclaratorios, cualquier infracción de la cláusula 3.3 «Requisitos aplicables a los Propietarios para publicar Anuncios», la cláusula 4, «Uso del servicio», la cláusula 11, «Derechos y obligaciones del Propietario» o la cláusula 13, «Prohibiciones») o cualesquier otras obligaciones frente al Grupo Vrbo o cualquier Viajero;
+
+un Propietario ha actuado de manera abusiva u ofensiva contra cualquier Viajero o empleado o representante de Vrbo;
+
+un Propietario usa una identidad falsa;
+
+se ha hecho cualquier otro uso indebido de los sistemas o plataformas de comunicación de Vrbo; o
+
+se ha producido cualquier otra situación similar a las anteriores en relación con el Grupo Vrbo,
 
 Vrbo tendrá derecho, tras proporcionar una declaración de motivos por escrito, a llevar a cabo una o más de las acciones que se indican a continuación: (i) suspender o (ii) retirar (a) cualquiera de los Anuncios afectados o (b) todos los Anuncios asociados con dicho Propietario (incluido, a efectos aclaratorios, cualquier Servicio de Pago Adicional relativo a dichos Anuncios) de forma inmediata y sin reembolso alguno de las Tarifas de los Anuncios o cualesquiera otros cargos o tarifas pagados por el Propietario.
 
@@ -200,7 +199,7 @@ Vrbo tendrá derecho, tras proporcionar una declaración de motivos por escrito,
 
 10.5 Cuando un Propietario envíe o transmita a través del Sitio o de la plataforma o los sistemas Vrbo contenido de cualquier tipo, incluido texto o imágenes, se asegurará de que tiene el derecho a hacerlo y de haber obtenido todos los consentimientos o permisos necesarios de cualesquiera propietarios de los contenidos compartidos, ubicaciones o personas («cesión de propiedad»).
 
-10.6 En la medida en que los comentarios u otros contenidos de los Propietarios puedan contener marcas comerciales u otros nombres o marcas registrados, el Propietario se asegurará de haber obtenido todos los permisos legales y derechos requeridos para el uso por parte de Vrbo de dicho contenido en el Sitio. En el caso de que Vrbo reciba cualquier notificación relativa a que el Propietario infringe  los derechos de autor o cualesquiera otros de un tercero, el Propietario, con previo aviso, eliminará dicho contenido, a menos que evidencie que tiene derecho de uso de tal contenido.
+10.6 En la medida en que los comentarios u otros contenidos de los Propietarios puedan contener marcas comerciales u otros nombres o marcas registrados, el Propietario se asegurará de haber obtenido todos los permisos legales y derechos requeridos para el uso por parte de Vrbo de dicho contenido en el Sitio. En el caso de que Vrbo reciba cualquier notificación relativa a que el Propietario infringe los derechos de autor o cualesquiera otros de un tercero, el Propietario, con previo aviso, eliminará dicho contenido, a menos que evidencie que tiene derecho de uso de tal contenido.
 
 10.7 Al enviar contenido al Sitio (y al Panel de Control) (lo que incluye, entre otros, texto, descripciones, comentarios, fotografías y similares), los Propietarios autorizan a Vrbo a publicar dicho contenido tanto en el Sitio, en un formato publicado por separado, como según lo dispuesto en la cláusula 4.5.
 
@@ -218,16 +217,15 @@ Vrbo tendrá derecho, tras proporcionar una declaración de motivos por escrito,
 
 11.4 El Propietario deberá cumplir con los [Estándares de Mercado](https://www.vrbo.com/es-es/ayuda/articles/Cuales-son-los-estandares-de-calidad-de-HomeAway), en su versión vigente en cada momento, disponibles en  [https://www.vrbo.com/es-es/ayuda/articles/Cuales-son-los-estandares-de-calidad-de-HomeAway](https://www.vrbo.com/es-es/ayuda/articles/Cuales-son-los-estandares-de-calidad-de-HomeAway). Estos Estándares recogen determinados requisitos que deben cumplir los anuncios, entre ellos, a título meramente enunciativo, los siguientes:
 
-* Los Propietarios deben mantener un calendario de reservas preciso en sus Anuncios;
-    
-* Los Propietarios deben realizar esfuerzos comercialmente razonables para responder a todas las solicitudes de reserva de los Viajeros en las 24 horas siguientes a la recepción de la solicitud de reserva;
-    
-* Los Propietarios se comprometen asimismo a adoptar medidas comercialmente razonables para que todos los pagos de los Viajeros sean procesados en las 24 horas siguientes a la autorización de dichos pagos por parte de estos últimos;
-    
-* Los Propietarios deben aceptar y responder a un número importante de Consultas y solicitudes de reserva recibidas en interés de la experiencia de los Viajeros; y
-    
-* Se prohíbe a los Propietarios cancelar un número importante de reservas aceptadas.
-    
+Los Propietarios deben mantener un calendario de reservas preciso en sus Anuncios;
+
+Los Propietarios deben realizar esfuerzos comercialmente razonables para responder a todas las solicitudes de reserva de los Viajeros en las 24 horas siguientes a la recepción de la solicitud de reserva;
+
+Los Propietarios se comprometen asimismo a adoptar medidas comercialmente razonables para que todos los pagos de los Viajeros sean procesados en las 24 horas siguientes a la autorización de dichos pagos por parte de estos últimos;
+
+Los Propietarios deben aceptar y responder a un número importante de Consultas y solicitudes de reserva recibidas en interés de la experiencia de los Viajeros; y
+
+Se prohíbe a los Propietarios cancelar un número importante de reservas aceptadas.
 
 11.5 El Propietario se compromete a asegurarse de que el calendario de cada Anuncio se mantiene correcto y actualizado para reflejar la disponibilidad de cada Propiedad a medida que se vayan efectuando reservas.
 
@@ -351,17 +349,24 @@ Envíe la notificación al Responsable de Derechos de Autor de Vrbo:
 
 Michael Graham
 
-c/o Expedia, IncLegal Department1111 Expedia Group WSeattle, Washington 98119Estados Unidos de América
+c/o Expedia, Inc  
+Legal Department  
+1111 Expedia Group W  
+Seattle, Washington 98119  
+Estados Unidos de América
 
-E-mail : [HA-Copyright@expedia.com](mailto:HA-Copyright@expedia.com)Teléfono : 206-481-7200
+E-mail : [HA-Copyright@expedia.com](mailto:HA-Copyright@expedia.com)  
+Teléfono : 206-481-7200
 
-16.3 **Contranotificaciones relativas a los derechos de autor.** En caso de que material publicado por usted se haya retirado de conformidad con una reclamación por derechos deautor, tiene la posibilidad de presentar una contranotificación por correo electrónico o correo postal que incluya la información especificada a continuación. Le recomendamos que, antes de llevar a cabo dicha acción, obtenga asesoramiento legal al respecto. Incluya la información siguiente: 
+16.3 **Contranotificaciones relativas a los derechos de autor.** En caso de que material publicado por usted se haya retirado de conformidad con una reclamación por derechos de  
+autor, tiene la posibilidad de presentar una contranotificación por correo electrónico o correo postal que incluya la información especificada a continuación. Le recomendamos que, antes de llevar a cabo dicha acción, obtenga asesoramiento legal al respecto. Incluya la información siguiente: 
 
 1.            Identificación del contenido específico que se ha eliminado o cuyo acceso se ha desactivado y la ubicación en la que el contenido aparecía en el Sitio web de Expedia. Si es posible, indique la dirección URL.
 
 2.           Su nombre, dirección postal, número de teléfono y dirección de correo electrónico.
 
-3.            Una declaración en la que consienta someterse a la jurisdicción de la Corte Federalde Distrito del distrito judicial correspondiente a su dirección o, si su dirección está fuera de los Estados Unidos, la de cualquier distrito judicial en el que tenga sede Expedia, Inc., y en la que acepte recibir notificaciones legales de la parte que informó de su contenido o del agente de dicha parte.
+3.            Una declaración en la que consienta someterse a la jurisdicción de la Corte Federal  
+de Distrito del distrito judicial correspondiente a su dirección o, si su dirección está fuera de los Estados Unidos, la de cualquier distrito judicial en el que tenga sede Expedia, Inc., y en la que acepte recibir notificaciones legales de la parte que informó de su contenido o del agente de dicha parte.
 
 4.          La siguiente afirmación: «Juro, bajo pena de perjurio, que creo de buena fe que el contenido identificado anteriormente ha sido retirado o deshabilitado como consecuencia de un error o una identificación errónea ».
 
@@ -371,9 +376,14 @@ Responsable de Derechos de Autor de Vrbo
 
 Michael Graham
 
-c/o Expedia, IncLegal Department1111 Expedia Group WSeattle, Washington 98119Estados Unidos de América
+c/o Expedia, Inc  
+Legal Department  
+1111 Expedia Group W  
+Seattle, Washington 98119  
+Estados Unidos de América
 
-E-mail : [HA-Copyright@expedia.com](mailto:HA-Copyright@expedia.com)Teléfono : 206-481-7200
+E-mail : [HA-Copyright@expedia.com](mailto:HA-Copyright@expedia.com)  
+Teléfono : 206-481-7200
 
 16.4 **Reclamaciones relativas a Marcas Registradas.** Si usted cree que el Sitio o un Anuncio infringe o hace un mal uso de su Marca Registrada, cumplimente formulario de reclamación de Vrbo por uso indebido de Marca Registrada (la «Notificación de Marca») y entréguelo al Responsable de Marcas Registradas de Vrbo que figura a continuación. Tras la recepción de una Notificación, Vrbo tomará las medidas oportunas, entre ellas, informará al Propietario que haya realizado la publicación en la que se haya detectado el uso supuestamente infractor que figura en la Reclamación, solicitando que considere y responda a la Reclamación, elimine de los Anuncios del Sitio las partes designadas como claramente infractoras y/o cancele su cuenta del usuario de Vrbo, si se dan las circunstancias oportunas.
 
@@ -397,9 +407,14 @@ Reclamaciones de marcas comerciales
 
 Michael Graham
 
-c/o Expedia, IncLegal Department1111 Expedia Group WSeattle, Washington 98119Estados Unidos de América
+c/o Expedia, Inc  
+Legal Department  
+1111 Expedia Group W  
+Seattle, Washington 98119  
+Estados Unidos de América
 
-E-mail : [HA-Trademarks@expedia.com](mailto:HA-Copyright@expedia.com)Teléfono : 206-481-7200
+E-mail : [HA-Trademarks@expedia.com](mailto:HA-Copyright@expedia.com)  
+Teléfono : 206-481-7200
 
 16.5 **Avisos relativos a patentes.** Una o más patentes propiedad del Grupo Vrbo o las empresas de Expedia pueden aplicarse a este Sitio web y a las funciones y servicios accesibles a través del mismo. Algunas partes de este Sitio web funcionan bajo la licencia de una o más patentes. Hay otras patentes en curso. 
 
