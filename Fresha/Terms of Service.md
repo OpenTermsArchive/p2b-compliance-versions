@@ -176,7 +176,7 @@ You agree that you will provide Fresha with a valid method of payment, and that 
 
 If you choose to use the Fresha Payment Services, Fresha will charge you on behalf of the Partner (as its commercial agent) for the total amount of your Appointment/Order (including any applicable taxes and additional fees). To complete the Fresha Payment Services, we use the payment method you provide to us and in the currency stated in the Confirmation. Currency conversion costs or other charges incurred by you will be borne by you in addition to the payment made to us . When Fresha receives your payment for the Partner Services, this will discharge your debt to the relevant Partner for the relevant Appointment/Order. 
 
-You may have the option to select certain Appointments/Orders as a Pay In-Store Service. This means that you may make an Appointment/Order without using the Fresha Payment Services, and then pay the Partner directly for Partner Services with cash, credit card, or another payment instrument accepted by the Partner. This option will only appear for Partners which enable Pay In-Store Services, and may not appear for some Partners.  
+You may have the option to select certain Appointments/Orders as a Pay In-Store Service. This means that you may make an Appointment/Order without using Fresha Payment Services and then pay the Partner directly for Partner Services with cash, credit card, or another payment instrument accepted by the Partner. The Partner has the option to charge the Client's payment method saved to the Fresha Account at checkout for Pay In-Store Services. This option will only appear for Partners which enable Pay In-Store Services and may not appear for some Partners.  
   
 
 Payment processor  
