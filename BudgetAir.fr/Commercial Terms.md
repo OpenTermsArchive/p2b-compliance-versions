@@ -1,4 +1,4 @@
-**v2112\_E\_i**
+**v2211\_E\_i**
 
 ### General Delivery Terms
 
@@ -78,7 +78,7 @@
 
 A: FOR ALL TRANSACTIONS EXCEPT THOSE TO WHICH 3B OR 3C APPLIES
 
-B: FOR ACCOMMODATIONS THAT SIGNED A CONNECTED ACCOUNT AGREEMENT WITH A PAYMENT PROCESSOR THROUGH THE PLATFORM
+B: FOR ACCOMMODATIONS THAT SIGNED PAYMENT PROCESSING DOCUMENTATION WITH A PAYMENT PROCESSOR THROUGH THE PLATFORM
 
 C: FOR US DOMESTIC TRANSACTIONS EXCEPT TRANSACTIONS TO WHICH 3B APPLIES
 
@@ -112,13 +112,13 @@ These general delivery terms including the Annexes (the "**Terms**"), supplement
 
 "**European Economic Area**" means member states of the European Union as well as Norway, Iceland and Liechtenstein (as amended by the appropriate governing body from time to time).
 
-"**Extranet**" means the online systems of Booking.com which can be accessed by the Accommodation (after inputting its username and password), for uploading, changing, verifying, updating and/or amending the Accommodation Information and reservations.
+"**Extranet**" means the online systems of Booking.com which can be accessed by the Accommodation (after inputting its username and password), for, among other things, uploading, changing, verifying, updating and/or amending the Accommodation Information and reservations.
 
-"**Facilitated Payment**" means the payment methods that Booking.com may from time to time and in certain jurisdictions make available on the Booking.com Platform for (pre-/down-) payment of the Room Price by a Guest to the Accommodation and for settlement of the Commission by the Accommodation to Booking.com (as applicable) pursuant to which bank transfer, credit card payments or other forms of online payments (as available) can be made and processed for and on behalf of the Accommodation.
+"**Facilitated Payment**" means the payment methods that Booking.com may from time to time and in certain jurisdictions make available on the Booking.com Platform for, among other things, (pre-/down-) payment of the Room Price by a Guest to the Accommodation and for settlement of the Commission by the Accommodation to Booking.com (as applicable) pursuant to which bank transfer, credit card payments or other forms of online payments (as available) can be made and processed for and on behalf of the Accommodation.
 
-"**Financial Crime Requirements**" means the U.S. Foreign Corrupt Practices Act, the UK Bribery Act 2010, the Criminal Finances Act 2017 and any other applicable laws, statutes, regulations, treaties or codes relating to anti-bribery, anti-tax evasion/facilitation of tax evasion, anti-corruption, anti-terrorist financing and anti-financial crimes applying in the countries in which either of the Parties has a place of business.
+"**Financial Crime Requirements**" means the U.S. Foreign Corrupt Practices Act, the UK Bribery Act 2010, the UK Criminal Finances Act 2017 and any other applicable laws, statutes, regulations, treaties or codes relating to anti-bribery, anti-corruption, anti-money laundering, anti-tax evasion/facilitation of tax evasion, anti-terrorism financing, economic and trade sanctions, and anti-financial crimes applying in the countries in which either of the Parties operates or has a place of business.
 
-"**Force Majeure Event**" means any of the following events affecting multiple Guests and multiple accommodations: acts of God, volcanic eruption, (natural) disaster, fire, (acts of) war, hostilities or any local or national emergency, invasion, compliance with any order or request of any national, provincial, port or other public authority, government regulation or intervention, military action, civil war or terrorism, (biological, chemical or nuclear) explosion, rebellion, riots, insurrection strikes, civil disorder (or the material or substantial threat or justified apprehension of any such events), curtailment of transportation facilities, close down of airports or any other exceptional and catastrophic event, circumstance or emergency, preventing or making it impossible or illegal for Guests to travel to or stay at the Accommodation.
+"**Force Majeure Event**" means any of the following events affecting multiple Guests and multiple accommodations: acts of God, volcanic eruption, (natural) disaster, fire, (acts of) war, hostilities or any local or national emergency, invasion, compliance with any order or request of any national, provincial, port or other public authority, government regulation or intervention, military action, civil war or terrorism, (biological, chemical or nuclear) explosion, rebellion, riots, insurrection, strikes, civil disorder (or the material or substantial threat or justified apprehension of any such events), curtailment of transportation facilities, close down of airports or any other exceptional and catastrophic event, circumstance or emergency, preventing or making it impossible or illegal for Guests to travel to or stay at the Accommodation.
 
 "**Guest**" means a visitor to the Platform or a customer or guest of the Accommodation.
 
@@ -128,7 +128,7 @@ These general delivery terms including the Annexes (the "**Terms**"), supplement
 
 "**Messaging Service**" means the service that Booking.com may from time to time provide as part of its service to the Guest and to the Accommodation to facilitate communication between the Guest, the Accommodation and Booking.com.
 
-"**Narrow Parity Countries**" means Australia, Brazil, China, all countries within the European Economic Area (except for No Parity Countries), Georgia, Hong Kong, Israel, South Korea, Switzerland, Turkey, the United Kingdom, New Zealand and/or such other jurisdictions as from time to time indicated by Booking.com.
+"**Narrow Parity Countries**" means Australia, Brazil, China, all countries within the European Economic Area (except for No Parity Countries), Georgia, Hong Kong, Israel, Japan, South Korea, Switzerland, Turkey, the United Kingdom, New Zealand and/or such other jurisdictions as from time to time indicated by Booking.com.
 
 "**No Parity Countries**" means Austria, Belgium, France, Germany, Italy, Russia, and/or such other jurisdictions as from time to time indicated by Booking.com.
 
@@ -170,7 +170,7 @@ These general delivery terms including the Annexes (the "**Terms**"), supplement
 
 2.2 Parity
 
-2.2.1 The Accommodation shall give Booking.com "**Rate and Conditions Parity**", meaning the same or better rates for the same Accommodation, room type, dates, bed type, number of guests, same or better amenities and add-ons (e.g. free breakfast, wifi, early/late checkout), and the same or better restrictions and policies such as reservation changes and cancellation policy as are made available by the Accommodation.
+2.2.1 The Accommodation shall give Booking.com "**Rate and Conditions Parity**", meaning the same or better rates for the same Accommodation, room type, dates, bed type, number of guests, same or better amenities and add-ons (e.g. free breakfast, wifi, early/late check-out), and the same or better restrictions and policies such as reservation changes and cancellation policy as are made available by the Accommodation.
 
 2.2.2 Rate and Conditions Parity does not apply in respect of rates and conditions:
 
@@ -196,7 +196,7 @@ These general delivery terms including the Annexes (the "**Terms**"), supplement
 
 (i) the number of nights stayed at the Accommodation by the Guest;
 
-(ii) the Room Price per room per night including Taxes and such other extras and surcharges which are included in, in addition to, or part of the offered rate or opted into or accepted through the Platform by the Guest prior to the Guest’s check-in (such as breakfasts, meals (half-board or full-board), bicycle rental, late check out/early check in fees, extra person charges, resort fees, roll-away beds, theatre tickets, service fees, etc.);
+(ii) the Room Price per room per night (including Taxes) and such other extras and surcharges which are included in, in addition to, or part of the offered rate or opted into or accepted through the Platform by the Guest prior to the Guest’s check-in (such as breakfasts, meals (half-board or full-board), bicycle rental, late check-out/early check-in fees, extra person charges, resort fees, roll-away beds, theatre tickets, service fees, etc.);
 
 (iii) the number of rooms booked by the Guest; and
 
@@ -210,7 +210,7 @@ These general delivery terms including the Annexes (the "**Terms**"), supplement
 
 The Commission will be calculated in accordance with the confirmed booking as provided to the Accommodation and confirmed by Booking.com to the Guest.
 
-2.3.4 The Accommodation shall give Booking.com notice of waiver of any (room) charge or fee in the event of a no-show or charged cancellation, and notice of any invalid payment method for any no-show reservation or cancelled reservation, within 48 hours after midnight on the day of the scheduled date of check-out Booking.com will then inform the Guest accordingly and the Accommodation shall promptly process the refund to the Guest (as applicable).
+2.3.4 The Accommodation shall give Booking.com notice of waiver of any (room) charge or fee in the event of a no-show or charged cancellation, and notice of any invalid payment method for any no-show reservation or cancelled reservation, within 48 hours after midnight on the day of the scheduled date of check-out. Booking.com will then inform the Guest accordingly and the Accommodation shall promptly process the refund to the Guest (as applicable).
 
 2.3.5 The Accommodation is responsible for informing Booking.com about (and any changes to) applicable Taxes (unless applicable mandatory law provides otherwise) which will be charged to the Guest by the Accommodation upon reservation for pre-paid or upon check-out for post-paid reservations. Unless otherwise agreed by Booking.com or permitted by applicable law, the rate shown to Guests on the Platform shall be inclusive of Taxes.
 
@@ -320,7 +320,7 @@ The Commission will be calculated in accordance with the confirmed booking as pr
 
 (ii) the part of the reservation that was not used due to the Force Majeure Event.
 
-2.10.2 If there is reasonable and justified doubt, the Accommodation may ask a Guest to provide reasonable evidence of the causality between the Force Majeure Event and their cancellation, no-show or change of reservation. The Accommodation will provide Booking.com with a copy of such evidence on request. In order for Booking.com to register any cancellation, no-show or amendment of the reservation due to a Force Majeure Event, the Accommodation shall inform Booking.com of the number of days actually stayed within two business days after the scheduled check out date of the no-show or cancellation, or check out. Booking.com will not charge any Commission in relation to the part of the reservation that is not used due to the Force Majeure Event.
+2.10.2 If there is reasonable and justified doubt, the Accommodation may ask a Guest to provide reasonable evidence of the causality between the Force Majeure Event and their cancellation, no-show or change of reservation. The Accommodation will provide Booking.com with a copy of such evidence on request. In order for Booking.com to register any cancellation, no-show or amendment of the reservation due to a Force Majeure Event, the Accommodation shall inform Booking.com of the number of days actually stayed within two business days after the scheduled check-out date of the no-show or cancellation, or check-out. Booking.com will not charge any Commission in relation to the part of the reservation that is not used due to the Force Majeure Event.
 
 #### 3\. LICENSE & DATA
 
@@ -414,7 +414,7 @@ The Accommodation may access the data listed at 3.4(i) through the Extranet.
 
 4.4 Facilitated Payment
 
-4.4.1 The Accommodation acknowledges receipt of and accepts the Facilitated Payment Terms as set out in Annex 3A, 3B and 3C for facilitation of payment of the Room Price by the Guest to the Accommodation, and for settlement of the Commission by the Accommodation to Booking.com (as applicable). The Facilitated Payment Terms may be amended from time to time by Booking.com with 15 days prior written notice to the Accommodation.
+4.4.1 The Accommodation acknowledges receipt of and accepts the Facilitated Payment Terms as set out in Annex 3A, 3B and 3C for facilitation of, among other things, payment of the Room Price by the Guest to the Accommodation, and for settlement of the Commission by the Accommodation to Booking.com (as applicable). The Facilitated Payment Terms may be amended from time to time by Booking.com with 15 days prior written notice to the Accommodation.
 
 #### 5\. REPRESENTATIONS & WARRANTIES
 
@@ -430,15 +430,17 @@ The Accommodation may access the data listed at 3.4(i) through the Extranet.
 
 (v) except where the Accommodation (meaning property) is located in a No Parity Country (in which case this Clause 5.1 (v) does not apply), or where the Accommodation is incorporated in a Wide Parity Country (in which case the wording of this Clause 5.1 (v) is deleted and replaced by the wording in Annex 5), the prices for the rooms advertised on the Platform are the same or better to the best available price for an equivalent stay as Marketed Online, Published Online or otherwise made available online by the Accommodation on its own website and a better price cannot be obtained by a Guest making a reservation with the Accommodation directly on its website or app;
 
-(vi) the Accommodation (which includes for the purpose of this warranty both the operator and the owner of the property) and their directors and direct, indirect and ultimate beneficial owners and their directors for the term of this Agreement are not in any way connected to:
+(vi) the Accommodation (which includes for the purpose of this warranty both the operator and the owner of the property) and their directors and direct, indirect and ultimate beneficial owners and their directors, and third parties working for, or on behalf of the Accommodation, are not:
 
-(a) terrorists or terrorist organizations;
+(a) in any way connected to terrorists or terrorist organization(s);
 
-(b) sanctioned parties or persons, and/or parties or persons resident in or organized under the laws of any jurisdiction subject to territory-wide sanctions;
+(b) listed on any applicable list of sanctioned or restricted parties/persons, or;
 
-(c) parties or persons who are guilty of, and/or who have entered into a non-prosecution or deferred prosecution agreement in which they have admitted to participating in money laundering, tax evasion, financial crime, fraud, bribery and/or corruption.
+(c) ordinarily resident in or organised under the laws of any jurisdiction subject to comprehensive or other territory-wide sanctions,
 
-The Accommodation shall immediately notify Booking.com in the event of an actual or suspected breach of this Clause 5.1 (vi); and
+with whom dealings are prohibited under applicable law.
+
+The Accommodation shall not take any action that would breach, or place Booking.com in breach of, applicable sanctions. The Accommodation shall immediately notify Booking.com in the event of an actual or suspected breach of this Clause 5.1 (vi); and
 
 (vii) the Accommodation:
 
@@ -532,7 +534,7 @@ This Clause 6.3.2 does not limit the liability of the Parties in relation to tor
 
 7.1 Unless otherwise agreed, the Agreement shall commence on the date of acceptance by the Accommodation and shall continue for an indefinite period of time. The Accommodation may terminate the Agreement at any time and for any reason by written notice to Booking.com with a notice period of 15 days.
 
-7.2 Each Party may terminate the Agreement with immediate effect in the event of:
+7.2 Each Party may suspend or terminate the Agreement with immediate effect in the event of:
 
 (i) a legal or regulatory obligation;
 
@@ -580,7 +582,7 @@ This Clause 6.3.2 does not limit the liability of the Parties in relation to tor
 
 (xviii) Booking.com reasonably believes that the Accommodation is in breach of any of its representations in Clauses 5.1(vi), 5.1 (vii), 5.2(iv), 11.5 and 11.6, or its obligations set out in Clauses 11.1 to 11.4; or
 
-(xix) failure by the Accommodation to provide Booking.com with information, documents or other evidence that Booking.com reasonably requests from time to time in connection with its due diligence processes, whether to ensure Booking.com's compliance with anti-bribery, sanctions, anti-tax evasion / facilitation of tax evasion and Financial Crime requirements, or otherwise.
+(xix) failure by the Accommodation to provide Booking.com with information, documents or other evidence that Booking.com reasonably requests from time to time in connection with its due diligence processes, whether to ensure Booking.com's compliance with the Financial Crime Requirements, or otherwise.
 
 7.4 Any notice or communication by Booking.com of "closure" (or similar wording) of the Accommodation on the website shall mean termination of the Agreement. After termination or suspension of the Agreement, the Accommodation shall honour outstanding reservations for Guests and shall pay all Commission (plus costs, expenses and interest if applicable) due on those reservations in accordance with the terms of the Agreement. Upon termination or suspension of the Agreement and notwithstanding Booking.com’s right to (permanently) remove the Accommodation from the Platform, Booking.com may keep and maintain the Accommodation page on the Platform, but close availability (status "closed operations") pending full and final payment of any due and outstanding amounts (including any Commission).
 
@@ -680,7 +682,7 @@ Accommodations may find more detailed information, including how to submit compl
 
 (iii) provide appropriate training to its personnel on compliance with Financial Crime Requirements, policies and procedures.
 
-11.4 The Accommodation shall immediately notify Booking.com if there is an actual or suspected breach, whether by the Accommodation or by any of its employees, directors, officers, agents or other representatives, of this Clause 10.
+11.4 The Accommodation shall immediately notify Booking.com if there is an actual or suspected breach, whether by the Accommodation or by any of its employees, directors, officers, agents or other representatives, of this Clause 11.
 
 11.5 Due to Financial Crime Requirements, Booking.com will only make the Service available to and process, facilitate, make and/or accept payments to or from a bank account (the "**Bank Account**") that, unless otherwise agreed by the parties in writing - is held by the Accommodation and is either:
 
@@ -854,7 +856,7 @@ https://admin.booking.com/hotelreg/terms-and-conditions.html?cc1=nl&lang=en.
 
 ### Annex 3A
 
-#### FACILITATED PAYMENT FOR ALL TRANSACTIONS EXCEPT THOSE TO WHICH ANNEX 3B OR 3C APPLIES
+#### FACILITATED PAYMENT TERMS FOR ALL TRANSACTIONS EXCEPT THOSE TO WHICH ANNEX 3B OR 3C APPLIES
 
 1\. Scope, Definitions & Interpretation
 
@@ -934,7 +936,7 @@ https://admin.booking.com/hotelreg/terms-and-conditions.html?cc1=nl&lang=en.
 
 (iii) suspects fraud or other illegality associated with the transaction.
 
-7.2 The Virtual Card is only valid for the reservation, the amount and the currency specified on the confirmation of the reservation to which it was assigned. The Accommodation shall collect the Gross Amount by charging the Virtual Card during the time period ending 12 months after the date of the Guest's check out (the "**Cut-Off Date**"). Prior to the Cut-Off Date, Booking.com shall use commercially reasonable efforts to inform the Accommodation of the Gross Amount or any portion available for collection by the Accommodation. By informing the Accommodation of the (portion of the) Gross Amount that is available for collection by the Accommodation, any obligations that Booking.com may have under applicable law to inform the Accommodation shall be discharged.
+7.2 The Virtual Card is only valid for the reservation, the amount and the currency specified on the confirmation of the reservation to which it was assigned. The Accommodation shall collect the Gross Amount by charging the Virtual Card during the time period ending 12 months after the date of the Guest's check-out (the "**Cut-Off Date**"). Prior to the Cut-Off Date, Booking.com shall use commercially reasonable efforts to inform the Accommodation of the Gross Amount or any portion available for collection by the Accommodation. By informing the Accommodation of the (portion of the) Gross Amount that is available for collection by the Accommodation, any obligations that Booking.com may have under applicable law to inform the Accommodation shall be discharged.
 
 7.3 If the Accommodation fails to collect (any portion of) the Gross Amount on or prior to the Cut-off Date, from the Cut-off Date:
 
@@ -952,7 +954,7 @@ https://admin.booking.com/hotelreg/terms-and-conditions.html?cc1=nl&lang=en.
 
 ### Annex 3B
 
-#### FACILITATED PAYMENT FOR ACCOMMODATIONS THAT SIGNED A CONNECTED ACCOUNT AGREEMENT WITH A PAYMENT PROCESSOR THROUGH THE PLATFORM
+#### FACILITATED PAYMENT TERMS FOR ACCOMMODATIONS THAT SIGNED PAYMENT PROCESSING DOCUMENTATION WITH A PAYMENT PROCESSOR THROUGH THE PLATFORM
 
 1\. Scope, Definitions & Interpretation
 
@@ -966,15 +968,27 @@ https://admin.booking.com/hotelreg/terms-and-conditions.html?cc1=nl&lang=en.
 
 2.2 Booking.com may from time to time allow a third party (the "**Payment Processor**") to operate through the Platform for the purposes of enabling Facilitated Payment. This Annex 3B shall apply if the type of Facilitated Payment arranged involves the Payment Processor:
 
-(i) providing services (the "**Payment Processor Services**") to, and under a direct contractual relationship with, the Accommodation by acquiring and/or otherwise collecting payments from Guests on behalf of the Accommodation in respect of those payment methods serviced by the Payment Processor ("**Processed Payments**"); and
+(i) providing services to, and under a direct contractual relationship with, the Accommodation by acquiring and/or otherwise collecting:
 
-(ii) paying the amounts collected in respect of Processed Payments directly to the Accommodation.
+a. payments from Guests on behalf of the Accommodation in respect of those payment methods serviced by the Payment Processor;
+
+b. payments from Booking.com to the Accommodation;
+
+c. amounts to which Booking.com is entitled to under this Agreement; and/or
+
+d. payments from the Accommodation to Booking.com,
+
+("**Processed Payments**"); and
+
+(ii) paying the Processed Payments directly to the Accommodation or Booking.com (as applicable),
+
+(the "**Payment Processor Services**").
 
 2.3 The Parties acknowledge that Facilitated Payment under this Annex 3B involves:
 
 (i) a separate contractual agreement between the Accommodation and the Payment Processor (the "**Payment Processing Documentation**") to which Booking.com will not be a party; and
 
-(ii) a separate contractual agreement to which the Accommodation is not a party, and pursuant to which Booking.com allows the Payment Processor to offer the Processing Services to Accommodations through the Platform (the "**Booking-Processor Documentation**").
+(ii) a separate contractual agreement to which the Accommodation is not a party, and pursuant to which Booking.com allows the Payment Processor to offer the Payment Processor Services to Accommodations through the Platform (the "**Booking-Processor Documentation**").
 
 2.4 If the Accommodation elects to use the Payment Processor Services and agrees to be bound by the Payment Processing Documentation:
 
@@ -986,23 +1000,23 @@ https://admin.booking.com/hotelreg/terms-and-conditions.html?cc1=nl&lang=en.
 
 2.5 The Accommodation shall provide all information to or as directed by Booking.com, that is required to enable the Payment Processor to make pay-outs in respect of Processed Payments. The Accommodation shall ensure that all information provided by it to Booking.com is complete and accurate, shall bear all losses arising from any incorrect information being provided to Booking.com and shall indemnify Booking.com against all liabilities, losses, costs and expenses which Booking.com may suffer or incur as a result of any such information being incorrect or incomplete. The Accommodation authorizes Booking.com to give instructions to the Payment Processor on behalf of the Accommodation in respect of the collection, processing and pay-out of Processed Payments, including any refunds, reversals, returns, disputes, balance adjustments, chargebacks or other related matters. The Accommodation authorises Booking.com to share these instructions with the Payment Processor.
 
-2.6 The Accommodation shall use the Payment Processor Services only for the purposes of the collection of amounts payable by Guests (and not for any purposes prohibited by the Payment Processor Documentation), and shall comply with its obligations under the Payment Processing Documentation. The Accommodation shall indemnify Booking.com against all liabilities, losses, costs and expenses which Booking.com may suffer or incur (including but not limited to under the Booking-Processor Documentation) as a result of any failure by the Accommodation to perform any of its obligations when due or as a result of the misuse of any Payment Processor Services by any third party unless such misuse results from the wilful default or negligence of Booking.com, its employees or agents.
+2.6 The Accommodation shall use the Payment Processor Services only for collecting the Processed Payments, and shall comply with its obligations under the Payment Processing Documentation. The Accommodation shall indemnify Booking.com against all liabilities, losses, costs and expenses which Booking.com may suffer or incur (including but not limited to under the Booking-Processor Documentation) as a result of any failure by the Accommodation to perform any of its obligations when due or as a result of the misuse of any Payment Processor Services by any third party unless such misuse results from the wilful default or negligence of Booking.com, its employees or agents.
 
 2.7 The provision of Payment Processor Services by the Payment Processor to the Accommodation is at the discretion of the Payment Processor and may be withdrawn at any time by the Payment Processor in accordance with the terms of the Payment Processing Documentation. Booking.com shall have no liability for any decision of the Payment Processor not to make or to cease making the Payment Processor Services available to the Accommodation (whether justified or not) or for any breach or delayed performance by the Payment Processor of any obligations owed by it to the Accommodation in respect of the provision of the Payment Processor Services. Booking.com shall have no obligation to ensure that Payment Processor Services are at all times available to the Accommodation.
 
 2.8 Booking.com may at any time give notice to terminate or suspend the availability or operation of Facilitated Payment in whole or in part in the event of any alleged or suspected credit card fraud, sanctions breach or breach of contract in relation to the Accommodation or any Processed Payment. Booking.com and the Payment Processor may share information (subject to each party's privacy and legal obligations) related to any actual or suspected fraud or misuse of the Payment Processor Services.
 
-2.9 Booking.com may (cross) charge to, or require compensation from the Accommodation for any fees, costs or expenses incurred by Booking.com in allowing the provision of the Facilitated Payment and the Payment Processor Services to occur through the Platform, including but not limited to any fees payable under the Booking-Processor Documentation plus Taxes (if applicable). Payment shall be due in accordance with the terms of Booking.com’s invoice and Booking.com is hereby irrevocably authorised by the Accommodation to give an instruction to the Payment Processor for the payment of any such amount to Booking.com from Processed Payments.
+2.9 Booking.com may (cross) charge to, or require compensation from the Accommodation for any fees, costs or expenses incurred by Booking.com in allowing the provision of the Facilitated Payment and the Payment Processor Services to occur through the Platform, including but not limited to any fees payable under the Booking-Processor Documentation plus Taxes (if applicable). The Payment Processor shall not charge the Accommodation for the Payment Processor Services, unless this is set out in the Payment Processing Documentation. Payment shall be due in accordance with the terms of Booking.com’s invoice and Booking.com is hereby irrevocably authorised by the Accommodation to give an instruction to the Payment Processor for the payment of any such amount to Booking.com from Processed Payments.
 
 2.10 The Accommodation hereby authorizes Booking.com to, from time to time as necessary, instruct the Payment Processor to pay to Booking.com from Processed Payments such amounts as are required to settle the due and outstanding Commission, and/or such other amounts owed by the Accommodation to Booking.com. If there are insufficient funds to settle and pay all amounts due to Booking.com or if Booking.com does not give any such instruction, Booking.com may collect the deficit from the Accommodation by Direct Debit (if available), or offset it against the Deposit (if applicable) or may instruct the Accommodation which shall upon first request of Booking.com pay the deficit to such bank account as from time to time identified by Booking.com.
 
 2.11 The Room Price will be collected and processed by the Payment Processor in accordance with the payment policy of the Accommodation for the relevant reservation as disclosed on the Platform, and with the other provisions of the Agreement, to the extent applicable. The Accommodation agrees and accepts that the Room Price may be paid by the Guest in a different currency to the currency specified in the Accommodation Information.
 
-2.12 The Accommodation shall bear all currency exchange risks, including conversion of the Room Price. The Accommodation agrees and acknowledges that due to fluctuating currency exchange rates and costs/fees charged for the collection, processing and pay-out of Processed Payments, there may be differences between the Room Price (as uploaded by the Accommodation in the system), the applicable Processed Payment and the amount of the relevant Processed Payment received by the Accommodation. The Accommodation will not further charge, request payment of or collect any amount from the Guest in respect of any such difference.
+2.12 If the Accommodation lists a Room Price in a specified currency it shall receive that amount in that currency. If the Accommodation tries to accept settlement or payment of the Room Price into an account with a different currency denomination to the Room Price or otherwise attempts its own currency conversion of the settlement amount, the Accommodation shall bear all currency exchange risk, including conversion of the Room Price. The Accommodation agrees and acknowledges that due to fluctuating currency exchange rates and costs/fees charged by banks, credit card companies and other intermediaries for the collection, processing and payment of the relevant amounts, there may be differences between the Room Price (as uploaded by the Accommodation in the system), the collected amount and the amount received by the Accommodation. The Accommodation will not further charge, request payment of or collect any amount from the Guest in respect of any such difference.
 
 2.13 The Accommodation agrees and acknowledges that it is at all times responsible for the collection, remittance, withholding and payment of the relevant Taxes on and extras in addition to the Room Price (including the relevant Taxes and extras not included in the Room Price) and Commission, to the relevant tax authorities. The Accommodation shall not further charge, request payment of or collect any amount from the Guest that has not already been included in the Room Price unless it is clearly stated in the Accommodation Information that certain Taxes, add-ons (e.g. breakfast) or other amounts are not included in the Room Price (the "**Excluded Elements**").
 
-2.14 Booking.com may instruct the Payment Processor to cancel or return any Processed Payment of the refund, or settle the relevant amount with the Guest on behalf of the Accommodation from its own resources, and may instruct the Payment Processor on behalf of the Accommodation to reimburse it for the amount settled from Processed Payments if:
+2.14 Booking.com may instruct the Payment Processor to cancel or return any Processed Payment or settle the relevant amount with the Guest on behalf of the Accommodation from Booking.com’s own resources, and may instruct the Payment Processor on behalf of the Accommodation to reimburse the Guest for the amount settled from Processed Payments if:
 
 (i) the Accommodation agrees to refund (part of) a fully or partially paid non-refundable Room Price;
 
@@ -1016,9 +1030,21 @@ https://admin.booking.com/hotelreg/terms-and-conditions.html?cc1=nl&lang=en.
 
 2.17 Unless required otherwise by applicable law, the Accommodation shall issue an invoice to the Guest for the full amount of the reservation (including or plus, as required by applicable laws, all applicable Taxes). The Accommodation shall not invoice or send an invoice to Booking.com for the reservation or stay. Nothing in the Agreement shall mean or imply that Booking.com acts or operates as a principal, merchant or (re)seller of the room.
 
+3\. Payment via Virtual Card
+
+3.1 If the Payment Processor provides the Accommodation with a virtual credit card (a “**Virtual Card**”) to transfer Processed Payments , then the Accommodation shall collect the Processed Payment by charging the Virtual Card during the time period ending 12 months after the date of the Guest's check-out (the "**Cut-Off Date**"). Prior to the Cut-Off Date, Booking.com shall use commercially reasonable efforts to inform the Accommodation of (any portion of) the amount available on the Virtual Card (the “**Virtual Card Balance**”) for collection by the Accommodation. By informing the Accommodation of the Virtual Card Balance that is available for collection by the Accommodation, any obligations that Booking.com and/or the Payment Processor may have under applicable law to inform the Accommodation shall be discharged. If the Accommodation fails to collect the Virtual Card Balance on or prior to the Cut-off Date, from the Cut-off Date:
+
+(i) the Virtual Card shall be deactivated;
+
+(ii) the Accommodation's rights and claims to such amount (including any right of set-off) shall automatically cease to exist; and
+
+(iii) Booking.com shall have full right, title and interest in and to such amount.
+
+3.2 From and after the Cut-off Date, the Accommodation, without further action, hereby releases and forever discharges Booking.com and its Affiliated Companies from any and all claims related to the Virtual Card Balance (explicitly including claims related to (any portion of) the Virtual Card Balance insofar as it has not been collected by the Accommodation prior to the Cut-Off Date). The Parties expressly agree that the Virtual Card Balance (or any portion thereof) retained by Booking.com after expiration of the Cut-Off Date does not constitute Commission or other consideration paid by the Accommodation to Booking.com for the provision of Services under this Agreement.
+
 ### Annex 3C
 
-#### FACILITATED PAYMENT FOR US DOMESTIC TRANSACTIONS EXCEPT TRANSACTIONS TO WHICH ANNEX 3B APPLIES
+#### FACILITATED PAYMENT TERMS FOR US DOMESTIC TRANSACTIONS EXCEPT TRANSACTIONS TO WHICH ANNEX 3B APPLIES
 
 1\. Scope, Definitions & Interpretation
 
@@ -1082,7 +1108,7 @@ https://admin.booking.com/hotelreg/terms-and-conditions.html?cc1=nl&lang=en.
 
 5\. Payment Via Virtual Card
 
-5.1 The Accommodation agrees not to authorize or charge the Virtual Card until the date on which the Guest’s reservation becomes non-refundable. The Virtual Card is only valid for the reservation to which it was assigned, and for the amount and currency specified on the confirmation for that reservation. The Accommodation must collect the Processed Payment by charging the Virtual Card during the time period ending 12 months after the date of the Guest's check out.
+5.1 The Accommodation agrees not to authorize or charge the Virtual Card until the date on which the Guest’s reservation becomes non-refundable. The Virtual Card is only valid for the reservation to which it was assigned, and for the amount and currency specified on the confirmation for that reservation. The Accommodation must collect the Processed Payment by charging the Virtual Card during the time period ending 12 months after the date of the Guest's check-out.
 
 5.2 Where the Accommodation receives payment through Facilitated Payment using a Virtual Card, the Accommodation shall be deemed irrevocably to have received payment from the Guest in full and final settlement at such time as the Virtual Card is authorised and not at the later time of when the Accommodation receives settlement of the payment through its merchant acquirer.
 
@@ -1092,7 +1118,7 @@ https://admin.booking.com/hotelreg/terms-and-conditions.html?cc1=nl&lang=en.
 
 1\. Booking.com aims to display search results relevant to each Guest, by providing a personalised default ranking of Accommodations on its Platform. Guests can scroll through this default ranking, use filters and sort by alternative ranking orders and thus have the ability to influence the presentation of search results to receive a ranking order based on other criteria. Booking.com uses multiple algorithms to produce default ranking results, which is a constantly evolving process.
 
-2\. Booking.com has identified the following parameters to be most closely correlated with a Guest finding a suitable Accommodation, so prioritizes such parameters in the algorithms:
+2\. Booking.com has identified the following parameters to be most closely correlated with a Guest finding a suitable Accommodation, so prioritises such parameters in the algorithms:
 
 a. the Guest’s personal search history
 
@@ -1104,7 +1130,7 @@ d. gross (including cancellations) and net (excluding cancellations) bookings of
 
 3\. Conversion and click through rate may be affected by various (stand-alone) factors including review scores (both aggregated scores and components), availability, policies, (competitive) pricing, quality of content and certain features of the Accommodation. The Commission percentage paid by the Accommodation or other benefits to Booking.com (e.g. through commercial arrangements with the Accommodation or strategic partners) may also impact the default ranking, as well as the Accommodation’s record on timely payment. The Accommodation can find suggestions as to how to improve Conversion and click through rate on the Extranet.
 
-4\. The Accommodation may influence its ranking by participating in programs such as the Genius loyalty programme, deals, the Preferred Partner Program and the Visibility Booster (the latter two involve the Accommodation paying a higher Commission to Booking.com). The range of programs available may change from time to time. The programs and the terms applicable to each of the programs will be kept updated and made available on the Extranet.
+4\. The Accommodation may influence its ranking by participating in programs that Booking.com makes available, such as the Genius loyalty program, deals, the Preferred and Preferred Plus Partner Programs and the Visibility Booster (the latter three involve the Accommodation paying a higher Commission to Booking.com). The range of programs available may change from time to time. The programs and the terms applicable to each of the programs will be kept updated and made available on the Extranet.
 
 ### Annex 5
 
@@ -1114,10 +1140,10 @@ Notwithstanding anything to the contrary in the Agreement, to the extent that th
 
 2.2.1 The Accommodation shall give Booking.com rate and availability parity as defined below:
 
-(i) "**Rate Parity**" means the same or better rates for the same accommodation, same room type, same dates, same bed type, same number of guests, the same or better amenities and add-ons (e.g. free breakfast, wifi, early/late checkout), the same or better restrictions and policies such as reservation changes and cancellation policy as are available on the Accommodation’s websites, apps or call-centres (including the customer reservation system), or directly at the Accommodation, with any competitor of Booking.com (which includes any online or offline reservation or booking agency or intermediary) and/or with any other (online or offline) third party that is a business partner of or in any other way related with or connected to the Accommodation. Rate Parity does not apply in respect of rates intended for a closed user group ("closed user group" means a group with defined limitations where membership is not automatic and where: (a) consumers actively opt in to become a member, (b) any online or mobile interface used by closed user group members is password protected, (c) closed user group members have completed a customer profile, and (d) the consumer to which the rate is offered or made available has already made at least one prior booking as a member of the closed user group) provided that such rates are not (directly or indirectly) publicly (made) available. In the event that a closed user group rate is (directly or indirectly) publicly (made) available (by the Accommodation, a (direct/indirect) competitor of Booking.com or on any third party (platform) (including any (meta) search engine or price comparison website), Booking.com is entitled to Rate Parity for such rate; and
+(i) "**Rate Parity**" means the same or better rates for the same accommodation, same room type, same dates, same bed type, same number of guests, the same or better amenities and add-ons (e.g. free breakfast, wifi, early/late check-out), the same or better restrictions and policies such as reservation changes and cancellation policy as are available on the Accommodation’s websites, apps or call-centres (including the customer reservation system), or directly at the Accommodation, with any competitor of Booking.com (which includes any online or offline reservation or booking agency or intermediary) and/or with any other (online or offline) third party that is a business partner of or in any other way related with or connected to the Accommodation. Rate Parity does not apply in respect of rates intended for a closed user group ("closed user group" means a group with defined limitations where membership is not automatic and where: (a) consumers actively opt in to become a member, (b) any online or mobile interface used by closed user group members is password protected, (c) closed user group members have completed a customer profile, and (d) the consumer to which the rate is offered or made available has already made at least one prior booking as a member of the closed user group) provided that such rates are not (directly or indirectly) publicly (made) available. In the event that a closed user group rate is (directly or indirectly) publicly (made) available (by the Accommodation, a (direct/indirect) competitor of Booking.com or on any third party (platform) (including any (meta) search engine or price comparison website), Booking.com is entitled to Rate Parity for such rate; and
 
 (ii) "**Availability Parity**" means that the Accommodation shall provide Booking.com with such availability (i.e. rooms available for booking at the Platform) that are at least as favourable as those provided to any competitor of Booking.com (which includes any online or offline reservation or booking agency or intermediary) and/or with any other (online or offline) third party that is a business partner of or in any other way related with or connected to the Accommodation.
 
 5.1 (v) the price for the rooms advertised on the Platform corresponds to the best available price for an equivalent stay with the Accommodation and a better price cannot be obtained by a Guest making a reservation with the Accommodation directly or via another (third) party or via another medium or channel, and
 
-6.2.1 (iii) to the extent that any claims under or pursuant to the We Price Match are not settled between the Guest and the Accommodation upon check out of the Guest (by payment of the lower rate), all claims made by Guests regarding or pursuant to the We Price Match;
+6.2.1 (iii) to the extent that any claims under or pursuant to the We Price Match are not settled between the Guest and the Accommodation upon check-out of the Guest (by payment of the lower rate), all claims made by Guests regarding or pursuant to the We Price Match;
