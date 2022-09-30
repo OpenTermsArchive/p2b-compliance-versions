@@ -74,43 +74,43 @@ O piškotkih
 
 Vse o uporabi piškotkov je opisano v [Pravilih o zasebnosti](https://www.ceneje.si/pravila-o-zasebnosti#cookies).
 
-Nagradna igra - Razkrij nam svojo najljubšo spletno trgovino
-------------------------------------------------------------
+Nagradna igra - Certified Shop® x OutletShop nagradna igra
+----------------------------------------------------------
 
 Pravila nagradne igre “Razkrij nam svojo najljubšo spletno trgovino” v nadaljevanju so poimenovana “pravila”.  
   
 1\. Organizator nagradne igre  
-Organizator nagradne igre “Razkrij nam svojo najljubšo spletno trgovino” (v nadaljevanju: nagradna igra) je Ceneje.si, Ceneje d.o.o. (DŠ: 87922878), Štukljeva cesta 40, 1000 Ljubljana, v nadaljevanju: Organizator. Nagradna igra se organizira za namen promocije e-commerce tekmovanja Web Retailer Award.  
+Organizator nagradne igre “Certified Shop® x OutletShop” (v nadaljevanju: nagradna igra) je Ceneje.si, Ceneje d.o.o. (matična številka: 6699421000), Štukljeva cesta 40, 1000 Ljubljana, v sodelovanju s spletno trgovino outletshop.si, Flamingo založba d.o.o. (matična številka: 5532515), Ulica Franca Baliča 11, 5290 Šempeter pri Gorici, v nadaljevanju: Organizatorja. Nagradna igra se organizira za namen promocije znamk Certified Shop® in OutletShop.  
   
 2\. Trajanje nagradne igre  
-Nagradna igra se začne 23. 8. 2022 in se odvija v treh krogih. Prvi krog traja od 23. 8. 2022 do 24. 8. 2022, drugi krog od 25. 8. 2022 do 29. 8. 2022, tretji krog pa od 30. 8. 2022 do 5. 9. 2022. Sodelovanje v prvem krogu je možno do 24. 8. 2022 (najkasneje do 23:59:59 navedenega dne), sodelovanje v drugem krogu je mogoče do 29. 8. 2022 (najkasneje do 23:59:59 navedenega dne), sodelovanje v tretjem krogu pa do 5. 9. 2022 (najkasneje do 23:59:59 navedenega dne). Razglasitev zmagovalca vseh treh krogov bo 8. 9. 2022. Nagradna igra se izvaja na [Facebook strani Organizatorja](https://www.facebook.com/Ceneje.si).  
+Nagradna igra se začne 4. 10. 2022. Sodelovanje v nagradni igri je možno do 9. 10. 2022 (tj. najkasneje do 23:59:59 navedenega dne). Razglasitev zmagovalca bo 10. 10. 2022. Nagradna igra poteka na [Facebook](https://www.facebook.com/Ceneje.si) strani Organizatorja.  
   
 3\. Sodelovanje  
-V nagradni igri lahko sodelujejo vse fizične osebe s prebivališčem v Republiki Sloveniji in so registrirane na družabnem omrežju Facebook (www.facebook.com), razen zaposlenih pri Organizatorju in ožjih članov njihovih družin (starši, zakonec, otroci, sestre in bratje). Sodelujoči v nagradni igri ne smejo zahtevati nagrade v večjih količinah ali drugačne nagrade, kot je navedena v Pravilih s strani Organizatorja.  
-Za sodelovanje v nagradni igri je v komentar pod Facebook objavo potrebno označiti priljubljeno spletno trgovino in v nekaj besedah razložiti, zakaj se mora ta spletna trgovina prijaviti na tekmovanje Web Retailer Award ter upoštevati ostala navodila, napisana v objavi Organizatorja. S sodelovanjem v nagradni igri sodelujoči sprejemajo ta pravila. Pravila nagradne igre so objavljena v splošnih pogojih Organizatorja Ceneje.si.  
+Pravico do sodelovanja v nagradni igri imajo vse fizične osebe s prebivališčem v Republiki Sloveniji in ki so registrirane na družbenem omrežju Facebook (www.facebook.com) ali Instagram (www.instagram.com) razen zaposlenih pri Organizatorjih in ožjih članov družin zaposlenih (starši, zakonec, otroci, sestre in bratje). Udeleženci v nagradni igri ne morejo zahtevati nagrade v večjih količinah ali drugačne nagrade od tiste, ki je navedena v pravilih s strani Organizatorja.  
+Za sodelovanje v nagradni igri v komentarju pod objavo na Facebooku/Instagramu opišite, zakaj radi nakupujete v trgovini OutletShop in sledite drugim navodilom, napisanim v objavi Organizatorja. S sodelovanjem v nagradni igri se strinjate s temi pravili. Pravila nagradne igre bodo objavljena v splošnih pogojih Organizatorja Ceneje.si.  
   
 4\. Nagradni fond in izbor dobitnika  
-Nagradni fond: 3 x 20 € darilni bon City Park.  
-Nagradna igra se odvija v treh krogih, iz vsakega kroga bo izbran po en zmagovalec/zmagovalka. Zmagovalci iz vseh treh krogov bodo razglašeni 8. 9. 2022. Zmagovalce bo izbrala komisija, objavljeni pa bodo na straneh družabnih omrežij Organizatorja.  
+Nagradni fond: 1 x Prio univerzalni prenosni zvočnik HIT 12W.  
+Dobitnika nagradne igre bo izbrala komisija.  
   
 5\. Kako prevzeti nagrado?  
-Po zaključku nagradne igre bodo zmagovalci obveščeni prek objave na Facebooku Ceneje.si. Dobitniki imajo pet (5) dni, da se javijo Organizatorju in potrdijo prevzem nagrade. Dobitniki morajo v svojem potrditvenem sporočilu poslati ime, priimek, naslov, telefonsko številko in davčno številko.  
-Nagrada je darilni bon City Park v vrednosti 20 €. Organizator bo darilne bone zmagovalcem poslal po pošti na naslov, naveden v potrditvenem sporočilu.  
+Po zaključku nagradne igre bo dobitnik o tem obveščen v objavi na Facebooku/Instagramu Ceneje.si. Dobitnik ima pet (5) dni časa, da se javi Organizatorju in potrdi prevzem nagrade. Dobitnik mora v potrditvenem sporočilu poslati ime, priimek, naslov, davčno številko in za potrebe dostavne službe - tudi telefonsko številko.  
+Nagrada je 1x Prio univerzalni prenosni zvočnik HIT 12W v vrednosti 49,90 €. Spletna trgovina Outlet Shop bo obvestila dobitnika o dobitku, darilni bom pa bo dobitnik lahko koristil v dogovoru s spletno trgovino outletshop.si.  
   
-6\. Obveščanje javnosti  
-S sodelovanjem v nagradnem natečaju uporabniki soglašajo, da se, v primeru, da postanejo zmagovalci, njihovo ime in slika lahko s strani Organizatorja brezplačno uporabita v tiskanem, zvočnem, slikovnem ali video materialu.  
+6\. Javna objava  
+S sodelovanjem v tej nagradni igri udeleženci soglašajo, da se, če postanejo dobitniki, njihovo ime in slika lahko s strani Organizatorja brez doplačila objavi in uporabi v tiskanem, zvočnem, slikovnem in video materialu.  
   
 7\. Mladoletni sodelujoči v nagradni igri  
-Mladoletne osebe lahko sodelujejo v nagradni igri skladno z zakonom. Če je dobitnik nagrade mladoletna oseba, bo Organizator nagrado izročil zakonitemu zastopniku mladoletne osebe po vpogledu v dokumente, ki dokazujejo starševsko oz. skrbniško razmerje.  
-Ta nagradna igra na noben način ni sponzorirana ali promovirana s strani Facebooka niti ni povezana s Facebookom.  
+Mladoletne osebe lahko sodelujejo v nagradni igri v skladu z zakonom. Če je dobitnik nagrade mladoleten, bo Organizator nagrado izročil osebi, ki je zakonsko ali na podlagi odloka državnega organa dolžna skrbeti za mladoletno osebo, a samo po predložitvi dokumenta, ki dokazuje starševsko ali skrbniško razmerje.  
+Ta nagradna igra ni sponzorirana ali promovirana s strani Facebooka, niti ni povezana s Facebookom.  
   
-8\. Ostale določbe  
-Organizator ne odgovarja za nepopolno ali nepravočasno sodelovanje v nagradni igri ali za sodelovanje z nepravilnimi podatki.  
-Sodelovanje v nagradni igri, nagrada in/ali prevzemanje nagrade niso pogojeni z nakupom izdelka ali storitve. Sodelujoči in druge osebe, ki poskušajo sodelovati v nagradni igri, sami odgovarjajo za stroške sodelovanja (kot npr. strošek prenosa podatkov, internetne povezave, poštnine, klicev in drugih komunikacij, kilometrine itd.), kot tudi v primeru odstopa od nagradne igre.  
-V primeru okoliščin, na katere Organizator ne more vplivati (višja sila), se lahko nagradna igra odpove. O tem mora Organizator prek svoje spletne strani in kanalov družabnih omrežij (Facebook) obvestiti vse sodelujoče. V takšnem primeru Organizator ne odgovarja za nastale stroške ali drugo škodo.  
-Organizator si pridržuje pravico do spremembe pravil, v kolikor to zahtevajo razlogi tehnične ali komercialne narave, javni razlogi ali drugi utemeljeni razlogi. O vseh spremembah in novostih nagradne igre bo Organizator obvestil sodelujoče na svojih kanalih družabnih omrežij. Zainteresirani lahko za dodatne informacije pišejo na info@ceneje.si.  
-Odločitev Organizatorja o vseh vprašanjih v zvezi z nagradno igro ali uporabo teh pravil je dokončna in velja za vse sodelujoče.  
+8\. Druge odredbe  
+Organizator ne odgovarja za nepopolno ali nepravočasno sodelovanje v nagradni igri ali za sodelovanje z napačnimi podatki.  
+Sodelovanje v nagradni igri, nagrada in/ali prevzem nagrade niso pogojeni z nakupom izdelka ali storitve. Udeleženec in druge osebe, ki poskušajo sodelovati v nagradni igri, sami krijejo vse stroške sodelovanja (npr. stroški prenosa podatkov, internetne povezave, poštnine, klicev ali drugih načinov komunikacije, kilometrine itd.), kar velja tudi v primeru odpovedi nagradne igre.  
+V primeru okoliščin, na katere Organizator nima vpliva (višja sila), se lahko nagradna igra odpove. O tem mora Organizator na svojih spletnih straneh in kanalih družbenih omrežij (Facebook in Instagram) obvestiti vse udeležence. V takem primeru Organizator ne odgovarja za nastale stroške ali drugo škodo.  
+Organizator si pridržuje pravico do sprememb teh pravil, če to zahtevajo razlogi tehnične ali poslovne narave, javni razlogi ali drugi utemeljeni razlogi. Organizator bo udeležence o vseh spremembah in novostih nagradne igre obvestil na kanalih družbenih omrežij Facebook in Instagram. Za dodatne informacije lahko zainteresirani pišejo na info@ceneje.si.  
+Odločitev Organizatorja o vseh vprašanjih v zvezi z nagradno igro ali uporato teh pravil je končna in velja za vse udeležence.  
   
 9\. Reševanje pritožb  
-Vse pritožbe in reklamacije rešuje Organizator, pošiljajo pa se na e-mail naslov info@ceneje.si. V primeru utemeljenih pritožb se Organizator zavezuje, da jih bo razrešil v najkrajšem možnem času in o tem obvestil sodelujočega ali po potrebu tudi ostale sodelujoče. Pri pravnih nesoglasjih med Organizatorjem in sodelujočim ter drugimi osebami se upošteva veljavna zakonodaja. V primeru morebitnih sporov, ki bi izhajali iz te nagradne igre, je pristojno sodišče Republike Slovenije glede na sedež Organizatorja.  
-Datum objave in začetka veljave pravil: 23. avgust 2022
+Vse pritožbe in reklamacije rešuje Organizator, pošljejo pa se lahko na e-mail naslov info@ceneje.si. V primeru utemeljenih pritožb se Organizator zavezuje k reševanju le-teh v najkrajšem možnem času. O tem bo obvestil udeleženca in po potrebi tudi druge udeležence. Za pravne spore med Organizatorjem in udeležencem ter drugimi osebami se upošteva veljavno zakonodajo. V primeru sporov, ki bi izhajali iz te nagradne igre, je pristojno sodišče v Ljubljani.  
+Datum objave in začetka veljavnosti teh pravil: 4. oktober 2022
