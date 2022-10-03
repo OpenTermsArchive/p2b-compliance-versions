@@ -1,4 +1,4 @@
-July 18, 2022
+October 3, 2022
 
 Terms of Service for Merchants from the European Union and the United Kingdom
 =============================================================================
@@ -94,12 +94,12 @@ You hereby also guarantee and confirm that you are duly authorized to sell such 
 
 4.1. You must comply with all applicable laws and regulations of the EU and/or the UK, the country of origin and the country of destination when selling Items on Joom. You are responsible for determining all applicable trade control, customs and tax laws, obtaining any required government authorizations, and are liable for any penalties resulting from non-compliance.
 
-5\. Sanctioned Countries, Entities, and Individuals
----------------------------------------------------
+5\. Economic Sanctions Laws
+---------------------------
 
-5.1. Economic sanctions laws in the European Union, the United States and a number of other countries prohibit or restrict unlicensed transactions with parties (i.e., individuals, entities, government regimes) identified as engaging in terrorism, narcotics trafficking, weapons proliferation and other activities that threaten those countries’ national security, foreign policies or economies (“Denied Parties”). Various government agencies publish lists of such parties (“Denied Parties Lists”). In addition, many countries maintain trade sanctions and embargo programs against specific countries (“Sanctioned Countries”), such that unauthorized transactions involving these Sanctioned Countries are prohibited or restricted.
+5.1. Economic sanctions laws in the European Union, the United States and a number of other countries prohibit or restrict unlicensed transactions with various parties (i.e., individuals, entities, government regimes) for example because they are identified as engaging in terrorism, narcotics trafficking, weapons proliferation and/or other activities that threaten those countries’ national security, foreign policies or economies or (and again for example), because they are resident in certain countries or have a connection to those countries (“Denied Parties”). Various government agencies publish lists, or descriptions, of such parties (“Denied Parties Lists”). In addition, many countries maintain trade sanctions and embargo programs against specific countries (“Sanctioned Countries”), such that unauthorized transactions involving these Sanctioned Countries or parties who are resident in those countries or have a connection to those countries are prohibited or restricted.
 
-In order to comply with these and other legal requirements, it is Joom general policy that Items imported from or originating in the following countries and regions may not be sold on Joom:
+In order to comply with these and other legal requirements, it is Joom general policy that Items imported from or originating in the following countries and regions may not be sold on Joom:
 
 * Cuba
 * Iran
@@ -109,14 +109,15 @@ In order to comply with these and other legal requirements, it is Joom gener
 * Crimea Region
 * Luhansk Region
 * Donetsk Region
+* Any other country or region as may be notified to Merchants by Joom
 
-No shipments or sales to parties in any of these countries may be conducted through Joom.
+No shipments or sales to parties in any of these countries may be conducted through Joom.
 
-Accounts may not be opened or affiliated with a country or region that Joom does not support.
+Accounts may not be opened or affiliated with a country or region that Joom does not support.
 
-5.2. Additionally, Joom does not do business with or otherwise engage in or facilitate transactions involving individuals or entities that are subject to sanctions or other applicable trade control restrictions. This includes, but is not limited to parties listed on: the Specially Designated Nationals (SDN) and Foreign Sanctions Evaders (FSE) Lists maintained by the U. S. Department of the Treasury; the Entity List, Unverified List and Denied Persons List maintained by the U. S. Department of Commerce; the Consolidated list of persons, groups and entities subject to EU financial sanctions maintained by the European Union; the Consolidated List of Financial Sanctions Targets maintained by Her Majesty’s Treasury in the United Kingdom; the Consolidated List of Names, maintained by the Canadian Office of the Superintendent of Financial Institutions. This also includes certain parties that are owned or controlled by Denied Parties.
+5.2. Additionally, Merchants must not do business with or otherwise engage in or facilitate transactions involving parties, services, and/or goods that are subject to sanctions or other applicable trade control restrictions. This includes, but is not limited to Denied Parties, parties that are owned or controlled by Denied Parties and also parties who are resident in or connected with any country or region if any economic sanctions law that applies to Joom, a Merchant or to any Buyer if and to the extent that such laws prohibit the applicable transaction.
 
-5.3. You must ascertain and comply with any additional sanctions compliance requirements that apply to your transactions, including updates to U. S. law. Non-compliance with U. S. sanctions laws and regulations can result in significant civil and/or criminal monetary penalties, as well as possible imprisonment, seizure of goods, and/or a ban from conducting business with U. S. companies.
+5.3. You must ascertain and comply with any sanctions compliance requirements that apply to your transactions, including any updates to any laws that apply to Joom, a Merchant or to any Buyer and must indemnify Joom against any claim resulting from any breach by you of any sanctions law or and breach by you of this clause 5. Non-compliance with sanctions laws and regulations can result in significant civil and/or criminal monetary penalties, as well as possible imprisonment, seizure of goods, and/or a ban from conducting business.
 
 6\. Fees, Payments and Delivery
 -------------------------------
@@ -483,6 +484,7 @@ If the Merchant does not agree to any alteration or amendment of the terms,
 
 Previous versions of document for Merchants from the European Union and the United Kingdom:
 
+* [July 18, 2022](https://merchant.joom.com/eu/terms/2022-07-18)
 * [March 14, 2022](https://merchant.joom.com/eu/terms/2022-03-14)
 * [November 8, 2021](https://merchant.joom.com/eu/terms/2021-11-08)
 * [June 22, 2021](https://merchant.joom.com/eu/terms/2021-06-22)
