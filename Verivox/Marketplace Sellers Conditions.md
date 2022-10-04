@@ -184,6 +184,6 @@ Diese Möglichkeit besteht insbesondere auch für Beschwerden, die nicht mit den
 
 2.2. Jeder Versuch nach 2.1 eine Einigung über die Streitbeilegung durch Mediation herbeizuführen, berührt nicht das Recht des Serviceanbieters oder Verivox zu jedem Zeitpunkt vor, während oder nach der Mediation Klage vor Gericht zu erheben.
 
-2.3 Der Serviceanbieter kann auf Anfrage per E-Mail unter [\[email protected\]](https://www.verivox.de/cdn-cgi/l/email-protection#removed) von Verivox weitere Informationen, insbesondere über Funktionsweise und Wirksamkeit der Mediation im Zusammenhang mit der Plattform oder der Tätigkeit von Verivox, erhalten.
+2.3 Der Serviceanbieter kann auf Anfrage per E-Mail unter [beschwerdeman\[email protected\]](https://www.verivox.de/cdn-cgi/l/email-protection#removed) von Verivox weitere Informationen, insbesondere über Funktionsweise und Wirksamkeit der Mediation im Zusammenhang mit der Plattform oder der Tätigkeit von Verivox, erhalten.
 
 Stand: 27.09.2022
