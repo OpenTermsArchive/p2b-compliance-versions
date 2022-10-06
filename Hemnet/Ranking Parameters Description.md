@@ -10,7 +10,7 @@ Hemnet är **Sveriges största bostadsplattform**, med tiotals miljoner besök v
 Priser
 ------
 
-Kostnaden för att annonsera på Hemnet varierar, använd kalkylatorn för att hitta ditt pris.
+Använd kalkylatorn för att se olika alternativ för annonsering på Hemnet. Priserna är samma oavsett om din annons publiceras som kommande eller till salu. Tänk på att det inte kostar något extra när din annons övergår från att vara kommande till att bli till salu och att annonsen blir helt ny.
 
 ### Räkna ut ditt pris
 
@@ -19,6 +19,12 @@ Gata eller kommun
 Utgångspris för bostaden
 
 kr
+
+Nyhet!
+
+Förbättrad annonskostnad för annonser utan utgångspris.
+
+**[Läs mer om annonskostnader](https://www.hemnet.se/artiklar/guider/2022/10/06/nu-mer-rattvis-prismodell-for-dig-som-vill-lagga-ut-din-bostad-utan-utgangspris)**
 
 Bostaden har inget utgångspris
 
