@@ -136,7 +136,7 @@ B Weitere Leistungen & Vertriebswege
 
 1.1 Verivox behält sich vor im Rahmen von Vermarktungskampagnen Produkte und Dienstleistungen der Serviceanbieter durch Werbemittel, Werbemittelplatzierungen (bspw. auf der Plattform und/oder im Umfeld des Vergleichsrechners), eigene Zugaben (z.B. technische Geräte, Hardware, Software, Gutscheine) sowie der stets optionalen Möglichkeit der Inanspruchnahme von eigenen Nebenwaren und -dienstleistungen oder solcher Dritter an Endkunden zu vermarkten. Serviceanbieter haben jedoch auf der Plattform die Möglichkeit Endkunden ihre Produkte und Dienstleistungen auch durch eigene Zugaben sowie Nebenwaren und/oder -dienstleistungen wie beispielsweise eine durch den Serviceanbieter selbst oder in Kooperation mit Dritten angebotenen Hardware anzubieten. Sofern ein Serviceanbieter Nebenwaren und -dienstleistungen zusätzlich zu seinen Produkten und Dienstleistungen anbieten möchte, kann er sich an [\[email protected\]](https://www.verivox.de/cdn-cgi/l/email-protection#removed) wenden. Die Möglichkeit der Vermarktung von Nebenwaren und -dienstleistungen durch den Serviceanbieter auf der Plattform erfordert eine hierauf bezogenen Vertriebsvereinbarung mit Verivox.
 
-1.2 Verivox behält sich vor in die Vergleichsrechner und/oder die diesem nachgelagerte Antragsstrecke den Kündigungsservice die aboalarm GmbH einzubinden, um es Benutzern zu ermöglichen ggf. mit anderen Anbietern bestehende (Vor-)Verträge über ähnliche oder inhaltsgleiche Produkte und Dienstleistungen zu kündigen. Die Einbindung eines Kündigungsservices anderer Anbieter ist nicht vorgesehen.
+1.2 Verivox behält sich vor in die Vergleichsrechner und/oder die diesem nachgelagerte Antragsstrecke den Kündigungsservice der aboalarm GmbH einzubinden, um es Benutzern zu ermöglichen ggf. mit anderen Anbietern bestehende (Vor-)Verträge über ähnliche oder inhaltsgleiche Produkte und Dienstleistungen zu kündigen. Die Einbindung eines Kündigungsservices anderer Anbieter ist nicht vorgesehen.
 
 § 2 Sonstige Vertriebswege
 
@@ -186,4 +186,4 @@ Diese Möglichkeit besteht insbesondere auch für Beschwerden, die nicht mit den
 
 2.3 Der Serviceanbieter kann auf Anfrage per E-Mail unter [\[email protected\]](https://www.verivox.de/cdn-cgi/l/email-protection#removed) von Verivox weitere Informationen, insbesondere über Funktionsweise und Wirksamkeit der Mediation im Zusammenhang mit der Plattform oder der Tätigkeit von Verivox, erhalten.
 
-Stand: 27.09.2022
+Stand: 06.10.2022
