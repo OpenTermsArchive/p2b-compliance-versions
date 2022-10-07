@@ -554,8 +554,4 @@ Mais informações no site da Direção-Geral do Consumidor: [www.consumidor.pt
 10. A marca “OLX” encontra-se registada sob os números 499415, 525072, 525074, 525076, 10881456, 11326287, 13135512, 13135629, 13135744, 18035888, 4883741, 569183, 502600, 499721 e 499720, pela OLX B.V. e pela OLX Portugal, S.A.
 11. É completamente proibida a utilização da nossa marca sem a nossa aprovação.
 
-![](/hc/article_attachments/4419087038609/image-0.png)       _Válido a partir de 10_ _de Agosto_  _de 202__2_    
-
-* [Termos de utilização OLX 20210215.pdf](https://help.olx.pt/hc/pt/article_attachments/360016974358/Termos_de_utiliza__o_OLX_20210215.pdf)
-    
-    300 KB [Baixar](https://help.olx.pt/hc/pt/article_attachments/360016974358/Termos_de_utiliza__o_OLX_20210215.pdf)
+![](/hc/article_attachments/4419087038609/image-0.png)       _Válido a partir de 10_ _de Agosto_  _de 202__2_
