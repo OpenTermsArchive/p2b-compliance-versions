@@ -371,14 +371,14 @@ Related articles
 
 --------------------
 
-* [About the updates to our Terms
-    
-    Please review this information about updates to our Terms.](https://www.airbnb.com/help/article/2877/about-the-updates-to-our-terms)
 * [Airbnb basics
     
     Rebooking and Refund Policy
     
     Please review our Rebooking and Refund Policy.](https://www.airbnb.com/help/article/2868/rebooking-and-refund-policy)
+* [About the updates to our Terms
+    
+    Please review this information about updates to our Terms.](https://www.airbnb.com/help/article/2877/about-the-updates-to-our-terms)
 * [Host
     
     Host Cancellation Policy
