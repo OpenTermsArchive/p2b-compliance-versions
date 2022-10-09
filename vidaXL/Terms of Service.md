@@ -618,10 +618,10 @@ Artículo 12 - Varios
 
 _Adjunto(s) archivo(s)_
 
-[Términos y Condiciones](https://www.vidaxl.es/on/demandware.static/-/Library-Sites-vidaXLSharedLibrary/default/dw03d12324/Documents/terms_conditions/ES.pdf)
+[Términos y Condiciones](https://www.vidaxl.es/on/demandware.static/-/Library-Sites-vidaXLSharedLibrary/default/dw7f01eee7/Documents/terms_conditions/ES.pdf)
 
 [Términos y Condiciones Generales de Subastas](https://www.vidaxl.es/on/demandware.static/-/Library-Sites-vidaXLSharedLibrary/default/dw762e0ba9/Documents/terms_conditions_auctions/ES.pdf)
 
 [Política de devoluciones](https://www.vidaxl.es/on/demandware.static/-/Library-Sites-vidaXLSharedLibrary/default/dw53351f84/Documents/returns_conditions/ES.pdf)
 
-[Declaración de privacidad y cookies](https://www.vidaxl.es/on/demandware.static/-/Library-Sites-vidaXLSharedLibrary/default/dw54a26a91/Documents/security_privacy_policy/ES.pdf)
+[Declaración de privacidad y cookies](https://www.vidaxl.es/on/demandware.static/-/Library-Sites-vidaXLSharedLibrary/default/dwf3de7f92/Documents/security_privacy_policy/ES.pdf)
