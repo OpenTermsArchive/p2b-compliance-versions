@@ -1,4 +1,4 @@
-October 3, 2022
+October 10, 2022
 
 Terms of Service for Merchants from the European Union and the United Kingdom
 =============================================================================
@@ -109,6 +109,8 @@ In order to comply with these and other legal requirements, it is Joom general p
 * Crimea Region
 * Luhansk Region
 * Donetsk Region
+* Kherson Region
+* Zaporizhzhia region
 * Any other country or region as may be notified to Merchants by Joom
 
 No shipments or sales to parties in any of these countries may be conducted through Joom.
@@ -484,6 +486,7 @@ If the Merchant does not agree to any alteration or amendment of the terms,
 
 Previous versions of document for Merchants from the European Union and the United Kingdom:
 
+* [October 3, 2022](https://merchant.joom.com/eu/terms/2022-10-03)
 * [July 18, 2022](https://merchant.joom.com/eu/terms/2022-07-18)
 * [March 14, 2022](https://merchant.joom.com/eu/terms/2022-03-14)
 * [November 8, 2021](https://merchant.joom.com/eu/terms/2021-11-08)
