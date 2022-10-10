@@ -179,7 +179,7 @@ X. Platené služby Portálu – zverejnenie ponuky/inzerátu a doplnkové slu�
     _AUT IDinzerátu_ - v poradí prvý platený inzerát _AUTB IDinzerátu_ - druhý platený inzerát _AUTC IDinzerátu_ - tretí a ďalší platený inzerát  
     b) úhradou platobnou kartou priamo na podstránke po pridaní inzerátu alebo kedykoľvek počas platnosti inzerátu v konte Používateľa,  
     c) pomocou kreditov po prihlásení do konta Používateľa.  
-    Cena za službu AUT IDinzerátu je 6,00€ s DPH za prvý platený inzerát. Cena za službu AUTB IDinzerátu je 10,00€ s DPH za druhý platený inzerát, ak prvý platený je stále platný a nie je zmazaný. Cena za službu AUTC IDinzerátu je 18,00€ s DPH za tretí a každý ďalší platený inzerát, ak predošlé platené sú stále platné a nie sú zmazané.  
+    Cena za službu AUT IDinzerátu je 6,90€ s DPH za prvý platený inzerát. Cena za službu AUTB IDinzerátu je 10,00€ s DPH za druhý platený inzerát, ak prvý platený je stále platný a nie je zmazaný. Cena za službu AUTC IDinzerátu je 18,00€ s DPH za tretí a každý ďalší platený inzerát, ak predošlé platené sú stále platné a nie sú zmazané.  
       
     Predplatené obdobie zverejnenia inzerátu je v trvaní 30 dní.  
       
@@ -215,17 +215,16 @@ X. Platené služby Portálu – zverejnenie ponuky/inzerátu a doplnkové slu�
       
     Aktivácia služby je dostupná pre prvý platený inzerát v rámci platených kategórií:  
       
-    a) zaslaním aktivačnej SMS na telefónne číslo 8877 (iba pre SR) s kľúčovým slovom AUTO ID\_INZERATU,  
-    b) úhradou platobnou kartou priamo na podstránke po pridaní inzerátu alebo kedykoľvek počas platnosti inzerátu v konte Používateľa,  
-    c) pomocou kreditov po prihlásení do konta Používateľa.  
+    a) úhradou platobnou kartou priamo na podstránke po pridaní inzerátu alebo kedykoľvek počas platnosti inzerátu v konte Používateľa,  
+    b) pomocou kreditov po prihlásení do konta Používateľa.  
       
     Cena za službu je 34,90€ s DPH na predplatené obdobie zverejnenia inzerátu v trvaní 30 dní.  
       
     Všetky služby zverejnenia inzerátu pre Súkromných inzerentov sú predplatené služby t.j. posledný deň bude služba automaticky predĺžená o 30 dní pokiaľ Používateľ neodošle SMS správu s požiadavkou o zastavenie automatickej obnovy zverejnenia inzerátu v tvare AUT STOP IDinzeratu (ID inzerátu nájdete pri inzeráte) na SMS číslo 8877 (pre SR) resp. 90711 (pre ČR) alebo automatické predlžovanie služby nedeaktivuje v konte Používateľa.  
       
-    Cena za automaticky predĺžený inzerát je pre služby AUT, AUTB, AUTC na každé ďalšie 30 dňové obdobie jednotná - 6€ s DPH resp. 199 CZK pre zákazníkov z ČR.  
+    Cena za automaticky predĺžený inzerát je pre služby AUT, AUTB, AUTC na každé ďalšie 30 dňové obdobie jednotná - 6,90€ s DPH resp. 199 CZK pre zákazníkov z ČR.  
       
-    Pre služby AUTP, AUTS a AUTO je cena za automaticky predĺžený inzerát na každé ďalšie 30 dňové obdobie rovnaká ako je cena služby pri jej prvej aktivácii. AUTP, AUTS a AUTO nie sú dostupné pre platbou SMS pre zákazníkov z Českej republiky.  
+    Pre služby AUTP a AUTS je cena za automaticky predĺžený inzerát na každé ďalšie 30 dňové obdobie rovnaká ako je cena služby pri jej prvej aktivácii. AUTP a AUTS nie sú dostupné pre platbou SMS pre zákazníkov z Českej republiky.  
       
     Službu je potrebné deaktivovať do dňa predchádzajúcemu dňu, počas ktorého dochádza k predĺženiu služby, inak dôjde k jej predĺženiu o ďalšie 30 dňové obdobie.  
       
@@ -260,10 +259,10 @@ Pre zákazníkov zo Slovenska:
 | --- | --- | --- | --- | --- |  
 |     | Počet uhradených inzerátov |     |     |     |
 | Kategória | Služba  <br>**Overená klasika** | Služba  <br>**Všade na očiach** | Služba  <br>**Na plný plyn** | Služba  <br>**Až na mesiac** |
-| Osobné vozidlá / SUV / Úžitkové vozidlá do 3.5t  <br>⌞ 1. (prvý) | **SMS / kredit / platobná karta**  <br>6,00 € | **SMS / kredit / platobná karta**  <br>9,90 € | **SMS / kredit / platobná karta**  <br>14,90 € | **SMS / kredit / platobná karta**  <br>34,90 € |
-| ⌞ 2. (druhý) | **SMS / kredit / platobná karta**  <br>10,00 € | **SMS / kredit / platobná karta**  <br>\- | **SMS / kredit / platobná karta**  <br>\- | **SMS / kredit / platobná karta**  <br>\- |
-| ⌞ 3. a ďalší inzerát | **SMS / kredit / platobná karta**  <br>18,00 € | **SMS / kredit / platobná karta**  <br>\- | **SMS / kredit / platobná karta**  <br>\- | **SMS / kredit / platobná karta**  <br>\- |
-| Nákladné vozidlá 3,5–7,5t | **SMS / kredit / platobná karta**  <br>6,00 € | **SMS / kredit / platobná karta**  <br>9,90 € | **SMS / kredit / platobná karta**  <br>14,90 € | **SMS / kredit / platobná karta**  <br>34,90 € |
+| Osobné vozidlá / SUV / Úžitkové vozidlá do 3.5t  <br>⌞ 1. (prvý) | **SMS / kredit / platobná karta**  <br>6,90 € | **SMS / kredit / platobná karta**  <br>9,90 € | **SMS / kredit / platobná karta**  <br>14,90 € | **kredit / platobná karta**  <br>34,90 € |
+| ⌞ 2. (druhý) | **SMS / kredit / platobná karta**  <br>10,00 € | **SMS / kredit / platobná karta**  <br>\- | **SMS / kredit / platobná karta**  <br>\- | **kredit / platobná karta**  <br>\- |
+| ⌞ 3. a ďalší inzerát | **SMS / kredit / platobná karta**  <br>18,00 € | **SMS / kredit / platobná karta**  <br>\- | **SMS / kredit / platobná karta**  <br>\- | **kredit / platobná karta**  <br>\- |
+| Nákladné vozidlá 3,5–7,5t | **SMS / kredit / platobná karta**  <br>6,90 € | **SMS / kredit / platobná karta**  <br>9,90 € | **SMS / kredit / platobná karta**  <br>14,90 € | **kredit / platobná karta**  <br>34,90 € |
 | Nákladné vozidlá nad 7,5t |
 | Ťahače a kamióny |
 | Autobusy |
@@ -298,10 +297,10 @@ Cenník zverejnenia ponuky/inzerátu z českého tel. čísla:
 | --- | --- | --- | --- | --- |  
 |     | Počet uhradených inzerátov |     |     |     |
 | Kategória | Služba  <br>**Overená klasika** | Služba  <br>**Všade na očiach** | Služba  <br>**Na plný plyn** | Služba  <br>**Až na mesiac** |
-| Osobné vozidlá / SUV / Úžitkové vozidlá do 3.5t  <br>⌞ 1. (prvý) | **SMS  <br>CZK 199,00  <br>  <br>kredit / platobná karta**  <br>6,00 € | **kredit / platobná karta**  <br>9,90 € | **kredit / platobná karta**  <br>14,90 € | **kredit / platobná karta**  <br>34,90 € |
+| Osobné vozidlá / SUV / Úžitkové vozidlá do 3.5t  <br>⌞ 1. (prvý) | **SMS  <br>CZK 199,00  <br>  <br>kredit / platobná karta**  <br>6,90 € | **kredit / platobná karta**  <br>9,90 € | **kredit / platobná karta**  <br>14,90 € | **kredit / platobná karta**  <br>34,90 € |
 | ⌞ 2. (druhý) | **SMS  <br>CZK 199,00  <br>  <br>**kredit / platobná karta**  <br>10,00 €** | \-  | \-  | \-  |
 | ⌞ 3. a ďalší inzerát | **SMS  <br>CZK 199,00  <br>  <br>**kredit / platobná karta**  <br>18,00 €** | \-  | \-  | \-  |
-| Nákladné vozidlá 3,5–7,5t | **SMS  <br>CZK 199,00  <br>  <br>kredit / platobná karta**  <br>6,00 € | **kredit / platobná karta**  <br>9,90 € | **kredit / platobná karta**  <br>14,90 € | **kredit / platobná karta**  <br>34,90 € |
+| Nákladné vozidlá 3,5–7,5t | **SMS  <br>CZK 199,00  <br>  <br>kredit / platobná karta**  <br>6,90 € | **kredit / platobná karta**  <br>9,90 € | **kredit / platobná karta**  <br>14,90 € | **kredit / platobná karta**  <br>34,90 € |
 | Nákladné vozidlá nad 7,5t |
 | Ťahače a kamióny |
 | Autobusy |
@@ -464,7 +463,7 @@ Ceny sú uvedené s DPH za jeden zverejnený inzerát
       
     **Obnovenie inzerátu**  
       
-    Cena zodpovedá cene prvej aktivácie niektorej zo služieb zverejnenia inzerátu. Podľa výberu typu služby Používateľom môže nadobudnúť cenové hladiny: 6,00 EUR, 9,90 EUR, 10,00 EUR, 14,90 EUR, 18,00 EUR, 34,90 EUR viď. článok X, ods. 4 týchto Podmienok.  
+    Cena zodpovedá cene prvej aktivácie niektorej zo služieb zverejnenia inzerátu. Podľa výberu typu služby Používateľom môže nadobudnúť cenové hladiny: 6,90 EUR, 9,90 EUR, 10,00 EUR, 14,90 EUR, 18,00 EUR, 34,90 EUR viď. článok X, ods. 4 týchto Podmienok.  
       
     **Promovanie inzerátu**  
       
