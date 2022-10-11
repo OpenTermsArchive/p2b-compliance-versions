@@ -30,6 +30,10 @@ Bostaden har inget utgångspris
 
 Beräkna priset
 
+Säljare får göra avdrag för annonseringskostnader på Hemnet i samband med försäljning av bostad.
+
+[**Läs mer på Skatteverkets sida om avdrag kring försäljning**](https://www.skatteverket.se/privat/fastigheterochbostad/forsaljningavbostad.4.76a43be412206334b89800042922.html)
+
 Så annonserar du din bostad med Hemnet
 --------------------------------------
 
