@@ -546,4 +546,4 @@ XV. Záverečné ustanovenia
 
   
   
-V Novom Meste nad Váhom, dňa 1.12.2020
+V Novom Meste nad Váhom, dňa 10.10.2022
