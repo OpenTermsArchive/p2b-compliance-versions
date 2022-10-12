@@ -444,7 +444,7 @@ Bei etwaigen Verstößen des Händlers, insbesondere, aber nicht ausschließlich
 20 Beschwerdemanagement/Mediationsverfahren
 -------------------------------------------
 
-Der Händler hat die Möglichkeit, ein Beschwerdeverfahren mit dem Marktplatz einzuleiten. Hierzu kann er den Händlersupport unter [haendler@kaufland-online.de](mailto:haendler@kaufland-online.de) kontaktieren. Der Anbieter des Marktplatzes auf kaufland.de ist bereit, mit den hier aufgeführten Mediatoren zusammenzuarbeiten, um eine außergerichtliche Beilegung etwaiger Streitigkeiten zu erzielen: Oliver Prothmann (Präsident des Bundesverband Onlinehandel e.V.) sowie Wolfgang Wentzel (Beauftragter Geschäftsführer Bundesverband Onlinehandel e.V.); vor Einleitung eines solchen Mediationsverfahrens sollte jedoch versucht werden, das Anliegen mit dem Händlersupport zu lösen.
+Der Händler hat die Möglichkeit, ein Beschwerdeverfahren mit dem Marktplatz einzuleiten. Hierzu kann er den Händlersupport unter [de-seller@kaufland-online.de](mailto:de-seller@kaufland-online.de) kontaktieren. Der Anbieter des Marktplatzes auf kaufland.de ist bereit, mit den hier aufgeführten Mediatoren zusammenzuarbeiten, um eine außergerichtliche Beilegung etwaiger Streitigkeiten zu erzielen: Oliver Prothmann (Präsident des Bundesverband Onlinehandel e.V.) sowie Wolfgang Wentzel (Beauftragter Geschäftsführer Bundesverband Onlinehandel e.V.); vor Einleitung eines solchen Mediationsverfahrens sollte jedoch versucht werden, das Anliegen mit dem Händlersupport zu lösen.
 
 21 Schlussbestimmungen
 ----------------------
@@ -913,7 +913,7 @@ Bei etwaigen Verstößen des Händlers, insbesondere, aber nicht ausschließlich
 20 Beschwerdemanagement/Mediationsverfahren
 -------------------------------------------
 
-Der Händler hat die Möglichkeit, ein Beschwerdeverfahren mit dem Marktplatz einzuleiten. Hierzu kann er den Händlersupport unter [haendler@kaufland-online.de](mailto:haendler@kaufland-online.de) kontaktieren. Der Anbieter des Marktplatzes auf kaufland.de ist bereit, mit den hier aufgeführten Mediatoren zusammenzuarbeiten, um eine außergerichtliche Beilegung etwaiger Streitigkeiten zu erzielen: Oliver Prothmann (Präsident des Bundesverband Onlinehandel e.V.) sowie Wolfgang Wentzel (Beauftragter Geschäftsführer Bundesverband Onlinehandel e.V.); vor Einleitung eines solchen Mediationsverfahrens sollte jedoch versucht werden, das Anliegen mit dem Händlersupport zu lösen.
+Der Händler hat die Möglichkeit, ein Beschwerdeverfahren mit dem Marktplatz einzuleiten. Hierzu kann er den Händlersupport unter [de-seller@kaufland-online.de](mailto:de-seller@kaufland-online.de) kontaktieren. Der Anbieter des Marktplatzes auf kaufland.de ist bereit, mit den hier aufgeführten Mediatoren zusammenzuarbeiten, um eine außergerichtliche Beilegung etwaiger Streitigkeiten zu erzielen: Oliver Prothmann (Präsident des Bundesverband Onlinehandel e.V.) sowie Wolfgang Wentzel (Beauftragter Geschäftsführer Bundesverband Onlinehandel e.V.); vor Einleitung eines solchen Mediationsverfahrens sollte jedoch versucht werden, das Anliegen mit dem Händlersupport zu lösen.
 
 21 Schlussbestimmungen
 ----------------------
