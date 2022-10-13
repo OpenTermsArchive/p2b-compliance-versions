@@ -64,8 +64,6 @@ Information such as your location, past Search history, and Search settings all 
 
 We use your country and location to deliver content relevant for your area. For instance, if you’re in Chicago and you search “football”, Google will most likely show you results about American football and the Chicago Bears first. Whereas if you search “football” in London, Google will show results about soccer and the Premier League. [Search settings](https://www.google.com/preferences) are also an important indicator of which results you’re likely to find useful, such as if you set a preferred language or opted in to [SafeSearch](https://support.google.com/websearch/answer/510?hl=en&co=GENIE.Platform=Desktop) (a tool that helps filter out explicit results).
 
-In some instances, we may also use your recent Search activity to present more relevant results. For instance, if you search for “Barcelona” and recently searched for “Barcelona vs Arsenal”, that could be an important clue that you want information about the football club, not the city.
-
 ![Two websites showing a football and an American Football ](https://lh3.googleusercontent.com/DbYj1BC8NJDk5VkfwjnQC1kz4eQ5Tc8HkNZGg3-AvY7ki_uefyOXFMfCvHuHlWaUm8hZ6bwoTLjYh102tF5xVHlb2NMSnjQLIoSDC7Ag=rw-e365-w1440)
 
 Search also includes some features that personalize results based on the activity in your Google account. For example, if you search for “events near me” Google may tailor some recommendations to event categories we think you may be interested in.
