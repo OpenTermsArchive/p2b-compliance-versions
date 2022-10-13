@@ -1,89 +1,89 @@
-Conditions d'utilisation de CoopCycle pour le site web et l'application
-=======================================================================
+CoopCycle's Terms of Use for the Website and Application
+========================================================
 
-Cette page (et les éventuels documents auxquels elle fait référence) présente les conditions d'utilisation de notre site web [coopcycle.org](https://coopcycle.org/) (notre "Site") ou l’application que nous mettons à disposition par le biais d'une boutique d'applications ou autre (notre "Service"), que ce soit comme hôte ou comme utilisateur.rice inscrit. Veuillez lire attentivement ces conditions d'utilisation avant de commencer à utiliser notre Site ou notre Service. En accédant à notre Site ou en utilisant notre Service, vous indiquez que vous acceptez ces conditions d'utilisation et que vous vous engagez à les respecter. Si vous n'êtes pas d'accord avec ces conditions d'utilisation, n'accédez pas à notre Site ou n'utilisez pas notre Service.
+This page (and any document referred to herein) sets forth the terms of use of our website [coopcycle.org](https://coopcycle.org/) (our "Site") or the application we make available through an application store or otherwise (our "Service"), whether as a host or a registered user. Please read these terms of use carefully before using our Site or Service. By accessing our Site or using our Service, you indicate your acceptance of these terms of use and your agreement to abide by them. If you do not agree to these terms of use, do not access our Site or use our Service.
 
-1\. À notre sujet
------------------
+1\. About us
+------------
 
-[coopcycle.org](https://coopcycle.org/) est un Site web exploité par ("nous" ou “CoopCycle”), une association régie par la loi du 1er juillet 1901 et le décret du 16 août 1901, dont le siège social se trouve au 23 avenue Claude Vellefaux, Paris 75010.
+[coopcycle.org](https://coopcycle.org/) is a website managed by ("we", "us" or "CoopCycle"), an association governed by the law of July 1, 1901 and the decree of August 16, 1901, whose headquarters are located at 23 avenue Claude Vellefaux, Paris 75010.
 
-2\. Définitions
+2\. Definitions
 ---------------
 
-La présente clause a pour objet de définir les différents termes essentiels du contrat :
+The purpose of this clause is to define the various essential terms of the contract:
 
-* Camarade : ce terme désigne toute personne qui utilise le site et notre Service
-* Contributions : éléments par lesquels vous contribuez à notre Service
-* Camarade coopté.e : le ou la Camarade devient Camarade coopté.e lorsqu'il ou elle est identifié.e sur le site.
-* Identifiant et mot de passe : c'est l'ensemble des informations nécessaires à l'identification d'un Camarade coopté sur le site. L'identifiant et le mot de passe permettent à un.e Camarade d'accéder à des services réservés aux Camarades coopté.es du site. Le mot de passe est confidentiel.
+* Comrade: this term refers to any person who uses the site and our Service .
+* Contributions: elements with which you contribute to our Service
+* Co-opted comrade: the comrade becomes a co-opted comrade when he identifies himself on the site.
+* Identifier and password: this is all the information needed to identify a cooperating comrade on the site. The username and password allow a Co-op Member to access the services reserved for Co-op Members of the site. The password is confidential.
 
-3\. Acces à notre Site ou à nos Services
-----------------------------------------
+3\. Access to our site or services
+----------------------------------
 
-L'accès à notre Site et à notre Service est autorisé de manière temporaire et nous nous réservons le droit de supprimer ou de modifier sans préavis l'accès à notre Site ou à notre Service. Nous ne sommes pas responsables si, pour quelque motif que ce soit, notre Site ou notre Service n'est pas disponible à un moment donné ou pendant une période donnée. Le cas échéant, nous pouvons limiter l'accès à certaines parties de notre Site ou de notre Service ou l’accès à l'ensemble de notre Site ou Service aux Camarades coopté.es. Vous êtes responsable de la préservation de la confidentialité de vos informations de connexion et des activités de votre compte. Si vous avez des inquiétudes au sujet de vos informations de connexion ou si vous craignez qu'elles ont été piratées, prenez immédiatement contact avec [contact@coopcycle.org](mailto:contact@coopcycle.org) pour nous en informer. Nous pouvons désactiver votre compte à tout moment.
+Access to our Site and Service is permitted on a temporary basis and we reserve the right to terminate or modify access to our Site or Service without notice. We are not responsible if, for any reason, our Site or Service is unavailable at any time or for any period of time. If necessary, we may limit access to portions of our Site or Service or access to our entire Site or Service to co-opted comrades. You are responsible for maintaining the confidentiality of your access information and account activity. If you have any questions about your login information or are concerned that your login information has been hacked, please contact [contact@coopcycle.org](mailto:contact@coopcycle.org) immediately to let us know. We may deactivate your account at any time.
 
-4\. Utilisation acceptable
---------------------------
+4\. Acceptable use
+------------------
 
-Vous ne pouvez utiliser notre Service qu'à des fins légales. Vous ne pouvez utiliser notre Site ou notre Service d'aucune manière qui serait contraire à une loi ou réglementation locale, nationale ou internationale applicable ni pour envoyer, recevoir sciemment, télécharger, utiliser ou réutiliser des éléments qui ne sont pas conformes à nos normes en matière de contenu figurant dans la clause 5 ci-dessous. Vous vous engagez également à ne pas accéder sans autorisation à, endommager ou perturber une partie de notre Site ou de notre Service ou un réseau ou un matériel utilisé dans la fourniture de notre Service.
+You may only use our Service for lawful purposes. You may not use our Site or Service in any manner that is contrary to any applicable local, national or international law or regulation or to knowingly send, receive, download, use or reuse material that does not comply with our content standards set forth in clause 5 below. You also agree not to access without authorization, damage or disrupt any part of our Site or Service or any network or equipment used in the provision of our Service.
 
-5\. Normes en matière de contenu
+5\. Content standards
+---------------------
+
+These content standards apply to all materials that you contribute to our Service (the "Contributions"). You must comply with the spirit and letter of the following rules. The rules apply to each part of the Contributions and to the Contributions as a whole. Contributions must be accurate (when they state facts), truthful (when they state beliefs) and in compliance with the applicable laws in France and in the country from which they originate. Contributions must not..:
+
+* contain elements that are defamatory of a person, obscene, insulting, hateful or inflammatory
+* promoting sexually explicit scenes or promoting violence
+* promote discrimination on the basis of race, sex, gender, religion, nationality, disability, sexual orientation or age
+* promoting capitalism, the disabling of labor outside any collectively and democratically defined rules, patriarchy, colonialism, cultural and/or class reappropriation (whose intersectionality crystallizes in the Dab in wax suit), the use of the term "disruptive", any reference to Bernard Stiegler, the lucrative use of data, connected clocks and the Comic Sans MS source
+* Infringe the copyright, database rights or trademarks of a third party;
+* is likely to mislead a third party or breach a legal obligation to a third party, such as a contractual obligation or an obligation of discretion, or promote illegal activity;
+* threaten, infringe or violate the privacy of a third party; cause annoyance, inconvenience or unnecessary anxiety; or be likely to harass, disturb, embarrass, alarm or inconvenience a third party;
+* be used to impersonate another person or impersonate you or misrepresent your affiliation with a person or give the impression that you are from us, if not; or
+* defend, promote or assist in an illegal act such as (but not limited to) copyright infringement.
+
+6\. Suspension and termination
+------------------------------
+
+Failure to comply with Section 3 (Acceptable Use) and/or Section 4 (Content Standards) of these Terms of Use constitutes a material breach of the Terms of Use and may result in our taking some or all of the following actions: Immediate, temporary or permanent termination of your right to use our Service; Immediate, temporary or permanent removal of contributions or material uploaded by you to our Service; sending you a warning; taking legal action against you, including seeking reimbursement for all expenses (including, without limitation, reasonable administrative and legal expenses) incurred as a result of the breach; disclosing such information to law enforcement authorities if we believe it is legitimately required. The responses described in this clause are not exhaustive and we may take any other action we deem legitimately appropriate. The name of the person responsible for publication and the reasons for removal will appear on the site.
+
+7\. Intellectual Property Rights
 --------------------------------
 
-Ces normes en matière de contenu s'appliquent à tous les éléments par lesquels vous contribuez à notre Service (les "Contributions"). Vous devez respecter l'esprit et la lettre des normes suivantes. Les normes s'appliquent à chaque partie des Contributions et à leur globalité. Les Contributions doivent être précises (lorsqu'elles exposent des faits), être sincères (lorsqu'elles exposent des convictions) et respecter la législation applicable en France et dans le pays d'où elles sont émises. Les Contributions ne doivent pas :
+We own or license all intellectual property rights in our Site and Service and the material posted on this Site (except for your contributions). These works are protected by .rice copyright laws and treaties around the world. All such rights are reserved. You may not copy, reproduce, republish, upload, post, broadcast, transmit, communicate to the public, or use any content of our Site in any way except for your own personal, non-commercial use.
 
-* contenir des éléments diffamatoires pour une personne, obscènes, injurieux, haineux ou incendiaires
-* promouvoir des scènes explicites sur le plan sexuel ou promouvoir la violence
-* promouvoir la discrimination sur la base de la race, de sexe, de genre, de la religion, de la nationalité, du handicap, de l'orientation sexuelle ou de l'âge
-* promouvoir le capitalisme, la déqualification du travail hors de toutes règles définies collectivement et démocratiquement, le patriarcat, le colonialisme, la réappropriation culturelle et/ou de classe (dont le Dab en costume en wax cristallise leur intersectionnalité), l’usage du terme “disruptif”, toute référence à Bernard Stiegler, l’usage lucratif des données, les montres connectées et la police d’écriture Comic Sans MS
-* enfreindre des droits d’auteur.rice, droits sur des bases de données ou marques de commerce d'un tiers ;
-* être susceptibles de tromper une tierce personne ou être en infraction avec une obligation légale vis-à-vis d'un tiers, comme une obligation contractuelle ou une obligation de discrétion ou promouvoir une activité illégale ;
-* être menaçantes, porter atteinte à ou violer l'intimité d'un tiers, provoquer une gêne, un dérangement ou une anxiété inutile ou être susceptibles de harceler, perturber, embarrasser, alarmer ou gêner un tiers ;
-* être utilisées pour se faire passer pour quelqu'un d'autre ou usurper votre identité ou tromper sur votre affiliation avec une personne ou donner l'impression qu'elles émanent de nous, si tel n'est pas le cas ou
-* préconiser, promouvoir ou aider à un acte illégal comme (à titre d'exemple uniquement) une violation de droit d’auteur.rice ou un piratage d'ordinateur.
+8\. Regular updates of our site and services
+--------------------------------------------
 
-6\. Suspension et résiliation
------------------------------
+We regularly update our Site and Service and may change the content at any time. If necessary, we may suspend access to our Site and Service or close them indefinitely. Elements of our Site or Service may be out of date at any given time and we are under no obligation to update these elements.
 
-Le non-respect de la section 3 (Utilisation acceptable) et/ou 4 (Normes en matière de contenu) des présentes conditions d'utilisation constitue une violation déterminante des conditions d'utilisation et peut nous amener à prendre tout ou partie des mesures suivantes : suppression immédiate, temporaire ou permanente de votre droit d'utiliser notre Service ; suppression immédiate, temporaire ou permanente des contributions ou éléments téléchargés par vous sur notre Service ; envoi d'un avertissement à votre encontre ; action en justice contre vous, comprenant une procédure en vue du remboursement de tous les coûts (dont, de manière non exhaustive, les coûts administratifs et les frais de justice raisonnables) entraînés par l'infraction ; communication de ces informations aux autorités chargées de l'application des lois si nous l'estimons légitimement nécessaire. Les réactions décrites dans cette clause ne sont pas exhaustives et nous pouvons prendre toutes les autres mesures que nous jugeons légitimement adaptées. Le nom du ou de la responsable de la publication et les motifs de retrait apparaîtront sur le Site.
+9\. Our responsibility
+----------------------
 
-7\. Droits de propriété intellectuelle
---------------------------------------
+We have prepared our site and service with great care. However, we are not responsible for any errors or omissions regarding such content or for any technical problems you may encounter on our Site or Service. If we become aware of any inaccuracies in our Site or Service, we will attempt to correct them as soon as reasonably possible. To the extent permitted by law, we exclude all liability (whether in contract, negligence or otherwise) for any loss or damage that you or any third party may suffer in connection with our Site, our Service and any websites linked to our Site and the materials displayed on it. This does not affect our liability for death or personal injury caused by our negligence or our liability for fraudulent misrepresentation or misrepresentation of a material fact or any other liability which cannot be excluded or limited under applicable law.
 
-Nous sommes le propriétaire ou le détenteur de licence de tous les droits de propriété intellectuelle de notre Site et de notre Service et des éléments publiés sur ce Site (à l'exception de vos contributions). Ces travaux sont protégés par les lois et traités sur le droit d'auteur.rice dans le monde entier. Tous ces droits sont réservés. Vous n'avez pas le droit de copier, reproduire, republier, télécharger, envoyer, diffuser, transmettre, communiquer au public ou utiliser un contenu de notre Site de quelque manière que ce soit, sauf pour votre usage personnel sans caractère commercial.
+10\. Information about you and your visits to our site and use of our Service
+-----------------------------------------------------------------------------
 
-8\. Actualisations régulières de notre Site et de notre Service
----------------------------------------------------------------
+We collect certain information about you in connection with your use of our Service. This is described in more detail in our Privacy Policy. Our CNIL statement number is currently being assigned. With respect to cookies, a banner informs Internet users of their purpose, which they may refuse or accept. The maximum duration of this consent is 13 months.
 
-Nous mettons régulièrement à jour notre Site et notre Service et pouvons en modifier le contenu à tout moment. En cas de nécessité, nous pouvons suspendre l'accès à notre Site et à notre Service ou les fermer pour une durée indéterminée. Les éléments de notre Site ou notre Service peuvent être dépassés à un moment donné et nous ne sommes en aucun cas tenus d'actualiser ces éléments.
-
-9\. Notre responsabilité
+11\. Links from our site
 ------------------------
 
-Nous avons préparé très soigneusement notre Site et notre Service. Cependant, nous ne sommes pas responsables des erreurs ou omissions en rapport avec ledit contenu et des éventuels problèmes techniques que vous pouvez rencontrer avec notre Site ou notre Service. Si nous sommes informés d'inexactitudes sur notre Site ou dans notre Service, nous essaierons de les corriger dès que cela sera raisonnablement possible. Dans les limites autorisées par la loi, nous excluons toute responsabilité (contractuelle, au titre de la négligence ou autre) dans une perte ou un dommage que vous ou une tierce personne pourrait subir en liaison avec notre Site, notre Service et tout Site web lié à notre Site et les éléments affichés sur le Site. Cela ne concerne pas notre responsabilité en matière de décès ou de blessures corporelles dû.es à notre négligence ni notre responsabilité en matière de déclaration frauduleuse ou de déclaration inexacte sur un sujet fondamental ni une autre responsabilité qui ne peut pas être exclue ou limitée selon la législation applicable.
+Where our site contains links to other sites and resources provided by third parties, these links are provided for informational purposes only. We do not control the content of these Sites and resources and disclaim any responsibility for such content or for any loss or damage that may result from the use of such content.
 
-10\. Informations relatives à vous et à vos visites sur notre site et à l'utilisation de notre Service
-------------------------------------------------------------------------------------------------------
+12\. Jurisdiction and Applicable Law
+------------------------------------
 
-Nous collectons certaines données à votre sujet dans le cadre de votre utilisation de notre Service. Ce point est décrit de manière plus détaillée dans notre politique de respect de la vie privée. Notre numéro de déclaration à la CNIL est en cours d’attribution. Concernant les cookies, un bandeau informe les internautes de leur finalité, qui pourront les refuser ou les accepter. La durée maximum de ce consentement étant de 13 mois.
-
-11\. Liens de notre Site
-------------------------
-
-Lorsque notre Site contient des liens vers d'autres sites et ressources fournis par des tiers, ces liens sont donnés à titre d'information uniquement. Nous ne contrôlons pas le contenu de ces Sites et ressources et déclinons toute responsabilité liée à ce contenu ou en matière de perte ou dommage susceptible de découler de votre utilisation de ce contenu.
-
-12\. Compétence et législation applicable
------------------------------------------
-
-Les tribunaux français ont compétence pour toutes les plaintes découlant de ou liées à une consultation de notre Site ou à une utilisation de nos Services. Les présentes conditions d'utilisation et tout conflit ou plainte découlant de ou lié(e) à ces conditions d'utilisation ou leur objet ou formation (dont les conflits ou plaintes non contractuel(le)s) doivent être régis par et interprétés conformément au droit français.
+The French courts have jurisdiction over all complaints arising out of or in connection with the consultation of our Site or the use of our Services. These Terms of Use and any dispute or claim arising out of or relating to these Terms of Use or their subject matter or formation (including any non-contractual dispute or claim) shall be governed by and construed in accordance with French law.
 
 13\. Modifications
 ------------------
 
-Nous pouvons modifier les présentes conditions d'utilisation à tout moment en modifiant cette page. Vous êtes censé vérifier cette page de temps à autre pour prendre connaissance des modifications que nous avons apportées car elles sont contraignantes et vous engagent
+We may change these terms of use at any time by modifying this page. You are expected to review this page from time to time to take note of any changes we have made as they are binding and commit you to
 
-14\. Vos préoccupations
------------------------
+14\. Your concerns
+------------------
 
-Si vous avez des préoccupations au sujet de données qui figurent dans notre Service, veuillez prendre contact avec [contact@coopcycle.org](mailto:contact@coopcycle.org)
+If you have any concerns about any of the data contained in our Service, please contact [contact@coopcycle.org](mailto:contact@coopcycle.org).
