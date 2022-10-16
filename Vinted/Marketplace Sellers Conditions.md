@@ -339,7 +339,7 @@ Los Usuarios Pro deben cumplir con las Reglas del Foro cuando utilicen el Foro. 
 
 1. aplicando el procedimiento de denuncia descrito [aquí](https://vinted.es/help/288);
 2. poniéndose en contacto con VINTED a través del [formulario de contacto](https://vinted.es/help/support_tickets/new?ch=help_center&faq_entry_id=615&allow_direct=1);
-3. enviando un correo electrónico a la dirección [le\[email protected\]](https://www.vinted.es/cdn-cgi/l/email-protection#removed);
+3. enviando un correo electrónico a la dirección [\[email protected\]](https://www.vinted.es/cdn-cgi/l/email-protection#removed);
 4. enviando una carta en la que se expongan detalladamente los hechos subyacentes a la siguiente dirección: VINTED UAB, Švitrigailos g. 13, LT-03228 Vilnius, Lituania.
 5. Si se denuncia dicho Contenido, VINTED se reserva el derecho de suspender inmediatamente, sin previo aviso, la Cuenta del Usuario Pro (incluida cualquier transacción en curso) y de eliminar el Contenido, según lo previsto en las Secciones 7.7 y 15.
 
