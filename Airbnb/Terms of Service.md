@@ -384,3 +384,68 @@ Related articles
     Host Cancellation Policy
     
     Because cancellations can disrupt guests' plans and impact confidence in the Airbnb community, there are penalties applied for Host cancella…](https://www.airbnb.com/help/article/990/host-cancellation-policy)
+
+Get help with your reservations, account, and more.
+
+[Log in or sign up](https://www.airbnb.com/login?redirect_url=/help/article/2908/terms-of-service)
+
+### Support
+
+* [Help Center](https://www.airbnb.com/help/home?from=footer)
+* [AirCover](https://www.airbnb.com/aircover)
+* [Safety information](https://www.airbnb.com/trust)
+* [Supporting people with disabilities](https://www.airbnb.com/accessibility)
+* [Cancellation options](https://www.airbnb.com/help/article/2701/extenuating-circumstances-policy-and-the-coronavirus-covid19)
+* [Our COVID-19 Response](https://www.airbnb.com/d/covidsafety)
+* [Report a neighborhood concern](https://www.airbnb.com/neighbors)
+
+### Community
+
+* [Airbnb.org: disaster relief housing](https://www.airbnb.org/?locale=en)
+* [Support Afghan refugees](https://www.airbnb.org/refugees)
+* [Combating discrimination](https://www.airbnb.com/against-discrimination)
+
+### Hosting
+
+* [Try hosting](https://www.airbnb.com/host/homes?from_footer=1)
+* [AirCover for Hosts](https://www.airbnb.com/aircover-for-hosts)
+* [Explore hosting resources](https://www.airbnb.com/resources)
+* [Visit our community forum](https://www.airbnb.com/help/community?s=footer)
+* [How to host responsibly](https://www.airbnb.com/help/responsible-hosting)
+
+### Airbnb
+
+* [Newsroom](https://www.airbnb.com/press/news)
+* [Learn about new features](https://www.airbnb.com/2022-summer)
+* [Letter from our founders](https://news.airbnb.com/what-makes-airbnb-airbnb)
+* [Careers](https://www.airbnb.com/careers)
+* [Investors](https://investors.airbnb.com/)
+* [Gift cards](https://www.airbnb.com/giftcards)
+
+Footer section
+
+Choose a languageEnglish (US)Choose a currency€EUR
+
+© 2022 Airbnb, Inc.
+
+·[Privacy](https://www.airbnb.com/terms/privacy_policy)·[Terms](https://www.airbnb.com/terms)·[Sitemap](https://www.airbnb.com/sitemaps/v2)
+
+Choose a languageEnglish (US)Choose a currency€EUR
+
+* [](https://www.facebook.com/airbnb)
+* [](https://twitter.com/airbnb)
+* [](https://instagram.com/airbnb)
+
+© 2022 Airbnb, Inc.
+
+·[Privacy](https://www.airbnb.com/terms/privacy_policy)·[Terms](https://www.airbnb.com/terms)·[Sitemap](https://www.airbnb.com/sitemaps/v2)
+
+© 2022 Airbnb, Inc.
+
+·[Privacy](https://www.airbnb.com/terms/privacy_policy)·[Terms](https://www.airbnb.com/terms)·[Sitemap](https://www.airbnb.com/sitemaps/v2)
+
+Choose a languageEnglish (US)Choose a currency€EUR
+
+* [](https://www.facebook.com/airbnb)
+* [](https://twitter.com/airbnb)
+* [](https://instagram.com/airbnb)
