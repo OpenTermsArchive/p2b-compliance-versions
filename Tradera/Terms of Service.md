@@ -3,13 +3,13 @@ User Agreement
 
 För den svenska versionen av detta avtal, klicka här: [Användaravtal](https://info.tradera.com/anvandaravtal/)
 
-#### Introduction
+**Introduction**
 
-**This agreement, Tradera’s User Agreement, Tradera’s Privacy Policy and all other policies posted on our site set out the terms on which Tradera offers you access to and use of Tradera’s sites, services, applications and tools (collectively ”Services”). You can find our policies** [**here**](http://info.tradera.com/faq/regler-pa-tradera/)**. All policies, including Tradera’s Privacy Policy, are incorporated in this User Agreement. You agree to comply with all terms of this User Agreement when accessing or using our Services. The entity you are contracting with is Tradera Marketplace AB (reg. no. 556569-4642), Sankt Eriksgatan 117, 113 43 Stockholm (”Tradera”, ”we” or ”us”).**
+**This agreement, Tradera’s User Agreement, Tradera’s Privacy Policy and all other policies posted on our site set out the terms on which Tradera offers you access to and use of Tradera’s sites, services, applications and tools (collectively ”Services”). You can find our policies** [**here**](http://info.tradera.com/faq/regler-pa-tradera/)**. All policies, including Tradera’s Privacy Policy, are incorporated in this User Agreement. You agree to comply with all terms of this User Agreement when accessing or using our Services. The entity you are contracting with is Tradera Marketplace AB (reg. no. 556569-4642), Sankt Eriksgatan 117, 113 43 Stockholm (”Tradera”, ”we” or ”us”).**
 
-This User Agreement is effective from 18 July 2020 for existing users and upon acceptance for new users. [The previous version](https://info.tradera.com/anvandaravtal-eng-2019-2020/) of this User Agreement was effective for all users on 1 August 2019.
+This User Agreement is effective from 16 November 2022 for existing users and upon acceptance for new users. [**The previous version**](https://info.tradera.com/en/anvandaravtal-eng-2020-2022/) of this User Agreement was effective for all users on 18 July 2020.
 
-#### Scope
+**Scope**
 
 Tradera is a marketplace that allows users to offer, sell and buy just about anything in a variety of pricing formats and locations. Tradera is not a traditional auctioneer.
 
@@ -17,7 +17,7 @@ Tradera does not own any of the items offered or sold through Tradera and is not
 
 We can provide guidance regarding prices, pricing, listing and other such questions as part of our Services. Such guidance is provided solely for informational purposes and you may decide not to follow it. Tradera does not review users’ listings or content. While we may help facilitate the resolution of disputes between users, Tradera has no control over and does not guarantee the existence, quality, safety or legality of items advertised; the truth or accuracy of user’s content, listings or feedback; the ability of sellers to sell items; or that a buyer or seller will actually complete a transaction or return an item.
 
-#### Using Tradera
+**Using Tradera**
 
 In connection with using or accessing the Services, you will not:
 
@@ -25,11 +25,11 @@ In connection with using or accessing the Services, you will not:
 * breach or circumvent any laws, third-party rights or our policies;
 * sell items infringing any intellectual property rights that belong to third parties or in any other way infringe any copyright, trademark or intellectual property right that belongs to a third party;
 * use our Services if you are not able to form legally binding contracts (for example, if you are under 18 years old), or are temporarily or indefinitely suspended from using our Services;
-* fail to pay for items purchased by you, unless the seller has materially changed the item’s description after you bid, a clear typographical error is made, or you cannot contact the seller (see our [Rules for Buyers](https://info.tradera.com/en/bids-are-binding/));
+* fail to pay for items purchased by you, unless the seller has materially changed the item’s description after you bid, a clear typographical error is made, or you cannot contact the seller (see our [**Rules for Buyers**](https://info.tradera.com/en/bids-are-binding/));
 * fail to deliver items sold by you, unless the buyer fails to comply with the posted terms in your listing or you cannot contact the buyer:
 * manipulate the price of any item or interfere with any other user’s listings;
 * post or use false, inaccurate, misleading or defamatory content or information;
-* take any actions that may undermine the feedback or ratings system (see our [Feedback policies](https://info.tradera.com/en/review-policy/));
+* take any actions that may undermine the feedback or ratings system (see our [**Feedback policies**](https://info.tradera.com/en/review-policy/));
 * transfer your Tradera account (including Feedback) and user ID to another party without our consent;
 * allow, directly or indirectly, another party to use your user ID or password;
 * distribute or post spam, unsolicited or bulk electronic communications, chain letters or pyramid schemes;
@@ -49,7 +49,7 @@ We reserve the right to close accounts that cannot be confirmed or that have not
 
 You have the right to terminate your user account with Tradera at any time, by notifying us via our Customer Service. Before closing the account, you must have completed all of your ongoing sales, bids and purchases and we must also have received payment for all outstanding fees. You will subsequently have no right to bid for, purchase or list new items for sale.
 
-#### Abusing Tradera
+**Abusing Tradera**
 
 _General_
 
@@ -84,17 +84,17 @@ In case the notice period does not apply, Tradera will provide the business user
 
 Tradera shall not be under an obligation to provide reasons for the decision to suspend, restrict or terminate a business user's use of the Services, where Tradera is subject to a legal or regulatory obligation not to provide the specific facts or circumstances or the reference to the applicable ground or grounds, or where Tradera can demonstrate that the business user has repeatedly infringed the applicable terms and conditions of this User Agreement, including the Payment Solution Terms, resulting in termination of the provision of the whole of the Services in question.
 
-#### Fees and Invoicing
+**Fees and Invoicing**
 
-The fees we charge for using our Services are listed on our price list for [individuals](https://info.tradera.com/en/price-list-personal-account/) and [business users](https://info.tradera.com/en/foretag/#prislista). We may change our fees from time to time by posting the changes on the Tradera site or send the information by e-mail 30 days in advance. By continuing to use the Services after the new fees take effect, you accept the new fees.
+The fees we charge for using our Services are listed on our price list for [**individuals**](https://info.tradera.com/en/price-list-personal-account/) and [**business users**](https://info.tradera.com/en/foretag/#prislista). We may change our fees from time to time by posting the changes on the Tradera site or send the information by e-mail 30 days in advance. By continuing to use the Services after the new fees take effect, you accept the new fees.
 
-By using the Services, you accept our invoicing procedures and payment terms, which are set out in our [Invoicing & Payment Policy](https://info.tradera.com/en/?path=%2Fcategory%2Finvoice). You accept that the invoices are available to you through our Services and that we may send electronic invoices to you by e-mail.
+By using the Services, you accept our invoicing procedures and payment terms, which are set out in our [**Invoicing & Payment Policy**](https://info.tradera.com/en/?path=%2Fcategory%2Finvoice). You accept that the invoices are available to you through our Services and that we may send electronic invoices to you by e-mail.
 
-#### Listing Conditions
+**Listing Conditions**
 
-When listing an item for sale, you agree to comply with our [Rules](https://info.tradera.com/en/rules-at-tradera/) for sellers and that:
+When listing an item for sale, you agree to comply with our [**Rules**](https://info.tradera.com/en/rules-at-tradera/) for sellers and that:
 
-* you are responsible for the content of the listing and agree to only post listings in accordance with our policies relating to [prohibited and unauthorized items or listing](https://info.tradera.com/en/rules-at-tradera/);
+* you are responsible for the content of the listing and agree to only post listings in accordance with our policies relating to [**prohibited and unauthorized items or listing**](https://info.tradera.com/en/rules-at-tradera/);
 * your listing may not be immediately searchable by keyword or category until after up to 24 hours. Tradera cannot guarantee exact listing durations;
 * when and if your listing appears in search results on Tradera or the Internet may depend on factors such as the listing format, heading, bidding activity, deadline for responses, keyword, price and shipping costs, valuation, and feedback about you as a seller;
 * some optional listing upgrades will only be visible on certain Tradera Services;
@@ -103,7 +103,7 @@ When listing an item for sale, you agree to comply with our [Rules](https://inf
 * we have the right to agree with third parties providing payment solutions on Tradera that they will withhold part of the amount they are paying you from the buyer and that they will use such withheld payment to pay Tradera directly the fees that you owe us.
 * Limitations regarding the types of Services you may use and their functionality may apply based on your use of the Services.
 
-#### Purchase Conditions
+**Purchase Conditions**
 
 When buying an item you agree to comply with our Rules for Buyers, and that:
 
@@ -113,11 +113,11 @@ When buying an item you agree to comply with our Rules for Buyers, and that:
 * you accept the terms that apply for the payment method that you use when you buy an item (see more information under Section "Payment" below); and
 * you accept the terms that apply for the shipping method that you have chosen when you buy an item.
 
-#### Buyer protection
+**Buyer protection**
 
 In certain circumstances, a buyer is entitled to buyer protection, meaning that a buyer can have a dispute handled via a dispute resolution process and be refunded an amount paid in a transaction.
 
-Tradera's buyer protection is included if the buyer chooses to pay by way of an invoice or instalments via Paynova. Tradera's buyer protection is not included when paying via PayPal, by card or Swish, but Tradera can offer buyer protection when paying by card or Swish on a later occasion in exchange for a charge. It is stated on Tradera's platform before the buyer chooses the payment method whether buyer protection is included or can be purchased. The Seller must perform its obligations as far as concerns Tradera's buyer protection irrespective of the payment method chosen by the buyer.
+Tradera's buyer protection is included if the buyer chooses to pay by way of an invoice or instalments via Paynova or Klarna. Tradera's buyer protection is not included when paying via PayPal, by card or Swish, but Tradera can offer buyer protection when paying by card or Swish on a later occasion in exchange for a charge. It is stated on Tradera's platform before the buyer chooses the payment method whether buyer protection is included or can be purchased. The Seller must perform its obligations as far as concerns Tradera's buyer protection irrespective of the payment method chosen by the buyer.
 
 Certain types of purchase are in no case included in Tradera's buyer protection, namely the following:
 
@@ -146,15 +146,15 @@ If a dispute resolution process is closed in the Seller's favour, the buyer is n
 
 Tradera's decision in a matter cannot be appealed to Tradera, but the Seller and the buyer are free to come to a different resolution to a dispute in a different forum.
 
-The rules concerning seller protection are set out in Tradera's Payment Solution Terms.
+The rules concerning seller protection are set out in [Tradera's Payment Solution Terms](https://info.tradera.com/sakerhetscenter/betalningsvillkor/).
 
-#### International Buying and Selling
+**International Buying and Selling**
 
 It is lawful to sell certain products to other countries. Sellers and buyers are responsible for complying with all laws and regulations applicable to the international sale, purchase, and shipment of items.
 
 Tradera may provide a function, through services or automatic tools provided by third parties, which enable listings and other content on Tradera to be translated, in whole or in part, into other languages. Users then have the option to use such services or tools. Tradera cannot guarantee the availability or the accuracy of any translation. Users use all such services at their own risk.
 
-#### Content
+**Content**
 
 Tradera will have the right, but not the obligation, to use for commercial purposes all content that you provide to us or make available to us by using the Services, for example when listing or offering, buying and/or selling items or services. In this User Agreement, ”content” means all information (including, but not limited to, photographs, images, texts, words, videos, data, concepts, ideas, technology, databases and trademarks).
 
@@ -166,7 +166,9 @@ If you are a business user, we allow shoppers to rate products that you list on 
 
 The processing and transfer of personal data is further governed by the Privacy Policy.
 
-#### Payment
+**Payment**
+
+_General_
 
 When you buy an item on Tradera, several payment methods are available to you. These payment methods are provided by payment solution providers with which Tradera cooperates and may change from time to time. The payment methods are offered by these payment solution providers and they decide on the payment methods they want to offer you. Depending on the payment method that you choose, you may have to enter into a separate agreement with the relevant payment solution provider and you will have to accept the terms applicable to the payment method you choose to use.
 
@@ -174,7 +176,11 @@ If any payment issues arise, unless otherwise set out in this User Agreement, th
 
 When you sell an item on Tradera, you must agree to the Payment Solution Terms, as applicable to sellers.
 
-#### Limitation of Liability
+_Payment via Klarna_
+
+When purchasing items on Tradera’s platform, whereby the Buyer has selected to pay via Klarna, the Buyer acknowledges that the Seller transfers the right to receive payment from the Buyer to Tradera, and that Tradera transfers such claim to Klarna. The Buyer accepts that payment, for a purchase made via Klarna, shall be made to Klarna and that a payment to Tradera or to the Seller will not fulfil the Buyer’s payment obligations.
+
+**Limitation of Liability**
 
 We try to keep access to Tradera and the Services safe, secure, and functioning properly, but we cannot guarantee the continuous operation of or access to our Services. Bid updates and other notification functionality in Tradera’s Services may not occur in real time. Such functionality is subject to delays beyond Tradera’s control.
 
@@ -198,31 +204,31 @@ Regardless of the previous paragraphs, if we are found to be liable, our liabili
 
 The provisions of this User Agreement shall not limit Tradera’s liability for willful default or gross negligence or Tradera’s statutory liability.
 
-#### Indemnity
+**Indemnity**
 
 You will indemnify and hold us harmless (and our parent, subsidiaries, affiliates, representatives, officers, agents and employees) for and from all losses and costs, including reasonable legal fees, we incur due to or arising out of your breach of this User Agreement, your improper use of the site, services, applications and tools, or your breach of any applicable law or infringement of any rights of a third party.
 
-#### Additional terms and conditions for the add-on service ”Butik”
+**Additional terms and conditions for the add-on service ”Butik”**
 
-If you are using ”[Butik](https://info.tradera.com/en/foretag/#butik)”, our add-on service for business users, we place great emphasis on ensuring that, _inter alia_, products, product descriptions and delivery terms for your Butik maintain a high standard. Therefore, in addition to the rules for sellers in force from time to time, Tradera may impose additional requirements on individual Butiks concerning e.g:
+If you are using ”[**Butik**](https://info.tradera.com/en/foretag/#butik)”, our add-on service for business users, we place great emphasis on ensuring that, _inter alia_, products, product descriptions and delivery terms for your Butik maintain a high standard. Therefore, in addition to the rules for sellers in force from time to time, Tradera may impose additional requirements on individual Butiks concerning e.g:
 
 * delivery time;
 * types of products offered for sale; and
 * quality of images and product description.
 
-If additional terms and conditions are relevant to your Butik, you will be requested to make corrections. If, following such request, you have not made the necessary corrections within the time limit set out under section "_Changes to agreements if you are a business user" below_, Tradera is entitled to immediately limit or prohibit access to and use of the add-on service according to the terms set out in section "_Suspending and restricting a business user's use of the Services_" above. Tradera may then also remove listings or other content that belong to your Butik and take other steps to prevent you from using your Butik. Additional terms and conditions for the add-on service Butik, such as applicable price lists, are available on the [Butik](https://info.tradera.com/en/foretag/#butik) pages on our website. The add-on service Butik is terminable by either you or us on 30 days’ notice.
+If additional terms and conditions are relevant to your Butik, you will be requested to make corrections. If, following such request, you have not made the necessary corrections within the time limit set out under section "_Changes to agreements if you are a business user" below_, Tradera is entitled to immediately limit or prohibit access to and use of the add-on service according to the terms set out in section "_Suspending and restricting a business user's use of the Services_" above. Tradera may then also remove listings or other content that belong to your Butik and take other steps to prevent you from using your Butik. Additional terms and conditions for the add-on service Butik, such as applicable price lists, are available on the [**Butik**](https://info.tradera.com/en/foretag/#butik) pages on our website. The add-on service Butik is terminable by either you or us on 30 days’ notice.
 
-#### If you are a consumer
+**If you are a consumer**
 
 Consumers have specific rights under mandatory consumer legislation and rules and regulations. If you are a consumer, Tradera does not intend to limit or amend these rights by this User Agreement. We also do not intend to impose on you any obligations that are greater than those imposed on you under mandatory consumer legislation and rules and regulations. This applies, among other things, to the Limitation of Liability and Indemnity provisions in this User Agreement.
 
-#### Determination of business user's ranking in the Services
+**Determination of business user's ranking in the Services**
 
-Tradera uses different parameters to determine a business user's ranking in the Services, as set out in the policy for "[Bäst Träff](https://info.tradera.com/?path=%2Fguide%2Fhur-fungerar-sorteringen-basta-traff)", available on our website.
+Tradera uses different parameters to determine a business user's ranking in the Services, as set out in the policy for "[**Bäst Träff**](https://info.tradera.com/?path=%2Fguide%2Fhur-fungerar-sorteringen-basta-traff)", available on our website.
 
-#### Legal Disputes
+**Legal Disputes**
 
-If a dispute arises between you and Tradera, we recommend that, in the first instance, you contact us directly via our [Customer Service](https://info.tradera.com/en/kontakt/) to try to find a solution. If you are unable to resolve a dispute with Customer Service, you may ask for the case to be escalated to Tradera's internal complaint-handling system. A second line function will then be responsible to provide guidance. If the dispute is not resolved by the second line support, a third line support function will be involved to finally resolve the dispute. Handling of complaints will be processed swiftly and effectively, and the outcome will be communicated to you individually.
+If a dispute arises between you and Tradera, we recommend that, in the first instance, you contact us directly via our [**Customer Service**](https://info.tradera.com/en/kontakt/) to try to find a solution. If you are unable to resolve a dispute with Customer Service, you may ask for the case to be escalated to Tradera's internal complaint-handling system. A second line function will then be responsible to provide guidance. If the dispute is not resolved by the second line support, a third line support function will be involved to finally resolve the dispute. Handling of complaints will be processed swiftly and effectively, and the outcome will be communicated to you individually.
 
 We will consider reasonable requests to resolve the dispute by way of alternative dispute resolution methods, such as mediation or arbitration.
 
@@ -230,7 +236,7 @@ Tradera is willing to engage the lawyers Anders Arthur or Fredrik Norburg to att
 
 Swedish law shall apply to all claims, disputes or other issues arising from this User Agreement. Disputes shall be resolved by a Swedish court of general jurisdiction and, for customers who are not consumers, with the Stockholm District Court as the court of first instance.
 
-#### Miscellaneous
+**Miscellaneous**
 
 _Severability_
 
@@ -254,7 +260,7 @@ If you have a dispute regarding services provided by third parties via our sites
 
 _Changes to agreements if you are an individual_
 
-We are entitled to amend this User Agreement, including the Payment Solution Terms (applicable to sellers) from time to time by publishing the new terms on [www.tradera.com](http://www.tradera.com/) or sending them by e-mail. The amended terms shall take effect automatically 30 days after they are provided. You are entitled at any time to terminate you user account with Tradera in accordance with the provisions above. By continuing to use the Services after the new User Agreement takes effect, you agree to the new User Agreement.
+We are entitled to amend this User Agreement, including the Payment Solution Terms (applicable to sellers) from time to time by publishing the new terms on [www.tradera.com](http://www.tradera.com/) or sending them by e-mail. The amended terms shall take effect automatically 30 days after they are provided. You are entitled at any time to terminate you user account with Tradera in accordance with the provisions above. By continuing to use the Services after the new User Agreement takes effect, you agree to the new User Agreement.
 
 The policies available on our sites may change from time to time. The changes apply as from the date on which they are published on Tradera’s sites.
 
@@ -291,4 +297,4 @@ The following sections survive any termination of this User Agreement: Fees (reg
 
 _Contact us_
 
-Messages pursuant to this User Agreement must be sent by registered post to Tradera Marketplace AB, Box 45026, 104 30 Stockholm. We will send messages to you by e-mail to the e-mail address you have registered with Tradera. You will be considered to have received the message 24 hours after the e-mail was sent, unless the party sending the e-mail receives a message stating that the e-mail address is not valid. We can also send messages to you by registered post to the address you have registered with us. Messages sent by registered post will be considered to have been received by the receiving party three days after the message was sent.
+Messages pursuant to this User Agreement must be sent by registered post to Tradera Marketplace AB, Box 45026, 104 30 Stockholm. We will send messages to you by e-mail to the e-mail address you have registered with Tradera. You will be considered to have received the message 24 hours after the e-mail was sent, unless the party sending the e-mail receives a message stating that the e-mail address is not valid. We can also send messages to you by registered post to the address you have registered with us. Messages sent by registered post will be considered to have been received by the receiving party three days after the message was sent.
