@@ -1,3 +1,16 @@
+[Log in or sign up](https://www.airbnb.com/login?redirect_url=/help/article/2870/additional-terms-for-experience-hosts)
+
+1. [Home](https://www.airbnb.com/help/)
+    
+2. [All topics](https://www.airbnb.com/help/all-topics)
+    
+3. [Legal Terms – help topic](https://www.airbnb.com/help/topic/1578/legal-terms)
+    
+4. [Airbnb Experiences Terms – help topic](https://www.airbnb.com/help/topic/1588/airbnb-experiences-terms)
+    
+5. Additional Terms for Experience Hosts – help article
+    
+
 Legal terms
 
 Additional Terms for Experience Hosts
