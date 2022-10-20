@@ -1,5 +1,5 @@
-Seller Policy (Effective from December 1 2022)
-==============================================
+Seller Policy (Effective from December 1, 2022)
+===============================================
 
 Etsy is a marketplace where you can sell your handmade goods, vintage items, and craft supplies directly to buyers around the world. We want to make sure that you and your buyers have a positive experience on Etsy. Please read on to find out more about your rights, as well as what is expected of you, as a seller.
 
@@ -217,4 +217,4 @@ If Etsy has reason to believe you, Your Content, or your use of the Services vio
 
 Etsy also provides limited solutions to sellers who meet the requirements of our Purchase Protection Program for Sellers. Read more about Purchase Protection Program for Sellers [here](https://www.etsy.com/legal/policy/seller-protection-policy/34509585385).
 
-Last updated on Oct 19, 2022
+Last updated on Oct 20, 2022
