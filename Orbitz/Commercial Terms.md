@@ -1,7 +1,6 @@
 Términos y Condiciones para Propietarios
 ========================================
 
-[Termes i condicions per a propietaris](https://forever.travel-assets.com/flex/flexmanager/mediaasset/621715-0_2-Vrbo%20Owners%20Ts%26Cs_ca_ES.pdf)  
   
 **CONDICIONES GENERALES DE USO DEL SITIO WEB PARA PROPIETARIOS O PROFESIONALES INMOBILIARIOS**
 
