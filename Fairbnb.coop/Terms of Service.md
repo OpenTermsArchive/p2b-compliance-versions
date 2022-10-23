@@ -157,7 +157,7 @@ After the payment is completed, Fairbnb.coop will send the invoice due to the Gu
 
 * [Polish](https://www.mangopay.com/terms/PSP/PSP_MANGOPAY_PL.pdf)
 
-![mangopay T&C logos @fairbnb.coop](https://fairbnb.coop/wp-content/uploads/2021/06/mangopay-tc-logos.842fd231.png "mangopay T&C logos @fairbnb.coop")
+![mangopay T&C logos @fairbnb.coop](data:image/svg+xml;nitro-empty-id=Njk6MTgxMTc=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAzOCAxMTQiIHdpZHRoPSIxMDM4IiBoZWlnaHQ9IjExNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4= "mangopay T&C logos @fairbnb.coop")
 
 SECTION 2 – BECOME A HOST ACCOUNT
 ---------------------------------
