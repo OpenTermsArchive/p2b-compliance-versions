@@ -54,7 +54,7 @@ zamedziť zneužívaniu momentálnej kritickej a ťažkej situácie na nekorektn
 
 obohacovanie. Prevádzkovateľ nebude obmedzovať ponuku darovania
 
-uvedených prostriedkov pre ľudí, ktorí to najviac potrebujú, pokiaľ ponuka
+uvedených prostriedkov pre ľudí, ktorí to najviac potrebujú, pokiaľ po nuka
 
 bude v súlade so zákonom č. 69/2020 Z.z. o mimoriadnych opatreniach v
 
@@ -76,8 +76,6 @@ povinnosti prevádzkovateľa a používateľov pri poskytovaní a využívaní s
 
 portáli Bazar.sk.
 
-
-
 2. Prevádzkovateľom portálu Bazar.sk (ďalej len „Portál“ alebo „Bazar.sk“) a
 
 poskytovateľom služieb je spoločnosť United Classifieds s.r.o., so sídlom
@@ -88,7 +86,7 @@ Bratislava I, oddiel: Sro, vložka č.: 107298/B, IČO: 50 020 161, IČ DPH
 
 SK2120153101, (ďalej len „Prevádzkovateľ“). Adresa elektronickej pošty:
 
-kontakt@bazar.sk; tel. kontakt: +421 907 971 703.
+kontakt@bazar.sk; tel. kontakt: +421 220 924 196 .
 
 
 
@@ -330,7 +328,7 @@ rozhrania Prevádzkovateľa, realitného softvéru ViaReal.
 
 
 
-10.Po registrácii nového firemného konta – typ Realitná kancelária cez Bazar.sk a jeho
+10. Po registrácii nového firemného konta – typ Realitná kancelária cez Bazar.sk a jeho
 
 následnom potvrdení administrátorom stránky, sa manuálna správa firemnej
 
@@ -344,7 +342,7 @@ inzercia@nehnutelnosti.sk alebo support@viareal.sk.
 
 
 
-11.Aktívne inzeráty pridané cez Bazar.sk v kategórii Reality, ktoré už má Firemný
+11. Aktívne inzeráty pridané cez Bazar.sk v kategórii Reality, ktoré už má Firemný
 
 inzerent vo svojom firemnom konte si môže upraviť, ale nie je možné pridať nové
 
@@ -362,7 +360,7 @@ na portál Bazar.sk. Cenník inzercie cez Nehnutelnosti.sk zašle na vyžiadanie
 
 obchodné oddelenie (inzercia@nehnutelnosti.sk).
 
-12.Zaplatením aktivačného poplatku podľa bodu 7. a 9. tohto článku Podmienok
+12. Zaplatením aktivačného poplatku podľa bodu 7. a 9. tohto článku Podmienok
 
 Používateľ súhlasí so začatím poskytovania inzercie po prekročení stanoveného
 
@@ -380,7 +378,7 @@ odstúpenie od zmluvy.
 
 
 
-13.Služby Portálu sú pre Firemných inzerentov, ktorí využívajú automatické zadávanie
+13. Služby Portálu sú pre Firemných inzerentov, ktorí využívajú automatické zadávanie
 
 ponuky inzerátov sú spoplatnené, cena a podmienky inzercie sú definované v
 
@@ -390,7 +388,7 @@ Prevádzkovateľom.
 
 
 
-14.Obsah Používateľa je pre účely týchto všeobecných obchodných podmienok
+14. Obsah Používateľa je pre účely týchto všeobecných obchodných podmienok
 
 grafický, textový, dátový alebo iný obsah (najmä inzeráty, názory, prejavy, podnety,
 
@@ -718,7 +716,7 @@ a)pre overenie identity slúži platné telefónne číslo, na ktorom je možné
 
 kontaktovať
 
-b)vlastnícky vzťah je možné preukázať napr. zaslaním scan-u dokladu, záručného
+b) vlastnícky vzťah je možné preukázať napr. zaslaním scan-u dokladu, záručného
 
 listu, prípadne iných nadobúdacích dokumentov k inzerovanej veci
 
@@ -990,7 +988,7 @@ b) informáciu o zamestnávateľovi,
 
 c) konkrétny popis pracovnej ponuky a náplň práce,
 
-d)pracovný čas,
+d) pracovný čas,
 
 e) podmienky pre uchádzača,
 
@@ -1004,23 +1002,23 @@ Informácia o výške mzdy/odmeny za ponúkanú prácu
 
 
 
-● Používateľ môže Inzerenta hodnotiť len 1 krát.
+ Používateľ môže Inzerenta hodnotiť len 1 krát.
 
-● Hodnotenie je možné pridať len po overení telefónneho čísla. Pri hodnotení je
+ Hodnotenie je možné pridať len po overení telefónneho čísla. Pri hodnotení je
 
 Používateľ povinný uviesť svoje skutočné meno a priezvisko.
 
-● Všetky osobné údaje, ktoré Používateľ zadá pri pridávaní hodnotenia, sú
+ Všetky osobné údaje, ktoré Používateľ zadá pri pridávaní hodnotenia, sú
 
 poskytované výlučne Prevádzkovateľovi z titulu jeho oprávneného záujmu a
 
 nebudú nijako sprístupnené Inzerentovi, ani tretím osobám.
 
-● Inzerent je oprávnený na každé hodnotenie reagovať len 1 krát.
+ Inzerent je oprávnený na každé hodnotenie reagovať len 1 krát.
 
-● Prevádzkovateľ nezodpovedá za pravdivosť informácií uvedených v hodnotení.
+ Prevádzkovateľ nezodpovedá za pravdivosť informácií uvedených v hodnotení.
 
-● V prípade, ak sa Prevádzkovateľ dozvie, že Používateľ uviedol v hodnotení
+ V prípade, ak sa Prevádzkovateľ dozvie, že Používateľ uviedol v hodnotení
 
 nepravdivé údaje alebo vyjadrenia, ktorých obsah je v rozpore so zákonom alebo
 
@@ -1028,13 +1026,13 @@ s pravidlami morálky a slušnosti, je Prevádzkovateľ oprávnený také hodnot
 
 odstrániť (zmazať).
 
-● Inzerent nie je oprávnený vyžadovať kontrolu hodnotenia od Prevádzkovateľa ani
+ Inzerent nie je oprávnený vyžadovať kontrolu hodnotenia od Prevádzkovateľa ani
 
 vymazanie hodnotenia od Prevádzkovateľa.
 
-● Používateľ je oprávnený požadovať zmazanie vlastného hodnotenia.
+ Používateľ je oprávnený požadovať zmazanie vlastného hodnotenia.
 
-● Inzerent je oprávnený požadovať zmazanie vlastnej reakcie na hodnotenie.
+ Inzerent je oprávnený požadovať zmazanie vlastnej reakcie na hodnotenie.
 
 
 
@@ -1795,8 +1793,6 @@ stránky, alebo odstrániť akýkoľvek obsah daného Používateľa (inzeráty,
 hodnotenia, atď.) alebo jeho konto zo systému, a to hlavne z dôvodu
 
 poškodzovania Prevádzkovateľa, iného Používateľa alebo porušenia Podmienok.
-
-
 
 2. Prevádzkovateľ zodpovedá za to, že platené služby Portálu budú poskytované riadne
 
