@@ -79,6 +79,8 @@ When we use capitalised words or phrases in these Terms of Service, they have th
 
 "**Payment Processor**" means third-party payment processors supporting Fresha with the provision of the Fresha Payment Services;
 
+**"Promo Codes"** means a promotional code issued by a Partner which can be used when purchasing Partner Services, always subject to the relevant promotion terms. 
+
 Our services
 
 Fresha offers a way to connect you to our Partners, who offer a range of Products and services in the beauty and wellness space, such as hair, beauty, training and therapy services. The Fresha Platform allows you to make an Appointment for a Partner Service, an Order for a Product from a Partner and directly pay for your Services and Orders. Fresha does not operate any Partner, provide any Partner Services, or fulfil any Orders for Products. 
@@ -149,10 +151,17 @@ When you make an appointment, you will need to arrive at the place of business o
 
 Vouchers issued by our Partners
 
-Partners may issue Partner Vouchers which can be used for Partner Services, or our Partners may allow you to purchase Partner Vouchers for later use against their services. The Partner Vouchers are at the discretion of the Partner.
+Partners may issue Partner Vouchers which can be used for Partner Services, or our Partners may allow you to purchase Partner Vouchers for later use against their services. The Partner Vouchers are at the discretion of the Partner.
 
-If you purchase a Partner Voucher from a Partner, this is subject to any Partner Terms of Sale provided to you at the time of purchase. Partners' provision and redemption of Partner Vouchers is subject to the Partner Contract (including any Partner Terms of Sale). Fresha is not a party to the Partner Contract you have with the Partner, and is not responsible for Partner Vouchers. Unless the offer terms state a fixed or minimum period for which an offer will be available, it can be withdrawn at any time, unless you have already placed an order for an Appointment/Order based on the offer and we have sent a confirmation notice.   
-  
+If you purchase a Partner Voucher from a Partner, this is subject to any Partner Terms of Sale provided to you at the time of purchase. Partners' provision and redemption of Partner Vouchers is subject to the Partner Contract (including any Partner Terms of Sale). Fresha is not a party to the Partner Contract you have with the Partner, and is not responsible for Partner Vouchers. Unless the offer terms state a fixed or minimum period for which an offer will be available, it can be withdrawn at any time, unless you have already placed an order for an Appointment/Order based on the offer and we have sent a confirmation notice.
+
+Promo codes issued by our Partners
+
+Promo codes issued by our PartnersPartners may issue Promo Codes, which can be used when purchasing Partner Services. The Promo Codes are issued at the Partner's discretion and may be withdrawn at any time, including if they are used fraudulently, cause technical issues or are subject to tampering.
+
+If Promo Codes are made exclusively available and identified as being personal to you, you must not share it with any third party. If Promo Codes are made publicly available, you may share them with any third party. If in the reasonable opinion of the Partner and / or Fresha, it considers that the Promo Code has been shared or misused by you, the Partner and / or Fresha can cancel such Promo Codes. 
+
+The Partner is responsible for setting the terms of any Promo Codes and fulfilling the Partner Services.  Fresha is not responsible for any Promo Codes issued by our Partners. For more information on Promo Codes, please visit our [blog](https://blog.fresha.com/run-promotions-with-fresha?hsLang=en). 
 
 Paying for a Partner service
 
