@@ -347,7 +347,7 @@ Los Usuarios Pro deben cumplir con las Reglas del Foro cuando utilicen el Foro. 
 
 1. aplicando el procedimiento de notificación descrito [aquí](https://vinted.es/help/288);
 2. poniéndose en contacto con VINTED a través del [formulario de contacto](https://vinted.es/help/support_tickets/new?ch=help_center&faq_entry_id=615&allow_direct=1);
-3. enviando un correo electrónico a la dirección [\[email protected\]inted.es](https://www.vinted.es/cdn-cgi/l/email-protection#removed);
+3. enviando un correo electrónico a la dirección [\[email protected\]](https://www.vinted.es/cdn-cgi/l/email-protection#removed);
 4. enviando una carta en la que se expongan detalladamente los hechos subyacentes a la siguiente dirección: VINTED UAB, Švitrigailos g. 13, LT-03228 Vilnius, Lituania;
 5. para los titulares de derechos de Propiedad Intelectual específicamente, presentando una notificación de infracción de derechos de Propiedad Intelectual completando el formulario que está disponible [aquí](https://vinted.es/help/intellectual_property_infringement).
 
