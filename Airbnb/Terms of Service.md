@@ -402,7 +402,7 @@ Get help with your reservations, account, and more.
 ### Community
 
 * [Airbnb.org: disaster relief housing](https://www.airbnb.org/?locale=en)
-* [Support Afghan refugees](https://www.airbnb.org/refugees)
+* [Support Afghan refugees](https://www.airbnb.org/refugees?locale=en)
 * [Combating discrimination](https://www.airbnb.com/against-discrimination)
 
 ### Hosting
