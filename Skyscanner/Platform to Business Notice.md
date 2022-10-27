@@ -1,8 +1,6 @@
 Regulation 2019/1150 – Platform to Business Regulation
 ======================================================
 
-![](https://content.skyscnr.com/m/5f9c23e5c6810c62/original/VB34181738.jpg)
-
 This page provides information for Skyscanner’s commercial partners pursuant to EU Regulation 2019/1150 on promoting fairness and transparency for business users of online intermediation services. On this page, we’ll refer to this as the “P2B Regulation”.
 
 This page is just for our commercial partners or someone looking to become one of our partners.
