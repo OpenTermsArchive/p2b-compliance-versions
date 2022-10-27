@@ -59,7 +59,7 @@ Allgemeine Nutzungsbedingungen
         Berlin
         
         Kontakt:  
-        E-Mail: [\[email protected\]](https://www.lass-andere-schreiben.de/cdn-cgi/l/email-protection)andere-schreiben.de  
+        E-Mail: [\[email protected\]](https://www.lass-andere-schreiben.de/cdn-cgi/l/email-protection)  
         Tel.: +49 (0) 30/ 5 490 650 - 20  
         Fax: +49 (0) 30/ 5 490 650 - 79
         
