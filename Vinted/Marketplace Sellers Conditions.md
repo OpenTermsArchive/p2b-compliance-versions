@@ -518,7 +518,7 @@ Salvo que la legislación aplicable disponga lo contrario, la mediación es volu
 
 **19.4. RESCISIÓN DE ESTOS TÉRMINOS PRO**
 
-19.4.1. El Usuario Pro puede poner fin a su relación con VINTED en cualquier momento con efecto inmediato, pero tendrá que cumplir con todas sus obligaciones que resultaron de las Transacciones que el Usuario Pro celebró antes de la finalización de su relación con VINTED. El Usuario Pro podrá finalizar su relación con VINTED cerrando su cuenta o enviando un correo electrónico a [l\[email protected\]](https://www.vinted.es/cdn-cgi/l/email-protection#removed). 
+19.4.1. El Usuario Pro puede poner fin a su relación con VINTED en cualquier momento con efecto inmediato, pero tendrá que cumplir con todas sus obligaciones que resultaron de las Transacciones que el Usuario Pro celebró antes de la finalización de su relación con VINTED. El Usuario Pro podrá finalizar su relación con VINTED cerrando su cuenta o enviando un correo electrónico a [\[email protected\]](https://www.vinted.es/cdn-cgi/l/email-protection#removed). 
 
 19.4.2. VINTED podrá finalizar su relación con el Usuario Pro en particular por los siguientes motivos: 
 
