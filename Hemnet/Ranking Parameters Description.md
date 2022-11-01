@@ -269,6 +269,6 @@ Om din betalning går igenom får du ett bekräftelsemejl från Klarna där det 
 
 #### Kan jag ångra mitt köp?
 
-Nej. Enligt distansavtalslagen (2 kap., 11§) gäller inte ångerrätt på ”digitalt innehåll som levereras på något annat sätt än på ett fysiskt medium, om konsumenten uttryckligen har samtyckt till leverans på detta sätt och gått med på att det inte finns någon ångerrätt”. [Läs mer om ångerrätten i våra villkor.](https://assets.hemnet.se/assets/dokument/hemnet_avtalsvillkor_for_annonstjanster_20211115.pdf)
+Nej. Enligt distansavtalslagen (2 kap., 11§) gäller inte ångerrätt på ”digitalt innehåll som levereras på något annat sätt än på ett fysiskt medium, om konsumenten uttryckligen har samtyckt till leverans på detta sätt och gått med på att det inte finns någon ångerrätt”. [Läs mer om ångerrätten i våra villkor.](https://assets.hemnet.se/assets/dokument/hemnet_avtalsvillkor_for_annonstjanster_20221101.pdf)
 
 [Läs alla frågor och svar](https://www.hemnet.se/kundservice/saljare)
