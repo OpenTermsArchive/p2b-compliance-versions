@@ -504,7 +504,7 @@ Si VINTED bloquea una Cuenta Pro, dará al Usuario Pro un periodo de aviso razon
 
 FRANCIA
 
-Dirección de correo electrónico: [\[email protected\]](https://www.vinted.es/cdn-cgi/l/email-protection#removed) 
+Dirección de correo electrónico: [\[email protected\]p.fr](https://www.vinted.es/cdn-cgi/l/email-protection#removed) 
 
 Sitio web: [https://www.cmap.fr/](https://www.cmap.fr/) 
 
