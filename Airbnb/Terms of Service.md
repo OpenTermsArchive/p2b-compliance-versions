@@ -375,15 +375,15 @@ Related articles
     
     Rebooking and Refund Policy
     
-    Please review our Rebooking and Refund Policy.](https://www.airbnb.com/help/article/2868/rebooking-and-refund-policy)
+    Please review our Rebooking and Refund Policy.](https://www.airbnb.com/help/article/2868)
 * [Host
     
     Host Cancellation Policy
     
-    Because cancellations can disrupt guests' plans and impact confidence in the Airbnb community, there are penalties applied for Host cancella…](https://www.airbnb.com/help/article/990/host-cancellation-policy)
+    Because cancellations can disrupt guests' plans and impact confidence in the Airbnb community, there are penalties applied for Host cancella…](https://www.airbnb.com/help/article/990)
 * [About the updates to our Terms
     
-    Please review this information about updates to our Terms.](https://www.airbnb.com/help/article/2877/about-the-updates-to-our-terms)
+    Please review this information about updates to our Terms.](https://www.airbnb.com/help/article/2877)
 
 Get help with your reservations, account, and more.
 
