@@ -1,4 +1,4 @@
-[Log in or sign up](https://www.airbnb.com/login?redirect_url=/help/article/2870/additional-terms-for-experience-hosts)
+[Log in or sign up](https://www.airbnb.com/login?redirect_url=/help/article/2870)
 
 1. [Home](https://www.airbnb.com/help/)
     
