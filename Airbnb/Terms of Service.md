@@ -387,7 +387,7 @@ Related articles
 
 Get help with your reservations, account, and more.
 
-[Log in or sign up](https://www.airbnb.com/login?redirect_url=/help/article/2908/terms-of-service)
+[Log in or sign up](https://www.airbnb.com/login?redirect_url=/help/article/2908)
 
 ### Support
 
