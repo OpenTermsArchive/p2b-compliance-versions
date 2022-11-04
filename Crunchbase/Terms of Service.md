@@ -14,7 +14,7 @@
 Terms of Service
 ================
 
-****We’ve updated our governing terms to clarify your general release of us, clarify our right to seek injunctive and other equitable relief, clarify the categories of personal data we collect listed on our Privacy Policy, update the contact information listed on our GDPR Privacy Policy and elsewhere, revise our Data Use Addendum to reflect changes to applicable laws and update our Marketplace Terms of Service to reflect the data currently available in the Marketplace. The new Terms of Service went into effect on July 29th, 2022 and are listed below. PLEASE NOTE THAT YOUR USE OF AND ACCESS TO OUR SERVICE (DEFINED BELOW) IS SUBJECT TO THE FOLLOWING TERMS; IF YOU DO NOT AGREE TO ALL OF THE FOLLOWING, YOU MAY NOT USE OR ACCESS THE SERVICE IN ANY MANNER.**** 
+******We’ve updated our governing terms to remove references to Crunchbase’s Privacy Shield Certification contained in our GDPR Privacy Policy and Data Use Addendum, as Crunchbase adheres to the Standard Contractual Clauses (as such term is defined in our Data Use Addendum) in accordance with applicable laws. The foregoing changes went into effect on November 3rd, 2022. PLEASE NOTE THAT YOUR USE OF AND ACCESS TO OUR SERVICE (DEFINED BELOW) IS SUBJECT TO THE FOLLOWING TERMS; IF YOU DO NOT AGREE TO ALL OF THE FOLLOWING, YOU MAY NOT USE OR ACCESS THE SERVICE IN ANY MANNER.******  
 
 Last Updated: July 29th, 2022 
 
