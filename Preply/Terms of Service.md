@@ -520,11 +520,9 @@ Tutor-Specific Representations
 
 If you use the Services as a Tutor:
 
-(i) you will provide the tutoring services in accordance with these Terms, Tutor-specific
+(i) you will provide the tutoring services in accordance with these Terms and other policies
 
-guidelines, and other policies set forth by Preply and made available to you via email or
-
-by posting on the Website;
+set forth by Preply and made available to you via email or by posting on the Website;
 
 (ii) you will provide the tutoring services in accordance with laws and regulations applicable
 
@@ -924,6 +922,8 @@ responsible or liable for any loss or damage of any sort incurred as the result 
 
 or as the result of the presence of such non-Preply advertisers on the Preply Platform.
 
+
+
 Preply may display advertisements on non-Preply websites to promote the tutoring services you
 
 provide via the Preply Platform and help you generate more Student leads.
@@ -1025,6 +1025,8 @@ check each Tutor's self-reported credentials, education, and experience, as well
 other Students. Each Tutor has the sole discretion to accept or decline a request for the tutoring
 
 services, as well as continue or discontinue a tutoring relationship with any Student.
+
+
 
 Tutors may and, in fact are expected to perform the tutoring services for others or do other types
 
