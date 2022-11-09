@@ -21,7 +21,7 @@ Algemene voorwaarden
 | Productreview | de webpagina's met gebruikersbeoordelingen van hardware, software en consumentenelektronica. |
 | Sanctie | een waarschuwing, (tijdelijke) ontzegging of andere sanctie naar aanleiding van een gedraging van het Lid. |
 | Shopreview | de webpagina's met ervaringen en beoordelingen van computershops. |
-| Tweakers.net | Tweakers.net een onderneming welke een onderdeel is van DPG Online Services B.V., gevestigd aan de Jacob Bontiusplaats 9, 1018LL te Amsterdam. |
+| Tweakers.net | Tweakers.net een onderneming welke een onderdeel is van DPG Media B.V., gevestigd aan de Jacob Bontiusplaats 9, 1018LL te Amsterdam. |
 | Vraag & Aanbod | de advertentierubriek waarin het Lid gebruikte hardware en consumentenelektronica te koop kan aanbieden. |
 | Website | het geheel van webpagina's, software, databanken, services (zoals bijvoorbeeld IRC) en door Tweakers.net geplaatste Content gekoppeld aan de domeinnaam tweakers.net en aan de subdomeinen en aanverwante domeinen (zoals bijvoorbeeld tweakers.nl) en alle via deze website toegankelijke diensten zoals bijvoorbeeld het Forum, Vraag & Aanbod, Pricewatch, Shopreview, Productreview, Tweakblogs en Jobs. |
 
