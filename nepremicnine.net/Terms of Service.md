@@ -36,8 +36,8 @@ Portal nepremicnine.net uporabnikom omogoča pregledovanje vpisanih in objavo la
 
 Zasebni uporabniki, ki se s posredovanjem nepremičnin ne ukvarjajo profesionalno, lahko na portalu nepremicnine.net:
 
-1. Brezplačno objavijo 1 (en) mali oglas (ne velja za novogradnje - starost do treh let) s ponudbo oziroma povpraševanjem po nepremičnini, ki se prikaže na seznamu zadetkov iskanih nepremičnin;
-2. V primeru novogradenj (starost do treh let) in oddajanja počitniških kapacitet za turistične namene, so oglasi plačljivi tudi za fizične osebe v skladu s cenikom MEGANET. Oglasi zasebnih uporabnikov, ki so fizične osebe, ki se s posredovanjem nepremičnin ne ukvarjajo profesionalno, se aktivirajo v roku 24 ur in so po aktivaciji na portalu vidni v roku 60 minut;
+1. Brezplačno objavijo 1 (en) mali oglas (ne velja za novogradnje - starost do pet let) s ponudbo oziroma povpraševanjem po nepremičnini, ki se prikaže na seznamu zadetkov iskanih nepremičnin;
+2. V primeru novogradenj (starost do pet let) in oddajanja počitniških kapacitet za turistične namene, so oglasi plačljivi tudi za fizične osebe v skladu s cenikom MEGANET. Oglasi zasebnih uporabnikov, ki so fizične osebe, ki se s posredovanjem nepremičnin ne ukvarjajo profesionalno, se aktivirajo v roku 24 ur in so po aktivaciji na portalu vidni v roku 60 minut;
 3. V primeru uvrstitve oglasa v rubriko »ne spreglejte«, se oglas prikaže ma vrhu seznama zadetkov ter je oglas plačljiv za fizične osebe kot tudi za poslovne uporabnike.
 
 Poslovni uporabniki, ki se s posredovanjem nepremičnin ukvarjajo profesionalno, lahko na portalu nepremicnine.net objavijo svojo ponudbo oz. povpraševanje, le po predhodnem dogovoru z MEGANET.  
