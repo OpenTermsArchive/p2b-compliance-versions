@@ -4,9 +4,9 @@
     
 2. [All topics](https://www.airbnb.com/help/all-topics)
     
-3. [Legal Terms – help topic](https://www.airbnb.com/help/topic/1578/legal-terms)
+3. [Legal Terms – help topic](https://www.airbnb.com/help/topic/1578)
     
-4. [Airbnb Experiences Terms – help topic](https://www.airbnb.com/help/topic/1588/airbnb-experiences-terms)
+4. [Airbnb Experiences Terms – help topic](https://www.airbnb.com/help/topic/1588)
     
 5. Additional Terms for Experience Hosts – help article
     
