@@ -58,7 +58,9 @@ Listele pot fi:
 
 **Document** – prezentele Termene si Conditii.
 
-**Comunicari Comerciale** – orice tip de mesaj trimis (cum ar fi: e-mail/SMS/telefonic/mobile push/webpush/etc.)  continand informatii generale si tematice, informatii cu privire la produse similare sau complementare cu cele pe care le-ati achizitionat, informatii cu privire la oferte sau promotii, informatii referitoare la Bunuri si Servicii adaugate in sectiunea “Cont/Cosul meu” sau sectiunea  “Cont/Favorite” precum si alte comunicari comerciale cum ar fi cercetari de piata si sondaje de opinie.
+**Comunicari Comerciale** – orice tip de mesaj trimis (cum ar fi: e-mail/SMS/telefonic/mobile push/webpush/etc.)  continand informatii generale si tematice, informatii cu privire la produse similare sau complementare cu cele pe care le-ati achizitionat, informatii cu privire la ofertele sau promotiile eMAG sau ale Grupului eMAG, informatii referitoare la Bunuri si Servicii adaugate in sectiunea “Cont/Cosul meu” sau sectiunea  “Cont/Favorite” precum si alte comunicari comerciale cum ar fi cercetari de piata si sondaje de opinie.
+
+**Grupul eMAG** – include i) orice societate sau entitate în care Dante International S.A. (persoană juridică română cu sediul social: București, Şoseaua Virtuții nr. 148, sector 6, înscrisă în Registrul Comerțului sub numărul J40/372/23.01.2002, cod de identificare fiscală RO14399840) deține direct sau indirect 50% dsau maim ult din acțiunile sau partile de interese cu drept de vot ale Dante International S.A.; sau (ii) orice societate sau entitate care deține direct sau indirect 50% sau mai mult din acțiunile sau parțile de interese cu drept de vot ale Dante International S.A.; sau (iii) orice societate sau entitate care direct sau indirect controlează sau se află sub controlul unei societati sau entități descrise la (i) sau (ii).
 
 **Tranzactie** – incasarea sau rambursarea unei sume rezultata din vanzarea unui Bun si/sau Serviciu de catre eMAG, Cumparatorului, prin utilizarea serviciilor procesatorului de carduri agreat de catre Vanzator, indiferent de modalitatea de livrare.
 
