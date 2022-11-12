@@ -9,7 +9,7 @@ Amtsgericht Charlottenburg - HRB: 141523 B
 Web: [https://www.tenmedia.de](https://www.tenmedia.de/)
 
 Kontaktiere uns jederzeit:  
-E-Mail: [\[email protected\]](https://www.lass-andere-schreiben.de/cdn-cgi/l/email-protection)  
+E-Mail: info@lass-andere-schreiben.de  
 Telefon: +49 (0) 30/ 5 490 650 - 20  
 Fax: +49 (0) 30/ 5 490 650 - 79
 
