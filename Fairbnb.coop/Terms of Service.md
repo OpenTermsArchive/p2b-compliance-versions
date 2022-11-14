@@ -19,7 +19,7 @@ The project is intended to maximize the potentiality of platform cooperativism a
 
 **New features and destinations will be added constantly to provide growing user experience for registered users**, according to Fairbnb.coop platform cooperativism project.
 
-You may cancel your registration at any time by sending an email to i[\[email protected\]](https://fairbnb.coop/cdn-cgi/l/email-protection) and also you may consider our privacy policy statement for data processing issues.
+You may cancel your registration at any time by sending an email to [\[email protected\]](https://fairbnb.coop/cdn-cgi/l/email-protection) and also you may consider our privacy policy statement for data processing issues.
 
 **Effective as of September 10th 2020. Version 1.9**
 
