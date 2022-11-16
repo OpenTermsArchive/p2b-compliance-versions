@@ -159,7 +159,8 @@ Responsabilité des Utilisateurs, Clients et Coachs
 
 9.2 L’Utilisateur est seul responsable de l’ensemble des Contenus qu’il choisit de mettre en ligne sur le Site, la Société ne contrôlant pas le Contenu avant la mise en ligne.
 
-L’Utilisateur s’interdit expressément de publier tout Contenu injurieux, diffamant, dénigrant, calomnieux, raciste, xénophobe, contraire à la morale et aux bonnes mœurs, contrefaisant, portant atteinte à l’ordre public ou aux droits de tiers, susceptible de porter atteinte aux droits, à la réputation et à l’image de la Société et plus généralement, dont la teneur enfreindrait la loi et/ou les règlements, notamment d’ordre pénal.
+L’Utilisateur s’interdit expressément de publier tout Contenu injurieux, diffamant, dénigrant, calomnieux, raciste, xénophobe, contraire à la morale et aux bonnes mœurs, contrefaisant, portant atteinte à l’ordre public ou aux droits de tiers, susceptible de porter atteinte aux droits, à la réputation et à l’image de la Société et plus généralement, dont la teneur enfreindrait la loi et/ou les règlements, notamment d’ordre pénal.  
+L'utilisateur garantit ainsi qu'il a obtenu toutes les autorisations, droits, consentements, permissions, et le pouvoir et l'autorité nécessaire à la publication du contenu qu'il soumet, dépose et affiche sur le Site.
 
 9.3 L’Utilisateur est seul responsable de la conclusion et de l’exécution des contrats relatifs à une Prestation qu’il conclut avec un autre Utilisateur par l’intermédiaire du Site, la Société n’intervenant que pour les mettre en relation. La conclusion et l’exécution de ces contrats, qui interviennent directement entre un Coach et un Client s’opèrent à l’initiative et sous la responsabilité exclusive de ces derniers.
 
