@@ -393,7 +393,6 @@ Get help with your reservations, account, and more.
 
 * [Help Center](https://www.airbnb.com/help/home?from=footer)
 * [AirCover](https://www.airbnb.com/aircover)
-* [Safety information](https://www.airbnb.com/trust)
 * [Supporting people with disabilities](https://www.airbnb.com/accessibility)
 * [Cancellation options](https://www.airbnb.com/help/article/2701/extenuating-circumstances-policy-and-the-coronavirus-covid19)
 * [Our COVID-19 Response](https://www.airbnb.com/d/covidsafety)
@@ -402,12 +401,11 @@ Get help with your reservations, account, and more.
 ### Community
 
 * [Airbnb.org: disaster relief housing](https://www.airbnb.org/?locale=en)
-* [Support Afghan refugees](https://www.airbnb.org/refugees?locale=en)
 * [Combating discrimination](https://www.airbnb.com/against-discrimination)
 
 ### Hosting
 
-* [Try hosting](https://www.airbnb.com/host/homes?from_footer=1)
+* [Airbnb your home](https://www.airbnb.com/host/homes?from_footer=1)
 * [AirCover for Hosts](https://www.airbnb.com/aircover-for-hosts)
 * [Explore hosting resources](https://www.airbnb.com/resources)
 * [Visit our community forum](https://www.airbnb.com/help/community?s=footer)
@@ -416,7 +414,7 @@ Get help with your reservations, account, and more.
 ### Airbnb
 
 * [Newsroom](https://www.airbnb.com/press/news)
-* [Learn about new features](https://www.airbnb.com/2022-summer)
+* [Learn about new features](https://www.airbnb.com/2022-winter)
 * [Letter from our founders](https://news.airbnb.com/what-makes-airbnb-airbnb)
 * [Careers](https://www.airbnb.com/careers)
 * [Investors](https://investors.airbnb.com/)
