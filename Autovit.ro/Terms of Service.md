@@ -1,6 +1,6 @@
 **Termeni și condiții pentru clienții persoane fizice**
 
-**Următorii Termeni și condiții pentru clienții persoane fizice se aplică începând cu data de 17.12 2021.**
+**Următorii Termeni și condiții pentru clienții persoane fizice se aplică începând cu data de 15.11.2022.**
 
 **Veți găsi versiunea anterioară a Termenilor și Condițiilor** [aici](https://ajutor.autovit.ro/hc/ro/articles/360010628439-Regulament-persoane-fizice-anterior)**.**
 
