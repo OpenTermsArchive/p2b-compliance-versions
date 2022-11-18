@@ -168,6 +168,8 @@ Small Business Accelerator Program Schedule
 
 The terms of this Schedule apply to you if you meet the Eligibility Requirements in this section for the Amazon Appstore’s Small Business Accelerator Program (“**SBAP**”).
 
+**AWS Credits.** 
+
 1. **Eligibility Requirements**. You are eligible for the SBAP in a particular benefit period if you meet the associated “**Eligibility Requirement**” in the table below. A benefit period during which you meet the Eligibility Requirement is a “**Benefit Period**.”
     
     | Benefit period | Eligibility Requirement |
@@ -177,13 +179,16 @@ The terms of this Schedule apply to you if you meet the Eligibility Requirements
     
 2. **SBAP Royalty**. Notwithstanding anything to the contrary in this Agreement, the responsible Amazon Party will pay you a Royalty of 80% of the List Price for the applicable Amazon Marketplace as of the time of purchase ("**SBAP Royalty**") for your SBAP Sales, up to the SBAP Threshold, that are made during the Benefit Period. For all SBAP Sales during the Benefit Period that exceed the SBAP Threshold, you will not receive the SBAP Royalty but you will receive the applicable Royalty outlined elsewhere in this Agreement.
     
-3. **Miscellaneous**.
+3. **AWS Credits.**
+    1. Amazon Web Services, Inc. (or its affiliate as noted in Section 14 of the [AWS Promotional Credit Terms & Conditions](https://aws.amazon.com/awscredits/)) (“**AWS**”)  will provide you with AWS promotional credit (“**Promotional Credit**”) in an amount equal to 10% of your SBAP Sales made after you provide your AWS account information as part of SBAP registration, excluding any SBAP Sales made through the Amazon Appstore on Windows, provided that (i) your Promotional Credit exceeds the minimum payment threshold of $1.00 US per month in each Applicable Marketplace, and (ii) Promotional Credit will be capped at 10% of the SBAP Threshold in any calendar year.  Promotional Credit will be applied to the AWS account that you designate during the registration process.  Promotional Credit will be calculated on the last day of each calendar month and will be provided approximately 15 days after the calendar month in which the applicable SBAP Sale takes place (subject to adjustments).  Promotional Credit (i) expires 12 months after the date on which Promotional Credit is provided to your designated AWS account, (ii) is nonrefundable, and (iii) may not be transferred, sold or exchanged. Further terms applicable to Promotional Credit are set forth in the [AWS Promotional Credit Terms & Conditions](https://aws.amazon.com/awscredits/). 
+    2. By providing your AWS account information as part of SBAP registration, you consent to AWS sharing your AWS Account ID and data related to your AWS Credit issuance, consumption, and exhaustion (for example, credit issuance date, amount of credits used, remaining credit balance) with Amazon for credit tracking, tax, and accounting purposes and to otherwise support and improve SBAP.
+4. **Miscellaneous**.
     
     1. Determinations of whether you meet the Eligibility Requirement, including any currency conversions we make in connection with our calculation of SBAP Sales, will be in our sole discretion.
         
     2. You will no longer be eligible to participate in the SBAP if we determine, in our sole discretion, that you have engaged in any deceptive, fraudulent, or misleading act or omission with respect to your eligibility for or participation in the SBAP (e.g., if you transfer your Mobile Apps in order to maintain SBAP eligibility).
         
-4. **Definitions**.
+5. **Definitions**.
     
     1. **“Associated Developer Accounts”** are Program accounts: (i) that you have majority (over 50%) corporate, individual, or partnership interest in the ownership or shares in, (ii) owned or controlled by an individual or legal entity that has majority (over 50%) corporate, individual, or partnership interest in the ownership or shares of your Program account, (iii) that you have ultimate-decision making authority over, or (iv) owned or controlled by an individual or legal entity that has ultimate-decision making authority over one or more of your Mobile Apps or Mobile App In-App Products.
         
@@ -644,12 +649,12 @@ The terms of this Schedule apply to you if you meet the Eligibility Requirements
     2. “**SDAP Sales**” means the total aggregate value used to calculate Royalties for all of your Alexa Skills and In-Skill Products and all Associated Developer Accounts’ (if any) Alexa Skills and In-Skill Products.
     3. “**SDAP Threshold**” means US$1,000,000 in SDAP Sales.
 
-**Amazon Music Schedule**
--------------------------
+Amazon Music Schedule
+---------------------
 
 The terms of this Schedule apply if you use any Amazon Music Program Materials (defined below). The Amazon Parties for the purpose of this Schedule are Amazon.com Services LLC, Amazon Digital UK Limited, Amazon.com Sales, Inc., Amazon Digital Germany GmbH, Amazon Seller Services Private Limited, Amazon.com.ca, Inc., Servicios Comerciales Amazon México, S. de R.L. de C.V., Amazon Serviços de Varejo do Brasil Ltda., Amazon Commercial Services Pty Ltd, and Amazon Australia Services, Inc.
 
 1. **The Amazon Music Program.** The Amazon music service (“**Amazon Music Service**”) includes certain audio and audiovisual services that we make available (e.g. Amazon Music Unlimited) and any other audio or audiovisual services or tiers that we may make available during the Term. The purpose of the Amazon Music program is to enable you to include access to the Amazon Music Service in your Devices or Apps (collectively, “**Music Products**”) and, once approved by us, to allow end users to access the Amazon Music Service through Music Products. You will be solely responsible for, and bear all risk and liability for, Music Products. Any end user’s use of the Amazon Music Service will be subject to the terms and conditions we establish for end users from time to time. Any Program Materials we make available to enable development of Music Products are “**Amazon Music Program Materials**.”
-2. **Amazon Music Program Requirements**. You must comply with the Amazon Music Program Requirements. We may place limits on the use of certain Amazon Music Program Materials, including restricting their use in certain devices and applications. If Music Products exceed certain usage thresholds, your continued use of the Amazon Music Program Materials may be subject to additional terms. Upon request, you will provide us with reasonable access to the systems, hardware, software, and records related to Music Products and your use of the Amazon Music Program Materials to verify your compliance with this Agreement. To the extent there is any conflict between the Amazon Music Program Requirements and this Agreement with respect to Amazon Music or the Amazon Music Program Materials, the Amazon Music Program Requirements will control.
+2. **Amazon Music Program Requirements**. You must comply with the [Amazon Music Program Requirements](https://developer.amazon.com/docs/music/requ_AM-Program-Requirements.html). We may place limits on the use of certain Amazon Music Program Materials, including restricting their use in certain devices and applications. If Music Products exceed certain usage thresholds, your continued use of the Amazon Music Program Materials may be subject to additional terms. Upon request, you will provide us with reasonable access to the systems, hardware, software, and records related to Music Products and your use of the Amazon Music Program Materials to verify your compliance with this Agreement. To the extent there is any conflict between the Amazon Music Program Requirements and this Agreement with respect to Amazon Music or the Amazon Music Program Materials, the Amazon Music Program Requirements will control.
 3. **Security**. You will implement and provide (i) all of the security features described in the Amazon Music Program Requirements; and (ii) any other features and security protections developed and mutually agreed upon. In addition, you will use reasonable efforts to accommodate the security and content protection requirements of existing and prospective Amazon Music content providers, including without limitation the modification of device software as may be necessary to accommodate Amazon Music content providers' reasonable security concerns. 
 4. **Survival**. All sections of this Schedule will survive any termination of this Agreement.
