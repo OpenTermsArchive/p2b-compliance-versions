@@ -366,6 +366,25 @@ Airbnb operates an affiliate program through which Listings may be featured on t
 | Booking or offering accommodations located in the United States for stays of 28 nights or more where Airbnb Stays, Inc. is identified in the checkout or listing process. | Airbnb Stays, Inc. | 888 Brannan Street, San Francisco, CA 94103, United States |
 | All other activities. | Airbnb Ireland UC | 8 Hanover Quay, Dublin 2, Ireland |
 
+Related articles
+
+
+--------------------
+
+* [Airbnb basics
+    
+    Rebooking and Refund Policy
+    
+    Please review our Rebooking and Refund Policy.](https://www.airbnb.com/help/article/2868)
+* [Host
+    
+    Host Cancellation Policy
+    
+    Because cancellations can disrupt guests' plans and impact confidence in the Airbnb community, there are penalties applied for Host cancella…](https://www.airbnb.com/help/article/990)
+* [Host Recommendations Directory Terms of Service
+    
+    These Host Recommendations Directory Terms supplement the Airbnb Terms of Service (“Terms”), and, except as explicitly stated herein, the Te…](https://www.airbnb.com/help/article/3311)
+
 Get help with your reservations, account, and more.
 
 [Log in or sign up](https://www.airbnb.com/login?redirect_url=/help/article/2908)
