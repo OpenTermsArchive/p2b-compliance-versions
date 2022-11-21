@@ -451,104 +451,143 @@ Moreover, Bazaraki users cannot cancel the services already paid to Bazaraki.
 15\. Privacy Policy
 -------------------
 
-Last updated 01/01/2021
+Last updated 21/11/2022
 
-This Privacy Policy describes how we collect, use, process, and disclose your information, including personal information about you (hereinafter, the “Users” or “You”), in conjunction with your access to and use of www.bazaraki.com (hereinafter “Website” or “Bazaraki”).
+This Privacy Policy describes how BZRK LIMITED, a company registered in Cyprus under registration number HE 185425 (“We”) collects, uses, processes, and discloses information, including personal information (the “Personal Data”) which identify and relate to you (“You”), in conjunction with your access to and use of the website (hereinafter the “Website” or “Bazaraki”)..
 
-You must carefully read this Privacy Policy, which has been written clearly and simply, to facilitate its understanding, and to freely and voluntarily determine whether you wish to provide your personal data, or those of third parties, to Bazaraki.
+You must carefully read this Privacy Policy, in order to determine whether you wish to provide your Personal Data, or those of third parties, to Bazaraki.
 
 15.1 Who is the Data Controller?
 --------------------------------
 
-Data Controller of Your personal data within the meaning of the General Data Protection Regulation (EU) 2016/679 (“GDPR”) is “BZRK LIMITED”, legally seated in Cyprus, 121 Prodromou, Nicosia, 2064 (e-mail: info@bazaraki.com), (hereinafter the “Company” or “we”).
+We act as the Data Controller for your Personal Data collected through the Website or in any other way, as provided herein. Please find our details below:
 
-15.2 What Personal Data do we collect?
+* Name: BZRK LIMITED, HE 185425
+* Address: 121 Prodromou Street, 2064, Nicosia, Cyprus
+* Email: info@bazaraki.com
+
+15.2 Data Protection Officer
+----------------------------
+
+Our Data Protection Officer is M. Paraschou & Co LLC (the “DPO”). If you have any questions about this Privacy Policy, wish to exercise any of your legal rights, require clarifications on how your data is used, or to file a complaint, contact the DPO using the contact details below:
+
+* Name: M. Paraschou & Co LLC
+* Email: dataprotection@bazaraki.com
+
+15.3 What Personal Data do we collect?
 --------------------------------------
 
-We will collect and process personal information if you voluntarily provide us with such information in connection with the following:
+15.3.1. When you visit the Website, we automatically collect information from your computer, tablet, phone or other electronic device used to access the Website (the “Device”). This information, which will be collected without your intervention and stored until it is automatically deleted, includes but is not limited to the following:
 
-* Any identifying information such as your name, telephone number and email address when you register for an account with us.
-* Buying or selling information you provide during a transaction, or other transaction-based content that you generate or is connected to your account as a result of a transaction you are involved in.
-* Financial and billing information (such as credit card or bank account numbers) in connection with a transaction with us, which is held by our trusted payment processing service providers.
-* Your information when you submit the feedback and support form and/or information through your participation in community discussions, chats or when you otherwise correspond with us regarding our Services.
-* Aadditional information we are required or authorized by applicable national law to collect and process in order to authenticate or identify real estate agents.
+1. Internet Protocol (IP) address of the requesting Device
+2. Device ID or unique identifier, device type, ID for advertising, and unique device token
+3. Date and time of access
+4. Geo-location information
+5. Name and URL of the retrieved file
+6. Website from which access is made (referrer URL)
+7. The browser used and, if applicable, the operating system of your Device and the name of your access provider.
+8. Device and connection information such as statistics on your page views, traffic to and from the sites, ad data, your browsing history, and your web log information.
 
-We also collect information automatically when you use our Services, including but not limited to the following:
+The Personal Data mentioned above are collected automatically through the use of Cookies, web beacons, and similar technologies. You have the option to restrict the information collected on the Website. For more information about Cookies, see our Cookies Policy \[Terms and conditions (bazaraki.com)\].
 
-* device ID or unique identifier, device type, ID for advertising, and unique device token
-* geo-location information, including location information from your mobile device
-* computer and connection information such as statistics on your page views, traffic to and from the sites, referral URL, ad data, your IP address, your browsing history, and your web log information.
-* personal information we collect using cookies, web beacons, and similar technologies. For more information about cookies, see our Cookies Policy.
+15.3.2. We may collect Personal Data from Third Parties, including technical data from analytics providers such as Google LLC.
 
-We may also use call-tracking technologies that will allow us and our users to measure with more precision the number of calls received by our platform's ads. By using such technologies, we might record the first six digits of your telephone number, as well as the duration, date and time of your call. This information is processed without any attempt to identify any individual. The conversation between the concerned agent and the caller is not recorded and not stored in any of the servers of Bazaraki. This technology is merely used for Bazaraki’s performance purposes. We provide our clients only with anonymous data and specifically with the total number of calls they accepted via our ads.
+15.3.3. We will collect and process Personal Data if you voluntarily provide us with such information in connection with the following:
 
-We may allow you to share information with social media sites or use social media sites to create your account or to connect your account with the respective social media site. Those social media sites may give us automatically access to certain personal information retained by them about you. You control the personal information you allow us to have access to through the privacy settings on the applicable social media site and the permissions you give us when you grant us access to your personal information retained by the respective social media site about you. By associating an account managed by a social media site with your account and authorizing us to have access to this information, you agree that we may collect, use and retain the information provided by these social media sites in accordance with this Privacy Notice.
+15.3.4. We may also use call-tracking technologies that will allow us and the Website Users to identify precisely the number of calls received through advertisements on the Website. By using such technologies, we might record the first six digits of your telephone number during your call with a Website User, as well as the duration, date and time of your call. This information is processed without any attempt to identify any individual. The conversation is anonymised to conceal your identity and is used merely for the assessment of the Website’s performance. Your conversation with the Website User will not be recorded nor stored on any of the servers used by Bazaraki. Website Users are only provided with anonymous \[statistical\] data, such as the total number of calls accepted via the ads on the Website.
 
-15.3 What is the purpose and the legal basis of processing your personal data?
-------------------------------------------------------------------------------
+15.3.5. When using the Website, you may have the option to link one of your social media accounts instead of creating a new account. Such social media sites may automatically grant us access to some of the Personal Data retained by them about you for identification purposes. You may customise what Personal Data is shared with us through the privacy settings on the relevant social media website. By associating a social media account with the Website and authorizing us to have access to this information, you agree that we may collect, use and retain the information provided by these social media sites in accordance with this Privacy Policy.
 
-Depending on how you interact with us, we will process your personal data in order to:
+15.3.6. We will only use your Personal Data for the purposes for which it was collected, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If we need to use any Personal Data for an unrelated purpose, we will notify you to explain the legal basis for such use and ask for your consent.
 
-* Provide, improve, and personalize our Services
-* Contact you about your account and provide you customer service
-* Personalize our advertising and marketing communications
-* Prevent, detect, mitigate, and investigate fraudulent or illegal activities
-
-For our Services the legal basis for the processing of your personal data is to perform each contract with you. If your personal data are not provided or not provided correctly, we will be unable to provide our Services. For marketing purposes and promotional actions regarding our clients, we consider that we have a legitimate interest in promoting our business. When contacting you via telephone, to ensure efficiency, we may use auto-dialed or pre-recorded calls if you have consented to such contact.
-
-In case you fill in our contact form the processing of your data is based on your own consent, which you provide by accepting this Privacy Policy.
-
-15.4 Who do we share your personal data with?
----------------------------------------------
-
-We may disclose your personal information to other members of the Bazaraki corporate family or to third parties, who are bound by appropriate confidentiality agreements. We may disclose your personal information to service providers, financial institutions partners in order to provide their services as well as to law enforcement bodies, credit agencies or bureaus as authorized by applicable national laws.
-
-We minimize the amount of personal information we disclose to what is directly relevant and necessary to accomplish the specified purpose. Apart from the above, we do not transfer your personal information to any other third party without your prior approval.
-
-15.5 Data Retention
--------------------
-
-We will retain your personal information as long as it is necessary and relevant for our operations. We may retain personal information from closed accounts to comply with national laws, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigation and take other actions permitted or required by applicable national laws. After the data retention period, we delete your personal information in a secure manner according to our data retention policy.
-
-15.6 Withdrawal of consent
---------------------------
-
-When you communicate with us via the contact form of the Website the fulfillment of the requested communication cannot be undertaken without your consent to the present Privacy Policy. To revoke such consent, the User may contact us at info@bazaraki.com
-
-When you receive our promotional emails or newsletters, you may unsubscribe from our mailing list at any time through the instructions that we provide you with in each email.
-
-In the event that you withdraw your consent, this will not affect the legality of the processing carried out previously.
-
-15.7 Ιnternational Transfer of personal data
---------------------------------------------
-
-Your personal data may be transferred out of the European Economic Area, processed by third party companies. In any case, your data will be adequately protected under appropriate safeguards such as E.U. Commission approved standard contractual clauses.
-
-15.8 Security Measures
-----------------------
-
-We will process your data at all times in a confidential way and maintain the mandatory duty to secrecy with regard to said data, in accordance with the provisions set out in applicable regulations. For this purpose, we adopt measures of a technical and organizational nature required to guarantee the security of your data and prevent them from being altered, lost, processed or accessed illegally, depending on the state of the technology, the nature of the stored data and the risks to which they are exposed. Some of the safeguards we use are firewalls and data encryption, physical access controls to our data centers, and information access authorization controls as well as the limitation of the data we use for you in a way that your identity cannot be revealed by them.
-
-15.9 Exercise of Rights
+15.4 Recording of Calls
 -----------------------
 
-We undertake to keep your personal data confidential and to ensure that you may exercise your rights at any time free of charge. In particular, notwithstanding the purpose or legal basis we use to process your data, you have the following rights:
+15.4.1. When you communicate with us over a phone call (whether calling us or receiving a call from us), be advised that our communication is being recorded.
 
-* To obtain confirmation about whether or not your personal data are being processed by us and to request access to your personal data that we hold;
-* To rectify any inaccurate or incomplete data;
-* To request that we erase your personal data to the extent that they are no longer necessary for the purpose for which we need to keep processing them, as we have explained above, or when we are no longer legally permitted to process them;
-* To request that we limit the processing of your personal data, which entails that in certain cases you can request us to temporarily suspend the processing of the data or that we keep them longer than necessary;
-* If you have given us your consent to process your data, you also have the right to withdraw such consent at any time;
-* To request the portability of your personal data.
+15.4.2. When we recording your telephone communications, we may rely on any of the following legal bases:
 
-Finally, we inform you that you have the right to lodge a complaint regarding the processing of your personal data by us before the Personal Data Commissioner’s Office.
+15.4.3. Where you communicate with us over the telephone, call recordings will be saved for a period of 46 days. After such period, call recordings will be deleted automatically.
 
-15.10 Changes to the Privacy Policy
+15.4.4. We may retain call recordings for longer periods of time under some circumstances, such as in case of an unresolved complaint or dispute, or when we consider it possible that such call recordings may be required to establish, exercise or defend legal claims and there is no reason to assume that you have a predominantly legitimate interest in not disclosing your data.
+
+15.4.5. For any clarifications on how such data is used, contact our DPO.
+
+15.5 Special Category Personal Data
 -----------------------------------
 
-We may amend the information contained in this Privacy Policy when we consider this appropriate. Should we do so, we will notify you by various procedures through the Website, or we may even send you a notice to your email address, for you to be able to review the changes, assess them and, as the case may be, object or unsubscribe from any service or functionality. In any case, we suggest you to review this Privacy Policy from time to time in case minor changes are made. We will also change the “Last Updated” date at the beginning of this Privacy Policy. Any changes we make to our Privacy Policy are effective as of this Last Updated date and replace any prior Privacy Policies.
+We do not collect any Special Category Personal Data about you (such as details about your race or ethnicity, religious or philosophical beliefs, political opinions, information about your health and genetic and biometric data). Nor do we collect any information about criminal convictions and offences.
 
-In case you need any clarification about the processing of your Personal Data, please do not hesitate to contact us at info@bazaraki.com
+15.6 Purpose and Legal Basis of processing your Personal Data
+-------------------------------------------------------------
+
+15.6.1. Depending on how you interact with us, we will collect and process your Personal Data:
+
+15.6.2. When processing your Personal Data, we may rely on one or more of the following Legal Bases:
+
+15.7 Who do we share your Personal Data with?
+---------------------------------------------
+
+15.7.2. When disclosure of your Personal Data is permitted or necessary, we try to restrict the Personal Data disclosed to what is directly relevant and necessary for the accomplishment the specified purpose. Apart from the above, we do not transfer your personal information to any other third party without your prior approval.
+
+15.8 Data Retention
+-------------------
+
+15.8.1. We will retain your Personal Data as long as it is necessary and relevant for our operations. This period will usually not exceed \[6 months\].
+
+15.8.2. Irrespective of any other contrary provisions in this Privacy Policy, we will retain your Personal Data for as long as you maintain an account on the Website. We may retain your Personal Data even after your account has been deleted (whether this has been requested by you or has been deleted by us for not complying with the Website Terms of Use) to comply with national laws, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigation and take other actions permitted or required by applicable national laws.
+
+15.8.3. After the Data Retention Period or when we have no legal basis to process your data, we will delete all copies of your Personal Data in a secure manner in accordance with our Data Retention Policy.
+
+15.8.4. Please refer to Clause 15.4 to find more information on how Call Recordings are processed.
+
+15.9 Withdrawal of consent
+--------------------------
+
+15.9.1. When you use the Website, contact us through the Contact or Help Forms on the Website or via email, you consent to this Privacy Policy. To revoke such consent, you may inform our Data Protection Officer accordingly by email.
+
+15.9.2. When you receive our promotional emails or newsletters, you have the option to opt out of our marketing mailing list by unsubscribing at any time through the instructions at the end of each of our emails.
+
+15.9.3. In the event that you withdraw your consent, the legality of the processing carried out prior to your withdrawal of consent will not be affected.
+
+15.10 International Transfer of Personal Data
+---------------------------------------------
+
+15.10.1. Your Personal Data may be transferred out of the European Economic Area for storage purposes, \[among other\] and be processed by third party companies.
+
+15.10.2. In such case, third party companies will be under a contractual duty to protect your Personal Data by employing appropriate safeguards. To this effect, we employ standard contractual clauses approved by the European Commission, in line with GDPR requirements.
+
+15.11 Security Measures
+-----------------------
+
+We will process your Personal Data at all times in a confidential way and maintain the mandatory duty to secrecy and confidence, in accordance with applicable regulations. For this purpose, we adopt measures of a technical and organizational nature required to guarantee the security and integrity of your Personal Data, depending on the state of the technology, the nature of the stored data and the risks to which they are exposed. Some of the safeguards we employ include firewalls and data encryption, physical access controls to our data centres, and information access authorization controls, as well as the limitation of the data we use for you in a way that your identity cannot be revealed by them.
+
+15.12 Your Rights
+-----------------
+
+15.12.1. Notwithstanding the purpose or legal basis we rely on to process your data, under certain circumstances, under applicable legislation you have the following rights:
+
+15.12.2. We do not normally charge any fees for access to your Personal Data (or to exercise any of the above rights). We may charge a reasonable fee if a request is clearly unfounded, repetitive or excessive. Alternatively, we may refuse to comply with a request in these circumstances.
+
+15.12.3. We may need to request specific information from you to help us confirm your identity and ensure your right to access your Personal Data (or to exercise any of your other rights). This is a security measure to ensure that Personal Data is not disclosed to any person who has no right to receive it.
+
+15.12.4. We try to respond to all legitimate requests within one (1) month of receipt. It may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated.
+
+15.12.5. We do not warrant, undertake and/or represent error-free performance under this Privacy Policy. We will use all reasonable efforts to comply with this Privacy Policy and shall take immediate rectification actions in the event of a breach of this Privacy Policy. We shall not be liable for any incidental, consequential or punitive damages relating to a breach of this Privacy Policy. If you wish to exercise any of the rights set out above, contact our DPO via email.
+
+15.13 LINKS TO OTHER WEBSITES
+-----------------------------
+
+The Website may include links to third-party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy policies and/or procedures. When you leave our Website, we encourage you to read the privacy notice of every website you visit.
+
+15.14 Changes to the Privacy Policy
+-----------------------------------
+
+15.14.1. We may amend the information contained in this Privacy Policy when we consider this appropriate or as required due to changes in applicable legislation. Should we do so, we will notify you through the Website, but are not obliged to send you an email to inform you of the changes effected. You may assess such changes and, as the case may be, object or unsubscribe from any service or functionality.
+
+15.14.2.We recommend that you review this Privacy Policy at frequent intervals to be kept up to date with any amendments introduced. We will update the “Last Updated” date at the beginning of this Privacy Policy. Any changes make to this Privacy Policy are effective as of this Last Updated date and replace any prior Privacy Policy versions.
+
+15.14.3.In case you need any clarifications about the processing of your Personal Data, contact our DPO at dataprotection@bazaraki.com.
 
 16\. Cookies Policy
 -------------------
@@ -565,11 +604,6 @@ We use technologies that are essentially small data files placed on your compute
 In order to help you better understand this Policy and our use of such technologies we have provided the following limited terminology and definition:
 
 Cookies are small text files (typically made up of letters and numbers) placed in the memory of your browser or device when you visit a website or view a message. Cookies allow a website to recognize a particular device or browser. There are several types of cookies:
-
-* Session cookies expire at the end of your browser session and allow us to link your actions during that particular browser session;
-* Persistent cookies are stored on your device in between browser sessions, allowing us to remember your preferences or actions across multiple site;
-* First-party cookies are set by the site you are visiting;
-* Third-party cookies are set by a third-party site separate from the site you are visiting.
 
 Cookies can be disabled or removed by tools that are available in most commercial browsers. The preferences for each browser you use will need to be set separately and different browsers offer different functionality and options.
 
@@ -642,3 +676,47 @@ We may use third parties, such as advertising networks and exchanges, to allow u
 By agreeing to Bazaraki Terms & Conditions, you accept and consent to the use of your personal information for the reasons mentioned above.
 
 Please also see [clauses 10](#10) and [15: Personal Data and Privacy Policy.](#15)
+
+1. Any identifying information such as your name, telephone number and email address when you register for an account with us.
+2. Buying or selling information you provide during a transaction, or other transaction-based content that you generate or is connected to your account as a result of a transaction you are involved in.
+3. Financial and billing information (such as credit card or bank account numbers) in connection with a transaction with us, which is held by our trusted payment processing service providers.
+4. Your information when you submit a Feedback and/or a Support Form and/or information through your participation in community discussions, chats or when you otherwise correspond with us.
+5. Additional information we are required or authorized by applicable national law to collect and process in order to authenticate or identify real estate agents.
+    
+    1. To perform our obligations under a contract.
+    2. For purposes of training of our staff and maintaining the quality of our services.
+    3. To provide our services to you.
+    4. Resolving complaints or disputes.
+    5. To safeguard our legitimate interests and to establish, exercise or defend legal claims.
+    
+    1. To provide our Services to you. This includes providing support, updating, improving, securing and personalising our Services.
+    2. To contact you about your account and provide you customer service.
+    3. To personalise our advertising and marketing communications.
+    4. To comply with applicable legal requirements.
+    5. Prevent, detect, mitigate, and investigate fraudulent or illegal activities.
+    
+    1. Processing is necessary for the provision of our Services. If your Personal Data are not provided or not provided correctly, we will be unable to provide our Services.
+    2. For marketing purposes and promotional actions regarding our clients, we consider that we have a legitimate interest in promoting our business. For the safeguarding of our legitimate interests.
+    3. Processing is necessary to protect the vital interests of a third party.
+    4. Processing is necessary for the performance of a task carried out in the public interest.
+    5. You have consented to the processing of your Personal Data for the specific purpose.
+    6. When contacting you via telephone, we may use auto-dialled or pre-recorded calls to ensure efficiency, if you have consented to such contact.
+    
+    1. Disclosure to companies in the Bazaraki Group of Companies, Bazaraki-controlled affiliates and subsidiaries or to third parties, where such disclosure is necessary is for the performance of the intended purposes (such as the provision of our Services). Such receiving parties are bound by appropriate confidentiality agreements. We may disclose your personal data to service providers, including financial institutions or other service providers, to facilitate the provision of their services as well as to law enforcement bodies, credit agencies or bureaus as authorized by applicable national laws.
+    2. Disclosure is necessary to assert, exercise or defend legal claims and there is no reason to assume that you have a predominantly legitimate interest in not disclosing your data.
+    3. You have expressly consented to this.
+    4. We are legally required to disclose such data.
+    
+    * Request Access: You have the right to request access to your Personal Data.
+    * Request to Correct Personal Data: You may request that we correct any incomplete or inaccurate data we hold about you, though we may need to verify the accuracy of the new data you provide to us.
+    * Request to Erase Personal Data: You may request that we delete or remove any Personal Data where there is no valid legal basis for us continuing to process it. We may not always be able to comply with your request due to legal requirements that will be notified to you at the relevant time.
+    * Object to Processing of Personal Data: Where there is something about your particular situation which makes you want to object to processing because it impacts on your fundamental rights and freedoms. You also have the right to object where we are processing your Personal Data for direct marketing purposes. In some cases, we may demonstrate that we have compelling legitimate grounds to process your information.
+    * Request Restriction of Processing: This enables you to ask us to suspend the processing of your Personal Data if you want us to establish the data’s accuracy or where the use of such data is unlawful but you do not want us to erase it or where you need us to hold the data even if we no longer require it as you need it to establish, exercise or defend legal claims or you have objected to our use of your data but we need to verify whether we have overriding legitimate grounds to use it.
+    * Request the Transfer of Personal Data: You may request that we provide you, or a third party of your choice, your Personal Data in a structured, commonly used, machine-readable format. Note that this right only applies to automated information which you initially provided consent for us to use or where we used to perform a contract with you.
+    * Withdraw Consent: You may withdraw your consent to the processing of your Personal Data by emailing our DPO, at any time where we are relying on consent to process your Personal Data.
+    * Right to lodge a Complaint: You have the right to lodge a complaint at any time to a data protection regulator. The relevant supervising authority in Cyprus is the Office of the Commissioner for Personal Data Protection (further information can be found at www.dataprotection.gov.cy).
+    
+    * Session cookies expire at the end of your browser session and allow us to link your actions during that particular browser session;
+    * Persistent cookies are stored on your device in between browser sessions, allowing us to remember your preferences or actions across multiple site;
+    * First-party cookies are set by the site you are visiting;
+    * Third-party cookies are set by a third-party site separate from the site you are visiting.
