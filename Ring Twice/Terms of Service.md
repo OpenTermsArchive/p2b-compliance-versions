@@ -159,7 +159,7 @@ Ring Twice, DPO
 10, Cantersteen,  
 1000 Bruxelles, Belgique
 
-[\[email protected\]ce.com](https://ringtwice.be/cdn-cgi/l/email-protection#removed)
+[\[email protected\]](https://ringtwice.be/cdn-cgi/l/email-protection#removed)
 
 2\. Reglement relatif aux cookies
 ---------------------------------
