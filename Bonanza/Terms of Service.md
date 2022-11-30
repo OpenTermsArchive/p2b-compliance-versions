@@ -52,7 +52,7 @@ Bonanza's services are free, but available only to individuals who can form lega
 
 A buyer is obligated to complete the transaction of a purchase of an item on Bonanza in any shop within three (3) days. A buyer is obligated to immediately pay in full if using [PayPal](https://www.paypal.com/) or [Amazon Pay](https://pay.amazon.com/) by clicking the payment button during checkout.
 
-A seller must abide by all of Bonanza's policies and the seller's own individual shop policies and sell and the item as described. Likewise, a seller must abide by the seller's own individual policies when dealing other issues, for example, issues of damage and returns.
+A seller must abide by all of Bonanza's policies and the seller's own individual shop policies and sell the item as described. Likewise, a seller must abide by the seller's own individual policies when dealing other issues, for example, issues of damage and returns.
 
 Buyers remorse is not a valid reason for requesting a refund from a seller. Prior to making a purchase, buyers should review all sellers policies regarding refunds, returns, and seller policies.
 
