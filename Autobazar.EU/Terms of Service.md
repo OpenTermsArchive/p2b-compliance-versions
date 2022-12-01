@@ -193,7 +193,7 @@ X. Platené služby Portálu – zverejnenie ponuky/inzerátu a doplnkové slu�
     b) úhradou platobnou kartou priamo na podstránke po pridaní inzerátu alebo kedykoľvek počas platnosti inzerátu v konte Používateľa,  
     c) pomocou kreditov po prihlásení do konta Používateľa.  
       
-    Cena za službu je 9,90€ s DPH na predplatené obdobie zverejnenia inzerátu v trvaní 30 dní.  
+    Cena za službu je 9,90€ s DPH, cena pri platbe SMS je 11,90€ s DPH, na predplatené obdobie zverejnenia inzerátu v trvaní 30 dní.  
       
     **Služba “Na plný plyn”**  
       
@@ -205,7 +205,7 @@ X. Platené služby Portálu – zverejnenie ponuky/inzerátu a doplnkové slu�
     b) úhradou platobnou kartou priamo na podstránke po pridaní inzerátu alebo kedykoľvek počas platnosti inzerátu v konte Používateľa,  
     c) pomocou kreditov po prihlásení do konta Používateľa.  
       
-    Cena za službu je 14,90€ s DPH na predplatené obdobie zverejnenia inzerátu v trvaní 30 dní.  
+    Cena za službu je 14,90€ s DPH, cena pri platbe SMS je 16,90 EUR s DPH, na predplatené obdobie zverejnenia inzerátu v trvaní 30 dní.  
       
     **Služba “Až na Mesiac”**  
       
@@ -259,10 +259,10 @@ Pre zákazníkov zo Slovenska:
 | --- | --- | --- | --- | --- |  
 |     | Počet uhradených inzerátov |     |     |     |
 | Kategória | Služba  <br>**Overená klasika** | Služba  <br>**Všade na očiach** | Služba  <br>**Na plný plyn** | Služba  <br>**Až na mesiac** |
-| Osobné vozidlá / SUV / Úžitkové vozidlá do 3.5t  <br>⌞ 1. (prvý) | **SMS / kredit / platobná karta**  <br>6,90 € | **SMS / kredit / platobná karta**  <br>9,90 € | **SMS / kredit / platobná karta**  <br>14,90 € | **kredit / platobná karta**  <br>34,90 € |
+| Osobné vozidlá / SUV / Úžitkové vozidlá do 3.5t  <br>⌞ 1. (prvý) | **SMS / kredit / platobná karta**  <br>6,90 € | **SMS / kredit / platobná karta**  <br>11,90 € / 9,90 € / 9,90 € | **SMS / kredit / platobná karta**  <br>16,90 € / 14,90 € / 14,90 € | **kredit / platobná karta**  <br>34,90 € |
 | ⌞ 2. (druhý) | **SMS / kredit / platobná karta**  <br>10,00 € | **SMS / kredit / platobná karta**  <br>\- | **SMS / kredit / platobná karta**  <br>\- | **kredit / platobná karta**  <br>\- |
 | ⌞ 3. a ďalší inzerát | **SMS / kredit / platobná karta**  <br>18,00 € | **SMS / kredit / platobná karta**  <br>\- | **SMS / kredit / platobná karta**  <br>\- | **kredit / platobná karta**  <br>\- |
-| Nákladné vozidlá 3,5–7,5t | **SMS / kredit / platobná karta**  <br>6,90 € | **SMS / kredit / platobná karta**  <br>9,90 € | **SMS / kredit / platobná karta**  <br>14,90 € | **kredit / platobná karta**  <br>34,90 € |
+| Nákladné vozidlá 3,5–7,5t | **SMS / kredit / platobná karta**  <br>6,90 € | **SMS / kredit / platobná karta**  <br>11,90 € / 9,90 € / 9,90 € | **SMS / kredit / platobná karta**  <br>16,90 € / 14,90 € / 14,90 € | **kredit / platobná karta**  <br>34,90 € |
 | Nákladné vozidlá nad 7,5t |
 | Ťahače a kamióny |
 | Autobusy |
@@ -463,7 +463,7 @@ Ceny sú uvedené s DPH za jeden zverejnený inzerát
       
     **Obnovenie inzerátu**  
       
-    Cena zodpovedá cene prvej aktivácie niektorej zo služieb zverejnenia inzerátu. Podľa výberu typu služby Používateľom môže nadobudnúť cenové hladiny: 6,90 EUR, 9,90 EUR, 10,00 EUR, 14,90 EUR, 18,00 EUR, 34,90 EUR viď. článok X, ods. 4 týchto Podmienok.  
+    Cena zodpovedá cene prvej aktivácie niektorej zo služieb zverejnenia inzerátu. Podľa výberu typu služby Používateľom môže nadobudnúť cenové hladiny: 6,90 EUR, 9,90 EUR (11,90 EUR SMS), 10,00 EUR, 14,90 EUR (16,90 EUR SMS), 18,00 EUR, 34,90 EUR viď. článok X, ods. 4 týchto Podmienok.  
       
     **Promovanie inzerátu**  
       
