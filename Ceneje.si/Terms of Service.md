@@ -74,43 +74,83 @@ O piškotkih
 
 Vse o uporabi piškotkov je opisano v [Pravilih o zasebnosti](https://www.ceneje.si/pravila-o-zasebnosti#cookies).
 
-Nagradna igra - Certified Shop® x OutletShop nagradna igra
-----------------------------------------------------------
+Nagradna igra “COUNTING DOWN TILL CHRISTMAS WITH AFRODITA COSMETICS”
+--------------------------------------------------------------------
 
-Pravila nagradne igre “Razkrij nam svojo najljubšo spletno trgovino” v nadaljevanju so poimenovana “pravila”.  
+Pravila nagradne igre “Counting down till christmas with Afrodita cosmetics“ so v nadaljevanju poimenovana “pravila”.
+
   
-1\. Organizator nagradne igre  
-Organizator nagradne igre “Certified Shop® x OutletShop” (v nadaljevanju: nagradna igra) je Ceneje.si, Ceneje d.o.o. (matična številka: 6699421000), Štukljeva cesta 40, 1000 Ljubljana, v sodelovanju s spletno trgovino outletshop.si, Flamingo založba d.o.o. (matična številka: 5532515), Ulica Franca Baliča 11, 5290 Šempeter pri Gorici, v nadaljevanju: Organizatorja. Nagradna igra se organizira za namen promocije znamk Certified Shop® in OutletShop.  
+
+#### 1\. Organizator nagradne igre
+
+Organizator nagradne igre “Counting down till christmas with Afrodita cosmetics“ (v nadaljevanju: nagradna igra) je Ceneje.si, Ceneje d.o.o. (matična številka: 6699421000), Štukljeva cesta 40, 1000 Ljubljana, v sodelovanju s podjetjem, Kozmetika Afrodita d.o.o. (matična številka: 5300444), Kidričeva ulica 54, 3250 Rogaška Slatina, v nadaljevanju: Organizatorja. Nagradna igra se organizira za namen promocije Ceneje.si in Kozmetika Afrodita.
+
   
-2\. Trajanje nagradne igre  
-Nagradna igra se začne 4. 10. 2022. Sodelovanje v nagradni igri je možno do 9. 10. 2022 (tj. najkasneje do 23:59:59 navedenega dne). Razglasitev zmagovalca bo 10. 10. 2022. Nagradna igra poteka na [Facebook](https://www.facebook.com/Ceneje.si) strani Organizatorja.  
+
+#### 2\. Trajanje nagradne igre
+
+Nagradna igra se začne 25.11.2022. Sodelovanje v nagradni igri je možno do 23.12.2022. (tj. najkasneje do 23:59:59 navedenega dne). Nagradna igra se bo odvila v 5 nagradnih krogih, traja pet tednov in se objavlja vsak petek istočasno na Instagram in Facebook straneh Organizatorja.
+
+V času trajanja nagradne igre bo vsak teden v četrtek razglašen zmagovalec predhodnega tedna.
+
+Nagradna igra poteka na Facebook in Instagram straneh Organizatorjev ([https://www.instagram.com/ceneje\_si](https://www.instagram.com/ceneje_si) in [https://www.facebook.com/Ceneje.si](https://www.facebook.com/Ceneje.si)).
+
   
-3\. Sodelovanje  
-Pravico do sodelovanja v nagradni igri imajo vse fizične osebe s prebivališčem v Republiki Sloveniji in ki so registrirane na družbenem omrežju Facebook (www.facebook.com) ali Instagram (www.instagram.com) razen zaposlenih pri Organizatorjih in ožjih članov družin zaposlenih (starši, zakonec, otroci, sestre in bratje). Udeleženci v nagradni igri ne morejo zahtevati nagrade v večjih količinah ali drugačne nagrade od tiste, ki je navedena v pravilih s strani Organizatorja.  
-Za sodelovanje v nagradni igri v komentarju pod objavo na Facebooku/Instagramu opišite, zakaj radi nakupujete v trgovini OutletShop in sledite drugim navodilom, napisanim v objavi Organizatorja. S sodelovanjem v nagradni igri se strinjate s temi pravili. Pravila nagradne igre bodo objavljena v splošnih pogojih Organizatorja Ceneje.si.  
+
+#### 3 .Sodelovanje
+
+Pravico do sodelovanja v nagradni igri imajo vse fizične osebe s prebivališčem v Republiki Sloveniji in ki so registrirane na družbenem omrežju Facebook ([https://www.facebook.com/Ceneje.si](https://www.facebook.com/Ceneje.si)) ali Instagram ([https://www.instagram.com/ceneje\_si](https://www.instagram.com/ceneje_si)) razen zaposlenih pri Organizatorjih in ožjih članov družin zaposlenih (starši, zakonec, otroci, sestre in bratje). Udeleženci v nagradni igri ne morejo zahtevati nagrade v večjih količinah ali drugačne nagrade od tiste, ki je navedena v pravilih s strani Organizatorjev.
+
+Za sodelovanje v nagradni igri je potrebno v komentar objave na Facebooku/Instagramu na kreativen način odgovoriti na vprašanje, postavljeno v objavi Organizatorja in slediti ostalim navodilom, napisanim v objavi Organizatorja. S sodelovanjem v nagradni igri sodelujoči sprejemajo ta pravila. Pravila nagradne igre so objavljena na Facebook i Instagram straneh in v splošnih pogojih Organizatorja Ceneje.si.
+
   
-4\. Nagradni fond in izbor dobitnika  
-Nagradni fond: 1 x Prio univerzalni prenosni zvočnik HIT 12W.  
-Dobitnika nagradne igre bo izbrala komisija.  
+
+#### 4\. Nagradni fond in izbor dobitnika
+
+Nagradni fond: 10 x darilni paket Afrodita kozmetike.
+
+Zmagovalca nagradne igre bo izbrala komisija Ceneje.si, dobitnik pa bo objavljen na straneh družabnih omrežij Organizatorja.
+
   
-5\. Kako prevzeti nagrado?  
-Po zaključku nagradne igre bo dobitnik o tem obveščen v objavi na Facebooku/Instagramu Ceneje.si. Dobitnik ima pet (5) dni časa, da se javi Organizatorju in potrdi prevzem nagrade. Dobitnik mora v potrditvenem sporočilu poslati ime, priimek, naslov, davčno številko in za potrebe dostavne službe - tudi telefonsko številko.  
-Nagrada je 1x Prio univerzalni prenosni zvočnik HIT 12W v vrednosti 49,90 €. Spletna trgovina Outlet Shop bo obvestila dobitnika o dobitku, darilni bom pa bo dobitnik lahko koristil v dogovoru s spletno trgovino outletshop.si.  
+
+#### 5\. Kako prevzeti nagrado?
+
+Po zaključku nagradne igre bo dobitnik o tem obveščen v objavi na Facebooku/Instagramu Ceneje.si. Dobitnik ima pet (5) dni časa, da se javi Organizatorju in potrdi prevzem nagrade. Dobitnik mora v potrditvenem sporočilu poslati ime, priimek, naslov, davčno številko in za potrebe dostavne službe - tudi telefonsko številko.
+
+Nagradni fond je 10 paketov Afrodita kozmetike. Ceneje.si bo obvestil zmagovalca o dobitku in poslal vse potrebne podatke podjetju Kozmetika Afrodita, ki bo dobitnikom poslalo darilne pakete kozmetike.
+
   
-6\. Javna objava  
-S sodelovanjem v tej nagradni igri udeleženci soglašajo, da se, če postanejo dobitniki, njihovo ime in slika lahko s strani Organizatorja brez doplačila objavi in uporabi v tiskanem, zvočnem, slikovnem in video materialu.  
+
+#### 6\. Javna objava
+
+S sodelovanjem v tej nagradni igri udeleženci soglašajo, da se, če postanejo dobitniki, njihovo ime in slika lahko s strani Organizatorja brez doplačila objavi in uporabi v tiskanem, zvočnem, slikovnem in video materialu.
+
   
-7\. Mladoletni sodelujoči v nagradni igri  
-Mladoletne osebe lahko sodelujejo v nagradni igri v skladu z zakonom. Če je dobitnik nagrade mladoleten, bo Organizator nagrado izročil osebi, ki je zakonsko ali na podlagi odloka državnega organa dolžna skrbeti za mladoletno osebo, a samo po predložitvi dokumenta, ki dokazuje starševsko ali skrbniško razmerje.  
-Ta nagradna igra ni sponzorirana ali promovirana s strani Facebooka, niti ni povezana s Facebookom.  
+
+#### 7\. Mladoletni udeleženci nagradne igre
+
+Mladoletne osebe lahko sodelujejo v nagradni igri v skladu z zakonom. Če je dobitnik nagrade mladoleten, bo Organizator nagrado izročil osebi, ki je zakonsko ali na podlagi odloka državnega organa dolžna skrbeti za mladoletno osebo, a samo po predložitvi dokumenta, ki dokazuje starševsko ali skrbniško razmerje.
+
+Ta nagradna igra ni sponzorirana ali promovirana s strani Facebooka, niti ni povezana s Facebookom.
+
   
-8\. Druge odredbe  
-Organizator ne odgovarja za nepopolno ali nepravočasno sodelovanje v nagradni igri ali za sodelovanje z napačnimi podatki.  
-Sodelovanje v nagradni igri, nagrada in/ali prevzem nagrade niso pogojeni z nakupom izdelka ali storitve. Udeleženec in druge osebe, ki poskušajo sodelovati v nagradni igri, sami krijejo vse stroške sodelovanja (npr. stroški prenosa podatkov, internetne povezave, poštnine, klicev ali drugih načinov komunikacije, kilometrine itd.), kar velja tudi v primeru odpovedi nagradne igre.  
-V primeru okoliščin, na katere Organizator nima vpliva (višja sila), se lahko nagradna igra odpove. O tem mora Organizator na svojih spletnih straneh in kanalih družbenih omrežij (Facebook in Instagram) obvestiti vse udeležence. V takem primeru Organizator ne odgovarja za nastale stroške ali drugo škodo.  
-Organizator si pridržuje pravico do sprememb teh pravil, če to zahtevajo razlogi tehnične ali poslovne narave, javni razlogi ali drugi utemeljeni razlogi. Organizator bo udeležence o vseh spremembah in novostih nagradne igre obvestil na kanalih družbenih omrežij Facebook in Instagram. Za dodatne informacije lahko zainteresirani pišejo na info@ceneje.si.  
-Odločitev Organizatorja o vseh vprašanjih v zvezi z nagradno igro ali uporato teh pravil je končna in velja za vse udeležence.  
+
+#### 8\. Druge odredbe
+
+Organizator ne odgovarja za nepopolno ali nepravočasno sodelovanje v nagradni igri ali za sodelovanje z napačnimi podatki.
+
+Sodelovanje v nagradni igri, nagrada in/ali prevzem nagrade niso pogojeni z nakupom izdelka ali storitve. Udeleženec in druge osebe, ki poskušajo sodelovati v nagradni igri, sami krijejo vse stroške sodelovanja (npr. stroški prenosa podatkov, internetne povezave, poštnine, klicev ali drugih načinov komunikacije, kilometrine itd.), kar velja tudi v primeru odpovedi nagradne igre.
+
+V primeru okoliščin, na katere Organizator nima vpliva (višja sila), se lahko nagradna igra odpove. O tem mora Organizator na svojih spletnih straneh in kanalih družbenih omrežij (Facebook in Instagram) obvestiti vse udeležence. V takem primeru Organizator ne odgovarja za nastale stroške ali drugo škodo.
+
+Organizator si pridržuje pravico do sprememb teh pravil, če to zahtevajo razlogi tehnične ali poslovne narave, javni razlogi ali drugi utemeljeni razlogi. Organizator bo udeležence o vseh spremembah in novostih nagradne igre obvestil na kanalih družbenih omrežij Facebook in Instagram. Za dodatne informacije lahko zainteresirani pišejo na [info@ceneje.si](mailto:info@ceneje.si).
+
+Odločitev Organizatorja o vseh vprašanjih v zvezi z nagradno igro ali uporato teh pravil je končna in velja za vse udeležence.
+
   
-9\. Reševanje pritožb  
-Vse pritožbe in reklamacije rešuje Organizator, pošljejo pa se lahko na e-mail naslov info@ceneje.si. V primeru utemeljenih pritožb se Organizator zavezuje k reševanju le-teh v najkrajšem možnem času. O tem bo obvestil udeleženca in po potrebi tudi druge udeležence. Za pravne spore med Organizatorjem in udeležencem ter drugimi osebami se upošteva veljavno zakonodajo. V primeru sporov, ki bi izhajali iz te nagradne igre, je pristojno sodišče v Ljubljani.  
-Datum objave in začetka veljavnosti teh pravil: 4. oktober 2022
+
+#### 9\. Reševanje sporov
+
+Vse pritožbe in reklamacije rešuje Organizator, pošljejo pa se lahko na e-mail naslov [info@ceneje.si](mailto:info@ceneje.si). V primeru utemeljenih pritožb se Organizator zavezuje k reševanju le-teh v najkrajšem možnem času. O tem bo obvestil udeleženca in po potrebi tudi druge udeležence. Za pravne spore med Organizatorjem in udeležencem ter drugimi osebami se upošteva veljavno zakonodajo. V primeru sporov, ki bi izhajali iz te nagradne igre, je pristojno sodišče v Ljubljani.
+
+Datum objave in začetka veljavnosti teh pravil: 25. november 2022
