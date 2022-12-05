@@ -426,7 +426,11 @@ Choose a languageEnglish (US)Choose a currency€EUR
 
 © 2022 Airbnb, Inc.
 
-·[Privacy](https://www.airbnb.com/terms/privacy_policy)·[Terms](https://www.airbnb.com/terms)·[Sitemap](https://www.airbnb.com/sitemaps/v2)
+·
+
+1. [Privacy](https://www.airbnb.com/terms/privacy_policy)·
+2. ·[Terms](https://www.airbnb.com/terms)·
+3. ·[Sitemap](https://www.airbnb.com/sitemaps/v2)
 
 Choose a languageEnglish (US)Choose a currency€EUR
 
@@ -436,11 +440,19 @@ Choose a languageEnglish (US)Choose a currency€EUR
 
 © 2022 Airbnb, Inc.
 
-·[Privacy](https://www.airbnb.com/terms/privacy_policy)·[Terms](https://www.airbnb.com/terms)·[Sitemap](https://www.airbnb.com/sitemaps/v2)
+·
+
+1. [Privacy](https://www.airbnb.com/terms/privacy_policy)·
+2. ·[Terms](https://www.airbnb.com/terms)·
+3. ·[Sitemap](https://www.airbnb.com/sitemaps/v2)
 
 © 2022 Airbnb, Inc.
 
-·[Privacy](https://www.airbnb.com/terms/privacy_policy)·[Terms](https://www.airbnb.com/terms)·[Sitemap](https://www.airbnb.com/sitemaps/v2)
+·
+
+1. [Privacy](https://www.airbnb.com/terms/privacy_policy)·
+2. ·[Terms](https://www.airbnb.com/terms)·
+3. ·[Sitemap](https://www.airbnb.com/sitemaps/v2)
 
 Choose a languageEnglish (US)Choose a currency€EUR
 
