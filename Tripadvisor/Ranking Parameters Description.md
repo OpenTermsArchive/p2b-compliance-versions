@@ -136,6 +136,7 @@ Pages featuring Things to Do may also feature horizontal selections of other poi
 
 |     |     |
 | --- | --- |
+| “Top attractions” | Attractions ranking influenced by revenue, ratings, review count. Products selected for each Attraction are influenced by product bookings, reviews and ratings and evaluated by the Tripadvisor team |
 | “Browse by category” / “Popular things to do” | Bookings, page views, ratings, clicks |
 | “Ways to tour” | Bookings, ratings, review count, category, linked POIs |
 | “Recommended for you” | User browsing history (previously viewed products and points of interest) |
