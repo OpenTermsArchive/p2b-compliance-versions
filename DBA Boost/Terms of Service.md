@@ -33,7 +33,7 @@ Ikrafttrædelse 1. februar 2019
 6. **Betaling**
     
     1. Betaling af abonnement og tillægsydelser sker hver måned på den kalenderdag, hvor Annoncøren oprettede sit abonnementet (herefter "Betalingstidspunktet"). Betalingen dækker Annoncørens abonnement for den næste periode og samlede køb af tillægsydelser i den foregående måned.
-    2. Betaling foregår ved, at betalingskortoplysninger indtastes, når Annoncøren opretter sin konto.
+    2. Betaling foregår ved, at betalingskortoplysninger eller MobilePay oplysninger indtastes, når Annoncøren opretter sin konto.
 7. **Indeståelser og begrænsninger**
     
     1. Annoncøren indestår for, at Annoncøren i Aftalens løbetid, har retten til at indgå i og udføre de forpligtelser som denne Aftale pålægger Annoncøren.
