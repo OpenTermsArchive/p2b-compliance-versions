@@ -1,4 +1,4 @@
-This article applies to selling in: **France**
+Cet article s'applique à la vente en : **France**
 
 Mediation Policy
 ================
