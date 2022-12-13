@@ -14,7 +14,7 @@ Importantly, although Bonanza is commonly referred to as an online marketplace, 
 "Your Activities" include, for example, listing items, posting comments in any public message area (including the Forums or the feedback area), and email.  
 
 **Dispute Resolution**  
-Bonanza's goal is to make you happy. In the event a dispute arises between you and Bonanza, please email Bonanza at [\[email protected\]](https://www.bonanza.com/cdn-cgi/l/email-protection#removed) and we will work quickly towards a solution. We encourage you to report all user-to-user disputes to your local law enforcement, postmaster general, or a certified mediation or arbitration entity.  
+Bonanza's goal is to make you happy. In the event a dispute arises between you and Bonanza, please email Bonanza at [\[email protected\]](https://www.bonanza.com/cdn-cgi/l/email-protection) and we will work quickly towards a solution. We encourage you to report all user-to-user disputes to your local law enforcement, postmaster general, or a certified mediation or arbitration entity.  
 
 **General Overview: Terms**
 
