@@ -20,7 +20,7 @@ Here you can find complete [Privacy statement](https://fairbnb.coop/privacy-stat
 
 ### Data Controller
 
-Data controller is Fairbnb Network Società Cooperativa, with its registered offices in Bologna, via Alfredo Calzoni 1-3, CF: 03735181202. Fairbnb is owner of the website platform identified by the domain name fairbnb.coop, that is used to collect your personal information as detailed below. Contact information about privacy concern is: [\[email protected\]](https://fairbnb.coop/cdn-cgi/l/email-protection#removed)
+Data controller is Fairbnb Network Società Cooperativa, with its registered offices in Bologna, via Alfredo Calzoni 1-3, CF: 03735181202. Fairbnb is owner of the website platform identified by the domain name fairbnb.coop, that is used to collect your personal information as detailed below. Contact information about privacy concern is: [\[email protected\]](https://fairbnb.coop/cdn-cgi/l/email-protection)
 
 ##### Categories of personal data collected by fairbnb.coop and processing purposes
 
