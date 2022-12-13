@@ -115,7 +115,7 @@ Les Données Personnelles sont conservées dans la base de données pour une dur
 
 1.8.1 Accès, rectification et portabilité des données
 
-L’utilisateur peut exercer à tout moment son droit d’accès et de rectification de ses données personnelles que Ring Twice pourrait conserver en relation avec les services, conformément aux lois applicables en matière de protection des données, soit par l’intermédiaire de l’interface du site lui-même, soit en envoyant une demande avec une copie du recto de sa carte d’identité, passeport ou toute autre preuve d’identité vers l’adresse suivante : [\[email protected\]](https://ringtwice.be/cdn-cgi/l/email-protection#removed) ou par écrit à Ring Twice, Data Protection Officer (DPO), [\[email protected\]](https://ringtwice.be/cdn-cgi/l/email-protection#removed).
+L’utilisateur peut exercer à tout moment son droit d’accès et de rectification de ses données personnelles que Ring Twice pourrait conserver en relation avec les services, conformément aux lois applicables en matière de protection des données, soit par l’intermédiaire de l’interface du site lui-même, soit en envoyant une demande avec une copie du recto de sa carte d’identité, passeport ou toute autre preuve d’identité vers l’adresse suivante : [\[email protected\]](https://ringtwice.be/cdn-cgi/l/email-protection) ou par écrit à Ring Twice, Data Protection Officer (DPO), [\[email protected\]](https://ringtwice.be/cdn-cgi/l/email-protection).
 
 Ring Twice attire l’attention de l’utilisateur sur le fait que certains éléments de ses données personnelles peuvent être consultés via l’interface du site et à titre d’utilisateur, il a le droit de rectifier et de modifier ces données en tout temps. Toutefois, étant donné que la sécurité des services dépend de l’intégrité des données d’identité de base, afin de réaliser ces modifications de quelque manière que ce soit, cela implique de passer par les étapes de l’inscription soit par l’intermédiaire d’un contrôleur d’identité, soit via le site web de Ring Twice.
 
@@ -123,11 +123,11 @@ Enfin, dès que cela sera applicable, l’utilisateur aura également le droit �
 
 1.8.2. Effacement
 
-L’utilisateur peut à tout moment exercer son droit à l’effacement de ses données conformément aux lois applicables en matière de protection des données en envoyant une demande avec une copie du recto de sa carte d’identité, passeport ou toute autre preuve d’identité vers l’adresse suivante : [\[email protected\]](https://ringtwice.be/cdn-cgi/l/email-protection#removed), ou par écrit à Ring Twice, Data Protection Officer (DPO), [\[email protected\]](https://ringtwice.be/cdn-cgi/l/email-protection#removed). Ring Twice s’abstiendra d’utiliser toute donnée personnelle figurant sur cette demande et ne continuera à conserver les données personnelles passées uniquement à des fins de preuve pendant une période de 2 ans, après quoi elles seront effacées. Une fois que les données auront été supprimées, l’utilisateurs ne pourra plus utiliser les services.
+L’utilisateur peut à tout moment exercer son droit à l’effacement de ses données conformément aux lois applicables en matière de protection des données en envoyant une demande avec une copie du recto de sa carte d’identité, passeport ou toute autre preuve d’identité vers l’adresse suivante : [\[email protected\]](https://ringtwice.be/cdn-cgi/l/email-protection), ou par écrit à Ring Twice, Data Protection Officer (DPO), [\[email protected\]](https://ringtwice.be/cdn-cgi/l/email-protection). Ring Twice s’abstiendra d’utiliser toute donnée personnelle figurant sur cette demande et ne continuera à conserver les données personnelles passées uniquement à des fins de preuve pendant une période de 2 ans, après quoi elles seront effacées. Une fois que les données auront été supprimées, l’utilisateurs ne pourra plus utiliser les services.
 
 1.8.3. Opposition
 
-Lors de l’utilisation du site ou des services, l’utilisateur est invité à consentir à certaines activités de traitement de données. L’utilisateur aura le droit de retirer son consentement pour de telles activités à tout moment, en envoyant une demande avec une copie du recto de votre carte d’identité, passeport ou toute autre preuve d’identité vers l’adresse suivante : [\[email protected\]](https://ringtwice.be/cdn-cgi/l/email-protection#removed) ou par écrit à Ring Twice, Data Protection Officer (DPO), [\[email protected\]](https://ringtwice.be/cdn-cgi/l/email-protection#removed). Ce retrait n’affectera pas la légalité du traitement des données passées. L’utilisateur note que le fait de s’opposer à un certain traitement peut toutefois influer sur son utilisation des services car Ring Twice ne peut pas fournir les services sans traiter les éléments nécessaires à ses données personnelles.
+Lors de l’utilisation du site ou des services, l’utilisateur est invité à consentir à certaines activités de traitement de données. L’utilisateur aura le droit de retirer son consentement pour de telles activités à tout moment, en envoyant une demande avec une copie du recto de votre carte d’identité, passeport ou toute autre preuve d’identité vers l’adresse suivante : [\[email protected\]](https://ringtwice.be/cdn-cgi/l/email-protection) ou par écrit à Ring Twice, Data Protection Officer (DPO), [\[email protected\]](https://ringtwice.be/cdn-cgi/l/email-protection). Ce retrait n’affectera pas la légalité du traitement des données passées. L’utilisateur note que le fait de s’opposer à un certain traitement peut toutefois influer sur son utilisation des services car Ring Twice ne peut pas fournir les services sans traiter les éléments nécessaires à ses données personnelles.
 
 À tout moment, si l’utilisateur considère que ses droits n’ont pas été respectés, il peut également déposer une plainte auprès de la commission belge pour la protection de la vie privée, rue de la Presse, 35 à 1000-Bruxelles.
 
@@ -159,7 +159,7 @@ Ring Twice, DPO
 10, Cantersteen,  
 1000 Bruxelles, Belgique
 
-[\[email protected\]](https://ringtwice.be/cdn-cgi/l/email-protection#removed)
+[\[email protected\]](https://ringtwice.be/cdn-cgi/l/email-protection)
 
 2\. Reglement relatif aux cookies
 ---------------------------------
@@ -290,4 +290,4 @@ Ring Twice
 1310 La Hulpe, Belgique  
 Téléphone: +32 2 646 81 17
 
-[\[email protected\]](https://ringtwice.be/cdn-cgi/l/email-protection#removed)
+[\[email protected\]](https://ringtwice.be/cdn-cgi/l/email-protection)
