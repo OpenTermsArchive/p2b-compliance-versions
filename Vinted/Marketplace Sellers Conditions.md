@@ -339,7 +339,7 @@ Los Usuarios Pro deben cumplir con las Reglas del Foro cuando utilicen el Foro. 
 
 1. aplicando el procedimiento de denuncia descrito [aquí](https://vinted.es/help/288);
 2. poniéndose en contacto con VINTED a través del [formulario de contacto](https://vinted.es/help/support_tickets/new?ch=help_center&faq_entry_id=615&allow_direct=1);
-3. enviando un correo electrónico a la dirección [\[email protected\]](https://www.vinted.es/cdn-cgi/l/email-protection#removed);
+3. enviando un correo electrónico a la dirección [\[email protected\]](https://www.vinted.es/cdn-cgi/l/email-protection);
 4. enviando una carta en la que se expongan detalladamente los hechos subyacentes a la siguiente dirección: VINTED UAB, Švitrigailos g. 13, LT-03228 Vilnius, Lituania.
 5. Si se denuncia dicho Contenido, VINTED se reserva el derecho de suspender inmediatamente, sin previo aviso, la Cuenta del Usuario Pro (incluida cualquier transacción en curso) y de eliminar el Contenido, según lo previsto en las Secciones 7.7 y 15.
 
@@ -347,7 +347,7 @@ Los Usuarios Pro deben cumplir con las Reglas del Foro cuando utilicen el Foro. 
 
 1. aplicando el procedimiento de notificación descrito [aquí](https://vinted.es/help/288);
 2. poniéndose en contacto con VINTED a través del [formulario de contacto](https://vinted.es/help/support_tickets/new?ch=help_center&faq_entry_id=615&allow_direct=1);
-3. enviando un correo electrónico a la dirección [\[email protected\]](https://www.vinted.es/cdn-cgi/l/email-protection#removed);
+3. enviando un correo electrónico a la dirección [\[email protected\]](https://www.vinted.es/cdn-cgi/l/email-protection);
 4. enviando una carta en la que se expongan detalladamente los hechos subyacentes a la siguiente dirección: VINTED UAB, Švitrigailos g. 13, LT-03228 Vilnius, Lituania;
 5. para los titulares de derechos de Propiedad Intelectual específicamente, presentando una notificación de infracción de derechos de Propiedad Intelectual completando el formulario que está disponible [aquí](https://vinted.es/help/intellectual_property_infringement).
 
@@ -504,7 +504,7 @@ Si VINTED bloquea una Cuenta Pro, dará al Usuario Pro un periodo de aviso razon
 
 FRANCIA
 
-Dirección de correo electrónico: [\[email protected\]](https://www.vinted.es/cdn-cgi/l/email-protection#removed) 
+Dirección de correo electrónico: [\[email protected\]](https://www.vinted.es/cdn-cgi/l/email-protection) 
 
 Sitio web: [https://www.cmap.fr/](https://www.cmap.fr/) 
 
@@ -518,7 +518,7 @@ Salvo que la legislación aplicable disponga lo contrario, la mediación es volu
 
 **19.4. RESCISIÓN DE ESTOS TÉRMINOS PRO**
 
-19.4.1. El Usuario Pro puede poner fin a su relación con VINTED en cualquier momento con efecto inmediato, pero tendrá que cumplir con todas sus obligaciones que resultaron de las Transacciones que el Usuario Pro celebró antes de la finalización de su relación con VINTED. El Usuario Pro podrá finalizar su relación con VINTED cerrando su cuenta o enviando un correo electrónico a [\[email protected\]](https://www.vinted.es/cdn-cgi/l/email-protection#removed). 
+19.4.1. El Usuario Pro puede poner fin a su relación con VINTED en cualquier momento con efecto inmediato, pero tendrá que cumplir con todas sus obligaciones que resultaron de las Transacciones que el Usuario Pro celebró antes de la finalización de su relación con VINTED. El Usuario Pro podrá finalizar su relación con VINTED cerrando su cuenta o enviando un correo electrónico a [\[email protected\]](https://www.vinted.es/cdn-cgi/l/email-protection). 
 
 19.4.2. VINTED podrá finalizar su relación con el Usuario Pro en particular por los siguientes motivos: 
 
@@ -537,7 +537,7 @@ La decisión de VINTED de finalizar la relación con el Usuario Pro será notifi
 
 19.6. Estos Términos Pro no tienen el efecto de crear una asociación (independientemente de su forma jurídica) entre VINTED y los Usuarios Pro, relaciones laborales, relaciones entre un agente comercial y su cliente, ni una relación de franquicia.
 
-19.7. Un Usuario Pro puede expresar sus objeciones con respecto al acceso, uso o funcionamiento del Sitio o de los Servicios a través de una notificación. Las notificaciones deben enviarse a VINTED mediante el [formulario](https://vinted.es/help/support_tickets/new?ch=help_center&faq_entry_id=615&allow_direct=1) o por carta a VINTED UAB, Svitrigailos st. 13 Vilnius LT-03228, Lituania. Escríbanos a esta dirección para todas las solicitudes legales: [\[email protected\]](https://www.vinted.es/cdn-cgi/l/email-protection#removed).
+19.7. Un Usuario Pro puede expresar sus objeciones con respecto al acceso, uso o funcionamiento del Sitio o de los Servicios a través de una notificación. Las notificaciones deben enviarse a VINTED mediante el [formulario](https://vinted.es/help/support_tickets/new?ch=help_center&faq_entry_id=615&allow_direct=1) o por carta a VINTED UAB, Svitrigailos st. 13 Vilnius LT-03228, Lituania. Escríbanos a esta dirección para todas las solicitudes legales: [\[email protected\]](https://www.vinted.es/cdn-cgi/l/email-protection).
 
 19.8. Los Usuarios Pro pueden ponerse en contacto con VINTED completando el formulario disponible [aquí](https://vinted.es/help/support_tickets/new?ch=help_center&faq_entry_id=615&allow_direct=1).
 
@@ -949,7 +949,7 @@ Nombre: VINTED, UAB
 
 Dirección: Švitrigailos str. 13, Vilnius LT-03228, Lituania
 
-Dirección de correo electrónico: [\[email protected\]](https://www.vinted.es/cdn-cgi/l/email-protection#removed)
+Dirección de correo electrónico: [\[email protected\]](https://www.vinted.es/cdn-cgi/l/email-protection)
 
 **III. Términos generales** 
 
