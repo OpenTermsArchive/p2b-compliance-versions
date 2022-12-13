@@ -30,13 +30,13 @@ YOU AGREE THAT VIAVAN DOES NOT PROVIDE TRANSPORTATION SERVICES AND IS NOT A TRAN
 
 By using the Service to make a Reservation for a Ride, unless you are choosing the “Private” option (if applicable and available) you are electing to use a ridesharing transportation service. You may arrange for individual (i.e., non-shared) transportation services by contacting a third-party transportation provider directly. Please be aware that the fees for such individual transportation are set by the third-party transportation providers and may differ substantially from the fees for the Service.
 
-The Service is currently being offered as a beta test, and as such is limited in its capacity, geographic region, and hours of operation. The geographic region and hours of operation were selected based on the Service’s limited capacity during the beta test and our anticipation of demand for the Service and have no discriminatory rationale or intention. We anticipate expanding the Service to a broader geographic area and/or additional hours of operation in the future. Should you have any recommendations for additional times and/or areas of service, please contact us at [\[email protected\]](https://www.viavan.com/cdn-cgi/l/email-protection#removed).
+The Service is currently being offered as a beta test, and as such is limited in its capacity, geographic region, and hours of operation. The geographic region and hours of operation were selected based on the Service’s limited capacity during the beta test and our anticipation of demand for the Service and have no discriminatory rationale or intention. We anticipate expanding the Service to a broader geographic area and/or additional hours of operation in the future. Should you have any recommendations for additional times and/or areas of service, please contact us at [\[email protected\]](https://www.viavan.com/cdn-cgi/l/email-protection).
 
 #### Eligibility to Use the Service
 
 **Children.** No part of the Service is directed to persons under the age of 16. IF YOU ARE UNDER 16 YEARS OF AGE, PLEASE DO NOT USE OR ACCESS THE SERVICE AT ANY TIME OR IN ANY MANNER. Children under the age of 16 are only allowed to participate on a Ride when accompanied with a guardian, parent or other adult who has registered for the Services in a legally valid manner.
 
-No one under the age of 18 is allowed to register with or use the Service without the consent of a parent or guardian. If you are under the age of 18, by registering for and using the Service, you warrant and represent that you have consent to do so from a parent or guardian. If you are a parent or guardian of a minor who has registered for or used the Service without your consent, please contact us at [\[email protected\]](https://www.viavan.com/cdn-cgi/l/email-protection#removed).
+No one under the age of 18 is allowed to register with or use the Service without the consent of a parent or guardian. If you are under the age of 18, by registering for and using the Service, you warrant and represent that you have consent to do so from a parent or guardian. If you are a parent or guardian of a minor who has registered for or used the Service without your consent, please contact us at [\[email protected\]](https://www.viavan.com/cdn-cgi/l/email-protection).
 
 **Agent of a Company, Entity, or Organization.** If you are using the Service on behalf of a company, entity, or organization (collectively “**Organization**“), then you represent and warrant that you:
 
@@ -54,7 +54,7 @@ You represent and warrant that the information you provide to the Company upon u
 
 **Your Log-In Credentials.** To use the Service, you may need to log-in by providing a username, password, and cellular phone number. Your account is personal to you, and you may not share your account information with, or allow access to your account by, any third party. As you will be responsible for all activity that occurs under your access credentials (including, without limitation, the behavior of any other people that travel in your party), you agree to use reasonable efforts to prevent unauthorized access to or use of the Service and to preserve the confidentiality of your username and password, and any device that you use to access the Service.
 
-You agree to notify us immediately of any breach in secrecy of your log-in information. If you have any reason to believe that your account information has been compromised or that your account has been accessed by a third party, you agree to immediately notify the Company by e-mail to [\[email protected\]](https://www.viavan.com/cdn-cgi/l/email-protection#removed). You will be solely responsible for the losses incurred by the Company and others due to any unauthorized use of your account.
+You agree to notify us immediately of any breach in secrecy of your log-in information. If you have any reason to believe that your account information has been compromised or that your account has been accessed by a third party, you agree to immediately notify the Company by e-mail to [\[email protected\]](https://www.viavan.com/cdn-cgi/l/email-protection). You will be solely responsible for the losses incurred by the Company and others due to any unauthorized use of your account.
 
 #### Payments and Billing
 
@@ -231,4 +231,4 @@ Arbitration shall be the sole, exclusive, and final remedy with respect to all d
 ViaVan Technologies B.V.  
 Vijzelstraat 68  
 1017 VN Amsterdam  
-[\[email protected\]](https://www.viavan.com/cdn-cgi/l/email-protection#removed)
+[\[email protected\]](https://www.viavan.com/cdn-cgi/l/email-protection)
