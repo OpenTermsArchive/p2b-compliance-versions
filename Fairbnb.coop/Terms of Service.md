@@ -250,7 +250,7 @@ The listings media-content is intended licensed to Fairbnb.coop: uploading of th
 According to l. 218/1995 and Reg. (CE) n. 593/2008, User Account and/or use of the platform also in this demo phase, shall be governed by and interpreted exclusively in accordance with the laws and decisions of the State of Italy, without giving effect to its conflict of laws provisions.  
 Consumers’ rights are protected according to the same provisions.  
 Civil lawsuit proceedings should be brought in Italy’s Court.  
-Please report any violations or claim about these Terms to Fairbnb: [\[email protected\]](https://fairbnb.coop/cdn-cgi/l/email-protection#removed)
+Please report any violations or claim about these Terms to Fairbnb: [\[email protected\]](https://fairbnb.coop/cdn-cgi/l/email-protection)
 
 ### 18\. Consumers’ Rights
 
