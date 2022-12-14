@@ -95,11 +95,9 @@ You will comply with the [Community Guidelines](https://snap.com/en-US/community
     
 * If you use the Business Services for Snap’s customer list audience program then you agree to the [Customer List Audience Terms](https://snap.com/en-US/terms/snap-audience-match).
     
-* If Snap acts as your service provider for Snap's customer list audience program, then you agree to the [Service Provider Term](https://snap.com/en-US/terms/service-provider).
-    
 * If you use the Business Services for Snap’s conversion program then you agree to the [Snap Conversion Terms](https://snap.com/en-US/terms/snap-conversion).
     
-* If you provide or receive personal data via the Business Services then you agree to the [Personal Data Terms](https://snap.com/en-US/terms/personal-data).
+* If you provide or receive personal data via the Business Services then you agree to the [Personal Data Terms](https://snap.com/en-US/en-GB/terms/personal-data) and the [U.S. Privacy Terms](https://snap.com/en-US/terms/us-privacy).
     
 * If Snap processes personal data on your behalf then you agree to the [Data Processing Agreement](https://snap.com/en-US/terms/data-processing-agreement).
     
