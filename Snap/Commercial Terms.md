@@ -1,3 +1,5 @@
+PLEASE NOTE: WE ARE UPDATING THESE BUSINESS SERVICES TERMS AS OF JANUARY 1, 2023 TO THE UPDATED VERSION OF THE TERMS FOUND [HERE](https://snap.com/en-US/terms/business-services-2023-01-01) AS A RESULT OF UPCOMING CHANGES IN U.S. PRIVACY LAWS. THE [UPDATED BUSINESS SERVICES TERMS](https://snap.com/en-US/terms/business-services-2023-01-01) WILL BE EFFECTIVE AND APPLY TO YOUR USE OF THE BUSINESS SERVICES AS OF JANUARY 1, 2023.
+
 Business Services Terms
 =======================
 
@@ -97,7 +99,7 @@ You will comply with the [Community Guidelines](https://snap.com/en-US/community
     
 * If you use the Business Services for Snap’s conversion program then you agree to the [Snap Conversion Terms](https://snap.com/en-US/terms/snap-conversion).
     
-* If you provide or receive personal data via the Business Services then you agree to the [Personal Data Terms](https://snap.com/en-US/en-GB/terms/personal-data) and the [U.S. Privacy Terms](https://snap.com/en-US/terms/us-privacy).
+* If you provide or receive personal data via the Business Services then you agree to the [Personal Data Terms](https://snap.com/en-US/terms/personal-data).
     
 * If Snap processes personal data on your behalf then you agree to the [Data Processing Agreement](https://snap.com/en-US/terms/data-processing-agreement).
     
