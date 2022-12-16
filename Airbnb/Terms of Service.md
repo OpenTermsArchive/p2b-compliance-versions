@@ -428,9 +428,10 @@ Choose a languageEnglish (US)Choose a currency€EUR
 
 ·
 
-1. [Privacy](https://www.airbnb.com/terms/privacy_policy)·
-2. ·[Terms](https://www.airbnb.com/terms)·
-3. ·[Sitemap](https://www.airbnb.com/sitemaps/v2)
+1. [Terms](https://www.airbnb.com/terms)·
+2. ·[Sitemap](https://www.airbnb.com/sitemaps/v2)·
+3. ·[Privacy](https://www.airbnb.com/terms/privacy_policy)·
+4. ·[Your Privacy Choices](https://www.airbnb.com/help/sale-share-opt-out)
 
 Choose a languageEnglish (US)Choose a currency€EUR
 
@@ -442,17 +443,19 @@ Choose a languageEnglish (US)Choose a currency€EUR
 
 ·
 
-1. [Privacy](https://www.airbnb.com/terms/privacy_policy)·
-2. ·[Terms](https://www.airbnb.com/terms)·
-3. ·[Sitemap](https://www.airbnb.com/sitemaps/v2)
+1. [Terms](https://www.airbnb.com/terms)·
+2. ·[Sitemap](https://www.airbnb.com/sitemaps/v2)·
+3. ·[Privacy](https://www.airbnb.com/terms/privacy_policy)·
+4. ·[Your Privacy Choices](https://www.airbnb.com/help/sale-share-opt-out)
 
 © 2022 Airbnb, Inc.
 
 ·
 
-1. [Privacy](https://www.airbnb.com/terms/privacy_policy)·
-2. ·[Terms](https://www.airbnb.com/terms)·
-3. ·[Sitemap](https://www.airbnb.com/sitemaps/v2)
+1. [Terms](https://www.airbnb.com/terms)·
+2. ·[Sitemap](https://www.airbnb.com/sitemaps/v2)·
+3. ·[Privacy](https://www.airbnb.com/terms/privacy_policy)·
+4. ·[Your Privacy Choices](https://www.airbnb.com/help/sale-share-opt-out)
 
 Choose a languageEnglish (US)Choose a currency€EUR
 
