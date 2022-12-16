@@ -138,7 +138,7 @@ Lorsqu'une Commande est validée moins de 14 jours à l'avance conformément au 
 Dans tous les cas et pour toutes les Commandes, les règles d'annulation suivantes s'appliquent :
 
 * annulation plus de 24 heures avant le rendez-vous prévu : aucun frais d'annulation ;
-* annulation entre 8 heures et 24 heures avant le rendez-vous prévu : frais d'annulation forfaitaires de dix (5) euros ;
+* annulation entre 8 heures et 24 heures avant le rendez-vous prévu : frais d'annulation forfaitaires de cinq (5) euros ;
 * annulation entre 4 heures et 8 heures avant le rendez-vous prévu : frais d'annulation forfaitaires de dix (10) euros ;
 * annulation entre 2 heures et 4 heures avant le rendez-vous prévu : frais d'annulation de 50% du montant de la Commande, pour un maximum de vingt (20) euros ;
 * annulation entre 2 heures et l'heure du rendez-vous prévu : frais d'annulation de 80% de la Commande, pour un maximum de trente (30) euros ;
