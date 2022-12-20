@@ -18,6 +18,8 @@ Ak chceš ako predávajúci predávať na jaspravim.sk, je pred pridaním inzer�
 
 Predávajúci na stránke „Editácia konta“ vyplní potrebné údaje a vyjadrí súhlas s uzatvorením zmluvy kliknutím na gombík „Súhlasím s rámcovou zmluvou“. Systém následne vygeneruje Predávajúcemu zmluvu a odošle mu kópiu zmluvy notifikáciou na jeho emailovú adresu s odkazom na stiahnutie vygenerovanej zmluvy.
 
+Medzi povinné údaje patria Meno a priezvisko, ulica a číslo domu, PSČ a mesto a dátum narodenia.
+
 Vyplnenie údajov v profile za účelom vytvorenia zmluvy je možné urobiť len jeden krát. Tieto údaje musia byť pravdivé. V prípade neskoršieho zistenia, že údaje boli zadané nesprávne alebo nepravdivo, bude vyplatenie zárobkov pozastavené.
 
 Ak predávajúci zaklikne pri vytváraní rámcovej zmluvy možnosť "Som platca DPH" znamená to, že je povinný vyplniť políčko IČ DPH. Na základe tejto registrácie budú v pokladni sumy jeho pridaných inzerátov a ponúk na mieru navýšené o sumu DPH 20%. Celková suma objednávky jeho služieb sa navýši o DPH. Pri vyplatení zárobkov, bude suma vyplatených zárobkov navýšená tiež o DPH. Predávajúci je tým povinný zaradiť "vystavenú faktúru" do svojho mesačného/štvrťročného výkazu k DPH.
@@ -559,4 +561,4 @@ Aj v prípade, ak je registrovaný používateľ občanom iného štátu než Sl
 
 Žiadna časť týchto VOP nesmie byť kopírovaná ani žiadnym spôsobom šírená bez výslovného súhlasu Prevádzkovateľa.
 
-Tieto VOP nadobúdajú účinnosť dňa: 11. 07. 2022
+Tieto VOP nadobúdajú účinnosť dňa: 16. 12. 2022
