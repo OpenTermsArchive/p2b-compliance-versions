@@ -217,7 +217,7 @@ Endet die Berechtigung des Händlers oder stellt sich heraus, dass eine solche z
 
 6.2 In Bezug auf ggfs. zu entrichtende Steuern, Abgaben und/oder Zölle für die von dem Händler angebotenen Produkte ist der Händler alleinig zur Ermittlung, ob diese anfallen und zur ggfs. notwendigen Entrichtung, verpflichtet.
 
-6.3 Die Versandkosten kann der Händler, sofern er nicht versandkostenfreie Lieferung anbietet, nach freiem Ermessen bei den Versandeinstellungen hinterlegen. Sollte der Händler weder versandkostenfreie Lieferung anbieten noch Versandeinstellungen hinterlegen, werden die an marktüblichen Standards orientierten Versandkostenregelungen für Händler, die hier eingesehen werden können, zur Geltung gebracht.
+6.3 Die Versandkosten kann der Händler, sofern er nicht versandkostenfreie Lieferung anbietet, nach freiem Ermessen bei den Versandeinstellungen hinterlegen. Sollte der Händler weder versandkostenfreie Lieferung anbieten noch Versandeinstellungen hinterlegen, werden die an marktüblichen Standards orientierten Versandkostenregelungen für Händler zur Geltung gebracht.
 
 6.4 Der Händler verpflichtet sich darüber hinaus, bei Lieferungen aus Drittstaaten zur Einhaltung der Incoterms DDP (delivered duty paid): Dies bedeutet, dass der Händler alle Kosten und Gefahren trägt, die im Zusammenhang mit der Beförderung der Ware bis zum Bestimmungsort stehen und die Verpflichtung, die Ware nicht nur für die Ausfuhr, sondern auch für die Einfuhr freizumachen, alle Abgaben sowohl für die Aus- als auch die Einfuhr zu zahlen sowie alle Zollformalitäten zu erledigen.
 
