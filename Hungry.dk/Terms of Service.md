@@ -1,1 +1,1 @@
-© 2022 foodora Denmark ApS
+© 2023 foodora Denmark ApS
