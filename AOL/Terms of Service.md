@@ -259,7 +259,7 @@ _In June 2017, we announced that Yahoo and AOL joined to become a unified digita
         
         1. _Defined Terms_
             
-            1. Applicable Yahoo Entity: Yahoo International Inc. (Address: 770 Broadway, New York, NY 10003, USA)
+            1. Applicable Yahoo Entity: Yahoo International LLC (Address: 770 Broadway, New York, NY 10003, USA)
                 
             2. Minimum Age: 13 years old
                 
