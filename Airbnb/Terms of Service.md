@@ -424,7 +424,7 @@ Footer section
 
 Choose a languageEnglish (US)Choose a currency€EUR
 
-© 2022 Airbnb, Inc.
+© 2023 Airbnb, Inc.
 
 ·
 
@@ -439,7 +439,7 @@ Choose a languageEnglish (US)Choose a currency€EUR
 * [](https://twitter.com/airbnb)
 * [](https://instagram.com/airbnb)
 
-© 2022 Airbnb, Inc.
+© 2023 Airbnb, Inc.
 
 ·
 
@@ -448,7 +448,7 @@ Choose a languageEnglish (US)Choose a currency€EUR
 3. ·[Privacy](https://www.airbnb.com/terms/privacy_policy)·
 4. ·[Your Privacy Choices](https://www.airbnb.com/help/sale-share-opt-out)
 
-© 2022 Airbnb, Inc.
+© 2023 Airbnb, Inc.
 
 ·
 
