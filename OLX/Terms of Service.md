@@ -2,7 +2,7 @@
 
 POR FAVOR LEIA ATENTAMENTE ESTES TERMOS E CONDIÇÕES DE SERVIÇO ANTES DE UTILIZAR ESTE SITE OU ESTA APLICAÇÃO E CONTRATAR OS NOSSOS SERVIÇOS.
 
-(Última atualização em  06 de Setembro de 2022)
+(Última atualização em  19 de Dezembro de 2022)
 
 1. **Definições**
 
@@ -11,7 +11,7 @@ Salvo se do contexto claramente decorrer um sentido diferente, nos presentes Ter
 1. **Entrega** - serviço de transporte de Artigos coberto pela Transação, prestado por transportadores profissionais selecionados através do serviço prestado pelos parceiros do OLX (“Parceiro OLX”). O presente serviço não é  diretamente prestado ou disponibilizado através das funcionalidades do OLX no Website, pelo que o acesso ao serviço de transporte que permite solicitar o Serviço de Entrega do Artigo será fornecido através do Site (s) do (s) transportadores profissionais, sendo da inteira responsabilidade e iniciativa do Utilizador a contratação dos serviços de transporte e aceitação dos seus termos e condições.
 2. **Dia** - significa 24 horas consecutivas.
 3. **Visitante:** pessoa, singular ou coletiva, que aceda ao Site ou à Aplicação, sem possuir uma conta ou iniciar a sessão/login na mesma.
-4. **OLX** \- **OLX PORTUGAL, S.A**., sociedade comercial anónima, com sede em em Edifício Atrium Saldanha, Praça Duque de Saldanha, N.º 1, 3.º andar, fração H, 1050 – 094 Lisboa, registada na Conservatória do Registo Comercial de Lisboa, sob o número 508 069 491, com capital social de € 360,000,00  (trezentos e sessenta mil euros). O OLX pode ser contactado através do seguinte correio eletrónico: ajuda@olx.pt.
+4. **OLX** \- **OLX PORTUGAL, S.A**., sociedade comercial anónima, com sede em em Edifício Atrium Saldanha, Praça Duque de Saldanha, N.º 1, 6º andar, 1050 – 094 Lisboa, registada na Conservatória do Registo Comercial de Lisboa, sob o número 508 069 491, com capital social de € 360,000,00  (trezentos e sessenta mil euros). O OLX pode ser contactado através do seguinte correio eletrónico: ajuda@olx.pt.
 5. **Candidato** - Visitante ou Utilizador que consulta os Anúncios na Categoria Emprego ou que utiliza as funcionalidades dedicadas que se especificam no Anexo 1 "Emprego OLX".
 6. **Categoria** \- categoria temática (p.ex. Serviços ou Tecnologia) à qual o Anúncio se encontra atribuído. Uma categoria pode dividir-se em várias subcategorias temáticas relacionadas.
 7. **Consumidor** – o utilizador que é uma pessoa singular, que executa, no Website, atividades não diretamente ligadas à sua atividade comercial, industrial, artesanal ou profissional.
@@ -23,7 +23,8 @@ Salvo se do contexto claramente decorrer um sentido diferente, nos presentes Ter
 13. **Entidade Patronal/Recrutador** - Utilizador que publica um Anúncio na categoria Emprego do Website ou utiliza as funcionalidades dedicadas que se especificam no Anexo 1 "Emprego OLX".
 14. **Artigo/Produto**\- os bens (móveis ou imóveis) ou serviços cobertos pelo Anúncio; nos Anúncios da Categoria Emprego, o artigo do Anúncio consiste na descrição e nos requisitos do cargo oferecido pelo Anúncio da Entidade Patronal/Recrutador.
 15. **Diretrizes**: as instruções que os Anunciantes devem assegurar que são cumpridas pelos anúncios que divulgam no Site e na Aplicação, descritas na Cláusula 11 abaixo.
-16. **Período de Colocação**: o período de disponibilização de cada anúncio no OLX, o qual tem uma duração de 28 (vinte e oito) dias, renováveis, estando a renovação, em determinadas circunstâncias, sujeita a pagamento.
+16. **Período de Colocação**: o período de disponibilização de cada anúncio no OLX, o qual tem uma duração de 28 (vinte e oito) dias, ou 365 dias (quando na categoria Carros,  
+    motos e barcos | Carros), renováveis, estando a renovação, em determinadas circunstâncias, sujeita a pagamento.
 17. **Período de Destaque**: o período de disponibilização pública de anúncios com destaques pagos no Site ou na Aplicação, o qual poderá ser de 1 (um) a 28 (vinte e oito) dias, nos termos das especificações constantes da sua área reservada e consoante à escolha feita pelo utilizador.
 18. **Serviço de Divulgação de Destaques**: a colocação e disponibilização pública de anúncios com destaques pagos no Site ou na Aplicação, mencionada nas Cláusulas 2.16 e 7 infra e como se descreve em pormenor no Anexo 2 "Serviços Promocionais".
 19. **Serviços**: cedência de espaços no Site e/ou na Aplicação necessários à colocação e disponibilização pública de anúncios classificados do Anunciante para que este possa divulgar e promover a venda de Produtos, durante os períodos selecionados por si.
@@ -220,14 +221,15 @@ No entanto, todas as exclusões a este respeito serão verificadas e analisadas 
 1. clicando no ícone "Adicionar anúncio" ou equivalente;
 2. efetuando o pagamento (apenas para Anúncios Pagos).
 
-11. A emissão de um Anúncio no Serviço inicia imediatamente após a sua publicação e tem uma duração de 28 dias, mas nunca superior, até que ocorra uma das seguintes situações:
+11. A emissão de um Anúncio no Serviço inicia imediatamente após a sua publicação e tem uma duração de 28 dias, s ou 365 dias (quando na categoria Carros, motos e barcos |  
+    Carros), mas nunca superior, até que ocorra uma das seguintes situações:
 
 1. o Utilizador vendeu o Artigo;
 2. o Utilizador alterou o Anúncio de modo a indicar que diz respeito a um Artigo diferente daquele a que se referia inicialmente;
 3. Eliminou o Anúncio.
 
 12. Caso o OLX tome conhecimento da ocorrência das situações indicadas no ponto 4.9.a) ou 4.9.b), o OLX terá o direito de remover o Anúncio em conformidade com os princípios especificados no ponto 11 dos Termos e Condições.
-13. Durante o período de publicação de um Anúncio no Serviço, o Utilizador pode modificar o conteúdo e alguns dos parâmetros do Anúncio e eliminá-lo. Durante os 3 Dias antes do termo da publicação do Anúncio a contar da respetiva data de fim da publicação, o Utilizador pode prolongar o tempo de publicação do Anúncio por outros 28 Dias, no entanto, a prorrogação será paga nas Categorias a pagar ou quando seja ultrapassado os limites de número de colocação gratuita de anúncios de uma determinada Categoria indicada no Anexo 3 "Limites de Anúncios”.
+13. Durante o período de publicação de um Anúncio no Serviço, o Utilizador pode modificar o conteúdo e alguns dos parâmetros do Anúncio e eliminá-lo. Durante os 3 Dias antes do termo da publicação do Anúncio a contar da respetiva data de fim da publicação, o Utilizador pode prolongar o tempo de publicação do Anúncio por outros 28 Dias, ou 365 dias (quando na categoria Carros, motos e barcos | Carros), no entanto, a prorrogação será paga nas Categorias a pagar ou quando seja ultrapassado os limites de número de colocação gratuita de anúncios de uma determinada Categoria indicada no Anexo 3 "Limites de Anúncios”.
 14. A possibilidade de modificação do conteúdo de um Anúncio não se aplica às alterações de preço ou de quaisquer outros parâmetros do Anúncio publicado, com o intuito de evitar o pagamento de valores devidos ao OLX, pelos serviços prestados no âmbito do Website, ou receção da ordem de devolução de fundos devidos ao Utilizador nos casos previstos nos T&C.
 15. Findo o tempo de publicação do Anúncio, qualquer que seja o motivo, o Anúncio é arquivado no separador correspondente das Contas, onde estará disponível para o Utilizador por um período de 6 meses, a menos que o Utilizador elimine, ele mesmo, o Anúncio antes do termo deste período. O Utilizador deve arquivar o conteúdo do Anúncio, bem como as informações sobre as Transações concluídas.
 16. Nos casos em que o Anúncio contenham _hyperlinks_ para outros sites ou aplicações ou informações fornecidas por terceiros, estes são incluídos no Site, no mini-site OLX - e na Aplicação apenas para informação do Anunciante e do Visitante. Esses _hyperlinks_ e essas informações não são aprovados por nós e não temos controlo sobre o conteúdo desses _sites_, aplicações, materiais ou informações. Deverá sempre verificar os termos de utilização e as políticas de privacidade dos _sites_ a que aceder a partir do Site ou da Aplicação antes de os utilizar.
@@ -411,7 +413,7 @@ No entanto, todas as exclusões a este respeito serão verificadas e analisadas 
 4. Nesta medida, o Anunciante reconhece, ao aceitar os presentes Termos e Condições de Serviço, que estes testes têm natureza aleatória, não havendo qualquer espécie de critério para a alocação de um dado Anunciante numa das versões do Site ou da Aplicação criadas para realizar os referidos testes aos preços.
 5. O Anunciante reconhece ainda que a realização de testes aos preços não implica que lhe esteja a ser dado um tratamento desinformado ou discriminatório em relação às ofertas disponibilizadas a outros Anunciantes.
 6. O Anunciante que deseje contratar connosco com base nas demais condições disponibilizadas no âmbito das ações de testes aos preços referidas acima poderá contactar-nos pelos meios de contacto previstos nestes Termos e Condições de Serviço.
-7. Nunca serão cobrados ao Anunciante preços mais altos do que os constantes do tarifário em vigor em cada momento em resultado da realização de testes de preço.
+7. Nunca serão cobrados ao Anunciante preços mais altos do que os constantes do tarifário em vigor em cada momento em resultado da realização de testes de preço, limitando-se eventuais variações de preço, quando se trate de Serviço de Divulgação de Destaques, a reduções dos preços que podem ir de > 0% a </= 30% face ao preço praticado a cada momento.
 
 15. **Direito de resolução**
 
@@ -554,4 +556,4 @@ Mais informações no site da Direção-Geral do Consumidor: [www.consumidor.pt
 10. A marca “OLX” encontra-se registada sob os números 499415, 525072, 525074, 525076, 10881456, 11326287, 13135512, 13135629, 13135744, 18035888, 4883741, 569183, 502600, 499721 e 499720, pela OLX B.V. e pela OLX Portugal, S.A.
 11. É completamente proibida a utilização da nossa marca sem a nossa aprovação.
 
-![](/hc/article_attachments/4419087038609/image-0.png)       _Válido a partir de 10_ _de Agosto_  _de 202__2_
+![](/hc/article_attachments/4419087038609/image-0.png)       _Válido a partir de 4 de Janeiro de 2023_
