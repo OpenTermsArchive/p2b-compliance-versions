@@ -15,7 +15,7 @@ Please read this Agreement carefully. It is a legal document that explains your 
 
 Certain words or phrases are defined to have certain meanings when used in this Agreement. Those words and phrases are defined below in Section 12.
 
-If your primary residence (or primary place of business, if you are a legal entity like a corporation or an academic institution) is in the United States of America, your agreement is with Epic Games, Inc. If it is not in the United States of America, your agreement is with Epic Games International S.à r.l., acting through its Swiss branch.  
+If your primary residence (or primary place of business, if you are a legal entity like a corporation or an academic institution) is in the United States of America, your agreement is with Epic Games, Inc. If it is not in the United States of America, your agreement is with Epic Games Commerce GmbH.  
   
 You affirm that you are at least 13 years old or the age of digital consent in the country of your residence, whichever is higher.
 
