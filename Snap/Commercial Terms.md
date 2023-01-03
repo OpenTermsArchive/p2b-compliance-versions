@@ -1,9 +1,7 @@
-PLEASE NOTE: WE ARE UPDATING THESE BUSINESS SERVICES TERMS AS OF JANUARY 1, 2023 TO THE UPDATED VERSION OF THE TERMS FOUND [HERE](https://snap.com/en-US/terms/business-services-2023-01-01) AS A RESULT OF UPCOMING CHANGES IN U.S. PRIVACY LAWS. THE [UPDATED BUSINESS SERVICES TERMS](https://snap.com/en-US/terms/business-services-2023-01-01) WILL BE EFFECTIVE AND APPLY TO YOUR USE OF THE BUSINESS SERVICES AS OF JANUARY 1, 2023.
+Business Services Terms - New
+=============================
 
-Business Services Terms
-=======================
-
-Effective: January 31, 2022
+Effective: January 1, 2023
 
 ARBITRATION NOTICE: YOU ARE BOUND BY THE [ARBITRATION](https://snap.com/en-US/terms/business-services/#governing-law-and-disputes) PROVISION SET FORTH LATER IN THESE BUSINESS SERVICES TERMS. IF YOU ARE CONTRACTING WITH SNAP INC., THEN YOU AND SNAP INC. WAIVE ANY RIGHT TO PARTICIPATE IN A CLASS-ACTION LAWSUIT OR CLASS-WIDE ARBITRATION.
 
@@ -78,7 +76,7 @@ Unless you’re contracting with Snap Inc., nothing in these Business Services T
 8\. Notices
 -----------
 
-Notices under these Business Services Terms must be in writing and sent: (a) if to Snap, to Snap Inc., 3000 31st Street, Santa Monica, California 90405; with a copy to legalnotices@snap.com or Snap Inc., 3000 31st Street, Santa Monica, California 90405, Attn: General Counsel; and (b) if to you, to the email address or street address you have provided via the Business Services, or by posting on the Business Services. Notices will be deemed given upon personal delivery, upon delivery if by mail, upon valid transmission through email, or 24 hours after the time the notice is posted to the Business Services.
+Notices under these Business Services Terms must be in writing and sent: (a) if to Snap, to Snap Inc., 3000 31st Street, Santa Monica, California 90405; with a copy to legalnotices@snap.com or Snap Inc., 3000 31st Street, Santa Monica, California 90405, Attn: General Counsel; and (b) if to you, to the email address or street address you have provided via the Business Services, or by posting on the Business Services. Notices will be deemed given upon personal delivery, upon delivery if by mail, upon valid transmission through email, or 24 hours after the time the notice is posted to the Business Service
 
 9\. Supplemental Terms and Policies
 -----------------------------------
@@ -99,7 +97,7 @@ You will comply with the [Community Guidelines](https://snap.com/en-US/community
     
 * If you use the Business Services for Snap’s conversion program then you agree to the [Snap Conversion Terms](https://snap.com/en-US/terms/snap-conversion).
     
-* If you provide or receive personal data via the Business Services then you agree to the [Personal Data Terms](https://snap.com/en-US/terms/personal-data).
+* If you provide or receive personal data via the Business Services then you agree to the [Personal Data Terms](https://snap.com/en-US/terms/personal-data) and the [U.S. Privacy Terms](https://snap.com/en-US/terms/us-privacy).
     
 * If Snap processes personal data on your behalf then you agree to the [Data Processing Agreement](https://snap.com/en-US/terms/data-processing-agreement).
     
