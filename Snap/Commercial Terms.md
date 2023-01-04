@@ -1,5 +1,5 @@
-Business Services Terms - New
-=============================
+Business Services Terms
+=======================
 
 Effective: January 1, 2023
 
