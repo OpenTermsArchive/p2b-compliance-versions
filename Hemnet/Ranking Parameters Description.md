@@ -5,7 +5,7 @@ Hemnet är **Sveriges största bostadsplattform**, med tiotals miljoner besök v
 
 **Varje år annonseras 9 av 10 av alla bostäder som säljs i Sverige på Hemnet** – vilket betyder att vi samlar typ hela Sveriges bostadsmarknad på ett och samma ställe.
 
-[Annonsera med Hemnets annonspaket](#video)
+[**Annonsera med Hemnets annonspaket**](#video)
 
 Priser
 ------
@@ -43,15 +43,16 @@ Så annonserar du din bostad med Hemnet
     
 2. ### 2
     
-    Välj ett av Hemnets annonspaket; Hemnet Bas, Plus eller Premium. Rådfråga gärna din fastighetsmäklare om vilket paket som passar dig bäst
+    Välj ett av Hemnets annonspaket; Hemnet Bas, Plus eller Premium. Rådfråga gärna din fastighetsmäklare om vilket paket som passar dig bäst.
     
 3. ### 3
     
-    Du betalar enkelt för din annons på Hemnet.se
+    Du betalar enkelt för din annons på Hemnet.se.
     
 4. ### Klart!
     
-    Nu är din annons uppe på Hemnet och din marknadsföring är igång. Du följer hur det går i Säljkollen - din statistiksida på Hemnet.  
+    Nu är din annons uppe på Hemnet och din marknadsföring är igång. Du följer hur det går i Säljkollen - din statistiksida på Hemnet.
+    
     Hemnet har ett nära samarbete med fastighetsmäklarbranschen. Vi rekommenderar att du som bostadssäljare har en dialog med din mäklare genom hela din försäljningsresa.
     
 
@@ -201,7 +202,7 @@ Hemnet Bas är den minsta annonsen på Hemnet med en liten bild och placering l
 
 Hemnet Plus är vårt mellanpaket. Det ger en normalstor bild och du placeras ovanför Hemnet Bas-annonser som publiceras samma dag samt att du prioriteras i liknande bostäder. Dessutom syns din visningstid direkt i resultatlistan vilket är en uppskattad funktion.
 
-Hemnet Premium är vårt annonspaket för dig som vill slå marknaden och få ut det mesta av din annonsering på Hemnet. Premium ger ännu större synlighet i sökresultatet än Hemnet Plus med två extra bilder och annonsen placeras högst upp bland de annonser som publiceras samma dag på Hemnet. I Premium ingår även en gratis Raketen som är fri att aktivera när som helst från Säljkollen och ger en bra boost till annonsen. Precis som med Hemnet Plus får du en synlig visningstid och 50 % rabatt på de Raketen du köper utöver den du får gratis. Hemnet Premium ger även ökad trygghet då Förnya annons ingår kostnadsfritt om du köpt Premium senast 7 dagar efter att din mäklare publicerat annonsen.
+Hemnet Premium är vårt annonspaket som ger bäst synlighet för dig som vill maximera dina chanser till en lyckad försäljning. Premium ger ännu större synlighet i sökresultatet än Hemnet Plus med två extra bilder och annonsen placeras högst upp bland de annonser som publiceras samma dag på Hemnet. I Premium ingår även en gratis Raketen som är fri att aktivera när som helst från Säljkollen och ger en bra boost till annonsen. Precis som med Hemnet Plus får du en synlig visningstid och 50 % rabatt på de Raketen du köper utöver den du får gratis. Hemnet Premium ger även ökad trygghet då Förnya annons ingår kostnadsfritt om du köpt Premium senast 7 dagar efter att din mäklare publicerat annonsen.
 
 ### Om Hemnet Plus
 
