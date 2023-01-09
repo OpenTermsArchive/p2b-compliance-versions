@@ -133,28 +133,28 @@ Ibland kan det ta längre tid än förväntat att få sin bostad såld. Om annon
 * Om du uppgraderat till Hemnet Plus eller Premium behåller din annons samma annonspaket som tidigare.
     
 
-Skapa intresse inför din försäljning med en Kommande-annons
------------------------------------------------------------
+Skapa mer intresse genom att annonsera som kommande - utan extra kostnad
+------------------------------------------------------------------------
 
-1. Om du börjar närma dig en försäljning men inte riktigt känner att du är där än, kan en Kommande-annons på Hemnet vara ett perfekt sätt för dig och din mäklare att skapa intresse för din bostad.
+1. När du ska sälja din bostad men det fortfarande är långt kvar är en annons som kommande på Hemnet ett perfekt sätt för dig och din mäklare att skapa intresse för din bostad och testa marknaden. Det kan till exempel vara när du fortfarande letar efter nytt boende att köpa eller att bostaden inte är redo för större visningar. Bostäder som börjar annonsera som kommande presterar ofta bättre när de går till salu jämfört med de som inte annonserar som kommande på Hemnet. [Läs mer om fördelarna med annonser som kommande här](https://www.hemnet.se/artiklar/bostadsmarknaden/2022/10/13/oka-chansen-att-fa-din-bostad-sald-lagg-ut-din-bostad-som-kommande-pa-hemnet).
     
 2. ### 1
     
-    Din mäklare förbereder din annons genom att ordna med fotografering och säljbeskrivning av din bostad.
+    Din mäklare förbereder din annons genom att ordna med bilder och säljbeskrivning av din bostad.
     
 3. ### 2
     
-    Därefter publicerar din mäklare din annons som Kommande på Hemnet (kostar enligt prislistan för Hemnet Bas).
+    Därefter publicerar din mäklare din annons som kommande på Hemnet. Du betalar för annonsen online och väljer vilket [annonspaket](https://www.hemnet.se/annonsera-bostad#paket) du vill ha. När ni sedan vill annonsera bostaden som till salu blir annonsen som ny utan extra kostnad och du hamnar högst upp i listan.
     
 4. ### 3
     
-    Besökare som gillar din bostad har nu möjlighet att kontakta din mäklare för att få veta mer. Kommande-annonser visas i en egen flik på sökresultatsidan. Kommande-annonser visas två gånger för de som bevakar en sökning via mejl. Först när bostaden publiceras som Kommande och sedan när den övergår till att vara till salu.
+    Annonser som kommande visas i en egen flik på sökresultatsidan. Besökare som gillar din bostad har nu möjlighet att kontakta din mäklare för att få veta mer. Annonser som listas som kommande visas två gånger för de som bevakar en sökning via mejl. Först när bostaden publiceras som kommande och sedan när den övergår till att vara till salu. Besökare kan även spara annonser som listas som kommande precis som en annons som är listad som till salu. Detta ökar exponeringen och intresset för din bostad.
     
 5. ### 4
     
-    När du pratat med din mäklare och känner dig redo för att ta steget till en försäljning gör din mäklare om din Kommande-annons till en till salu-annons. Din annons får då nollställd statistik och hamnar högst upp i sökresultatet på Hemnet.
+    När du pratat med din mäklare och känner dig redo för att ta steget till en försäljning ändrar din mäklare din kommande annons till att vara till salu. Din annons blir då helt ny och hamnar högst upp i sökresultatet på Hemnet utan tidigare historik. Du betalar inget extra och du behåller ditt annonspaket.
     
-6. Viktigt att tänka på är att du inte betalar något extra när din Kommande-annons går över till att bli en till salu-annons. Prata med din mäklare om du är intresserad av att lägga upp din bostad som Kommande på Hemnet!
+6. Prata med din mäklare om du är intresserad av att lägga upp din bostad som kommande på Hemnet!
     
 
 Vanliga frågor
