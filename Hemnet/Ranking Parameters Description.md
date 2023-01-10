@@ -78,7 +78,7 @@ Se våra olika paket
     
 * 50 % rabatt om du vill boosta din annons med Raketen
     
-* 1 gratis Raketen att boosta annonsen när du vill
+* Boosta din annons när du vill med en kostnadsfri 3 dagars Raketen
     
 * För ökad trygghet får du även ett obegränsat antal [Förnya annons](https://www.hemnet.se/annonsera-bostad#fornya-annons) med Hemnet Premium, det gäller endast om du köper Hemnet Premium inom 7 dagar efter annonsen har publicerats
     
