@@ -1,8 +1,6 @@
-We are updating our Platform to Business Notice. You can preview the changes **[here](https://www.facebook.com/legal/p2b_notice_preview)**.
-
 PLATFORM TO BUSINESS NOTICE
 
-This Platform to Business Notice (“**Notice**”) has been created to comply with the Platform to Business Regulation 2019/1150 (“**Regulation**”) that came into force on 12 July 2020. It applies to you if you are a business established in the European Union or in the United Kingdom and use a Commerce Feature (including Shops and Instagram Shopping) to sell goods to consumers located in the European Union or in the United Kingdom (“**Relevant Business User**”).
+This Platform to Business Notice (“**Notice**”) has been created to comply with the Platform to Business Regulation 2019/1150 (“**Regulation**”) that came into force on 12 July 2020 and was retained in the laws of the United Kingdom following its departure from the European Union. It applies to you if you are a business established in the European Union or in the United Kingdom and use a Commerce Feature (including Shops and Instagram Shopping) to sell goods to consumers located in the European Union or in the United Kingdom respectively (“**Relevant Business User**”).
 
 If you are not a Relevant Business User this Notice does not apply to you.
 
@@ -23,7 +21,9 @@ You can access order information and insights about your transactions and produc
 
 **Mediation**
 
-If we are not able to resolve your issue through our complaint handling system, then you may refer the issue to our appointed mediators. Please check back here to obtain updated information about our mediators.
+If we are not able to resolve your issue through our complaint handling system, then your issue may be referred by either party to the Centre for Effective Dispute Resolution (“CEDR”) for mediation. The parties agree to mediate any issue referred to the CEDR in good faith and will do so in accordance with the CEDR’s mediation procedures.
+
+To initiate mediation, a party must give notice in writing to the other party referring the issue to mediation. A copy of the referral should be sent to CEDR. After an issue has been referred to CEDR, the parties will agree on a mediator within 14 days. If they do not agree on a mediator in that timeframe, the mediator will be nominated by CEDR. If you have a question about the mediation process, or if you wish to refer an issue to mediation, you can contact us using the Facebook P2B Support via the Commerce Manager Platform or the Facebook Business Help Centre.
 
 **Notification of changes to terms and conditions**
 
@@ -55,4 +55,4 @@ The report below describes the functioning and effectiveness of the complaint ha
 | Total Technological Issue Complaints Lodged / Submitted | 86  | 67  | 2   | 0   |
 | Total Other Platform Conduct Complaints Lodged / Submitted | 14  | 24  | 0   | 2   |
 
-Date of Last Revision: July 26, 2022
+**Date of Last Revision: December 23, 2022**
