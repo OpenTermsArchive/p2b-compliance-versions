@@ -116,6 +116,15 @@ GetaPro jebkurā laikā, pēc saviem ieskatiem, un bez Lietotāja iepriekšējā
 
 Lietotājs piekrīt un apstiprina, ka Uzņēmums nav atbildīgs par jebkāda veida zaudējumiem vai bojājumiem, kas saistīti ar jebkuras Servisa daļas nodrošināšanu (vai nenodrošināšanu), tajā skaitā peļņas vai citiem netiešiem zaudējumiem.
 
+Izpildītājs var pieprasīt atgriezt brīvo atlikumu no Virtuālā naudas maka, piekrītot atgriešanas noteikumiem:
+
+* Uzņēmums atgriež naudas līdzekļus 5 darba dienu laikā no pieprasījuma brīža uz izpildītāja maksājumu karti, no kuras tikai veikta pēdējā priekšapmaksa.
+* Uzņēmums neatgriež naudas līdzekļus, ja Virtuālā naudas maka atlikums ir 1,00€ vai mazāk.
+
+Ja pēdējo priekšapmaksu Virtuālajā naudas makā Izpildītājs veica vairāk kā pirms 3 mēnešiem, tad naudas līdzekļu vērtība Virtuālajā naudas makā tiks pārskaitīta uz Bonusa kontu, turklāt kopējā bilance paliks nemainīga. Bonuss nevar tikt izņemts reālas naudas veidā.
+
+Ja Izpildītājs nav apmeklējis savu GetaPro profilu (atvēris savu profilu izmantojot lietotājvārdu un paroli) pēdējo 18 mēnešu laikā, tad viņa bilances atlikums tiks samazināts līdz nullei.
+
 ### Servisa darbības pārtraukšana
 
 Lietotājs piekrīt un apstiprina, ka GetaPro pēc saviem ieskatiem, ir tiesības, (bet ne pienākums) nekavējoties un bez brīdināšanas atslēgt Lietotāja kontu un pārtraukt, vai kādā citā veidā ierobežot piekļuvi Vietnei jebkuru iemeslu dēļ, ja GetaPro uzskata, ka Lietotāja rīcība neatbilst šiem Lietošanas Noteikumiem.
