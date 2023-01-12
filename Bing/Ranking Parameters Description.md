@@ -64,3 +64,14 @@ Different countries or regions may have different local customs, religious or cu
 When there is a significant risk of serious harm to the public from purchasing unsafe, counterfeit, and other illegal drugs online (illegal pharmaceuticals) or accessing sites that are reasonably suspected of containing malware, Bing wants to help our users make informed decisions. With this goal in mind, we provide a set of warnings on Bing.com to give our users more information about the dangers of visiting unsafe sites. We will not prevent a user from visiting the sites. However, the warning will caution users of the risks, and provide links to resources where the user can learn more about selecting a safe online pharmacy.
 
 For illegal pharmaceuticals, this warning will appear if a Bing user selects a pharmaceutical site that has been cited by the FDA as a fake online pharmacy engaged in illegal activity, such as offering potentially dangerous, unapproved and misbranded prescription drugs to US users.
+
+RELATED TOPICS
+--------------
+
+[Remove cached pages from Bing](https://go.microsoft.com/fwlink?LinkId=282036)
+
+[Submit a request to remove content from Bing](https://go.microsoft.com/fwlink?LinkId=313698)
+
+[Report adult or offensive content](https://go.microsoft.com/fwlink?LinkId=275671)
+
+[Block adult content with SafeSearch](https://support.microsoft.com/en-gb/topic/block-adult-content-with-safesearch-946059ed-992b-46a0-944a-28e8fb8f1814)
