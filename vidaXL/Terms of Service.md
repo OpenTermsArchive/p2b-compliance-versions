@@ -624,4 +624,4 @@ _Adjunto(s) archivo(s)_
 
 [Política de devoluciones](https://www.vidaxl.es/on/demandware.static/-/Library-Sites-vidaXLSharedLibrary/default/dw53351f84/Documents/returns_conditions/ES.pdf)
 
-[Declaración de privacidad y cookies](https://www.vidaxl.es/on/demandware.static/-/Library-Sites-vidaXLSharedLibrary/default/dw04385ba4/Documents/security_privacy_policy/ES.pdf)
+[Declaración de privacidad y cookies](https://www.vidaxl.es/on/demandware.static/-/Library-Sites-vidaXLSharedLibrary/default/dwa65a1ad8/Documents/security_privacy_policy/ES.pdf)
