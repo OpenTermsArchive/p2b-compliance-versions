@@ -389,6 +389,9 @@ Get help with your reservations, account, and more.
 
 [Log in or sign up](https://www.airbnb.com/login?redirect_url=/help/article/2908)
 
+Site Footer
+-----------
+
 ### Support
 
 * [Help Center](https://www.airbnb.com/help/home?from=footer)
