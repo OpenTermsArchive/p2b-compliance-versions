@@ -285,6 +285,19 @@ Bazaraki and Bazaraki’s users work together to keep Bazaraki working properly 
 
 Without limiting other remedies, we may issue warnings, limit or terminate our service, remove hosted content and take technical and legal steps to keep users off Bazaraki if we think that they are creating problems, infringing the rights of third parties or acting inconsistently with the present Terms and Conditions (including, without limitation, circumventing temporary or permanent suspensions or harassing Bazaraki personnel or other users). However, whether we decide to take any of these steps, remove hosted content or keep a user off Bazaraki or not, we do not have any obligation to monitor the information transmitted or stored on Bazaraki and we do not accept any liability for unauthorized or unlawful content on Bazaraki or use of Bazaraki by users.
 
+3.1 Adult services
+------------------
+
+**Adult Services: Posting/using rules for adult services**
+
+The use of Bazaraki for human trafficking, slavery, sexual harassment, sexual abuse, sexual exploitation of children and/or adults or child and/or adult’s pornography is strictly prohibited. Any attempt to use Bazaraki or its services for trafficking of any kind will result in account closure, exclusion from using Bazaraki, and potential legal repercussions.
+
+You warrant, represent and undertake to the Company that, (i) neither yourself nor through any other person commit or shall commit any offence by using Bazaraki, indicated and/or included directly or indirectly, to any applicable laws, regulations, rules and codes that provide slavery, servitude and forced or compulsory labour and human trafficking, sexual harassment, sexual abuse, sexual exploitation of children and child pornography and/or adults including but not limited to the Prevention and Combating of Trafficking and Exploitation of Persons and the Protection of Victims Law 60(I) of 2014 (the “Anti-Trafficking Law”) and the Prevention and Combating of Sexual Abuse, Sexual Exploitation of Children and Child Pornography Law of 2014 (91(I)/2014) (the “Child Anti-Exploitation Law”); (ii) you are aware of the provisions of Anti-Trafficking Law and Child Anti-Exploitation Law and neither yourself nor through any other person shall use Bazaraki by any way that contradicts to and/or infringe the provisions of the Anti-Trafficking Law and the Child Anti-Exploitation Law; and (iii) you are aware that it is prohibited to use Bazaraki on the contrary to the Anti-Trafficking Law and the Child Anti-Exploitation Law.
+
+We urge all users to comply with all applicable laws and regulations of the Republic of Cyprus, especially in relation to the Anti-Trafficking Law and Child Anti-Exploitation Law. Bazaraki and its content is not intended to create any relationship between the user and the Company or any other third party. The publications, the advertisements, the posts and their content are published/uploaded directly by the users of Bazaraki and thus the Company does not assume any responsibility or liability for any content. We make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability of the adult services or the content or the information of the advertisements or posts uploaded on Bazaraki. The purchase of any adult service through Bazaraki is conducted with user’s sole responsibility and at his/her own risk.
+
+Bazaraki does not approve or consent to any form of human trafficking and/or exploitation and takes no responsibility for any activities related to them. We strongly encourage all users to read and adhere to the applicable laws and regulations of the Republic of Cyprus as well as to the following website: https://www.toraxereis.com/ where you can find useful and important information related to that matter. The human trafficking and/or exploitation and/or the participation in human trafficking and/or exploitation are illegal and lead to proceedings before the competent authorities.
+
 04\. Fees and Services
 ----------------------
 
@@ -295,6 +308,42 @@ If the service you are using is subject to a fee or the payment of a specific fe
 You agree that your ads may be deleted from the Bazaraki in case we reasonably believe that the current Terms and Conditions, including our Posting Rules, are breached, either directly or indirectly. We reserve the right not to refund the Bazaraki users for any fees paid.
 
 Please also see clause [14: Refund and Cancellation Policy.](#14)
+
+4.1“Search a car” service
+-------------------------
+
+Bazaraki may help you to find the car that fits your needs and requirements. What you have to do is to complete the relevant form which can be found on www.bazaraki.com in Cars Category.
+
+You, (as a potential buyer), must fill in the form with your personal details (name, phone number and email address) and to indicate your needs and requirements in relation to the car. Once the relevant form will be submitted, Bazaraki Team (Customer Support) shall contact you (the potential buyer), for further information and/or clarifications that might be required.
+
+The Request Form will be forwarded to the Car Dealers, including only your needs and requirements but not your contact details.
+
+The timeframe to the response is based on market conditions.
+
+Bazaraki Team shall inform you (the potential buyer) via email about the Car Dealers’ brand company name and their phone numbers and their response, so as for you (the potential buyers) to be able to contact the Dealer directly.
+
+Bazaraki shall not have any further communication and shall not be involved in the transaction regarding the purchase/sale of any car.
+
+The sale and purchase of the car shall be agreed between the Dealer and the buyer and Bazaraki shall not be involved.
+
+4.2 Search for a property
+-------------------------
+
+Bazaraki may help you to find the property that fits your needs and requirements. What you need to do is to complete the relevant form which can be found on www.bazaraki.com in Real Estate Categories
+
+You, as a potential buyer, must fill in the form with your personal details (name, phone number and email address) and to indicate your needs and requirements in relation to the property
+
+Once the relevant form will be submitted, Bazaraki Team (Customer Support) will contact you (the potential buyer), for further information and/or clarifications that might be required
+
+In order for Bazaraki to be able to connect you (potential buyer) with the seller (the Real Estate Agent) directly, you need to give your consent to share your personal credentials to the relevant agents
+
+The Property characteristics will be forwarded to the relevant Agents via email, copying the potential buyer in that email correspondence, including your contact details, needs and requirements and asking the Agents to contact you (potential buyer)
+
+Bazaraki shall not have any further communication and shall not be involved in the communication between the Agent and you (the potential buyer)
+
+The sale and purchase of the property shall be agreed between the Agent and the buyer and Bazaraki shall not be involved.
+
+Bazaraki shall ONLY connect potential buyers and potential sellers.
 
 05\. Content
 ------------
@@ -317,6 +366,8 @@ Any videos published on the Bazaraki platform are posted of the free will of the
 -----------------
 
 Do not post content that infringes the rights of third parties. This includes, but is not limited to, content that infringes on intellectual property rights such as copyright, design, and trademark (e.g. offering counterfeit items for sale). Many products of all sorts are offered on Bazaraki by private individuals in the Republic of Cyprus. Entitled parties, owners of copyright, trademark rights or other rights can report any advertisement which may infringe on their rights and submit a request for such advertisement to be removed. If a legal representative of the entitled party reports this to us in the correct manner, products infringing on the intellectual property rights will be removed by Bazaraki.
+
+You warrant, represent and undertake to BZRK that, (i) neither yourself nor through any other person shall commit any offence by using the Website, involving any applicable laws, regulations, rules and codes making provision about slavery, servitude and forced or compulsory labour and about human trafficking, sexual harassment, sexual abuse, sexual exploitation of children and child pornography and/or adults including but not limited to the Prevention and Combating of Trafficking and Exploitation of Persons and the Protection of Victims Law 60(I) of 2014 (the “Anti-Trafficking Law”) and the Prevention and Combating of Sexual Abuse, Sexual Exploitation of Children and Child Pornography Law of 2014 (91(I)/2014) (the “Child Anti-Exploitation Law”); (ii) you are aware of the provisions of Anti-Trafficking Law and Child Anti-Exploitation Law and neither yourself nor through any other person shall use the Website by any way that contradicts to the provisions of the Anti-Trafficking Law and the Child Anti-Exploitation Law; and (iii) you are aware that it is prohibited to use the Website on the contrary to the Anti-Trafficking Law and the Child Anti-Exploitation Law.
 
 07.Liability
 ------------
@@ -494,6 +545,12 @@ The Personal Data mentioned above are collected automatically through the use of
 
 15.3.3. We will collect and process Personal Data if you voluntarily provide us with such information in connection with the following:
 
+1. Any identifying information such as your name, telephone number and email address when you register for an account with us.
+2. Buying or selling information you provide during a transaction, or other transaction-based content that you generate or is connected to your account as a result of a transaction you are involved in.
+3. Financial and billing information (such as credit card or bank account numbers) in connection with a transaction with us, which is held by our trusted payment processing service providers.
+4. Your information when you submit a Feedback and/or a Support Form and/or information through your participation in community discussions, chats or when you otherwise correspond with us.
+5. Your information when you submit a Feedback and/or a Support Form and/or information through your participation in community discussions, chats or when you otherwise correspond with us.
+
 15.3.4. We may also use call-tracking technologies that will allow us and the Website Users to identify precisely the number of calls received through advertisements on the Website. By using such technologies, we might record the first six digits of your telephone number during your call with a Website User, as well as the duration, date and time of your call. This information is processed without any attempt to identify any individual. The conversation is anonymised to conceal your identity and is used merely for the assessment of the Website’s performance. Your conversation with the Website User will not be recorded nor stored on any of the servers used by Bazaraki. Website Users are only provided with anonymous \[statistical\] data, such as the total number of calls accepted via the ads on the Website.
 
 15.3.5. When using the Website, you may have the option to link one of your social media accounts instead of creating a new account. Such social media sites may automatically grant us access to some of the Personal Data retained by them about you for identification purposes. You may customise what Personal Data is shared with us through the privacy settings on the relevant social media website. By associating a social media account with the Website and authorizing us to have access to this information, you agree that we may collect, use and retain the information provided by these social media sites in accordance with this Privacy Policy.
@@ -506,6 +563,12 @@ The Personal Data mentioned above are collected automatically through the use of
 15.4.1. When you communicate with us over a phone call (whether calling us or receiving a call from us), be advised that our communication is being recorded.
 
 15.4.2. When we recording your telephone communications, we may rely on any of the following legal bases:
+
+1. To perform our obligations under a contract.
+2. For purposes of training of our staff and maintaining the quality of our services.
+3. To provide our services to you.
+4. Resolving complaints or disputes.
+5. To safeguard our legitimate interests and to establish, exercise or defend legal claims.
 
 15.4.3. Where you communicate with us over the telephone, call recordings will be saved for a period of 46 days. After such period, call recordings will be deleted automatically.
 
@@ -523,10 +586,23 @@ We do not collect any Special Category Personal Data about you (such as details 
 
 15.6.1. Depending on how you interact with us, we will collect and process your Personal Data:
 
+1. To provide our Services to you. This includes providing support, updating, improving, securing and personalising our Services.
+2. To contact you about your account and provide you customer service.
+3. To personalise our advertising and marketing communications.
+4. To comply with applicable legal requirements.
+5. Prevent, detect, mitigate, and investigate fraudulent or illegal activities.
+
 15.6.2. When processing your Personal Data, we may rely on one or more of the following Legal Bases:
 
 15.7 Who do we share your Personal Data with?
 ---------------------------------------------
+
+**15.7.1 We may disclose your Personal Data to third parties if:**
+
+1. Disclosure to companies in the Bazaraki Group of Companies, Bazaraki-controlled affiliates and subsidiaries or to third parties, where such disclosure is necessary is for the performance of the intended purposes (such as the provision of our Services). Such receiving parties are bound by appropriate confidentiality agreements. We may disclose your personal data to service providers, including financial institutions or other service providers, to facilitate the provision of their services as well as to law enforcement bodies, credit agencies or bureaus as authorized by applicable national laws.
+2. Disclosure is necessary to assert, exercise or defend legal claims and there is no reason to assume that you have a predominantly legitimate interest in not disclosing your data.
+3. You have expressly consented to this.
+4. We are legally required to disclose such data.
 
 15.7.2. When disclosure of your Personal Data is permitted or necessary, we try to restrict the Personal Data disclosed to what is directly relevant and necessary for the accomplishment the specified purpose. Apart from the above, we do not transfer your personal information to any other third party without your prior approval.
 
@@ -566,6 +642,15 @@ We will process your Personal Data at all times in a confidential way and mainta
 -----------------
 
 15.12.1. Notwithstanding the purpose or legal basis we rely on to process your data, under certain circumstances, under applicable legislation you have the following rights:
+
+* Request Access: You have the right to request access to your Personal Data.
+* Request to Correct Personal Data: You may request that we correct any incomplete or inaccurate data we hold about you, though we may need to verify the accuracy of the new data you provide to us.
+* Request to Erase Personal Data: You may request that we delete or remove any Personal Data where there is no valid legal basis for us continuing to process it. We may not always be able to comply with your request due to legal requirements that will be notified to you at the relevant time.
+* Object to Processing of Personal Data: Where there is something about your particular situation which makes you want to object to processing because it impacts on your fundamental rights and freedoms. You also have the right to object where we are processing your Personal Data for direct marketing purposes. In some cases, we may demonstrate that we have compelling legitimate grounds to process your information.
+* Request Restriction of Processing: This enables you to ask us to suspend the processing of your Personal Data if you want us to establish the data’s accuracy or where the use of such data is unlawful but you do not want us to erase it or where you need us to hold the data even if we no longer require it as you need it to establish, exercise or defend legal claims or you have objected to our use of your data but we need to verify whether we have overriding legitimate grounds to use it.
+* Request the Transfer of Personal Data: You may request that we provide you, or a third party of your choice, your Personal Data in a structured, commonly used, machine-readable format. Note that this right only applies to automated information which you initially provided consent for us to use or where we used to perform a contract with you.
+* Withdraw Consent: You may withdraw your consent to the processing of your Personal Data by emailing our DPO, at any time where we are relying on consent to process your Personal Data.
+* Right to lodge a Complaint: You have the right to lodge a complaint at any time to a data protection regulator. The relevant supervising authority in Cyprus is the Office of the Commissioner for Personal Data Protection (further information can be found at www.dataprotection.gov.cy).
 
 15.12.2. We do not normally charge any fees for access to your Personal Data (or to exercise any of the above rights). We may charge a reasonable fee if a request is clearly unfounded, repetitive or excessive. Alternatively, we may refuse to comply with a request in these circumstances.
 
@@ -676,47 +761,3 @@ We may use third parties, such as advertising networks and exchanges, to allow u
 By agreeing to Bazaraki Terms & Conditions, you accept and consent to the use of your personal information for the reasons mentioned above.
 
 Please also see [clauses 10](#10) and [15: Personal Data and Privacy Policy.](#15)
-
-1. Any identifying information such as your name, telephone number and email address when you register for an account with us.
-2. Buying or selling information you provide during a transaction, or other transaction-based content that you generate or is connected to your account as a result of a transaction you are involved in.
-3. Financial and billing information (such as credit card or bank account numbers) in connection with a transaction with us, which is held by our trusted payment processing service providers.
-4. Your information when you submit a Feedback and/or a Support Form and/or information through your participation in community discussions, chats or when you otherwise correspond with us.
-5. Additional information we are required or authorized by applicable national law to collect and process in order to authenticate or identify real estate agents.
-    
-    1. To perform our obligations under a contract.
-    2. For purposes of training of our staff and maintaining the quality of our services.
-    3. To provide our services to you.
-    4. Resolving complaints or disputes.
-    5. To safeguard our legitimate interests and to establish, exercise or defend legal claims.
-    
-    1. To provide our Services to you. This includes providing support, updating, improving, securing and personalising our Services.
-    2. To contact you about your account and provide you customer service.
-    3. To personalise our advertising and marketing communications.
-    4. To comply with applicable legal requirements.
-    5. Prevent, detect, mitigate, and investigate fraudulent or illegal activities.
-    
-    1. Processing is necessary for the provision of our Services. If your Personal Data are not provided or not provided correctly, we will be unable to provide our Services.
-    2. For marketing purposes and promotional actions regarding our clients, we consider that we have a legitimate interest in promoting our business. For the safeguarding of our legitimate interests.
-    3. Processing is necessary to protect the vital interests of a third party.
-    4. Processing is necessary for the performance of a task carried out in the public interest.
-    5. You have consented to the processing of your Personal Data for the specific purpose.
-    6. When contacting you via telephone, we may use auto-dialled or pre-recorded calls to ensure efficiency, if you have consented to such contact.
-    
-    1. Disclosure to companies in the Bazaraki Group of Companies, Bazaraki-controlled affiliates and subsidiaries or to third parties, where such disclosure is necessary is for the performance of the intended purposes (such as the provision of our Services). Such receiving parties are bound by appropriate confidentiality agreements. We may disclose your personal data to service providers, including financial institutions or other service providers, to facilitate the provision of their services as well as to law enforcement bodies, credit agencies or bureaus as authorized by applicable national laws.
-    2. Disclosure is necessary to assert, exercise or defend legal claims and there is no reason to assume that you have a predominantly legitimate interest in not disclosing your data.
-    3. You have expressly consented to this.
-    4. We are legally required to disclose such data.
-    
-    * Request Access: You have the right to request access to your Personal Data.
-    * Request to Correct Personal Data: You may request that we correct any incomplete or inaccurate data we hold about you, though we may need to verify the accuracy of the new data you provide to us.
-    * Request to Erase Personal Data: You may request that we delete or remove any Personal Data where there is no valid legal basis for us continuing to process it. We may not always be able to comply with your request due to legal requirements that will be notified to you at the relevant time.
-    * Object to Processing of Personal Data: Where there is something about your particular situation which makes you want to object to processing because it impacts on your fundamental rights and freedoms. You also have the right to object where we are processing your Personal Data for direct marketing purposes. In some cases, we may demonstrate that we have compelling legitimate grounds to process your information.
-    * Request Restriction of Processing: This enables you to ask us to suspend the processing of your Personal Data if you want us to establish the data’s accuracy or where the use of such data is unlawful but you do not want us to erase it or where you need us to hold the data even if we no longer require it as you need it to establish, exercise or defend legal claims or you have objected to our use of your data but we need to verify whether we have overriding legitimate grounds to use it.
-    * Request the Transfer of Personal Data: You may request that we provide you, or a third party of your choice, your Personal Data in a structured, commonly used, machine-readable format. Note that this right only applies to automated information which you initially provided consent for us to use or where we used to perform a contract with you.
-    * Withdraw Consent: You may withdraw your consent to the processing of your Personal Data by emailing our DPO, at any time where we are relying on consent to process your Personal Data.
-    * Right to lodge a Complaint: You have the right to lodge a complaint at any time to a data protection regulator. The relevant supervising authority in Cyprus is the Office of the Commissioner for Personal Data Protection (further information can be found at www.dataprotection.gov.cy).
-    
-    * Session cookies expire at the end of your browser session and allow us to link your actions during that particular browser session;
-    * Persistent cookies are stored on your device in between browser sessions, allowing us to remember your preferences or actions across multiple site;
-    * First-party cookies are set by the site you are visiting;
-    * Third-party cookies are set by a third-party site separate from the site you are visiting.
