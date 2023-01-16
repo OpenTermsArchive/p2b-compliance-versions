@@ -1,3 +1,5 @@
+[Aviso legal](https://www.guruwalk.com/terms/legal_notice)[Terms of service](https://www.guruwalk.com/terms/terms_policy)[Privacy policy](https://www.guruwalk.com/terms/privacy_policy)[Cookies policy](https://www.guruwalk.com/terms/cookie_policy)[PRO Plan GuruWalk](https://www.guruwalk.com/terms/pro_plan)[Community rules gurus](https://www.guruwalk.com/terms/gurus_guidelines)[Community rules walkers](https://www.guruwalk.com/terms/walkers_guidelines)[GuruWalk Affiliate FAQs](https://www.guruwalk.com/terms/affiliates_faq)[Imprint](https://www.guruwalk.com/terms/imprint)
+
 CONDICIONES APLICABLES A LOS SERVICIOS
 ======================================
 
