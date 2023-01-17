@@ -74,7 +74,7 @@ Tiesības uz intelektuālo īpašumu, t.i., Saturu, ziņām, tekstiem, failiem, 
 
 Lietotāja mijiedarbība ar organizācijām un/vai privātpersonām, atrastām Vietnē vai izmantojot Vietni, ieskaitot apmaksu, preču un pakalpojumu sniegšanu, kā arī jebkādus citus nosacījumus, garantijas vai vienošanās, saistītas ar šādiem darījumiem, notiek vienīgi starp Lietotāju un šīm organizācijām un/vai privātpersonām.
 
-Lietotājs piekrīt un apstiprina, ka GetaPro nav atbildīgs par jebkādiem zaudējumiem un kaitējumiem, kas radušies darījumu rezultātā. Geatpro neuzņemas atbildību gadījumos, kad trešās personas pārkāpj Lietotāju tiesības, iegūstot nesankcionētu piekļuvi Lietotāja Vārdam un Parolei.
+Lietotājs piekrīt un apstiprina, ka GetaPro nav atbildīgs par jebkādiem zaudējumiem un kaitējumiem, kas radušies darījumu rezultātā. GetaPro neuzņemas atbildību gadījumos, kad trešās personas pārkāpj Lietotāju tiesības, iegūstot nesankcionētu piekļuvi Lietotāja Vārdam un Parolei.
 
 Strīdu gadījumā starp Vietnes Lietotājiem, vai starp Lietotāju un jebkuru trešo personu, Lietotājs saprot un apstiprina, ka GetaPro nav pienākumu kļūt par šī strīda dalībnieku.
 
