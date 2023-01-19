@@ -39,17 +39,21 @@ Så annonserar du din bostad med Hemnet
 
 1. ### 1
     
-    Det första du gör när du behöver sälja din bostad är att välja och anlita en fastighetsmäklare. Därefter har du möjlighet att påbörja din annonsering på Hemnet.
+    Det första du gör när du vill annonsera på Hemnet är att anlita en fastighetsmäklare. Du söker enkelt efter mäklare [som passar att sälja din bostad här på Hemnet.](https://www.hemnet.se/sok-maklare/start)
     
 2. ### 2
     
-    Välj ett av Hemnets annonspaket; Hemnet Bas, Plus eller Premium. Rådfråga gärna din fastighetsmäklare om vilket paket som passar dig bäst.
+    Det är din mäklare som publicerar din annons på Hemnet. Tillsammans kan ni välja om ni vill börja som kommande eller direkt som till salu, [läs mer om att annonsera som kommande.](https://www.hemnet.se/annonsera-bostad#kommande) Annonser som först publiceras på Hemnet som kommande presterar ofta bättre än snittet.
     
 3. ### 3
     
-    Du betalar enkelt för din annons på Hemnet.se.
+    När annonsen har publicerats väljer du ett av Hemnets annonspaket; Hemnet Bas, Plus eller Premium. Rådfråga gärna din fastighetsmäklare om vilket paket som passar dig bäst.
     
-4. ### Klart!
+4. ### 4
+    
+    Du betalar enkelt för din annons på Hemnet via Klarna eller med kort.
+    
+5. ### Klart!
     
     Nu är din annons uppe på Hemnet och din marknadsföring är igång. Du följer hur det går i Säljkollen - din statistiksida på Hemnet.
     
