@@ -141,7 +141,7 @@ The Pro Platform consists of the Houzz Pro website, Houzz Pro mobile application
 
 #### 12\. Controlling Law and Jurisdiction
 
-1. **Choice of Law.** These Terms will be interpreted in accordance with the laws of the State of California and the United States of America, without regard to their conflict-of-law provisions. You and Houzz agree to submit to the personal jurisdiction of a federal or state court located in San Francisco, California for any actions for which the arbitration provision, as set forth in Section 17, does not apply.
+1. **Choice of Law.** These Terms will be interpreted in accordance with the laws of the State of California and the United States of America, without regard to their conflict-of-law provisions. You and Houzz agree to submit to the personal jurisdiction of a federal or state court located in San Francisco, California for any actions for which the arbitration provision, as set forth in Section 16, does not apply.
 2. **EEA and UK Residents.** If you are a resident of the United Kingdom or a country located in the EEA, United Kingdom law will govern these Terms, as well as any disputes that may arise between you and Houzz. You agree that any subpoena, third-party discovery request, or other third-party process directed to Houzz must issue from, or be domesticated by, the state or federal courts located within San Francisco County, California and you agree to submit to the jurisdiction of each of these courts for any related proceedings.
 
 #### 13\. Translation
