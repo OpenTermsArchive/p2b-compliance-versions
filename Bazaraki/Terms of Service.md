@@ -594,6 +594,14 @@ We do not collect any Special Category Personal Data about you (such as details 
 
 15.6.2. When processing your Personal Data, we may rely on one or more of the following Legal Bases:
 
+1. Processing is necessary for the provision of our Services. If your Personal Data are not provided or not provided correctly, we will be unable to provide our Services.
+2. For marketing purposes and promotional actions regarding our clients, we consider that we have a legitimate interest in promoting our business.
+3. For the safeguarding of our legitimate interests.
+4. Processing is necessary to protect the vital interests of a third party.
+5. Processing is necessary for the performance of a task carried out in the public interest.
+6. You have consented to the processing of your Personal Data for the specific purpose.
+7. When contacting you via telephone, we may use auto-dialled or pre-recorded calls to ensure efficiency, if you have consented to such contact.
+
 15.7 Who do we share your Personal Data with?
 ---------------------------------------------
 
