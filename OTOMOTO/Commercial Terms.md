@@ -1,9 +1,9 @@
 Regulamin dla Klientów Biznesowych
 ==================================
 
-Poniższy Regulamin obowiązuje od  28.12.2022 r.
+Poniższy Regulamin obowiązuje od  25.01.2023 r.
 
-Wcześniej obowiązujący Regulamin znajduje się [tutaj](https://pomoc.otomoto.pl/hc/pl/articles/8995010980242).
+Wcześniej obowiązujący Regulamin znajduje się [tutaj](https://pomoc.otomoto.pl/hc/pl/articles/9493716288658).
 
 Korzystanie z Serwisu OTOMOTO (w tym jego przeglądanie, rejestracja i logowanie się, korzystanie z usług oferowanych za jego pośrednictwem przez Grupę OLX Sp. z o. o.) podlega zasadom określonym w niniejszym Regulaminie. Zapoznaj się więc uważnie z jego treścią, którą prezentujemy poniżej.
 
@@ -63,9 +63,19 @@ Użyte w Regulaminie terminy oznaczają odpowiednio:
 
 23\. Wyróżniony Dealer - odpłatna usługa dodatkowa polegająca na możliwości uruchomienia kontekstowej kampanii reklamowej na łamach Serwisu OTOMOTO, dostępna dla Użytkowników, którzy (1) są Dealerami w rozumieniu Regulaminu oraz (2) wystawili co najmniej trzy Ogłoszenia dotyczące sprzedaży pojazdów w kategorii Samochody Osobowe.
 
-24\. Dezaktualizacja Ogłoszenia – sytuacja, w której (1) doszło do zbycia Przedmiotu Ogłoszenia lub (2) Użytkownik dokonał zmiany Ogłoszenia w sposób wskazujący, iż dotyczy ono innego Przedmiotu Ogłoszenia niż ten, którego dotyczyło pierwotnie.
+24\. Asystent Zakupu - usługa dodatkowa, polegająca na umożliwieniu Dealerowi przeglądanie  
+Ogłoszeń, które są publikowane w Serwisie OTOMOTO w kategorii osobowe oraz w Serwisie  
+olx.pl w kategorii Motoryzacja-Samochody osobowe, w jednym miejscu w ramach  
+funkcjonalności Konta Dealera.
 
-25\. Regulamin— niniejszy Regulamin.
+25\. Wczesny Dostęp - odpłatna usługa dodatkowa, która jest częścią usługi Asystent Zakupu.  
+Polega na umożliwieniu Dealerowi przeglądania Ogłoszeń samochodów z kategorii osobowe,  
+publikowanych w Serwisie OTOMOTO przez Ogłoszeniodawców, przed rozpoczęciem ich  
+emisji w Serwisie OTOMOTO.
+
+26\. Dezaktualizacja Ogłoszenia – sytuacja, w której (1) doszło do zbycia Przedmiotu Ogłoszenia lub (2) Użytkownik dokonał zmiany Ogłoszenia w sposób wskazujący, iż dotyczy ono innego Przedmiotu Ogłoszenia niż ten, którego dotyczyło pierwotnie.
+
+27\. Regulamin— niniejszy Regulamin.
 
 **3\. Ogólne warunki korzystania z Serwisu OTOMOTO**
 
@@ -231,7 +241,23 @@ W przypadku wyszukiwania i następnie wyłącznie przeglądania Ogłoszeń bez �
 
 16\. Usługa Wyróżniony Dealer, o której mowa w ust. 15 powyżej dostępna jest w pakietach opartych o maksymalną liczbę wyświetlanych reklam - zgodnie z cennikiem dostępnym na stronie: [Cennik dla Klientów Biznesowych](https://pomoc.otomoto.pl/hc/pl/articles/206872787-Cennik-dla-Klient%C3%B3w-Biznesowych).
 
-17\. Grupa OLX jest również Operatorem Serwisu Olx.pl i umożliwia Dealerom w ramach Serwisu OTOMOTO skorzystanie z Usług Promowania Ogłoszeń, polegających na publikacji Ogłoszenia Dealera także w Serwisie Olx.pl oraz promowania opublikowanych w taki sposób Ogłoszeń na zasadach określonych w Załączniku nr 2 Regulaminu oraz w Załączniku nr 2 do regulaminu Serwisu Olx.pl ([link](https://pomoc.olx.pl/hc/pl/articles/360000828525-Aktualny-Regulamin)).
+17\. Usługa Asystent Zakupu jest dostępna bezpłatnie dla wszystkich Dealerów, posiadających  
+pakiet Biznes Standard, Biznes Pro i Biznes Pro Plus. W ramach usługi Asystent Zakupu  
+Dealer ma możliwość przeglądania Ogłoszeń, które są publikowane w Serwisie Otomoto w  
+kategorii osobowe oraz w Serwisie olx.pl w kategorii Motoryzacja-Samochody osobowe, w  
+ramach funkcjonalności Konta Dealera.
+
+18\. Dealer, korzystający z usługi Asystent Zakupu, może skonfigurować i uruchomić odpłatną  
+usługę Wczesny Dostęp w ramach Serwisu OTOMOTO, korzystając z zakładki Centrum  
+Benefitów dostępnej w Koncie Dealera. W ramach usługi Wczesny Dostęp, Dealer ma  
+możliwość przeglądania Ogłoszeń samochodów osobowych, publikowanych w Serwisie  
+OTOMOTO w kategorii osobowe przez Ogłoszeniodawców przed rozpoczęciem ich emisji w  
+Serwisie OTOMOTO.
+
+19\. Usługa Wczesny Dostęp, o której mowa w ust. 2.25 powyżej dostępna jest w pakietach na  
+okres 30 dni z możliwością przedłużenia - zgodnie z Cennikiem dla Klientów Biznesowych.
+
+20\. Grupa OLX jest również Operatorem Serwisu Olx.pl i umożliwia Dealerom w ramach Serwisu OTOMOTO skorzystanie z Usług Promowania Ogłoszeń, polegających na publikacji Ogłoszenia Dealera także w Serwisie Olx.pl oraz promowania opublikowanych w taki sposób Ogłoszeń na zasadach określonych w Załączniku nr 2 Regulaminu oraz w Załączniku nr 2 do regulaminu Serwisu Olx.pl ([link](https://pomoc.olx.pl/hc/pl/articles/360000828525-Aktualny-Regulamin)).
 
 **7\. Zasady odpowiedzialności**
 
@@ -530,7 +556,8 @@ Specyfikacja Pakietów dla kategorii: Osobowe.
 | Dostęp do czytnika kodu Aztec<br><br>_Planowana dostępność w przyszłości_ | Dostępny | Dostępny | Dostępny | Dostępny |
 | Dostęp do Strony o Sprzedającym PRO<br><br>_Planowana dostępność w przyszłości_ | Dostępny | Dostępny | Dostępny | Dostępny |
 | Dostęp do Wyróżniony Dealer | Dostępny | Dostępny | Dostępny | Dostępny |
-| Dostęp do narzędzia Asystent Zakupu<br><br>_Planowana dostępność w przyszłości_ | Brak | Brak | Brak | Dostępny |
+| Dostęp do narzędzia Asystent Zakupu | Brak | Dostępny | Dostępny | Dostępny |
+| Dostęp do usługi Wczesny dostęp<br><br>(tylko kategoria: Osobowe) | Brak | Dostępny | Dostępny | Dostępny |
 | Dostęp do Centrum Benefitów | Dostępny | Dostępny | Dostępny | Dostępny |
 
 \* nie funkcjonuje na urządzeniach mobilnych
@@ -724,7 +751,7 @@ Obsługa mailowa: 08:00 - 18:00
 Powiązane artykuły
 ------------------
 
-* [Cennik dla Klientów Biznesowych](https://pomoc.otomoto.pl/hc/pl/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGkE06BUDDoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCLk5%2BdFTADoLbG9jYWxlSSIHcGwGOgZFVDoIdXJsSSJDL2hjL3BsL2FydGljbGVzLzIwNjg3Mjc4Ny1DZW5uaWstZGxhLUtsaWVudCVDMyVCM3ctQml6bmVzb3d5Y2gGOwhUOglyYW5raQY%3D--e1daa6eb29b87cfdaf49c1ccd899be924033695d)
+* [Specyfikacja pakietów i cennik dla Klientów Biznesowych](https://pomoc.otomoto.pl/hc/pl/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGkE06BUDDoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCLk5%2BdFTADoLbG9jYWxlSSIHcGwGOgZFVDoIdXJsSSJgL2hjL3BsL2FydGljbGVzLzIwNjg3Mjc4Ny1TcGVjeWZpa2FjamEtcGFraWV0JUMzJUIzdy1pLWNlbm5pay1kbGEtS2xpZW50JUMzJUIzdy1CaXpuZXNvd3ljaAY7CFQ6CXJhbmtpBg%3D%3D--f0b9ce4553947375f416772265a89322bb9937fd)
 * [Regulamin dla Klientów Indywidualnych](https://pomoc.otomoto.pl/hc/pl/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCJEX6dFTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCLk5%2BdFTADoLbG9jYWxlSSIHcGwGOgZFVDoIdXJsSSJML2hjL3BsL2FydGljbGVzLzM2MDAwMzk5OTYzMy1SZWd1bGFtaW4tZGxhLUtsaWVudCVDMyVCM3ctSW5keXdpZHVhbG55Y2gGOwhUOglyYW5raQc%3D--bd9126131ac90c83ca72b6227a6a55d47047e059)
 * [Cennik dla Klientów Indywidualnych](https://pomoc.otomoto.pl/hc/pl/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGkEE0LmDDoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCLk5%2BdFTADoLbG9jYWxlSSIHcGwGOgZFVDoIdXJsSSJGL2hjL3BsL2FydGljbGVzLzIxNjQxNjc4Ny1DZW5uaWstZGxhLUtsaWVudCVDMyVCM3ctSW5keXdpZHVhbG55Y2gGOwhUOglyYW5raQg%3D--0e7a37bab53b6dcd7e45b032cf0d365a2b4da7a6)
 * [Polityka prywatności](https://pomoc.otomoto.pl/hc/pl/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCNqK7NFTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCLk5%2BdFTADoLbG9jYWxlSSIHcGwGOgZFVDoIdXJsSSI7L2hjL3BsL2FydGljbGVzLzM2MDAwNDIyNTc1NC1Qb2xpdHlrYS1wcnl3YXRubyVDNSU5QmNpBjsIVDoJcmFua2kJ--637009d0f7f23a62d533d4345e52bf2185530f84)
