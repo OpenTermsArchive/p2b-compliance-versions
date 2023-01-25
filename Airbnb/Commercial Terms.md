@@ -17,7 +17,7 @@ Additional Terms for Experience Hosts
 
 IF YOU RESIDE IN, OR THE ORGANIZATION YOU ARE ACTING FOR IS ESTABLISHED IN, THE UNITED STATES, PLEASE NOTE: THE ARBITRATION CLAUSE AND CLASS ACTION WAIVER CONTAINED IN THE [AIRBNB TERMS OF SERVICE](https://www.airbnb.com/terms) APPLY TO ANY DISPUTE RELATING TO THESE ADDITIONAL TERMS FOR EXPERIENCE HOSTS.
 
-Last Updated: February 10, 2022
+Last Updated: January 25, 2023
 
 You agree to these Additional Terms for Experience Hosts ("**Experience Host Terms**") when you submit a Listing for an Experience on the Airbnb Platform.
 
