@@ -6,13 +6,15 @@ General Terms and Conditions for Restaurants
 
 Section A (Definitions) 1
 
-Section B (General Terms)5
+Section B (General Terms) 5
 
-Section C (Supplemental Terms – Payment Services)17
+Section C (Supplemental Terms – Payment Services)19
 
-Section D (Supplemental Terms – Delivery Services) 20
+Section D (Supplemental Terms – Delivery Services) 22
 
-Section E (Supplemental Terms – Stampcards)22
+Section E (Supplemental Terms – Stampcards) 24
+
+Section F (Supplemental Terms – Stores) 26
 
 
 
@@ -30,19 +32,17 @@ Capitalised words in the Agreement have the following meanings:
 
 Affiliate means:
 
-(i) for a Restaurant Partner, any relative, spouse, subsidiary,
+(i) for you, any relative, spouse, subsidiary, holding company,
 
-holding company, ultimate holding company or sister
-
-company of the Restaurant Partner; and
+ultimate holding company or sister company of you; and
 
 (ii) for Thuisbezorgd.nl, a person who is, from time to time, a
 
 (direct or indirect) subsidiary or holding company of
 
-Thuisbezorgd.nl, or is a subsidiary of Thuisbezorgd.nl’s
+Thuisbezorgd.nl, or is a subsidiary of Thuisbezorgd.nl’s (direct
 
-(direct or indirect) holding company, or is a party in which
+or indirect) holding company, or is a party in which
 
 Thuisbezorgd.nl’s (direct or indirect) holding company owns
 
@@ -50,11 +50,11 @@ Thuisbezorgd.nl’s (direct or indirect) holding company owns
 
 controls 30% (thirty percent) or more of the voting rights.
 
-Agreement means the registration form or otherwise, the General Terms and
+Agreement means the registration form or otherwise, the General Terms and Conditions
 
-Conditions for Restaurants and, insofar as applicable, the Supplemental
+for Restaurants and, insofar as applicable, the Supplemental Terms as
 
-Terms as annexed hereto.
+annexed hereto.
 
 Business Day means a weekday that is not a public holiday in the relevant operating
 
@@ -64,51 +64,53 @@ Card Order means an Order that is not a Cash Order.
 
 Cash Order means an Order paid for by cash.
 
-Chargeback means a fee charged to us by a financial institution (e.g. a Customer’s
+Chargeback means a fee charged to us by a financial institution (e.g. a Customer’s card
 
-card issuing bank or merchant acquirer) in relation to the reversal of a
+issuing bank or merchant acquirer) in relation to the reversal of a card
 
-card transaction.
+transaction.
 
 Connection Method means ordering devices and or any software, program or application
 
-provided which enables you to receive Orders in your Restaurant.
+provided which enables you to receive Orders.
 
 Courier means a person working directly or indirectly for Thuisbezorgd.nl who
 
-performs the delivery of an Order in the context of the Delivery Services
+performs the delivery of an Order in the context of the Delivery Services.
+
+Courier Waiting Time means, where we have agreed to procure the Delivery Services, a situation
+
+where an Order is not ready to be picked up when the Courier arrives at the
+
+Premises at the expected Pick-up Time.
 
 Customer a natural person or legal entity who has used the Platform to place an
 
 Order.
 
-Data Protection
+Data Protection means Regulation (EU) 2016/679, as amended, revised and replaced, and/or
 
-Legislation
 
-means Regulation (EU) 2016/679, as amended, revised and replaced,
 
-and/or any legislation implementing or made pursuant to them, or which
+08-02-2023 1
 
-amends, replaces, re-enacts or consolidates any of them, and all other
+Legislation any legislation implementing or made pursuant to them, or which amends,
 
-applicable laws relating to processing of personal data and privacy that
+replaces, re-enacts or consolidates any of them, and all other applicable laws
 
-may exist in any relevant jurisdiction, including, where applicable, the
+relating to processing of personal data and privacy that may exist in any
 
-guidance and codes of practice issued by supervisory authorities.
+relevant jurisdiction, including, where applicable, the guidance and codes of
+
+practice issued by supervisory authorities.
 
 "data controller", "data processor", "data subject", "personal data",
 
-
-
-Version 1.2 10-10-2022 1
-
 "personal data breach", "processing", and "appropriate technical and
 
-organisational measures" will be interpreted in accordance with the
+organisational measures" will be interpreted in accordance with the Data
 
-Data Protection Legislation.
+Protection Legislation.
 
 Delivery Distance means the distance between a Restaurant and the Customer, determined
 
@@ -116,9 +118,9 @@ solely by us based on radius and polygon.
 
 
 
-Delivery Services means a service provided by us to collect and deliver the Orders from
+Delivery Services means a service provided by us to collect and deliver the Orders from your
 
-your Restaurant to a Customer.
+Restaurant to a Customer.
 
 Delivery Time means, where you arrange delivery yourself, either the delivery time
 
@@ -134,73 +136,73 @@ fees specified on the registration form or otherwise confirmed by us in
 
 writing or charged to you by us for the Services.
 
-Force Majeure
+Force Majeure Event means an event beyond the reasonable control of either party including but
 
-Event
-
-means an event beyond the reasonable control of either party including
-
-but not limited to strikes, lock-outs or other industrial disputes (whether
+not limited to strikes, lock-outs or other industrial disputes (whether
 
 involving the workforce of the party or a third party), failure of a material
 
-utility service or transport network, act of God, war, riot, act of terrorism,
+utility service or transport network, act of God, war, riot, act of terrorism, civil
 
-civil commotion, epidemic or pandemic, malicious damage by a third
+commotion, epidemic or pandemic, malicious damage by a third party,
 
-party, compliance with any law or governmental order, rule, regulation or
+compliance with any law or governmental order, rule, regulation or direction
 
-direction by a third party, material accident, cyber-attacks, breakdown of
+by a third party, material accident, cyber-attacks, breakdown of plant or
 
-plant or machinery, fire, weather phenomena (e.g.: lightning, ice, flooding,
+machinery, fire, weather phenomena (e.g.: lightning, ice, flooding, heavy
 
-heavy snowfall) or capacity problems.
+snowfall) or capacity problems.
 
 Foundation means Stichting Derdengelden Takeaway.com, a foundation incorporated
 
-under Dutch law, established in Amsterdam at Piet Heinkade 61, 1019
+under Dutch law, established in Amsterdam at Piet Heinkade 61, 1019 GM
 
-GM and registered in the Commercial Register of the Chamber of
+and registered in the Commercial Register of the Chamber of Commerce
 
-Commerce under number 64593932.
+under number 64593932.
 
-Goods means the dishes, menu items and products offered by your Restaurant.
+Goods means the dishes, menu items and products offered by you.
+
+
 
 Gross Order Value means the total amount charged by you to the Customer for an Order
 
 including the value of the Goods, any delivery charges levied by you and
 
-any applicable taxes. To be clear, where we provide Delivery Services,
+any applicable taxes. To be clear, where we provide Delivery Services, we
 
-we will levy the delivery charges to the Customer and such charges will
+will levy the delivery charges to the Customer and such charges will not
 
-not form part of the Gross Order Value.
+form part of the Gross Order Value.
 
-IPRs mean any and all intellectual property rights of any nature anywhere in
+IPRs mean any and all intellectual property rights of any nature anywhere in the
 
-the world whether registered, unregistered, registrable or otherwise,
+world whether registered, unregistered, registrable or otherwise, including
 
-including any Trademark.
+any Trademark.
 
-KYC Information means all documents and data required by Thuisbezorgd.nl in
+KYC Information means all documents and data required by Thuisbezorgd.nl in compliance
 
-compliance with know-your-customer obligations pursuant to the Dutch
+with know-your-customer obligations pursuant to the Dutch Money
 
-Money Laundering and Terrorist Financing Prevention Act, the Dutch
+Laundering and Terrorist Financing Prevention Act, the Dutch Sanctions Act
 
-Sanctions Act and the EU Directive on the prevention of the use of the
+and the EU Directive on the prevention of the use of the financial system for
 
-financial system for the purposes of money laundering or terrorist
+the purposes of money laundering or terrorist financing and the applicable
 
-financing and the applicable Sanctions List, all as amended from time to
-
-time.
+Sanctions List, all as amended from time to time.
 
 Platform means any of the Thuisbezorgd.nl websites and its affiliated websites,
 
-mobile applications and ordering platforms, including Restaurant
+mobile applications and ordering platforms, including any website we may
 
-Websites.
+create for you.
+
+
+
+08-02-2023 2
 
 Order means an order for Goods placed by a Customer via the Platform.
 
@@ -208,29 +210,35 @@ Payment Partner means a Restaurant that receives the Payment Services.
 
 Payment Services means collecting and securing on your behalf payments from Customers
 
-and transferring these payments to you, Thuisbezorgd.nl or TP; as well
+and transferring these payments to you, Thuisbezorgd.nl or TP; as well as
 
-as the managing and processing of refunds on your behalf.
-
-
-
-Version 1.2 10-10-2022 2
+the managing and processing of refunds on your behalf.
 
 Premises means the physical premises at which the Restaurant operates.
 
-Preparation Time means, where we have agreed to procure the Delivery Services, either
+Preparation Time /
 
-the preparation time indicated by you via the Connection Method (with a
+Pick-up Time
 
-maximum of 45 minutes) or the delivery time priorly indicated by the
+means, where we have agreed to procure the Delivery Services, either the
 
-Customer minus 15 minutes and confirmed by you, by which the Order
+(i) preparation time indicated by you via the Connection Method (with
 
-will be ready for pick-up by a Courier.
+a maximum of 45 minutes)
 
-Restaurant means a restaurant from which food, drinks and other goods are
 
-prepared pursuant to Orders placed by Customers via the Platform.
+
+or
+
+(ii) the delivery time priorly indicated by the Customer minus 15
+
+minutes and confirmed by you
+
+by which the Order will be ready for pick-up (Pick-up Time) by a Courier.
+
+Restaurant means a restaurant from which Goods are prepared pursuant to Orders
+
+placed by Customers via the Platform.
 
 Restaurant
 
@@ -240,19 +248,15 @@ means the information about your Restaurant and includes KYC
 
 Information, the information about your Goods, menu, address, opening
 
-hours, delivery radius and contact details, and may, at our request,
+hours, delivery radius and contact details, and may, at our request, include
 
-include a complete set of records to trace the supply chain of all Goods
+a complete set of records to trace the supply chain of all Goods and
 
-and services you provide.
+services you provide.
 
-Restaurant Portal means the online portal http://restaurants.thuisbezorgd.nl and any
+Partner Hub means the online portal and any accompanying tools and services made
 
-accompanying tools and services available for the Restaurant.
-
-Restaurant Website means a website created by us, related to a Restaurant, with a domain
-
-name determined by us.
+available by us to you for managing your business on the Platform.
 
 Same Price
 
@@ -262,41 +266,35 @@ means your guarantee that the prices, discounts and special offers you
 
 provide in respect of Goods and services offered by you on the Platform
 
-(including any delivery charges and minimum order values set by you)
+(including any delivery charges and minimum order values set by you) are
 
-are the same as Goods and services ordered via your own online
+the same as Goods and services ordered via your own online channels. We
 
-channels. We require you to do this for commercial reasons, and to
+require you to do this for commercial reasons, and to ensure that the prices,
 
-ensure that the prices, discounts and special offers are just as
+discounts and special offers are just as competitive on the Platform as they
 
-competitive on the Thuisbezorgd.nl Platform as they are on your own
+are on your own online channels.
 
-online channels.
+Sanction Lists means overviews of sanctioned countries, persons and entities and issued
 
-Sanction Lists means overviews of sanctioned countries, persons and entities and
+by organisations such as the United Nations, European Union or by national
 
-issued by organisations such as the United Nations, European Union or
+authorities in the EU member states in which TP provides the Payment
 
-by national authorities in the EU member states in which TP provides the
-
-Payment Services.
+Services.
 
 Services has the meaning given in Clause 2.1
 
-Stampcard
-
-Program
-
-means the award program, which allows Customers to collect stamps
+Stampcard Program means the award program, which allows Customers to collect stamps
 
 awarded by a participating Restaurant on a Stampcard. The Customer
 
-earns a Stampcard Voucher (at the cost of a participating Restaurant)
+earns a Stampcard Voucher (at the cost of a participating Restaurant) once
 
-once the Stampcard is full, which is redeemable when placing an Order
+the Stampcard is full, which is redeemable when placing an Order with the
 
-with the participating Restaurant.
+participating Restaurant.
 
 Stampcard Voucher means a restaurant-specific voucher awarded to the Customer for a full
 
@@ -310,17 +308,21 @@ previous week (being Monday to Sunday inclusive).
 
 Thuisbezorgd.nl means Takeaway.com European Operations B.V., a private company with
 
-limited liability incorporated under Dutch law, having its registered office
+limited liability incorporated under Dutch law, having its registered office at
 
-at Piet Heinkade 61, 1019 GM Amsterdam and registered in the
+Piet Heinkade 61, 1019 GM Amsterdam and registered in the Commercial
 
-Commercial Register of the Chamber of Commerce under number
 
-69769753 acting for itself and on behalf of any corporate entity or person
 
-that controls, are controlled by or under the common control, directly or
+08-02-2023 3
 
-indirectly, with Takeaway.com Group B.V.
+Register of the Chamber of Commerce under number 69769753 acting for
+
+itself and on behalf of any corporate entity or person that controls, are
+
+controlled by or under the common control, directly or indirectly, with
+
+Takeaway.com Group B.V.
 
 Thuisbezorgd.nl
 
@@ -334,10 +336,6 @@ Tip means the amount paid by a Customer intended for the courier delivering
 
 the Order.
 
-
-
-Version 1.2 10-10-2022 3
-
 TP means Takeaway.com Payments B.V., a private company with limited
 
 liability incorporated under Dutch law, established in Amsterdam at Piet
@@ -346,13 +344,13 @@ Heinkade 61, 1019 GM and registered in the Commercial Register of the
 
 Chamber of Commerce under number 67982778.
 
-Trademark means the words “Thuisbezorgd.nl”, “Takeaway.com”, the House Logo,
+Trademark means the words “Thuisbezorgd.nl”, “Takeaway.com”, the h ouse l ogo,
 
-and any other registered or unregistered trademarks and logos used by
+and any other registered or unregistered trademarks and logos used by us
 
-us or any Affiliates, separately and in combination (whether registered or
+or any Affiliates, separately and in combination (whether registered or not),
 
-not), and references to “our Trademark” are references to the Trademark.
+and references to “our Trademark” are references to the Trademark.
 
 
 
@@ -364,7 +362,7 @@ Agreement.
 
 
 
-Version 1.2 10-10-2022 4
+08-02-2023 4
 
 SECTION B. GENERAL TERMS
 
@@ -444,27 +442,29 @@ relating to your Restaurant, and display your brand name or menu in search resul
 
 online maps) or by adding links to the Platform in search engine results for your brand;
 
-(b) create, register and promote a Restaurant Website using your brand, menu and logo, and with a
 
-domain name using your brand. We will own that domain name and all intellectual property rights
 
-related to the Restaurant Website (with the exception of your brand, menu and logo).
+(b) create, register and promote a website using your brand, menu and logo, and with a domain
 
-(c) link the Restaurant Website, or any other online assets controlled by you (such as Google My
+name using your brand. We will own that domain name and all intellectual property rights related
 
-Business pages) to the Platform to enable customers to place Orders;
+to that website (with the exception of your brand, menu and logo) and link that website or any
 
-(d) include your Restaurant in promotional activity through several marketing channels (physical and
+other online assets controlled by you (such as Google My Business pages) to the Platform to
+
+enable customers to place Orders;
+
+(c) include your Restaurant in promotional activity through several marketing channels (physical and
 
 digital), including (third-party) affiliated platforms, and will use your approved logo and
 
 
 
-Version 1.2 10-10-2022 5
+08-02-2023 5
 
 Restaurant Information in these activities; and
 
-(e) provide you with various marketing collateral and guidelines on how you may use this collateral
+(d) provide you with various marketing collateral and guidelines on how you may use this collateral
 
 to promote your business and your association with us.
 
@@ -544,9 +544,9 @@ subject to investigation or prosecution by any authority.
 
 7.5 After the acceptance and complete processing of a registration, we will provide you with access to
 
-the Restaurant Portal. In the Restaurant Portal, we will publish information relevant to you, such as
+the Partner Hub. In the Partner Hub, we will publish information relevant to you, such as the
 
-the processed Orders, Card Orders, Payments owed and invoices.
+processed Orders, Card Orders, Payments owed and invoices.
 
 
 
@@ -562,21 +562,21 @@ terminate this Agreement, in accordance with Clause 14.1 or 14.3 (as applicable)
 
 
 
-7.7 Access to the Restaurant Portal is personal and confidential. You must at all times keep your log-in
+7.7 Access to the Partner Hub is personal and confidential. You must at all times keep your log-in
 
 credentials and authentication methods confidential and secure and must only provide access to the
 
 
 
-Version 1.2 10-10-2022 6
+08-02-2023 6
 
-Restaurant Portal to your authorised employees or representatives. You are at all times responsible
+Partner Hub to your authorised employees or representatives. You are at all times responsible for
 
-for your use of the Restaurant Portal and any use of your accounts and the settings of your accounts
+your use of the Partner Hub and any use of your accounts and the settings of your accounts on the
 
-on the Restaurant Portal. Any actions on your Restaurant Portal account will be deemed by us to be
+Partner Hub. Any actions on your Partner Hub account will be deemed by us to be authorised activity
 
-authorised activity on behalf of your Restaurant.
+on behalf of your Restaurant.
 
 
 
@@ -626,61 +626,77 @@ use SEA (Search Engine Advertising) and/or similar services using the Trademarks
 
 explicit consent.
 
-8.4. You must promptly provide us with accurate and complete details of any allergens in your food in
+8.4. You must promptly provide us with accurate and complete details of any allergens in your Goods (for
 
-accordance with applicable laws and standards. We may also require you to provide further
+example, identifying which items contain nuts, shellfish, etc.), nutritional information of the Goods (if
+
+and as required by applicable law) and any other accurate and complete details of your Goods as
+
+may be required by applicable law and regulations. We may also require you to provide further
 
 information including the ingredient list for each menu item. We will include the allergen information
 
-you provide on the Platform. You are responsible for ensuring that all allergen information you
+you provide on the Platform. You are solely responsible for ensuring that all the information including
 
-provide (both to us for inclusion on the Platform and directly to any Customers or customer services
+but not limited to the allergen information you provide (both to us for inclusion on the Platform and
 
-contacting you to request details relating to the Goods) is entirely accurate, complete and up to date
+directly to any Customers or customer services contacting you to request details relating to the
 
-in relation to food items being prepared for your Restaurant at that time. Customers may be directed
+Goods) is entirely accurate, complete and up to date in relation to your in-house item information or
 
-to contact you (or we may contact you on behalf of Customers) with any questions regarding
+food items being prepared for your Restaurant at that time and that the information complies with all
 
-allergens. We do not undertake to check and are not liable for checking allergen information on your
+regulations and laws applicable to you and your business (including but not limited to food packaging
 
-behalf.
+and labelling requirements and in relation to allergy information). Customers may be directed to
 
-8.5. You must immediately inform us if any food inspection authority or any other authority establishes an
+contact you (or we may contact you on behalf of Customers) with any questions regarding allergens.
 
-offence by you or your employees under applicable foodstuff legislation or any other legislation or
+We do not undertake to check and are not liable for checking any provided information on Goods
 
-regulations.
+(including allergen information) on your behalf. You will promptly report in writing to us any errors in
 
-8.6. If a Customer complains to us about an Order or your delivery and we give you details of the
+the information displayed on the Platform or any changes to such information, including any allergy
+
+information. You agree that you will solely be responsible for any discrepancies between the
+
+information provided on the Platform and the information in your in-house information, and any
+
+adverse effect resulting out of such discrepancies. You must immediately inform us if any food
+
+inspection authority or any other authority establishes an offence by you or your employees under
+
+applicable foodstuff legislation or any other legislation or regulations.
+
+8.5. If a Customer complains to us about an Order or your delivery and we give you details of the
 
 complaint, you must respond to the Customer as soon as possible and act reasonably and cooperate
 
 with that Customer and us to reach a prompt resolution.
 
-8.7. You may not use any marketing materials containing logos/branding of our competitors in
+8.6. You may not use any marketing materials containing logos/branding of our competitors in
 
 connection with fulfilling any Orders.
 
-8.8. If we have incurred costs as a result of a complaint about your Goods, services or conduct (including
+8.7. If we have incurred costs as a result of a complaint about your Goods, services or conduct (including
+
+
+
+08-02-2023 7
 
 where you have rejected an Order), you will be obliged to reimburse us in full for those costs.
 
-8.9. You must keep the Connection Method in good working condition and return any physical device to
+8.8. You must keep the Connection Method in good working condition and return any physical device to
 
 us at the end of this Agreement, unless you have purchased the device. If it is not returned, or if it is
 
 damaged, we may charge you for the reasonable costs of repairing or replacing it.
 
-8.10. The Connection Method software always remains our property, or that of our licensors. We may
+8.9. The Connection Method software always remains our property, or that of our licensors. We may
 
 upgrade or alter the Connection Method hardware or Connection Method software at any time, and
 
 we may remotely access the Connection Method software at any time for any lawful reason, in
-
-
-
-Version 1.2 10-10-2022 7
 
 particular to update the software or to perform software maintenance. You are authorised to use this
 
@@ -690,31 +706,61 @@ must not reverse engineer, decompile, disassemble, reproduce or otherwise misuse
 
 Method software.
 
-8.11. If the Connection Method contains a SIM card, you must ensure that it is only used in connection
+8.10. If the Connection Method contains a SIM card, you must ensure that it is only used in connection
 
 with this Agreement. We may invoice you for any costs incurred by us which we believe result from
 
 the SIM card being used for any other reason.
 
-8.12. During the Term, you must not:
+8.11. During the Term, you must not:
 
 (a) operate your business in a manner which is, harmful to our business, goodwill or reputation;
 
-(b) engage in any act or omission which is harmful to our business, goodwill or reputation; or
+
+
+(b) engage in any act or omission which is harmful to our business, goodwill or reputation;
 
 (c) do or say anything derogatory that might bring us into disrepute or adversely affect our
 
-reputation.
+reputation; or
 
-(d) behave in an indecent or unrespectful manner towards customers, our employees or suppliers;
+
+
+(d) behave in an indecent or unrespectful manner towards customers, our employees or suppliers.
 
 If you are in breach of this Clause 8.12, we may restrict, suspend, or terminate part of, the Services,
 
 or terminate this Agreement, in accordance with Clause 14.1 or 14.3 (as applicable).
 
+
+
+8.12A You are responsible for the quality of the Goods, and you will ensure that they are of good
+
+merchantable quality, not expired and safe for consumption and/or use.
+
+8.12B For the avoidance of doubt, no Goods, including but not limited to the age restricted goods such as
+
+pharmaceuticals or tobacco or smoking products will be made available on the Platform unless such
+
+offering is proposed in writing and approved by us, considering that such approval can be refused
+
+by us, or made subject to certain conditions, in our sole discretion.
+
+8.12C Any Restaurant which lists and sells Goods which require a licence (e.g. the sale of alcohol products,
+
+or hot food or drinks between certain hours (as applicable)), or is subject to certain rules such as time
+
+or volume restrictions, buyer verifications or age restrictions (as applicable), must ensure that they
+
+hold the required licences or adhere to the said rules, and will provide to us such details on request.
+
+We are not responsible for the compliance of any legal requirement or condition imposed on you by
+
+way of specific, general, local, regional, national or any other laws and regulations.
+
 Same Price Guarantee
 
-8.13. During the term, you must apply the Same Price Guarantee. If you breach the Same Price
+8.12. During the term, you must apply the Same Price Guarantee. If you breach the Same Price
 
 Guarantee, the price difference between the price as listed on the Platform and the price charged
 
@@ -732,23 +778,63 @@ match those on your own website and menu.
 
 Obligations to Customers
 
-8.14. You will prepare, handle and package the Goods ordered by Customers on the Premises and with all
 
-reasonable care and skill, making sure that the Goods are:
+
+8.13. You agree to receive, process, prepare and package for delivery to the Customer in a timely manner,
+
+using skill, care, diligence and quality consistent with best industry practices and all applicable laws,
+
+rules, requirements and regulations.
+
+
+
+8.14. The Goods included in the Order must correspond to what is stated in the Order as received by you
+
+
+
+08-02-2023 8
+
+without error, and be in good and fair quality within the description of the Order. You will prepare,
+
+handle and package the Goods ordered by Customers on the Premises and with all reasonable care
+
+and skill, making sure that the Goods are:
 
 (a) safe to eat;
 
 (b) of the standard expected;
 
-(c) hygienically made, packaged, transported (if applicable) and stored;
+(c) hygienically made, packaged, contained in such way that (e.g. appropriate temperature and
 
-(d) labelled correctly; and
+environmental thresholds, appropriate segregation of products) which does not compromise their
 
-(e) made in accordance with additional reasonable instructions provided by the Customer;
+quality or safety in transit to the Customer, transported (if applicable) and stored;
 
-(f) made with the correct ingredients as communicated to Customers.
 
-8.15. You acknowledge and agree that once a Customer has placed an Order via the Platform, a contract
+
+(d) labelled correctly;
+
+(e) made in accordance with additional reasonable instructions provided by the Customer (with the
+
+Customer comments included in the Order);
+
+
+
+(f) made with the correct ingredients as communicated to Customers; and
+
+(g) packaged separately and readily identifiable in case of age restricted products.
+
+8.15. You will ensure that potentially hazardous foods and perishable foods are properly prepared and
+
+packaged for delivery to avoid cross-contamination (i.e. separating raw foods from cooked foods;
+
+meat from non-meat, warm/hot food from cold/frozen food; non-allergen foods from allergen foods;
+
+foods for people from pet foods; foods from household chemicals and personal care products; etc.)
+
+and to maintain temperature controls during transportation.
+
+8.16. You acknowledge and agree that once a Customer has placed an Order via the Platform, a contract
 
 for the supply of Goods has been created between you and the Customer, and you must fulfil an
 
@@ -764,7 +850,7 @@ take any reasonable action we see fit (including refunding the Customer on your 
 
 expense) in order to mitigate a negative customer experience.
 
-8.16. You must use your best efforts to be available to accept, and in fact accept, all Orders received from
+8.17. You must use your best efforts to be available to accept, and in fact accept, all Orders received from
 
 us and to be contacted via email and telephone during your opening hours. If you are unable to fulfil
 
@@ -776,25 +862,29 @@ cannot provide one or more menu items contained in an Order, you must inform the
 
 ten (10) minutes after receiving the Order and offer the Customer a reasonable alternative.
 
-Non-compliance with Clauses 8.14, 8.15 or 8.16 gives us the right to suspend provision of Services.
+Non-compliance with Clauses 8.14, 8.15, 8.16, 8.17 or 8.18 gives us the right to suspend provision
 
+of Services.
 
+8.18. If you list alcohol products on your menu, you must provide the volume and ‘alcohol by volume’
 
-Version 1.2 10-10-2022 8
+(ABV) of each alcohol product available on the Platform. Where the Order contains alcohol or any
 
-8.17. Where the Order contains alcohol or any other age-restricted goods, you acknowledge that you are
+other age-restricted Goods, you acknowledge that you are solely responsible for ensuring that the
 
-solely responsible for ensuring that the Customer is over the relevant legal age for the purchase of
+Customer is over the relevant legal age for the purchase of any age-restricted Goods. You are
 
-any age-restricted goods. You are obliged to request the Customer to provide identification in
+obliged to request the Customer to provide identification in accordance with applicable law upon
 
-accordance with applicable law upon delivery or pick-up. If the Customer cannot identify himself
+delivery or pick-up. If the Customer cannot identify himself adequately or does not meet the minimum
 
-adequately or does not meet the minimum age requirements, you must refuse to deliver the relevant
+age requirements, you must refuse to deliver the relevant products to the Customer. When an age
 
-products to the Customer.
+restricted product is returned to you, you will accept return of the Good and log such return in
 
-8.18. You may cancel an Order if:
+accordance with the local laws and regulations, if applicable.
+
+8.19. You may cancel an Order if:
 
 (a) the Customer has placed the Order with incorrect contact or address information;
 
@@ -810,7 +900,11 @@ If an Order is cancelled, you will notify us thereof within two (2) days. Cancel
 
 into consideration after this period.
 
-8.19. We reserve the right to introduce a tipping function to the Platform, which will give Customers the
+8.20. We reserve the right to introduce a tipping function to the Platform, which will give Customers the
+
+
+
+08-02-2023 9
 
 option to tip couriers via the available online payment methods on the Platform. If the courier is
 
@@ -824,19 +918,57 @@ you are solely responsible for any (wage) tax implications relating to the payme
 
 courier.
 
-8.20. You must provide the Customer with a receipt (and a tax invoice, if applicable) in respect of an Order,
+8.21. You must provide the Customer with a receipt (and a tax invoice, if applicable) in respect of an Order,
 
 if you are asked to do so.
 
 General
 
-8.21. You must comply with, and ensure your employees’, agents’ and contractors’ compliance with, your
+8.22. You must comply with, and ensure your employees’, agents’ and contractors’ compliance with, your
 
 obligations under this Agreement.
 
-8.22. You must follow any reasonable instructions we give you in relation to the performance of your
+8.23. You must follow any reasonable instructions we give you in relation to the performance of your
 
 obligations under this Agreement, including the use of the Connection Method.
+
+8A CONNECTION METHODS
+
+8A.1. As part of the Service, we offer a connection between the Platform and you to pass on Orders via our
+
+standard connection methods such as T-Connect or the hardware box terminal.
+
+8A.2. We may provide API connection methods connecting you with our servers to provide an alternative
+
+connection method for processing Orders for Restaurants. Depending on the connection method
+
+used, separate terms and fees may apply.
+
+8A.3. We will use best efforts to enable you to use the connection methods available and to maintain these
+
+during the entire duration of the Agreement. We will, under normal circumstances, maintain such
+
+connections. If, for whatever reason, we (temporarily or permanently) terminate or disable
+
+connection methods used by you, we will inform you as soon as reasonably possible.
+
+8A.4. Parties agree that where these alternative connection methods are provided, they are provided upon
+
+request of the Restaurant, are provided as is without any warranties in terms of availability and
+
+connectivity and are under development.
+
+8A.5. If the Restaurant uses a POS-system provider not provided by us, the Restaurant takes full
+
+responsibility for the POS-system provider and guarantees that the POS-system provider shall not
+
+use any data processed via the connection methods for its own purposes.
+
+8A.6. With regard to any data or information (specifically including order and customer data) provided to
+
+you via the connection methods provided by us, we will retain all intellectual property rights and you
+
+are only allowed to use this data for executing the Agreement.
 
 
 
@@ -856,33 +988,37 @@ Payment Terms (Section C).
 
 where we procure the Delivery Services.
 
-9.3. Each week we will provide a combined Statement to you in the Restaurant Portal which includes:
 
-(a) the aggregate Gross Order Value of all Orders, split between Cash Orders and Card Orders;
+
+9.3. Each week we will provide a combined Statement to you in the Partner Hub which includes:
+
+(a) the aggregate Gross Order Value of all Orders, split between Cash Orders and Card
+
+Orders;
 
 (b) the Fees we are charging you. These may include amounts in relation to the Connection
 
-Method, Delivery Services or other services provided to you, or any other amounts which we
+Method, Delivery Services or other services provided to you, or any other amounts
 
-have given you due notice are chargeable to you in accordance with the Agreement; and
+which we have given you due notice are chargeable to you in accordance with the
 
-(c) any balance brought forward from, and any amounts paid or received by us since the date of the
+Agreement; and
 
-previous Statement.
+(c) any balance brought forward from, and any amounts paid or received by us since the
+
+
+
+08-02-2023 10
+
+date of the previous Statement.
 
 9.4. We may charge each Customer who places an Order a service charge, as we see fit.
-
-
 
 Payments
 
 9.5. We will set off any amounts owed to us by you (including late payment interest and cost) against any
 
 amount owed to you by us at any time. We may also withhold certain amounts, costs and expenses
-
-
-
-Version 1.2 10-10-2022 9
 
 from any amounts we hold on your behalf, such as: (i) any Chargebacks (and associated costs and
 
@@ -974,6 +1110,10 @@ Party, do all things the Disclosing Party may reasonably request.
 
 10.3. This Clause 10 shall remain in full force and effect for a period of 5 (five) years after the termination
 
+
+
+08-02-2023 11
+
 of this Agreement.
 
 
@@ -983,10 +1123,6 @@ of this Agreement.
 11.1. You may not use our IPRs in relation to anything we have not given you express permission for. You
 
 may not use our IPRs on packaging, clothing, stationery, vehicles etc, unless you have our prior
-
-
-
-Version 1.2 10-10-2022 10
 
 written permission. You may use items branded with our Trademark that we or our suppliers have
 
@@ -1028,23 +1164,21 @@ Platform, and that using your brand name, logos and any other associated informa
 
 will not bring you into conflict with anyone else. You grant us a royalty-free licence to use your name,
 
-logo and any other of your intellectual property (including intellectual property in any photographs
+logo and any other IPR (including intellectual property in any photographs or Restaurant Information
 
-you send to us relating to your Restaurant or Goods) and the right to sublicense the same to third
+) and the right to sublicense the same to third parties, to enable us to comply with our obligations
 
-parties, to enable us to comply with our obligations under this Agreement, including the marketing
+under this Agreement, including the marketing activities detailed in Clause 3 above and you confirm
 
-activities detailed in Clause 3 above and you confirm to us that you have the ability to grant this
+to us that you have the ability to grant this licence to us. Your intellectual property will, however, at all
 
-licence to us. Your intellectual property will, however, at all times remain your property. Your licence
+times remain your property. Your licence to us will end when this Agreement ends, with the exception
 
-to us will end when this Agreement ends, with the exception of the Restaurant Website domain or
+of any website (including domain) we may create for you or any marketing activities or other use
 
-any marketing activities or other use which we have already initiated or planned, and/or cannot
+which we have already initiated or planned, and/or cannot reasonably be reversed or stopped, in
 
-reasonably be reversed or stopped, in which case the license will continue to exist for the extent,
-
-and for as long as, reasonably needed.
+which case the license will continue to exist for the extent, and for as long as, reasonably needed.
 
 
 
@@ -1084,9 +1218,13 @@ incurred by us in connection with a breach by you of this Agreement. In addition
 
 compensate us and our Affiliates in full against any losses, damages, or claims (and all related costs,
 
+
+
+08-02-2023 12
+
 including legal fees), penalties, interest, expenses and other liabilities resulting from a third party
 
-claim against us or any of our Affiliates arising from our relationship with you as a Restaurant Partner
+claim against us or any of our Affiliates arising from our relationship with you as a Restaurant
 
 (whether or not in the fulfilment of either party’s obligations under this Agreement). You will also
 
@@ -1095,10 +1233,6 @@ compensate us and our Affiliates for any loss, damages or claims, when a third p
 or our Affiliates have infringed the third party’s intellectual property rights by (i) using or permitting the
 
 use of, or being or having been the registered proprietor of a domain name, a brand name,
-
-
-
-Version 1.2 10-10-2022 11
 
 trademark, logo or other intellectual property, or by (ii) assisting or permitting you to use or to be a
 
@@ -1132,7 +1266,7 @@ relating to Orders and Customer personal data (as set out in the Takeaway.com pr
 
 Customers).
 
-13.2. You have access to certain data relating to your Restaurant and Orders via the Restaurant Portal.
+13.2. You have access to certain data relating to your Restaurant and Orders via the Partner Hub.
 
 However, you do not have access to any other data, and we do not share data relating to your
 
@@ -1194,21 +1328,21 @@ and/or
 
 (b) any of the events in Clauses 14.3(b) apply to you, or in Clause 14.3(c) occur; and/or
 
+
+
+08-02-2023 13
+
 (c) we have the specific right to as set out in the rest of this Agreement (which we have under
 
-Clauses 7.6, 8.12, 8.14, 8.15, 8.16, 11.3, 16.2, and Clause 2.9 of Section D (Supplemental
+Clauses 7.6, 8.12, 8.14, 8.15, 8.16, 8.17, 8.18, 11.3, 16.2, and Clause 2.9 of Section D
 
-Terms - Delivery)), and we validly exercise that right,
+(Supplemental Terms - Delivery)), and we validly exercise that right,
 
 we may at any time on written notice, restrict, suspend, or terminate part of, the provision of the
 
 Services under this Agreement, including by suspending your profile on the Platform. If you operate
 
 more than one Restaurant, we are entitled to invoke this clause in respect of only one Restaurant or
-
-
-
-Version 1.2 10-10-2022 12
 
 all of them, in our sole discretion.
 
@@ -1300,6 +1434,8 @@ and survive beyond termination of this Agreement.
 
 
 
+08-02-2023 14
+
 15\. YOUR AUTHORITY \& CHANGES TO RESTAURANT PROPRIETORSHIP
 
 15.1. Unless we have agreed otherwise in writing, we are authorised to accept instructions in respect of
@@ -1313,10 +1449,6 @@ and (iii) any other person who we (acting reasonably) are satisfied has authorit
 behalf. You must promptly provide us with any information or evidence we may request for the
 
 purpose of proving ownership of the Restaurant or its business or Premises.
-
-
-
-Version 1.2 10-10-2022 13
 
 15.2. We will not be liable to you if we, acting reasonably, decline to provide the Services or decline to act
 
@@ -1378,13 +1510,21 @@ things) suspend your profile on the Platform in accordance with Clause 14.1
 
 16.3. You must comply with all applicable laws and regulations including, without limitation in relation to
 
-health and safety, tax, data protection, food standards, (including maintaining an appropriate food
+health and safety, tax, data protection, food and product standards, (including maintaining an
 
-safety management system) the sale of alcohol, hygiene and consumer information (including
+appropriate food safety management system), food labelling, product labelling and packaging laws,
+
+regulations and requirements, the sale of alcohol, hygiene and consumer information (including
 
 allergen labelling), and will provide reasonable evidence to us of this compliance upon reasonable
 
-request.
+request and any other laws, regulations, permits, licences, orders, codes and directions of any
+
+governmental authority or agency or other regulatory body relating to your business and the
+
+operation of your business and the sale, preparation, handling, packaging, labelling, processing of
+
+any Goods pursuant to an Order.
 
 16.4. You should observe any guidance or training materials that we may provide from time to time to
 
@@ -1394,13 +1534,21 @@ support your compliance with applicable laws.
 
 16.6. In performing your obligations under this Agreement, you must:
 
-(a) comply with all applicable anti-slavery and human trafficking laws, statutes, regulations and
+(a) comply with all applicable anti-bribery, anti-corruption, anti-slavery and human trafficking laws,
 
-codes from time to time in force; and
+statutes, regulations and codes from time to time in force; and
+
+
+
+08-02-2023 15
 
 (b) notify us as soon as you become aware of any actual or suspected slavery or human trafficking
 
-that has a connection with this Agreement or in any part of your business.
+that has a connection with this Agreement or in any part of your business or of any request or
+
+demand for any undue financial or other advantage of any kind received by us or you, as the
+
+case may be, in connection with the performance of this Agreement.
 
 
 
@@ -1413,10 +1561,6 @@ obligations pursuant to this Agreement and/or as required by law.
 
 
 18\. ASSIGNMENT \& SUB-CONTRACTING
-
-
-
-Version 1.2 10-10-2022 14
 
 Other than to an Affiliate or, in the case of Thuisbezorgd.nl only, in relation to the procurement of Delivery
 
@@ -1456,13 +1600,15 @@ of a right.
 
 21.1. We may amend this Agreement from time to time. We will notify you of any proposed amendment(s)
 
-via a message on the Restaurant Portal or via messaging on the Connection Method. Except in the
+via email, via a message on the Partner Hub or via messaging on the Connection Method or any
 
-limited situations described in Clause 21.3, the proposed amendment(s) will not take effect until at
+other similar communication method in line with the applicable laws. Except in the limited situations
 
-least 15 (fifteen) days from the date on which we notify you about them (and we will set out the
+described in Clause 21.3, the proposed amendment(s) will not take effect until at least 15 (fifteen)
 
-effective date of the amendment(s) in the relevant notification).
+days from the date on which we notify you about them (and we will set out the effective date of the
+
+amendment(s) in the relevant notification).
 
 21.2. Whenever we notify you of a proposed amendment(s) to this Agreement, you will have the right to
 
@@ -1472,7 +1618,7 @@ and let us know during that notice period, termination will then take effect 15 
 
 receipt of the notification. You may also choose to give up your right to terminate by either letting us
 
-know in writing, or by taking a clear affirmative action. If we do not hear from you by the end the
+know in writing, or by taking a clear affirmative action. If we do not hear from you by the end of the
 
 notice period, you will be deemed to have agreed to the amendment(s).
 
@@ -1489,6 +1635,8 @@ to defending the Services, the Platform, Customers or restaurant partners from f
 spam, data breaches or other cybersecurity risks.
 
 
+
+08-02-2023 16
 
 22\. ENTIRE AGREEMENT
 
@@ -1508,13 +1656,9 @@ clause will be considered received:
 
 (b) if sent by mail, on the third Business Day after posting; or
 
-(c) if sent electronically, it at the time of sending unless the sender’s electronic system receives a
+(c) if sent electronically, at the time of sending unless the sender’s electronic system receives a
 
 delivery failure notification.
-
-
-
-Version 1.2 10-10-2022 15
 
 except that a delivery by hand, mail or email received after 5:00pm (local time of the receiving Party)
 
@@ -1566,11 +1710,9 @@ complaints to us across a range of issues, and we will deal with any complaints 
 
 equally and proportionately.
 
-26.2. You can submit a complaint to us via the Restaurant Portal, email or telephone. For the contact
+26.2. You can submit a complaint to us via the Partner Hub, email or telephone. For the contact details,
 
-details, please refer to our contact section in the Restaurant Portal via
-
-https://restaurants.takeaway.com/contact.
+please refer to our contact section in the Partner Hub.
 
 All complaints will be dealt with appropriately by the person receiving them, and as part of that may
 
@@ -1587,6 +1729,10 @@ certain types of complaint). We will respond to all complaints as soon as we rea
 27.1. Mediation is a process where a neutral third party facilitates negotiations between the parties to a
 
 dispute to help them come to an outcome that they can all agree on. We work with the Centre for
+
+
+
+08-02-2023 17
 
 Effective Dispute Resolution ("CEDR"), who we are willing to engage with to attempt to reach an
 
@@ -1616,17 +1762,13 @@ us know if you need any further information of the functioning and effectiveness
 
 or in connection with it will be governed by and construed in accordance with Dutch law.
 
-
-
-Version 1.2 10-10-2022 16
-
 27.4. The commercial courts of Amsterdam, The Netherlands will have exclusive jurisdiction to settle any
 
 dispute or claim (including any non-contractual dispute or claim) arising out of this Agreement.
 
 
 
-Version 1.2 10-10-2022 17
+08-02-2023 18
 
 SECTION C. SUPPLEMENTAL TERMS – PAYMENT SERVICES
 
@@ -1742,7 +1884,7 @@ provide Payment Services.
 
 
 
-Version 1.2 10-10-2022 18
+08-02-2023 19
 
 5.2 TP provides the Payment Services in the Netherlands as well as in certain other EU member states in
 
@@ -1864,7 +2006,7 @@ attributable to intent or wilful recklessness by TP. TP's total liability toward
 
 
 
-Version 1.2 10-10-2022 19
+08-02-2023 20
 
 restricted (cumulatively) to the amount that is paid in the relevant case on the grounds of the liability
 
@@ -1962,7 +2104,7 @@ of PSD2.
 
 
 
-Version 1.2 10-10-2022 20
+08-02-2023 21
 
 SECTION D. SUPPLEMENTAL TERMS - DELIVERY SERVICES
 
@@ -2050,11 +2192,15 @@ Order; after confirmation of the Order, the Preparation Time cannot be changed;
 
 3.2. prepare the Goods which have been requested in the Order so they are ready for collection by us at the
 
-agreed pick-up time;
+Pick-up Time;
 
 
 
-3.3. use packaging which is suitable for delivery (including by preventing cross-contamination and maintain
+3.3. not exceed the maximum Courier Waiting Time of 3 minutes;
+
+
+
+3.4. use packaging which is suitable for delivery (including by preventing cross-contamination and maintain
 
 safe temperatures of the food during delivery) and does not exceed the size of the delivery bag (45cm x
 
@@ -2062,29 +2208,29 @@ safe temperatures of the food during delivery) and does not exceed the size of t
 
 
 
-3.4. check each Order to ensure it is accurate, complete and contains all the Goods ordered;
+3.5. check each Order to ensure it is accurate, complete and contains all the Goods ordered;
 
 
 
-3.5. ensure that accurate allergen information relevant to that Order is provided with the Goods at the point
+3.6. ensure that accurate allergen information relevant to that Order is provided with the Goods at the point
 
 of collection;
 
 
 
-3.6. ensure the Order number you hold corresponds with the Order number presented by us or the Delivery
+08-02-2023 22
 
-
-
-Version 1.2 10-10-2022 21
+3.7. ensure the Order number you hold corresponds with the Order number presented by us or the Delivery
 
 Partner (as applicable); and
 
 
 
-3.7. take reasonable steps to avoid significant delays in handing Orders to us or the Delivery Partner (as
+3.8. take reasonable steps to avoid significant delays in handing Orders to us or the Delivery Partner (as
 
 applicable).
+
+
 
 4. CHARGES AND INVOICING
 
@@ -2094,7 +2240,7 @@ in the Agreement which may apply. This will be included in each Tax Invoice/Stat
 
 
 
-Version 1.2 10-10-2022 22
+08-02-2023 23
 
 SECTION E. SUPPLEMENTAL TERMS – STAMPCARDS
 
@@ -2112,7 +2258,7 @@ This Section E applies in case you have signed up for the Stampcard Program.
 
 Stampcard Program. You can sign up by ticking the relevant option on the registration form if available, by
 
-registering via our customer service or by clicking the ‘Join Now’ button in the Restaurant Portal.
+registering via our customer service or by clicking the ‘Join Now’ button in the Partner Hub.
 
 
 
@@ -2200,17 +2346,17 @@ Stamps were collected.
 
 4.5 The total amount that is paid by Customers with Stampcard Vouchers in your Restaurant will be visible on
 
-the Statement in the Restaurant Portal.
+the Statement in the Partner Hub.
 
 
-
-Version 1.2 10-10-2022 23
 
 4.6 The Fees you owe to us will be based on the Gross Order Value of the Order, thus also over the amount of
 
 the Stampcard Voucher if a Stampcard Voucher is used.
 
 
+
+08-02-2023 24
 
 5. DURATION, MODIFICATION AND TERMINATION OF THE STAMPCARD PROGRAM
 
@@ -2246,4 +2392,116 @@ in case of a reasonable (suspected) violation of the Agreement.
 
 
 
-Version 1.2 10-10-2022 24
+08-02-2023 25
+
+SECTION F. SUPPLEMENTAL TERMS - STORES
+
+
+
+STORE means a business that is not a Restaurant, such as a grocery store from which food, drinks
+
+and/or other goods are provided to Customers pursuant to Orders by the Store.
+
+
+
+STORE
+
+INFORMATION
+
+means the information about your Store and includes KYC information, the information
+
+about your Goods, menu, address, opening hours, delivery radius and contact details, and
+
+may, at our request, include a complete set of records to trace the supply chain of all
+
+Goods and services you provide.
+
+
+
+1. APPLICATION
+
+
+
+Where you are a Store, this Section F shall also apply to you in addition to Sections A-E, and the terms of
+
+Sections A-E shall be construed so that any reference to:
+
+
+
+Restaurant shall be interpreted as you, the ‘Store’.
+
+Restaurant Information shall be interpreted as ‘Store Information’.
+
+
+
+In case of any discrepancies between the General Terms and Conditions for Restaurants (Sections A-E) and
+
+this Section, the clauses in this Section shall prevail.
+
+
+
+2. PRODUCT COMPLIANCE AND WARRANTIES
+
+
+
+1. Store shall ensure that all Goods are adequately, properly and safely prepared and packaged for delivery
+
+to avoid any damage to the Goods or inflicting personal injury, including ensuring safe transport of
+
+potentially breakable items, sharp items, and preventing humidity that could harm the Goods.
+
+2. Store is solely responsible for the quality of their Goods, and to make sure they are safe to use, they
+
+comply with any applicable conformity requirements under applicable law or additional commercial
+
+guarantees provided by the Store, such as being free from defects and functioning properly.
+
+3. In addition, Store is also responsible for any processing and managing questions, aftercare, customer
+
+service, and the settlement of other issues regarding Goods provided on the Platform. We may refer
+
+Customers directly to the Store.
+
+4. Store is solely responsible for complying with any applicable warranties, returns and revocation
+
+responsibilities related to Goods provided on the Platform. It is up to the Store to accept and process
+
+returns of Goods and collect these in accordance with applicable law and unless agreed otherwise, we
+
+take no part in these procedures and cannot be held liable or responsible for any damages or costs
+
+relating thereto.
+
+5. You shall notify us forthwith of product safety issues or non-compliance and shall prevent such items from
+
+being placed within any Order as soon as you become aware of such.
+
+6. Store shall determine whether Goods are to be recalled from its offering (a "Product Recall"), Store shall
+
+solely determine such Product Recall. In the event of a Product Recall, Store shall send information
+
+regarding the Goods being recalled (including the reason for non-compliance and / or safety risk and the
+
+actions to be taken by the Customer; the affected items, including batch and / or serial numbers and
+
+contact numbers to obtain further information) as soon as reasonably practicable to us including any
+
+relevant guidance as to whether we must refund any Customers that have purchased the recalled Goods
+
+or whether we must advise Customers to return the Goods to a Store. If we refund any relevant Customer
+
+(as decided by Store at their sole discretion), we will charge back any refund to Store.
+
+7. Where applicable, Store will compensate us in full against any charges (including Chargebacks), losses,
+
+damages or claims (and all related costs, (including legal fees), penalties, fines, interest, expenses and
+
+other liabilities incurred by us in connection with:
+
+(a) actual or alleged issues with the quality of their Goods; and
+
+(b) any Recall, revocation, return or collection of Goods.
+
+
+
+08-02-2023 26
