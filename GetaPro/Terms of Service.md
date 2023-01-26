@@ -88,7 +88,7 @@ Biznesa Pasūtītājam jānorāda tās juridiskās personas reģistrācijas numu
 
 Lietotāji ir atbildīgi par sava profila saturu, kā arī par tā informācijas precizitāti un likumību.
 
-Visi Izpildītāji tiks vērtēti ar Pasūtītājiem ar atsauksmju palīdzību,tikai, ja pēc ieinteresētības izteikšanas, ir noslēgts Pakalpojumu sniegšanas līgums dažiem vai visiem darbiem.
+Visi izpildītāji tiks vērtēti ar Pasūtītāju atsauksmju palīdzību tikai, ja pēc ieinteresētības izteikšanas ir notikusi vienošanās par Pakalpojumu sniegšanu dažiem vai visiem darbiem.
 
 Izpildītāji saprot, ka GetaPro nav atbildīgs par atsauksmju Saturu, ko bija atstājuši Pasūtītāji, vai arī par jebkādiem kaitējumiem, kas radīti ar šo Saturu. Pasūtītājs, kas atstāja komentāru, nes tiešo atbildību par tā saturu, precizitāti un likumību.
 
