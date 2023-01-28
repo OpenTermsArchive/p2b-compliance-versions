@@ -5,7 +5,7 @@ HUAWEI Developers Service Agreement
 
 Click to view [main changes](https://developer.huawei.com/consumer/en/doc/agreement-changes)
 
-Click to download [HUAWEI Developers Service Agreement](https://terms-dra.platform.dbankcloud.com/agreementservice/developer/getAgreementTemplate?agrType=1000&country=ove&language=en_us&version=2022030203).
+Click to download [HUAWEI Developers Service Agreement](https://terms-dra.platform.dbankcloud.com/agreementservice/developer/getAgreementTemplate?agrType=1000&country=ove&language=en_us&version=2022083104).
 
 Last modified: August 31, 2022
 
