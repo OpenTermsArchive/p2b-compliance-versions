@@ -270,4 +270,4 @@ _In June 2017, we announced that Yahoo and AOL joined to become a unified digita
         14. Additional terms for German users can be found [here](https://legal.yahoo.com/ie/de/yahoo/terms/additionalterms/index.html).
             
 
-_Last updated: 26 May 2022_
+_Last updated: 1 February 2023_
