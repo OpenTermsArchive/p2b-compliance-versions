@@ -442,6 +442,8 @@ United Kingdom
 
 For complaints that do you not fall within the remit of our internal complaint-handling system, please contact the following email address [motorhelp@donedeal.ie](mailto:motorhelp@donedeal.ie).
 
+You can find more info on complaint topics and outcomes in our annual [Complaint Handling Report](https://distilledannualreport.zendesk.com/hc/en-us/articles/12649525447441-Distilled-Complaint-Handling-Annual-Report).
+
 **20\. Fair usage policy**
 
 To ensure the best browsing experience for our users, your potential buyers, we ask that you only create one advertisement per item/product.
