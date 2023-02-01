@@ -128,7 +128,9 @@ Om en spekulant söker i ett område där flera säljare köpt Raketen samtidigt
 
 ### Förnya annons
 
-Ibland kan det ta längre tid än förväntat att få sin bostad såld. Om annonsen hamnar långt ner i sökresultatet ser färre köpare din bostad. Istället för att köpa en ny annons för att komma högst upp igen kan du förnya annonsen. Att förnya en annons gör att din annons blir en ny annons fast till ett rabatterat pris. Annonsen kan förnyas genom att din mäklare tar bort din annons från Hemnet under minst tre veckor och när du betalat för att förnya annonsen kan mäklaren publicera annonsen som en helt ny annons.
+Ibland kan det ta längre tid än förväntat att få sin bostad såld. Om annonsen hamnar långt ner i sökresultatet ser färre köpare din bostad. Istället för att köpa en ny annons för att komma högst upp igen kan du förnya annonsen. Att förnya en annons gör att din annons blir en ny annons fast till ett rabatterat pris.
+
+Annonsen kan förnyas 30 dagar efter att den publicerats som till salu på Hemnet. Mäklaren kan då skicka en betalningslänk till säljaren och när betalningen är genomförd kan mäklaren förnya annonsen. Om du väljer Hemnet Premium inom 7 dagar från publicering av annonsen så ingår det att förnya annonsen obegränsat antal gånger.
 
 * Din bostadsannons blir helt ny utan tidigare statistik som dagar på Hemnet, antal besök och eventuella prisjusteringar.
     
