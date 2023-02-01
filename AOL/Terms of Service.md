@@ -393,6 +393,8 @@ _In June 2017, we announced that Yahoo and AOL joined to become a unified digita
             
         4. **Click [here](https://s.yimg.com/ge/default/691231/pcpndt.pdf) for an important Supreme Court Order passed by the Hon'ble Supreme Court of India relating to a prohibition on advertisement under the PCPNDT Act, 1994.**
             
+        5. Click [here](https://legal.yahoo.com/in/en/yahoo/terms/additionalterms/index.html) for additional terms.
+            
     9. **Japan (jp):**
         
         1. _Defined Terms_
@@ -552,4 +554,4 @@ _In June 2017, we announced that Yahoo and AOL joined to become a unified digita
         14. Additional terms for German users can be found [here](https://legal.yahoo.com/ie/de/yahoo/terms/additionalterms/index.html).
             
 
-_Last updated: 26 May 2022_
+_Last updated: 1 February 2023_
