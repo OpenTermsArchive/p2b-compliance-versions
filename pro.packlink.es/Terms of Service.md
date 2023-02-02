@@ -7,7 +7,7 @@ Términos y condiciones del site pro.packlink.es
 Titular de la Página Web
 ------------------------
 
-El titular de la Página Web pro.packlink.es (en adelante, el Sitio Web) es Packlink Shipping S.L., con CIF B83357863 e inscrita en el Registro Mercantil de Madrid, Tomo 17.909, Folio 138, Sección 8, Hoja M-309219, Inscripción 4, con domicilio en dirección en la C/ Amaltea, 9 28045 Madrid, titular de operador de transporte nº 11938624-1 (en adelante, pro.packlink.es).
+El titular de la Página Web pro.packlink.es (en adelante, el Sitio Web) es Auctane, S.L.U.,  con CIF B83357863 e inscrita en el Registro Mercantil de Madrid, Tomo 17.909, Folio 138, Sección 8, Hoja M-309219, Inscripción 4, con domicilio en dirección en la C/ Amaltea, 9 28045 Madrid, titular de operador de transporte nº 11938624-1 (en adelante, pro.packlink.es).
 
 Estas Condiciones de Uso se aplicarán tanto a la actividad promocional y de suministro de información que se efectúa a través del Sitio Web como a la prestación de los servicios ofrecidos en el mismo, de tal manera que las mismas regirán en todo momento tanto para la simple navegación por el Sitio Web, como para la contratación de servicios en el marco del Sitio Web, si bien estas últimas actividades adicionalmente, se someterán tanto a estas Condiciones de Uso, como a las Condiciones Generales de Contratación aplicables, y las Condiciones Particulares, que en su caso, pudieran existir y a la Política de Privacidad y Cookies del Sitio Web. El acceso y uso del Sitio Web implica la aceptación de los Usuarios de las presentes Condiciones de Uso.
 
@@ -101,7 +101,7 @@ A continuación, se definen algunos conceptos que se mencionan en las Condicione
 
 ### 2\. Información previa a la contratación
 
-Estas Condiciones Generales regularán expresamente las relaciones surgidas entre Packlink Shipping S.L., con CIF B83357863 e inscrita en el Registro Mercantil de Madrid, Tomo 17.909, Folio 138, Sección 8, Hoja M-309219, Inscripción 4, con domicilio en dirección en la C/ Amaltea, 9 28045 Madrid (en adelante, Packlink PRO) y el Usuario que contrate los servicios ofrecidos a través del Sitio Web.
+Estas Condiciones Generales regularán expresamente las relaciones surgidas entre Auctane, S.L.U., con CIF B83357863 e inscrita en el Registro Mercantil de Madrid, Tomo 17.909, Folio 138, Sección 8, Hoja M-309219, Inscripción 4, con domicilio en dirección en la C/ Amaltea, 9 28045 Madrid (en adelante, Packlink PRO) y el Usuario que contrate los servicios ofrecidos a través del Sitio Web.
 
 Las presentes Condiciones Generales han sido elaboradas de conformidad con lo establecido en la normativa vigente reguladora de los Servicios de la Sociedad de la Información y de comercio electrónico así como sobre Condiciones Generales de Contratación, y cuantas disposiciones legales resulten de aplicación.
 
@@ -407,7 +407,7 @@ Las indemnizaciones por mercancía no se encuentran sujetas a IVA, de acuerdo co
 
 El abono de los portes se realizará, IVA incluido. El pago será realizado a través del mismo medio de pago utilizado durante la contratación del servicio.
 
-Si la mercancía fuera recuperada tras haberse abonado la liquidación al Usuario, éste se obliga a retroceder el importe correspondiente a la indemnización por mercancía a favor de PACKLINK SHIPPING, S.L. a través de transferencia bancaria en la cuenta bancaria que este último designe.
+Si la mercancía fuera recuperada tras haberse abonado la liquidación al Usuario, éste se obliga a retroceder el importe correspondiente a la indemnización por mercancía a favor de Auctane, S.L.U.  a través de transferencia bancaria en la cuenta bancaria que este último designe.
 
 No se aceptarán reclamaciones por la entrega de una Mercancía si el Usuario hubiera cancelado el pedido, solicitado paralización o retorno de la mercancía, una vez entregado a la Agencia de Transporte, ya que no se puede garantizar que se devuelva a su origen una Mercancía una vez que ésta ha comenzado su tránsito. No obstante, Packlink PRO hará lo posible por cancelar la entrega, si el Usuario lo solicita.
 
