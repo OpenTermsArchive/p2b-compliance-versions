@@ -208,7 +208,7 @@ For Seller Direct Orders, You will be solely responsible for collecting full pay
 
 **4.3 Taxes and Duties** You are responsible for the payment of all Taxes, if applicable, for Items sold through the Web Sites.
 
-We do not collect or remit Taxes for Items sold through the Web Sites, except for the Specified Taxes specified [here](http://help.abebooks.com/sales-and-value-added-taxes/), which we will remit to the relevant authorities on your behalf and will also include in the charges to Customers. We will collect Specified Taxes from Customers, other than for Seller Direct Orders.
+We do not collect or remit Taxes for Items sold through the Web Sites, except for the Specified Taxes specified [here](https://support.abebooks.com/buying/s/article/transaction-taxes?language=en_US), which we will remit to the relevant authorities on your behalf and will also include in the charges to Customers. We will collect Specified Taxes from Customers, other than for Seller Direct Orders.
 
 **4.4 Chargebacks** AbeBooks reserves the right to cause any chargebacks We receive from Customers to be applied to You.
 
