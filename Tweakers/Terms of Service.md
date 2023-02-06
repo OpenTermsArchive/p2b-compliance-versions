@@ -178,8 +178,7 @@ De voorwaarden voor Vraag & Aanbod zijn onderbracht in [losse aanvullende voorwa
 
 ### 12 Opheffen Account
 
-12.1 Het Lid heeft het recht om zijn persoonsgegevens in te zien, te corrigeren of te verwijderen. Leden kunnen dit voor het grootste deel zelf, bijvoorbeeld via de My Tweakers pagina. In de gevallen dat dit op deze manier niet mogelijk is, kan er een gespecificeerd verzoek tot DPG Media worden gericht om persoonsgegevens in te zien, te corrigeren of te verwijderen. Hiervoor kan het formulier op de volgende pagina worden gebruikt: [https://consumentenrecht.dpgmedia.net/nl](https://consumentenrecht.dpgmedia.net/nl).  
-Bij vragen of verzoeken die niet via het formulier kunnen worden ingediend is het mogelijk om een mail sturen naar [privacy@dpgmedia.nl](mailto:privacy@dpgmedia.nl).
+12.1 Het Lid heeft het recht om zijn persoonsgegevens in te zien, te corrigeren of te verwijderen. Leden kunnen dit voor het grootste deel zelf, bijvoorbeeld via de My Tweakers pagina. In de gevallen dat dit op deze manier niet mogelijk is, kan er een gespecificeerd verzoek tot DPG Media worden gericht om persoonsgegevens in te zien, te corrigeren of te verwijderen. Hiervoor kun je een email sturen naar: [privacy@tweakers.net](https://tweakers.net/info/algemene-voorwaarden/privacy@tweakers.net)
 
 DPG Media zal in beginsel binnen vier weken op een verzoek tot inzage of correctie verzoek reageren. In geval van een verzoek tot verwijdering zal DPG Media de betreffende persoonsgegevens zo spoedig mogelijk verwijderen, tenzij en voor zover de wet verplicht om de betreffende persoonsgegevens te bewaren of er (andere) dringende redenen zijn die zich tegen verwijdering verzetten. DPG Media stuurt na uitvoering van een verzoek tot verwijdering een bevestigingsbericht. Indien DPG Media de betreffende persoonsgegevens (gedeeltelijk) niet heeft verwijderd, stuurt DPG Media het Lid een bericht waarin zij toelicht waarom niet (volledig) aan het verzoek kon worden voldaan.
 
@@ -215,4 +214,4 @@ Indien DPG Media niet of niet volledig kan vaststellen op welke persoonsgegevens
 
 15.5 Op deze Algemene Voorwaarden, alle overeenkomsten, abonnementen en (rechts)handelingen tussen Tweakers en het Lid, is bij uitsluiting Nederlands recht van toepassing.
 
-_Deze Algemene Voorwaarden zijn voor het laatst gewijzigd op 4 augustus 2022._
+_Deze Algemene Voorwaarden zijn voor het laatst gewijzigd op 6 februari 2023._
