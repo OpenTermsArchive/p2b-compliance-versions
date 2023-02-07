@@ -23,7 +23,7 @@ Algemene voorwaarden
 | Shopreview | de webpagina's met ervaringen en beoordelingen van computershops. |
 | Tweakers | Tweakers een onderneming welke een onderdeel is van DPG Media B.V., gevestigd aan de Jacob Bontiusplaats 9, 1018LL te Amsterdam. |
 | Vraag & Aanbod | de advertentierubriek waarin het Lid gebruikte hardware en consumentenelektronica te koop kan aanbieden. |
-| Website | het geheel van webpagina's, software, databanken, services (zoals bijvoorbeeld IRC) en door Tweakers geplaatste Content gekoppeld aan de domeinnaam tweakers.net en aan de subdomeinen en aanverwante domeinen (zoals bijvoorbeeld tweakers.nl) en alle via deze website toegankelijke diensten zoals bijvoorbeeld het Forum, Vraag & Aanbod, Pricewatch, Shopreview, Productreview, Tweakblogs en Jobs. |
+| Website | het geheel van webpagina's, software, databanken, services (zoals bijvoorbeeld IRC) en door Tweakers geplaatste Content gekoppeld aan de domeinnaam tweakers.net en aan de subdomeinen en aanverwante domeinen (zoals bijvoorbeeld tweakers.nl) en alle via deze website toegankelijke diensten zoals bijvoorbeeld het Forum, Vraag & Aanbod, Pricewatch, Shopreview, Productreview en Jobs. |
 
 ### 2 Toepasselijkheid
 
