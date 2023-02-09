@@ -65,7 +65,7 @@ Developers who believe an app is preventing them from using their trademark as a
 
 Developers facing extenuating circumstances can request the review of their app be expedited.
 
-### [Resolve submission issues](https://help.apple.com/app-store-connect//#/dev7f7f86006)
+### [Resolve submission issues](https://developer.apple.com/help/app-store-connect/manage-submissions-to-app-review/reply-to-app-review-messages)
 
 If an app has been rejected, developers can communicate with Apple and resolve issues in App Store Connect. A communication from Apple contains information about an app rejection, including how the app is out of compliance with App Store Review Guidelines. Developers can correspond with Apple through App Store Connect and resubmit the build to App Review. Developers can include attachments in their replies, such as screenshots and supporting documents. If an app has been rejected because of a metadata issue, developers can resolve the issue and resubmit the same build.
 
