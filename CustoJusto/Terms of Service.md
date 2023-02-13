@@ -3,7 +3,7 @@ Termos e Condições de Utilização do Site
 
 Bem-vindo ao site CustoJusto.pt (adiante designado por "Site").
 
-Aconselhamos a leitura dos termos e condições de Utilização, em vigor a partir de 15/10/2021, antes de utilizar o Site e de contratar os nossos serviços.
+Aconselhamos a leitura dos termos e condições de Utilização, em vigor a partir de 01/03/2023, antes de utilizar o Site e de contratar os nossos serviços.
 
 #### TERMOS E CONDIÇÕES GERAIS DE UTILIZAÇÃO
 
@@ -155,10 +155,10 @@ O cancelamento da conta pode ocorrer de duas formas:
 
 A colocação de anúncios no site é, regra geral, gratuita, existindo, no entanto, limites para anúncios gratuitos em simultâneo em determinadas categorias, a saber:
 
-1. Veículos (excepto peças e acessórios): 15
+1. Veículos (excepto peças e acessórios): 5
 2. Peças e acessórios (carros, motas, barcos, outros veículos): 50
-3. Imobiliário: 50
-4. Empregos, Serviços: 5
+3. Imobiliário: 15
+4. Empregos, Serviços: 3
 5. Equipamento profissional: 50
 6. Restantes categorias: 100
 
@@ -170,7 +170,7 @@ No Item "Serviços pagos" poderá encontrar informações sobre os serviços e p
 
 Com excepção dos serviços relativos ao CustoJusto PRO, todos os preços divulgados no Site incluem IVA à taxa legal em vigor.
 
-Os preços aplicáveis ao serviço CustoJusto PRO podem ser pagos através das seguintes modalidades: transferência bancária, Multibanco e MB WAY.
+Os preços aplicáveis ao serviço CustoJusto PRO podem ser pagos através das seguintes modalidades: transferência bancária, débito directo, Multibanco e MB WAY.
 
 A factura é remetida para o endereço de email associado à conta.
 
@@ -178,9 +178,11 @@ A factura é remetida para o endereço de email associado à conta.
 
 O CustoJusto Pro é um serviço premium especialmente desenvolvido para os nossos clientes profissionais.
 
-Ao aderir a um dos pacotes disponíveis, e adaptados a cada sector de actividade (Carros, Peças, Motas, Imobiliário, Emprego ou Diversos), estes profissionais poderão beneficiar de vantagens exclusivas, nos termos e condições definidos na página de apresentação do produto, [CustoJusto PRO](https://www.custojusto.pt/pro), que constitui parte integrante dos presentes termos e condições de utilização do site.
+Ao aderir a um dos pacotes disponíveis, e adaptados a cada sector de actividade (Carros, Peças, Motas, Imobiliário, Equipamento Profissional, Emprego ou Diversos), estes profissionais poderão beneficiar de vantagens exclusivas, nos termos e condições definidos na página de apresentação do produto, [CustoJusto PRO](https://www.custojusto.pt/pro), que constitui parte integrante dos presentes termos e condições de utilização do site.
 
 A adesão a um dos pacotes disponíveis está dependente de pré-pagamento, nos termos e condições definidos na página de apresentação do produto, [CustoJusto PRO](https://www.custojusto.pt/pro).
+
+O serviço CustoJusto PRO é prestado por um período mínimo inicial de 12 meses, renovando-se automaticamente por períodos iguais e sucessivos de 12 meses, a menos que o Cliente se oponha à renovação do serviço com uma antecedência de, no mínimo, 30 dias relativamente ao seu termo. O cancelamento do serviço CustoJusto PRO antes do termo do prazo obrigará ao pagamento das mensalidades em falta até final.
 
 A factura do serviço será emitida por via electrónica para o email indicado pelo cliente.
 
@@ -222,6 +224,7 @@ Ao Anunciante será conferido prazo para esclarecer os factos e as circunstânci
     * Veículos (excepto em Peças e acessórios): 3
     * Peças e acessórios: 50
     * Imobiliário: 3
+    * Restantes categorias: 50
     
     As seguintes actividades podem ser associadas a uma actividade profissional:
     * revenda de artigos comprados para este fim e não para uso pessoal,
@@ -285,7 +288,7 @@ Ao Anunciante será conferido prazo para esclarecer os factos e as circunstânci
 18. **Scripts de inserção de anúncios**: não é permitida a utilização de quaisquer dispositivos automatizados ou programas de computador que permitam a colocação de anúncios e/ou conteúdos no Site sem que cada um deles seja inserido manualmente pelo Utilizador. Excepcionalmente, é permitida a contratação de CRMs pelos clientes Profissionais que subscrevam um dos Pacotes disponíveis [aqui](https://www.custojusto.pt/pro).
 19. Não é permitido apagar, de forma sistemática, anúncios para voltar a publicá-los, uma vez que tal acção prejudica a experiência de utilização do Site e da Aplicação.
 20. A 3 dias de expirar a validade do anúncio, o utilizador pode proceder à sua renovação, por novo período de 60 dias.
-21. A CustoJusto poderá introduzir no anúncio informações sobre o anunciante, designadamente informações sobre se está ou não online ou a última vez que o esteve e a desde quando tem conta activa no CustoJusto.
+21. A CustoJusto poderá introduzir no anúncio informações sobre o anunciante, designadamente informações sobre se está ou não online ou a última vez que o esteve e a desde quando tem conta activa no CustoJusto, bem como informações estatísticas referentes ao anúncio (visualizações, número de contactos ou de vezes que foi adicionado aos favoritos).
 
 #### Regras específicas para o envio de mensagens / e-mails
 
@@ -324,13 +327,13 @@ Ao Anunciante será conferido prazo para esclarecer os factos e as circunstânci
 * Anúncios de imóveis publicados por uma agência imobiliária ou um consultor imobiliário, nos termos e para os efeitos da Lei n.º 15/2013, de 8 de fevereiro, deverão indicar a denominação comercial, número de identificação de pessoa colectiva e o número da respetiva licença de mediação imobiliária (AMI). Cada agência imobiliária ou consultor imobiliário só poderá ter uma única conta, devidamente identificada com a sua denominação comercial, número de identificação de pessoa colectiva e o número da respetiva licença de mediação imobiliária (AMI).
 * Na subcategoria Casas de férias, é obrigatório indicar o número de registo do estabelecimento de alojamento local, nos termos do disposto no Decreto-Lei n.º 128/2014, de 29 de agosto.
 * Limite de colocação de 3 anúncios online em simultâneo para anunciantes particulares. A partir deste número serão considerados como profissionais e deverão identificar-se como tal.
-* Limite de colocação de 50 anúncios grátis em simultâneo para a mesma agência imobiliária (identificável pelo número fiscal e/ou AMI). A partir deste número, a agência imobiliária pode optar pela subscrição de Pacotes de divulgação de anúncios (CustoJusto PRO).
+* Limite de colocação de 15 anúncios grátis em simultâneo para a mesma agência imobiliária (identificável pelo número fiscal e/ou AMI). A partir deste número, a agência imobiliária pode optar pela subscrição de Pacotes de divulgação de anúncios (CustoJusto PRO).
 
 #### Regras específicas para Veículos
 
 * Não são permitidos anúncios de venda de documentos de veículos.
 * Limite de 3 anúncios online em simultâneo para anunciantes particulares. A partir deste número serão considerados como profissionais e deverão identificar-se como tal.
-* Carros, Motas, Barcos e Outros veículos: limite de colocação de 15 anúncios grátis em simultâneo para o mesmo stand / concessionário. A partir deste número, pode optar pela subscrição de Pacotes de divulgação de anúncios (CustoJusto PRO).
+* Carros, Motas, Barcos e Outros veículos: limite de colocação de 5 anúncios grátis em simultâneo para o mesmo stand / concessionário. A partir deste número, pode optar pela subscrição de Pacotes de divulgação de anúncios (CustoJusto PRO).
 * Peças e acessórios: limite de colocação de 50 anúncios grátis em simultâneo para o mesmo profissional. A partir deste número, pode optar pela subscrição de Pacotes de divulgação de anúncios (CustoJusto PRO).
 
 #### Regras específicas para Empregos & Serviços
@@ -341,7 +344,7 @@ Ao Anunciante será conferido prazo para esclarecer os factos e as circunstânci
 * Os anúncios de prestação de serviços deverão ser obrigatoriamente inseridos com NIPC, à excepção dos particulares que somente estão autorizados a anunciar vagas como: empregadas domésticas, cozinheiras, motoristas, baby-sitters, enfermeiras, etc.
 * Não são permitidos anúncios de elaboração de teses de mestrado/ doutoramento.
 * Nos anúncios de Procuro Emprego não é permitida a inserção de imagens.
-* Limite de colocação de 5 anúncios grátis em simultâneo para o mesmo Anunciante. A partir deste número, pode optar pela subscrição de Pacotes de divulgação de anúncios (CustoJusto PRO).
+* Limite de colocação de 3 anúncios grátis em simultâneo para o mesmo Anunciante. A partir deste número, pode optar pela subscrição de Pacotes de divulgação de anúncios (CustoJusto PRO).
 
 #### Regras específicas para Animais Domésticos
 
@@ -395,7 +398,7 @@ Ao Anunciante será conferido prazo para esclarecer os factos e as circunstânci
 
 #### Pacotes para as restantes categorias
 
-* **Definição:** São pacotes que dão um grande destaque ao seu anúncio mas só se encontram disponíveis na nossa aplicação (iOS, Android, Huawei). Os anúncios ficam na **montra** e são colocados no **topo da lista** todos os dias. Há três pacotes disponíveis, com os mesmos serviços mas durações diferentes:
+* **Definição:** São pacotes que dão um grande destaque ao seu anúncio mas só se encontram disponíveis na nossa aplicação (iOS, Android, Huawei) e para os clientes do serviço CustoJusto PRO. Os anúncios ficam na **montra** e são colocados no **topo da lista** todos os dias. Há três pacotes disponíveis, com os mesmos serviços mas durações diferentes:
     * **Pacote Ibiza**: Os anúncios ficam na montra por **7 dias** e são colocados no topo 7 vezes.  
         
     * **Pacote Maldivas**: Os anúncios ficam na montra por **30 dias** e são colocados no topo 30 vezes.  
@@ -458,11 +461,26 @@ O preço dos serviços está definido de acordo com a categoria, de acordo com a
 
 #### CustoJusto Pro - Imóveis
 
-* **Pacote Base** (até 60 anúncios em simultâneo): limite de 600 edições e publicações por mês; 99 €/ano (ou 16,50 €/mês x 12 meses); contrato anual
-* **Pacote Bronze** (até 150 anúncios em simultâneo): limite de 1 500 edições e publicações por mês; 199 €/ano (ou 33,17 €/mês x 12 meses); contrato anual
-* **Pacote Prata** (até 300 anúncios em simultâneo): limite de 3 000 edições e publicações por mês; 299 €/ano (ou 49,84 €/mês x 12 meses); contrato anual
-* **Pacote Ouro** (até 600 anúncios em simultâneo): limite de 6 000 edições e publicações por mês; 499 €/ano (ou 83,17 €/mês x 12 meses); contrato anual
-* **Pacote Platina** (até 1 500 anúncios em simultâneo): limite de 15 000 edições e publicações por mês; 999 €/ano (ou 166,50 €/mês x 12 meses); contrato anual
+* **Pacote Base** (até 60 anúncios em simultâneo): limite de 600 edições e publicações por mês (contrato anual, renovado automaticamente);
+    * Pagamento mensal por débito directo: 10,40€ / mês (x12)
+    * Pagamento mensal por transferência bancária, multibanco: 17,33€ / mês (x12)
+    * Pagamento anual antecipado: 104€ / ano
+* **Pacote Bronze** (até 150 anúncios em simultâneo): limite de 1 500 edições e publicações por mês (contrato anual, renovado automaticamente);
+    * Pagamento mensal por débito directo: 20,90€ / mês (x12)
+    * Pagamento mensal por transferência bancária, multibanco: 34,83€ / mês (x12)
+    * Pagamento anual antecipado: 209€ / ano
+* **Pacote Prata** (até 300 anúncios em simultâneo): limite de 3 000 edições e publicações por mês (contrato anual, renovado automaticamente);
+    * Pagamento mensal por débito directo: 31,40€ / mês (x12)
+    * Pagamento mensal por transferência bancária, multibanco: 52,33€ / mês (x12)
+    * Pagamento anual antecipado: 314€ / ano
+* **Pacote Ouro** (até 600 anúncios em simultâneo): limite de 6 000 edições e publicações por mês (contrato anual, renovado automaticamente);
+    * Pagamento mensal por débito directo: 52,40€ / mês (x12)
+    * Pagamento mensal por transferência bancária, multibanco: 87,33€ / mês (x12)
+    * Pagamento anual antecipado: 524€ / ano
+* **Pacote Platina** (até 1 500 anúncios em simultâneo): limite de 15 000 edições e publicações por mês (contrato anual, renovado automaticamente);
+    * Pagamento mensal por débito directo: 104,90€ / mês (x12)
+    * Pagamento mensal por transferência bancária, multibanco: 174,83€ / mês (x12)
+    * Pagamento anual antecipado: 1.049€ / ano
 
 ##### Aos preços indicados, acresce IVA à taxa legal em vigor.
 
@@ -470,11 +488,23 @@ O preço dos serviços está definido de acordo com a categoria, de acordo com a
 
 ##### O preço depende do número de veículos que pretende ter anunciado no CustoJusto e da modalidade de pagamento (mensal ou anual) seleccionada
 
-* **Pacote Ignition** (até 15 anúncios em simultâneo): limite de 150 edições e publicações por mês; 420 €/ano (ou 35 €/mês x 12 meses); contrato anual
-* **Pacote Drive** (até 30 anúncios em simultâneo): limite de 300 edições e publicações por mês; 480 €/ano (ou 60 €/mês x 12 meses); contrato anual
-* **Pacote Gran Turismo** (até 60 anúncios em simultâneo): limite de 600 edições e publicações por mês; 800 €/ano (ou 100 €/mês x 12 meses); contrato anual
-* **Pacote Prestige** (até 100 anúncios em simultâneo): limite de 1 000 edições e publicações por mês; 1 €/ano (ou 150 €/mês x 12 meses); contrato anual
-* **Pacote Scuderia**:>100 anúncios em simultâneo; sob consulta.
+* **Pacote Ignition** (até 15 anúncios em simultâneo): limite de 150 edições e publicações por mês (contrato anual, renovado automaticamente);
+    * Pagamento mensal por débito directo: 30,00€ / mês (x12)
+    * Pagamento mensal por transferência bancária, multibanco: 50,00€ / mês (x12)
+    * Pagamento anual antecipado: 300€ / ano
+* **Pacote Drive** (até 30 anúncios em simultâneo): limite de 300 edições e publicações por mês (contrato anual, renovado automaticamente);
+    * Pagamento mensal por débito directo: 50,00€ / mês (x12)
+    * Pagamento mensal por transferência bancária, multibanco: 83,33€ / mês (x12)
+    * Pagamento anual antecipado: 500€ / ano
+* **Pacote Gran Turismo** (até 60 anúncios em simultâneo): limite de 600 edições e publicações por mês (contrato anual, renovado automaticamente);
+    * Pagamento mensal por débito directo: 84,00€ / mês (x12)
+    * Pagamento mensal por transferência bancária, multibanco: 140,00€ / mês (x12)
+    * Pagamento anual antecipado: 840,00€ / ano
+* **Pacote Prestige** (até 100 anúncios em simultâneo): limite de 1 000 edições e publicações por mês (contrato anual, renovado automaticamente);
+    * Pagamento mensal por débito directo: 126,00€ / mês (x12)
+    * Pagamento mensal por transferência bancária, multibanco: 210,00€ / mês (x12)
+    * Pagamento anual antecipado: 1.260,00€ / ano
+* **Pacote Scuderia**: >100 anúncios em simultâneo; sob consulta.
 
 ##### Aos preços indicados, acresce IVA à taxa legal em vigor.
 
@@ -482,45 +512,105 @@ O preço dos serviços está definido de acordo com a categoria, de acordo com a
 
 ##### O preço depende do número de veículos que pretende ter anunciado no CustoJusto e da modalidade de pagamento (mensal ou anual) seleccionada
 
-* **Pacote 10** (até 10 anúncios em simultâneo): limite de 100 edições e publicações por mês; 83,88 €/ano (ou 10,49 €/mês x 12 meses); contrato anual
-* **Pacote 25** (até 25 anúncios em simultâneo): limite de 250 edições e publicações por mês; 107,88 €/ano (ou 13,49 €/mês x 12 meses); contrato anual
-* **Pacote 50** (até 50 anúncios em simultâneo): limite de 500 edições e publicações por mês; 131,88 €/ano (ou 16,49 €/mês x 12 meses); contrato anual
-* **Pacote 100** (até 100 anúncios em simultâneo): limite de 1 000 edições e publicações por mês; 155,88 €/ano (ou 19,49 €/mês x 12 meses); contrato anual
-* **Pacote 250** (até 250 anúncios em simultâneo): limite de 2 500 edições e publicações por mês; 191,88 €/ano (ou 23,99 €/mês x 12 meses); contrato anual
+* **Pacote 10** (até 10 anúncios em simultâneo): limite de 100 edições e publicações por mês (contrato anual, renovado automaticamente);
+    * Pagamento mensal por débito directo: 8,00€ / mês (x12)
+    * Pagamento mensal por transferência bancária, multibanco: 13,33€ / mês (x12)
+    * Pagamento anual antecipado: 80,00€ / ano
+* **Pacote 25** (até 25 anúncios em simultâneo): limite de 250 edições e publicações por mês (contrato anual, renovado automaticamente);
+    * Pagamento mensal por débito directo: 12,00€ / mês (x12)
+    * Pagamento mensal por transferência bancária, multibanco: 20,00 € / mês (x12)
+    * Pagamento anual antecipado: 120,00€ / ano
+* **Pacote 50** (até 50 anúncios em simultâneo): limite de 500 edições e publicações por mês (contrato anual, renovado automaticamente);
+    * Pagamento mensal por débito directo: 14,00€ / mês (x12)
+    * Pagamento mensal por transferência bancária, multibanco: 23,33€ / mês (x12)
+    * Pagamento anual antecipado: 140,00€ /ano
+* **Pacote 100** (até 100 anúncios em simultâneo): limite de 1 000 edições e publicações por mês (contrato anual, renovado automaticamente);
+    * Pagamento mensal por débito directo: 16,00€ / mês (x12)
+    * Pagamento mensal por transferência bancária, multibanco: 26,67€ / mês (x12)
+    * Pagamento anual antecipado: 160,00€ / ano
+* **Pacote 250** (até 250 anúncios em simultâneo): limite de 2 500 edições e publicações por mês (contrato anual, renovado automaticamente);
+    * Pagamento mensal por débito directo: 20,00€ / mês (x12)
+    * Pagamento mensal por transferência bancária, multibanco: 33,33€ / mês (x12)
+    * Pagamento anual antecipado: 200,00€ / ano
 
 ##### Aos preços indicados, acresce IVA à taxa legal em vigor.
 
 #### CustoJusto Pro - Peças
 
-##### O preço depende do número de veículos que pretende ter anunciado no CustoJusto e da modalidade de pagamento (trimestral, semestral ou anual) seleccionada
+##### O preço depende do número de peças que pretende ter anunciado no CustoJusto e da modalidade de pagamento (mensal ou anual) seleccionada
 
-* **Pacote 250** (até 250 anúncios em simultâneo): limite de 2 500 edições e publicações por mês; 239,88 €/ano (ou 29,99 €/mês x 12 meses); contrato anual
-* **Pacote 500** (até 500 anúncios em simultâneo): limite de 5 000 edições e publicações por mês; 479,88 €/ano (ou 59,99 €/mês x 12 meses); contrato anual
-* **Pacote 1 500** (até 1 500 anúncios em simultâneo): limite de 15 000 edições e publicações por mês; 719,88 €/ano (ou 89,99 €/mês x 12 meses); contrato anual
-* **Pacote 3 000** (até 3 000 anúncios em simultâneo): limite de 30 000 edições e publicações por mês; 959,88 €/ano (ou 119,99 €/mês x 12 meses); contrato anual
-* **Pacote 6 000** (até 6 000 anúncios em simultâneo): limite de 60 000 edições e publicações por mês; 1 199,88 €/ano (ou 149,99 €/mês x 12 meses); contrato anual
+* **Pacote 250** (até 250 anúncios em simultâneo): limite de 2 500 edições e publicações por mês (contrato anual, renovado automaticamente);
+    * Pagamento mensal por débito directo: 20,00€ / mês (x12)
+    * Pagamento mensal por transferência bancária, multibanco: 33,33€ / mês (x12)
+    * Pagamento anual antecipado: 200,00€ / ano
+* **Pacote 500** (até 500 anúncios em simultâneo): limite de 5 000 edições e publicações por mês (contrato anual, renovado automaticamente);
+    * Pagamento mensal por débito directo: 36,00€ / mês (x12)
+    * Pagamento mensal por transferência bancária, multibanco: 60,00€ / mês (x12)
+    * Pagamento anual antecipado: 360,00€ / ano
+* **Pacote 1 500** (até 1 500 anúncios em simultâneo): limite de 15 000 edições e publicações por mês (contrato anual, renovado automaticamente);
+    * Pagamento mensal por débito directo: 54,00€ / mês (x12)
+    * Pagamento mensal por transferência bancária, multibanco: 90,00€ / mês (x12)
+    * Pagamento anual antecipado: 540,00€ / ano
+* **Pacote 3 000** (até 3 000 anúncios em simultâneo): limite de 30 000 edições e publicações por mês (contrato anual, renovado automaticamente);
+    * Pagamento mensal por débito directo: 72,00€ / mês (x12)
+    * Pagamento mensal por transferência bancária, multibanco: 120,00€ / mês (x12)
+    * Pagamento anual antecipado: 720,00€ / ano
+* **Pacote 6 000** (até 6 000 anúncios em simultâneo): limite de 60 000 edições e publicações por mês (contrato anual, renovado automaticamente);
+    * Pagamento mensal por débito directo: 90,00€ / mês (x12)
+    * Pagamento mensal por transferência bancária, multibanco: 150,00€ / mês (x12)
+    * Pagamento anual antecipado: 900,00€ / ano
 
 ##### Aos preços indicados, acresce IVA à taxa legal em vigor.
 
 #### CustoJusto Pro - Emprego e Serviços
 
-* **Pacote 5** (até 5 anúncios em simultâneo): limite de 50 edições e publicações por mês; 59,88 €/ano; contrato anual
-* **Pacote 10** (até 10 anúncios em simultâneo): limite de 100 edições e publicações por mês; 83,88 €/ano; contrato anual
-* **Pacote 15** (até 15 anúncios em simultâneo): limite de 150 edições e publicações por mês; 131,88 €/ano; contrato anual
-* **Pacote 20** (até 20 anúncios em simultâneo): limite de 200 edições e publicações por mês; 179,88 €/ano; contrato anual
-* **Pacote 40** (até 40 anúncios em simultâneo): limite de 400 edições e publicações por mês; 299,88 €/ano; contrato anual
+* **Pacote 5** (até 5 anúncios em simultâneo): limite de 50 edições e publicações por mês (contrato anual, renovado automaticamente);
+    * Pagamento mensal por débito directo: 6,00€ / mês (x12)
+    * Pagamento mensal por transferência bancária, multibanco: 10,00€ / mês (x12)
+    * Pagamento anual antecipado: 60,00€ / ano
+* **Pacote 10** (até 10 anúncios em simultâneo): limite de 100 edições e publicações por mês (contrato anual, renovado automaticamente);
+    * Pagamento mensal por débito directo: 9,00€ / mês (x12)
+    * Pagamento mensal por transferência bancária, multibanco: 15,00€ / mês (x12)
+    * Pagamento anual antecipado: 90,00€ / ano
+* **Pacote 15** (até 15 anúncios em simultâneo): limite de 150 edições e publicações por mês (contrato anual, renovado automaticamente);
+    * Pagamento mensal por débito directo: 12,50€ / mês (x12)
+    * Pagamento mensal por transferência bancária, multibanco: 20,83 / mês (x12)
+    * Pagamento anual antecipado: 125,00€ / ano
+* **Pacote 20** (até 20 anúncios em simultâneo): limite de 200 edições e publicações por mês (contrato anual, renovado automaticamente);
+    * Pagamento mensal por débito directo: 16,00€ / mês (x12)
+    * Pagamento mensal por transferência bancária, multibanco: 26,67€ / mês (x12)
+    * Pagamento anual antecipado: 160,00€ / ano
+* **Pacote 40** (até 40 anúncios em simultâneo): limite de 400 edições e publicações por mês (contrato anual, renovado automaticamente);
+    * Pagamento mensal por débito directo: 29,00€ / mês (x12)
+    * Pagamento mensal por transferência bancária, multibanco: 48,33€ / mês (x12)
+    * Pagamento anual antecipado: 290,00€ / ano
 
 ##### Aos preços indicados, acresce IVA à taxa legal em vigor.
 
 #### CustoJusto Pro - Diversos
 
-##### Categorias em Para Casa e Vestuário, Desporto e Lazer, Informática e Telecomunicações, Animais, Informática e Electrónica, Material Escolar. O preço depende do número de anúncios que pretende ter publicado no CustoJusto.
+##### Categorias em Para Casa e Vestuário, Desporto e Lazer, Informática e Telecomunicações, Animais, Informática e Electrónica, Material Escolar. O preço depende do número de anúncios que pretende ter publicados no CustoJusto.
 
-* **Pacote 100** (até 100 anúncios em simultâneo): limite de 1 000 edições e publicações por mês; 59,88 €/ano; contrato anual
-* **Pacote 250** (até 250 anúncios em simultâneo): limite de 2 500 edições e publicações por mês; 83,88 €/ano; contrato anual
-* **Pacote 500** (até 500 anúncios em simultâneo): limite de 5 000 edições e publicações por mês; 107,88 €/ano; contrato anual
-* **Pacote 1 000** (até 1 000 anúncios em simultâneo): limite de 10 000 edições e publicações por mês; 131,88 €/ano; contrato anual
-* **Pacote 10 000** (até 10 000 anúncios em simultâneo): limite de 100 000 edições e publicações por mês; 155,88 €/ano; contrato anual
+* **Pacote 100** (até 100 anúncios em simultâneo): limite de 1 000 edições e publicações por mês (contrato anual, renovado automaticamente);
+    * Pagamento mensal por débito directo: 6,00€ / mês (x12)
+    * Pagamento mensal por transferência bancária, multibanco: 10,00€ / mês (x12)
+    * Pagamento anual antecipado: 60,00 € / ano
+* **Pacote 250** (até 250 anúncios em simultâneo): limite de 2 500 edições e publicações por mês (contrato anual, renovado automaticamente);
+    * Pagamento mensal por débito directo: 9,00€ / mês (x12)
+    * Pagamento mensal por transferência bancária, multibanco: 15,00€ / mês (x12)
+    * Pagamento anual antecipado: 90,00 € / ano
+* **Pacote 500** (até 500 anúncios em simultâneo): limite de 5 000 edições e publicações por mês (contrato anual, renovado automaticamente);
+    * Pagamento mensal por débito directo: 12,00€ / mês (x12)
+    * Pagamento mensal por transferência bancária, multibanco: 20,00€ / mês (x12)
+    * Pagamento anual antecipado: 120,00 € / ano
+* **Pacote 1 000** (até 1 000 anúncios em simultâneo): limite de 10 000 edições e publicações por mês (contrato anual, renovado automaticamente);
+    * Pagamento mensal por débito directo: 14,00€ / mês (x12)
+    * Pagamento mensal por transferência bancária, multibanco: 23,33€ / mês (x12)
+    * Pagamento anual antecipado: 140 € / ano
+* **Pacote 10 000** (até 10 000 anúncios em simultâneo): limite de 100 000 edições e publicações por mês (contrato anual, renovado automaticamente);
+    * Pagamento mensal por débito directo: 18,00€ / mês (x12)
+    * Pagamento mensal por transferência bancária, multibanco: 30,00 / mês (x12)
+    * Pagamento anual antecipado: 180,00 € / ano
 
 ##### Aos preços indicados, acresce IVA à taxa legal em vigor.
 
@@ -528,11 +618,26 @@ O preço dos serviços está definido de acordo com a categoria, de acordo com a
 
 ##### Categorias em Equipamentos profissionais e Outras vendas. O preço depende do número de anúncios que pretende ter publicado no CustoJusto.
 
-* **Pacote 10** (até 10 anúncios em simultâneo): limite de 100 edições e publicações por mês; 59,88 €/ano; contrato anual
-* **Pacote 25** (até 25 anúncios em simultâneo): limite de 250 edições e publicações por mês; 83,88 €/ano; contrato anual
-* **Pacote 50** (até 50 anúncios em simultâneo): limite de 500 edições e publicações por mês; 107,88 €/ano; contrato anual
-* **Pacote 100** (até 100 anúncios em simultâneo): limite de 1 000 edições e publicações por mês; 131,88 €/ano; contrato anual
-* **Pacote 500** (até 500 anúncios em simultâneo): limite de 5 000 edições e publicações por mês; 155,88 €/ano; contrato anual
+* **Pacote 50** (até 50 anúncios em simultâneo): limite de 500 edições e publicações por mês (contrato anual, renovado automaticamente);
+    * Pagamento mensal por débito directo: 6,00€ / mês (x12)
+    * Pagamento mensal por transferência bancária, multibanco: 10,00€ / mês (x12)
+    * Pagamento anual antecipado: 60,00€ / ano
+* **Pacote 100** (até 100 anúncios em simultâneo): limite de 1 000 edições e publicações por mês (contrato anual, renovado automaticamente);
+    * Pagamento mensal por débito directo:10,00€ / mês (x12)
+    * Pagamento mensal por transferência bancária, multibanco: 16,67 / mês (x12)
+    * Pagamento anual antecipado: 100,00€ / ano
+* **Pacote 250** (até 250 anúncios em simultâneo): limite de 2 500 edições e publicações por mês (contrato anual, renovado automaticamente);
+    * Pagamento mensal por débito directo: 14,00€ / mês (x12)
+    * Pagamento mensal por transferência bancária, multibanco: 23,33 / mês (x12)
+    * Pagamento anual antecipado: 140,00€ / ano
+* **Pacote 500** (até 500 anúncios em simultâneo): limite de 5 000 edições e publicações por mês (contrato anual, renovado automaticamente);
+    * Pagamento mensal por débito directo: 18,00€ / mês (x12)
+    * Pagamento mensal por transferência bancária, multibanco: 30,00€ / mês (x12)
+    * Pagamento anual antecipado: 180,00€ / anocontrato anual
+* **Pacote 1 000** (até 1 000 anúncios em simultâneo): limite de 10 000 edições e publicações por mês (contrato anual, renovado automaticamente);
+    * Pagamento mensal por débito directo: 20,00€ / mês (x12)
+    * Pagamento mensal por transferência bancária, multibanco: 33,33€ / mês (x12)
+    * Pagamento anual antecipado: 200,00€ / anocontrato anual
 
 ##### Aos preços indicados, acresce IVA à taxa legal em vigor.
 
@@ -598,6 +703,8 @@ Nome, endereço de e-mail e morada do anunciante \[deve incluir o seu nome e end
 
 Assinatura do anunciante \[no caso de a resolução ser comunicada em papel\]
 
-Última actualização: 27 de Setembro de 2021
+Última actualização: 13 de Fevereiro de 2023
 
 Consulte os nossos termos e condições em vigor até dia 14/10/2021, em formato PDF, [aqui](https://www.custojusto.pt/20200629.pdf).
+
+Consulte os nossos termos e condições em vigor até dia 28/02/2023, em formato PDF, [aqui](https://www.custojusto.pt/20210927.pdf).
