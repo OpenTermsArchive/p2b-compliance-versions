@@ -110,6 +110,6 @@ Outcome of complaints on an aggregated basis: N/A
 Average Monthly Active Recipients
 ---------------------------------
 
-The average monthly active recipients of Skyscanner’s online platform services in the European Union calculated as an average over the past six months to 31 January 2023 is 34,023,750.
+The average monthly active recipients of Skyscanner’s online platform services in the European Union calculated as an average over the past six months to 31 January 2023 is 33,999,923.
 
-_Published 14 February 2023_
+_Published 16 February 2023_
