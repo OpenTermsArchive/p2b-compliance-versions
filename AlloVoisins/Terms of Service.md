@@ -643,7 +643,7 @@ Les données sont disponibles dans un format standard du marché (.xls, .csv, et
 
 ### 8.3 Révision des prix
 
-Le tarif applicable à toute prestation à échéance récurrente ou sur abonnement sera révisé à chaque date anniversaire de l'engagement par application automatique de la formule de révision de prix suivante : P1=PO (S1) SO où
+Le tarif applicable à toute prestation à échéance récurrente ou sur abonnement sera révisé à chaque date anniversaire de l'engagement par application automatique de la formule de révision de prix suivante : P1=P0x(S1/SO) où
 
 * − P1 est le prix révisé en EUR HT
     
