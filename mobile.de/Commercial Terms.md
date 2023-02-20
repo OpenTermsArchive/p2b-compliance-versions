@@ -1,9 +1,12 @@
 Allgemeine Geschäftsbedingungen für die Nutzung des Händlerbereichs des mobile.de Dienstes (AGB-HB)
 ===================================================================================================
 
-**Diese AGB sind gültig ab 8. August 2020**  
-
-[Die bis 7. August 2020 gültigen AGB finden Sie hier](https://www.mobile.de/service/agbProfessionalOld?lang=de)
+**mobile.de wird seine Allgemeinen Geschäftsbedingungen für die Nutzung des Händlerbereichs zum 1. April 2023 anpassen.**  
+  
+**Diese AGB sind gültig bis zum 31. März 2023.**  
+  
+[**Die neuen AGB finden Sie hier**](https://www.mobile.de/service/agbProfessionalNew?lang=de)  
+  
 
 * * *
 
