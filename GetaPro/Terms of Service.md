@@ -17,7 +17,7 @@ Lietojot Servisu Vietnē, Lietotājs piekrīt visiem šajā dokumentā minētaji
 * "Serviss" - jebkura procedūra vai pakalpojums, nodrošināts Vietnes Lietotājiem, kas iekļauj, bet neaprobežojas ar informāciju, pakalpojumiem un produktiem, piedāvātiem Vietnē, telefoniski vai ar e-pasta palīdzību.
 * "Izpildītājs" - jebkura fiziskā vai juridiskā persona, piereģistrēta Vietnē ar mērķi piedāvāt savus pakalpojumus un saņemt Pasūtījumus no Pasūtītājiem.
 * “Rēķins” ir elektronisks rēķins par izpildītāja pakalpojumiem Pasūtījuma izpildei, ko Izpildītājs ģenerējis Vietnē.
-* "Pakalpojumu sniegšanas līgums" – jebkura vienošanās, panākta starp Izpildītāju un Pasūtītāju par to pakalpojumu sniegšanu, kuri tiks izpildīti nākotnē. Pakalpojumu sniegšanas līgums var būt noslēgts telefoniski, izmantojot īsziņas (SMS), caur e-pastu, ar rakstisko iesniegumu vai līgumu.
+* "Vienošanās par pakalpojumu sniegšanu" – jebkura vienošanās, panākta starp Izpildītāju un Pasūtītāju par pakalpojumiem, kuri tiks veikti. Vienošanās par pakalpojumu sniegšanu var būt panākta mutiski, telefoniski, izmantojot īsziņas (SMS), caur e-pasta saraksti, ar rakstisku iesniegumu vai līgumu.
 * "Saturs" - jebkuras publikācijas, ziņojumi, teksti, faili, grafiskie attēli, fotogrāfijas, videomateriāli, skaņu ieraksti un citi datu materiāli.
 * "Lietotāja vārds" - Lietotāja e-pasta adrese, kuru viņš izvēlējās reģistrējoties un izmanto to, lietojot Vietni. Vienam un tam pašam Lietotājam aizliegts reģistrēt un izmantot vairākus Lietotāja vārdus
 * "Parole" - ar Lietotāju izvēlēta simbolu, burtu un ciparu kombinācija, kas kopā ar Lietotāja vārdu nodrošina viņa identifikāciju, lietojot Vietni.
@@ -40,9 +40,9 @@ Uzņēmums patur aiz sevis tiesības pievienot, dzēst un mainīt kategoriju, pa
 
 Kaut Uzņēmums pieliek maksimālas piepūles, lai informācija Vietnē būtu precīza un pareiza, tomēr GetaPro nevar garantēt pilnu informācijas ticamību Vietnē un neatbild par jebkādām grūtībām un/vai zaudējumiem, kas radušies Satura kļūdu dēļ.
 
-Izmantojot GetaPro Servisu, Lietotājs atzīst, ka GetaPro nerīkojas kā darbuzņēmējs vai aģents, un nav atbildīgs par Izpildītāju veikto darbu kvalitāti un rezultātu. Pasūtītājs pats atbildīgs par pienācīga Izpildītāja izvēli un nosacījumu saskaņošanu jebkādiem darbiem, kurus Izpildītājs apņemas veikt. GetaPro nebūs iesaistīts un nenesīs atbildību par Pakalpojumu sniegšanas līguma nosacījumiem starp Pasūtītāju un Izpildītāju.
+Izmantojot GetaPro Servisu, Lietotājs atzīst, ka GetaPro nedarbojas kā darbuzņēmējs vai aģents, un nav atbildīgs par Izpildītāju veikto darbu kvalitāti un rezultātu. Pasūtītājs ir pats atbildīgs par piemērota Izpildītāja izvēli un vienošanos par jebkura darba nosacījumiem, kurus Izpildītājs apņemas veikt. GetaPro nebūs iesaistīts un neuzņemsies atbildību nevienā Vienošanās par pakalpojumu sniegšanu starp Pasūtītāju un Izpildītāju.
 
-Uzņēmums iesaka: pirms slēgt Pakalpojumu sniegšanas līgumu ar Izpildītāju, katram Pasūtītājam jāsaņem Izpildītāja kvalifikācijas un citu nepieciešamo dokumentu apstiprinājums. Getapro nenes atbildību par problēmām vai zaudējumiem, kas radušies Lietotājam, informācijas nesaņemšanas un/vai informācijas pārbaudes dēļ.
+Uzņēmums iesaka jebkuram Pasūtītājam pirms noslēgt Vienošanos par pakalpojumu sniegšanu ar jebkuru Izpildītāju, saņemt no viņa kvalifikācijas apliecinājumu un jebkuru citu nepieciešamo dokumentu. Ja Lietotājam ir radušas problēmas vai zaudējumi šīs informācijas nesaņemšanas vai pārbaudes dēļ, GetaPro atbildību neuzņemsies.
 
 ### Saturs
 
@@ -88,7 +88,7 @@ Biznesa Pasūtītājam jānorāda tās juridiskās personas reģistrācijas numu
 
 Lietotāji ir atbildīgi par sava profila saturu, kā arī par tā informācijas precizitāti un likumību.
 
-Visi izpildītāji tiks vērtēti ar Pasūtītāju atsauksmju palīdzību tikai, ja pēc ieinteresētības izteikšanas ir notikusi vienošanās par Pakalpojumu sniegšanu dažiem vai visiem darbiem.
+Visi izpildītāji tiks vērtēti ar Pasūtītāju atsauksmju palīdzību, ja pēc ieinteresētības izrādīšanas ir panākta Vienošanās par pakalpojumu sniegšanu dažiem vai visiem darbiem.
 
 Izpildītāji saprot, ka GetaPro nav atbildīgs par atsauksmju Saturu, ko bija atstājuši Pasūtītāji, vai arī par jebkādiem kaitējumiem, kas radīti ar šo Saturu. Pasūtītājs, kas atstāja komentāru, nes tiešo atbildību par tā saturu, precizitāti un likumību.
 
