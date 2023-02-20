@@ -569,7 +569,7 @@ In the course of providing you services and in respect of your use of the Websit
 
 **35\. Privacy and Cookies Policy**
 
-Your privacy is important to us.  Please review our [Privacy Policy](https://hello.donedeal.ie/hc/en-us/articles/201251721-Privacy-Policy) to see how we collect, protect, process and use your personal data.  The website also uses cookies and by using the Website you agree to the placement of cookies.  To learn more about the cookies we use and how to manage them please review our [Cookie Policy](https://hello.donedeal.ie/hc/en-us/articles/201251721-Privacy-Policy#4).
+Your privacy is important to us.  Please review our [Privacy Policy](https://hello.donedeal.ie/hc/en-us/articles/201251721-Privacy-Policy) to see how we collect, protect, process and use your personal data.  The website also uses cookies and by using the Website you agree to the placement of cookies.  To learn more about the cookies we use and how to manage them please review our [Cookie Policy](https://hello.donedeal.ie/hc/en-us/articles/201251721-Privacy-Policy#4).  To learn more about Google privacy terms [click here](https://policies.google.com/technologies/partner-sites).
 
 Any external links to other websites are clearly identifiable as such, and we are not responsible for the content or the privacy or cookie policies of these other websites.
 
