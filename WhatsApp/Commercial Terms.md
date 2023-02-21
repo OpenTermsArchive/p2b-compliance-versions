@@ -1,7 +1,7 @@
 WhatsApp Business Terms of Service
 ==================================
 
-Last Modified: September 27, 2021
+Effective Date: April 27, 2023
 
 ### 1\. Introduction
 
@@ -75,7 +75,7 @@ We will acknowledge all complaints and follow-up with you to address your compla
 
 ### 7\. Our Data Practices
 
-**Your Customer Contacts**. Company provides customer contact information such as phone numbers (“Customer Data”) to WhatsApp, and Company determines which of its customers it may communicate with using the WhatsApp service. To the extent any data protection or privacy law applicable to your use of WhatsApp’s Business Services recognizes the concepts of Controller and Processor and requires the conclusion of a data processing agreement between them (such as the EU General Data Protection Regulation (Regulation (EU) 2016/679, “GDPR”) and, or, the Brazilian "Lei Geral de Proteção de Dados” (Law 13.709/2018, “LGPD”; "Data Privacy Law"), you acknowledge that you are the Controller and instruct the WhatsApp entity you are contracting with, for the duration of these Business Terms, to Process any Personal Information in Customer Data on your behalf as your Processor to enable you to contact your customers on WhatsApp pursuant to these Business Terms and the [WhatsApp Business Data Processing Terms](https://www.whatsapp.com/legal/business-data-processing-terms-20210927). “Personal Information”, “Controller,” “Processor” and “Processing” in this section have the meanings set out in the WhatsApp Business Data Processing Terms which are incorporated by reference into these Business Terms.
+**Your Customer Contacts**. Company provides customer contact information such as phone numbers (“Customer Data”) to WhatsApp, and Company determines which of its customers it may communicate with using the WhatsApp service. To the extent any data protection or privacy law applicable to your use of WhatsApp’s Business Services recognizes the concepts of Controller and Processor and requires the conclusion of a data processing agreement between them (such as the EU General Data Protection Regulation (Regulation (EU) 2016/679, “EU GDPR”), the “UK GDPR” (as defined in the UK Data Protection Act 2018), or the Brazilian "Lei Geral de Proteção de Dados” (Law 13.709/2018, “LGPD”; "Data Privacy Law"), you acknowledge that you are the Controller and instruct the WhatsApp entity you are contracting with, for the duration of these Business Terms, to Process any Personal Information in Customer Data on your behalf as your Processor to enable you to contact your customers on WhatsApp pursuant to these Business Terms and the [WhatsApp Business Data Processing Terms](https://www.whatsapp.com/legal/business-data-processing-terms-20210927). “Personal Information”, “Controller,” “Processor” and “Processing” in this section have the meanings set out in the WhatsApp Business Data Processing Terms which are incorporated by reference into these Business Terms.
 
 **Access to data, and to aggregated data**. You, and your service providers who manage your WhatsApp Business communications for you, if any, will have access via our Business Services to personal data, such as Customer Data, and Company Content that you provide to us. As part of our Business Services, WhatsApp provides you with aggregated metrics relating to your messaging activity within our Business Services, such as the aggregate number of messages sent, delivered, and read. If you use a service provider to manage your WhatsApp Business communications for you, then by connecting your WhatsApp Business account and providing your service provider with account permissions, you instruct us to provide your service provider with access to these aggregated metrics.
 
@@ -107,7 +107,7 @@ Company agrees to defend, indemnify, and hold harmless the WhatsApp Parties from
 
 We may modify, suspend, or terminate Company’s access to or use of our Business Services and these Business Terms at any time and for any reason, permissible by applicable law, including if we determine, in our sole discretion, that Company violates these Business Terms, receives excessive negative feedback, or creates harm, risk, or possible legal exposure for us, our users, or others.
 
-To the extent you are established in the European Union and within scope of our obligations under the Platform Regulation, we will give you 30 days' prior notice (unless a legal or regulatory obligation requires us to terminate the services in a shorter timeframe, or you have repeatedly breached your obligations under these Terms) and the relevant reasons for termination (except if we are legally restricted from giving reasons or if you have repeatedly breached these Business Terms). Company may contact WhatsApp using our complaints system at [businesscomplaints@support.whatsapp.com](mailto:businesscomplaints@support.whatsapp.com) to clarify the reasons for our termination or suspension of your account. If we are able to resolve the issue in your favor, resulting in reactivating your account, then we will reinstate our Business Services to you within a reasonable time.
+To the extent you are established in the European Union or the United Kingdom and within scope of our obligations under the Platform Regulation, we will give you 30 days' prior notice (unless a legal or regulatory obligation requires us to terminate the services in a shorter timeframe, or you have repeatedly breached your obligations under these Terms) and the relevant reasons for termination (except if we are legally restricted from giving reasons or if you have repeatedly breached these Business Terms). Company may contact WhatsApp using our complaints system at [businesscomplaints@support.whatsapp.com](mailto:businesscomplaints@support.whatsapp.com) to clarify the reasons for our termination or suspension of your account. If we are able to resolve the issue in your favor, resulting in reactivating your account, then we will reinstate our Business Services to you within a reasonable time.
 
 Upon termination, we will remove your account profile from WhatsApp, and retain data associated with your account for up to 90 days, including data you have provided to us or which we have collected from your use of the Business Services as described in this agreement’s section on Our Data Practices. Copies of your information may also remain after the 90 days for a limited time in the backup storage that we use to recover lost data in the event of a disaster, software error, or other data loss event.
 
@@ -129,11 +129,11 @@ Our Business Services are not intended for distribution to or use in any country
 
 The laws of the State of California govern these Business Terms and any Disputes (defined below) that may arise between WhatsApp and Company, without regard to conflict of law provisions. Company will resolve any claim, cause of action, or Dispute(s) relating to, arising out of, or in any way in connection with these Business Terms, us, our Business Services, or other products and services we may make available (“Dispute(s)”) exclusively in the United States District Court for the Northern District of California to the extent there is federal jurisdiction, or a state court located in San Mateo County in California, and Company agrees to submit to the personal jurisdiction of such courts for the purpose of litigating all such Disputes. Without prejudice to the foregoing, you agree that, in our sole discretion, we may elect to resolve any Dispute we have with you in any competent court in the country in which you reside that has jurisdiction over the Dispute.
 
-**Mediation**. To the extent your customers are located in the European Region and obligations under the Platform Regulation apply, you or we may refer any claim, cause of action, or Dispute (including complaints that could not be resolved) to voluntary mediation, by giving written notice to the other via email (you may email us at [businesscomplaints@support.whatsapp.com](mailto:businesscomplaints@support.whatsapp.com) and we may email you at your valid email address). The list of independent mediators that we are willing to engage with are available at [https://www.whatsapp.com/legal/business-terms/p2b-mediation](https://www.whatsapp.com/legal/business-terms/p2b-mediation). Mediation will not affect your or our right to adjudicate the dispute in court proceedings at any time.
+**Mediation**. To the extent your customers are located in the European Region or the United Kingdom and obligations under the Platform Regulation apply, you or we may refer any claim, cause of action, or Dispute (including complaints that could not be resolved) to voluntary mediation, by giving written notice to the other via email (you may email us at [businesscomplaints@support.whatsapp.com](mailto:businesscomplaints@support.whatsapp.com) and we may email you at your valid email address). The list of independent mediators that we are willing to engage with are available at [https://www.whatsapp.com/legal/business-terms/p2b-mediation](https://www.whatsapp.com/legal/business-terms/p2b-mediation). Mediation will not affect your or our right to adjudicate the dispute in court proceedings at any time.
 
 ### 17\. Amendment
 
-We may amend or update these Business Terms, including all incorporated policies and documents. Changes to these Business Terms become effective upon the date that we publish such changes. To the extent that we are required by applicable law to notify you in advance of implementing these changes (e.g., as set forth in the European Union’s Platform Regulation), we will provide sufficient advance notice. Company’s continued use of our Business Services confirms its acceptance of these Business Terms as amended. If Company does not agree to these Business Terms as amended, Company must stop using our Business Services by deleting its account. Please review these Business Terms from time to time.
+We may amend or update these Business Terms, including all incorporated policies and documents. Changes to these Business Terms become effective upon the date that we publish such changes. To the extent that we are required by applicable law to notify you in advance of implementing these changes (e.g., as set forth in the Platform Regulation), we will provide sufficient advance notice. Company’s continued use of our Business Services confirms its acceptance of these Business Terms as amended. If Company does not agree to these Business Terms as amended, Company must stop using our Business Services by deleting its account. Please review these Business Terms from time to time.
 
 ### 18\. Assignment
 
@@ -155,24 +155,17 @@ Click [here](https://www.whatsapp.com/legal/eecc-eea) for a contract summary and
 
 Written notices to WhatsApp may be addressed as follows:
 
-WhatsApp LLC ATTN: WhatsApp Legal Department  
-  
+WhatsApp LLC  
+ATTN: WhatsApp Legal Department  
 1601 Willow Road  
-  
 Menlo Park, California 94025  
-  
 United States of America
 
 If you are located in the European Region:
 
 WhatsApp Ireland Limited  
-  
 ATTN: WhatsApp Legal Department  
-  
 4 Grand Canal Square  
-  
 Grand Canal Harbour  
-  
 Dublin 2  
-  
 Ireland
