@@ -187,7 +187,7 @@ Le Participant accepte que ses relations avec MyBestPro SAS soient régies par l
 
 ### I.8. Avis des Utilisateurs
 
-Les Utilisateurs ayant bénéficié d’une Prestation d’une durée d’au moins 4 minutes ont la possibilité de laisser un avis sur la fiche des Conseillers avec lesquels ils ont été en contact. De la même façon, les Conseillers ont la possibilité de poster une réponse à chaque avis ainsi laissé par un Utilisateur sur leurs fiches.
+Les Utilisateurs ayant bénéficié d’une Prestation d’une durée d’au moins 5 minutes ont la possibilité de laisser un avis sur la fiche des Conseillers avec lesquels ils ont été en contact. De la même façon, les Conseillers ont la possibilité de poster une réponse à chaque avis ainsi laissé par un Utilisateur sur leurs fiches.
 
 Wengo n’effectue aucun contrôle à priori des avis laissés par les Utilisateurs. Tous les avis laissés par les Utilisateurs sont publiés sur le Site. Seuls les Utilisateurs ayant déjà fait appel aux services d’un Conseiller peuvent laisser un avis sur ce dernier.
 
