@@ -266,7 +266,7 @@ a) Fairbnb.coop is a platform that offers useful services to facilitate the meet
 
 b) The Fairbnb.coop platform and the services offered by it are owned by the Fair Bnb Network Società Cooperativa, with its registered offices in Bologna, via Alfredo Calzoni 1-3, CF: 03735181202
 
-c) Contact details of Fairbnb.coop: [\[email protected\]](https://fairbnb.coop/cdn-cgi/l/email-protection)bnb.coop
+c) Contact details of Fairbnb.coop: in[\[email protected\]](https://fairbnb.coop/cdn-cgi/l/email-protection)
 
 d) Any complaints can be sent to the following addresses: [\[email protected\]](https://fairbnb.coop/cdn-cgi/l/email-protection)
 
