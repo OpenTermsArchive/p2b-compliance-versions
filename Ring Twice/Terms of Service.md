@@ -6,7 +6,7 @@ Conditions générales mises à jour
 
 **Valide à partir du: 11/03/2019 (la « Date Effective »)**
 
-_Veuillez noter que votre Abonnement Ring Twice sera renouvelé automatiquement à la fin de votre période d’Abonnement Ring Twice (telle que définie ci-après section 5.2.2 des [Conditions Générales pour les demandeurs](https://ringtwice.be/fr/conditions-generales-demandeurs/)), dans les mêmes conditions et pour la même durée que celles applicables à la Période d’Abonnement Ring Twice en cours, à moins que vous résiliez votre Abonnement Ring Twice avant sa date d’expiration. Toute information relative à votre Abonnement Ring Twice est disponible dans le section « Mon Plan Tarifaire » de votre profil. Vous pouvez annuler de manière anticipée le renouvellement de votre Abonnement Ring Twice (tel que défini ci-après dans section 5.2.2 des [Conditions Générales pour les demandeurs](https://ringtwice.be/fr/conditions-generales-demandeurs/)) à tout moment sans frais et sans tenir compte d’une période de préavis._
+_Veuillez noter que votre Abonnement Ring Twice sera renouvelé automatiquement à la fin de votre période d’Abonnement Ring Twice (telle que définie ci-après section 5.2.2 des [Conditions Générales pour les demandeurs](https://ringtwice.be/fr/conditions-generales-demandeurs/)), dans les mêmes conditions et pour la même durée que celles applicables à la Période d’Abonnement Ring Twice en cours, à moins que vous résiliez votre Abonnement Ring Twice avant sa date d’expiration. Toute information relative à votre Abonnement Ring Twice est disponible dans le section « Formule Ring Twice+ » de votre profil. Vous pouvez annuler de manière anticipée le renouvellement de votre Abonnement Ring Twice (tel que défini ci-après dans section 5.2.2 des [Conditions Générales pour les demandeurs](https://ringtwice.be/fr/conditions-generales-demandeurs/)) à tout moment sans frais et sans tenir compte d’une période de préavis._
 
 Bienvenue sur Ring Twice! Par l’utilisation de cette plateforme ainsi que des outils y disponibles ou y relatés, vous marquez votre accord sur les conditions suivantes, y compris celles disponibles par lien hypertexte, avec les principes Ring Twice. Vous trouverez ci-dessous les conditions concernant la [protection de la vie privée](https://ringtwice.be/fr/conditions-generales/#vie-privee), les [règlements relatifs aux cookies](https://ringtwice.be/fr/conditions-generales/#cookies) ainsi que les [mentions légales](https://ringtwice.be/fr/conditions-generales/#mentions-legales).
 
@@ -287,7 +287,8 @@ Pour de plus amples informations ou questions sur nos Mentions Légales, veuille
 
 Ring Twice  
 12, Avenue des Rossignols,  
-1310 La Hulpe, Belgique  
+1310 La Hulpe, Belgique
+
 Téléphone: +32 2 646 81 17
 
 [\[email protected\]](https://ringtwice.be/cdn-cgi/l/email-protection)
