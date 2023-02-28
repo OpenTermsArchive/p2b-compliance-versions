@@ -7,7 +7,7 @@ What are the main ranking parameters?
   
 **Popularity:** We determine popularity by the number of recent orders processed by a restaurant compared to other restaurants in that area. While this mainly applies to chain restaurants, it could also apply to more prominent restaurants in a city centre. ‘Popular restaurants’ also tend to employ more delivery staff and therefore can typically cover a larger delivery area and more orders. Based on their popularity, we place them somewhat higher on the list than restaurants that do not have this kind of capacity.  
   
-**New restaurants:** New restaurants temporarily receive an improved position on Lieferando.de because they have fewer reviews. To help these restaurants get started, they receive a higher placement for a short period of time (usually for a week). We indicate new restaurants with the ‘New’ label.  
+**New restaurants:** New restaurants temporarily receive an improved position on Lieferando.de because they have fewer reviews. To help these restaurants get started, they receive a higher placement for a short period of time. We indicate new restaurants with the ‘New’ label.  
   
 **Logistic efficiency:** Lieferando.de may temporarily move restaurants down the list if we know that their orders are unlikely to be delivered to customers within a reasonable timeframe due to capacity issues at the restaurant or our delivery services. In addition, both Lieferando.de and the restaurant can decide to "close" a restaurant on the platform if it is too busy in which case it will no longer appear in the restaurant list. For chains with multiple restaurants that deliver to a customer's location we show the closest open branch first and move the further away chains down the list.  
   
