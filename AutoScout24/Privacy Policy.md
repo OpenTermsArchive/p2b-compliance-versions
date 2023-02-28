@@ -89,6 +89,7 @@ Asimismo, para determinados servicios es necesaria la comunicación de datos a t
 Por otro lado, con el fin de ofrecer diferentes Servicios a sus usuarios, desde el Portal se puede acceder a la funcionalidad de terceros. En este caso, Sumauto únicamente presta las tareas de ofrecer el servicio de terceros sin tratar los datos personales de los usuarios. Los servicios de terceros ofrecidos en el Portal de Sumauto son:
 
 * Servicios de tasación del Portal Autobiz. Se pueden consultar las Condiciones del Servicio en el siguiente enlace [https://autobiz-ocasion.es/menciones-legales.html](https://autobiz-ocasion.es/menciones-legales.html)
+* Servicios de información adicional de vehículos de la empresa Carfax. Se pueden consultar las Condiciones del Servicio en el siguiente [enlace](https://www.carfax.eu/es/terminos-y-condiciones)
 
 ### 7\. Tus derechos al facilitarnos tus datos
 
