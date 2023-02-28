@@ -1133,7 +1133,7 @@ MANUAL DEL VENDEDOR PRO DE VINTED
 
 **MANUAL DEL VENDEDOR PRO DE VINTED**
 
-Si Usted es un profesional registrado como comerciante independiente o una organización sin fines de lucro, lo que nosotros llamamos un “Vendedor Pro”, ahora puede vender artículos en Vinted. 
+Si Usted es un profesional registrado en Francia como empresa, comerciante independiente u organización sin fines de lucro, lo que nosotros llamamos un “Vendedor Pro”, ahora puede vender artículos en Vinted. 
 
 Continúe leyendo para obtener más información sobre este proceso y sobre cuáles son sus derechos y obligaciones como Vendedor Pro en Vinted. 
 
@@ -1165,7 +1165,7 @@ Debe tener una sola cuenta de Usuario Pro de Vinted; no está permitido tener m�
 
 Para cumplir con los requisitos, Usted debe:
 
-\- ser un comerciante independiente o una organización sin fines de lucro (asociación según el significado de la Ley Francesa del 1. de julio de 1901 o fundación), debidamente inscripta en Francia; 
+\- ser una empresa, un comerciante independiente o una organización sin fines de lucro (asociación según el significado de la Ley Francesa del 1. de julio de 1901 o fundación), debidamente constituida en Francia; 
 
 \- usar los servicios de Vinted en el contexto de su actividad profesional (es decir, actuar en su capacidad como profesional al publicar/vender artículos o al usar cualquier otro servicio de Vinted); y
 
@@ -1183,7 +1183,9 @@ Para cumplir con los requisitos, Usted debe:
 
 (vi) Artículos para el cuidado de mascotas como ropa, accesorios, ropa de cama, accesorios de viaje y juguetes.
 
-No puede registrarse si ofrece:
+​​En Vinted solo puede anunciar artículos que hayan sido comercializados legalmente en el Espacio Económico Europeo (EEE).
+
+**No puede registrarse si ofrece:**
 
 \- vender artículos a compradores ubicados en países donde la venta de dichos artículos se encuentra prohibida por ley (ya sea por la naturaleza del artículo, la calidad, la marca o los materiales del artículo, o por cualquier otro motivo);
 
@@ -1199,7 +1201,9 @@ No puede registrarse si ofrece:
 
 **Introducir su información comercial**
 
-Durante el registro, le pediremos que añada información, como el nombre de su negocio, el domicilio, la dirección de correo electrónico, el número de teléfono, el número de empresa, dirección de la sede central, el número de registro de IVA, el representante legal y sus datos personales (nombre completo, fecha de nacimiento, nacionalidad, país de residencia). Cuando el procedimiento "Conozca a su cliente" (KYC) se inicie (para obtener más información, consulte el apartado 10 de los [Términos de uso para Vendedores Pro](https://vinted.es/pro-terms-of-use)), además de los datos facilitados anteriormente, también tendrá que proporcionar los siguientes datos: (i) en el caso de organizaciones sin fines de lucro, copias de: estatutos, comprobante del registro (un extracto de publicación o un decreto que contenga una declaración de fundación de utilidad pública) y documento de identidad del representante legal (ii) para los comerciantes independientes, copias de: documento de identidad y comprobante del registro (extracto K).
+Durante el registro, le pediremos que añada información, como el nombre de su negocio, el domicilio, la dirección de correo electrónico, el número de teléfono, el número de empresa, el registro mercantil en el que se haya registrado la empresa, dirección de la sede central, el número de registro de IVA cuando corresponda y otros documentos de identidad, datos bancarios, el representante legal y sus datos personales (nombre completo, fecha de nacimiento, nacionalidad, país de residencia, dirección y correo electrónico). Asimismo, le pediremos que certifique que solo ofrecerá productos o servicios de acuerdo con la legislación de la Unión Europea aplicable.
+
+Cuando el procedimiento "Conozca a su cliente" (KYC) se inicie (para obtener más información, consulte el apartado 10 de los [Términos de uso para Vendedores Pro](https://vinted.es/pro-terms-of-use)), además de los datos facilitados anteriormente, también tendrá que proporcionar los siguientes datos: (i) en el caso de organizaciones sin fines de lucro, copias de: estatutos, comprobante del registro (un extracto de publicación o un decreto que contenga una declaración de fundación de utilidad pública) y documento de identidad del representante legal (ii) para los comerciantes independientes, copias de: documento de identidad y comprobante del registro (extracto K), (iii) en el caso de empresas: estatutos de constitución, certificado del registro y declaración del propietario final (en la que indique que una persona física posee al menos el 25 % de las acciones de la sociedad y en la que incluya sus datos personales, nombre completo, dirección, nacionalidad, fecha y lugar de nacimiento) y documentos de identidad del representante legal.
 
 Asegúrese de que esta información sea precisa y esté completa y actualizada. Como parte de la [Protección al Comprador Pro](https://vinted.es/help/909) que ofrecemos a los compradores, verificaremos esta información y cualquier información faltante o incorrecta que pueda impedir o demorar su registro como Vendedor Pro. 
 
@@ -1210,6 +1214,10 @@ Una vez que tengamos toda la información, le pediremos que lea y acepte los [T�
 Para obtener información exhaustiva, lea los [Términos de Uso para Vendedores Pro](https://vinted.es/pro-terms-of-use).
 
 Una vez que haya creado su cuenta de Usuario Pro, tendrá acceso total al Sitio.
+
+**Procedimientos de seguridad**
+
+Para proteger su Cuenta Pro y evitar operaciones de cuentas interceptadas, podremos (en el registro y de forma oportuna) verificar la información incluida en dicha cuenta, pedirle que responda a las preguntas relevantes, solicitarle información pertinente, rectificar datos incorrectos o incompletos y contribuir en los procedimientos de verificación de la cuenta Pro. Estos procedimientos serán razonables y proporcionados a los objetivos de seguridad establecidos. En caso de que la información facilitada durante estos procedimientos esté incompleta o sea incorrecta y usted no proporcione asistencia alguna, podremos suspender la prestación de los Servicios, de acuerdo con los Términos de Uso para Vendedores Pro, hasta que se haya rectificado dicha información.
 
 **Venta de artículos como Vendedor Pro: sus obligaciones**
 
@@ -1223,17 +1231,15 @@ Al publicar y vender artículos en Vinted como Vendedor Pro dirigidos a consumid
 
 Usted debe adoptar en todo momento prácticas leales en su relación con compradores o posibles compradores. 
 
-Una **práctica comercial deslea**l es una práctica comercial contraria a los requisitos de diligencia profesional y que distorsiona o es probable que distorsione de manera sustancial a la conducta del consumidor. Algunos ejemplos de estas prácticas incluyen prácticas engañosas y agresivas. 
+Una **práctica comercial desleal** es una práctica comercial contraria a los requisitos de diligencia profesional y que distorsiona o es probable que distorsione de manera sustancial a la conducta del consumidor. Algunos ejemplos de estas prácticas incluyen prácticas engañosas y agresivas. 
 
-Las **prácticas engañosas** son de la siguiente manera:
+Las **prácticas comerciales engañosas** son aquellas que contienen información falsa o engañosa, o que probablemente engañe al consumidor, incluso si la información es objetivamente correcta, y haga que este tome una decisión sobre una operación que de otra forma no habría tomado. La información puede incluir, a título enunciativo:
 
-\- están basadas en afirmaciones, indicaciones o presentaciones falsas; o 
+* Las características principales del producto;
+* El precio;
+* La necesidad de mantenimiento, partes, reemplazos o reparación.
 
-\- es probable que engañen al consumidor; o
-
-\- son causadas por no brindar toda la información que resulta sustancial para el consumidor.
-
-Una **práctica comercial agresiva** se caracteriza por la presión que se ejerce sobre el consumidor para hacer que este ceda o para influir fuertemente en sus elecciones. Una práctica comercial se considera agresiva si, como resultado de acciones reiteradas e insistentes o coacción física o moral:
+Una **práctica comercial agresiva** se caracteriza por la presión que se ejerce sobre el consumidor para hacer que este ceda o para influir fuertemente en sus elecciones. Una práctica comercial se considera agresiva si, como resultado de acciones reiteradas e insistentes, influencia indebida o coacción física o moral:
 
 \- perjudica o es probable que perjudique significativamente la libertad de elección del consumidor; o
 
@@ -1253,7 +1259,7 @@ Al publicar un artículo, Usted debe proporcionar a los (posibles) compradores t
 
 Cuando corresponda, también debe informar a los compradores (potenciales) sobre los servicios de posventa y las garantías comerciales que ofrece. Para los artículos que publique en Vinted, esta información estará incluida en:
 
-\- La **publicación del artículo** que Usted creará. Puede publicar tantos artículos como desee, sin cargo. Debe cumplir con las [reglas del Catálogo](https://vinted.es/catalog-rules), los [Términos y Condiciones](https://vinted.es/terms_and_conditions), los [Términos de Uso para Vendedores Pro](https://vinted.es/pro-terms-of-use) y los [Términos de Venta para Vendedores Pro](https://vinted.es/pro-terms-of-sale). 
+\- La **publicación del artículo** que Usted creará. Puede publicar tantos artículos como desee, sin cargo. Debe cumplir con las [reglas del Catálogo](https://vinted.es/catalog-rules), los [Términos y Condiciones](https://vinted.es/terms_and_conditions), los [Términos de Uso para Vendedores Pro](https://vinted.es/pro-terms-of-use) y los [Términos de Venta para Vendedores Pro](https://www.vinted.fr/pro-terms-of-sale). 
 
 Deberá subir algunas fotos del artículo y describirlo con la mayor precisión posible, indicar si está dañado o si tiene algún defecto, y expresar con claridad el precio. Consulte el [Centro de Ayuda](https://vinted.es/help/375) para obtener más información y consejos sobre cómo publicar artículos. 
 
@@ -1272,8 +1278,8 @@ Para ayudarlo a navegar todas estas obligaciones, el siguiente cuadro resume la 
 | **Información proporcionada por Usted** | **Información proporcionada por Vinted** | **¿Dónde?** |
 | Características esenciales del artículo (descripción detallada) | ✘   | En la página de su artículo |
 | Precio del artículo (incluyendo IVA y todos los impuestos aplicables) | ✘   | En la página de su artículo |
-| Su nombre o el nombre de su organización, su dirección de correo electrónico (proporcionada a Vinted durante su registro) | ✘   | En sus Políticas Adicionales |
-| La dirección de su establecimiento y, en caso de ser diferente, su domicilio social, su número de teléfono (que proporcionó a Vinted durante su registro) | ✘   | En sus Políticas Adicionales y en el mensaje de correo electrónico enviado al comprador con la confirmación del pedido |
+| Su nombre o el nombre de su organización, su dirección de correo electrónico (proporcionada a Vinted durante su registro) | ✘   | En su página de perfil y las Políticas Adicionales |
+| La dirección de su establecimiento y, en caso de ser diferente, su domicilio social, su número de teléfono (que proporcionó a Vinted durante su registro) | ✘   | En su página de perfil, las Políticas Adicionales y en el mensaje de correo electrónico enviado al comprador con la confirmación del pedido |
 | Su número de SIRET (que proporcionó a Vinted durante el registro) | ✘   | En sus Políticas Adicionales |
 | Su número de identificación personal del contribuyente, si Usted o su empresa están sujetos al impuesto al valor añadido | ✘   | En sus Políticas Adicionales |
 | ✘   | Métodos de pago | En los Términos de Venta para Vendedores Pro y en la pantalla de compra |
@@ -1318,7 +1324,7 @@ Usted puede mejorar la visibilidad de sus artículos pagando servicios adicional
 
 **Eliminación de artículos publicados**
 
-Podemos eliminar publicaciones de artículos o contenidos que sean ilegales, contrarios a la moral y las buenas costumbres o el orden público, que infrinjan derechos de terceros o que no cumplan con las [reglas del Catálogo](https://vinted.es/catalog-rules), los [Términos y Condiciones de Vinted](https://vinted.es/terms_and_conditions), los [Términos de Uso para Vendedores Pro](https://vinted.es/pro-terms-of-use) y los [Términos de Venta para Vendedores Pro](https://vinted.es/pro-terms-of-sale). En dichos casos, podremos además suspender o cerrar su cuenta. 
+Podemos eliminar publicaciones de artículos o contenidos que sean ilegales, contrarios a la moral y las buenas costumbres o el orden público, que infrinjan derechos de terceros o que no cumplan con las [reglas del Catálogo](https://vinted.es/catalog-rules), los [Términos y Condiciones de Vinted](https://vinted.es/terms_and_conditions), los [Términos de Uso para Vendedores Pro](https://vinted.es/pro-terms-of-use) y los [Términos de Venta para Vendedores Pro](https://vinted.es/pro-terms-of-sale). En dichos casos, podremos además bloquear su cuenta de forma temporal o permanente.
 
 Cuando corresponda, le daremos aviso de conformidad con los [Términos de Uso para Vendedores Pro](https://vinted.es/pro-terms-of-use). 
 
@@ -1328,17 +1334,17 @@ Los pedidos se pagan a través de nuestro Sistema de Pago Integrado. Puede obten
 
 Usted recibirá su pago tan pronto como se finalice el pedido. A continuación, le explicamos en mayor detalle cómo funciona este proceso:
 
-**1\. El Comprador compra un artículo > El pago figura como “saldo pendiente”**
+1. **El Comprador compra un artículo > El pago figura como “saldo pendiente”**
 
-El pago realizado por el Comprador por el artículo y su envío es guardado como depósito en garantía por MANGOPAY S.A., el Prestador de Servicios de Pago. Esta cantidad aparecerá en su Saldo de Vinted como “saldo pendiente”.
+El pago realizado por el Comprador por el artículo y su envío es guardado como depósito en garantía por MANGOPAY S.A., el Proveedor de Monedero electrónico. Esta cantidad aparecerá en su Saldo de Vinted como “saldo pendiente”.
 
 El saldo pendiente no puede retirarse ni utilizarse para pagar en Vinted. Su propósito es indicar la cantidad que Usted recibirá después de finalizar el/los pedido(s).
 
-**2\. El Comprador finaliza el pedido > El pago figura como “saldo disponible”**
+2. **El Comprador finaliza el pedido > El pago figura como “saldo disponible”**
 
-El precio del pedido es guardado como depósito en garantía por el Prestador de Servicios de Pago mientras el comprador goza de los beneficios de la Protección al Comprador o la Protección al Comprador Pro y hasta la finalización de la venta. Para obtener más información sobre las circunstancias en las cuales una venta puede ser considerada como completada, consulte los [Términos de uso para Vendedores Pro](https://vinted.es/pro-terms-of-use).
+El precio del pedido es guardado como depósito en garantía por el Proveedor de Monedero electrónico mientras el comprador goza de los beneficios de la Protección al Comprador o la Protección al Comprador Pro y hasta la finalización de la venta. Para obtener más información sobre las circunstancias en las cuales una venta puede ser considerada como completada, consulte los [Términos de uso para Vendedores Pro](https://vinted.es/pro-terms-of-use).
 
-Vinted es la única parte que puede ordenar que el Prestador de Servicios de Pago le libere el precio del pedido, y no lo hará (i) hasta que haya finalizado este periodo de 14 días o (ii) si el comprador nos ha elevado un problema, hasta que hayamos determinado si el comprador debería recibir un reembolso. 
+Vinted es la única parte que puede ordenar que el Proveedor de Monedero electrónico le libere el precio del pedido, y no lo hará (i) hasta que haya finalizado este periodo de 14 días o (ii) si el comprador nos ha elevado un problema, hasta que hayamos determinado si el comprador debería recibir un reembolso. 
 
 **SERVICIOS DE PROTECCIÓN AL COMPRADOR**
 
@@ -1388,7 +1394,7 @@ Envíe el artículo con el método pagado por el comprador y siga las instruccio
 
 Desde el envío hasta que el comprador haya recibido el artículo, usted asume el riesgo de pérdida del artículo. Esta responsabilidad es automática, incluso si el artículo es entregado por un tercero. Solo puede eludir la responsabilidad si puede demostrar que el problema ha sido causado por el consumidor, por un acto imprevisible e insalvable de un tercero en el contrato (los proveedores de servicios que utilice el vendedor no se consideran como tales) o por un caso de fuerza mayor.
 
-Los artículos deben entregarse a los compradores en la fecha o dentro del plazo de tiempo indicados en la pantalla de compra. En cualquier caso, asegúrese de enviar el artículo en el plazo de 5 días hábiles después de recibir la información del envío. De lo contrario, el pedido podrá ser cancelado automáticamente y reintegrado al comprador. 
+Los artículos deben entregarse a los compradores en la fecha o dentro del plazo de tiempo indicados en la pantalla de compra. En cualquier caso, asegúrese de enviar el artículo en el plazo de 5 días hábiles después de recibir la información del envío. De lo contrario, el pedido será cancelado automáticamente y reintegrado al comprador. 
 
 Como parte de la [Protección al Comprador Pro](https://vinted.es/help/909) que ofrecemos a los compradores, podemos ayudarlos a notificarle si la entrega está demorada o si el artículo está dañado, a cancelar la venta y a obtener un reembolso del pedido (siempre que se cumplan los requisitos legales). 
 
@@ -1441,7 +1447,7 @@ El comprador pagará los costes directos de la devolución de los artículos, pe
 
 Si el comprador desiste, se le reembolsará el monto total abonado, incluidos los costes de entrega. Recibirán el reembolso sin demoras injustificadas y, a más tardar, en el plazo de 14 días a partir de la fecha en que Usted recibió el artículo de vuelta enviado por el consumidor o en que recibió pruebas de su envío, lo que ocurra primero. 
 
-El comprador recibirá el reintegro a través del mismo medio de pago utilizado en la operación original, a menos que hayan acordado expresamente utilizar otro medio de pago y siempre y cuando el reintegro no le genere ningún coste. **No reembolse al comprador usted mismo (a menos que el precio de venta ya haya sido transferido a su cuenta bancaria por el Prestador de Servicios de Pago): si el comprador tiene derecho a recibir un reembolso e inicia su derecho de desistimiento a través de Vinted, nosotros emitiremos los fondos a través del Prestador de Servicios de Pago.**
+El comprador recibirá el reintegro a través del mismo medio de pago utilizado en la operación original, a menos que hayan acordado expresamente utilizar otro medio de pago y siempre y cuando el reintegro no le genere ningún coste. **No reembolse al comprador usted mismo (a menos que el precio de venta ya haya sido transferido a su cuenta bancaria por el Prestador de Sistemas de Pago Integrado): si el comprador tiene derecho a recibir un reembolso e inicia su derecho de desistimiento a través de Vinted, nosotros emitiremos los fondos a través del Prestador de Sistemas de Pago Integrado.**
 
 Este derecho de desistimiento no se aplica en determinadas excepciones previstas por ley, como por ejemplo:
 
@@ -1475,11 +1481,11 @@ Sin embargo, si lo hacen como parte de nuestra Protección al Comprador Pro, lo 
 
 \- Si el comprador ha desistido debidamente de la venta haciendo clic en el botón “I have an issue” (Tengo un problema) en sus Mensajes Privados de Vinted con Usted, Usted recibirá una notificación y, si el comprador cumple con los requisitos legales aplicables, Usted tendrá el deber legal de reembolsar al comprador;
 
-\- Si está de acuerdo, puede iniciar el reembolso cancelando el pedido en sus Mensajes Privados con el comprador. Otra opción es informarnos, en el plazo de 24 horas a partir de la recepción del artículo devuelto por el consumidor o prueba de que ha sido enviado, lo que ocurra primero, y nosotros le solicitaremos a Prestador de Servicios de Pago que le libere los fondos en depósito en garantía de vuelta al comprador; 
+\- Si está de acuerdo, puede iniciar el reembolso cancelando el pedido en sus Mensajes Privados con el comprador. Otra opción es informarnos, en el plazo de 24 horas a partir de la recepción del artículo devuelto por el consumidor o prueba de que ha sido enviado, lo que ocurra primero, y nosotros le solicitaremos a Prestador de Sistemas de Pago Integrado que le libere los fondos en depósito en garantía de vuelta al comprador; 
 
 \- Si Usted y el comprador no están de acuerdo en relación con el derecho de desistimiento, por ejemplo, si el comprador considera que Usted está reteniendo indebidamente su aprobación del reintegro, el comprador podrá elevarnos el problema a nosotros. 
 
-Se suspenderá la venta y el precio del pedido permanecerá en depósito en garantía hasta que hayamos determinado si el comprador cumple con los requisitos legales para recibir el reembolso. En ese caso, solicitaremos a Prestador de Servicios de Pago que libere el precio del pedido de vuelta al comprador. 
+Se suspenderá la venta y el precio del pedido permanecerá en depósito en garantía hasta que hayamos determinado si el comprador cumple con los requisitos legales para recibir el reembolso. En ese caso, solicitaremos a Prestador de Sistemas de Pago Integrado que libere el precio del pedido de vuelta al comprador. 
 
 Tenga en cuenta que es posible que decidamos que no sea necesario que el comprador le devuelva el artículo, por ejemplo, cuando existen indicios sólidos de que el artículo podría ser falso. Para obtener más información, acceder [aquí](https://vinted.es/pro-terms-of-sale). 
 
@@ -1571,24 +1577,25 @@ En caso de desacuerdo entre Vinted y un Usuario Pro, puede: 
 
 **Eficacia del sistema interno de gestión de reclamos para los usuarios Pro**
 
-En 2021 Vinted recibió 15.427 reclamos de usuarios Pro. El tiempo medio de gestión de los reclamos es de 1,6 días.
+En 2022 Vinted recibió 41 735 reclamos de usuarios Pro. El tiempo medio de gestión de los reclamos es de 2,7 días.
 
 Reclamos de usuarios Pro:
 
 |     |     |     |
 | --- | --- | --- |
 | **Tipos de reclamos** | **Cantidad total de reclamos (consultas) recibidos\*** | **Tiempo promedio que necesita Vinted para tramitar los reclamos (en días)** |
-| **Calidad del pedido** | 2636 | 3,4 |
-| **Artículos del catálogo** | 1515 | 1,11 |
-| **Envío y entrega** | 3008 | 2,08 |
-| **Pagos y seguridad** | 6673 | 0,89 |
-| **Usabilidad** | 1595 | 0,88 |
+| **Calidad del pedido** | 7610 | 5,6 |
+| **Artículos del catálogo** | 4665 | 1,19 |
+| **Envío y entrega** | 9034 | 3,8 |
+| **Pagos y seguridad** | 17 341 | 1,3 |
+| **Usabilidad** | 2956 | 1,9 |
+| **Otros** | 129 | 3,8 |
 
-\* Todos los cuales se resolvieron en 2021.
+\* Todos los cuales se resolvieron en 2022.
 
 **Contacto**
 
-Si necesita hablar con nosotros, utilice el formulario disponible [aquí](https://vinted.es/help/support_tickets/new?ch=help_center&faq_entry_id=615&allow_direct=1). 
+Si necesita hablar con nosotros, utilice el formulario disponible [aquí](https://vinted.es/help/support_tickets/new?ch=help_center&faq_entry_id=615&allow_direct=1).  
 
 **Soy Vendedor Pro no sujeto a IVA en Francia** 
 ================================================
@@ -1896,7 +1903,7 @@ Cuando quiera registrarse en un país extranjero a los efectos del IVA, deberá:
 
 Dado que ya está registrado como contribuyente de IVA en Francia, puede acceder al sistema de ventanilla única a través del sitio web de la autoridad fiscal francesa. 
 
-[A continuación](https://www.impots.gouv.fr/portail/professionnel/exercer-une-activite-linternational), se incluye un enlace al sitio web de la autoridad fiscal francesa.
+[Aquí](https://www.impots.gouv.fr/portail/professionnel/exercer-une-activite-linternational), se incluye un enlace al sitio web de la autoridad fiscal francesa.
 
 **28\. ¿Cómo y dónde tengo que pagar impuestos por las ventas a distancia?**
 
