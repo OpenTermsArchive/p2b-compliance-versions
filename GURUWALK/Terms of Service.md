@@ -76,7 +76,7 @@ No está permitido y, por tanto, sus consecuencias serán de tu exclusiva respon
 
 1. Usar la Plataforma en forma que pueda provocar daños, interrupciones, ineficiencias o defectos en su funcionalidad o en el ordenador de un tercero;
 2. Usar la Plataforma para la transmisión, la instalación o la publicación de cualquier virus, código malicioso u otros programas o archivos perjudiciales;
-3. Registrarse a través de la Plataforma con una identidad falsa, suplantando a terceros o utilizando un perfil falso o realizando cualquier otra acción que pueda confundir a otros usuarios sobre el origen de un mensaje;
+3. Registrarse a través de la Plataforma con una identidad falsa, suplantando a terceros o utilizando un perfil falso o realizando cualquier otra acción que pueda confundir a otros usuarios sobre el origen de un mensaje. As well as contact other users of the platform for commercial or advertising purposes.
 4. Acceder sin autorización a cualquier sección de la Plataforma, a otros sistemas o redes conectadas a la Plataforma, a ningún servidor de **GURUWALK** ni a los servicios ofrecidos a través de la Plataforma, por medio de pirateo o falsificación, extracción de contraseñas o cualquier otro medio ilegítimo;
 5. Quebrantar, o intentar quebrantar, las medidas de seguridad o autenticación de la Plataforma o de cualquier red conectada a la misma, o las medidas de seguridad o protección inherentes a los contenidos ofrecidos en la Plataforma
 6. Llevar a cabo alguna acción que provoque una saturación desproporcionada o innecesaria en la infraestructura de la Plataforma o en los sistemas o redes de **GURUWALK**, así como en los sistemas y redes conectados a la Plataforma, tales como ataques de denegación de servicio;
@@ -139,7 +139,7 @@ No está permitido y, por tanto, sus consecuencias serán de tu exclusiva respon
 
 1. Usar la Plataforma en forma que pueda provocar daños, interrupciones, ineficiencias o defectos en su funcionalidad o en el ordenador de un tercero;
 2. Usar la Plataforma para la transmisión, la instalación o la publicación de cualquier virus, código malicioso u otros programas o archivos perjudiciales;
-3. Registrarse a través de la Plataforma con una identidad falsa, suplantando a terceros o utilizando un perfil falso o realizando cualquier otra acción que pueda confundir a otros usuarios sobre el origen de un mensaje;
+3. Registrarse a través de la Plataforma con una identidad falsa, suplantando a terceros o utilizando un perfil falso o realizando cualquier otra acción que pueda confundir a otros usuarios sobre el origen de un mensaje. As well as contact other users of the platform for commercial or advertising purposes.
 4. Acceder sin autorización a cualquier sección de la Plataforma, a otros sistemas o redes conectadas a la Plataforma, a ningún servidor de **GURUWALK** ni a los servicios ofrecidos a través de la Plataforma, por medio de pirateo o falsificación, extracción de contraseñas o cualquier otro medio ilegítimo;
 5. Quebrantar, o intentar quebrantar, las medidas de seguridad o autenticación de la Plataforma o de cualquier red conectada a la misma, o las medidas de seguridad o protección inherentes a los contenidos ofrecidos en la Plataforma
 6. Llevar a cabo alguna acción que provoque una saturación desproporcionada o innecesaria en la infraestructura de la Plataforma o en los sistemas o redes de **GURUWALK**, así como en los sistemas y redes conectados a la Plataforma, tales como ataques de denegación de servicio;
