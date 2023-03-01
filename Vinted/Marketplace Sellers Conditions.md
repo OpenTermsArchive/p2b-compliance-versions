@@ -1334,13 +1334,13 @@ Los pedidos se pagan a través de nuestro Sistema de Pago Integrado. Puede obten
 
 Usted recibirá su pago tan pronto como se finalice el pedido. A continuación, le explicamos en mayor detalle cómo funciona este proceso:
 
-1. **El Comprador compra un artículo > El pago figura como “saldo pendiente”**
+**1\. El Comprador compra un artículo > El pago figura como “saldo pendiente”**
 
 El pago realizado por el Comprador por el artículo y su envío es guardado como depósito en garantía por MANGOPAY S.A., el Proveedor de Monedero electrónico. Esta cantidad aparecerá en su Saldo de Vinted como “saldo pendiente”.
 
 El saldo pendiente no puede retirarse ni utilizarse para pagar en Vinted. Su propósito es indicar la cantidad que Usted recibirá después de finalizar el/los pedido(s).
 
-2. **El Comprador finaliza el pedido > El pago figura como “saldo disponible”**
+**2\. El Comprador finaliza el pedido > El pago figura como “saldo disponible”**
 
 El precio del pedido es guardado como depósito en garantía por el Proveedor de Monedero electrónico mientras el comprador goza de los beneficios de la Protección al Comprador o la Protección al Comprador Pro y hasta la finalización de la venta. Para obtener más información sobre las circunstancias en las cuales una venta puede ser considerada como completada, consulte los [Términos de uso para Vendedores Pro](https://vinted.es/pro-terms-of-use).
 
