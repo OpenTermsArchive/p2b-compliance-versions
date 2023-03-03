@@ -261,7 +261,7 @@ You may generate or send email from your Account using the Shopify email service
     1. using non-permission based email lists (i.e., lists in which each recipient has not explicitly granted permission to receive emails from you by affirmatively opting-in to receive those emails);
     2. using purchased or rented email lists;
     3. using third party email addresses, domain names, or mail servers without proper permission;
-    4. sending emails to non-specific addresses (e.g., [webmaster@domain.com](mailto:webmaster@domain.com) or [info@domain.com](mailto:info@domain.com));
+    4. sending emails to non-specific addresses (e.g., [\[email protected\]](https://www.shopify.com/cdn-cgi/l/email-protection) or [\[email protected\]](https://www.shopify.com/cdn-cgi/l/email-protection));
     5. sending emails that result in an unacceptable number of spam or UCE complaints (even if the emails themselves are not actually spam or UCE);
     6. failing to include a working “**unsubscribe**” link in each email that allows the recipient to remove themselves from your mailing list;
     7. failing to comply with any request from a recipient to be removed from your mailing list within 10 days of receipt of the request;
@@ -269,7 +269,7 @@ You may generate or send email from your Account using the Shopify email service
     9. disguising the origin or subject matter of any email or falsifying or manipulating the originating email address, subject line, headers, or transmission path information for any email;
     10. failing to include in each email your valid physical mailing address or a link to that information; or
     11. including “**junk mail,**” “**chain letters,**” “**pyramid schemes,**” incentives (e.g., coupons, discounts, awards, or other incentives) or other material in any email that encourages a recipient to forward the Email to another recipient.
-3. If you or a customer knows of or suspects any violations of the Email Services Requirements, please notify Shopify at [abuse@shopify.com](mailto:abuse@shopify.com). Shopify will determine compliance with the Email Services Requirements in its discretion.
+3. If you or a customer knows of or suspects any violations of the Email Services Requirements, please notify Shopify at [\[email protected\]](https://www.shopify.com/cdn-cgi/l/email-protection). Shopify will determine compliance with the Email Services Requirements in its discretion.
 4. Shopify’s Email Services utilize Third Party Providers, including SendGrid (a Twilio Company). Your use of the Email Services is subject to SendGrid’s [Acceptable Use Policy](https://www.twilio.com/legal/aup) as it may be amended by SendGrid from time to time.
 
 ### Which means
