@@ -419,6 +419,7 @@ Site Footer
 * [Explore hosting resources](https://www.airbnb.com/resources)
 * [Visit our community forum](https://www.airbnb.com/help/community?s=footer)
 * [How to host responsibly](https://www.airbnb.com/help/responsible-hosting)
+* [Airbnb-friendly apartments](https://www.airbnb.com/airbnb-friendly)
 
 ### Airbnb
 
