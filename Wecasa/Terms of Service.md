@@ -403,7 +403,7 @@ Le Client se porte-fort du respect des CGU par le Bénéficiaire. En cas de domm
 
 Certains dommages qui pourraient résulter des Prestations sont assurés par AXA.
 
-Pour plus d'informations sur les garanties et les exclusions applicables, les Utilisateurs peuvent consulter la page suivante : [https://www.wecasa.fr/assurance-services-domicile](https://www.wecasa.fr/assurance-services-domicile)
+Pour plus d'informations sur les garanties et les exclusions applicables, les Utilisateurs peuvent consulter la page suivante : [Assurance AXA](https://www.wecasa.fr/mag/assurance-wecasa/)
 
 Les prestations réalisées en dehors de la Plateforme ne sont pas couvertes.
 
