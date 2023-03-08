@@ -19,7 +19,7 @@ The project is intended to maximize the potentiality of platform cooperativism a
 
 **New features and destinations will be added constantly to provide growing user experience for registered users**, according to Fairbnb.coop platform cooperativism project.
 
-You may cancel your registration at any time by sending an email to [\[email protected\]](https://fairbnb.coop/cdn-cgi/l/email-protection) and also you may consider our privacy policy statement for data processing issues.
+You may cancel your registration at any time by sending an email to info@Fairbnb.coop and also you may consider our privacy policy statement for data processing issues.
 
 **Effective as of September 10th 2020. Version 1.9**
 
@@ -250,7 +250,7 @@ The listings media-content is intended licensed to Fairbnb.coop: uploading of th
 According to l. 218/1995 and Reg. (CE) n. 593/2008, User Account and/or use of the platform also in this demo phase, shall be governed by and interpreted exclusively in accordance with the laws and decisions of the State of Italy, without giving effect to its conflict of laws provisions.  
 Consumers’ rights are protected according to the same provisions.  
 Civil lawsuit proceedings should be brought in Italy’s Court.  
-Please report any violations or claim about these Terms to Fairbnb: [\[email protected\]](https://fairbnb.coop/cdn-cgi/l/email-protection)
+Please report any violations or claim about these Terms to Fairbnb: [info@fairbnb.coop](mailto:info@fairbnb.coop)
 
 ### 18\. Consumers’ Rights
 
@@ -266,9 +266,9 @@ a) Fairbnb.coop is a platform that offers useful services to facilitate the meet
 
 b) The Fairbnb.coop platform and the services offered by it are owned by the Fair Bnb Network Società Cooperativa, with its registered offices in Bologna, via Alfredo Calzoni 1-3, CF: 03735181202
 
-c) Contact details of Fairbnb.coop: [\[email protected\]](https://fairbnb.coop/cdn-cgi/l/email-protection)
+c) Contact details of Fairbnb.coop: info@Fairbnb.coop
 
-d) Any complaints can be sent to the following addresses: [\[email protected\]](https://fairbnb.coop/cdn-cgi/l/email-protection)
+d) Any complaints can be sent to the following addresses: info@Fairbnb.coop
 
 e) Commissions for services offered by Fairbnb.coop including taxes are 7.5% of the rent.
 
@@ -278,4 +278,4 @@ g) The “payment methods” of the services are the following: credit cards.
 
 h) The right of withdrawal is not available pursuant to art. 16 of the European Directive 2011/83/EU once the provision of platform services has begun. This is necessary since the individual services subject to agreement with the consumer constitute an obligation of instantaneous delivery by Fairbnb.coop in favour of the users and determine the onset of further obligations incompatible with the right of withdrawal.
 
-i) The duration of this contract is for an indefinite period, but the user has the freedom to withdraw by using the option to cancel an account at any time or by sending a request to the address [\[email protected\]](https://fairbnb.coop/cdn-cgi/l/email-protection) For services provided by the platform, there are no refunds except for the cancellation policy provided by the art. 6.
+i) The duration of this contract is for an indefinite period, but the user has the freedom to withdraw by using the option to cancel an account at any time or by sending a request to the address info@Fairbnb.coop. For services provided by the platform, there are no refunds except for the cancellation policy provided by the art. 6.
