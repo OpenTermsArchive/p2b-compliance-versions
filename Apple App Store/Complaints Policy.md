@@ -53,7 +53,7 @@ Developer Support is often the starting point for assistance with the following 
 
 Developers can submit feedback to Apple using the native Feedback Assistant app on iPhone, iPad, and Mac, or the Feedback Assistant website. After developers submit feedback, they receive a Feedback ID to track the submission within the app or on the website.
 
-### [App Store content dispute](https://www.apple.com/legal/internet-services/itunes/appstorenotices/#/)
+### [App Store content dispute](https://www.apple.com/legal/internet-services/itunes/appstorenotices/#)
 
 Developers who believe that an application or Search Ad available in the App Store violates their intellectual property rights can submit a claim to the App Store Legal Team.
 
