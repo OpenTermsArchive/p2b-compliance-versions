@@ -20,7 +20,7 @@ Table of Contents
 * [15\. Modifications](#Modifications)
 * [16\. General Conditions](#General)
 
-Last updated on: September 6, 2022
+Last updated on: March 1, 2023
 
 Welcome to Shopify! By signing up for a Shopify Account (as defined in Section 1) or by using any Shopify Services (as defined below), you are agreeing to be bound by the following terms and conditions (the “**Terms of Service**”).
 
@@ -36,25 +36,15 @@ You must read, agree with and accept all of the terms and conditions contained o
 -----------------
 
 1. To access and use the Services, you must register for a Shopify account (“**Account**”). To complete your Account registration, you must provide us with your full legal name, business address, phone number, a valid email address, and any other information indicated as required. Shopify may reject your application for an Account, or cancel an existing Account, for any reason, at our sole discretion.
-    
 2. You must be the older of: (i) 18 years, or (ii) at least the age of majority in the jurisdiction where you reside and from which you use the Services to open an Account.
-    
 3. You confirm that you are receiving any Services provided by Shopify for the purposes of carrying on a business activity and not for any personal, household or family purpose.
-    
 4. You acknowledge that Shopify will use the email address you provide on opening an Account or as updated by you from time to time as the primary method for communication with you (“**Primary Email Address**”). You must monitor the Primary Email Address you provide to Shopify and your Primary Email Address must be capable of both sending and receiving messages. Your email communications with Shopify can only be authenticated if they come from your Primary Email Address.
-    
-5. You are responsible for keeping your password secure. Shopify cannot and will not be liable for any loss or damage from your failure to maintain the security of your Account and password.
-    
+5. You are responsible for keeping your password secure. Shopify cannot and will not be liable for any loss or damage from your failure to maintain the security of your Account and password. We may request additional security measures at any time and reserve the right to adjust these requirements at our discretion.
 6. Technical support in respect of the Services is only provided to Shopify Users. Questions about the Terms of Service should be sent to Shopify Support.
-    
 7. You agree not to reproduce, duplicate, copy, sell, resell or exploit any portion of the Service, use of the Services, or access to the Services without the express written permission by Shopify.
-    
 8. You agree not to work around, bypass, or circumvent any of the technical limitations of the Services, including to process orders outside Shopify’s Checkout, use any tool to enable features or functionalities that are otherwise disabled in the Services, or decompile, disassemble or otherwise reverse engineer the Services.
-    
 9. You agree not to access the Services or monitor any material or information from the Services using any robot, spider, scraper, or other automated means.
-    
 10. You understand that your Materials may be transferred unencrypted and involve (a) transmissions over various networks; and (b) changes to conform and adapt to technical requirements of connecting networks or devices. “**Materials**” means Your Trademarks, copyright content, any products or services you sell through the Services (including description and price), and any photos, images, videos, graphics, written content, audio files, code, information, or other data provided or made available by you or your affiliates to Shopify or its affiliates.
-    
 
 ### Which means
 
