@@ -85,4 +85,4 @@ RELATED TOPICS
 
 [Report adult or offensive content](https://go.microsoft.com/fwlink?LinkId=275671)
 
-[Block adult content with SafeSearch](https://support.microsoft.com/en-gb/topic/946059ed-992b-46a0-944a-28e8fb8f1814)
+[Block adult content with SafeSearch](https://support.microsoft.com/en-gb/topic/block-adult-content-with-safesearch-946059ed-992b-46a0-944a-28e8fb8f1814)
