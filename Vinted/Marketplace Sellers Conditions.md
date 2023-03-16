@@ -1,19 +1,3 @@
-Nuevos términos de Vinted Pro
-
-**Para vendedores Pro:**
-
-Nuestros nuevos términos de uso para usuarios Pro y los términos de venta actualizados para vendedores Pro entran en vigor el 15 de marzo de 2023. Hemos aclarado algunos términos y hemos actualizado algunas de nuestras políticas para garantizar total transparencia.
-
-Hasta esa fecha, se aplican los [términos Pro actuales](https://www.vinted.es/old-pro-terms-of-use). Si continúas usando Vinted a partir del 15 de marzo de 2023, consideraremos que aceptas los nuevos términos de uso para usuarios Pro y los términos de venta actualizados para vendedores Pro.
-
-Nuevos términos de Vinted Pro
-
-**Para vendedores Pro:**
-
-Nuestros nuevos términos de uso para usuarios Pro y los términos de venta actualizados para vendedores Pro entran en vigor el 15 de marzo de 2023. Hemos aclarado algunos términos y hemos actualizado algunas de nuestras políticas para garantizar total transparencia.
-
-Hasta esa fecha, se aplican los [términos Pro actuales](https://www.vinted.es/old-pro-terms-of-use). Si continúas usando Vinted a partir del 15 de marzo de 2023, consideraremos que aceptas los nuevos términos de uso para usuarios Pro y los términos de venta actualizados para vendedores Pro.
-
 TÉRMINOS DE USO PARA USUARIOS PRO DE Vinted
 
 **TÉRMINOS DE USO PARA USUARIOS PRO DE Vinted**
