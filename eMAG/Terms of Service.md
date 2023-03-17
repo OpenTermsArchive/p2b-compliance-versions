@@ -78,6 +78,8 @@ Listele pot fi:
 
 “**Pret de Vanzare**” reprezinta contravaloarea Bunului, pretinsa si solicitata de catre Vanzator, Cumparatorului/Clientului/Utilizatorului, evidentiata corespunzator acestora in pagina de produs din Site, respectiv in eticheta de prezentare pentru produsele expuse in Showroom-uri. Vanzatorul poate afisa distinct, intr-un mod vizibil, cuantumul valoric al diferentei dintre Pretul de Vanzare si PRP si/sau diferenta valorica ori procentuala dintre Pretul de Vanzare si Pretul Taiat. Pretul de Vanzare este valabil in limita stocului disponibil al Bunului/Serviciului.
 
+**Super pret –** Marcheaza un Bun al carui pret in platforma eMAG este la un nivel competitiv raportat la pretul oferit online de comerciantii relevanti pentru eMAG**.**
+
 **Algoritm de cautare**
 
 Algoritmul de cautare este format din 2 componente: relevanta text (scor reprezentat de matching-ul dintre termenul de cautare si datele Bunului), popularitatea Bunului in platforma eMAG. Top Bunuri sunt reordonate folosind un algoritm de machine learning in vederea imbunatatirii relevantei cautarilor.
