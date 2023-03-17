@@ -421,7 +421,9 @@ The purpose of this Addendum is to set forth specific terms and conditions that 
 
 | Service | Description |
 | --- | --- |
-| Anti-Cheat (Preview Service) | A service that helps you detect and/or prevent the use of cheats in your Video Game. |
+| Anti-Cheat EOS SDK 1.14.x and earlier  <br>(Preview Service) | A service that helps you detect and/or prevent the use of cheats in your Video Game.  Anti-Cheat as implemented in EOS SDK 1.14.x and earlier is being maintained as a Preview Service. If you would like to use Anti-Cheat as a Live Service, use EOS SDK 1.15.x or later. |
+| --- | --- |
+| Anti-Cheat EOS SDK 1.15.x and later | A service that helps you detect and/or prevent the use of cheats in your Video Game. |
 | --- | --- |
 
 **2\. SERVICE-SPECIFIC TERMS**
