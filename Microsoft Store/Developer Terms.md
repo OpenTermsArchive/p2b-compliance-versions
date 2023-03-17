@@ -898,7 +898,7 @@ continues to comply with this Agreement, remains compatible with Microsoft's app
 
 development and distribution platforms, and to improve Microsoft's app development and
 
-distributionplatforms.
+distribution platforms.
 
 
 
@@ -928,9 +928,9 @@ each App, and to modify your App description solely to correct obvious spelling,
 
 typographical errors, in connection with: (i) the distribution and marketing of the App or In-App
 
-Product through the Store, (ii) advertising or promoting your App or In -App Product in any and
+Product through the Store, (ii) advertising or promoting your App or In-App Product in any and
 
-all media, including the Microsoft Affiliate Program (see http://www.microsoftaffiliates.com), and
+all media, including the Microsoft Affiliate Program, and
 
 (iii) in any marketing, presentations, demonstrations, trade shows, industry events, and press
 
@@ -1404,37 +1404,37 @@ basis and are subject to adjustment by Microsoft, if they meet the applicable th
 
 outlined in the Payment thresholds and methods section of Microsoft Partner Center
 
-located at https://docs.microsoft.com/en- us/windows/uwp/publish/payment-thresholds-
+located at https://go.microsoft.com/fwlink/?linkid=2199849. Microsoft will pay you any App
 
-methods-and-timeframes. Microsoft will pay you any App Proceeds in accordance with
+Proceeds in accordance with Microsoft's then-current payment policies and in the manner
 
-Microsoft's then-current payment policies and in the manner you indicated during the
+you indicated during the Store Account setup. Microsoft is not responsible for delay or
 
-Store Account setup. Microsoft is not responsible for delay or misapplication of payment
+misapplication of payment because of incorrect or incomplete information supplied by you
 
-because of incorrect or incomplete information supplied by you or a bank or for failure of a
+or a bank or for failure of abank to credit your account. If you are outside of the United
 
-bank to credit your account. If you are outside of the United States of America, Microsoft
+States of America, Microsoft may remit payment to you in the local currency of your
 
-may remit payment to you in the local currency of your address for payment, using
+address for payment, using Microsoft's then current rates for converting USD into or from
 
-Microsoft's then current rates for converting USD into or from your local currency. The
+your local currency. The amount you actually receive will depend in part on the rates and
 
-amount you actually receive will depend in part on the rates and fees imposed by your
+fees imposed by your financial institution and on any applicable tax withholding
 
-financial institution and on any applicable tax withholding requirements, and the amount
+requirements, and the amount you receive will be inclusive of any sales, use, goods and
 
-you receive will be inclusive of any sales, use, goods and services, value-added, or similar
+services, value-added, or similar taxes that may be chargeable by you to Microsoft. You
 
-taxes that may be chargeable by you to Microsoft. You must provide Microsoft (or its third-
+must provide Microsoft (or its third-party payment processor) with all financial, tax and
 
-party payment processor) with all financial, tax and banking information requested so
+banking information requested so Microsoft can pay you under this Agreement. Microsoft
 
-Microsoft can pay you under this Agreement. Microsoft will notify you of any changes to
+will notify you of any changes to the required information via updates to the
 
-the required information via updates to the Documentation. Your failure to keep such
+Documentation. Your failure to keep such information current and accurate may result in
 
-information current and accurate may result in Microsoft's removal of your App or In-App
+Microsoft's removal of your App or In-App
 
 16
 
@@ -2526,21 +2526,21 @@ distribution and marketing of the App or In-App Product through the Store, (ii) 
 
 promoting your App or In-App Product in any and all media, including the Microsoft Affiliate
 
-Program (see http://www.microsoftaffiliates.com), and (iii) in any marketing, presentations,
+Program, and (iii) in any marketing, presentations, demonstrations, trade shows, industry events,
 
-demonstrations, trade shows, industry events, and press releases, for the App, In -App Product,
+and press releases, for the App, In -App Product, Windows, Windows Phone, Xbox hardware
 
-Windows, Windows Phone, Xbox hardware and accessories, Xbox Live Services, Xbox.com and
+and accessories, Xbox Live Services, Xbox.com and other Windows, Windows Phone and/or
 
-other Windows, Windows Phone and/or Xbox-related websites and each of their successor
+Xbox-related websites and each of their successor platforms, and/or any other Microsoft
 
-platforms, and/or any other Microsoft websites, products and services related to the Store
+websites, products and services related to the Store and/or Apps. Nothing in this Agreement,
 
-and/or Apps. Nothing in this Agreement, however, will preclude Microsoft from using your App,
+however, will preclude Microsoft from using your App,App Assets, and/or In-App Product as
 
-App Assets, and/or In-App Product as permitted by law without a license (e.g., "fair use" under
+permitted by law without a license (e.g., "fair use" under applicable copyright law or "referential"
 
-applicable copyright law or "referential" use under trademark law).
+use under trademark law).
 
 
 
@@ -4086,13 +4086,15 @@ Publish Date: June 16, 2022, Version 8.8
 
 Effective Date: July 16, 2022
 
- Added New Exhibit E, to update for binary caching
+• Added New Exhibit E, to update for binary caching
 
- Updated language, Section 2, Store Account
+• Updated language, Section 2, Store Account
 
- Updated Section 4 a, iii Tax Entity Address Change for Australia
+• Updated Section 4 a, iii Tax Entity Address Change for Australia
 
- Updated language in Section 6, iii, Store Fees section to clarify applicable Store Fees
+• Updated language in Section 6, iii, Store Fees section to clarify applicable Store Fees
+
+• Fixed broken link in Section 6 c
 
 
 
@@ -4100,51 +4102,51 @@ Publish Date: June 28, 2021, Version 8.7
 
 Effective Date: July 28, 2021
 
- Updated 1(g) Certification Requirements definition
+• Updated 1(g) Certification Requirements definition
 
- Updated 1 (o), Game definition
+• Updated 1 (o), Game definition
 
- Updated 1 (z), Store definition
+• Updated 1 (z), Store definition
 
- Updated 4 (a), (ii, iii, iv) to clarify applicability of terms to apps that use Microsoft’s commerce
+• Updated 4 (a), (ii, iii, iv) to clarify applicability of terms to apps that use Microsoft’s commerce
 
 platform for in-app commerce
 
- Updated 4 (b), clarified Granting of Rights to Microsoft
+• Updated 4 (b), clarified Granting of Rights to Microsoft
 
- Added 4 ( c), clarifying and consolidating terms applicable to FOSS Licenses
+• Added 4 ( c), clarifying and consolidating terms applicable to FOSS Licenses
 
- Updated 5 (d), updated to reflect cases where publishers may choose to use a secure third
+• Updated 5 (d), updated to reflect cases where publishers may choose to use a secure third
 
 party commerce engine for in-app commerce, instead of the Microsoft commerce platform
 
- Updated 5 ( e), updated to clarify requirements when using third party commerce platform for
+• Updated 5 ( e), updated to clarify requirements when using third party commerce platform for
 
 in-app commerce
 
- Updated 6(a) to clarify applicability of terms to apps that use Microsoft’s commerce platform
+• Updated 6(a) to clarify applicability of terms to apps that use Microsoft’s commerce platform
 
 for in-app commerce
 
- Updated 6 (b), to reflect the change to a 12% Store Fee, effective August, 1, 2021, for game
+• Updated 6 (b), to reflect the change to a 12% Store Fee, effective August, 1, 2021, for game
 
 apps distributed on applicable Windows devices
 
- Updated 6 (c, g), to clarify applicability of terms to apps that use Microsoft’s commerce
+• Updated 6 (c, g), to clarify applicability of terms to apps that use Microsoft’s commerce
 
 platform for in-app commerce
 
- Updated 6 (f) clarified responsibility for costs related to refunds and chargebacks
+• Updated 6 (f) clarified responsibility for costs related to refunds and chargebacks
 
- Added 6 (h), to address tax collection terms where Microsoft’s commerce platform is not used
+• Added 6 (h), to address tax collection terms where Microsoft’s commerce platform is not used
 
- Updated 7 (c), to add websites
+• Updated 7 (c), to add websites
 
- Updated Exhibit C to address changes to Section 4 of the ADA
+• Updated Exhibit C to address changes to Section 4 of the ADA
 
- Added New Exhibit E, Terms and Conditions for Win32 App Packages
+• Added New Exhibit E, Terms and Conditions for Win32 App Packages
 
- Added New Exhibit F, integrating the Terms and Conditions for Microsoft Edge Extensions into
+• Added New Exhibit F, integrating the Terms and Conditions for Microsoft Edge Extensions into
 
 the ADA
 
@@ -4152,131 +4154,131 @@ the ADA
 
 July 10, 2020, Version 8.6 (updated to address mis-numbered references to changes)
 
- Updated 2 and 3 (l) providing contact information to request review of account or app removal
+• Updated 2 and 3 (l) providing contact information to request review of account or app removal
 
- Added 5(f) Product Rankings, Placement and Marketing regarding Microsoft’s compliance
+• Added 5(f) Product Rankings, Placement and Marketing regarding Microsoft’s compliance
 
 with applicable laws governing disclosure of its marketing and placement practices
 
- Updated 5(g) to clarify privacy policy requirements to comply with applicable laws.
+• Updated 5(g) to clarify privacy policy requirements to comply with applicable laws.
 
- Removed prior 6 (h) related to use of Microsoft’s Advertising services
+• Removed prior 6 (h) related to use of Microsoft’s Advertising services
 
- Updated 11(c) to include a duty to defend against claims brought in connection with Store
+• Updated 11(c) to include a duty to defend against claims brought in connection with Store
 
 Account actions taken by Microsoft at the request of the developer.
 
- Updated Section 12 to add additional termination right during update notice period.
+• Updated Section 12 to add additional termination right during update notice period.
 
- Added 13 (g) providing mediator information
+• Added 13 (g) providing mediator information
 
- Removed prior Exhibit E, Advertising Services Addendum
+• Removed prior Exhibit E, Advertising Services Addendum
 
- Updated Exhibit E, Standard Application Licensing Terms
+• Updated Exhibit E, Standard Application Licensing Terms
 
 
 
 January 14, 2020, Version 8.5
 
- Added 1 (l) definition of “Data Protection Laws”
+• Added 1 (l) definition of “Data Protection Laws”
 
- Updated 3 (l), added language clarifying applicability of advertising or pricing laws and/or
+• Updated 3 (l), added language clarifying applicability of advertising or pricing laws and/or
 
 regulations
 
- Updated 4 (a) (ii, iii) and 6 (e), added clarifications regarding AU and NZ tax regulations
+• Updated 4 (a) (ii, iii) and 6 (e), added clarifications regarding AU and NZ tax regulations
 
- Updated 4 (f), added additional privacy policy requirements in compliance with Data Protection
+• Updated 4 (f), added additional privacy policy requirements in compliance with Data Protection
 
 Laws
 
- Updated 6 (a), added language regarding compliance with applicable laws and regulations for
+• Updated 6 (a), added language regarding compliance with applicable laws and regulations for
 
 advertising and pricing
 
- Updated 6 (b), removed the 95/ 5% revenue share program that previously applied to qualifying
+• Updated 6 (b), removed the 95/ 5% revenue share program that previously applied to qualifying
 
 apps on applicable platforms when customer acquisition was directly driven by the Publisher’s
 
 promotion activities
 
- Updated 6 (d), updated payment terms and processing. The payout threshold has been raised to
+• Updated 6 (d), updated payment terms and processing. The payout threshold has been raised to
 
 $50 for all payment instruments and is detailed here.
 
- Updated 10 (b) to clarify and update limitation of liability language
+• Updated 10 (b) to clarify and update limitation of liability language
 
- Updated 10 (c) to clarify and update Duty to Defend language
+• Updated 10 (c) to clarify and update Duty to Defend language
 
- Added 12 (d) regarding Role of Parties as independent data controllers, as defined by GDPR, with
+• Added 12 (d) regarding Role of Parties as independent data controllers, as defined by GDPR, with
 
 respect to Personal Information
 
- Added 12 (g) regarding obligation to comply with all applicable Data Protection Laws
+• Added 12 (g) regarding obligation to comply with all applicable Data Protection Laws
 
- Removed Exhibit F, Promote your App
+• Removed Exhibit F, Promote your App
 
- Removed Exhibit G, Windows Developer Program Rewards Addendum
+• Removed Exhibit G, Windows Developer Program Rewards Addendum
 
 
 
 March 5, 2019, Version 8.4
 
- Updated 1 (h), definition of Commerce Expansion Adjustment
+• Updated 1 (h), definition of Commerce Expansion Adjustment
 
- Updated 1 (k) to reflect renaming of “Dev Center” to “Partner Center” and updated references
+• Updated 1 (k) to reflect renaming of “Dev Center” to “Partner Center” and updated references
 
 throughout the Agreement and its Exhibits
 
- Updated 1 (t), definition of Net Receipts
+• Updated 1 (t), definition of Net Receipts
 
- Updated 1 (y), definition of Store or Microsoft Store
+• Updated 1 (y), definition of Store or Microsoft Store
 
- Updated 1 (aa), definition of Store Fees
+• Updated 1 (aa), definition of Store Fees
 
- Added 1 (hh), definition of Small Transaction Adjustment
+• Added 1 (hh), definition of Small Transaction Adjustment
 
- Added 1 (ii), definition of CID
+• Added 1 (ii), definition of CID
 
- Added 1 (iii), definition of OCID
+• Added 1 (iii), definition of OCID
 
- Updated 4 (a) (i) regarding Microsoft’s role as agent or commissionaire and related clarifications
+• Updated 4 (a) (i) regarding Microsoft’s role as agent or commissionaire and related clarifications
 
 to how we deduct fees
 
- Updated 6 (b) (i, ii, iii, iv) to reflect new Store Fees and revenue shares
+• Updated 6 (b) (i, ii, iii, iv) to reflect new Store Fees and revenue shares
 
- Updated 6 (c) with Commerce Expansion Adjustment and Small Transaction Adjustment terms
+• Updated 6 (c) with Commerce Expansion Adjustment and Small Transaction Adjustment terms
 
- Updated 6 (d), clarifying payment terms
+• Updated 6 (d), clarifying payment terms
 
- Updated 6 (h), regarding deduction of any returns/chargebacks
+• Updated 6 (h), regarding deduction of any returns/chargebacks
 
- Exhibit C, 4, regarding deduction of any returns/chargebacks
+• Exhibit C, 4, regarding deduction of any returns/chargebacks
 
- Exhibit G, update and rename of Dev Center Benefits Program to Windows Developer Rewards
+• Exhibit G, update and rename of Dev Center Benefits Program to Windows Developer Rewards
 
 Program
 
- Removal of Exhibit I, Dev Center Insider Program
+• Removal of Exhibit I, Dev Center Insider Program
 
 
 
 May 23, 2018, Version 8.3
 
- Updated definition of “Personal Information” (1) (v).
+• Updated definition of “Personal Information” (1) (v).
 
- Added clarification to (5) (b) that local law provision applies to both the developer and their app.
+• Added clarification to (5) (b) that local law provision applies to both the developer and their app.
 
 Added new clause requiring developers to take reasonable actions as requested by Microsoft as
 
 needed for Microsoft to comply with its legal obligations.
 
- Clarified in (5) (f) that enabling Xbox Live Services may cause an app to collect Personal
+• Clarified in (5) (f) that enabling Xbox Live Services may cause an app to collect Personal
 
 Information.
 
- Added language to (8) (b) to clarify that any Personal Information exposed in the error reporting
+• Added language to (8) (b) to clarify that any Personal Information exposed in the error reporting
 
 data is considered Microsoft Confidential. Such data is subject to requirements governing
 
@@ -4288,7 +4290,7 @@ Microsoft at Microsoft’s request, and annual audits.
 
 February 14, 2018 Version 8.2
 
- Updated tax language to: (i) grant Microsoft Affiliates the right to remit taxes on behalf of New
+• Updated tax language to: (i) grant Microsoft Affiliates the right to remit taxes on behalf of New
 
 Zealand App Developers, (ii) clarify new GST registration requirements for New Zealand App
 
@@ -4300,27 +4302,27 @@ Microsoft Subsidiary acting as agent in Australia and New Zealand.
 
 November 20, 2017, Version 8.1
 
- Updated language (10) (c) to clarify assignment of liability and developer indemnity obligations.
+• Updated language (10) (c) to clarify assignment of liability and developer indemnity obligations.
 
 
 
 October 26, 2017, Version 8.0
 
- Updated the Store Fee section to implement the 85/15 revenue share for non-Game
+• Updated the Store Fee section to implement the 85/15 revenue share for non-Game
 
 subscriptions.
 
- Added definition of "Game," and updated "Commerce Expansion Adjustment," to clarify that there
+• Added definition of "Game," and updated "Commerce Expansion Adjustment," to clarify that there
 
 will be no changes to Game and non-subscription revenue shares.
 
- Added a developer representation stating that the individual accepting the ADA on behalf of
+• Added a developer representation stating that the individual accepting the ADA on behalf of
 
 his/her company is authorized to do so on behalf of the company.
 
- Updated the definition of the "Store" in connection with Microsoft Store branding changes.
+• Updated the definition of the "Store" in connection with Microsoft Store branding changes.
 
- Updated the Standard Application License Terms (Exhibit H) to make them consistent with the
+• Updated the Standard Application License Terms (Exhibit H) to make them consistent with the
 
 Standard Application License Terms in the Microsoft Services Agreement.
 
@@ -4328,17 +4330,17 @@ Standard Application License Terms in the Microsoft Services Agreement.
 
 July 1, 2017, Version 7.10
 
- Updated tax language to: (i) grant Microsoft Affiliates the right to remit taxes on behalf of
+• Updated tax language to: (i) grant Microsoft Affiliates the right to remit taxes on behalf of
 
 Australian App Developers, and (ii) clarify new GST registration requirements for Australian App
 
 Developers who make paid apps/in-app products available in the Store.
 
- Updated Exhibit H: Windows Store – Standard Application License Terms to provide that the
+• Updated Exhibit H: Windows Store – Standard Application License Terms to provide that the
 
 [Microsoft Usage Rules](http://go.microsoft.com/fwlink/p/?LinkId=723143) govern userights.
 
- Added the “Microsoft Store for Education” as another store through which Apps and In-App
+• Added the “Microsoft Store for Education” as another store through which Apps and In-App
 
 Products submitted via Dev Center may be made available to Educational Institutions for
 
@@ -4348,19 +4350,19 @@ distribution to, and use by, their authorized employees, agents, and members.
 
 April 12, 2017, Version 7.9
 
- Updated language (4) (a) to grant Microsoft Affiliates the right to appoint other Microsoft
+• Updated language (4) (a) to grant Microsoft Affiliates the right to appoint other Microsoft
 
 Affiliates as sub-agents
 
- Revised terms (4) (g) to set licensing usage to be consistent with the Microsoft Usage Rules
+• Revised terms (4) (g) to set licensing usage to be consistent with the Microsoft Usage Rules
 
- New applicable law terms (5) (b) clarify requirements with applicable export laws
+• New applicable law terms (5) (b) clarify requirements with applicable export laws
 
- Removed the “no harm to users” (5) (l) and added to the Windows Store Policies
+• Removed the “no harm to users” (5) (l) and added to the Windows Store Policies
 
 October 1, 2016, Version 7.8
 
- Updated contracting party in (12) (e) for developers with primary headquarters located in New
+• Updated contracting party in (12) (e) for developers with primary headquarters located in New
 
 Zealand in accordance with updated tax law.
 
@@ -4368,42 +4370,42 @@ Zealand in accordance with updated tax law.
 
 August 2, 2016, Version 7.7
 
- Updated definition of “Application” and “App Assets” (1) (c) (d) to include extensions, video
+• Updated definition of “Application” and “App Assets” (1) (c) (d) to include extensions, video
 
 trailers and user-generated content
 
- Clarified “Certification” (1) (f) to be defined as completed and passed certification process
+• Clarified “Certification” (1) (f) to be defined as completed and passed certification process
 
- Inclusion of Microsoft’s Affiliates in the definition of “Covered Parties” (1) (i) for purposes of
+• Inclusion of Microsoft’s Affiliates in the definition of “Covered Parties” (1) (i) for purposes of
 
 limitation of liability and indemnification
 
- Clarified definition of “In-App Product” (1) (n)
+• Clarified definition of “In-App Product” (1) (n)
 
- Added “NDA” and “User Generated Content” into definitions list (1) (q) (aa)
+• Added “NDA” and “User Generated Content” into definitions list (1) (q) (aa)
 
- Clarification that Promotional codes are provided in limited number and can each be used a
+• Clarification that Promotional codes are provided in limited number and can each be used a
 
 limited number of times (3) (k)
 
- Updated age ratings to apply to both apps and In-App Products (4) (e)
+• Updated age ratings to apply to both apps and In-App Products (4) (e)
 
- Updated In-App Commerce (5) (e) to remove grace period for implementing MS IAP for digital
+• Updated In-App Commerce (5) (e) to remove grace period for implementing MS IAP for digital
 
 goods
 
- Clarification that enabling of the Xbox Live Service (5) (f) within an app requires submission
+• Clarification that enabling of the Xbox Live Service (5) (f) within an app requires submission
 
 through the Xbox certification process
 
- Clarification of Error Reporting Data (9) (b) requiring developers to promptly delete any Personal
+• Clarification of Error Reporting Data (9) (b) requiring developers to promptly delete any Personal
 
 Information included in Error Reporting Data and not use or disclose such data for any purpose
 
- Updated Exhibit C Marketing Rights to include Microsoft Authorized Resellers
+• Updated Exhibit C Marketing Rights to include Microsoft Authorized Resellers
 
- Updated Exhibit E Advertising Section Requirements for Indemnifications to incorporate and
+• Updated Exhibit E Advertising Section Requirements for Indemnifications to incorporate and
 
 reference Section (10) (c) and (11) (b)
 
- Update to Exhibit H to reflect new Standard Application License Terms
+• Update to Exhibit H to reflect new Standard Application License Terms
