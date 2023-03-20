@@ -183,7 +183,7 @@ Numele de utilizator nu trebuie sa contina termenul “Okazii” sau cuvinte sim
 
 Anunţurile, licitaţiile instant cu preţ sub 20.01 RON sau 5.01 EUR sau licitaţiile standard cu preţ de pornire, preţ rezervat sau preţ blitz sub 20.01 RON sau 5.01 EUR sunt scutite de tarif de listare.
 
-Pentru categoriile Artă și Obiecte de colecție respectiv Librărie și toate subcategoriile acestor listarea produselor este gratuită indiferent de valoarea produselor listate.
+Pentru categoriile Artă și Obiecte de colecție respectiv Librărie și toate subcategoriile acestora listarea produselor este gratuită indiferent de valoarea produselor listate.
 
 **Modul de funcţionare a sistemului de tarifare a listării**
 
