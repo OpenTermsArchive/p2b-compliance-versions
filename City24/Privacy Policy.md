@@ -1,9 +1,9 @@
 BALTIC CLASSIFIEDS GROUP OÜ ISIKUANDMETE TÖÖTLEMISE PÕHIMÕTTED
 ==============================================================
 
-Kehtib alates: 01.05.2021
+Kehtib alates: 21.03.2023
 
-Käesolevad isikuandmete töötlemise põhimõtted kirjeldavad, kuidas **Baltic Classifieds Group OÜ**, registrikood 14608656, aadress Pärnu mnt 141, Tallinn 11314, (edaspidi **„Baltic Classifieds Group“**), soovib, et füüsiliste isikute isikuandmeid ettevõttesiseselt töödeldakse.
+Käesolevad isikuandmete töötlemise põhimõtted kirjeldavad, kuidas **Baltic Classifieds Group OÜ**, registrikood 14608656, aadress Pärnu mnt 141, Tallinn 10145, (edaspidi „**Baltic Classifieds Group**“), soovib, et füüsiliste isikute isikuandmeid ettevõttesiseselt töödeldakse.
 
 Isikuandmete töötlemise põhimõtted on täitmiseks kohustuslikud kõikidele isikutele, kes töötlevad Baltic Classifieds Groupi nimel isikuandmeid.
 
@@ -13,25 +13,25 @@ Käesolevad põhimõtted baseeruvad isikuandmete kaitse seadusel ning Euroopa Li
 
 **1\. Mõisted**
 
-1.1. **„Baltic Classifieds Group OÜ”** – Allepal OÜ, registrikood 12209337, aadress Pärnu mnt 141, Tallinn 11314, (osta.ee, KV.ee, auto24.ee), Kinnisvaraportaal OÜ, registrikood 10680295, aadress Pärnu mnt 141, Tallinn 11314, (City24.ee), City24 SIA;
+1.1. „**Baltic Classifieds Group OÜ**” – AllePal OÜ, registrikood 12209337, aadress Pärnu mnt 141, Tallinn (KV.ee, Osta.ee, auto24.ee, KuldneBors.ee, GetaPro.ee), Kinnisvaraportaal OÜ, registrikood 10680295, aadress Pärnu mnt 141, Tallinn 11314, (City24.ee), City24 SIA;
 
-1.2. **„Andmesubjekt“** on tuvastatud või otseselt või kaudselt tuvastatav füüsiline isik. Baltic Classifieds Group töötleb järgmiste Andmesubjektide isikuandmeid – Baltic Classifieds Groupi töötajad ja kliendid.
+1.2. „**Andmesubjekt**“ on tuvastatud või otseselt või kaudselt tuvastatav füüsiline isik. Baltic Classifieds Group töötleb järgmiste Andmesubjektide isikuandmeid – Baltic Classifieds Groupi töötajad ja kliendid.
 
-1.3. **„Isikuandmed“** on igasugune teave Andmesubjekti kohta. Baltic Classifieds Group töötleb sõltuvalt Andmesubjekti kategooriast erinevat liiki Isikuandmeid.
+1.3. „**Isikuandmed**“ on igasugune teave Andmesubjekti kohta. Baltic Classifieds Group töötleb sõltuvalt Andmesubjekti kategooriast erinevat liiki Isikuandmeid.
 
-1.4. **„Töötlemine“** on Isikuandmete või nende kogumitega tehtav automatiseeritud või automatiseerimata toiming või toimingute kogum, nagu kogumine, dokumenteerimine, korrastamine, struktureerimine, säilitamine, kohandamine ja muutmine, päringute tegemine, lugemine, kasutamine, edastamise, levitamise või muul moel kättesaadavaks tegemise teel avalikustamine, ühitamine või ühendamine, piiramine, kustutamine või hävitamine.
+1.4. „**Töötlemine**“ on Isikuandmete või nende kogumitega tehtav automatiseeritud või automatiseerimata toiming või toimingute kogum, nagu kogumine, dokumenteerimine, korrastamine, struktureerimine, säilitamine, kohandamine ja muutmine, päringute tegemine, lugemine, kasutamine, edastamise, levitamise või muul moel kättesaadavaks tegemise teel avalikustamine, ühitamine või ühendamine, piiramine, kustutamine või hävitamine.
 
-1.5. **„Isikuandmetega seotud rikkumine“** on turvanõuete rikkumine, mis põhjustab edastatavate, salvestatud või muul viisil töödeldavate Isikuandmete juhusliku või ebaseadusliku hävitamise, kaotsimineku, muutmise või loata avalikustamise või neile juurdepääsu.
+1.5. „**Isikuandmetega seotud rikkumine**“ on turvanõuete rikkumine, mis põhjustab edastatavate, salvestatud või muul viisil töödeldavate Isikuandmete juhusliku või ebaseadusliku hävitamise, kaotsimineku, muutmise või loata avalikustamise või neile juurdepääsu.
 
-1.6. **„Isikuandmete vastutav töötleja“** on füüsiline või juriidiline isik, avaliku sektori asutus, amet või muu organ, kes üksi või koos teistega määrab kindlaks isikuandmete töötlemise eesmärgid ja vahendid.
+1.6. „**Isikuandmete vastutav töötleja**“ on füüsiline või juriidiline isik, avaliku sektori asutus, amet või muu organ, kes üksi või koos teistega määrab kindlaks isikuandmete töötlemise eesmärgid ja vahendid.
 
-1.7. **„Vastutav töötleja“** on füüsiline või juriidiline isik, kes üksi või koos teistega määrab kindlaks isikuandmete töötlemise eesmärgid ja vahendid.
+1.7. „**Vastutav töötleja**“ on füüsiline või juriidiline isik, kes üksi või koos teistega määrab kindlaks isikuandmete töötlemise eesmärgid ja vahendid.
 
-1.8. **„Volitatud töötleja“** on füüsiline või juriidiline isik, kes töötleb isikuandmeid vastutava töötleja nimel. Näiteks on Baltic Classifieds Groupi volitatud töötlejaks isikud, kes osutavad mistahes teenuse osutamise lepingu alusel Baltic Classifieds Groupile teenust, mis hõlmab Baltic Classifieds Groupi nimel Isikuandmete töötlemist (s.o. värbamisteenuse osutaja, serveri- ja pilveteenuse osutaja, raamatupidamisteenuse osutaja, tarbijamängude, loosimiste ja kampaaniate läbiviimiseks kasutatavate platvormide pakkujad) aga ka teised Baltic Classifieds Groupi kuuluvad ettevõtted.
+1.8. „**Volitatud töötleja**“ on füüsiline või juriidiline isik, kes töötleb isikuandmeid vastutava töötleja nimel. Näiteks on Baltic Classifieds Groupi volitatud töötlejaks isikud, kes osutavad mistahes teenuse osutamise lepingu alusel Baltic Classifieds Groupile teenust, mis hõlmab Baltic Classifieds Groupi nimel Isikuandmete töötlemist (s.o. värbamisteenuse osutaja, serveri- ja pilveteenuse osutaja, raamatupidamisteenuse osutaja, tarbijamängude, loosimiste ja kampaaniate läbiviimiseks kasutatavate platvormide pakkujad), aga ka teised Baltic Classifieds Groupi kuuluvad ettevõtted.
 
-1.9. **„Üldmäärus“** on Euroopa Parlamendi ja Nõukogu määrus (EL) 2016/679, 27. aprill 2016, füüsiliste isikute kaitse kohta isikuandmete töötlemisel ja selliste andmete vaba liikumise ning direktiivi 95/46/EÜ kehtetuks tunnistamise kohta (isikuandmete kaitse üldmäärus).
+1.9. „**Üldmäärus**“ on Euroopa Parlamendi ja Nõukogu määrus (EL) 2016/679, 27. aprill 2016, füüsiliste isikute kaitse kohta isikuandmete töötlemisel ja selliste andmete vaba liikumise ning direktiivi 95/46/EÜ kehtetuks tunnistamise kohta (isikuandmete kaitse üldmäärus).
 
-1.10. **„Põhimõtted“** on käesolevad isikuandmete töötlemise põhimõtted koos selle juurde kuuluvate lisadega.
+1.10. „**Põhimõtted**“ on käesolevad isikuandmete töötlemise põhimõtted koos selle juurde kuuluvate lisadega.
 
 **2\. Isikuandmete kogumine**
 
@@ -190,7 +190,7 @@ Käesolevad põhimõtted baseeruvad isikuandmete kaitse seadusel ning Euroopa Li
 
 9.1. Baltic Classifieds Group on rakendanud vajalikke organisatsioonilisi, füüsilisi ja infotehnilisi turvameetmeid selleks, et Isikuandmed oleksid kaitstud mistahes väärkasutamise, volitamatu juurdepääsu, avalikustamise, muutmise või hävitamise eest.
 
-9.2. Isikuandmete töötlemise rikkumise, sh lekke, korral tegutsemise juhised on sätestatud käesolevate põhimõtete lisaks olevas isikuandmetega seotud rikkumisest teavitamise ja dokumenteerimise korras.
+9.2. Isikuandmete töötlemise rikkumise, sh lekke, korral tegutsemise juhised on sätestatud isikuandmetega seotud rikkumisest teavitamise ja dokumenteerimise korras.
 
 **10\. Isikuandmete kustutamine**
 
@@ -242,11 +242,12 @@ Käesolevad põhimõtted baseeruvad isikuandmete kaitse seadusel ning Euroopa Li
 
 **13\. Kontaktandmed**
 
-13.1. Täiendavate küsimuste korral või punktis 7 toodud õiguste kasutamiseks võtke palun ühendust Baltic Classifieds Groupi andmekaitseametnikuga:
-
-**Kinnisvaraportaal AS**  
-Nimi: Karin Noppel-Kokerov  
-Email: karin@city24.ee
-
-**Allepal OÜ**  
-Email: andmekaitse@allepal.ee
+Täiendavate küsimuste korral või punktis 7 toodud õiguste kasutamiseks võib Andmesubjekt pöörduda Baltic Classifieds Groupi poole järgmistel kontaktidel:  
+Postiaadress: Pärnu mnt 141, Tallinn  
+E-post:  
+KV.ee: [klienditugi@kv.ee](mailto:klienditugi@kv.ee)  
+Osta.ee: [klienditugi@osta.ee](mailto:klienditugi@osta.ee)  
+auto24.ee: [info@auto24.ee](mailto:info@auto24.ee)  
+KuldneBors.ee: [info@kuldnebors.ee](mailto:info@kuldnebors.ee)  
+GetaPro.ee: [contact@getapro.ee](mailto:contact@getapro.ee)  
+City24.ee: [klienditugi@city24.ee](mailto:klienditugi@city24.ee)
