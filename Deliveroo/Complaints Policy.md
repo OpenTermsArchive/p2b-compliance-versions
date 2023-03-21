@@ -1,9 +1,8 @@
 Deliveroo's partner support policy
 ==================================
 
-A
-
-Written by Adam S-R. Updated over a week ago
+Written by Adam S-R  
+Updated over a week ago
 
 This policy outlines how our restaurants and partners selling goods over the Deliveroo platform can contact Deliveroo, explains our approach to handling queries and complaints, and includes details regarding how you can request the involvement of a third party independent mediation service if you’re not satisfied with the resolution provided by Deliveroo.
 
