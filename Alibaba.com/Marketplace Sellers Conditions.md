@@ -218,7 +218,7 @@ e) any other matter relating to the Sites or Service however arising, including 
 
 6.8 PRIVACY
 
-To know how we use and protect your personal information when using the relevant  Site, please review our privacy policy at the following link: Alibaba.com Privacy Policy.
+To know how we use and protect your personal information when using the relevant  Site, please review our privacy policy at the following link: [Alibaba.com Privacy Policy](https://rulechannel.alibaba.com/icbu?type=detail&ruleId=2034&cId=1306#/rule/detail?ruleId=2034&cId=1306).
 
 Information that is protected under data protection laws will only be used and kept in compliance with those laws.
 
