@@ -1,20 +1,28 @@
-Last modified: 4/4/2022
+Last modified: 3/21/2023
 
   
 
 The terms below will apply to Merchants as of the “Effective Date” defined in the Order Form.
 
-[**Definitions**](#kix.9bry8ctb06jt)
+These Supplemental Terms include:
 
-[**General Supplemental Terms**](#kix.ass8g8x25sa4)
+[**Definitions**](#kix.tmfz6hmkphng)
 
-[**Specific Supplemental Terms**](#kix.8tq4rj1g1uwi)
+[**General Supplemental Terms**](#kix.7706dkjgnhsi)
 
-[**Marketplace Method Terms**](#kix.kfjz5fktmuj9)
+[**Specific Supplemental Terms**](#kix.sb6yx5fqtw6y)
 
-[**Aggregator Method Terms**](#kix.aux1lqta1kwh)
+[**Marketplace Method Terms**](#kix.9dve9ewb3nyt)
 
-[**Non-Delivery Terms**](#kix.u4n7f53h7uo9)
+[**Aggregator Method Terms**](#kix.jmazoqv7bdqi)
+
+[**Non-Delivery Terms**](#kix.gfbml3oxf65m)
+
+[**Sponsored Listings Terms**](#kix.325c675xqp8g)
+
+[**Promotion Terms**](#kix.brm3j8fezfmm)
+
+[**User Generated Content**](#kix.fyrec7ytnm)
 
 **DEFINITIONS**
 
@@ -231,7 +239,7 @@ Uber may amend the Supplemental Terms from time to time, as allowed by Applicabl
             2. For Items transferred via the Aggregator Method, Merchant shall remain responsible for complying with all health and safety laws and regulations applicable in relation to all Items, up to and including the time of delivery of the Items to a Customer. Merchant agrees that, for purposes of delivery of Items via the Aggregator Method, Aggregator Couriers shall operate under cover of the Merchant’s retail and health and safety licenses, registrations, authorizations and privileges and control. Merchant acknowledges and agrees that Uber never takes title to any Aggregator Item, that Merchant remains responsible for the delivery of Aggregator Items, and that Merchant shall maintain possession, control and care of the Aggregator Items at all times in full compliance with Applicable Laws.
             3. For Items transferred via the Non-Delivery Method, Merchant shall remain responsible for complying with all health and safety laws and regulations applicable in relation to all Non-Delivery Items, up to and including the time of transfer of the Non-Delivery Items to a Customer.
             4. Merchant acknowledges and agrees that Uber never takes title to any Item transferred under any of the aforementioned Methods.
-        2. Merchant is responsible for costs related to reimbursement to Customers in the event any such Customer(s) request a refund for Substandard Items or otherwise unsatisfactory Item(s) (including, without limitation, any costs associated with retrieving any such Substandard Items or otherwise unsatisfactory Item(s), if applicable). In addition, if a Substandard Item is delivered to a Customer via the Marketplace Method, Uber Irelandmay assess a Substandard Item Delivery Fee to Merchant to offset the cost of delivery of the Substandard Item. Uber Ireland may deduct refunds (including the Substandard Item Delivery Fee) from the Item Revenue transmitted to Merchant under this Agreement in accordance with Uber Ireland’s refund policy located at [http://uber.com/legal/refund\_policy\_uk](http://uber.com/legal/refund_policy_uk) (or as otherwise provided to Merchant), as updated from time to time, provided always that Merchant has received notification of such refund policy.
+        2. Merchant is responsible for costs related to reimbursement to Customers in the event any such Customer(s) request a refund for Substandard Items or otherwise unsatisfactory Item(s) (including, without limitation, any costs associated with retrieving any such Substandard Items or otherwise unsatisfactory Item(s), if applicable). In addition, if a Substandard Item is delivered to a Customer via the Marketplace Method, Uber Ireland may assess a Substandard Item Delivery Fee to Merchant to offset the cost of delivery of the Substandard Item. Uber Ireland may deduct refunds (including the Substandard Item Delivery Fee) from the Item Revenue transmitted to Merchant under this Agreement in accordance with Uber Ireland’s refund policy provided to Merchant by Uber Ireland and updated from time to time, provided always that Merchant has received notification of such refund policy.
     3. Documentation. Merchant will provide all documentation required by Uber (including but not limited to business license, identification, tax identification, information regarding VAT status, alcohol license (where relevant), banking documentation, and all Invoice Details) ("Required Documentation"). Merchant is solely responsible for providing Uber with, and maintaining, accurate bank account information.
     4. Restrictions. Merchant will not, and will not allow any third party to: (i) use the Uber Eats Services, the Uber Tools, or any other transactional, operational, performance or other data or information that is related to the sale of the Items (and, if applicable, delivery) to Customers through the Uber Eats App to compete with Uber, its Affiliates or the Uber Eats Services; (ii) reverse engineer or attempt to discover any source code or underlying ideas or algorithms used to provide the Uber Eats Services or Uber Tools (except to the extent that Applicable Law prohibits reverse engineering restrictions); or (iii) provide, lease, lend, disclose, or otherwise use or allow others to use, in each case, for the direct benefit of any third party, the Uber Eats Services or Uber Tools (except as otherwise authorized by Uber).
     5. Alcohol. To the extent permitted under Applicable Laws, Merchant may use the Uber Eats App to transfer alcohol to a Customer subject to the additional terms set forth herein. Merchant represents and warrants that it has and will maintain all required licence(s) and/or permit(s) to sell and, if applicable, deliver alcohol, and will comply with all Applicable Laws in respect thereof, including, without limitation, time restrictions and legal age.
@@ -269,9 +277,8 @@ Uber may amend the Supplemental Terms from time to time, as allowed by Applicabl
     4. Transfer Restrictions. The following restricted items may not be transferred via the Uber Eats App: people or animals of any size, illegal items, fragile items, dangerous items (like weapons, explosives, flammables, etc.), stolen goods, or any items that Merchant does not have permission to transfer. Uber Ireland reserves the right to prohibit transfer of additional Items at its sole discretion.
 3. **Marks**.
     1. Marks. Subject to this Agreement, each party hereby grants to the other party (and, in the case of Uber, to its Affiliates) a limited, non-exclusive and non-transferable license during the Term to use such party’s respective Marks, on a royalty free basis, in connection with the activities related to this Agreement. This license includes the right to reproduce, adapt and represent (in connection with all or part of the activities related to this Agreement) the Marks for the entire world, using all means and media, and without any restriction of any kind as regards exploitation methods, number of prints, dissemination or utilisation. All uses of a party’s Marks (owned or licensed, as applicable) by the other party will be in the form and format specified or approved by the party that owns (or is a licensee of, as applicable) such Marks. Other than as specifically set forth in this Agreement, neither party will use the other party’s Marks without the prior, express, written consent of the other party. Any use or display of Merchant’s Marks by Uber in connection with making Items available through the Uber Eats App in the ordinary course of business will not require any such prior, express, written consent. All goodwill related to the use of a party’s Marks by the other party will inure to the benefit of the party that owns (or is a licensee of, as applicable) such Marks. Except as expressly set forth herein, neither party will be deemed to grant the other party any license or rights under any intellectual property or other proprietary rights. All rights not granted are expressly reserved. Merchant agrees that it will not, and will ensure that Aggregator Couriers do not, try to register or otherwise use and/or claim ownership in any of the Uber Marks, alone or in combination with other letters, punctuation, words, symbols and/or designs, or in any confusingly similar mark, name or title, for any goods and services.
-4. **Marketing and Promotional Activities**.
-
-* 1. Marketing. Uber may showcase the availability of Merchant’s Items via the Uber Eats App through various promotional activities including, without limitation, social media channels, websites, advertisements, blogs or other media available now or hereinafter created. Uber (or a party designated by Uber acting on Uber’s behalf) may create video, still images and/or other materials for marketing and other efforts related to the Uber Eats App ("Uber Eats Marketing Materials"). Merchant agrees that Uber Eats Marketing Materials (including, without limitation, all intellectual property rights therein) are and will remain the sole and exclusive property of Uber. Additionally, if Merchant Merchant Marketing Materials are used in connection with the display of Merchant’s Items on the Uber Eats App, Merchant hereby grants Uber a non-exclusive, royalty free right to use, reproduce, adapt, represent, and display such Merchant Marketing Materials in connection with Merchant’s Items and other promotional activities relating to the Uber Eats Services, for the entire world, during the Term, using all means and media, and without any restriction other than as required by Applicable Law as regards exploitation methods, number of prints, dissemination or utilisation.
+4. **Marketing and Promotional Activities**.
+    1. Marketing. Uber may showcase the availability of Merchant’s Items via the Uber Eats App through various promotional activities including, without limitation, social media channels, websites, advertisements, blogs or other media available now or hereinafter created. Uber (or a party designated by Uber acting on Uber’s behalf) may create video, still images and/or other materials for marketing and other efforts related to the Uber Eats App ("Uber Eats Marketing Materials"). Merchant agrees that Uber Eats Marketing Materials (including, without limitation, all intellectual property rights therein) are and will remain the sole and exclusive property of Uber. Additionally, if Merchant Merchant Marketing Materials are used in connection with the display of Merchant’s Items on the Uber Eats App, Merchant hereby grants Uber a non-exclusive, royalty free right to use, reproduce, adapt, represent, and display such Merchant Marketing Materials in connection with Merchant’s Items and other promotional activities relating to the Uber Eats Services, for the entire world, during the Term, using all means and media, and without any restriction other than as required by Applicable Law as regards exploitation methods, number of prints, dissemination or utilisation.
     2. No Additional Amounts. Merchant acknowledges and agrees that, through advertising and marketing, Uber may seek to attract new merchants to Uber Eats and to increase existing users of the Uber Eats Services and Uber Eats App. Merchant acknowledges and agrees such advertising or marketing does not entitle Merchant to any additional monetary amounts beyond the amounts expressly stated in this Agreement.  
         
     3. Merchant Promotional Offers. Uber may authorize Merchant to use certain automated tools that allow Merchant to provide promotional Offers to Customers through the Uber Eats App in accordance with the terms of this Agreement. Merchant agrees that it is solely responsible for fulfilling and, subject to technical and functional limitations of the automated tools, defining the Offers provided by Merchant to its Customers.
@@ -284,15 +291,14 @@ Uber may amend the Supplemental Terms from time to time, as allowed by Applicabl
             
     4. Ranking. We may use certain parameters to determine how prominently Merchants appear in the Uber Eats App (the “Parameters”). These Parameters are selected to optimise the marketplace experience for all users of the Uber Eats App, including you, Customers and Couriers. The main Parameters used for ranking include the time you have been on the Uber Eats App, customer preferences (evidenced, for example, by previous orders, searches or clicks), cuisine types, promotional offers, contextual factors (for example, the time of day, the day of the week), past ordering experiences (based, for example, on feedback, acceptance of orders and preparation time), availability, pricing, profitability (for Uber), basket size, estimated delivery time, delivery zone and any paid advertising you place on the Uber Eats App. The Parameters are taken into account any time merchants are displayed in the Uber Eats App, including in response to a Customer's search query and in the home feed. You can influence how prominently you appear in the Uber Eats App by making promotional offers, placing paid advertising, and receiving positive feedback from Customers and Couriers. Uber shall provide you with fifteen (15) days’ notice of important changes to the Parameters.
     5. Publicity. Except as may be expressly set forth in this Agreement or otherwise agreed by the parties in writing, neither party may issue a press release or otherwise refer to the other party in any manner with respect to this Agreement or otherwise, without the prior written consent of such other party.
-
-1. **Virtual Restaurants.**
+5. **Virtual Restaurants.**
     1. Definition. A Merchant who currently offers Meals via the Uber Eats App may, under certain conditions, operate a Virtual Restaurant. All Virtual Restaurant Meals are sold by Merchant.
     2. Merchant’s Responsibilities. Without prejudice to any other provision of this Agreement, a Merchant operating a Virtual Restaurant must adhere to the following conditions:
         1. Merchant represents and warrants that Merchant will prepare and sell all Meals from Virtual Restaurant at Merchant’s restaurant premises.
         2. If this premises address changes, Merchant will provide Uber with no less than seven (7) days’ advance written notice.
         3. The Virtual Restaurant trading name is Merchant’s Mark and is subject to the indemnification provision of the Agreement. Merchant represents and warrants that (A) the Virtual Restaurant trading name does not infringe, misappropriate, or otherwise violate any third party’s intellectual property or other proprietary rights and (B) it has the right to display the Virtual Restaurant trading name on the Uber Eats App. Merchant agrees that Uber may remove Virtual Restaurant from the Uber Eats App if Uber reasonably believes that it may infringe, misappropriate, or otherwise violate any intellectual property or other proprietary rights.
         4. Uber may provide Merchant with Virtual Restaurant Data. Merchant agrees that any Virtual Restaurant Data provided by Uber or its Affiliates to Merchant constitutes Confidential Information.
-2. **Confidential Information; Personal Data; Feedback.**
+6. **Confidential Information; Personal Data; Feedback.**
     1. Definition. Each Recipient agrees that it will not disclose the Discloser’s Confidential Information to any third parties other than Representatives, or use it in any way other than as necessary to perform this Agreement. Each Recipient will ensure that Confidential Information will only be made available to those of its Representatives who have a need to know such Confidential Information and who, prior to any disclosure of such Confidential Information, are bound by written obligations of confidentiality with respect to such Confidential Information that are no less stringent than those set forth in this Agreement. Recipient will cause its Representatives to comply with the terms of this Agreement and will be solely responsible for any breach of this Agreement by any of its Representatives. Each Recipient will not, and will not authorize others to, remove or deface any notice of copyright, trademark, logo, legend, or other notices of ownership from any originals or copies of the Discloser’s Confidential Information. The foregoing prohibition on use and disclosure of Confidential Information will not apply to the extent: (i) the Discloser has authorized such use or disclosure (and Merchant hereby authorizes Uber to disclose the terms of this Agreement to Merchant’s franchisees in connection with executing contracts that reference this Agreement with such franchisees) and (ii) a Recipient is required to disclose certain Confidential Information of the Discloser as a matter of law or by order of a court, provided that the Recipient gives the Discloser prior written notice of such obligation to disclose (to the extent legally permissible) and reasonably assist in obtaining a protective order prior to making such disclosure. Upon expiration or termination of this Agreement and as requested by Discloser, each Recipient will deliver to the Discloser (or destroy at the Discloser’s election) any and all materials or documents containing the Discloser’s Confidential Information, together with all copies thereof in whatever form. Neither party makes any representation or warranty that Confidential Information is complete or accurate; all Confidential Information is provided "as is".
     2. Privacy. Merchant agrees to use Personal Data provided to Merchant by Uber solely for the purpose of providing Items to Customers under this Agreement. Merchant agrees to use Personal Data provided to Merchant by Uber solely by using the Uber Tools provided by Uber and shall not copy, store, retain, remove from the Uber Tools or otherwise process the Personal Data. Only in the Aggregator Method, Merchant is permitted to copy Personal Data provided via the Uber Tools and share it with its Aggregator Couriers for the sole purpose of providing Items to Customers in accordance with this Agreement, and will be responsible for compliance with applicable data protection regulations as a data controller, or the responsible party, for such Personal Data as specified in clause 5(a) of the Aggregator Method Specific Supplemental Terms. In respect of any Personal Data transferred by Uber to Merchant, the parties agree that they shall enter into the Data Processing Agreement (controller to controller) in substantially the form attached hereto, included as part of the Aggregator Method Specific Supplemental Terms.
     3. Aggregate Data. Merchant acknowledges that Uber may use aggregate, anonymized data related to Merchant’s transactions in connection with the Uber Eats Services ("Aggregate Data") and may share Aggregate Data with a commercial partner to achieve any commercial purpose, as described in paragraph (h) below. If Merchant allows a third party to provide technology services to Merchant in connection with Merchant’s obligations under this Agreement, then Uber may share Aggregate Data with such third party to enable the provision of Uber Eats Services to Merchant.
@@ -301,12 +307,12 @@ Uber may amend the Supplemental Terms from time to time, as allowed by Applicabl
     6. Data Identification Restriction. Without limiting any other provision of this Agreement, including any provision in this clause, Merchant will not merge any of the data collected or otherwise obtained in connection with this Agreement, including, without limitation, any Personal Data, with other data collected from any source or otherwise use any of the data collected or otherwise obtained in connection with this Agreement, including, without limitation, any Personal Data, for the purpose of re-identification, targeted marketing, analytics or any other similar purpose.
     7. Feedback. Merchant may, but is not obligated to, provide or otherwise make available to Uber certain feedback, suggestions, comments, ideas, or other concepts relating to Uber’s products and services ("Feedback"). However, to the extent that Merchant provides or otherwise makes available Feedback to Uber, Merchant hereby grants to Uber a perpetual, irrevocable, worldwide, royalty free, fully sublicensable right to use, reproduce, adapt, represent and otherwise exploit such Feedback, during the Term, using all means and media, and without any restriction of any kind with regard to exploitation methods, number of prints, dissemination or utilisation.
     8. Access to Uber Data. The Uber Data you have access to through your use of the Uber Eats Services and Uber Tools, includes onboarding data (e.g. bank account information, contact information, KYC information), operational data (e.g. order history, delivery information and other metrics), financial data (e.g. Item Revenue due to you, Fees due to Uber, past payout amounts), and feedback (from Customers and Couriers). After expiry or termination of this Agreement, you will lose access to Uber Data. Uber has access to Uber Data via the Uber Tools and may use it for the purposes described in Uber’s Privacy Notice and for commercial purposes, unless expressly prohibited by this Agreement. Uber may share data with third parties as described in its Privacy Notice (available at privacy.uber.com), for example with service providers that assist Uber in providing the Uber Eats Services, and it is not possible for Merchant to opt-out of such sharing. Uber may also share Aggregate Data with selected partners for commercial purposes related to the Uber Eats App (“Partner Sharing”). It is not possible for Merchant to opt-out of Partner Sharing, however Merchant’s data is not individually identifiable within Aggregate Data. In case Uber Data is also considered, in accordance with applicable laws, Merchant’s Personal Data, the information provided in, and the rights afforded under, Uber’s privacy notice shall, in case of a conflict, supersede this paragraph. 
-3. **Indemnification**.
+7. **Indemnification**.
     1. Indemnified Claims. Each party (the "Indemnifying Party") will indemnify, defend and hold harmless the other party, its affiliates and their respective directors, officers, employees and agents (the "Indemnified Party") from and against any and all claims, damages, liabilities, causes of action, and losses (including reasonable attorney’s fees) (collectively, "Losses") with respect to any third party claim arising out of or related to: (i) the negligence or willful misconduct of the Indemnifying Party or its employees or agents (in Merchant’s case, including Aggregator Couriers but excluding Uber and Marketplace Couriers to the extent they are Merchant’s agents) in their performance of this Agreement; (ii) any claims that, if true, would be a breach of any of the Indemnifying Party’s (in Merchant’s case, including via Aggregator Couriers) representations, warranties or covenants in this Agreement; and (iii) any claims that the Indemnifying Party’s Marks infringe a third party’s intellectual property rights, as long as such Marks have been used in the manner approved by the Indemnifying Party.
     2. Merchant will indemnify, defend and hold harmless the Uber Indemnified Parties from and against any and all Losses with respect to any third party claim arising out of or related to: (A) Merchant’s violation or alleged violation of any applicable retail food or other health and safety code, rule or regulation, (B) Merchant’s failure to determine the applicable VAT and other fees charged; (C) Merchant’s failure to apply correct VAT rates, including those rates adjusted by Uber on Merchant’s behalf; (D) VAT, other fees, penalties, interest and other costs related to Merchant’s obligations; (E) Merchant copying, storing, retaining, removing from the Uber Tools or otherwise processing the Personal Data, except as permitted by clause 11(b) of these General Supplemental Terms; (F) any third party claim for actual or alleged infringement of a third party’s intellectual property or other proprietary rights arising out of or in connection with any: (i) Merchant Marketing Materials; and/or (ii) Offer run by Merchant and use of Offer Materials; and/or (G) any third party claim arising out of or in connection with the manufacture, production, distribution, handling, advertising, consumption or use of, or otherwise relating to, any Offer run by Merchant, whether or not any claim arises during the Term of the Agreement, except in the case of each of (A)-(E) above, to the extent such harm was directly caused by the gross negligence or willful misconduct of Uber or its employees, agents or Couriers. With respect to the indemnities in (F) and (G) above, approval by an Uber Party of any Offer or use of any Offer Materials shall not affect this right of indemnification.
     3. Procedure. Each Indemnified Party will provide prompt notice to the Indemnifying Party of any potential claim subject to indemnification hereunder. The Indemnifying Party will assume the defence of the claim through counsel designated by it and reasonably acceptable to the Indemnified Party. The Indemnifying Party will not settle or compromise any claim, or consent to the entry of any judgment, without written consent of the Indemnified Party, which will not be unreasonably withheld. The Indemnified Party will reasonably cooperate with the Indemnifying Party in the defence of a claim, at Indemnifying Party’s expense.
-4. **Insurance**. During the Term and for one (1) year thereafter, each party will maintain Public and Product Liability and, if required by law, Employer’s Liability insurance. The Public and Products Liability insurance policy limits will be not less than one million euro (EUR 1,000,000) combined single limit per occurrence for bodily injury, death and property damage liability, and two million euro (EUR 2,000,000) in aggregate. All policies will be written by reputable insurance companies with a Best’s policyholder rating of not less than A-. Merchant shall not cancel or materially reduce its insurance without thirty (30) days’ prior written notice to Uber. Upon a party’s request, the other party will provide evidence of the insurance required herein. In no event will the limits of any policy be considered as limiting the liability of a party under this Agreement.
-5. **Auditing/Investigations.** During the Term of the Agreement and for a period of 12 months after expiry or termination of it, on:
+8. **Insurance**. During the Term and for one (1) year thereafter, each party will maintain Public and Product Liability and, if required by law, Employer’s Liability insurance. The Public and Products Liability insurance policy limits will be not less than one million euro (EUR 1,000,000) combined single limit per occurrence for bodily injury, death and property damage liability, and two million euro (EUR 2,000,000) in aggregate. All policies will be written by reputable insurance companies with a Best’s policyholder rating of not less than A-. Merchant shall not cancel or materially reduce its insurance without thirty (30) days’ prior written notice to Uber. Upon a party’s request, the other party will provide evidence of the insurance required herein. In no event will the limits of any policy be considered as limiting the liability of a party under this Agreement.
+9. **Auditing/Investigations.** During the Term of the Agreement and for a period of 12 months after expiry or termination of it, on:
     1. an annual basis; and/or
     2. in case of any suspected or actual breach of (a) the Community Guidelines or any other code of conduct applicable to Merchant, (b) the Agreement, or (c) any of Merchant’s obligations under any applicable labour, anti-slavery or anti-bribery and corruption provisions, laws, regulations, guidelines and codes by Merchant or any Representative;
 
@@ -753,21 +759,17 @@ The following terms shall have the following meanings. Capitalized terms not def
 10. **“Uber Data Subject**” means the Data Subject whose Uber Personal Data is, or will be, Processed.
 11. **“Uber Personal Data**” means Uber Data Subject Personal Data that is Processed by Company for the purposes described in **Annex 1** to this Agreement. For purposes of this Agreement, Uber Personal Data does not include the name and contact information of those Uber employees who are responsible for interacting with Company to perform under the Main Agreement, and any Personal Data incidentally received by Company as a result of those interactions.
 12. **GENERAL TERMS**
-    1. **Roles of Parties.** The Parties acknowledge and agree that Uber is Controller of the Uber Personal Data Processed in connection with the Main Agreement[\[1\]](#footnote-0), and that Company is an independent **Controller** of such Personal Data
-    2. **Overview of Uber Personal Data Processing.** Company shall not Process Uber Personal Data other than as indicated in **Annex 1** without the prior written permission of Uber.
-    3. **Cross border transfer. Company warrants that shall not transfer Personal Data of Uber Data Subjects in the EEA,United Kingdom and/or Switzerland to a country or territory outside of those regions.** If Company’s Processing of Personal Data involves the transfer of Personal Data of Uber Data Subjects in the EEA, United Kingdom and/or Switzerland to a country or territory outside of those regions, the parties hereby incorporate, and agree to comply with, the [**Standard Contractual Clauses**](https://eur-lex.europa.eu/eli/dec_impl/2021/914/oj?uri=CELEX%3A32021D0914&locale=en#ntc12-L_2021199EN.01003701-E0012) of June 4, 2021 (“**SCCs**”) approved by the European Commission. In such case:
-        1. Module 1 (Controller to Controller) of the SCCs shall apply.
-        2. The parties will complete Annex 1, and agree to Annex 2, of this Agreement in lieu of the Annexes to the SCCs.
-        3. The competent supervisory authority for purposes of the SCCs is the Dutch Data Protection Authority (_Autoriteit Persoonsgegevens_).
-    4. **Compliance with laws.** Company shall comply with applicable laws, rules, self-regulatory requirements, and regulations, including Data Protection Laws, in connection with its Processing of Uber Personal Data.
-    5. **Limitations and Prohibitions**.
+    1. **Overview of Uber Personal Data Processing.** Company shall not Process Uber Personal Data other than as indicated in **Annex 1** without the prior written permission of Uber.
+    2. **Cross border transfer.** In respect of any Personal Data transferred by Uber or its Affiliates to Merchant, the parties agree that each party (i) is an independent Controller under the Data Protection Laws, (ii) will individually determine the purposes and means of its Processing of Personal Data, (iii) is responsible for its own compliance with applicable Data Protection Laws, including as relates to notifying Data Subjects of its Processing of their Personal Data and how they may exercise their rights, and where applicable obtaining any required consents, and (iv) will not use the Personal Data for any other purposes than agreed herein. Merchant agrees to notify Uber if the transfer of the Persona data by Uber to Merchant constitutes a transfer from within the EEA, UK and Switzerland to a region outside the aforementioned, and agrees to conclude the Standard Contractual Clauses ("SCC") to facilitate such a transfer.
+    3. **Compliance with laws.** Company shall comply with applicable laws, rules, self-regulatory requirements, and regulations, including Data Protection Laws, in connection with its Processing of Uber Personal Data.
+    4. **Limitations and Prohibitions**.
         1. Company shall only Process Uber Personal Data for the purpose of performing its obligations under the Main Agreement, and may not use Uber Personal Data for any other purpose unless otherwise agreed by the Parties in writing.
         2. Company shall (1) limit access to Uber Personal Data to only those employees or agents that require access to perform their roles and responsibilities in connection with the Main Agreement, and (2) under no circumstances rent, sell or disclose Uber Personal Data, except as otherwise allowed under this Agreement or the Main Agreement.
         3. Company will not combine Uber Personal Data with data from any other source, company, organization or entity, unless necessary to perform its obligations under the Main Agreement. Company will not copy or reproduce Uber Personal Data for its own purposes or those of any Sub-processor or other third party.
-    6. **Data Security.** Company will maintain appropriate measures to protect the integrity, security and confidentiality of all Uber Personal Data against any anticipated threats or hazards, and/or unauthorized access to or use of such data, which measures shall include at a minimum those set forth in **Annex 2** to this Agreement.
-    7. **Data Retention and Deletion**
+    5. **Data Security.** Company will maintain appropriate measures to protect the integrity, security and confidentiality of all Uber Personal Data against any anticipated threats or hazards, and/or unauthorized access to or use of such data, which measures shall include at a minimum those set forth in **Annex 2** to this Agreement.
+    6. **Data Retention and Deletion**
         1. Unless otherwise required by law, Company shall, and shall require any Sub-processor to, destroy or return to Uber (at Uber’s election) all Uber Personal Data in its/their possession, custody and control: (a) upon termination or expiration of the Main Agreement; (b) upon the winding down or insolvency of the Company’s business; (c) once no longer necessary to perform its obligations under the Main Agreement; or (d) upon request by Uber. If Company, or any Sub-processor of Company, is prevented from deleting or destroying any Uber Personal Data in these circumstances by applicable law, it shall notify Uber in writing and delete or destroy such Uber Personal Data once it is no longer prevented from doing so by applicable law. At Uber’s request, Company shall provide Uber with a written log evidencing the destruction and any retention of Uber Personal Data. Company cannot meet the requirements of this paragraph by anonymizing or aggregating Uber Personal Data in lieu of destruction or return of such data to Uber.
-    8. **Data Security Incidents**
+    7. **Data Security Incidents**
         1. **Notice to Uber.** Company shall notify Uber within twenty-four (24) hours of discovery of an actual or suspected unauthorized access to, or acquisition or disclosure of, Uber Personal Data, or other actual or suspected breach of security or confidentiality with respect to Uber Personal Data in the possession or control of Company, its representatives, and/or any Sub-processor of Company (a “**Data Security Incident**”). Such notice shall be sent to the Uber persons or team designated to receive notices under the Main Agreement; and (2) via email to [vendorsecurity@uber.com](mailto:vendorsecurity@uber.com).
         2. **Third Party Notices.** If a Data Security Incident requires notice to any regulator, Data Subject or other third party: (1) Company shall assist Uber to provide such notifications if requested by Uber; (2) Uber shall have sole control over the content, timing and method of distribution of any needed notice, unless otherwise required by applicable law; (2) Company may notify the affected parties only upon Uber’s prior written approval and instructions, unless otherwise required by applicable law (in which case Company shall provide Uber with a copy of such notice as soon as possible and in all events prior to providing such notice to any regulator, Data Subject or other third party, unless otherwise required by law); and (3) Company shall reimburse Uber all reasonable expenses incurred by Uber in connection with any notice with respect to any breach of security or confidentiality for which Company is wholly or partially responsible.
         3. **Notice requirements.** The notice to Uber required under Paragraph 1.2.5.1 shall include:
@@ -794,81 +796,7 @@ The following terms shall have the following meanings. Capitalized terms not def
 
 **Annex 1 - Overview of Uber Personal Data Processing**
 
-**A**
-
-**Description of purpose(s) for which Company will Process Uber Personal Data**
-
-Data Importer (Merchant) shall process Data Exporter Personal Data, which shall include (i) name, drop-off location and contact details (including phone number) of the Customers using the Uber Eats App; (ii) any Controller Personal Data to be transferred in accordance with the Specific Supplemental Terms for the Aggregator Method; and (iii) any such Controller Personal Data as Uber deems needed in connection with the delivery services, in each case for the purpose of procuring the delivery of Items to their customers or as otherwise set out in the Agreement.
-
-**B**
-
-**Categories of Data Subjects** 
-
-**Delivery recipients**: individuals who request or receive food, or other products and services via UberEats.
-
-**C**
-
-**Personal Data to be Processed by Company**
-
-| Profile Information - Such as name, contact details (including phone number), and drop-off location |
-| --- |
-| Usage information - Information about an Uber user’s use of Uber’s app(s) or other products or services |
-| --- |
-
-The personal data transferred concern the following categories of sensitive data:
-
-Allergy information, if provided by the user.
-
-**D**
-
-**Frequency of transfer and/or processing**
-
- One-time
-
-X  Repeated
-
-**E**
-
-**Period that Company will retain Uber Personal Data, OR, criteria used to determine retention period**
-
-X Retained for life of Main Agreement
-
-Uber is enabled to delete the Uber Personal Data Processed by Company through a product or service provided by Company
-
-Other (Please state retention period and criteria used to determine it)
-
-Insert text
-
-**F**
-
-**Countr(y)(ies) where Uber Personal Data will be transferred and/or processed**
-
-Insert text
-
-**Annex 2 - Organizational/Administrative, Physical and Technical Measures**
-
-1. **Organizational/Administrative Security Measures:** Company has implemented, and will maintain and update as appropriate throughout its Processing of Uber Personal Data:
-    1. A written and comprehensive information security program in compliance with applicable data protection laws.
-    2. A data loss prevention program that reflects reasonable policies or procedures designed to detect, prevent, and mitigate the risk of data security breaches or identify theft, which shall include at a minimum:
-        1. appropriate policies and technological controls designed to prevent loss of Uber Personal Data; and
-        2. a disaster recovery/business continuity plan that addresses ongoing access, maintenance and storage of Uber Personal Data as well as security needs for back-up sites and alternate communication networks.
-    3. Policies and procedures to limit access to Uber Personal Data to those who require such access to perform their roles and responsibilities in connection with the Main Agreement, including regular updates to such access based on changes to Company’s personnel, policies or procedures.
-    4. Procedures to verify all access rights through effective authentication methods.
-    5. A government agency data access policy that refuses government access to data, except where such access is required by law, or where there is imminent risk of serious harm to individuals.
-    6. Policies and procedures for assessing legal basis for, and responding to, government agency requests for data.
-    7. Specific training of personnel responsible for managing government agency requests for access to data, which may include requirements under applicable Data Protection Laws.
-    8. Processes to document and record government agency requests for data, the response provided, and the government authorities involved.
-    9. Procedures to notify Uber about any request or requirement for government agency access to data, unless legally prohibited.
-2. **Physical Security Measures**
-    1. Company has implemented, and will maintain and update as appropriate throughout its Processing of Uber Personal Data, appropriate physical security measures for any facility used to Process Uber Personal Data and continually monitor any changes to the physical infrastructure, business, and known threats.
-3. **Technical Security Measures:** Company shall throughout its Processing of Uber Personal Data:
-    1. perform vulnerability scanning and assessments on applications and infrastructure used to Process Uber Personal Data.
-    2. secure its computer networks using multiple layers of access controls to protect against unauthorized access.
-    3. restrict access through mechanisms such as, but not limited to, management approvals, robust controls, logging, and monitoring access events and subsequent audits.
-    4. identify computer systems and applications that warrant security event monitoring and logging, and reasonably maintain and analyze log files.
-    5. use up-to-date, industry standard, commercial virus/malware scanning software that identifies malicious code on all of its systems that Process Uber Personal Data.
-    6. encrypt Uber Personal Data in transit.
-    7. encrypt Uber Personal Data at rest and solely manage and secure all encryption keys (i.e. no other third party shall have access to these encryption keys, including Sub-processors).
+In respect of any Personal Data transferred by Uber or its Affiliates to Merchant, the parties agree that each party (i) is an independent Controller under the Data Protection Laws, (ii) will individually determine the purposes and means of its Processing of Personal Data, (iii) is responsible for its own compliance with applicable Data Protection Laws, including as relates to notifying Data Subjects of its Processing of their Personal Data and how they may exercise their rights, and where applicable obtaining any required consents, and (iv) will not use the Personal Data for any other purposes than agreed herein. Merchant agrees to notify Uber if the transfer of the Persona data by Uber to Merchant constitutes a transfer from within the EEA, UK and Switzerland to a region outside the aforementioned, and agrees to conclude the Standard Contractual Clauses ("SCC") to facilitate such a transfer.
 
 **NON-DELIVERY**
 
@@ -879,4 +807,139 @@ The following Specific Supplemental Terms govern the Non-Delivery Method and Ite
     1. Non-Delivery Service Fee. In consideration for the Uber Eats Services in connection with the Non-Delivery Method, Uber Ireland will charge Merchant a Non-Delivery Service Fee in the amount set forth in the Order Form for each Non-Delivery Item sold by Merchant via the Uber Eats App. Uber Ireland will calculate the Non-Delivery Service Fee as follows: the Retail Price of the Item(s) sold by Merchant via the Uber Eats App (including any VAT or other sales tax) (such amount, the "Non-Delivery Item Payment") multiplied by the Non-Delivery Service Fee percentage. The Non-Delivery Service Fee shall be net of any VAT or other sales taxes.
     2. Delivery Services. Non-Delivery Items do not require the involvement of a Courier. As such, for Non-Delivery Items, no delivery services are provided, so there is no Delivery Fee or Delivery Charge.
 
-1. Uber B.V. and Uber Technologies, Inc. are the joint data controllers of the personal data that Uber collects in connection with use of its services, or of its employees, in the European Economic Area or the United Kingdom and Switzerland, and Uber Technologies, Inc. is the data controller for such data everywhere else (except where the data controller for employees is the local Uber entity in the country in which the employee resides). Where an entity other than these enters into this Agreement on behalf of Uber, it is authorized to do so by the aforementioned data controller(s). Uber reserves the right to designate another Uber affiliate as Data Controller for purposes of this Agreement. [↑](#footnote-ref-0)
+**Uber Eats Sponsored Listing Terms**
+=====================================
+
+The following Specific Supplemental Terms (“Sponsored Listing Terms”) govern your ability to use Ads Manager to create Campaign(s) and submit Bid(s) for the opportunity to obtain a Sponsored Listing (as defined below) on the Uber Eats App. All undefined, capitalized terms will have the meaning set forth in the Order Form, the Definitions or the General Supplemental Terms. In the event of any conflict between these Sponsored Listing Terms and the Order Form, the Definitions or the General Supplemental Terms, these Sponsored Listing Terms shall govern as applied to the subject matter herein.
+
+By submitting a Bid you are accepting and agree to be bound by these Sponsored Listing Terms at all times when using the Ads Manager to create Campaigns, submit Bids and in with respect to all Sponsored Listings and Sponsored Listing Fees.
+
+### **1\. Definitions.**
+
+In these Sponsored Listing Terms, the following terms have the respective meanings given to them below:
+
+**“Ads Manager”** means Uber’s proprietary, automated, self-service tool located within the Uber Tools, used to create Bids;
+
+**“Bid”** means an offer by you for a Sponsored Listing, subject to your Campaign Budget constraints;
+
+"**Brand Matter**" means an event that, in Uber’s reasonable judgement, would jeopardise the ability of the Merchant to comply with or perform the Merchant Agreement or these Sponsored Listing Terms, or prejudice the goodwill or reputation of Uber or its Affiliates, including, but not limited to, matters related to the alleged violation of the Community Guidelines or any Applicable Laws.
+
+“**Campaign**” means a sustained period of time for which you agree in advance to make Bids;
+
+“**Campaign Period**” means the length of time for which your Sponsored Listing appears;
+
+“**Campaign Budget**” means the amount authorised by you to spend on Sponsored Listing Fees;
+
+“**Sponsored Listing**” means a placement on the Uber Eats App which: (a) subject to Uber’s discretion, will include some indicator to customers that the placement was purchased by you, such as a tag such as “promoted” or “sponsored”; (b) will appear in the Uber Eats App (and may appear on the Uber Eats website) in a placement determined by Uber, or otherwise selected by you in your Bid submission; and (c) will be assembled and formatted based on the content provided in accordance with your Merchant Agreement.
+
+“**Sponsored Listing Fee**” means an amount based on the actual number of clicks on your Sponsored Listing at the rate determined by Uber for each placement;
+
+**“Uber Ads Representative”** means an Uber representative who you authorise to make the changes described in these Sponsored Listing Terms. For the avoidance of doubt, any Uber representative whom you instruct to make these changes shall be deemed authorised;
+
+### **2\. Sponsored Listings.**
+
+Subject to these Sponsored Listing Terms, Uber authorises Merchant to submit Bids. A detailed explanation of how Sponsored Listings work, including information on placement, and the auction and selection process, can be found at https://restaurants.ubereats.com/sponsored-listings/. A selected Sponsored Listing will be placed on the Uber Eats App. For clarity, a Sponsored Listing may be posted anytime after it is selected and will continue to appear until the Campaign Budget is exhausted, until Uber removes it for any reason permitted by these Sponsored Listing Terms, or until you end the campaign in accordance with Section 6.
+
+### **3\. Creating Campaigns.**
+
+When you use the Ads Manager or instruct an Uber Ads Representative to create a Bid on your behalf, you authorise Uber to assemble and format Sponsored Listings based on the content provided in accordance with your Merchant Agreement. Uber may, in its sole discretion, limit access to the Ads Manager, restrict the merchants or categories of merchants who can create Sponsored Listings, limit the number of Sponsored Listings you can create at a given time, and limit the availability of any or all of the Sponsored Listings (for example, to listings from certain categories or containing certain attributes). By placing a Bid, you acknowledge that you may or may not obtain a Sponsored Listing. You acknowledge that each Bid submitted is placed in an auction; submission of a Bid does not guarantee a Sponsored Listing.
+
+**_a._** **_Uber created Bids._** If you have an Uber Ads Representative, and have agreed in writing that such Uber Ads Representative may place Bids on your behalf, you agree to provide authorisation in advance to such representatives before any Bids are placed, indicating that you wish to create Sponsored Listings, your weekly budget for each Merchant location, and any other supported criteria.
+
+**_b. Self-Serve Ads Manager._** You agree to only use and access such Ads Manager within its functionality and technical capability, recognise that such tool is proprietary to Uber and will not circumvent or otherwise exploit the tool in such a way that is not intended. For clarity, the rights and obligations in the Merchant Agreement relating to Uber Tools shall apply to Ads Manager.
+
+**_c. Authorisation of Spending._** Upon submission of a Bid, you agree that you will be obligated to spend up to your authorised Campaign Budget amount if your Bid is selected. Uber will use commercially reasonable efforts to ensure your Campaign Budget is not exceeded.
+
+**_d. Content for Sponsored Listings._** The content included in the Sponsored Listing will be the Merchant Marketing Materials provided under the Merchant Agreement, or other videos, still images or materials provided by Merchant to Uber and used in connection with the display of Merchant’s Items on the Uber Eats App (“**Merchant Material**”). You are responsible for ensuring that the Merchant Material complies with all Applicable Laws and applicable advertising codes and guidance. Uber reserves the right to remove any Sponsored Listing if it reasonably believes the Merchant Material breaches the terms of the Merchant Agreement or may cause a Brand Matter. Uber will determine the size, placement, and positioning of your Sponsored Listings and you acknowledge that any Sponsored Listings shown in preview or surfaced prior may be changed in Uber’s sole discretion.
+
+### **4\. Your Responsibilities.**
+
+You will be solely responsible for the payment of the Sponsored Listing Fees, whether such Bid was submitted by you or another Representative. Notwithstanding anything to the contrary in the Merchant Agreement, in the event of a termination of these Sponsored Listing Terms in accordance with Section 7 or the end of a Campaign, you agree that you will be obligated to pay the Sponsored Listing Fees up until the end of the Campaign or the effective date of termination of these Sponsored Listing Terms. You agree to limit access to Ads Manager to validated and authorised Representatives or anyone else acting on your behalf. You acknowledge that you are solely responsible for your Representatives and their actions in connection with their use of Ads Manager. You will ensure that your Representatives comply with all restrictions applicable to you under these Sponsored Listing Terms and all applicable third-party rights, laws, rules and regulations.
+
+### **5\. Uber Responsibilities.**
+
+Uber will provide you with reasonable information, no later than the end of the month in which the Sponsored Listing appears, regarding your Sponsored Listing(s), which will include your Sponsored Listing Fees, associated performance metrics and any other information required by Applicable Laws. Subject to the functionality of the Ads Manager, Uber may, in its sole discretion, provide enhanced promotional placement or other visual treatment for the Sponsored Listings. Merchant acknowledges that the time period of the Sponsored Listing may vary due to a number of factors including Merchant’s Campaign Budget as authorised in an applicable Bid, parameters set by Uber in our sole discretion and the Ads Manager functionality.
+
+### **6\. Fees.**
+
+Sponsored Listing Fees are exclusive of any VAT or other sales taxes. If applicable, VAT and/or other sales taxes shall be charged and collected in the same manner as Sponsored Listing Fees. Uber may charge different rates for different placements of a Sponsored Listing upon notice to you. For clarity, you won’t be charged a fee for access to the Ads Manager or for placing a Sponsored Listing via an Uber Ads Representative.
+
+**_a. Invoicing and Payment Schedule._**
+
+Uber will charge the Sponsored Listing Fees to you. You agree that unless otherwise agreed in writing, Uber or its affiliates will deduct the Sponsored Listing Fees from any payment due to you, such as a deduction from the remittance of Item Revenue collected on each Merchant’s behalf. Further, we may continue to deduct such Sponsored Listing Fees from following weekly payouts until such time when the Sponsored Listing Fees are paid in full. If agreed by Uber in writing, Uber may invoice you in arrears for the amount of the Sponsored Listing Fees, which shall be due and payable within thirty (30) days of your receipt of such invoice. In both instances, collection of the Sponsored Listing Fee will take place after placement of a Sponsored Listing. Subject to the foregoing, Uber reserves the right to set a maximum spend threshold or suspend your access to the Ads Manager until the Sponsored Listing Fees are paid in full. Uber reserves the right to offer credits and/or discounts to fully or partially fund the Sponsored Listing Fees, which may be subject to a limited time period or other restrictions, at Uber’s sole discretion. Uber and affiliates further reserve the right to collect Sponsored Listing Fees by debiting the payment method or your bank account on record, or otherwise seeking reimbursement from you by any lawful collection methods available. Any disputes about Sponsored Listing Fees must be submitted to Uber in writing within 14 days of the date you incurred such charge, otherwise you waive such dispute and such charge will be final and not subject to challenge.
+
+**_b. Charged per Click._** 
+
+Based on the budget defined in your Bid submission, Uber will calculate your Sponsored Listing Fees based on the price per click. Sponsored Listing Fees are determined at the rate in effect for a particular Sponsored Listing at the time it is clicked. You understand that third parties may generate impressions or clicks on your Sponsored Listing for unintended purposes and you acknowledge and agree that you may still be charged for such clicks. See https://restaurants.ubereats.com/sponsored-listings/ for more information on the auction and bidding process.
+
+### **7\. Termination.**
+
+You may cancel a Bid at any time, provided, however, that your Sponsored Listing(s) may run up to 3 business days after such cancellation. You will be responsible for the Sponsored Listing Fees until the Bid is cancelled. Upon cancellation, these Sponsored Listing Terms shall automatically terminate, provided, however, termination of these Sponsored Listing Terms will not result in termination of the Agreement unless the party terminating these Sponsored Listing Terms also terminates the Agreement in accordance with its terms. Termination of the Agreement will automatically result in termination of these Sponsored Listing Terms. Notwithstanding the foregoing, the termination of these Sponsored Listing Terms or the Agreement will not relieve either party of its pre-existing obligations hereunder.
+
+### **8\. Data.**
+
+Uber shall grant you a limited, exclusive, revocable, license to certain data for free and aggregated reporting related to such Sponsored Listings. Such license shall expire upon termination of these Sponsored Listing Terms or any superseding terms. You will undertake reasonable commercial and technological efforts to prevent unauthorised access or copying of such data by third parties and you will protect, and prevent, such aggregated and anonymised data from being attributed to individual users of the Uber Tools by yourself or third parties. You agree that Uber may share Uber Data with third-party service providers for the purposes of providing Sponsored Listings. In case Uber Data is also considered Merchant’s Personal Data in accordance with Applicable Laws, the information provided in, and the rights afforded under, Uber’s privacy notice shall supersede this paragraph in case of a conflict.
+
+### **9\. Feedback.**
+
+You understand and acknowledge that the form and function of the Ads Manager may change at any time in Uber’s sole discretion. You understand and agree that you may voluntarily provide and/or submit to Uber Feedback, during the Sponsored Listing, and the terms of the Merchant Agreement shall apply to such Feedback.
+
+### **10\. Testing.**
+
+You authorise Uber to periodically conduct non-material tests that may affect your access to or use of the Ads Manager, as well as your ability to surface Sponsored Listings. These tests may include, but are not limited to, changes in formatting, or placement of Sponsored Listings. Uber will provide you with at least 15 days’ notice of any testing which may have a material impact on the performance of your Sponsored Listing. In any case, you shall only pay on a per click basis for your Sponsored Listing (as described in Section 5(a) above).
+
+### **11\. Confidentiality.**
+
+For the avoidance of doubt, all elements, including any design features and components offered and displayed (whether orally, visually, or in writing) of the Uber Eats Sponsored Listing program, including the existence and structure of the Uber Eats Sponsored Listing program, are confidential and should be handled in accordance with the confidentiality obligations in the Merchant Agreement.
+
+### **12\. Disclaimer.**
+
+Except for the express warranties stated herein, neither party makes, and each party expressly disclaims, all representations and warranties, express, implied, statutory or otherwise, with respect to the subject matter of these Sponsored Listing Terms. Without limiting the generality of the foregoing, Uber makes no representation or warranty as to the benefit that Merchant will obtain from the Sponsored Listings. Moreover, Uber does not represent or warrant that the Ads Manager will be error-free, always available or operate without loss or corruption of data or technical malfunction.
+
+### **13\. Other.**
+
+These Sponsored Listing Terms may be superseded and replaced by subsequent terms and conditions located at: [https://www.uber.com/legal/en/](https://www.uber.com/legal/en/) or in the Ads Manager, upon 15 days’ written or electronic notice by Uber. By continuing to submit Bids after the notice period, you agree to be bound by any subsequent terms and conditions relating to the activities described in these Sponsored Listing Terms. Uber reserves the right, at any time, temporarily or permanently, in whole or in part, to modify, suspend or discontinue the Ads Manager or the ability for Merchant to place Bids, with or without notice. You agree that neither Uber nor any of its affiliates shall be liable to you (or to any third party) for any modification, suspension or discontinuance of the Ads Manager or providing you with the ability to place Bids. Each party acknowledges that the arrangements contemplated hereby are non-exclusive and nothing herein shall be deemed to restrict or limit Uber's ability to engage in similar relationships, agreements or arrangements with any other party. Except as specifically amended by these Sponsored Listing Terms, the terms and conditions of the Merchant Agreement and any amendments thereto shall remain in full force and effect.
+
+### **Uber Promotion Tools Terms and Conditions**
+
+The following Specific Supplemental Terms (“Promotion Terms”) allow you to use Uber's Offer Tools to feature short-term promotions that are designed and fulfilled by you to potentially stimulate customer demand. These Promotion Terms describe the requirements that apply to the Offer Tools and the circumstances in which you can choose to use the Offer Tools. All undefined, capitalized terms will have the meaning set forth in the Order Form, the Definitions or the General Supplemental Terms.
+
+#### **1\. Merchant Offers Program and Offers.**
+
+Subject to these Promotion Terms, Uber hereby authorizes Merchant to use Uber’s proprietary, automated tools (“Offer Tools”) to feature short-term Merchant offers that are designed and fulfilled by the Merchant to stimulate customer demand, including, by way of example, the provision of discounts and special offers through the Uber Eats App (each such offer hereafter an “Offer”). Merchant authorizes Uber to use automated tools to feature Offers within the Uber Eats App. Unless otherwise specified by Uber, Merchant will be solely responsible for defining each Offer (within the scope of functionality provided by the Offer Tools), including, without limitation, the start date, end date, and budget for each Offer, but each Offer will be subject to Uber’s prior written approval. Merchant is responsible for providing to Uber, at the Merchant’s sole cost and expense, all Offer Materials within deadlines specified by Uber for such to be reproduced for the fulfillment of the Offer. Uber may, at its sole discretion, provide enhanced promotional placement or other visual treatment for an Offer through the start and end date identified by Merchant. Merchant acknowledges that the time period of enhanced promotional placement for an Offer may be subject to a number of factors, including but not limited to Merchant’s budget for such Offer, the start and end date for an Offer identified by Merchant, and Uber Eats App functionality.
+
+#### **2\. Your Responsibilities.**
+
+Merchant is the promoter of each Offer. You are solely responsible for fulfilling the terms of each Offer provided by you to your customers, and you are likewise solely responsible for providing and enforcing terms, conditions, or other rules for your customers governing each Offer. You represent and warrant that you will run your Offers in accordance with all Applicable Laws and that you have all necessary authority, rights, licenses, consents and permissions to run your Offers (including, without limitation, the rights to provide the Offer Materials to Uber). You will not use the Offers to make charitable donations. When providing any Offer (and using the Offer Tools), you agree that you are subject to any additional guidelines, rules, and terms and conditions posted by Uber, which are hereby incorporated by reference into these Promotion Terms.
+
+#### **3\. Reporting and Offer Costs.**
+
+Uber will use good faith efforts to provide you with reasonable information regarding your Offers, which may include, without limitation, the amount you have spent on each Offer (“Offer Costs”) and the number of Items sold in connection with each Offer. Uber, in its sole discretion, may highlight Offers and/or the results of Offers in Uber Eats Marketing Materials.
+
+#### **4\. Fees.**
+
+In consideration for Merchant’s efforts in running an Offer and stimulating customer demand and user traction through the Uber Eats App, Merchant shall charge Uber a promotional services fee (the “Promotional Fee”) in the amount separately agreed upon for the relevant Offer.
+
+For Items where an Offer has been applied as a discount to the Retail Price of the Item, Uber will charge you a Service Fee based on the sum of the discounted Retail Price and the Promotional Fee. If the Offer consists of a discount on the Marketplace or Aggregator Delivery Charge, the Service Fee will be calculated as described in your Agreement and will not change. You acknowledge that you are solely responsible for Offer Costs and that Uber may deduct Offer Costs from your Item Revenue.
+
+#### **5\. Self-billing.**
+
+You hereby grant a mandate to Uber to issue invoices/credit notes to itself for any Promotional Fees charged by you under this agreement (“Self-billed Invoices”). Uber hereby accepts the mandate granted by you, provided that you have completed your invoice settings on Restaurant Manager and have provided all information required for the accurate calculation and preparation of the Self-billed Invoices. All Self-billed Invoices will be issued in PDF format only (unless otherwise required by Applicable Law) and can be accessed and downloaded from Restaurant Manager. No Self-billed Invoices will be issued or sent in paper format. You agree to store and archive the Self-billed Invoices in accordance with Applicable Law.
+
+You agree to keep your invoice settings up to date and agree to notify Uber immediately if you change your VAT registration number and/or update your VAT registration status.
+
+You may dispute any Self-billed Invoice issued by Uber within a period not exceeding seven (7) days from the issuance date of such Self-billed Invoice. If no such dispute is raised during this seven day period, you are deemed to have validated the relevant Self-billed Invoice.
+
+You hereby agree not to issue any other invoices for the Promotional Fee set out in this agreement.
+
+#### **6\. Indemnity.**
+
+Merchant shall indemnify Uber, its subsidiaries and affiliates and their respective directors, officers, employees and agents (the “Uber Parties”) against all liabilities, costs, expenses, damages and losses (including but not limited to any interest, penalties and legal costs (calculated on a full indemnity basis and all other professional costs and expenses) suffered or incurred by the Uber Parties arising out of or in connection with: (a) any third party claim for actual or alleged infringement of a third party’s intellectual property or other proprietary rights arising out of or in connection with any Offer run by the Merchant and use of the Offer Materials; and (b) any third party claim arising out of or in connection with the manufacture, production, distribution, handling, advertising, consumption or use of, or otherwise relating to, any Offer run by the Merchant, whether or not any claim arises during the Term of the Agreement. For the avoidance of doubt, any approval by an Uber Party of any Offer or use of Offer Materials shall not affect this right of indemnification.
+
+#### **7\. Other.**
+
+Uber may amend these Promotion Terms from time to time in its sole discretion, and such amendments will be effective thirty (30) days after Uber’s posting of an updated Promotion Terms at [www.uber.com](http://www.uber.com/) or such updated Promotion Terms otherwise being made available to Merchant by Uber, including, for example, through Restaurant Manager. Merchant’s continued use of the Offer Tools after such updated Promotion Terms become effective constitutes Merchant’s consent to be bound by the updated Promotion Terms. Merchant has the right to terminate the Promotion Terms in the event that Merchant disagrees with the amendments made in any updated Promotion Terms. Uber reserves the right, at any time, temporarily or permanently, in whole or in part, to modify, suspend or discontinue the Offer Tools or the ability for Merchant to provide Offers, with or without notice. You agree that neither Uber nor any of its affiliates shall be liable to you (or to any third party) for the Offer or the Offer Tools, including for any modification, suspension or discontinuance of the Offer or the Offer Tools or providing Merchant with the ability to provide Offers. Except as specifically amended by the Promotion Terms, the terms and conditions of the Agreement and any amendments thereto shall remain in full force and effect.
+
+### **User Generated Content Terms and Conditions**
+
+Merchant shall comply with the User Generated Content Terms and Conditions set out [here](https://www.uber.com/legal/en/document/?name=user-generated-content-policy&country=republic-of-ireland&lang=en).
