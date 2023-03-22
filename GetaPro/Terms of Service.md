@@ -16,14 +16,11 @@ Lietojot Servisu Vietnē, Lietotājs piekrīt visiem šajā dokumentā minētaji
 * "Lietotājs" - jebkura persona, kura tiešā vai netiešā veidā izmanto Servisu.
 * "Serviss" - jebkura procedūra vai pakalpojums, nodrošināts Vietnes Lietotājiem, kas iekļauj, bet neaprobežojas ar informāciju, pakalpojumiem un produktiem, piedāvātiem Vietnē, telefoniski vai ar e-pasta palīdzību.
 * "Izpildītājs" - jebkura fiziskā vai juridiskā persona, piereģistrēta Vietnē ar mērķi piedāvāt savus pakalpojumus un saņemt Pasūtījumus no Pasūtītājiem.
-* “Rēķins” ir elektronisks rēķins par izpildītāja pakalpojumiem Pasūtījuma izpildei, ko Izpildītājs ģenerējis Vietnē.
 * "Vienošanās par pakalpojumu sniegšanu" – jebkura vienošanās, panākta starp Izpildītāju un Pasūtītāju par pakalpojumiem, kuri tiks veikti. Vienošanās par pakalpojumu sniegšanu var būt panākta mutiski, telefoniski, izmantojot īsziņas (SMS), caur e-pasta saraksti, ar rakstisku iesniegumu vai līgumu.
 * "Saturs" - jebkuras publikācijas, ziņojumi, teksti, faili, grafiskie attēli, fotogrāfijas, videomateriāli, skaņu ieraksti un citi datu materiāli.
 * "Lietotāja vārds" - Lietotāja e-pasta adrese, kuru viņš izvēlējās reģistrējoties un izmanto to, lietojot Vietni. Vienam un tam pašam Lietotājam aizliegts reģistrēt un izmantot vairākus Lietotāja vārdus
 * "Parole" - ar Lietotāju izvēlēta simbolu, burtu un ciparu kombinācija, kas kopā ar Lietotāja vārdu nodrošina viņa identifikāciju, lietojot Vietni.
-* "Piesaistīta maksājumu karte" - Izpildītāja debeta vai kredīta maksājumu karte, kas ir piesaistīta Izpildītāja profilam Vietnē, lai veiktu automātiskus.
 * "Bonuss" - papildus maksājuma līdzekļi, ko Uzņēmums izsniedz Izpildītājam. Bonuss var tikt izmantots tikai Abonementa apmaksai. Bonuss nevar tikt izņemts no Virtuālā naudas maka reālas naudas veidā.
-* "Budžets" - Pasūtītāja piedāvāto un pasūtījumā norādīto Izpildītāja pakalpojumu/darba izmaksas.
 * "Abonements" - pakalpojumu kopums, ko Uzņēmums sniedz Izpildītājam noteiktā laika periodā par abonementa maksu.
 
 ### Regulējošā likumdošana un jurisdikcija
@@ -83,8 +80,6 @@ Strīdu gadījumā starp Lietotājiem, Lietotājs atbrīvo GetaPro, to valdes lo
 ### Reģistrācija, pasūtījumu un piedāvājumu veidošana, atsauksmes
 
 Lai kļūtu par Pasūtītāju vai Izpildītāju, Lietotājam nepieciešams piereģistrēties (izveidot kontu). Izpildītājām arī jāaizpilda visi lauki “Mani dati” izvēlnē, lai izveidotu personīgo profilu un galīgo uzskaites ierakstu.
-
-Biznesa Pasūtītājam jānorāda tās juridiskās personas reģistrācijas numurs, kuras vārdā viņš veido Biznesa pasūtījumu, kā arī bankas konta numurs no kura tiks veikts maksājums par pakalpojumiem. Biznesa izpildītājam jānorāda juridiskās personas reģistrācijas numurs vai fiziskās personas personas kods, kuras vārda tiek veikta saimnieciskā darbība un sniedz savus pakalpojumus Vietnē, kā arī bankas konta numurs uz kuru tiks veikts maksājums par izpildītiem Biznesa pasūtījumiem.
 
 Lietotāji ir atbildīgi par sava profila saturu, kā arī par tā informācijas precizitāti un likumību.
 
