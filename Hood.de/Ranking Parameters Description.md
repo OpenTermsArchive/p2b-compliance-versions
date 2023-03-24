@@ -50,7 +50,6 @@ Bitte beachten Sie, dass nicht alle Faktoren in derselben Gewichtung Einfluss au
 * [Checkliste zum Start](https://www.hood.de/tips/1060/checkliste-zum-start.htm)
 * [Die 5 wichtigsten Fragen zum Start](https://www.hood.de/tips/1536/die-5-wichtigsten-fragen-zum-start.htm)
 * [Ihre Anbieterinformationen](https://www.hood.de/tips/1573/ihre-anbieterinformationen.htm)
-* [Zahlungsarten auswählen & einsetzen](https://www.hood.de/tips/1538/zahlungsarten-auswaehlen-einsetzen.htm)
 * [Versandkosten & Lieferzeiten](https://www.hood.de/tips/1537/versandkosten-lieferzeiten.htm)
 * [Ihr Shop-Auftritt](https://www.hood.de/tips/1531/ihr-shop-auftritt.htm)
 * [Produkt-Präsentation & Aufbereitung für Suchmaschinen](https://www.hood.de/tips/1532/produkt-praesentation-aufbereitung-fuer-suchmaschinen.htm)
