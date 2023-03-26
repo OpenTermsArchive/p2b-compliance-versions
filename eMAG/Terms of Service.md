@@ -170,7 +170,7 @@ Pentru motive justificate eMAG isi rezerva dreptul de a restrictiona accesul Uti
 6.7.3. pentru Comenzile achitate ramburs / cu numerar in showroom -> prin restituire numerar in showroom, prin restituirea contravalorii produsului in contul bancar transmis de client sau prin generarea unui voucher cu valoarea produsului returnat.  
 6.7.4. pentru Comenzile achitate prin credit de consum -> anulare/recalculare contract rate.
 
-6.7.5 pentru Comenzile achitate prin metodele de plata “Plateste peste 30 zile” si “Plateste in 4 rate”à trimitere
+6.7.5pentru Comenzile achitate prin metodele de plata “Plateste peste 30 zile”, “Plateste in 4 rate” si “12 rate” -> reintregirea limitei My Wallet, iar pentru sumele deja achitatii banii vor fi restituiti in contul cardului cu care s-a efectuat plata.
 
 6.8. Vanzatorul va putea amana rambursarea sumei pana la primirea Bunurilor vandute sau pana la primirea unei dovezi conform careia acestea au fost expediate, in cazul in care nu s-a oferit sa recupereze el insusi Bunurile (se va lua data cea mai recenta).
 
@@ -204,15 +204,15 @@ Orice diminuare a valorii Bunurilor rezultata din manipularea acestora altele de
 * **“stoc epuizat”**– Bunul nu mai este disponibil in stocul eMAG
 * **“momentan indisponibil”**– momentan nu putem procura Bunul pentru ca nu se gaseste in stocul furnizorului.
 
-**6.12. Plasarea unei comenzi prin metodele de plata “Plateste peste 30 zile” si “Plateste in 4 rate”**
+**6.12. Plasarea unei comenzi prin metodele de plata “Plateste peste 30 zile”, “Plateste in 4 rate” si “12 rate”**
 
-6.12.1  Metodele de plata “Plateste peste 30 zile si “Plateste in 4 rate” sunt disponibile Cumparatorilor in website-ul [www.emag.ro](https://eur02.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.emag.ro%2F&data=04%7C01%7Cdan.pandrea%40emag.ro%7C71b336499202452fecdb08d9a41a8333%7Cf7d794a605d04b7388a518dce1d0e695%7C0%7C0%7C637721256168464654%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=R8LTSU2rPdBOZxRubhoWQrdfvlLEogPYGR5rcGJEdX8%3D&reserved=0), m.emag.ro sau în aplicaţia eMAG si va fi afisata numai Comenzilor si Cumparatorilor eligibili;
+6.12.1  Metodele de plata “Plateste peste 30 zile, “Plateste in 4 rate” si “12 rate” sunt disponibile Cumparatorilor in website-ul [www.emag.ro](https://eur02.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.emag.ro%2F&data=04%7C01%7Cdan.pandrea%40emag.ro%7C71b336499202452fecdb08d9a41a8333%7Cf7d794a605d04b7388a518dce1d0e695%7C0%7C0%7C637721256168464654%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=R8LTSU2rPdBOZxRubhoWQrdfvlLEogPYGR5rcGJEdX8%3D&reserved=0), m.emag.ro sau în aplicaţia eMAG si va fi afisata numai Comenzilor si Cumparatorilor eligibili;
 
 6.12.2 Pentru a putea plasa comanda cu aceasta metoda de plata, Cumparatorul trebuie sa aleaga sa efectueze plata cu un card bancar deja salvat in contul de client accesibil pentru plata Pay by click, card bancar emis pe numele Cumparatorului (detinator al contului de client), a carei data de expirare sa fie ulterior lunii achitarii integrale a comenzii efectuate utilizand aceasta metoda de plata.
 
-6.12.3 Cumparatorul nu va avea disponibila optiunea de stergere a cardului salvat in Cont si selectat la plasarea comenzii cu metodele de plata “Plateste peste 30 zile” si Plateste peste in 4 rate” pana la efectuarea platii respectivei Comenzi.
+6.12.3 Cumparatorul nu va avea disponibila optiunea de stergere a cardului salvat in Cont si selectat la plasarea comenzii cu metodele de plata “Plateste peste 30 zile”, “Plateste peste in 4 rate” si “12 rate” pana la efectuarea platii respectivei Comenzi.
 
-6.12.4 Metodele de plata presupun plata la scadenta comunicata de catre PayU, prin debitarea automata a cardului selectat la plasarea Comenzii. Informatii cu privire la aceste doua metode de plata se regasesc in termeni si conditii PayU precum si in contractul de credit, documente afisate afisate la selectarea oricarei dintre cele doua metode de plata.
+6.12.4 Metodele de plata presupun plata la scadenta comunicata de catre PayU, prin debitarea automata a cardului selectat la plasarea Comenzii. Informatii cu privire la aceste trei metode de plata se regasesc in termeni si conditii PayU precum si in contractul de credit, documente afisate afisate la selectarea oricarei dintre aceste metode de plata.
 
 6.12.5 Categoriile de Bunuri eligibile exclud Bunurile din urmatoarele categorii: Bijuterii, drone si accesorii, card cadou, serviciul de montaj, licente, cartele prepay, reincarcare-cartele-prepay-online, asigurari, Jocuri Consola & PC, Software.
 
