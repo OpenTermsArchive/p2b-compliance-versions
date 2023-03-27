@@ -1,27 +1,15 @@
-Fairbnb.coop – TERMS OF USE v1.9
-================================
+Fairbnb.coop – TERMS OF USE
+===========================
 
 Dear User,
 
-Fair Bnb Network Società Cooperativa, with its registered offices in Bologna, via Alfredo Calzoni 1-3, CF: 03735181202 is the owner of the web platform Fairbnb.coop (below identified as “Fairbnb.coop”).
+Fair Bnb Network Società Cooperativa, with its registered offices in Bologna, via Camillo Casarini 19, CF: 03735181202 is the owner of the web platform Fairbnb.coop (below identified as “Fairbnb.coop”).
 
-The aim of the platform is to develop the project and the community to allow hosts and guests to connect for meaningful travel and cultural exchange while minimizing the negative effects on communities.
+The platform offers tourism booking services between registered users as travellers (guests) and property owners (hosts) facilitating a sustainable tourism experience and creating a redistributive effect in favour of local communities through the direct donation of selected social projects.  
 
-The project is intended to maximize the potentiality of platform cooperativism aimed at defining organizational models alternative to current profit businesses, by focusing on peer-to-peer cooperation models.
+You may cancel your account at any time or download your current data by selecting the specific option through the control panel or sending an email to [privacy@fairbnb.coop](mailto:privacy@fairbnb.coop).
 
-**This is still a beta version of the final platform**, but it offers already:
-
-**to all visitors**, the possibility to browse the website and use the search engine to look for possible listings and booking availability in the cities where Fair BnB Network is already active.
-
-**to guests,** the possibility to register their user accounts, to browse the available listings, through our search engine, and choose the best locations available for travelling. Registered users are entitled to form short rental contracts based on the proposals made by the hosts. Guests pay hosts by using the platform’s service and agree to apply, in their rental agreement, the cancellation policies provided by these terms: also they are entitled to select social projects to be financed by direct donation. Is now available an additional relevant service, the Protect Insurance, that allows the guests to have a full refund in case of booking cancellation, according to the provisions set in this terms of use.
-
-**to hosts**, the possibility to insert short-term rental listings to be matched with interested guests. Hosts will receive the payments made by the guests through the platform’s service. Also an optional cleaning fee could be added to the rent in the listing panel.
-
-**New features and destinations will be added constantly to provide growing user experience for registered users**, according to Fairbnb.coop platform cooperativism project.
-
-You may cancel your registration at any time by sending an email to info@Fairbnb.coop and also you may consider our privacy policy statement for data processing issues.
-
-**Effective as of September 10th 2020. Version 1.9**
+**Last update – 27th of March 2023. Version 1.95**
 
 This document is also quoted in the below legal text as “terms”.  
 These Terms represent a basic agreement between the User and Fair Bnb Network società cooperativa (shown below also as Fairbnb.coop), as Fairbnb.coop platform owner.
@@ -33,7 +21,7 @@ SECTION 1 – BASIC ACCOUNT
 
 ### 1\. Registration to Fairbnb.coop website – User Profile
 
-By registering through the form on the website, the User inserts name, surname and email address in order to be identified and to access his/her own account on Fairbnb.coop.
+By registering through the form on the website, the User inserts name, surname, date of birth (to register the user has to be an adult), the nation of residence, email and password in order to be identified and to access his/her own account on Fairbnb.coop.
 
 Registration could be facilitated also by using external providers such as Google and Facebook.
 
@@ -63,7 +51,7 @@ Such a list is intended only to facilitate interaction between guests and hosts 
 
 ### 4\. Short-term rental Platform Services
 
-Once the listing is displayed, the guest may click on the “request booking” button to send his/her short term rental proposal to the host, according to the terms provided by the listing and these terms of use.
+Once the listing is displayed, the guest may click on the “book now” button to send his/her short term rental proposal to the host, according to the terms provided by the listing and these terms of use.
 
 The platform facilitates the exchange of contractual consents between the parties using point & click system and confirms that by sending transactional emails: if the host accepts the request by the guest (booking confirmation), the acceptance is communicated on behalf of the host by the platform through email: as soon as the guest receives such the acceptance communication this implies the agreement formation and represents the commitment of the parties to comply with it.
 
@@ -77,65 +65,82 @@ In any case, the parties are required to comply with the provisions of these ter
 
 ### 5\. Social Project
 
-By clicking on the “request booking” button, the guest user is allowed also to select a specific social project that will be financed, in case the rental contract is formed, with a donation to the legal entity in charge of such a project.
+By clicking on the “book now” button, the guest user is allowed also to select a specific social project that will be financed, in case the rental contract is formed, with a donation to the legal entity in charge of such a project.
 
 The amount of the donation to the social project is the same as the service fee set by Fairbnb.coop, today the 7,5% of the rent.
 
 Donation to a specific social project is mandatory to access the platform’s service because it represents one of the most relevant instrument for Fairbnb.coop to pursue its goals.
 
-### 6\. Cancellation Policies & REFUNDABLE BOOKING
+### 6\. Cancellation Policies
 
-By accepting these terms Users agree to include, in the short term rental agreement that they form through the platform, the cancellation policy provided by this article.
+Fairbnb allows Hosts to include pre-set Cancellation Policies (hereinafter referred to as “CP”) in their short-term rental agreements with Guests . CP are clauses aimed at protecting users from possible unexpected events or changes that require the termination of the rental agreement before the original check-in date.
 
-The Guest is entitled to terminate the agreement, by cancelling the requested booking any time but the following refund policies apply:
+The protection enables Guests to legally terminate the short-term rental agreement and get a partial or full refund of the total amount paid by the Guest for the booking. The total amount paid by the Guest includes the rental fee of the property, a donation fee to a local community project, and a Fairbnb platform fee.
 
-#### 1\. REFUNDABLE BOOKING (optional and alternative to basic cancellation policy).
+Four different cancellation policies are available for Hosts to choose from and to apply to their listings. CP can be selected when a listing is created and modified any time after the listing has been published. However, once a booking request has been accepted by the Host, the CP chosen for the listing at the time of booking will be applied to the rental agreement and cannot be modified for that booking.
 
-**Fairbnb.coop provides the innovative “REFUNDABLE BOOKING” administered by Refund Protect, in partnership with Event Protect Limited (aka Protect Group).**
+Our CP clauses are:
 
-While completing the booking request, the Guest is entitled to select the REFUNDABLE BOOKING option. This will imply an additional charge as set in article 7.
+1. **Flex**:  
+    Guest-initiated cancellation:
+    * Within 2 days before check-in: No refund
+    * Between 3 and 7 days before check-in: 50% of rent refunded (donation and platform fee not refunded)
+    * Up to 8 days before check-in: 100% of the overall amount refunded
+2. **Moderate**:  
+    Guest-initiated cancellation:
+    * Within 2 days before check-in: No refund
+    * Between 3 and 15 days before check-in: 50% of rent refunded (donation and platform fee not refunded)
+    * Up to 16 days before check-in: 100% of the overall amount refunded
+3. **Standard**:  
+    Guest-initiated cancellation:
+    * Within 7 days before check-in: No refund
+    * Between 8 and 30 days before check-in: 50% of rent refunded (donation and platform fee not refunded)
+    * Up to 31 days before check-in: 100% of the overall amount refunded
+4. **Long Stay**:  
+    Guest-initiated cancellation:
+    * Within 30 days before check-in: No refund
+    * Between 31 and 60 days before check-in: 50% of rent refunded (donation and platform fee not refunded)
+    * Up to 61 days before check-in: 100% of the overall amount refunded
 
-At any time before the check-in and up until 60 days after the check-in day, the Guest will be entitled to request a total refund of the sum provided to the platform in case she/he needs to cancel the booking.
+[![Fairbnb.coop - Cancellation Policies 2023](https://fairbnb.coop/wp-content/uploads/2023/03/Fairbnb_cancellation_policies_diagram-2023.jpg)](https://fairbnb.coop/wp-content/uploads/2023/03/Fairbnb_cancellation_policies_diagram-2023.jpg "Fairbnb.coop - Cancellation Policies 2023")
 
-**To have a clear overview of the circumstances that allow the application of the refund, please take a look at the [service refundable wording document.](https://refundable.me/)**
+All the CP clauses mentioned above are calculated based on the check-in date. For example, a booking termination by  a Guest the day before the check-in date is considered as “1 day before the check-in date” and will be granted no refund according to all the CP clauses above.
 
-If REFUNDABLE BOOKING is selected, the Guest will receive the 100% of the whole payment done, including the REFUNDABLE BOOKING fee, and the legal entity in charge of the social project will still receive the donation provided by the booking.
+The CP selected by the Host is shown in each listing and becomes part of the agreement with the Guest as soon as the booking request is accepted.
 
-In some cases of injury/illness that forced the user to cancel the booking, the service will refund the doctor’s note on valid REFUNDABLE BOOKING application. 
+After the booking confirmation, the CP clause selected in each listing is not adjustable and  it will be applied to the rental agreement for that booking.
 
-#### 2\. REFUNDABLE BOOKING NOT SELECTED (basic cancellation policy).
+Hosts may request our customer care service to create tailored CPs for their listings. Fairbnb will evaluate the request for new CPs and reserves the right to approve or deny such requests. If approved, the new CP will also be published here.
 
-1. **100% refund of the amount paid**, in case of cancellation requested by the Guest within 48 hours after the booking confirmation by the Host. This rule does not apply if the end of 48 hours falls within the last 10 days before the check-in.
-2. **100% refund of the rent, the cleaning fee and the tourist tax sums paid by the Guest**, in case of termination up to 10 days before the check-in day. In this case the Guest will be charged for the service fee and the social project donation as provided in article 7. The Guest will receive an invoice for the service fee due to Fair Bnb Network.
-3. **50% refund of the rent, the cleaning fee and the tourist tax sums paid by the Guest**, in case of termination within 10 days,  but at least 2 days before, the check-in day. In this case the Guest will be charged for the service fee and the social project donation as provided in article 7. The Guest will receive an invoice for the service fee due to Fair Bnb Network.
-4. **No refund of the sums paid by the Guest,** in case of termination within 2 days before the check-in day.  In this case the Guest will be charged for the service fee, the cleaning fee and the social project donation, as provided in article 7, plus additional penalty fee of the same amount of the tourist tax (only if tourist tax sum has been transferred to Fairbnb.coop). The Guest will receive an invoice for the service fee due to Fair Bnb Network.
+Fairbnb’s original CP clauses will continue to be available and effective up until the 8th of May 2023. After that date, these CPs will be automatically replaced with the new “Flex”, “Moderate”, Standard” and “Long Stay” cancellation policies. The original policies are:
 
-The check-in day is not included in the calculation of the time provided by the paragraph above.
+1. **Flexible**:  
+    Guest-initiated cancellation:
+    * 7 days before check-in: 100% of the amount refunded
+    * Up to 6 days before check-in: 50% of rent refunded (platform fee and donation not refunded)
+2. **Strict**:  
+    Guest-initiated cancellation:
+    * 3 days before check-in: 100% of the amount refunded
+    * Up to 2 days before check-in: No refund
 
-The Host has the right to withdraw from the contract after its formation and this will entail two consequences:
+Note that modifications to the list of pre-set CP clauses may be added as option available to our hosts any time, but such modifications should not be considered as a change in our Terms of Use.
 
-1. **100% refund for the Guest**, (no charges to the Guest in case of Host’s cancellation).
-2. **A 10% debit note will be issued to the Host as a penalty fee** to be paid in the next short term rental agreement formed by himself.
+The Host has the right to terminate the booking after its formation: in such a case a 100% refund of the overall amount will be issued to the Guest.
 
 ### 7\. Service costs & Payments
 
-In the listing page, the Guest User will find a recap of the items related to the transaction.
+In the listing page, the Guest will find a recap of the items related to the transaction.
 
-By selecting the “request booking” button, the Guest will activate the Credit Card pre-authorization system for the sum identified in the recap of the transaction.
+By selecting the “book now” button, the Guest will activate the Credit Card pre-authorization system for the sum identified in the recap of the transaction.
 
-Pre-authorization will be deactivated in case of cancellation made by the Guest according to the provision of article 6 letter a).
+Pre-authorization will be deactivated in case of cancellation made by the Guest according to the provision of article 6).
 
 The Guest pays the following amount in case of booking confirmation:
 
 * **the rent sum** that the platform transfers to the Host on behalf of the Guest;
 * t**he donation sum** that the platform transfers to the legal entity in charge of the social project selected by the Guest (calculated as the 7,5% of the rent);
 * **the service fee** due to Fair BnB Network Soc. Coop (calculated as 7,5% of the rent, vat included).
-* **the tourist tax** (in case available for payment through the platform);
-* **the REFUNDABLE BOOKING option fee**, in case required as additional service by the Guest, (calculated as the 8% of the above mentioned items, vat included)
 * **the cleaning fee,** if included by the host in the overall rental costs.
-
-According to the exception set by article 6, the guest’s credit card will be charged with the payments after 48 hours by the booking confirmation.  
-If the payment is completed, a notification will be sent to the host, otherwise, this will imply automatically the termination of the agreement and both host and guest will be notified by email.
 
 The Guest uses the payment method selected to transfer to Fairbnb.coop the amounts set in the above-mentioned recap. By receiving such an amount, Fairbnb.coop is entitled by the Guest user with a mandate to collect in order to transfer such amount to the host and to the social project selected by the Guest.
 
@@ -264,11 +269,11 @@ Any change to these Terms will be labelled as a new version of this document and
 
 a) Fairbnb.coop is a platform that offers useful services to facilitate the meeting of users interested in concluding agreements concerning the short-term rental of properties for residential use.
 
-b) The Fairbnb.coop platform and the services offered by it are owned by the Fair Bnb Network Società Cooperativa, with its registered offices in Bologna, via Alfredo Calzoni 1-3, CF: 03735181202
+b) The Fairbnb.coop platform and the services offered by it are owned by the Fair Bnb Network Società Cooperativa, with its registered offices in Bologna, via Casarini 19, CF: 03735181202
 
 c) Contact details of Fairbnb.coop: info@Fairbnb.coop
 
-d) Any complaints can be sent to the following addresses: info@Fairbnb.coop
+d) Any complaints can be sent to the following addresses: info@fairbnb.coop
 
 e) Commissions for services offered by Fairbnb.coop including taxes are 7.5% of the rent.
 
@@ -278,4 +283,4 @@ g) The “payment methods” of the services are the following: credit cards.
 
 h) The right of withdrawal is not available pursuant to art. 16 of the European Directive 2011/83/EU once the provision of platform services has begun. This is necessary since the individual services subject to agreement with the consumer constitute an obligation of instantaneous delivery by Fairbnb.coop in favour of the users and determine the onset of further obligations incompatible with the right of withdrawal.
 
-i) The duration of this contract is for an indefinite period, but the user has the freedom to withdraw by using the option to cancel an account at any time or by sending a request to the address info@Fairbnb.coop. For services provided by the platform, there are no refunds except for the cancellation policy provided by the art. 6.
+i) The duration of this contract is for an indefinite period, but the user has the freedom to withdraw by using the option to cancel an account at any time or by sending a request to the address info@fairbnb.coop. For services provided by the platform, there are no refunds except for the cancellation policy provided by the art. 6.
