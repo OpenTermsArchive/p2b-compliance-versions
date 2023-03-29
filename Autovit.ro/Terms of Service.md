@@ -1,41 +1,41 @@
+Regulament persoane fizice
+
 **Termeni și condiții pentru clienții persoane fizice**
 
-**Următorii Termeni și condiții pentru clienții persoane fizice se aplică începând cu data de 15.11.2022.**
-
-**Veți găsi versiunea anterioară a Termenilor și Condițiilor** [aici](https://ajutor.autovit.ro/hc/ro/articles/360010628439-Regulament-persoane-fizice-anterior)**.**
+**Următorii Termeni și condiții pentru clienții persoane fizice se aplică începând cu data de 01.04.2023**
 
 **1\. Prevederi preliminare**
 
 1. Acești Termeni și Condiții definesc regulile pentru furnizarea, de către OLX Online Services SRL, către utilizatorii de Internet, de servicii constând în a le permite acestora să posteze Anunturi pe Site-ul Autovit, împreună cu regulile de accesare și utilizare a resurselor site-ului Autovit.
 
-2. Site-ul Autovit este disponibil la adresa: **autovit.ro** și printr-o aplicație mobilă. Condiția prealabilă pentru obținerea accesului la funcționalitățile Site-ului Autovit este utilizarea unui dispozitiv care comunică cu Internetul și care are un browser web standard. Operatorul de telecomunicații poate percepe o taxă suplimentară pentru accesul la aplicații de pe dispozitivele mobile.
+2. Site-ul Autovit este disponibil la adresa: **autovit.ro** și printr-o aplicație mobilă. Condiția prealabilă pentru obținerea accesului la funcționalitățile Site-ului Autovit este utilizarea unui dispozitiv care comunică cu Internetul și care are un browser web standard. Operatorul de telecomunicații poate percepe o taxă suplimentară pentru accesul la aplicații de pe dispozitivele mobile.
 3. Folosirea site-ului www.autovit.ro și a serviciilor furnizate de acesta sunt rezervate doar persoanelor care au împlinit vârsta de18 ani.
 
 **2\. Definiții**
 
 Următorii termeni, așa cum sunt definiți mai jos, vor avea următoarele semnificații:
 
-1. **Furnizor/OLX Online Services SRL –** Societatea OLX Online Services SRL, persoană juridică română, cu sediul în Bucuresti, Sector 1, Sos. Nicolae Titulescu, nr. 4-8, Clădirea America House– Aripa de Vest, Etaj 5, înregistrată la Oficiul Registrului Comertului sub nr. J40/1674/2011, având codul de identificare fiscală RO22457535, fiind înregistrată în Evidența Prelucrării Datelor cu Caracter Personal sub nr. 17272, si avand nr. de telefon: 031/860.90.90 și email: sugestii@autovit.ro.
+1. **Furnizor/OLX Online Services SRL –** Societatea OLX Online Services SRL, persoană juridică română, cu sediul în Bucuresti, Sector 1, Sos. Nicolae Titulescu, nr. 4-8, Clădirea America House– Aripa de Vest, Etaj 5, înregistrată la Oficiul Registrului Comertului sub nr. J40/1674/2011, având codul de identificare fiscală RO22457535, fiind înregistrată în Evidența Prelucrării Datelor cu Caracter Personal sub nr. 17272, si avand nr. de telefon: 031/860.90.90 și email: sugestii@autovit.ro.
 
-2. **Site-ul Autovit –** un site web operat de Furnizor, în limba română, disponibil în domeniul autovit.ro, prin intermediul unei aplicații mobile, precum și pe alte site-uri web administrate de partenerii Furnizorului, la care se face referire în paginile Site-ului Autovit.
+2. **Site-ul Autovit –** un site web operat de Furnizor, în limba română, disponibil în domeniul autovit.ro, prin intermediul unei aplicații mobile, precum și pe alte site-uri web administrate de partenerii Furnizorului, la care se face referire în paginile Site-ului Autovit.
 
 3. **Anunț** – oferta publică lansată de un utilizator cu scopul de a fi publicată de către Furnizor, prin intermediul Site-ului Autovit, cu privire la vânzarea de vehicule sau produse conexe, în conformitate cu termenii și condițiile prevăzute în prezentul document.
 
 4. **Utilizator** – Autorul Anunțului, precum și orice altă persoană care utilizează resursele Site-ului Autovit.
 
-5. **Autorul Anunțului** – o persoană fizică, în vârstă de 18 ani și cu capacitate deplină de exercițiu sau o unitate organizatorică fără personalitate juridică, dar capabilă să dobândească drepturi și să își asume răspunderi în legătură cu Anunțul publicat de aceștia, care, în modul prevăzut prin prezenta, a încheiat un contract cu Furnizorul privind afișarea unui Anunț pe Site-ul Autovit și care utilizează serviciile furnizate în cadrul Site-ului Autovit.
+5. **Autorul Anunțului** – o persoană fizică, în vârstă de 18 ani și cu capacitate deplină de exercițiu sau o unitate organizatorică fără personalitate juridică, dar capabilă să dobândească drepturi și să își asume răspunderi în legătură cu Anunțul publicat de aceștia, care, în modul prevăzut prin prezenta, a încheiat un contract cu Furnizorul privind afișarea unui Anunț pe Site-ul Autovit și care utilizează serviciile furnizate în cadrul Site-ului Autovit.
 
-6. **Cont al Autorului Anunțului**  – o înregistrare IT individualizată, care a fost creată pe Site-ul Autovit pentru Autorul Anunțului, pentru a face posibilă utilizarea de către acesta a Site-ului Autovit și care adună informații despre utilizarea de către Autorul Anunțului a Site-ului Autovit. Accesul la Cont este asigurat Autorulului Anunțului printr-o adresă de e-mail unică și o parolă. Contul Autorului Anunțului poate fi conectat doar la o singură adresă de e-mail.
+6. **Cont al Autorului Anunțului**  – o înregistrare IT individualizată, care a fost creată pe Site-ul Autovit pentru Autorul Anunțului, pentru a face posibilă utilizarea de către acesta a Site-ului Autovit și care adună informații despre utilizarea de către Autorul Anunțului a Site-ului Autovit. Accesul la Cont este asigurat Autorulului Anunțului printr-o adresă de e-mail unică și o parolă. Contul Autorului Anunțului poate fi conectat doar la o singură adresă de e-mail.
 
-7. **Lista de Prețuri** – o listă a prețurilor percepute de Furnizor Autorului Anunțului, pentru serviciile furnizate în cadrul Site-ului Autovit.
+7. **Lista de Prețuri** – o listă a prețurilor percepute de Furnizor Autorului Anunțului, pentru serviciile furnizate în cadrul Site-ului Autovit.
 
 8. **Articol** – o mașină, dubă, camion, motocicletă, moped, scuter, quad, utilaj de construcții sau agricol, combină, motocicletă sau orice altă piesă, accesorii auto unice, precum și orice alte bunuri care, conform deciziei Furnizorului, pot face obiectul unui Anunț pe Site-ul Autovit.
 
-9. **Vehicul** \-  orice tip de autovehicul, ca parte a definiției de mai sus.
+9. **Vehicul** \-  orice tip de autovehicul, ca parte a definiției de mai sus.
 
-10. **Fonduri** **Autovit** – un portofel electronic virtual, alocat automat Contului Autorului Anunțului, pentru a permite acestuia să efectueze plăți în avans pentru serviciile contra cost ale Site-ului Autovit. Pentru informații detaliate despre plățile în avans consultați Anexa nr. 7 la acest document.
+10. **Fonduri** **Autovit** – un portofel electronic virtual, alocat automat Contului Autorului Anunțului, pentru a permite acestuia să efectueze plăți în avans pentru serviciile contra cost ale Site-ului Autovit. Pentru informații detaliate despre plățile în avans consultați Anexa nr. 7 la acest document.
 
-11. **Website OLX -** site-ul www.olx.ro, inclusiv orice secțiune sau sub-pagină a acestuia, administrat de Furnizor, întreținut în domeniul olx.ro, disponibil și în cadrul altor site-uri administrate de partenerii Furnizorului.
+11. **Website OLX -** site-ul www.olx.ro, inclusiv orice secțiune sau sub-pagină a acestuia, administrat de Furnizor, întreținut în domeniul olx.ro, disponibil și în cadrul altor site-uri administrate de partenerii Furnizorului.
 
 12. **Termeni și Condiții** – prevederile din acest document, create de OLX Online Services SRL, care definesc condițiile și regulile pe care Utilizatorul trebuie să le respecte în vederea utilizării Site-ului Autovit, aplicabile în egală măsură la achiziționarea de către Utilizator a serviciilor furnizate de OLX Online Services SRL, prin intermediul Autovit.
 
@@ -115,7 +115,7 @@ Următorii termeni, așa cum sunt definiți mai jos, vor avea următoarele semni
 
 2\. Odată ce toate activitățile enumerate la punctul de mai sus au fost efectuate de către Autorul Anunțului, Furnizorul trimite un mesaj la adresa de e-mail indicată în formular pentru a confirma acceptarea comenzii de afișare a Anunțului și pentru a furniza alte informații cerute de lege.
 
-3\. Anunțurilor li se aplică regulile stabilite în Anexa nr. 4 – _Reguli pentru postare_, care stabilește și situațiile în care Furnizorul poate șterge, modifica și/sau bloca un Anunț.
+3\. Anunțurilor li se aplică regulile stabilite în Anexa nr. 4 – _Reguli pentru postare_, care stabilește și situațiile în care Furnizorul poate șterge, modifica și/sau bloca un Anunț.
 
 4\. Anunțul este activat:
 
@@ -173,13 +173,21 @@ Următorii termeni, așa cum sunt definiți mai jos, vor avea următoarele semni
 
 **8\. Modalități de plată**
 
-1\. Serviciile furnizate în cadrul Site-ului Autovit, în beneficiul Autorilor de Anunțuri, sunt contra cost. Cuantumul taxelor este specificat în Anexa nr. 1 - _Lista de prețuri_.
+1\. Serviciile furnizate în cadrul Site-ului Autovit, în beneficiul Autorilor de Anunțuri, sunt contra cost. Cuantumul taxelor este specificat în Anexa nr. 1 - _Lista de prețuri_.
 
 2\. Autorul Anunțului efectuează plăți în avans pentru utilizarea Site-ului Autovit, în condițiile definite în Anexa nr. 7.
 
-3\. Pentru serviciile prestate în cadrul Site-ului Autovit, Furnizorul emite factură fiscală.
+3\. Prețurile de vânzare afișate sunt în Euro si includ TVA. 
 
-4\. Domeniul de aplicare și regulile detaliate de emitere și trimitere a facturilor sunt reglementate de Anexa nr. 6 la Termeni și Condiții.
+Prețul de vânzare va fi afișat în RON înainte de finalizarea achiziției, utilizând următoarea formulă de calcul: cursul de schimb EURO / RON comunicat de Banca Centrala Europeană valabil pentru ultima zi de curs publicată, anterioară plății, la care se adaugă 1%. 
+
+Similar, formula de calcul se utilizează în conversie pentru orice alte valute în care se afișează prețul de vânzare. Cursurile de schimb valutar practicate de Banca Centrala Europeană pot fi consultate [**aici**](https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-ron.ro.html).
+
+_Exemplu: Prețul de vânzare afișat = 100 EURO (inclusiv TVA). Cursul Băncii Centrale Europene aplicabil tranzacției 5 RON = 1 EURO. Prețul de vânzare = 100 x (5+1/100 x 5) = 505 RON (inclusiv TVA)._
+
+4\. Pentru serviciile prestate în cadrul Site-ului Autovit, Furnizorul emite factură fiscală.
+
+5\. Domeniul de aplicare și regulile detaliate de emitere și trimitere a facturilor sunt reglementate de Anexa nr. 6 la Termeni și Condiții.
 
 **9\. Confidențialitate**
 
@@ -193,7 +201,7 @@ Următorii termeni, așa cum sunt definiți mai jos, vor avea următoarele semni
 
 1\. Utilizatorul are dreptul de a depune reclamații în cazul neexecutării sau executării necorespunzătoare de către Furnizor a serviciilor prestate în cadrul Site-ului Autovit, precum și în legătură cu utilizarea resurselor Site-ului Autovit.
 
-2\. Reclamațiile trebuie formulate Furnizorului, prin e-mail, la următoarea adresă de e-mail:      ajutor@autovit.ro.
+2\. Reclamațiile trebuie formulate Furnizorului, prin e-mail, la următoarea adresă de e-mail:      ajutor@autovit.ro.
 
 3\. O reclamație trebuie să conțină datele Utilizatorului (numele și prenumele, adresa de corespondență, adresa de e-mail și numărul de telefon), numărul Anunțului la care se referă reclamația (dacă există), precum și orice alte date care fac posibilă identificarea Anunțului, precum și împrejurările în susținerea reclamației.
 
@@ -209,9 +217,9 @@ Următorii termeni, așa cum sunt definiți mai jos, vor avea următoarele semni
 
 2\. Dacă afișarea unui Anunț este finalizată înainte de data programată (15 sau 30 de zile), taxa pentru zilele de afișare neutilizate nu va fi rambursată.
 
-**12**. **Durata și încetarea contractului**
+**12**. **Durata și încetarea contractului**
 
-1\. Furnizarea de servicii în cadrul Site-ului Autovit nu este limitată în timp, dar fiecare parte (furnizorul sau Autorul Anunțului) are dreptul de a rezilia contractul, în orice moment, cu un preaviz de o lună. Pentru a rezilia contractul, Autorul Anunțului trebuie să transmită o notificare la urmatoarea adresă de email: ajutor@autovit.ro.
+1\. Furnizarea de servicii în cadrul Site-ului Autovit nu este limitată în timp, dar fiecare parte (furnizorul sau Autorul Anunțului) are dreptul de a rezilia contractul, în orice moment, cu un preaviz de o lună. Pentru a rezilia contractul, Autorul Anunțului trebuie să transmită o notificare la urmatoarea adresă de email: ajutor@autovit.ro.
 
 2\. Furnizorul își rezervă dreptul de a rezilia contractul, cu efect imediat, dacă Autorul Anunțului nu respectă acești Termeni și Condiții.
 
@@ -241,7 +249,7 @@ Următorii termeni, așa cum sunt definiți mai jos, vor avea următoarele semni
 
 2\. Orice modificări ale acestor Termeni și Condiții și ale Listei de prețuri vor intra în vigoare nu mai devreme de 15 zile de la data postării lor pe Site-ul Autovit. Orice servicii activate de către Autorii de Anunțuri înainte de data intrării în vigoare a modificărilor acestor Termeni și Condiții vor fi furnizate în termenii anteriori.
 
-3\. Dacă modificările Termenilor și Condițiilor nu sunt acceptate de către Autorul Anunțului, acesta din urmă trebuie să trimită o notificare relevantă la adresa de e-mail ajutor@autovit.ro. Aceasta va avea ca rezultat rezilierea imediată a contractului cu Furnizorul, cu condiția ca rezilierea să intervină la sfârșitul perioadei de afișare a tuturor Anunțurilor existente.                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+3\. Dacă modificările Termenilor și Condițiilor nu sunt acceptate de către Autorul Anunțului, acesta din urmă trebuie să trimită o notificare relevantă la adresa de e-mail ajutor@autovit.ro. Aceasta va avea ca rezultat rezilierea imediată a contractului cu Furnizorul, cu condiția ca rezilierea să intervină la sfârșitul perioadei de afișare a tuturor Anunțurilor existente.                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
 
 **15\. Prevederi finale**
 
@@ -253,9 +261,9 @@ Următorii termeni, așa cum sunt definiți mai jos, vor avea următoarele semni
 
 4\. Orice dispută legată de serviciile furnizate în cadrul Site-ului Autovit va fi soluționată de instanțele competente din România.
 
-5\. Consumatorul are posibilitatea de a recurge la un mecanism de solutionare alternativă a litigiului („SAL”) prin intermediul Entității SAL din cadrul Autorității Naționale pentru Protecția Consumatorului („ANPC”), procedura fiind disponibilă la adresa: [https://anpc.ro/galerie/file/diversefg/CerereSAL2.pdf](https://anpc.ro/galerie/file/diversefg/CerereSAL2.pdf). În cazul în care Direcția SAL nu poate analiza reclamația, va transmite ambelor părți o explicație privind motivele neanalizării litigiului în termen de 21 de zile calendaristice de la primirea dosarului de reclamație.
+5\. Consumatorul are posibilitatea de a recurge la un mecanism de solutionare alternativă a litigiului („SAL”) prin intermediul Entității SAL din cadrul Autorității Naționale pentru Protecția Consumatorului („ANPC”), procedura fiind disponibilă la adresa: [https://anpc.ro/galerie/file/diversefg/CerereSAL2.pdf](https://anpc.ro/galerie/file/diversefg/CerereSAL2.pdf). În cazul în care Direcția SAL nu poate analiza reclamația, va transmite ambelor părți o explicație privind motivele neanalizării litigiului în termen de 21 de zile calendaristice de la primirea dosarului de reclamație.
 
-Direcția SAL dispune de un punct de contact la care consumatorii pot apela pentru a primi informații cu privire la procedura alternativă de soluționare a litigiilor si poate fi contactată la următoarele adrese: Blvd. Aviatorilor nr.72, Bucuresti, 011865, România, adresa de email dsal@anpc.ro sau la numărul de telefon 0213121275.
+Direcția SAL dispune de un punct de contact la care consumatorii pot apela pentru a primi informații cu privire la procedura alternativă de soluționare a litigiilor si poate fi contactată la următoarele adrese: Blvd. Aviatorilor nr.72, Bucuresti, 011865, România, adresa de email dsal@anpc.ro sau la numărul de telefon 0213121275.
 
  **Anexe**
 
