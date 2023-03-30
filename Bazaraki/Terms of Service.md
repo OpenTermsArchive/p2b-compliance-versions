@@ -212,7 +212,7 @@ The following animals are forbidden by law to be imported in Cyprus, Sale, Adver
 * Cyprus wheatear (Oenanthe cypriaca)
 * Short - toed treecreeper (certhia brachydactyla dorotheae)
 * Eurasian jay (Garrulus glandarius glaszneri)
-* Scops Owl (Otus Scops cyprius)
+* Owl
 * Coal Tit (Periparus ater cypriotes)
 * Dog breeds: Pit Bull Terrier, American Pit Bull, Japanese Tosa, Tosa Inu, Dogo Argentino, Argentinian Mastiff, Fila Brasileiro, Brazilian Mastiff.
 
