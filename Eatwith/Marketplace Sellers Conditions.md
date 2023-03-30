@@ -5,7 +5,6 @@
 Hosts Charter
 
 Hosts Charter
-=============
 
 Written by Camille Rumani. Updated over a week ago
 
