@@ -1,5 +1,4 @@
 Deliveroo's partner support policy
-==================================
 
 A
 
