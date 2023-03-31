@@ -299,9 +299,16 @@ In cazul in care utilizatorul incalca in orice mod prezentul regulament, fapt ca
 
 Utilizatorii, persoane fizice, pot primi facturi fiscale aferente platilor efectuate in contul okazii.ro daca acest lucru este solicitat in mod explicit prin intermediul e-mail-ului, pentru toate alimentarile efectuate, mai putin cele prin SMS, daca solicita acest lucru in termen de 30 de zile de la data alimentarii contului. Utilizatorii au obligatia de a furniza toate datele necesare intocmirii facturii fiscale.
 
+3.9.1 Utilizatorul are dreptul să utilizeze sumele alimentate în cont potrivit prevederilor de mai sus  
+până la expirarea termenului de decădere reglementat de prezentul articol. Dacă în termen de 12 luni  
+de la ultima alimentare a contului Okazii.ro, Utilizatorul nu a pus niciun anunț (licitație) nou(ă) şi nu  
+are niciun anunț (licitație) activ(ă), poate fi decăzut din dreptul de a beneficia de serviciile Okazii.ro  
+corespunzătoare sumelor achitate în avans (prin alimentarea contului) și neutilizate până la expirarea  
+termenului menționat mai sus.
+
 Modalitati de alimentare a contului:
 
-**3.9.1 Ordin de plată**  
+**3.9.2 Ordin de plată**  
 Alimentarea contului prin ordin de plată se poate face atât de catre persoanele fizice cât și de catre persoanele juridice, de la sediul oricărei sucursale de bancă din România. Suma minima ce poate fi alimentata prin ordin de plata este 1 euro.
 
 Procesul decurge astfel:
@@ -324,7 +331,7 @@ In toate situatiile in care in termen de 30 de zile de la creditarea contului ba
 
 Din suma totala achitata de catre utilizator va fi scazut TVA-ul.
 
-**3.9.2 Carte de credit/debit**  
+**3.9.3 Carte de credit/debit**  
 Plațile prin intermediul cardurilor de debit sau credit sunt procesate de către partenerii nostri www.epayment.ro respectiv www.mobilpay.ro prin intermediul unei conexiuni securizate SSL, datele transmise fiind criptate. Alimentarea contului prin acest procedeu este disponibilă atât persoanelor fizice, cât și persoanelor juridice care poseda carduri emise în numele firmei. Sumele selectate se vor regăsi instant în contul de pe OKazii.
 
 Procesul decurge astfel:
@@ -347,7 +354,7 @@ Datele despre card sunt introduse direct în sistemele bancii. În cazul carduri
 
 Precizăm că Okazii.ro nu răspunde sub nicio formă și nu poarta niciun fel de responsabilitate pentru serviciul de procesare a plaților prin carduri oferit de furnizorul nostru precum și pentru orice fel de eroare și/sau fraudă decurgând din sau în legatură cu acest serviciu. Totuși, deși acest serviciu este oferit și dirijat în totalitate și în mod independent de către furnizorul nostru, noi vom întreprinde toate masurile rezonabile pentru a limita pe cât posibil riscul apariției acestor erori și/sau fraude.
 
-**3.9.3 Cu plata ramburs**
+**3.9.4 Cu plata ramburs**
 
 Alimentarea contului prin plată ramburs este o metodă de plată destinată exclusiv PERSOANELOR FIZICE rezidente în România.
 
@@ -361,7 +368,7 @@ Procesul decurge astfel:
 
 Suma minima de plata ce poate fi alimentata prin plata ramburs este de 20 euro fara TVA.
 
-**3.9.4 SMS**  
+**3.9.5 SMS**  
 Alimentarea contului prin SMS se poate face atât de persoanele fizice cât și persoanele juridice cu ajutorul unui terminal GSM.
 
 Varianta online de alimentare poate fi accesată din secțiunea Contul meu/Financiar/Alimenteaza contul/SMS/Alimenteaza contul (valabil în rețelele de telefonie Orange, Vodafone).
@@ -656,6 +663,28 @@ Utilizatorul are dreptul de a adăuga recenzii (review-uri) la produsele comerci
 
 4.11.6. Organizatorul nu dorește să facă ori să sugereze nicio asociere directă sau indirectă între el şi opiniile ori comentariile exprimate de Utilizatori. Review-urile produselor afişate pe site sunt rezultatul exclusiv al acțiunii Utilizatorilor şi reflectă exclusiv aprecierea subiectivă a acestora, evaluarea respectivelor produse neavând nicio legătură cu Organizatorul. Acesta din urma are dreptul, dar nu obligația, de a verifica şi supraveghea modul de acordare a review-urilor, precum şi opiniile exprimate de Utilizatori în legătură cu produsele de pe site.
 
+4.12. Ierarhia
+
+4.12.1. Anunțurile/licitațiile sunt afișate în Site într-o ordine dată de un anumit scor de relevanță (ranking) înregistrat de fiecare anunț în parte pe baza unui algoritm proprietar. Scopul acestui algoritm este să afișeze cele mai relevante rezultate ale căutărilor efectuate de utilizatorii Site-ului.
+
+4.12.2. Ranking-ul este influențat de mai mulți parametri, precum titlu, descriere, categoria în care este încadrat produsul, rating-ul utilizatorului vânzător și, cel mai important, opțiunile personale ale utilizatorului care efectuează căutarea. Organizatorul licitației furnizează servicii de promovare prin intermediul cărora poate fi influențată prin plată ordinea de afișare a anunțurilor. În acest sens, utilizatorii pot opta pentru servicii de promovare ce vor afișa anunțurile/licitațiile pentru care s-a activat promovarea în primele 3 poziții din rezultatele căutărilor sau listărilor de produse din categorii. Anunțurile promovate sunt marcate cu textul „Promo”. În rezultatele oricărei căutări vor fi afișate cel mult 3 anunțuri promovate. Anunțurile promovate beneficiază de un marcaj distinctiv și vor fi afișate în aceasta zonă dacă răspund termenilor de căutare sau atunci când este accesată lista de produse dintr-o categorie. În cazul în care exista mai multe produse promovate ce răspund criteriilor de afișare sau căutare, acestea vor fi afișate prin rotație la fiecare afișare de pagina.
+
+4.12.3. Având în vedere dorința Organizatorului licitației de a afișa anunțuri relevante pentru cumpărători, o importanță deosebită o au cuvintele cheie utilizate de persoana care efectuează căutarea. Rezultatele căutării în Site pot fi influențate și prin folosirea filtrelor, prin folosirea metodei de căutare avansată și/sau sortând rezultatele după o ordine alternativă (precum preț, data adăugării, numărul de oferte, ultimele produse adăugate sau timpul rămas până la expirarea vânzării), având astfel abilitatea de a influența afișarea rezultatelor pentru a primi un clasament bazat pe alte criterii.
+
+4.13. Conținutul site-ului
+
+4.13.1. Toate drepturile de proprietate intelectuală asupra conținutului de orice fel al Site-ului, inclusiv, dar fără a se limita la design, imagini, texte, baze de date, programe pentru calculator, dar fără a se limita la acestea (“Conținutul Site-ului”), aparțin Organizatorului licitației.
+
+4.13.2. Prin derogare de la prevederile de mai sus, nu aparțin Organizatorului licitației drepturile asupra acelor materiale pentru care pe Site s-a indicat în mod expres sau implicit un alt titular de drepturi, precum conținutul anunțurilor, fotografiile care le însoțesc, materialele publicitare ale terților, dar fără a se limita la acestea.
+
+4.13.3. Utilizatorii se obligă să respecte toate drepturile de proprietate intelectuală pe care Organizatorul licitației și partenerii săi contractuali le dețin asupra Conținutului Site-ului și asupra serviciului furnizat. Este interzisă preluarea, reproducerea, distribuirea și/sau comunicarea publică în orice formă a Conținutului de orice fel al Site-ului, integral sau parțial, modificat sau nu, fără acordul prealabil, expres și scris al Organizatorului licitației.
+
+4.13.4. Organizatorul licitației își rezervă dreptul de a acționa în instanță orice persoană care încalcă în orice mod prevederile de mai sus.
+
+4.13.5. Utilizatorii care publică anunțuri/licitații sau calificative în Site sau care expediază în orice modalitate materiale către Organizatorului licitației pentru a fi publicate în Site, acordă acestuia din urmă o licență neexclusivă, transferabilă și perpetuă, pe orice teritoriu, de a (a) utiliza anunțurile, licitațiile, calificativele și materialele respective prin publicare (reproducere și comunicare publică) pe internet, inclusiv prin intermediul Site-ului, prin intermediul altor site-uri operate, deținute sau administrate de Organizatorului licitației, precum şi prin intermediul website-urilor partenerilor contractuali ai Organizatorului licitației, fără a se limita la acestea, (b) precum și de a modifica / adapta anunțurile, calificativele și materialele respective în vederea utilizării conform celor de mai sus.
+
+4.13.6. Utilizatorii înțeleg și acceptă că Site-ul poate conține legături sau trimiteri către alte site-uri de internet, precum site-urile furnizorilor de produse și/sau servicii către care trimit bannerele publicitare postate pe Site, dar fără a se limita la acestea, care sunt considerate de Organizatorul licitației utile în legătură cu Conținutul Site-ului sau cu activitatea utilizatorilor pe internet, dar care nu se află sub controlul sau îndrumarea sa. În măsura maximă permisă de lege, Organizatorul licitației este absolvit de orice răspundere în ceea ce privește conținutul sau opiniile exprimate pe toate site-urile de internet mai sus menționate, precum și pentru corectitudinea și exactitatea acestora, iar utilizatorii înțeleg și acceptă că aceste site-uri de internet nu sunt monitorizate, controlate sau verificate în orice mod de către Organizatorul licitației. În momentul în care utilizatorii accesează aceste site-uri de internet, ei o fac pe riscul lor, cunoscând că utilizarea serviciilor oferite de aceste site-uri este supusă condițiilor stabilite de administratorii acestor site-uri.
+
 **5\. Serviciul Magazine Okazii.ro** Magazine.Okazii.ro reprezinta o facilitate pusa la dispozitia utilizatorilor Okazii.ro, persoane fizice sau juridice, prin care acestia beneficiaza de o listare personalizata a produselor puse la vanzare in cadrul Okazii.ro.  
 In cadrul unui magazin Okazii.ro, utilizatorii isi pot pune spre vanzare produsele intr-o sectiune pentru care pot alege structura generala a acesteia, pot incarca un logo propriu (respectand Termenii si Conditiile site-ului; ex: fara terminatia „.ro”), pot introduce o denumire a magazinului, o descriere, precum si termenii si conditiile de functionare a acestuia.  
 Magazinul Okazii.ro poate fi accesat prin intermediul unui link de tipul [http://magazine.okazii.ro/numemagazin](http://magazine.okazii.ro/numemagazin), unde „numemagazin” repezinta numele de utilizator al contului Okazii.ro, detinut de catre posesorul magazinului.  
@@ -900,8 +929,7 @@ Okazii.ro submandatează procesatorul de plăți să încaseze sumele de bani de
 ****Conform prevederilor Regulamentului nr. 679 din 27 aprilie 2016 privind protecţia persoanelor fizice în ceea ce priveşte prelucrarea datelor cu caracter personal şi privind libera circulaţie a acestor date şi de abrogare a Directivei 95/46/CE (Regulamentul general privind protecţia datelor) si ale Legii nr. 506/2004 privind prelucrarea datelor cu caracter personal si protectia vietii private in sectorul comunicatiilor electronice, S.C. Bitfactor S.R.L. va administra in conditii de siguranta si numai pentru scopurile specificate, datele personale pe care ni le furnizati despre dvs. Va informam ca datele personale pe care ni le furnizati sunt prelucrate in scopul furnizarii serviciilor specifice platformei pentru intermediere vanzare-cumparare de bunuri de larg-consum, in scop de reclama, marketing si publicitate toate celelalte scopuri detaliate în Politica de confidenţialitate Okazii.ro, care face parte integrantă din prezentul acord. La optiunea dvs., ne furnizati datele personale ale dvs. pentru a va crea un cont valabil si pentru a beneficia de serviciile oferite prin intermediul site-ului Okazii.ro de catre S.C Bitfactor S.R.L. Refuzul furnizarii anumitor date poate conduce la imposibilitatea accesarii anumitor servicii prin intermediul site-ului.  
 Prin intermediul panoului de administrare a contului propriu, aveti posibilitatea de a opta pentru primirea de informatii despre produsele, serviciile, evenimentele etc. oferite de societatea noastra prin bifarea casutei corespunzatoare pe pagina de creare a contului.  
 Datele dvs. cu caracter personal pot fi furnizate partenerilor contractuali ai Bitfactor S.R.L. implicaţi în furnizarea serviciilor prin intermediul site-ului.  
-Conform Regulamentului nr. 679 din 27 aprilie 2016, beneficiati de dreptul de acces, dreptul de interventie asupra datelor, dreptul de a nu fi supus unei decizii individuale si dreptul de a va adresa justitiei. Totodata, aveti dreptul sa va opuneti prelucrarii datelor personale care va privesc si sa solicitati stergerea datelor. Sunteti de acord ca stergerea datelor personale ale dvs. va fi urmata de stergerea contului dvs. din sistem si de imposibilitatea de a accesa serviciul oferit de S.C. Bitfactor S.R.L.. Pentru exercitarea acestor drepturi puteti face o cerere in scris cu cerinta dvs., pe care sa o trimiteti apoi fie prin posta scrisa la adresa Bitfactor S.R.L., Bd. Pierre de Coubertin nr. 3-5, et. 3, Sector 2, Bucuresti, cu mentiunea “Pentru echipa Okazii.ro”, fie prin e-mail la adresa [suport@okazii.ro](mailto:suport@okazii.ro).  
-Bitfactor S.R.L. este operator de date cu caracter personal înscris în registrul de evidență a prelucrărilor de date cu caracter personal sub nr. 36004****
+Conform Regulamentului nr. 679 din 27 aprilie 2016, beneficiati de dreptul de acces, dreptul de interventie asupra datelor, dreptul de a nu fi supus unei decizii individuale si dreptul de a va adresa justitiei. Totodata, aveti dreptul sa va opuneti prelucrarii datelor personale care va privesc si sa solicitati stergerea datelor. Sunteti de acord ca stergerea datelor personale ale dvs. va fi urmata de stergerea contului dvs. din sistem si de imposibilitatea de a accesa serviciul oferit de S.C. Bitfactor S.R.L.. Pentru exercitarea acestor drepturi puteti face o cerere in scris cu cerinta dvs., pe care sa o trimiteti apoi fie prin posta scrisa la adresa Bitfactor S.R.L., Bd. Pierre de Coubertin nr. 3-5, et. 3, Sector 2, Bucuresti, cu mentiunea “Pentru echipa Okazii.ro”, fie prin e-mail la adresa [suport@okazii.ro](mailto:suport@okazii.ro).****
 
 **11\. Accesul la licitația noastră și intervenția în activitatea acesteia.**  
 11.1. Sunteti de acord sa nu folositi anumite programe precum si alte dipozitive automate sau modalitati manuale pentru a monitoriza sau copia paginile noastre de Internet sau continutul lor fara o autorizatie scrisa anterioara a Organizatorului acestei licitatii prin Internet.  
@@ -909,9 +937,32 @@ Bitfactor S.R.L. este operator de date cu caracter personal înscris în registr
 11.3. Sunteti de acord sa nu realizati nici o actiune care impune o incarcare nerezonabila sau disproportionata a infrastructurii Licitatiei pe Internet.  
 11.4. Sunteti de asemenea de acord sa nu copiati, reproduceti, alterati, modificati, distribuiti (inclusiv afisare publica), sa nu folositi pentru scopuri comerciale sau alte scopuri, continutul acestui site (sau orice parte din el), si sunteti de acord sa nu realizati lucrari care deriva din acest site fara o autorizatie scrisa anterioara a Organizatorului acestei licitatii prin Internet sau a tertei parti.
 
-**12\. Responsabilitatea în cazul încălcării termenilor acestui acord.**  
-12.1 In cazul incalcarii de catre dvs. a prevederilor din prezentul Acord de utlizare sau cand exista indicii sau repere privind incalcarea prevederilor prezentului Acord de utilizare, Organizatorul isi rezerva dreptul de a aplica, in orice mod, potrivit propriei sale optiuni discretionare sau la cererea oricarei autoritati, fara a fi obligat sa justifice in vreun mod actiunea, fara a fi obligat sa indeplineasca alta formalitate si fara a fi tinut sa justifice motivele, oricare in urmatoarele masuri fata de utilizatorii care incalca prevederile prezentului Acord: emiterea de avertismente; suspendarea, in intregime sau in parte, a contului; restrictionarea, in intregime sau in parte, a accesului la cont / sectiuni ale contului; anularea contului utilizatorului.  
-12.2 Prin accesarea site-ului [www.okazii.ro](http://www.okazii.ro/) sunteti de acord sa exonerati de raspundere pe Organizator pentru orice actiuni judiciare sau extrajudiciare si sa acoperiti cheltuielile de judecata si orice alte cheltuieli care ar putea sa apara ca urmare a incalcarii de catre dvs. a clauzelor din prezentul Acord de utilizare.
+**12\. Responsabilitatea în cazul încălcării termenilor acestui acord. Sistemul intern de soluționare a reclamațiilor.**  
+12.1 In cazul incalcarii de catre dvs. a prevederilor din prezentul Acord de utilizare sau cand exista indicii privind incalcarea de catre dvs. a prevederilor acestuia, Organizatorul isi rezerva dreptul de a aplica, din proprie inițiativă sau la cererea oricarei autoritati, fara a fi obligat sa indeplineasca alta formalitate în afară de comunicarea măsurii dispuse, oricare din urmatoarele: emiterea de avertismente; suspendarea, in intregime sau in parte, a contului; restrictionarea, in intregime sau in parte, a accesului la cont / sectiuni ale contului; anularea contului utilizatorului / blocarea definitivă a accesului la serviciile Okazii.
+
+12.2 Utilizatorii site-ului se obligă să apere de raspundere pe Organizator față de orice pretenții, cereri ori actiuni judiciare sau extrajudiciare si sa-l despăgubească pe Organizator pentru orice pagube suferite (inclusiv cheltuielile de judecata) derivate din sau aflate în legătură cu incalcarea de catre dvs. a clauzelor din prezentul Acord de utilizare.
+
+12.3. Utilizatorii Site-ului au dreptul de a formula reclamații care privesc serviciile și / sau acțiunile ori activitățile cu aparență nelegală ale altor utilizatori ai Site-ului, în termen de cel mult 7 zile de la data survenienței evenimentului reclamat.
+
+12.4 Pentru a înlătura orice îndoială, precizăm că formularea unei reclamații către Organizatorul licitației nu este o procedură prealabilă a cărei parcurgere ar fi necesară pentru formularea de către un consumator a unei plângeri către Autoritatea Națională pentru Protecția Consumatorului.
+
+12.5. Utilizatorul profesionist reclamant are dreptul de a adresa Organizatorul licitației reclamații cu privire la oricare dintre următoarele aspecte:
+
+(a) presupusa nerespectare de către Organizatorul licitației a obligațiilor prevăzute în Regulamentul (UE) 2019/1150 al Parlamentului European și al Consiliului din 20 iunie 2019 privind promovarea echității și a transparenței pentru întreprinderile utilizatoare de servicii de intermediere online, care afectează utilizatorul profesionist reclamant;
+
+(b) aspectele tehnologice care se referă direct la furnizarea serviciilor și care îl afectează pe reclamant;
+
+(c) măsurile luate de Organizatorul licitației sau comportamentul acestuia care se referă direct la furnizarea serviciilor și care îl afectează pe reclamant, precum și sancțiunile aplicate utilizatorului profesionist în conformitate cu prevederile prezentului Acord de utilizare.
+
+12.6. Reclamațiile vor fi comunicate Organizatorului licitației pe adresa de e-mail: suport@okazii.ro sau prin poștă, la adresa Bd. Pierre de Coubertin, nr. 3-5, Office Center, etaj 2, sector 2, București.
+
+12.7. Utilizatorii Site-ului au obligația de a include în fiecare reclamație toate datele și informațiile relevante cu privire la aceasta, pentru a-i permite să analizeze complet și corect plângerea, inclusiv: date identificare utilizator reclamant, date identificare utilizator reclamat, ID anunț și / sau link către acesta, precum și o descriere cuprinzătoare a aspectelor reclamate.
+
+12.8. Reclamațiile vor fi analizate și vor primi răspuns în termen de maxim 30 de zile lucrătoare de la primirea acestora de către de Organizatorul licitației, în cazul în care au fost însoțite de toate datele și informațiile necesare pentru soluționarea acestora. În situația în care reclamantul nu a transmis Organizatorului licitației toate datele și informațiile necesare soluționării reclamației respective, acestuia îi vor fi solicitate informațiile lipsă, urmând ca termenul de soluționare de mai sus să fie prelungit corespunzător.
+
+12.9. Procedura de mai sus de soluționare a reclamațiilor este pusă în mod gratuit la dispoziția utilizatorilor.
+
+12.10. Soluționarea reclamațiilor va respecta principiile transparenței și egalității de tratament în situații echivalente și al tratării plângerilor proporțional cu importanța și complexitatea lor.
 
 **13\. Sistemul de garanții.**  
 13.1. Va oferim licitatia noastra prin Internet precum si serviciile noastre “asa cum sunt”, fara nici un fel de garantie.  
@@ -925,7 +976,15 @@ Bitfactor S.R.L. este operator de date cu caracter personal înscris în registr
 **15\. Clauze finale.**  
 15.1. Prezentul acord este supus legii romane.
 
-15.2. Partile convin ca litigiile decurgand din interpretarea si executarea prezentului acord, ce nu pot fi solutionate pe cale amiabila, sa fie supuse solutionarii instantei judecatoresti competente de pe raza teritoriala a Municipiului Bucuresti. Legea aplicabila prezentului acord este legea romana.
+15.2.1 Partile convin ca litigiile decurgand din interpretarea si executarea prezentului acord, ce nu pot fi solutionate pe cale amiabila, sa fie supuse solutionarii instantei judecatoresti competente de pe raza teritoriala a Municipiului Bucuresti. Legea aplicabila prezentului acord este legea romana.
+
+15.2.2. Utilizatorii profesioniști pot solicita medierea pentru soluționarea conflictelor cu Organizatorul licitației legate de furnizarea serviciilor de către acesta din urmă, inclusiv cele care pot deriva din soluționarea reclamațiilor conform prezentului acord de utilizare. Părțile pot încerca soluționarea pe cale amiabilă a oricărui astfel de conflict, inclusiv prin intermediul mediatorilor autorizați de Consiliul de Mediere, lista acestora fiind disponibilă aici: https://www.cmediere.ro/mediatori.
+
+15.2.3. Medierea nu este gratuită.
+
+15.2.4. Medierea este voluntară și facultativă. Organizatorul licitației își rezervă dreptul de a refuza  participarea la mediere sau de a refuza mediatorul propus de utilizator.
+
+15.2.5. Organizatorul licitației va suporta o parte rezonabilă din totalul costurilor de mediere, în conformitate cu dispozițiile Regulamentului (UE) 2019/1150 al Parlamentului European și al Consiliului din 20 iunie 2019 privind promovarea.
 
 **15.3.Organizatorul acestei licitatii pe Internet isi rezerva dreptul de a modifica oricand si in orice mod oricare dintre prevederile din prezentul acord sau prezentul acord in intregime. Utilizatorii vor fi notificați cu privire la aceste modificări pe cale electronică. Modificările intră în vigoare în termen de 15 zile de la data la care Organizatorul a notificat Utilizatorii cu privire la modificările propuse. Orice modificare va fi considerată ca fiind acceptată deplin și necondiționat de către oricare dintre Utilizatori prin simpla utilizare sau accesare a site-ului, intervenite oricând după data indicată de Organizator sau expirarea termenului de 15 zile menționat mai sus, oricare dintre acestea survine mai târziu, iar neacceptarea oricărei modificări atrage obligația respectivului Utilizator de a înceta de îndată accesarea site-ului și/sau utilizarea în orice mod a licitației noastre pe internet. Utilizatorul are dreptul de a rezilia prezentul Acord înainte de expirarea perioadei de preaviz menționate mai sus. Rezilierea operează în termen de 15 zile de la momentul recepționării de către Utilizator a informațiilor despre modificări, cu excepția cazului în care Utilizatorul renunță la această notificare, prezintă o declarație în acest scop sau desfășoară activități exprese pe Site, de natură să confirme acceptarea unor astfel de condiții modificate (exemplu: publicarea unui nou anunț, efectuarea unei noi comenzi etc). In orice situatie in care dvs. aveti obiectiuni sau rezerve fata de oricare dintre prevederile din prezentul acord, aveti obligatia de a inceta de indata utilizarea serviciilor noastre de licitatie pe Internet sau a oricaruia dintre componentele acestora.**
 
@@ -935,7 +994,9 @@ Bitfactor S.R.L. este operator de date cu caracter personal înscris în registr
 
 15.6. Mesajul se considera primit de Dvs. in ziua trimiterii si la 5 ore dupa trimitere, exceptie facand acele cazuri in care se primeste o nota de mesaj primit sau de adresa de e-mail gresita.
 
-**Ultima actualizare: 27.08.2022**
+15.7. Solicitările Dvs. vor fi analizate și vor primi răspuns în termen de maxim 30 de zile lucrătoare de la primirea acestora de către Organizatorul licitației, în cazul în care au fost însoțite de toate datele și informațiile necesare pentru soluționarea acestora. În situația în care nu ați transmis Organizatorului licitației toate datele și informațiile necesare soluționării solicitării respective, vor fi cerute informațiile lipsă, urmând ca termenul de soluționare de mai sus să fie prelungit corespunzător.
+
+**Ultima actualizare: 31.03.2023**
 
 Informatiile au fost utile?
 
