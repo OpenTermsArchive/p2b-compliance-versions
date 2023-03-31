@@ -299,12 +299,7 @@ In cazul in care utilizatorul incalca in orice mod prezentul regulament, fapt ca
 
 Utilizatorii, persoane fizice, pot primi facturi fiscale aferente platilor efectuate in contul okazii.ro daca acest lucru este solicitat in mod explicit prin intermediul e-mail-ului, pentru toate alimentarile efectuate, mai putin cele prin SMS, daca solicita acest lucru in termen de 30 de zile de la data alimentarii contului. Utilizatorii au obligatia de a furniza toate datele necesare intocmirii facturii fiscale.
 
-3.9.1 Utilizatorul are dreptul să utilizeze sumele alimentate în cont potrivit prevederilor de mai sus  
-până la expirarea termenului de decădere reglementat de prezentul articol. Dacă în termen de 12 luni  
-de la ultima alimentare a contului Okazii.ro, Utilizatorul nu a pus niciun anunț (licitație) nou(ă) şi nu  
-are niciun anunț (licitație) activ(ă), poate fi decăzut din dreptul de a beneficia de serviciile Okazii.ro  
-corespunzătoare sumelor achitate în avans (prin alimentarea contului) și neutilizate până la expirarea  
-termenului menționat mai sus.
+3.9.1 Utilizatorul are dreptul să utilizeze sumele alimentate în cont potrivit prevederilor de mai sus până la expirarea termenului de decădere reglementat de prezentul articol. Dacă în termen de 12 luni de la ultima alimentare a contului Okazii.ro, Utilizatorul nu a pus niciun anunț (licitație) nou(ă) şi nu are niciun anunț (licitație) activ(ă), poate fi decăzut din dreptul de a beneficia de serviciile Okazii.ro corespunzătoare sumelor achitate în avans (prin alimentarea contului) și neutilizate până la expirarea termenului menționat mai sus.
 
 Modalitati de alimentare a contului:
 
