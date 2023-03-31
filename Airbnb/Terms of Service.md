@@ -382,11 +382,11 @@ Related articles
     Rebooking and Refund Policy
     
     Please review our Rebooking and Refund Policy.](https://www.airbnb.com/help/article/2868)
-* [Host
+* [Guest
     
-    Host Cancellation Policy
+    Age requirements
     
-    Because cancellations can disrupt guests' plans and impact confidence in the Airbnb community, there are penalties applied for Host cancella…](https://www.airbnb.com/help/article/990)
+    You must be at least 18 to book a reservation or host your place on Airbnb.](https://www.airbnb.com/help/article/2876)
 * [About the updates to our Terms
     
     Please review this information about updates to our Terms.](https://www.airbnb.com/help/article/2877)
