@@ -24,7 +24,7 @@ Changes to Terms
 Restriction, suspension and termination
 ---------------------------------------
 
-* Meta Platforms Technologies may remove Your application and/or restrict, suspend or terminate Your developer account if you are in breach the Terms. Whether Meta Platforms Technologies decides to temporarily or permanently remove Your application or other content and/or to restrict, suspend or terminate Your account will be assessed on a case-by-case basis taking into account various considerations including previous behaviour, the nature of the breach and Your willingness to co-operate and take steps to be compliant.
+* Meta Platforms Technologies may remove Your application and/or restrict, suspend or terminate Your developer account if you are in breach the Terms. Whether Meta Platforms Technologies decides to temporarily or permanently remove Your application or other content and/or to restrict, suspend or terminate Your account will be assessed on a case-by-case basis taking into account various considerations including previous behavior, the nature of the breach and Your willingness to co-operate and take steps to be compliant.
 * Examples of instances in which Meta Platforms Technologies may suspend or restrict access to our services include non-compliance with the Meta Platforms Technologies Policies.
 * Examples of instances in which Meta Platforms Technologies may terminate access to our services include if You fail to provide the IP rights necessary for distribution of Your application on our Platform, or if You upload malicious code to our systems.
 * If Meta Platforms Technologies restricts or suspends Your application or account, Meta Platforms Technologies will provide you with an explanation of the reasons for taking such action either on or before the date on which the restriction or suspension becomes effective.
@@ -91,7 +91,7 @@ Complaint handling system
 Complaint Handling System Annual Report
 ---------------------------------------
 
-From July 2020 through June 2021, we received zero inquiries via the complaint handling system for business users of Meta Platforms Technologies in the EU and UK that was established pursuant to requirements of the Regulation. The complaint handling system enables business users to make inquiries about an action that Meta Platforms Technologies has taken against a user’s account within the following topics that are set out in the Regulation: Non-compliance, Technological Issue, and Other Platform Conduct.
+From July 2021 through June 2022, we received zero inquiries via the complaint handling system for business users of Meta Platforms Technologies in the EU and UK that was established pursuant to requirements of the Regulation. The complaint handling system enables business users to make inquiries about an action that Meta Platforms Technologies has taken against a user’s account within the following topics that are set out in the Regulation: Non-compliance, Technological Issue, and Other Platform Conduct.
 
 Mediation
 ---------
