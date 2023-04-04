@@ -306,6 +306,8 @@ The terms of this Schedule apply if you submit any Mobile App for inclusion in A
         
     6. You will promptly notify us if, at any time, any Amazon Underground App no longer meets the Eligibility Requirements.
     
+      
+    
 3. **Royalties.**
     
     1. Subject to your compliance with the terms of this Agreement and this Schedule, the responsible Amazon Party will pay you Royalties for each Amazon Underground App calculated as follows (in lieu of the Royalties that would otherwise be payable under the Distribution Schedule): (i) the number of minutes that Amazon Underground App is used by end users (determined in accordance with Section 4 of this Schedule) while it is available for purchase through Amazon Underground and during the Wind-Down Period multiplied by (ii) the applicable Per-Minute Rate ("**Underground Royalties**"). The "**Wind-Down Period**" for an Amazon Underground App is the six-month period beginning on the date that Amazon Underground App ceases to be available for purchase through Amazon Underground.
@@ -439,20 +441,16 @@ Advertising ID Schedule
 
 The terms of this Schedule apply if you use the Advertising ID API. "Advertising ID API" means any of the Program Materials we make available to provide Advertising IDs or enable the use of Advertising IDs within your Content.
 
-1. **Advertising ID**. The "Advertising ID" is a user-resettable, unique, random identifier we make available on certain Fire devices for your use for advertising and analytics purposes.
+1. **Advertising IDs**. Advertising IDs are user-resettable, unique identifiers we make available via the Alexa Service, via Fire TV, and on certain Fire devices.
     
-2. **Limitations on your use of the Advertising ID**. The following limitations apply to you and anyone with whom you share the Advertising ID:
+2. **Limitations on your use of Advertising IDs**. The following limitations apply to you and anyone with whom you share any Advertising ID:
     
-    1. You may only use the Advertising ID for advertising and analytics purposes.
-        
-    2. You must comply with the end user's selection for the "Limit Interest-Based Ads in Apps" setting by not using the Advertising ID to build a profile of the end user or show the end user interest-based ads if the end user has enabled the setting. You must verify the status of the setting each time you access the Advertising ID.
-        
-    3. You may not associate the Advertising ID with any personally-identifiable information or persistent device identifier without consent from the end user.
-        
-    4. If the end user resets the Advertising ID, you must not associate the new Advertising ID with a previous Advertising ID or any data you collected in connection with a previous Advertising ID without consent from the end user.
-        
-    5. Without limiting your obligations under Section 4 of the Agreement, you must provide any necessary notice to, and obtain any necessary consent from, end users for the collection, use, transfer, and storage of the Advertising ID.
-        
+    1. You may only use Advertising IDs for advertising and analytics purposes.
+    2. We may offer end users the ability to indicate that they do not wish to receive interest-based ads from developers (an “Advertising ID Setting”). If an end user’s Advertising ID Setting indicates the end user does not wish to receive interest-based ads, you may not use the applicable Advertising ID to show interest-based ads or build profiles for advertising purposes.
+    3. You may not associate any Advertising ID with any personally-identifiable information, personal data, persistent device identifier, or other Advertising ID without consent from the end user.
+    4. If the end user resets an Advertising ID, you must not associate previously collected data or any prior Advertising ID with the new Advertising ID or continue using the prior Advertising ID without consent from the end user. 
+    5. Without limiting your obligations under Section 4 of the Agreement, you must provide any necessary notice to, and obtain any necessary consent from, end users for your collection, use, transfer, and storage of any Advertising ID.
+    6. We may allow you to request that we provide Advertising IDs directly to your advertising service providers. You are responsible for ensuring your service providers comply with the applicable portions of this Agreement (including this Schedule) and are responsible for any noncompliance.
 3. **Survival**. All Sections of this Schedule will survive any termination of the Agreement.
     
 
@@ -622,22 +620,22 @@ Skill Developer Accelerator Program Schedule
 The terms of this Schedule apply to you if you meet the Eligibility Requirements in this section for the Amazon Skill Developer Accelerator Program (“**SDAP**”).
 
 1. **Eligibility Requirements**. You are eligible for SDAP in a particular benefit period if you meet the associated “Eligibility Requirement” in the table below.  A benefit period during which you meet the Eligibility Requirement is a “Benefit Period.”
-
-|     |     |
-| --- | --- |
-| Benefit Period | Eligibility Requirement |
-| July 1, 2022 – December 31, 2022 | Your total SDAP Sales (defined below) in the prior calendar year is less than the SDAP Threshold (defined below) |
-| 2023 and subsequent calendar years |
-
+    
+    |     |     |
+    | --- | --- |
+    | Benefit Period | Eligibility Requirement |
+    | July 1, 2022 – December 31, 2022 | Your total SDAP Sales (defined below) in the prior calendar year is less than the SDAP Threshold (defined below) |
+    | 2023 and subsequent calendar years |
+    
 2. **SDAP Royalty**. In lieu of the Alexa Skills and In-Skill Products Royalties that would otherwise be payable under the Distribution Schedule, the responsible Amazon Party will pay you the SDAP Royalty in the table below for sales of your Alexa Skills and In-Skill Products, up to the SDAP Threshold, that are made during the Benefit Period. For all sales of your Alexa Skills and In-Skill Products during the Benefit Period that exceed the SDAP Threshold, you will not receive the SDAP Royalty but you will receive the applicable Royalty outlined elsewhere in this Agreement.
-
-|     |     |
-| --- | --- |
-| Benefit Period | SDAP Royalty |
-| July 1, 2022 – December 31, 2022 | 80% of the List Price for the applicable Amazon Marketplace as of the time of purchase and an additional 10% of the List Price for the applicable Amazon Marketplace as of the time of purchase |
-| January 1, 2023 - December 31, 2023 |
-| 2024 and subsequent calendar years | 80% of the List Price for the applicable Amazon Marketplace as of the time of purchase |
-
+    
+    |     |     |
+    | --- | --- |
+    | Benefit Period | SDAP Royalty |
+    | July 1, 2022 – December 31, 2022 | 80% of the List Price for the applicable Amazon Marketplace as of the time of purchase and an additional 10% of the List Price for the applicable Amazon Marketplace as of the time of purchase |
+    | January 1, 2023 - December 31, 2023 |
+    | 2024 and subsequent calendar years | 80% of the List Price for the applicable Amazon Marketplace as of the time of purchase |
+    
 3. **Miscellaneous**.
     1. Determinations of whether you meet the Eligibility Requirements, including any currency conversions we make in connection with our calculation of SDAP Sales, will be in our sole discretion.
     2. You will no longer be eligible to participate in SDAP if we determine, in our sole discretion, that you have engaged in any deceptive, fraudulent, or misleading act or omission with respect to your eligibility for or participation in SDAP (e.g., if you transfer your Alexa Skills in order to maintain SDAP eligibility).
