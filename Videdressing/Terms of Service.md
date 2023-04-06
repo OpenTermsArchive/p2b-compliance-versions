@@ -4,193 +4,11 @@ GÉNÉRALES
 
 
 
-Sommaire
-
-
-
-Définitions
-
-
-
-Article 1 - Inscription sur le Site
-
-
-
-1.1 - Conditions d’inscription
-
-1.2 - Ouverture d’un compte
-
-1.3 - Création d’une Boutique
-
-1.4 - Obligations de l’Utilisateur
-
-
-
-Article 2 - Protection des données personnelles
-
-
-
-Article 3 - Articles mis en vente
-
-
-
-3.1 - Mise en ligne d’un Article
-
-3.2 - Obligations de l’Utilisateur
-
-3.3 - Interdictions de vente
-
-3.4 - Lutte anti-contrefaçon
-
-3.5 - Détermination du Prix de vente
-
-3.6 - Détermination du Prix de vente en boutique
-
-3.7 - L’option “Certificat de Conformité”
-
-3.8 - Le programme de promotion
-
-3.9 - Prise en charge des Frais de Port par le Vendeur
-
-
-
-Article 4 - Commande
-
-
-
-4.1 - Passer une Commande
-
-4.2 - Expédition de la Commande
-
-4.2.1 \- Modes de livraison : Colissimo, Lettre Suivie et transporteurs divers
-
-4.2.2 \- Mode de livraison : Mondial Relay
-
-4.3 - Expédition chez Videdressing : Certificat de Conformité
-
-4.4 - Remise en main propre
-
-4.5 - Réception de l’Article Article
-
-
-
-5 - Paiement d’une vente
-
-5.1 - Contenu du paiement
-
-5.2 - Frais de Service
-
-5.3 - Prix des Frais de Port
-
-5.4 - Frais de douane
-
-5.5 - Paiement en plusieurs fois
-
-5.6 - Les différents modes de paiement
-
-
-
-Article 6 - Finalisation de la vente
-
-
-
-6.1 - Commission
-
-6.2 - Somme versée au Vendeur
-
-
-
-Article 7 - Le Porte-Monnaie
-
-
-
-Article 8 - Garantie satisfait ou remboursé
-
-
-
-8.1 - Application de la Garantie Satisfait ou Remboursé
-
-8.2 - Exercice de la Garantie Satisfait ou Remboursé
-
-8.3 - Retour de l’Article chez Videdressing
-
-8.4 - Retour de l’Article chez le Vendeur
-
-8.5 - Remise en vente d'un Article
-
-
-
-Article 9 - Règlement du programme de Parrainage de Videdressing
-
-
-
-Article 10 - Résolution des litiges
-
-
-
-Article 11 - Dispositions particulières applicables aux Vendeurs particuliers
-
-
-
-11.1 - Obligations générales des Vendeurs particuliers
-
-11.2 - La garantie des vices cachés
-
-
-
-Article 12 - Dispositions particulières applicables aux Vendeurs professionnels
-
-
-
-12.1 - Obligation diverses
-
-12.2 - Obligation de se déclarer en tant que professionnel
-
-12.3 - Obligation de déclarer ses revenus
-
-12.4 - Obligations relatives au droit de la consommation
-
-12.5 - Droit de rétractation
-
-12.6 - Garanties légales
-
-12.6.1 \- La garantie de conformité
-
-12.6.2 \- La garantie des vices cachés
-
-12.7 - Obligations relatives à la protection des données personnelles
-
-Article 13 - Responsabilités
-
-
-
-13.1 - Limitation de responsabilité
-
-13.2 - Accès au Site
-
-13.3 - Suspension temporaire des obligations des parties
-
-
-
-Article 14 - Propriété intellectuelle
-
-
-
-14.1 - Droits de propriété intellectuelle
-
-14.2 - Contenu des Annonces
-
-
-
-Article 15 - Dispositions diverses
-
-
-
 Mentions légales
 
 
 
-Dernière modification : 07/10/2021
+Dernière modification : 01/03/2023
 
 
 
@@ -210,9 +28,7 @@ Adresse mail : info@videdressing.com
 
 
 
-Numéro de téléphone:
-
-Directeur de publication : Monsieur Antoine Jouteau.
+Directeur de publication : Monsieur Marc Brandsma.
 
 
 
@@ -231,6 +47,8 @@ requisition@scmfrance.fr
 
 
 Numéro de la TVA : FR32521724336
+
+
 
 Hébergeur : Claranet SAS - 18-20 rue du Faubourg du Temple - 75011 Paris - RCS de
 
@@ -254,11 +72,15 @@ le siège social est à Paris (75002), 24 rue des Jeûneurs.
 
 
 
-Le Site met en relation des Vendeurs et des Acheteurs souhaitant vendre des articles de
+A compter du 1er juillet 2023, le Site sera fermé de manière définitive.
 
-mode de seconde main (ci-après les Articles). Les Vendeurs et les Acheteurs pourront être
 
-définis ci-après par le terme « Utilisateurs ».
+
+Jusqu’au 1er juillet 2023, le Site met en relation des Vendeurs et des Acheteurs souhaitant
+
+vendre des articles de mode de seconde main (ci-après les Articles). Les Vendeurs et les
+
+Acheteurs pourront être définis ci-après par le terme « Utilisateurs ».
 
 
 
@@ -296,7 +118,9 @@ Adresse de Livraison : adresse postale renseignée par l’Acheteur lors de sa C
 
 
 
-Annonce : offre de vente d'un ou de plusieurs Article(s) émise par le Vendeur sur le Site.
+Annonce : offre de vente d'un ou de plusieurs Article(s) émise par le Vendeur sur le Site. A
+
+compter du 12 avril 2023, il n’est plus possible de déposer une Annonce sur le Site.
 
 
 
@@ -304,7 +128,9 @@ Article : objet appartenant aux catégories mode, mis en vente par un Vendeur su
 
 répondant aux critères définis à l'Article 3 des présentes Conditions Générales et qui
 
-constitue l'objet du contrat entre le Vendeur et l'Acheteur.
+constitue l'objet du contrat entre le Vendeur et l'Acheteur. A compter du 12 avril 2023, il
+
+n’est plus possible de déposer un Article sur le Site.
 
 
 
@@ -312,13 +138,13 @@ Bon d'Achat : remise à faire valoir lors d'une ou plusieurs Commandes sur le Si
 
 www.videdressing.com.
 
+
+
 Bon de Remise : e-mail contenant un code et communiqué à l'Acheteur lors de la
 
 confirmation de la disponibilité de l'Article commandé. Ce code est transmis par l’Acheteur
 
 au Vendeur dans le cadre d'une Remise en main propre et permet le paiement du Vendeur.
-
-
 
 Bon d’envoi prépayé : étiquette d’envoi générée par Videdressing pour l’envoi d’un ou
 
@@ -330,7 +156,9 @@ Relay.
 
 Boutique : regroupe l’ensemble des Articles proposés à la vente sur Videdressing par un
 
-même Vendeur et informations sur ce dernier. Cette page est publique.
+même Vendeur et informations sur ce dernier. Cette page est publique. A compter du 12
+
+avril 2023, il n’est plus possible de créer une Boutique sur le Site.
 
 
 
@@ -356,7 +184,9 @@ dernier.
 
 
 
-Commande : achat d’un Article par un Acheteur auprès d'un Vendeur sur Videdressing.
+Commande : achat d’un Article par un Acheteur auprès d'un Vendeur sur Videdressing. A
+
+compter du 12 avril 2023, il n’est plus possible de passer une Commande sur le Site.
 
 
 
@@ -392,13 +222,13 @@ Frais de Port : frais d'expédition fixés par Videdressing, sur la base des tar
 
 d’expédition selon le Mode de livraison choisi par les Utilisateurs.
 
+
+
 Frais de Service : frais d’utilisation de Videdressing correspondant à un pourcentage du
 
 Prix de l’Article. Ils sont à la charge de l’Acheteur au moment du passage de la Commande
 
 et définitifs lorsqu’une vente est finalisée.
-
-
 
 Garantie Satisfait ou Remboursé : possibilité pour un Acheteur non satisfait de sa
 
@@ -414,7 +244,7 @@ Offre d'Achat : offre irrévocable d'achat d'un ou de plusieurs Article(s) émis
 
 Acheteur sur le Site en réponse à une ou plusieurs Annonce(s) d'un ou de plusieurs
 
-Vendeur(s).
+Vendeur(s). A compter du 12 avril 2023, il n’est plus possible d’effectuer une Offre d’Achat.
 
 
 
@@ -470,17 +300,21 @@ Vendeur. Ce prix n’est pas vérifié par Videdressing.
 
 
 
-Remise en main propre: option proposée au Vendeur lorsqu'il crée son Annonce et qui peut
+Remise en main propre : option proposée au Vendeur lorsqu'il crée son Annonce et qui
 
-être sélectionnée par l’Acheteur en vue de se faire remettre l'Article commandé en main
+peut être sélectionnée par l’Acheteur en vue de se faire remettre l'Article commandé en
 
-propre, faisant ainsi l'économie du montant des Frais de Port.
+main propre, faisant ainsi l'économie du montant des Frais de Port.
+
+
 
 Remise en vente : possibilité pour un Acheteur non satisfait de son Article et ayant déclaré
 
 son insatisfaction dans les 48 heures imparties suivant sa réception de remettre en vente
 
-son Article gratuitement, sans frais de remise en vente ni Commission.
+son Article gratuitement, sans frais de remise en vente ni Commission. A compter du 12
+
+avril 2023, il n’est plus possible d’effectuer une Remise en vente sur le Site.
 
 
 
@@ -488,7 +322,9 @@ Site : sites Internet accessibles aux URL suivante http://www.videdressing.com e
 
 http://m.videdressing.com ainsi qu’à travers les applications mobile Videdressing iOS et
 
-Android, gérés par LBC France.
+Android, gérés par LBC France. A compter du 1er juillet 2023, le Site sera définitivement
+
+fermé.
 
 
 
@@ -542,6 +378,10 @@ personne morale.
 
 
 
+A compter du 12 avril 2023, il n’est plus possible d’ouvrir un compte sur le Site.
+
+
+
 Pour s’inscrire sur le Site, l’Utilisateur devra créer un compte à l’aide de son adresse email
 
 ou en utilisant la fonction Facebook Connect.
@@ -570,6 +410,10 @@ serviront à la création automatique du compte Videdressing de l’Utilisateur.
 
 
 
+A compter du 12 avril 2023, il n’est plus possible de créer une Boutique sur le Site.
+
+
+
 Après inscription sur le Site, l’Utilisateur se voit attribuer une Boutique. Le nom d’Utilisateur
 
 choisi lors de son inscription sera publiquement affiché sur celle-ci.
@@ -578,9 +422,9 @@ choisi lors de son inscription sera publiquement affiché sur celle-ci.
 
 Sur la Boutique, les informations renseignées par l’Utilisateur s’affichent publiquement :
 
-• Nom de la Boutique;
+• Nom de la Boutique ;
 
-• Ville et pays;
+• Ville et pays ;
 
 • Date d’inscription ;
 
@@ -588,9 +432,9 @@ Sur la Boutique, les informations renseignées par l’Utilisateur s’affichent
 
 • Photo de profil de l’Utilisateur ;
 
-• Nombre d’Articles en vente et déjà vendus
+• Nombre d’Articles en vente et déjà vendus ;
 
-• Notation, et;
+• Notation et ;
 
 • Description rédigée par l’Utilisateur.
 
@@ -710,6 +554,16 @@ Article 3 - Articles mis en vente
 
 
 
+Dans le cadre de la fermeture du Site le 1er juillet 2023, il n’est plus possible de mettre en
+
+vente un Article sur le Site à compter du 12 avril 2023.
+
+
+
+Concernant les Articles mis en vente sur le Site avant le 12 avril 2023 :
+
+
+
 Tout Article mis en vente sur le Site doit correspondre à un bien matériel disponible
 
 immédiatement. Le Vendeur doit disposer de la pleine et entière propriété des Articles, à
@@ -794,8 +648,6 @@ Videdressing pourra demander à l’Utilisateur de modifier son Annonce, notamme
 
 dernière est erronée ou ne respecte pas les présentes Conditions Générales.
 
-
-
 Le Vendeur s’engage à ne mettre qu’une Annonce par Article mis en vente. Si le Vendeur
 
 dispose d’un stock supérieur à une unité, ce dernier doit l’indiquer dans son Annonce.
@@ -809,6 +661,8 @@ Article.
 En cas de non-respect de l’une de ces obligations, Videdressing se réserve le droit de
 
 procéder à la suppression du compte de l’Utilisateur.
+
+
 
 3.3 - Interdictions de vente
 
@@ -873,8 +727,6 @@ supprimer l’Annonce.
 Les certificats provenant de cabinets indépendants ne sont pas acceptés comme preuve
 
 d’authenticité.
-
-
 
 Les Utilisateurs s'engagent à informer Videdressing dès qu'ils constateront qu'une Annonce
 
@@ -954,8 +806,6 @@ de 30 euros. Cette somme sera déduite du montant de la vente lors de la finalis
 
 Commande.
 
-
-
 L’Article sera expédié dans les locaux de Videdressing (24 rue des Jeûneurs, 75002 Paris,
 
 France) et contrôlé physiquement par l’équipe anti-contrefaçon. Le Certificat de Conformité
@@ -973,6 +823,8 @@ Conformité.
 Par exception, les Vendeurs résidant hors Union Européenne ne peuvent pas opter pour le
 
 Certificat de Conformité.
+
+
 
 Dans l'hypothèse où l’Article contrôlé dans le cadre du Certificat de Conformité serait jugé
 
@@ -1030,8 +882,6 @@ plusieurs de leurs Articles en cas de Commande. Au moment de la création de l�
 
 les Vendeurs peuvent cocher la case prévue à cet effet pour faire ce choix.
 
-
-
 Lors du passage de la Commande, l’Acheteur ne se verra pas appliquer les Frais de Port. Il
 
 reviendra au Vendeur de payer lui-même les frais d’expédition. Aucun remboursement des
@@ -1046,11 +896,23 @@ ainsi que pour les Commandes comprenant un Acheteur et un Vendeur dont les adres
 
 sont situées dans le même pays.
 
+
+
 Article 4 - Commandes
 
 
 
 4.1 - Passer une Commande
+
+
+
+Dans le cadre de la fermeture du Site le 1er juillet 2023, il n’est plus possible de passer une
+
+Commande sur le Site à compter du 12 avril 2023.
+
+
+
+Concernant les Commandes passées sur le Site avant le 12 avril 2023 :
 
 
 
@@ -1104,8 +966,6 @@ entre l’Acheteur et le Vendeur. Lors du passage de la Commande puis de sa fina
 
 propriété du ou des Articles est directement transmise du Vendeur à l’Acheteur.
 
-
-
 Pour toute question relative à une Commande, l’Acheteur et le Vendeur peuvent contacter
 
 le Service Client au :
@@ -1113,6 +973,10 @@ le Service Client au :
 
 
 4.2 - Expédition de la Commande
+
+
+
+Concernant les Commandes passées sur le Site avant le 12 avril 2023 :
 
 
 
@@ -1127,6 +991,8 @@ Vendeur au moment de la création de son Annonce. L'Acheteur s'engage à posséd
 boîte aux lettres normalisée conforme aux recommandations des services postaux
 
 (dimension de la boîte aux lettres, indication des coordonnées des résidents...).
+
+
 
 Le Vendeur situé en France ne peut choisir un mode d’expédition autre que Colissimo,
 
@@ -1182,8 +1048,6 @@ Le Vendeur s’engage à conserver la Preuve d'Expédition du Colis pendant tren
 
 à compter de ladite expédition.
 
-
-
 Le Vendeur s'engage à n'insérer aucune publicité pour lui-même ou pour quiconque, sous
 
 quelque forme que ce soit.
@@ -1207,6 +1071,8 @@ A défaut d’expédition de la Commande et de communication au service client d
 suivi du colis dans un délai de dix (10) jours après la confirmation de disponibilité de
 
 l’Article, la vente sera annulée et l’Acheteur sera remboursé du Prix de la Transaction.
+
+
 
 4.2.1 \- Modes de livraison : Colissimo, Lettre Suivie et transporteurs divers
 
@@ -1262,8 +1128,6 @@ force majeure, de vice propre de la chose ou de tout autre élément non imputab
 
 La Poste.
 
-
-
 Dans l'hypothèse où l'Acheteur ne réceptionnerait pas son Colis, il appartient au Vendeur
 
 d’effectuer une réclamation auprès du transporteur, selon le Mode de livraison choisi. Dans
@@ -1291,6 +1155,8 @@ pour l’expédition de son Article.
 L’option Mondial Relay est activée par défaut pour tous les Vendeurs situés en France
 
 Métropolitaine (hors Corse).
+
+
 
 A compter de la déclaration de disponibilité de l’Article, Videdressing transmettra un Bon
 
@@ -1342,8 +1208,6 @@ En cas d’anomalie constatée quant à l’état du Colis lors de sa réception
 
 s’engage à refuser le Colis.
 
-
-
 Dans l’hypothèse d’un Colis perdu, une enquête interne au sein de Mondial Relay est
 
 ouverte au dixième (10ème) jour suivant la dernière mise à jour du statut du Colis, sur
@@ -1375,6 +1239,8 @@ de réponse 2 jours ouvrés)
 • Par téléphone au 09 69 32 23 32 du lundi au vendredi de 9h à 12h et de 14h à 17h30
 
 La durée moyenne d’une enquête est de vingt (20) jours.
+
+
 
 Si la perte ou l’avarie est constatée par Mondial Relay, Videdressing remboursera le
 
@@ -1426,8 +1292,6 @@ l’Union Européenne, ce dernier ne recevra pas de Bon d’envoi prépayé et s
 
 expédier l’Article par ses propres moyens.
 
-
-
 Cette option ne s’applique pas aux Vendeurs situés en dehors de l’Union Européenne.
 
 
@@ -1457,6 +1321,8 @@ délai de 48 heures suivant la réception de l'Article (y compris week-ends et j
 sans compter le jour de la livraison). En cas de non réception de l’Article dans le délai de 48
 
 heures, l’Acheteur devra en informer le service client.
+
+
 
 Si l'Acheteur ne s'est pas manifesté dans le délai de 48 heures, Videdressing procèdera à
 
@@ -1586,8 +1452,6 @@ d’annulation de la Commande, Videdressing s’engage à rembourser les Frais d
 
 l’Acheteur. Ceux-ci sont en revanche dus dès lors que la vente est finalisée.
 
-
-
 5.3 - Prix des Frais de Port
 
 
@@ -1631,6 +1495,8 @@ France Colissimo 7,90 € 8,90 € 9,90 €
 
 
 DOM Colissimo 13,55 € 14,55€ 15,55€
+
+
 
 TOM Colissimo 16,20 € 17,20 € 18,20 €
 
@@ -1718,6 +1584,8 @@ Niger, Bhoutan, Bolivie, Île Bouvet, Brésil, Territoire britannique de l'océa
 
 Darussalam, Cambodge, Îles Caïmans, Chili.
 
+
+
 A noter, lorsque le Vendeur expédie l’Article vers un autre pays que le sien, à l’exception de
 
 l’Allemagne et de l’Italie, le montant des Frais de Port est alors forfaitaire.
@@ -1762,8 +1630,6 @@ sera de 5,90€.
 
 La valeur totale des Articles présents dans le Colis ne peut excéder 500 euros.
 
-
-
 • Lorsque le Vendeur expédie via Lettre Suivie
 
 
@@ -1797,6 +1663,8 @@ formulaire d’expédition qu’il s’agit d’un retour de marchandise. A déf
 formulaire de retour, les frais de douane indûment taxés au Vendeur lors du retour de son
 
 Article, seront déduits du montant du remboursement versé à l’Acheteur.
+
+
 
 5.5 - Paiement en plusieurs fois
 
@@ -1848,8 +1716,6 @@ des modes de paiement utilisés par l’Acheteur lors de la Commande.
 
 • Par le Porte-Monnaie
 
-
-
 Suite à une vente finalisée, le Vendeur reçoit le montant de sa vente sur son Porte-Monnaie
 
 Videdressing. Le Vendeur peut alors choisir de réutiliser ce montant dans le cadre d’une
@@ -1879,6 +1745,8 @@ En conséquence, l’Acheteur est redirigé, lors du paiement, vers la plateform
 HPME. Les conditions et modalités applicables à l’opération de paiement lui sont précisés à
 
 cette occasion.
+
+
 
 Ce mode de paiement est sécurisé par une procédure de cryptage des données afin
 
@@ -1926,8 +1794,6 @@ L'Acheteur peut régler le Prix de l’Article en utilisant un Bon d'Achat fourn
 
 contenant un code.
 
-
-
 Les Bons d'Achat sont utilisables exclusivement sur le site www.videdressing.com et
 
 valables sur tous les Articles du Site. Les Bons d'Achat sont valables pendant une période
@@ -1963,6 +1829,8 @@ l'Article venait à être retourné dans le cadre de la Garantie Satisfait ou Re
 destinataire du bon se verra communiquer un nouveau code à saisir lors d’une nouvelle
 
 Commande. La durée de validité du Bon d'Achat ne sera pas prorogée.
+
+
 
 Le montant des Bons d'Achat ne peut pas être crédité sur un compte bancaire ou une carte
 
@@ -2008,8 +1876,6 @@ Pour les Vendeurs professionnels, Videdressing, à travers la société LBC Fran
 
 une commission égale à 12% HT avec un maximum de 250 euros HT.
 
-
-
 Par exception, la Commission facturée au Vendeur, y compris professionnel, pour chaque
 
 Article dont le prix est inférieur ou égal à 150 euros est offerte.
@@ -2045,6 +1911,8 @@ une erreur sur le motif d’insatisfaction et que l’Article est conforme. De t
 Vendeur a offert les Frais de Port à son Acheteur, ce montant ne lui sera en aucun cas
 
 reversé.
+
+
 
 Le Vendeur accepte de ne percevoir qu'une somme égale au Prix de la Transaction à
 
@@ -2124,6 +1992,8 @@ Ainsi, aucun virement vers un compte bancaire situé hors zone SEPA ne pourra ê
 
 effectué.
 
+
+
 Dans le cadre de la lutte contre la fraude, Videdressing peut demander au Vendeur de lui
 
 fournir des justificatifs. Videdressing se réserve le droit de suspendre le virement dans
@@ -2170,8 +2040,6 @@ rembourser les Acheteurs, de ne pas procéder au virement sur son compte bancair
 
 sommes figurant dans son Porte-Monnaie
 
-
-
 Article 8 - Garantie Satisfait ou Remboursé
 
 
@@ -2207,6 +2075,8 @@ chaussettes et collants.
 Dans l'hypothèse où le Vendeur est un particulier, Videdressing a mis en place la procédure
 
 suivante permettant à l'Acheteur de renvoyer l'Article commandé s'il n'en est pas satisfait.
+
+
 
 Dans les 48 heures suivant la réception de l'Article (y compris week-ends et jours fériés
 
@@ -2288,6 +2158,8 @@ d’insatisfaction suivants « Etat de l’Article », « Description incorrecte
 
 reçu », « Article défectueux/endommagé ».
 
+
+
 L'Acheteur dispose d'un nouveau délai de 48 heures (hors week-ends et jours fériés) pour
 
 retourner l'Article chez Videdressing et indiquer le numéro de suivi du Colis sur la page du
@@ -2331,8 +2203,6 @@ remboursée qu'une somme égale au Prix de l'Article, à l'exclusion de toute au
 Videdressing versera au Vendeur, le montant des Frais de Port initiaux, sauf dans le cas où
 
 le Vendeur avait choisi d’offrir les Frais de Port.
-
-
 
 Le remboursement se fera par recrédit, selon le mode de paiement initialement utilisé par
 
@@ -2454,6 +2324,8 @@ Si l'Article est conforme à l'Annonce, le Vendeur est remboursé des Frais de P
 
 la réception de l'Article est confirmée.
 
+
+
 Si l'Article n'est pas conforme à l'Annonce, Videdressing, à travers la société LBC France,
 
 ne versera au Vendeur aucune somme au titre des Frais de Port qu'il aura engagé.
@@ -2502,8 +2374,6 @@ Vendeur, si l’Acheteur n’est pas en mesure de prouver la bonne livraison du 
 
 l’Article aux coordonnées postales de retour fournies.
 
-
-
 Dans l’hypothèse où le Vendeur déclarerait avoir reçu en retour un Colis vide, sa
 
 réclamation ne pourra être traitée que si la procédure décrite ci-après est respectée :
@@ -2528,15 +2398,25 @@ procédure judiciaire ou à déposer plainte contre l’autre partie.
 
 
 
+Dans le cadre de la fermeture du Site le 1er juillet 2023, la Remise en vente d’un Article
+
+n’est plus possible sur le Site à compter du 12 avril 2023.
+
+
+
+Concernant les Articles remis en vente sur le Site avant le 12 avril 2023 :
+
+
+
 Dans les 48 heures suivants la réception de l'Article (y compris week-ends et jours fériés
 
 sans compter le jour de livraison), l’Acheteur pourra choisir de remettre son Article en vente
 
-en
+en cochant la case prévue à cet effet, sans frais de Remise en vente, ni Commission.
 
-cochant la case prévue à cet effet, sans frais de Remise en vente, ni Commission. L’Article
+L’Article sera automatiquement remis en vente dans la Boutique Videdressing de
 
-sera automatiquement remis en vente dans la Boutique Videdressing de l’Acheteur.
+l’Acheteur.
 
 
 
@@ -2573,8 +2453,6 @@ de Videdressing pourront parrainer des internautes afin qu’ils deviennent eux-
 Utilisateurs du Site. Les Utilisateurs parrainés peuvent à leur tour devenir Parrains. Il est
 
 précisé qu’un Filleul ne peut être lié qu’à un seul Parrain.
-
-
 
 LBC France, société éditrice du Site, se réserve le droit d’interrompre le Programme de
 
@@ -2616,6 +2494,8 @@ en ayant parrainé cinquante internautes différents. Les Bons d’achat ne sont
 
 cumulables.
 
+
+
 Le Parrain ne peut pas se parrainer lui-même, parrainer plusieurs fois la même personne
 
 ou parrainer un internaute qui est déjà inscrit sur le Site ou qui est membre de son foyer.
@@ -2641,6 +2521,12 @@ Si un litige survient dans le cadre d’un achat auprès d’un Vendeur particul
 peut faire appel à l’assistance Videdressing et adresser une réclamation auprès du service
 
 client.
+
+A compter du 1er juillet 2023, si un litige survient dans le cadre d’un achat, toute
+
+réclamation devra être adressée au service client à l’adresse suivante :
+
+sc-videdressing@leboncoin.fr.
 
 
 
@@ -2698,6 +2584,8 @@ Afin de résoudre le litige, les parties acceptent que les informations de suivi
 
 indiquées par les transporteurs feront foi.
 
+
+
 En cas de litige concernant la livraison d’une Commande, l’expéditeur du colis s’oblige à
 
 effectuer les démarches auprès des transporteurs. L’expéditeur est responsable du bon
@@ -2733,8 +2621,6 @@ concerné.
 
 
 Article 11 - Dispositions particulières applicables aux Vendeurs particuliers
-
-
 
 11.1 - Obligations générales des Vendeurs particuliers
 
@@ -2778,6 +2664,8 @@ l’Article,
 
 • ou conserver cet Article en l’échange d’une réduction du prix.
 
+
+
 L’Acheteur bénéficie de cette garantie dans un délai de deux (2) ans à compter de la date
 
 de livraison de l’Article. Il devra prouver que le vice existait au moment de cette livraison.
@@ -2813,8 +2701,6 @@ lorsqu’il s’agit de cuir.
 
 
 12.2 - Obligation de se déclarer en tant que professionnel
-
-
 
 Videdressing rappelle aux Utilisateurs qu’ils peuvent être considérés comme un
 
@@ -2900,8 +2786,6 @@ Annonces, et/ou bloquer les sommes présentes sur son Porte-Monnaie.
 
 12.3 - Obligation de déclarer ses revenus
 
-
-
 LBC France, société éditrice du Site rappelle aux Utilisateurs qu’en tant que professionnel,
 
 ces derniers ont l’obligation de déclarer leurs revenus générés sur le Site, aux
@@ -2945,6 +2829,8 @@ notamment à une contravention de 3ème classe (jusqu’à 450 euros) et, en cas
 l’obligation de régulariser la dette à l’égard de l’organisme de sécurité sociale (cotisations
 
 dues \& majorations de retard).
+
+
 
 En outre, l’Utilisateur concerné peut être condamné au remboursement de prestations : les
 
@@ -3068,8 +2954,6 @@ numérique.
 
 12.5 - Droit de rétractation
 
-
-
 Conformément à la loi n°2014-344 du 17 mars 2014 dite loi Hamon applicable aux
 
 Vendeurs professionnels, l’Acheteur dispose d’un délai de quatorze (14) jours francs à
@@ -3116,6 +3000,8 @@ transmettre en ligne le formulaire de rétractation fourni par le Site. Le formu
 
 être joint dans le Colis de retour de l’Article à destination du Vendeur.
 
+
+
 Dans l’hypothèse où la Commande aurait déjà été finalisée et le Vendeur payé,
 
 Videdressing enclenchera la procédure de retour conformément au droit de rétractation.
@@ -3149,8 +3035,6 @@ Preuve d’Expédition du Colis, la première date faisant foi.
 
 
 Le remboursement se fera par recrédit sur le mode de paiement initial.
-
-
 
 12.6 - Garanties légales
 
@@ -3234,8 +3118,6 @@ l’Article,
 
 • ou conserver cet Article en l’échange d’une réduction du prix.
 
-
-
 L’Acheteur bénéficie de cette garantie dans un délai de deux (2) ans à compter de la date
 
 de livraison de l’Article. Il devra prouver que le vice existait au moment de cette livraison.
@@ -3273,6 +3155,8 @@ obligations et garantit et indemnisera LBC France et ses prestataires (y compris
 justice et honoraires d’avocat) contre toute action, revendication ou demande introduite par
 
 une autorité ou un tiers suite à tout manquement aux termes du présent article.
+
+
 
 Article 13 - Responsabilités
 
@@ -3338,6 +3222,14 @@ ne liera que l'Acheteur et le Vendeur à l'exclusion de LBC France.
 
 
 
+A compter du 1er juillet 2023, le Site sera fermé de manière définitive.
+
+
+
+Concernant l’accès au Site avant le 1er juillet 2023 :
+
+
+
 LBC France, société éditrice du Site ne peut garantir que le Site sera accessible en
 
 permanence et n'est tenu qu'à une obligation de moyens concernant la continuité de son
@@ -3346,13 +3238,15 @@ accès.
 
 
 
-LBC France.se réserve le droit de suspendre l'accès au Site, temporairement ou
+LBC France se réserve le droit de suspendre l'accès au Site, temporairement ou
 
 définitivement, pour toutes raisons, et notamment en cas de maintenance ou en cas
 
 d'urgence sans préavis ni indemnité et sans engager sa responsabilité.
 
-En conséquence, LBC France.ne peut être tenue responsable de la perte d'argent, de
+
+
+En conséquence, LBC France ne peut être tenue responsable de la perte d'argent, de
 
 réputation, de dommages spéciaux, indirects ou induits résultant directement ou
 
@@ -3478,8 +3372,6 @@ extraction et/ou réutilisation de la ou des bases de données au sens des artic
 
 L 342-2 du code de la propriété intellectuelle est interdite.
 
-
-
 Videdressing peut contenir des liens hypertextes redirigeant vers des sites exploités par
 
 des tiers. Ces liens sont fournis à simple titre d'information. La décision d'activer ces liens
@@ -3513,6 +3405,16 @@ personnes qui n’auraient pas respecté les interdictions contenues dans le pr�
 
 
 14.2 - Contenu des Annonces
+
+
+
+Dans le cadre de la fermeture du Site le 1er juillet 2023, le dépôt d’une Annonce n’est plus
+
+possible sur le Site à compter du 12 avril 2023.
+
+
+
+Concernant le contenu des Annonces déposées sur le Site avant le 1er juillet 2023 :
 
 
 
@@ -3553,8 +3455,6 @@ inconnus à ce jour, dans le cadre du Site ou en relation avec l’activité de 
 diffusion sur les réseaux sociaux sur lesquels Videdressing est présent et notamment les
 
 pages Facebook, Instagram et Twitter de Videdressing.
-
-
 
 En particulier, les photographies des Annonces pourront être reproduites et intégrées dans
 
@@ -3598,9 +3498,21 @@ Article 15 - Dispositions diverses
 
 
 
+A compter du 1er juillet 2023, le Site sera fermé de manière définitive.
+
+
+
+Concernant l’application des Conditions Générales de la part de LBC France avant le 1er
+
+juillet 2023 :
+
+
+
 La tolérance d’éventuels agissements contraires aux présentes Conditions Générales de la
 
 part de LBC France, ne vaut pas renonciation à se prévaloir desdites Conditions Générales.
+
+
 
 Dans l'hypothèse où l'une ou plusieurs des stipulations des présentes Conditions
 
@@ -3623,8 +3535,6 @@ vaut pour chaque opération, Annonce, Offre d'Achat et vente. Les présentes Con
 Générales prévalent sur tout document contractuel ou non contractuel propre au Vendeur
 
 ou propre à l'Acheteur.
-
-
 
 LBC France a la faculté de modifier les présentes Conditions Générales en fonction de
 
