@@ -202,6 +202,48 @@ TrainMe collecte et utilise les données personnelles de l’Utilisateur dans le
 
 Toutes les données concernant les Utilisateurs sont collectées directement auprès de ces derniers lors de la création de son Profil, de la constitution de sa Boutique et/ou lors du processus de Commande.
 
+10.2.1 CAS PARTICULIERS DES DONNÉES COLLECTÉES PAR LES APPLICATIONS TIERCES
+
+Certaines applications tierces sont connectées aux applications TrainMe, et fournissent des données nécessaires à la fois à la création de compte TrainMe, et à la fois à l’activation et la participation aux services TrainMe.
+
+  
+Ces données sont répertoriées ci-dessous par connecteur partenaire :
+
+**United Heroes**
+
+Données nécessaires à la création de compte : 
+
+* Nom
+    
+* Prénom
+    
+* Adresse email
+    
+* Civilité
+    
+* Langue du profil utilisateur
+    
+
+Données relatives à l’activité de l’utilisateur dans l’application United Heroes : 
+
+* Inscriptions/ Désinscriptions aux cours et webinaires organisés par TrainMe
+    
+
+**Fitness Park**
+
+Données nécessaires à la création de compte : 
+
+* Nom
+    
+* Prénom
+    
+* Adresse email
+    
+* Civilité
+    
+
+x
+
 10.3. FINALITE DES DONNEES COLLECTEES
 
 Le recueil des données personnelles des Utilisateurs du Site a pour base légale :   
