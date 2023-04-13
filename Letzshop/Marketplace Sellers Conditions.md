@@ -73,6 +73,23 @@ Conditions particulières d’utilisation applicables aux Vendeurs de la platefo
 
 2.13. Le Vendeur est tenu de confirmer le retour du produit à l’Acheteur en cas d’annulation effective.
 
+2.14. Letzshop autorise la vente de produits d'occasion ou de seconde main sur la plateforme, sous réserve de conditions spécifiques visant à fournir une expérience d'achat transparente et fiable pour les clients.
+
+2.14.1. Aux fins des présentes Conditions Générales, les "produits d'occasion" sont définis comme tous les articles qui ont été précédemment possédés, utilisés ou qui ne sont pas dans leur état original et neuf.
+
+2.14.2. Les vendeurs qui souhaitent lister, vendre ou offrir des produits d'occasion ou de seconde main sur la Plateforme Letzshop doivent se conformer aux conditions suivantes :
+
+* La liste des produits doit clairement et visiblement identifier l'article comme étant d'occasion ou de seconde main.
+    
+* La liste des produits doit fournir une description précise et détaillée de l'état de l'article, y compris l'usure, les dommages ou les défauts.
+    
+* La fiche produit doit contenir des photos claires et détaillées de toutes les marques d'usure, de tous les dommages et de tous les autres aspects pertinents de l'état de l'article. Ces photos doivent être représentatives de l'article vendu et ne doivent en aucun cas induire en erreur.
+    
+* Le vendeur doit fournir toute information supplémentaire demandée par un acheteur potentiel concernant l'état de l'objet, son historique ou d'autres détails pertinents.
+    
+
+2.14.3. Letzshop se réserve le droit de supprimer toutes les annonces qui se révèlent être en violation de ces conditions. De plus, les vendeurs qui violeraient ces conditions de façon répétée pourraient être sujets à une suspension ou une résiliation de leur compte, à la seule discrétion de Letzshop.
+
 3\. Mise en ligne des offres du Vendeur
 ---------------------------------------
 
