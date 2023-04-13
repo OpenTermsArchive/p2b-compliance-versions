@@ -424,7 +424,7 @@ Site Footer
 ### Airbnb
 
 * [Newsroom](https://www.airbnb.com/press/news)
-* [Learn about new features](https://www.airbnb.com/2022-winter)
+* [Learn about new features](https://www.airbnb.com/release)
 * [Letter from our founders](https://news.airbnb.com/what-makes-airbnb-airbnb)
 * [Careers](https://www.airbnb.com/careers)
 * [Investors](https://investors.airbnb.com/)
