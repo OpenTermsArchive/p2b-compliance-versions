@@ -102,7 +102,7 @@ Our CP clauses are:
     * Between 31 and 60 days before check-in: 50% of rent refunded (donation and platform fee not refunded)
     * Up to 61 days before check-in: 100% of the overall amount refunded
 
-[![Fairbnb.coop - Cancellation Policies 2023](https://fairbnb.coop/wp-content/uploads/2023/03/Fairbnb_cancellation_policies_diagram-2023.jpg)](https://fairbnb.coop/wp-content/uploads/2023/03/Fairbnb_cancellation_policies_diagram-2023.jpg "Fairbnb.coop - Cancellation Policies 2023")
+[![](https://fairbnb.coop/wp-content/uploads/2023/03/Fairbnb_cancellation_policies_diagram-2023.jpg)](https://fairbnb.coop/wp-content/uploads/2023/03/Fairbnb_cancellation_policies_diagram-2023.jpg "Fairbnb_cancellation_policies_diagram-2023")
 
 All the CP clauses mentioned above are calculated based on the check-in date. For example, a booking termination by  a Guest the day before the check-in date is considered as “1 day before the check-in date” and will be granted no refund according to all the CP clauses above.
 
