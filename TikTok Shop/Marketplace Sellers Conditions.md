@@ -4,7 +4,7 @@ Last updated: April 3, 2023​
 
 ​
 
-1. Introduction​
+1.Introduction​
 
 These Terms of Service (including Schedules, Appendices and Annexures) (collectively, “Terms”) govern the use of the TikTok Shop to promote and sell (“Offer”) goods (“Products”) by traders (“Merchants/You”) to users of the TikTok application (“Platform”) (“Buyers/Users”), as well as Your use of Service Market and subscription of Partner Services provided by Partners and Integrated Warehouse Services provided by Integrated Warehouses (as such terms are defined hereinafter).​
 
@@ -12,7 +12,7 @@ The entity providing the Platform to You provides You with TikTok Shop. You can 
 
 ​
 
-1. Accepting these Terms​
+2.Accepting these Terms​
 
 By clicking “Agree” or accessing or using the TikTok Shop, You confirm that You can form a binding contract with TikTok, that You accept these Terms and that You agree to comply with them. ​
 
@@ -24,7 +24,7 @@ If You do not agree to these Terms, You must not access or use the TikTok Shop.�
 
 ​
 
-1. Additional Jurisdiction-Specific Terms​
+3.Additional Jurisdiction-Specific Terms​
 
 If You access or use the TikTok Shop from within a jurisdiction for which there are separate supplemental terms, You also hereby agree to the supplemental terms applicable to You in Additional Jurisdiction-Specific Terms. ​
 
@@ -32,7 +32,7 @@ In the event of a conflict between the provisions of the Additional Jurisdiction
 
 ​
 
-1. Changes to These Terms​
+4.Changes to These Terms​
 
 For Merchants residing in United Kingdom​
 
@@ -54,9 +54,7 @@ Notwithstanding the foregoing, We may change these Terms at any time immediately
 
 Any changes will not have retrospective effect. If You do not agree to the change(s) notified to You, You are entitled to terminate Your contractual relationship with Us at any time within during the notice period of the change(s) subject to Clause 24. Where we provide You with notice, if you list any new Products during the notice period, you will be deemed to have waived your right to terminate under this Clause 4. ​
 
-Your continued use of the TikTok Shop after the effective date of any change to these Terms will constitute Your acceptance of that change.​
-
-For Merchants residing in Southeast Asia (Singapore, Indonesia, Vietnam, Thailand, Malaysia and the Philippines)​
+Your continued use of the TikTok Shop after the effective date of any change to these Terms will constitute Your acceptance of that change.For Merchants residing in Southeast Asia (Singapore, Indonesia, Vietnam, Thailand, Malaysia and the Philippines)​
 
 We may amend these Terms from time to time. We will use commercially reasonable efforts to generally notify You of any material changes to these Terms, such as through a written notice to You via the Seller Center. However, it is your sole responsibility to review these Terms regularly to check for such changes. We will also update the “Last Updated” date at the top of these Terms, which reflect the effective date of such Terms. ​
 
@@ -68,7 +66,7 @@ If you do not agree to the new Terms, you must stop accessing or using TikTok Sh
 
 ​
 
-1. About the TikTok Shop​
+5.About the TikTok Shop​
 
 What is the TikTok Shop?​
 
@@ -114,11 +112,9 @@ Approved Merchants can use the TikTok Shop to Offer Products to Users located in
 
 Does TikTok Sell Products Itself on the TikTok Shop?​
 
-No.​
+No. ​
 
-​
-
-1. How to Use the TikTok Shop​
+6.How to Use the TikTok Shop​
 
 How to register as a Merchant on TikTok Shop​
 
@@ -174,9 +170,7 @@ The main parameters We use when determining whether and how Your Products are of
 
 ​
 
-How do the Payment Services Work?​
-
-Please see Additional Jurisdiction-Specific Terms, for information on how payment services work in Your jurisdiction.​
+How do the Payment Services Work?Please see Additional Jurisdiction-Specific Terms, for information on how payment services work in Your jurisdiction.​
 
 How do the Logistics work?​
 
@@ -234,9 +228,7 @@ An “ex-UK Transfer” is a data processing activity whereby personal data whic
 
 The “UK GDPR” is the GDPR as it forms part of the law of England and Wales, Scotland and Northern Ireland by virtue of section 3 of the European Union (Withdrawal) Act 2018.​
 
-​
-
-1. TikTok Content and Merchant Materials​
+7.TikTok Content and Merchant Materials​
 
 TikTok Content​
 
@@ -254,7 +246,7 @@ The foregoing does not impact any right You may have to have data deleted under 
 
 ​
 
-1. Affiliate Feature​
+8.Affiliate Feature​
 
 What is Affiliate Feature?​
 
@@ -338,7 +330,7 @@ In order to use the Affiliate Feature, the following provisions in this subsecti
 
 ​
 
-1. Service Market and Partner Services​
+9.Service Market and Partner Services​
 
 ​
 
@@ -353,8 +345,6 @@ In order to use the Affiliate Feature, the following provisions in this subsecti
 * Custom Service: means the service provided by Partners to You, which is not disclosed on Service Market, and is authorised by You. ​
 
 * Partner Service(s): means Public Service and Custom Service which are contracted by You directly with the applicable Partner. For avoidance of doubt, the Partner Services do not form part of TikTok Shop offering and are provided by Partners and contracted by you directly with the Partner and not through the TTSPC.​
-
-​
 
 Service Market as Marketplace​
 
@@ -414,9 +404,7 @@ When you subscribe to Integrated Warehouse Service:​
 
 • You authorise Us to share your Data with Integrated Warehouse and You authorise Integrated Warehouse to share your Data with Us immediately via API connections or other product solutions until expiration of subscription period for such Integrated Warehouse Service or cancellation of such Integrated Warehouse Service. ​
 
-You acknowledge and agree that:​
-
-• You shall promptly cancel your authorisation if you do not want your Data to be shared with Integrated Warehouse or Integrated Warehouse Services provided to You. ​
+You acknowledge and agree that:• You shall promptly cancel your authorisation if you do not want your Data to be shared with Integrated Warehouse or Integrated Warehouse Services provided to You. ​
 
 • The trade and purchase of Integrated Warehouse Service are made between You and Integrated Warehouse and You and Integrated Warehouse shall be in strict compliance with the service contracts or other arrangements entered into between You and the Integrated Warehouse. TikTok (and/or any of TikTok Affiliates) is not a party to such contract, is not responsible for the provision of any Integrated Warehouse Services to You, and is not liable for the acts, omissions, errors, representations, warranties, negligence or breaches by You or Integrated Warehouse. We will not be responsible for any enforcement of any service contract between you and Integrated Warehouse. TikTok may coordinate with You and the Integrated Warehouse to resolve any dispute, provided, however, that You understand that TikTok 's efforts to coordinate may have no practical or substantive effect, and that You are not entitled to request indemnification or compensation from TikTok. ​
 
@@ -436,13 +424,13 @@ All payments related to the Partner Services and Integrated Warehouse Services s
 
 ​
 
-1. Your use of API​
+10.Your use of API​
 
 To the extent that we make available to You any API and API Data (as defined in Schedule 3), the provisions of Schedule 3 shall apply. For the avoidance of doubt, API and API Data form part of the TikTok Shop. ​
 
 ​
 
-1. Fees​
+11.Fees​
 
 For sellers selling to buyers in the United Kingdom ​
 
@@ -474,13 +462,11 @@ TikTok may change the Fees from time to time at its sole discretion by providing
 
 Should TikTok reduce the Fees, such reduction shall automatically terminate within the fixed period as stated in TikTok’s Notice, or in any event within 1 year from the date of the Notice unless otherwise stated in the Notice. ​
 
-Unless otherwise specified in these Terms (including Clause 15) and the Additional Jurisdiction-Specific Terms, the Fees are inclusive of applicable taxes, including but not limited to Value-added Tax (“VAT”), Goods and Services Taxes (“GST”), Service Taxes, Japan Consumption Taxes, or its equivalent (“Taxes”).​
-
-If You use any special functions or features on the TikTok Shop, or participate in any additional programmes, additional fees may become chargeable​
+Unless otherwise specified in these Terms (including Clause 15) and the Additional Jurisdiction-Specific Terms, the Fees are inclusive of applicable taxes, including but not limited to Value-added Tax (“VAT”), Goods and Services Taxes (“GST”), Service Taxes, Japan Consumption Taxes, or its equivalent (“Taxes”).If You use any special functions or features on the TikTok Shop, or participate in any additional programmes, additional fees may become chargeable​
 
 ​
 
-1. How you may authorize other users to manage your Account?​
+12.How you may authorize other users to manage your Account?​
 
 You may authorize one or more Platform users (each, an “Authorized User”) to manage your Account for accessing or using TikTok Shop in full or in part. The engagement of such Authorized User is solely between You and Your Authorized User, to which We are not a party and shall have no liability. ​
 
@@ -496,7 +482,7 @@ Any suspension or termination of Your Account will result in the suspension or t
 
 ​
 
-1. Rules for Using the TikTok Shop​
+13.Rules for Using the TikTok Shop​
 
 To use the TikTok Shop, You must agree to abide by these Terms, the [TikTok Shop Terms of Use and Sale](https://sf19-draftcdn-sg.ibytedtos.com/obj/ies-hotsoon-draft-sg/magellan_ecommerce/ttec_tos_en.html), as well as the following policies or guidelines that govern Your use of the TikTok Shop (“TikTok Shop Policies”). It is a material breach of these Terms to breach a TikTok Shop Policy. ​
 
@@ -600,7 +586,7 @@ Systems security and integrity​
 
 ​
 
-1. Infringing Product​
+14.Infringing Product​
 
 TikTok takes the intellectual property rights of others very seriously. You may not Offer any Product via the TikTok Shop if it is counterfeit or otherwise infringes any third party right under Applicable Law (“Infringing Product”). Offering to sell an Infringing Product is a material breach of these Terms. ​
 
@@ -610,7 +596,7 @@ Similarly, You may not use the TikTok Shop to infringe the intellectual property
 
 ​
 
-1. Customs and Tax Policy​
+15.Customs and Tax Policy​
 
 ​
 
@@ -650,7 +636,7 @@ We will not act (and You will not designate Us) as declarant, importer or export
 
 ​
 
-1. Representation and Warranties​
+16.Representation and Warranties​
 
 By accepting these Terms, You represent,warrant and undertake to TikTok that:​
 
@@ -678,7 +664,7 @@ You represent and acknowledge that in executing these Terms, You do not rely, an
 
 ​
 
-1. What Happens if You Breach These Terms or the TikTok Shop Policies?​
+17.What Happens if You Breach These Terms or the TikTok Shop Policies?​
 
 If We know or reasonably suspect that You are in material breach of these Terms or any of the TikTok Shop Policies, We may take corrective measure(s), including without limitation:​
 
@@ -710,13 +696,11 @@ then monies due to You may be withheld from you, and if We determine (acting rea
 
 ​
 
-1. Confidentiality​
+18.Confidentiality​
 
 During the course of Your use of the TikTok Shop, You may receive or obtain access to information relating to TikTok, its business and products, the TikTok Shop and the way it operates that is not in the public domain (“Confidential Information”). ​
 
-These Terms shall be treated as Our Confidential Information.​
-
-You agree that for the Term and 2 years after the Term You will not use the Confidential Information for any purpose other than as is necessary for You to perform Your obligations under these Terms. You will not disclose the Confidential Information to any third party other than:​
+These Terms shall be treated as Our Confidential Information.You agree that for the Term and 2 years after the Term You will not use the Confidential Information for any purpose other than as is necessary for You to perform Your obligations under these Terms. You will not disclose the Confidential Information to any third party other than:​
 
 * to employees, subcontractors and advisers who need to have access to the Confidential Information to enable You to perform Your obligations under these Terms; or​
 
@@ -726,7 +710,7 @@ You shall retain the Confidential Information for only as long as is necessary. 
 
 ​
 
-1. Disclaimers​
+19.Disclaimers​
 
 The TikTok Shop (including, for the avoidance of doubt, API and API Data) is provided on an “as is” basis, and TikTok disclaims any and all representations, conditions and warranties, express or implied, including without limitation, merchantability, satisfactory quality, fitness for a particular purpose or non-infringement, unless otherwise expressly set out in these Terms.​
 
@@ -744,7 +728,7 @@ TikTok and TikTok Affiliates have no obligation to clear any rights in the Creat
 
 ​
 
-1. Release​
+20.Release​
 
 You release TikTok and TikTok Affiliates from all liability for You having acquired or not acquired any relationship with Creators and/or Buyer through the TikTok Shop. ​
 
@@ -754,7 +738,7 @@ In the event that You have a dispute with a Creator or a Buyer or any third part
 
 ​
 
-1. Limitations of Liability​
+21.Limitations of Liability​
 
 Nothing in these Terms limits any liability which cannot legally be limited, restricted or excluded. ​
 
@@ -774,11 +758,9 @@ TikTok and TikTok Affiliates are not liable for the acts, errors, omissions, rep
 
 TikTok and TikTok Affiliates are in no way responsible for the performance or non-performance of You for the engagement with any Creator you engage or work with or wish to engage or work with through Affiliate Feature. ​
 
-Subject to above paragraphs, TikTok’s and TikTok Affiliates’ maximum total aggregate liability under or in connection with these Terms shall not exceed the total fees You paid in according with Clause 11 in the six months prior to the cause of action.​
+Subject to above paragraphs, TikTok’s and TikTok Affiliates’ maximum total aggregate liability under or in connection with these Terms shall not exceed the total fees You paid in according with Clause 11 in the six months prior to the cause of action. ​
 
-​
-
-1. Indemnities​
+22.Indemnities​
 
 You agree to indemnify, defend and hold TikTok and TikTok Affiliates and any of their employees, directors or agents harmless from and against any claim that arises out of or relates to:​
 
@@ -804,13 +786,13 @@ These indemnities cover any liability or expense arising from claims, losses, da
 
 ​
 
-1. Term​
+23.Term​
 
 These Terms come into force on the day You accept them. They will continue in force until they are terminated by either You or TikTok in accordance with these Terms. ​
 
 ​
 
-1. Restriction, Suspension and Termination​
+24.Restriction, Suspension and Termination​
 
 TikTok’s Rights to Restrict or Suspend Your Account​
 
@@ -834,9 +816,7 @@ TikTok may terminate Your Account without cause by giving to You not less than 3
 
 For Material Breach​
 
-TikTok may terminate Your Account immediately upon giving notice, if You have failed to remedy a material breach of these Terms within 30 days unless TikTok can demonstrate You have repeatedly been in breach of these Terms, in which case notice to terminate will be effective immediately.​
-
-Your rights if TikTok Restricts, Suspends or Terminates Your Account​
+TikTok may terminate Your Account immediately upon giving notice, if You have failed to remedy a material breach of these Terms within 30 days unless TikTok can demonstrate You have repeatedly been in breach of these Terms, in which case notice to terminate will be effective immediately.Your rights if TikTok Restricts, Suspends or Terminates Your Account​
 
 If We restrict or suspend Your promotion or sale of particular Products or terminate Your Account, We will provide a statement of reasons at the time notice is given. No statement of reasons will be given where We:​
 
@@ -866,7 +846,7 @@ If You are exercising Your right to terminate Your contractual relationship with
 
 ​
 
-1. Effects of and Rights on Termination​
+25.Effects of and Rights on Termination​
 
 On termination of Your Account, all related rights and obligations under these Terms immediately terminate, except that You will remain responsible for performing all of Your obligations to Buyers and/or Creators in connection with transactions entered into before the effective date of the termination and for any liabilities that accrued before or as a result of the termination.​
 
@@ -874,7 +854,7 @@ The following clauses of these Terms shall survive termination: 7 (TikTok Conten
 
 ​
 
-1. Miscellaneous Terms​
+26.Miscellaneous Terms​
 
 Changes to the TikTok Shop​
 
@@ -895,8 +875,6 @@ Feedback​
 ​
 
 If You provide TikTok with any oral and written reports, or any materials, information, ideas, analyses, concepts, documents, communications, or know-how (collectively “Feedback”) regarding TikTok Shop or anything related to the TikTok Shop, such Feedback will be the sole property of TikTok. You hereby assign to TikTok all rights, title and interest in and to all Feedback, or, if such assignment is invalid, hereby irrevocably grants TikTok a worldwide, exclusive (even as to You), irrevocable, to the maximum extent permitted by Applicable Law, royalty-free and fully paid-up license to such Feedback. ​
-
-​
 
 Feedback shall be deemed TikTok’s Confidential Information and TikTok may use or exploit Feedback without any accounting or payment to You or any third party.​
 
@@ -954,9 +932,7 @@ Notice​
 
 We may provide notices to You under these Terms to the email address provided by You in Your Account. ​
 
-You may provide notices to TikTok under these Terms by e-commerce@tiktok.com.​
-
-Force Majeure​
+You may provide notices to TikTok under these Terms by e-commerce@tiktok.com.Force Majeure​
 
 TikTok will not be liable for any delay or failure to perform any of its obligations under these Terms for reasons, events or other matters beyond its reasonable control.​
 
@@ -976,7 +952,7 @@ A reference to a statute or statutory provision is a reference to it as amended,
 
 ​
 
-1. Dispute Resolution​
+27.Dispute Resolution​
 
 Disputes Between You and a Buyer​
 
@@ -1006,7 +982,7 @@ In the event of a dispute between You and TikTok, the dispute will be resolved p
 
 ​
 
-1. Governing Law and Jurisdiction​
+28.Governing Law and Jurisdiction​
 
 If you are selling Products to Buyers in the United Kingdom: ​
 
@@ -1014,13 +990,11 @@ These Terms and any dispute or claim including non-contractual disputes or claim
 
 You and TikTok irrevocably agree that the courts of England and Wales shall have exclusive jurisdiction to settle any dispute or claim (including non-contractual disputes or claims) arising out of or in connection with these Terms or their subject matter or formation.​
 
-If you are selling Products to Buyers in Singapore, Malaysia, Thailand, Philippines, or Vietnam: ​
-
-These Terms, their subject matter and their formation, are governed by the laws of Singapore. Any dispute arising out of or in connection with these Terms, including any question regarding existence, validity or termination of these Terms, shall be referred to and finally resolved by arbitration administered by the Singapore International Arbitration Centre in accordance with the Arbitration Rules of the Singapore International Arbitration Centre for the time being in force, which rules are deemed to be incorporated by reference in this clause. The seat of the arbitration shall be Singapore. The Tribunal shall consist of three (3) arbitrators. The language of the arbitration shall be English.​
+If you are selling Products to Buyers in Singapore, Malaysia, Thailand, Philippines, or Vietnam: These Terms, their subject matter and their formation, are governed by the laws of Singapore. Any dispute arising out of or in connection with these Terms, including any question regarding existence, validity or termination of these Terms, shall be referred to and finally resolved by arbitration administered by the Singapore International Arbitration Centre in accordance with the Arbitration Rules of the Singapore International Arbitration Centre for the time being in force, which rules are deemed to be incorporated by reference in this clause. The seat of the arbitration shall be Singapore. The Tribunal shall consist of three (3) arbitrators. The language of the arbitration shall be English.​
 
 ​
 
-1. Trade Compliance​
+29.Trade Compliance​
 
 The Merchant represents,warrants and undertakes that it is aware of and it shall comply with all Applicable Laws, rules and instructions of applicable competent authorities relating to trade compliance matters, including export, export control, import, customs and trade law, including but not limited to in TikTok's, the customer’s or the Merchant's jurisdiction, and other countries in which the Products are dispatched from and delivered to. Any violation of Applicable Laws is prohibited. ​
 
@@ -1028,7 +1002,7 @@ If TikTok is required by competent authorities to conduct any verification in re
 
 ​
 
-1. Additional Jurisdiction-Specific Terms​
+30.Additional Jurisdiction-Specific Terms​
 
 The following terms apply in addition if Your usual residence is in the relevant jurisdiction. Where applicable, Additional Jurisdiction-Specific Terms prevail to the extent of any inconsistency with the rest of these Terms. ​
 
@@ -1036,19 +1010,19 @@ The following terms apply in addition if Your usual residence is in the relevant
 
 I. Southeast Asia (Singapore, Indonesia, Vietnam, Thailand, Malaysia and the Philippines)​
 
-1. TikTok Shop Provider​
+1.TikTok Shop Provider​
 
 You acknowledge that the relevant entity providing the Platform is TikTok Pte. Ltd. (which is registered in Singapore, with its registered office at 1 Raffles Place #26-10 Singapore 048583) and references to TikTok/Us/We/Our shall be construed accordingly. TikTok Pte. Ltd. enters into these Terms and performs all acts and obligations from Singapore.​
 
-1. Registration​
+2.Registration​
 
 If You are a Merchant in Singapore, Indonesia, Vietnam, Thailand, Malaysia or the Philippines, You may be an individual resident in Singapore, Indonesia, Vietnam, Thailand, Malaysia or the Philippines, or a corporate entity registered in Singapore, Indonesia, Vietnam, Thailand, Malaysia or the Philippines respectively. You must pass Our verification process before You will be authorised to act as a Merchant on TikTok Shop. You may refer to TikTok Shop Seller Registration Guidelines ([Singapore](https://seller-sg.tiktok.com/university/article?knowledge_id=10012299), [Indonesia](https://seller-id.tiktok.com/university/article?knowledge_id=10000749), [Malaysia](https://seller-my.tiktok.com/university/article?knowledge_id=10008401), [the Philippines](https://seller-ph.tiktok.com/university/article?knowledge_id=10009149), [Thailand](https://seller-th.tiktok.com/university/article?knowledge_id=10008415), [UK](https://seller-uk.tiktok.com/university/article?knowledge_id=10001420), [Vietnam](https://seller-vn.tiktok.com/university/article?knowledge_id=10008391)) for detailed rules.​
 
 At all times, You represent that: ​
 
-1. You are, and will remain, a business duly organised, registered, validly existing and in good standing under the laws of the country in which the business is registered, and You have full power, capacity, and authority to enter into and perform Your obligations as a Merchant; and ​
+* （i）You are, and will remain, a business duly organised, registered, validly existing and in good standing under the laws of the country in which the business is registered, and You have full power, capacity, and authority to enter into and perform Your obligations as a Merchant; and ​
 
-2. You will obtain and maintain all necessary licences, permits and approvals required to discharge Your obligations as a Merchant. ​
+* （ii）You will obtain and maintain all necessary licences, permits and approvals required to discharge Your obligations as a Merchant. ​
 
 For Indonesia: ​
 
@@ -1070,13 +1044,11 @@ You may refer to TikTok Shop Seller Registration Guidelines ([Singapore](https:/
 
 ​
 
-1. How do You procure logistics for Your Products?​
+3.How do You procure logistics for Your Products?​
 
 For Singapore, Indonesia, Vietnam, Malaysia and the Philippines: You may choose to use logistics services provided by TikTok or TikTok Affiliates (“Ship by TikTok”) or render the logistics services through an engagement of a service provider (“Ship by Merchant”).​
 
-If you choose Ship by TikTok, You agree and confirm that You must comply with the TikTok Shop Logistics Terms ([Indonesia](https://seller-id.tiktok.com/university/article/agreement?knowledge_id=10008700&identity=1), [Vietnam](https://seller-vn.tiktok.com/university/article/agreement?knowledge_id=10012455&identity=1), [Malaysia](https://seller-my.tiktok.com/university/article/agreement?knowledge_id=10013202&identity=1), [the Philippines](https://seller-ph.tiktok.com/university/article/agreement?knowledge_id=10012452), [Singapore](https://seller-sg.tiktok.com/university/article/agreement?knowledge_id=10012457)). If the TikTok Shop Logistics Terms ([Indonesia](https://seller-id.tiktok.com/university/article/agreement?knowledge_id=10008700&identity=1), [Vietnam](https://seller-vn.tiktok.com/university/article/agreement?knowledge_id=10012455&identity=1), [Malaysia](https://seller-my.tiktok.com/university/article/agreement?knowledge_id=10013202&identity=1), [the Philippines](https://seller-ph.tiktok.com/university/article/agreement?knowledge_id=10012452), [Singapore](https://seller-sg.tiktok.com/university/article/agreement?knowledge_id=10012457)) are terminated, You will no longer be allowed to choose Ship by TikTok services. Termination of Your Account will terminate any TikTok Shop Logistics Terms ([Indonesia](https://seller-id.tiktok.com/university/article/agreement?knowledge_id=10008700&identity=1), [Vietnam](https://seller-vn.tiktok.com/university/article/agreement?knowledge_id=10012455&identity=1), [Malaysia](https://seller-my.tiktok.com/university/article/agreement?knowledge_id=10013202&identity=1), [the Philippines](https://seller-ph.tiktok.com/university/article/agreement?knowledge_id=10012452), [Singapore](https://seller-sg.tiktok.com/university/article/agreement?knowledge_id=10012457)) with immediate effect.​
-
-For Thailand: ​
+If you choose Ship by TikTok, You agree and confirm that You must comply with the TikTok Shop Logistics Terms ([Indonesia](https://seller-id.tiktok.com/university/article/agreement?knowledge_id=10008700&identity=1), [Vietnam](https://seller-vn.tiktok.com/university/article/agreement?knowledge_id=10012455&identity=1), [Malaysia](https://seller-my.tiktok.com/university/article/agreement?knowledge_id=10013202&identity=1), [the Philippines](https://seller-ph.tiktok.com/university/article/agreement?knowledge_id=10012452), [Singapore](https://seller-sg.tiktok.com/university/article/agreement?knowledge_id=10012457)). If the TikTok Shop Logistics Terms ([Indonesia](https://seller-id.tiktok.com/university/article/agreement?knowledge_id=10008700&identity=1), [Vietnam](https://seller-vn.tiktok.com/university/article/agreement?knowledge_id=10012455&identity=1), [Malaysia](https://seller-my.tiktok.com/university/article/agreement?knowledge_id=10013202&identity=1), [the Philippines](https://seller-ph.tiktok.com/university/article/agreement?knowledge_id=10012452), [Singapore](https://seller-sg.tiktok.com/university/article/agreement?knowledge_id=10012457)) are terminated, You will no longer be allowed to choose Ship by TikTok services. Termination of Your Account will terminate any TikTok Shop Logistics Terms ([Indonesia](https://seller-id.tiktok.com/university/article/agreement?knowledge_id=10008700&identity=1), [Vietnam](https://seller-vn.tiktok.com/university/article/agreement?knowledge_id=10012455&identity=1), [Malaysia](https://seller-my.tiktok.com/university/article/agreement?knowledge_id=10013202&identity=1), [the Philippines](https://seller-ph.tiktok.com/university/article/agreement?knowledge_id=10012452), [Singapore](https://seller-sg.tiktok.com/university/article/agreement?knowledge_id=10012457)) with immediate effect.For Thailand: ​
 
 You may choose to procure logistics services of logistics service providers through the Seller Center (“TikTok Seller Solutions”) or use the logistics services through your engagement of a logistics service provider approved by TikTok (“Ship by Merchant”).​
 
@@ -1104,7 +1076,7 @@ If you choose Ship by Merchant, You are responsible for engaging a logistic serv
 
 * Under no circumstances shall We, or Our Tracking Provider be liable in any way for any Tracking Content, including, but not limited to, any errors or omissions in any Tracking Content, or any loss or damage of any kind incurred in connection with the use of or exposure to such Tracking Content made available via Our Tracking Provider's website or platform. ​
 
-1. Receiving payments for purchases on the TikTok Shop​
+1.Receiving payments for purchases on the TikTok Shop​
 
 Notwithstanding the remaining Terms (including without limitation Clause 5 (What is the TikTok Shop) and Clause 11 (Fees)), and any other terms as set out in the documents referred in these Terms, You acknowledge that We are not Your collection agent, and We do not provide any payment services to you, including without limitation processing any payments or refunds to or for You, accepting or processing payment from or to Buyers, transferring payments to or from You or on behalf of you, or providing any merchant acquiring, money transfer or other payment processing services (“Payment Services”) to You, the Buyers, the Creators or any other parties, under any circumstances. The Payment Services will be provided to You by:​
 
@@ -1120,7 +1092,7 @@ As a condition to using the TikTok Shop, You will be subject to a merchant payme
 
 For the avoidance of doubt, You acknowledge and agree that while We may provide instructions on Your behalf to the relevant Third Party PSP to facilitate or support the Payment Services that the relevant Third Party PSP provides to You, any Payment Services that the relevant Third Party PSP provides to You will be provided by the relevant Third Party PSP in its own capacity (including through its appropriately licensed affiliates or partners), and We are not acting as an agent or delegate of any Third Party PSP with respect to such Payment Services. We will not be liable to You for any losses suffered as a result of any breach or default by any Third Party PSP under the Merchant Payment Service Agreement, or any other agreement that You enter into with any Third Party PSP with respect to the Payment Services or otherwise.​
 
-1. Payment instructions​
+2.Payment instructions​
 
 You acknowledge that as the TikTok Shop provider, We will have information on transactions (including orders, conclusion of sales, payments and refunds to be made between Buyer and You). As such, it will be more efficient and expedient for Us to provide instructions to the relevant Third Party PSP on Your behalf, to facilitate and support the Payment Services that the relevant Third Party PSP provides to You.​
 
@@ -1134,9 +1106,7 @@ In this regard, You appoint us, TikTok Pte. Ltd., as Your attorney, and acknowle
 
 * amount to be deducted from payments to be made to you for the payments of Creator Commissions, if a Buyer successfully obtains a refund after 14 calendar days from the change in order status “delivered”;​
 
-* any other information in relation to the transactions between Buyer and You, including sale, refund or cancellation, as determined by Us or otherwise in accordance with the terms as set out in these Terms, the TikTok Shop Policies or any other terms as agreed between You and Us.​
-
-1. Deduction of payments for Creators and Us​
+* any other information in relation to the transactions between Buyer and You, including sale, refund or cancellation, as determined by Us or otherwise in accordance with the terms as set out in these Terms, the TikTok Shop Policies or any other terms as agreed between You and Us.3.Deduction of payments for Creators and Us​
 
 You acknowledge that a portion of the payments from the Buyers will be deducted and paid to the Creators, as fees payable by You to the Creators (“Creator Commissions”) as agreed by You and the applicable Creator. The relevant Third Party PSP will provide Payment Services to the Creators to enable Creators to view the amounts of Creator Commissions (after deduction of relevant fees/charges, if any) held by the relevant Third Party PSP on behalf of the Creators and initiate withdrawal and transfer of the Creator Commissions from the relevant Third Party PSP to the Creators (and such other parties as authorized by the Creators, if any), in accordance with the terms of the Creator Payment Service Agreement agreed between the relevant Third Party PSP and the Creator. (The Creator Payment Service Agreement applicable to Payment Services provided by PIPO HK is: [Creator Payment Service Agreement](https://sf16-draftcdn-sg.ibytedtos.com/obj/ies-hotsoon-draft-sg/magellan_ecommerce/PIPO_Creator_Payment_Service_en.html). The Creator Payment Service Agreement applicable to Payment Services provided by PIPO SG is: [Creator Payment Service Agreement (SG)](https://sf16-draftcdn-sg.ibytedtos.com/obj/ies-hotsoon-draft-sg/magellan_ecommerce/fe3dbe70-4ffd-4c5d-ad95-4472a6e1b8ef_en.html).)​
 
@@ -1156,17 +1126,17 @@ You acknowledge and agree that as the Affiliate Feature and the TikTok Shop prov
 
 For the avoidance of doubt, You acknowledge and agree that while We may provide instructions on the Creator's behalf to the relevant Third Party PSP to facilitate or support the Payment Services that the relevant Third Party PSP provides to the Creator, any Payment Services that the relevant Third Party PSP provides to the Creator will be provided by the relevant Third Party PSP in its own capacity (including through its appropriately licensed affiliates or partners), and We are not acting as an agent or delegate of any Third Party PSP with respect to such Payment Services.​
 
-1. Language​
+4.Language​
 
 These Terms have been prepared in the English language and other languages. In the event of any inconsistency or different interpretation between the English text and the non-English text, the English text shall prevail and the relevant non-English text shall be deemed to be automatically amended to conform with and to make the relevant non-English text consistent with the relevant English text. Each of TikTok and the Merchant acknowledges that it has read these Terms and understands the content and that these Terms have been entered into freely and without duress. ​
 
 For Indonesia only: You acknowledge that you fully understand the language and the content of these Terms, and You agree that You will not use the provisions under Law of the Republic of Indonesia No. 24 of 2009 on Flag, Language, State Emblem and National Anthem or any of its implementing regulations to invalidate these Terms.​
 
-1. Waiver​
+5.Waiver​
 
 TikTok and You expressly agree to waive and set aside our respective rights and obligations under any Applicable Law in the event of any termination of these Terms to the extent that such law requires any judicial pronouncement for the termination of these Terms.​
 
-1. Commercial Data Use Authorization​
+6.Commercial Data Use Authorization​
 
 TikTok and You expressly agree to waive and set aside our respective rights and obligations under any applicable law in the event of any termination of these Terms to the extent that such law requires any judicial pronouncement for the termination of these Terms.​
 
@@ -1194,9 +1164,7 @@ You and/or the Creator, rather than TikTok shall be responsible for collecting, 
 
 III. Vietnam​
 
-If you are a tax registered organisation in Vietnam, please provide your Tax Code to TikTok and once your Tax Code has been verified, the fees that TikTok charges will be net of both Value-Added Tax (“VAT”) and Corporate Income Tax (“CIT”) in Vietnam (together “VN Taxes”).​
-
-If you are not a tax registered organisation in Vietnam or your Tax Code provided is not valid, the fees that TikTok charges will be the same amount as the fees inclusive of VN Taxes. ​
+If you are a tax registered organisation in Vietnam, please provide your Tax Code to TikTok and once your Tax Code has been verified, the fees that TikTok charges will be net of both Value-Added Tax (“VAT”) and Corporate Income Tax (“CIT”) in Vietnam (together “VN Taxes”).If you are not a tax registered organisation in Vietnam or your Tax Code provided is not valid, the fees that TikTok charges will be the same amount as the fees inclusive of VN Taxes. ​
 
 You shall be responsible for the issuance of tax invoices (if applicable) to the Buyers.​
 
@@ -1216,11 +1184,11 @@ You shall be responsible for all tax liability in relation to the Fees and shall
 
 V. United Kingdom or European Union​
 
-1. TikTok Shop Provider​
+1.TikTok Shop Provider​
 
 You acknowledge that the relevant entity providing the Platform is TikTok Information Technologies UK Limited, which is registered in England with its registered office at Kaleidoscope, 4 Lindsey Street, London, United Kingdom, EC1A 9HP (registered company number: 10165711), and references to TikTok/Us/We/Our shall be construed accordingly.​
 
-1. How do logistics work?​
+2.How do logistics work?​
 
 To the extent that We make last mile logistics services available to You, You may use the last mile logistics services provided by TikTok to deliver Products from You to Buyers to fulfil orders placed by eligible Buyers on TikTok Shop. Further details are set out in Schedule 1 (TikTok Shop Last Mile Logistics Terms) and You must comply with the provisions of Schedule 1. ​
 
@@ -1244,7 +1212,7 @@ If You do not use the logistics services provided by TikTok) You are responsible
 
 * Under no circumstances shall We, or Our logistics tracking partner be liable in any way for any Tracking Content, including, but not limited to, any errors or omissions in any Tracking Content, or any loss or damage of any kind incurred in connection with the use of or exposure to such Tracking Content made available via Our logistics tracking partner's website or platform. ​
 
-1. Receiving payments for purchases on the TikTok Shop​
+3.Receiving payments for purchases on the TikTok Shop​
 
 Notwithstanding the remaining Terms (including without limitation Clause 5 (What is the TikTok Shop) and Clause 11 (Fees)), and any other terms as set out in the documents referred in these Terms, You acknowledge that We do not provide any payment services to you, including without limitation processing any payments or refunds for You, accepting or processing payment from or to Buyers, transferring payments to or from You, or providing any merchant acquisition or other payment processing services (“Payment Services”) to You, the Buyers, the Creators or any other parties, under any circumstances.​
 
@@ -1284,7 +1252,7 @@ For the avoidance of doubt, You acknowledge and agree that while We may provide 
 
 ​
 
-1. Increase in Fees​
+5.Increase in Fees​
 
 We will give you no less than 30 days' notice of any increase to the Fees. If You do not agree to the increase notified to You, You are entitled to terminate Your contractual relationship with Us at any time during the notice period of the increase subject to Clause 25. If you list any new Products during the notice period, you will be deemed to have waived your right to terminate under this Clause 30.IV.E. Your continued use of TikTok Shop after the effective date of any change to the Fees will constitute Your acceptance of that change.​
 
@@ -1294,7 +1262,7 @@ VI. China ​
 
 If You are a Merchant based in China (including Hong Kong), and use the TikTok Shop to sell Products to Buyers in Singapore, Malaysia, Thailand, in the United Kingdom, Philippines, and Vietnam, the following provisions apply: ​
 
-1. TikTok Shop Provider​
+1.TikTok Shop Provider​
 
 If you are selling Products to Users in the United Kingdom: ​
 
@@ -1306,17 +1274,15 @@ You acknowledge that the relevant entity providing the Platform is TikTok Pte. L
 
 ​
 
-1. Registration​
+2.Registration​
 
 Merchants based in China are not required to have a Platform Account to register as a Merchant on TikTok Shop. Merchants based in China will instead create a specific TikTok Shop Cross Border Merchants Account (“XBorder Account”). For more details on the registration process for Merchants based in China, please see the [TikTok Shop Cross-Border Seller Registration Guidelines](https://docs.google.com/document/d/1tZtAXA2Y8ZkcJqfK35ethXcquMYyaEkYPwA2nlIybUs/edit). Note that XBorder Accounts will not have access to the Platform, but will have access to Seller Center and other ancillary functionality necessary to sell Products to Buyers in Malaysia, Thailand, the United Kingdom, Philippines, or Vietnam. Note that, for Merchants based in China, references to “Account” throughout these Terms, should be understood as references to the XBorder Account.​
 
-1. How do logistics work?​
+3.How do logistics work?​
 
 Unless otherwise agreed between You and Us in writing in advance in accordance with below, You are required to use the logistics services provided by TikTok to deliver all Products from You to Buyers to fulfil orders placed by Buyers on TikTok Shop in Singapore, Malaysia, Thailand, the United Kingdom, Philippines, or Vietnam. Further details are set out in the Cross-Border TikTok Shop Logistics Terms. You must comply with the Cross-Border TikTok Shop Logistics Terms.​
 
-If the Cross-Border TikTok Shop Logistics Terms between You and TikTok are terminated for any reason, these Terms between You and TikTok will automatically terminate, and You will no longer be permitted to act as a Merchant on the TikTok Shop.​
-
-If Your Account, or these Terms are terminated for any reason, the Cross-Border TikTok Shop Logistics Terms between You and TikTok will automatically terminate. ​
+If the Cross-Border TikTok Shop Logistics Terms between You and TikTok are terminated for any reason, these Terms between You and TikTok will automatically terminate, and You will no longer be permitted to act as a Merchant on the TikTok Shop.If Your Account, or these Terms are terminated for any reason, the Cross-Border TikTok Shop Logistics Terms between You and TikTok will automatically terminate. ​
 
 To the extent We agree in writing with You in advance that you are not required to use the logistics services provided by Us to deliver Products from You to Buyers in Singapore, Malaysia, Thailand, the United Kingdom, Philippines, or Vietnam pursuant to the above, then You must use the logistics services provided by Our approved logistics partners to deliver Products from You to Buyers to fulfil orders placed by Buyers on TikTok Shop in Singapore, Malaysia, Thailand, the United Kingdom, Philippines, or Vietnam, provided that:​
 
@@ -1338,7 +1304,7 @@ To the extent We agree in writing with You in advance that you are not required 
 
 * Under no circumstances shall We, or Our logistics tracking partner be liable in any way for any Tracking Content, including, but not limited to, any errors or omissions in any Tracking Content, or any loss or damage of any kind incurred in connection with the use of or exposure to such Tracking Content made available via Our logistics tracking partner's website or platform.​
 
-1. Receiving payments for purchases on the TikTok Shop​
+4.Receiving payments for purchases on the TikTok Shop​
 
 If you are selling Products to Users in the United Kingdom: ​
 
@@ -1356,7 +1322,7 @@ As a condition to using the TikTok Shop, You will be subject to a merchant payme
 
 For the avoidance of doubt, You acknowledge and agree that while We may provide instructions on Your behalf to Third Party PSP to facilitate or support the Payment Services that Third Party PSP provides to You any Payment Services that Third Party PSPprovides to You will be provided by Third Party PSP in its own capacity (including through its other affiliates or partners), and We are not acting as an agent or delegate of Third Party PSP with respect to such Payment Services. We will not be liable to You for any losses suffered as a result of any breach or default by Third Party PSPunder the Merchant Payment Service Agreement, or any other agreement that You enter into with Third Party PSP with respect to the Payment Services or otherwise.​
 
-1. Power of Attorney ​
+5.Power of Attorney ​
 
 If you are selling Products to Users in the United Kingdom: ​
 
@@ -1372,11 +1338,9 @@ In this regard, You appoint us as Your attorney and authorise Us to provide info
 
 * any other information in relation to the transactions between Buyer and You, including sale, refund or cancellation, as determined by Us or otherwise in accordance with the terms as set out in this Agreement, the TikTok Shop Policies or any other terms as agreed between You and Us.​
 
-1. Payment Services ​
+6.Payment Services ​
 
-If you are selling Products to Buyers in Malaysia, Thailand, Philippines, or Vietnam: ​
-
-You acknowledge that as the TikTok Shop provider, We will have information on transactions (including orders, conclusion of sales, payments and refunds to be made between Buyer and You). As such, it will be more efficient and expedient for Us to provide instructions to Third Party PSP on Your behalf, to facilitate and support the Payment Services that Third Party PSP provides to You.​
+If you are selling Products to Buyers in Malaysia, Thailand, Philippines, or Vietnam: You acknowledge that as the TikTok Shop provider, We will have information on transactions (including orders, conclusion of sales, payments and refunds to be made between Buyer and You). As such, it will be more efficient and expedient for Us to provide instructions to Third Party PSP on Your behalf, to facilitate and support the Payment Services that Third Party PSP provides to You.​
 
 In this regard, You acknowledge and agree for us to provide information and instructions to Third Party PSP on Your behalf, so that Third Party PSP (including through its other Affiliates or Partners) may carry out the Payment Services for You. Without limitation, You authorise Us to notify Third Party PSP of the following events:​
 
@@ -1390,7 +1354,7 @@ In this regard, You acknowledge and agree for us to provide information and inst
 
 * any other information in relation to the transactions between Buyer and You, including sale, refund or cancellation, as determined by Us or otherwise in accordance with the terms as set out in this Agreement, the TikTok Shop Policies or any other terms as agreed between You and Us.​
 
-1. Deduction of payments for Creators and Us​
+7.Deduction of payments for Creators and Us​
 
 You acknowledge that a portion of the payments from the Buyers will be deducted and paid to the Creators, as fees payable by You to the Creators (“Creator Commissions”) as agreed by You and the applicable Creator. You further acknowledge that a portion of the payments from the Buyers will be deducted and paid to Us as Fees for the use of the TikTok Shop. ​
 
@@ -1436,13 +1400,13 @@ These TikTok Shop Last Mile Logistics Terms (“Logistics Terms”) apply in add
 
 4. You shall give TikTok not less than 5 days before the start of each month Your forecast of: (a) the storage services You expect to require (including the volume of Products You expect to store or storage space You expect to require); and (b) the Logistics Services You expect to require during the following month.​
 
-5. Time is not of essence. Unless otherwise specifically agreed by TikTok in writing, time shall not be of essence under these Logistics Terms. Unless otherwise expressly agreed in writing by TikTok that a Product shall depart or arrive by a particular date or time, TikTok accepts no responsibility for the date and time of the departure or arrival of the Products. Any date or time (if any) provided by TikTok prior to or when You make the Purchase or otherwise (other than the date and time indicated in the final waybill) is solely an estimated date or time for information purpose only.​
+1. Time is not of essence. Unless otherwise specifically agreed by TikTok in writing, time shall not be of essence under these Logistics Terms. Unless otherwise expressly agreed in writing by TikTok that a Product shall depart or arrive by a particular date or time, TikTok accepts no responsibility for the date and time of the departure or arrival of the Products. Any date or time (if any) provided by TikTok prior to or when You make the Purchase or otherwise (other than the date and time indicated in the final waybill) is solely an estimated date or time for information purpose only.​
 
-6. Logistics Services may be limited to certain areas. Logistics Services may not be available in certain areas in certain jurisdictions. If the delivery address is out of the delivery areas or jurisdictions, the order for the delivery of the Product will be cancelled by TikTok without liability. ​
+2. Logistics Services may be limited to certain areas. Logistics Services may not be available in certain areas in certain jurisdictions. If the delivery address is out of the delivery areas or jurisdictions, the order for the delivery of the Product will be cancelled by TikTok without liability. ​
 
-7. Merchant expressly agrees that TikTok may delegate or subcontract any or all its rights or obligations hereunder to one or more delegates or subcontractors without obtaining approval or consent from Merchant and without notice to Merchant, provided that TikTok shall not be released from its obligations hereunder by such delegation or subcontracting. ​
+3. Merchant expressly agrees that TikTok may delegate or subcontract any or all its rights or obligations hereunder to one or more delegates or subcontractors without obtaining approval or consent from Merchant and without notice to Merchant, provided that TikTok shall not be released from its obligations hereunder by such delegation or subcontracting. ​
 
-4. Prohibited Items​
+1. Prohibited Items​
 
 1. We will not handle or deliver Prohibited Items. You must comply with all laws, regulations and rules applicable to the handling, transit and delivery of the Products through to their final destination. You represent that You will not deliver or cause TikTok or its delegates or subcontractors to deal with or handle goods that are prohibited in the TikTok Shop Prohibited Products Guidelines or goods that are otherwise restricted without proper approvals in accordance therewith, or goods prohibited under Applicable Law for shipment (“Prohibited Items”).​
 
@@ -1450,7 +1414,7 @@ These TikTok Shop Last Mile Logistics Terms (“Logistics Terms”) apply in add
 
 3. Prohibited Items may be confiscated or otherwise disposed of by the relevant tax and customs authorities. You expressly acknowledge and agree that the Prohibited Items handed over by You to us may be confiscated or otherwise disposed of by the authorities during the course of shipment. You shall be solely liable for your losses or damages arising from such confiscation or disposal of your Prohibited Items. ​
 
-5. Requirements of Products Shipment​
+2. Requirements of Products Shipment​
 
 1. Products shipped will be subject to certain requirements. Products may be subject to certain requirements and restrictions for shipment (e.g., weight, size), which, if applicable, we may notify you of (such as in the “Seller Center” or otherwise) from time to time. Such requirements and restrictions may vary depending on the destination of shipment, the route and/or manner of transportation, etc. TikTok has the right to refuse to provide Logistics Services for Products which fail to satisfy such requirements or restrictions. ​
 
@@ -1466,17 +1430,17 @@ These TikTok Shop Last Mile Logistics Terms (“Logistics Terms”) apply in add
 
 7. You shall be solely responsible for packaging, packing, labelling and preparing the Products securely, properly and sufficiently and in accordance with any specific instructions provided by TikTok. The packaging of the Products shall be good enough to ensure that the Products will not be damaged in transit. TikTok shall not be liable for any losses or damage of the Products which are improperly or insufficiently packaged, packed, labelled or prepared, no matter how such loss or damage is caused. ​
 
-6. Inspection of Products​
+3. Inspection of Products​
 
 1. You shall be liable for the content of the Product. TikTok does not have the obligation to verify the content of the Product handed over by You for delivery, unless otherwise required by Applicable Law. The delivery documentation consists of only a receipt of the number of packages that were externally visible to carrier, and does not act as a receipt of the number of Products or items that are not readily and reasonably visible to carrier at the time of delivery to carrier.​
 
 2. We have the right but no obligation to open or inspect the Products. If it appears from visual inspection or technical inspection that the Product is in whole or in part not suitable for delivery or is otherwise in breach of these Logistics Terms, pursuant to these Logistics Terms or as required by Applicable Laws and regulations, We have the option, at our sole discretion to: (i) stop Logistics Services for such Product, (ii) return the Products to You at Your cost and expense, (iii) continue to deliver the Product as is, or (iv) dispose the Product without liability to You at your cost and expense. TikTok’s right to inspect the Product does not release You from any of its obligations hereunder (including Your warranty that You shall not ship any Prohibited Items).​
 
-7. Indemnification​
+4. Indemnification​
 
 1. You shall indemnify, defend and hold harmless TikTok, TikTok Affiliates, delegates, subcontractors, logistics service providers, and their respective employees, officers, managers, agents (“TikTok Indemnitees”) against all harm, loss, claims, damages, costs, expenses, fines, penalties, levies, demands (including any direct, indirect or consequential losses, loss of profit, loss of reputation and all interest, penalties and legal costs (calculated on a full indemnity basis) and all other professional costs and expenses) and other liabilities suffered or incurred by TikTok Indemnitees arising out of, resulting from or in connection with (a) Your breach of any representation, warranties, covenants, undertakings, agreement or obligations hereunder (including without limitation handover or attempt to ship Prohibited Items or Products that infringe any third party intellectual property rights, Your failure to accurately declare the value of the Products or any other relevant information, Your failure to provide accurate, complete, authentic information or take actions reasonably required by TikTok under these Logistics Terms); (b) Your failure to comply with any and all Applicable Laws that apply to You, including but not limited to all applicable data protection legislation; (c) Your acts or omissions of fraud or fraudulent misrepresentation; (d) any personal injury or death caused by an act or omission by You; (e) any loss or damage suffered directly or indirectly by a TikTok Indemnitee's contractor or supplier (including but not limited to logistics and warehouse providers); (f) any allegation or claim of negligence or wilful misconduct arising from any act or omission by You; and (g) any tax demands or other charges or contributions relating to the our provision of the Logistic Services to You under these Logistics Terms.​
 
-8. Limitation of Liabilities​
+5. Limitation of Liabilities​
 
 1. TikTok’s liability is limited. Under all circumstances and subject to the provisions of this Clause 8 (Limitation of Liabilities), TikTok and TikTok Affiliates's total aggregate liability that may arise, whether in contract, tort (including negligence), misrepresentation, restitution or otherwise under these Logistics Terms is limited to the total logistics fees and charges incurred by you in the 30 days prior to the cause of action. TikTok and TikTok Affiliates's maximum liability and compensation to You for each single case of loss or damage of the Product is limited to the total price paid by Buyer for such lost or damaged Product, or the value by which the Product is damaged, whichever is lower. For the avoidance of doubt, TikTok shall only compensate You for the loss of or damage to the Product that is caused by the provision of the Logistics Services, and subject to this Clause 8.​
 
@@ -1488,7 +1452,7 @@ These TikTok Shop Last Mile Logistics Terms (“Logistics Terms”) apply in add
 
 5. TikTok’s Disclaimer. To the maximum extent permitted by Applicable Law TikTok hereby disclaims any and all representations, warranties or conditions, not expressly set out in these Logistics Terms.​
 
-9. Termination​
+6. Termination​
 
 1. TikTok may terminate these Logistics Terms without cause by giving the Merchant not less than thirty (30) days’ written notice. The Merchant may terminate these Logistics Terms without cause by providing at least sixty (60) days’ prior written notice to TikTok. ​
 
@@ -1496,7 +1460,7 @@ These TikTok Shop Last Mile Logistics Terms (“Logistics Terms”) apply in add
 
 3. Notwithstanding anything to the contrary therein, if (a) there are outstanding orders between You and Buyer as of the termination date of these Logistics Terms, these Logistics Terms shall be extended until the Logistics Services for all such orders have been performed, (b) there are outstanding orders between You and Buyer as of the suspension date of the Logistics Services, TikTok shall continue to provide the Logistics Services for such orders, provided that such orders and the provision of Logistics Services for such orders are not in breach of Merchant Terms of Service for TikTok Shop, these Logistics Terms, TikTok policies or guidelines, or Applicable Law.​
 
-4. Effect of Termination. The termination of these Logistics Terms shall not relieve any party of obligations accrued prior to the date of termination.​
+1. Effect of Termination. The termination of these Logistics Terms shall not relieve any party of obligations accrued prior to the date of termination.​
 
 ​
 
@@ -1616,35 +1580,35 @@ Establishing, maintaining, monitoring, and using appropriate technical, physical
 
 1. Secure user authentication protocols and system access control;​
 
-2. Use of mature and appropriate physical security, current malware, antivirus, and security software that includes e-mail filtering and malware detection;​
+1. Use of mature and appropriate physical security, current malware, antivirus, and security software that includes e-mail filtering and malware detection;​
 
-3. Use of proper network protection measures;​
+2. Use of proper network protection measures;​
 
-4. During idle times, company-issued equipment (e.g., company-issued laptops) are automatically locked;​
+3. During idle times, company-issued equipment (e.g., company-issued laptops) are automatically locked;​
 
-5. Encourage use of complex passwords;​
+4. Encourage use of complex passwords;​
 
-6. Concept of least privilege, allowing only the necessary access for users to accomplish their job function. Access above requires appropriate authorisation;​
+5. Concept of least privilege, allowing only the necessary access for users to accomplish their job function. Access above requires appropriate authorisation;​
 
-7. IT access privileges are reviewed regularly by appropriate personnel;​
+6. IT access privileges are reviewed regularly by appropriate personnel;​
 
-8. Network monitoring services in place 24 x 7 x 365 to detect unauthorised activities;​
+7. Network monitoring services in place 24 x 7 x 365 to detect unauthorised activities;​
 
-9. Vulnerability scanning and remediation in place;​
+8. Vulnerability scanning and remediation in place;​
 
-10. Penetration testing as appropriate;​
+9. Penetration testing as appropriate;​
 
-11. Encryption protocols applied as necessary under various circumstances. ​
+10. Encryption protocols applied as necessary under various circumstances. ​
 
 ​
 
-1. Physical Access Controls​
+II.Physical Access Controls​
 
 Merchant shall take, among others, the appropriate security measures in order to establish the identity of the authorised persons and prevent unauthorised access to Merchant's premises and facilities in which the data are processed.​
 
 ​
 
-1. Data Access Control​
+III.Data Access Control​
 
 Merchant shall take technical and organisational measures in order to prevent unauthorised activities in the data processing systems outside the scope of any granted authorisations including, at a minimum:​
 
@@ -1662,7 +1626,7 @@ Merchant shall take technical and organisational measures in order to prevent un
 
 ​
 
-1. Data Transfer Control​
+IV.Data Transfer Control​
 
 Merchant shall take technical and organisational measures in order to ensure that personal data cannot be read, copied, altered, or removed by unauthorised persons under their electronic transmission or during their transport or recording on data carriers and to guarantee that it is possible to examine and establish where personal data are or have been transmitted by data transmission equipment including, at a minimum:​
 
@@ -1676,19 +1640,19 @@ Merchant shall take technical and organisational measures in order to ensure tha
 
 5. Physical destruction processes in place to industry standards; ​
 
-6. Secure communication session established via TLS or similar protocols across core applications/services;​
+1. Secure communication session established via TLS or similar protocols across core applications/services;​
 
-7. Encrypted certificates utilised for authentication between core web client and core web server.​
+2. Encrypted certificates utilised for authentication between core web client and core web server.​
 
 ​
 
-1. Input Control​
+V.Input Control​
 
 Merchant shall take appropriate technical and organisational measures in order to ensure that it is subsequently possible to verify and establish via log files whether and by whom personal data have been entered into data processing systems, altered, or removed.​
 
 ​
 
-1. Framework Control ​
+VI.Framework Control ​
 
 Merchant shall take technical and organisational measures in order to ensure that any personal data transferred under this DSA can only be Processed for the purposes specified in the DSA including, at a minimum:​
 
@@ -1706,7 +1670,7 @@ Merchant shall take technical and organisational measures in order to ensure tha
 
 ​
 
-1. Availability Control​
+VII.Availability Control​
 
 Merchant shall take technical and organisational measures in order to protect the data from accidental destruction or loss including, at a minimum:​
 
@@ -1731,8 +1695,6 @@ Merchant shall take technical and organisational measures in order to protect th
 10. Preventative maintenance is performed to ensure continued operability of equipment.​
 
 11. Appropriate Denial of Service and Distributed Denial of Service technology in place to defend against network and systems based resource starvation attacks.​
-
-​
 
 ​
 
@@ -1794,9 +1756,7 @@ Use of API​
 
 ​
 
-2.3 In relation to the scope of use set out in paragraph 2.1, you may not:​
-
-​
+2.3 In relation to the scope of use set out in paragraph 2.1, you may not: ​
 
 (a) make, or allow through the Application, API calls in excess of any limits that we may impose from time to time;​
 
@@ -1856,8 +1816,6 @@ Use of API​
 
 (o) remove, obscure, or alter any legal, copyright, trademark or other proprietary notices in relation to TikTok Shop, TTSPC, the API and/or the API Data, our websites or our apps, and abide by TikTok’s requirements in relation to the use of any proprietary materials, or falsify or delete any author attributions, legal notices, or other labels of origins or source of material; ​
 
-​
-
 (p) use the Application, TikTok Shop, TTSPC, the API and/or the API Data, or allow third parties to use the same, to compete with or replicate any services provided by TikTok;​
 
 ​
@@ -1914,9 +1872,9 @@ Use of API​
 
 ​
 
-6 Intellectual Property​
+6 Intellectual Property6.1 You acknowledge that all intellectual property rights in the TikTok Shop, TTSPC, the API and the API Data belongs and shall belong to TikTok (or its licensors) and you shall have no rights in or to the same other than the right to use it in accordance with these Terms.​
 
-6.1 You acknowledge that all intellectual property rights in the TikTok Shop, TTSPC, the API and the API Data belongs and shall belong to TikTok (or its licensors) and you shall have no rights in or to the same other than the right to use it in accordance with these Terms.​
+​
 
 ​
 
