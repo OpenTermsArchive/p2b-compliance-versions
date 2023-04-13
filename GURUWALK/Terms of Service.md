@@ -4,7 +4,7 @@ CONDICIONES APLICABLES A LOS SERVICIOS
 ======================================
 
 * [**CONDICIONES APLICABLES PARA LOS WALKERS DE GURUWALK**](#s1)
-* [**TÉRMINOS Y CONDICIONES APLICABLES PARA LOS GUÍAS DE GURUWALK**](#s2)
+* [TERMS AND CONDITIONS APPLICABLE TO GURUWALK GUIDES](#s2)
 * [TERMS AND CONDITIONS APPLICABLE TO GURUWALK AFFILIATES](#s3)
 
 #### **CONDICIONES APLICABLES PARA LOS WALKERS DE GURUWALK**
@@ -19,7 +19,7 @@ La titularidad de esta página web, [https://www.guruwalk.com](https://www.guruw
 
 Los datos de contacto son los siguientes:  
 Teléfono: +34 644 53 16 24.  
-Correo electrónico de contacto: [privacidad@guruwalk.com](mailto:privacidad@guruwalk.com)  
+Correo electrónico de contacto: [\[email protected\]](https://www.guruwalk.com/cdn-cgi/l/email-protection)  
 Facebook: [https://www.facebook.com/guruwalk/](https://www.facebook.com/guruwalk/)  
 Instagram: @guruwalk  
 Para todas las preguntas que puedas tener en relación a los presentes términos y condiciones, puedes dirigirte a nosotros por cualquiera de los medios indicados.
@@ -86,80 +86,162 @@ No está permitido y, por tanto, sus consecuencias serán de tu exclusiva respon
 
 Por ello y en esta línea, **GURUWALK** antes de emprender este tipo de acciones puede eliminar los contenidos del **walker** según sea necesario, para garantizar el respeto de los términos y condiciones que has aceptado expresamente, por ejemplo, por comunicación del titular de derechos de autor de fotos publicadas. **GURUWALK** no está obligado a almacenar copias del contenido del usuario ni a proporcionar tales copias.
 
-#### **TÉRMINOS Y CONDICIONES APLICABLES PARA LOS GUÍAS DE GURUWALK**
+#### **TERMS AND CONDITIONS APPLICABLE TO GURUWALK GUIDES**
 
-En el momento en el que te das de alta como guía en la web de **GURUWALK**, aceptas los siguientes términos y condiciones aplicables en tu condición como usuario registrado como guía o **Guru** que desea ofrecer sus servicios (en adelante, "**Guru**").
+When registering as a guide on the **GURUWALK** website, you agree to the following terms and conditions applicable in your capacity as a user registered as a guide or Guru who wishes to offer your services (hereinafter, "**Guru**").
 
-Estos términos y condiciones podrán ser actualizados y ratificados de nuevo previo a la celebración de un tour, en cualquier momento.
+These terms and conditions may be updated and ratified again prior to the hosting of a tour, at any time.
 
-**1) IDENTIFICACIÓN GURUWALK**
+* ****GURUWALK** IDENTIFICATION**
+    
 
-La titularidad de esta página web, [https://www.guruwalk.com](https://www.guruwalk.com/) ,la ostenta Guruwalk, S.L., con domicilio social en Ronda circunvalación, 188 (Ed. CEEI Castellón), 12003 Castelló de la Plana (Castellón), con CIF B98958648, inscrita en el Registro Mercantil de Valencia, al Tomo 10407, Libro 7688 Folio 44, Sección 8 y Hoja número V179201, en adelante, **GURUWALK**.
+This website, [\[email protected\]](https://www.guruwalk.com/)
 
-Los datos de contacto son los siguientes:  
-Teléfono: +34 644 53 16 24.  
-Correo electrónico de contacto: [privacidad@guruwalk.com](mailto:privacidad@guruwalk.com)  
-Facebook: [https://www.facebook.com/guruwalk/](https://www.facebook.com/guruwalk/)  
-Instagram: @guruwalk  
-Para todas las preguntas que puedas tener en relación a los presentes términos y condiciones, puedes dirigirte a nosotros por cualquiera de los medios indicados.
+Facebook: [https://www.facebook.com/guruwalk/](https://www.facebook.com/guruwalk/)
 
-**2) OBJETO DEL SITIO WEB**
+Instagram: @guruwalk
 
-**GURUWALK** actúa como intermediario en la reserva de actividades relativas al contacto entre interesados en rutas turísticas (los **Walkers**) y guías que las organizan (**Gurus**), a través de la página web de su titularidad [https://www.guruwalk.com](https://www.guruwalk.com/).
+For any questions you may have regarding these terms and conditions, you can contact us by any of the previously indicated methods.
 
-La plataforma de **GURUWALK**, por tanto, permite a **Gurus** y **Walkers** ponerse en contacto para disfrutar de las distintas experiencias que organizan los **Gurus**. De esta forma, **GURUWALK** opera como una plataforma de intermediación.
+* **PURPOSE OF THE WEBSITE**
+    
 
-Como **Guru**, realizas y organizas las actividades culturales, de entretenimiento, esparcimiento y ocio (en adelante Tours), dirigidas a los **Walkers**, bajo tu propio riesgo y ventura y a través de tus propios medios.
+**GURUWALK** acts as an intermediary in the booking of activities related to the contact between parties interested in tourist routes (**Tourists**) and the guides who organise them (**Gurus**), through the website it owns, [https://www.guruwalk.com/](https://www.guruwalk.com/)
 
-**3) RESPONSABILIDAD COMO GURU.**
+**GURUWALK**'s platform, therefore, allows **Gurus** and **Tourists** to connect, in order to enjoy the various experiences organized by the **Gurus**. **GURUWALK**, therefore, operates as an intermediation platform.
 
-Como **Guru**, el alta en esta web implica que estás interesado en promocionar tus Tours a través de la Plataforma de **GURUWALK**, para que sean incluidos en el catálogo ofertado y puedan ser reservados por el **Walker**.
+As a **Guru**, you carry out and organize cultural, entertainment, recreation, and leisure activities (hereinafter **Tours**), aimed at **Tourists**, at your own risk and liability and through your own means.
 
-Al darte de alta como **Guru** aceptas expresamente que eres el responsable de la organización de los distintos tipos de tours o rutas, la seguridad de los **walkers** y su integridad física o moral, asimismo como la aceptación, rechazo o expulsión de cualquier **walker** que pueda incomodar al resto de acompañantes de la ruta.
+* **RESPONSIBILITY AS A GURU.**
+    
 
-Esto implica también que como proveedor del tour, garantizas a **GURUWALK** que estarás al tanto de todas las obligaciones que pudieran derivarse de tu actividad (a título ejemplificativo no limitativo se enuncian; la obligación de respetar los itinerarios marcados donde se pueden realizar tours, la normativa local donde se realiza el tour y cualquier otra obligación legal, fiscal o tributaria, así como de contar y mantener actualizadas todas las licencias o certificaciones necesarias y requeridas por la legislación en materia turística local, autonómica o nacional que corresponda).
+As a **Guru**, registration on this website implies that you are interested in promoting your Tours through the **GURUWALK** Platform, for their inclusion in the catalogue offerings to be booked by the **Tourist**.
 
-Al mismo tiempo, es tu responsabilidad garantizar la exactitud, legitimidad y corrección de todo el contenido e información que aportas a la plataforma en cuanto al tour previsto y servicios.
+By registering as a **Guru**, you expressly agree that you are responsible for the organisation of the various types of tours or routes, tourist safety and their physical or moral integrity, as well as the acceptance, rejection or expulsion of any tourist that may inconvenience the rest of the attendees of the tour.
 
-**4) USO DEL CONTENIDO PUBLICADO EN LAS RUTAS**
+This also implies that as a Tour provider, you guarantee to **GURUWALK** that you will be aware of all the obligations that may arise from your activity (including, but not limited to, the following: the obligation to respect the marked itineraries where tours can be carried out, the local regulations where the tour is carried out and any other legal, tax or fiscal obligation, as well as to have and keep current all necessary licenses or certifications required by the local, regional or national legislation on tourism).
 
-**GURUWALK** no será titular de ningún contenido que publiques como guía en la plataforma o a través de ella. No obstante, aceptas que **GURUWALK** puede utilizar gratuitamente todos los contenidos o imágenes que publiques en la plataforma a efectos de la publicación, modificación, transformación, recopilación, comunicación pública y explotación en cualquier tipo de soporte o medio conocido o por conocer, para todo el territorio mundial.
+At the same time, it is your responsibility to ensure the accuracy, legitimacy, and correctness of all the content and information you provide to the platform regarding the planned tour and services.
 
-Por tanto, garantizas que el contenido que subas tales como fotos de rutas, o redacción de estas es:
+* **USE OF CONTENT POSTED ON ROUTES**
+    
 
-1. Contenido original, es decir, creado por ti mismo.
-2. Esto implica que la publicación y uso de tu contenido no infringe, malversa ni vulnera los derechos de terceros, incluidos sin limitación; los derechos de privacidad, de publicidad, de autor, de marcas u otros derechos de propiedad intelectual e industrial en sentido amplio.
-3. En el caso de que uses contenido protegido, la responsabilidad del pago por los derechos de autor del contenido usado de forma no autorizada, recae sobre ti y aceptas expresamente que, si el autor original reclamara a **GURUWALK**, nosotros podamos dirigirnos en su nombre hacia ti, para hacerte cargo y responder ante cualquier eventual conflicto de este tipo.
-4. En esta misma línea, cualquier posible infracción en cuanto a publicidad, privacidad, derecho de la competencia, si es imputable al contenido publicado en relación a tus fotos, textos o cualquier recurso utilizado, aceptas expresamente también que responderás personalmente y no **GURUWALK**.
-5. Con el alta como guía en **GURUWALK**, reconoces que tienes el derecho y la capacidad legal de cumplir estos términos y condiciones bajo la jurisdicción española.
+**GURUWALK** will not own any content that you post as a guide on or through the platform. However, you agree that **GURUWALK** may use, free of charge, all content, including images that you post on the platform for the purposes of publication, modification, transformation, collection, public advertising, and exploitation in any type of media or medium known or to be known, throughout all territories of the world.
 
-**5) USOS NO PERMITIDOS DE LA PLATAFORMA COMO GUÍA Y CONSECUENCIAS DEL INCUMPLIMIENTO**
+Therefore, you guarantee that the content you upload, such as photos of routes, any text included, is:
 
-No está permitido y, por tanto, sus consecuencias serán de tu exclusiva responsabilidad como guía el acceso o la utilización de la Plataforma con fines ilegales o no autorizados, con o sin finalidad económica, y, con carácter enunciativo, pero no limitativo, queda prohibido:
+1. Original content, that is, created by yourself.
+2. This implies that the publication and use of your content does not infringe, misappropriate, or violate the rights of third parties, including, without limitation, the privacy rights, advertising, copyright, trademarks, or other intellectual and industrial property rights in the broadest sense.
+3. If you use protected content, you are solely responsibility for payment for the copyright of any content used without authorisation and you expressly agree that, if the original owner files a claim against **GURUWALK**, we may on their behalf contact you to be responsible for and respond in any such dispute.
+4. Likewise, in the event of any possible infringement in terms of advertising, privacy, or competition law, if attributable to the content published in relation to your photos, texts, or any other resource used, you also expressly agree that you will be personally responsible and **GURUWALK** will bear no liability.
+5. By registering as a guide with **GURUWALK**, you acknowledge that you have the right and legal capacity to comply with these terms and conditions under Spanish jurisdiction.
 
-1. Usar la Plataforma en forma que pueda provocar daños, interrupciones, ineficiencias o defectos en su funcionalidad o en el ordenador de un tercero;
-2. Usar la Plataforma para la transmisión, la instalación o la publicación de cualquier virus, código malicioso u otros programas o archivos perjudiciales;
-3. Registrarse a través de la Plataforma con una identidad falsa, suplantando a terceros o utilizando un perfil falso o realizando cualquier otra acción que pueda confundir a otros usuarios sobre el origen de un mensaje. As well as contact other users of the platform for commercial or advertising purposes.
-4. Acceder sin autorización a cualquier sección de la Plataforma, a otros sistemas o redes conectadas a la Plataforma, a ningún servidor de **GURUWALK** ni a los servicios ofrecidos a través de la Plataforma, por medio de pirateo o falsificación, extracción de contraseñas o cualquier otro medio ilegítimo;
-5. Quebrantar, o intentar quebrantar, las medidas de seguridad o autenticación de la Plataforma o de cualquier red conectada a la misma, o las medidas de seguridad o protección inherentes a los contenidos ofrecidos en la Plataforma
-6. Llevar a cabo alguna acción que provoque una saturación desproporcionada o innecesaria en la infraestructura de la Plataforma o en los sistemas o redes de **GURUWALK**, así como en los sistemas y redes conectados a la Plataforma, tales como ataques de denegación de servicio;
-7. Impedir el normal desarrollo de las promociones o concursos o cualquier otra actividad que se pueda ofrecer a través de la Plataforma o cualesquiera de sus funcionalidades, ya sea alterando o tratando de alterar, ilegalmente o de cualquier otra forma, el acceso, participación o funcionamiento de aquéllos, o falseando el resultado de los mismos y/o utilizando métodos de participación fraudulentos, mediante cualquier procedimiento, y/o a través de cualquier práctica que atente o vulnere en modo alguno los presentes términos y condiciones.
+* **UNAUTHORISED USES OF THE PLATFORM AS A GUIDE AND CONSEQUENCES OF NON-COMPLIANCE**
+    
 
-**GURUWALK** podrá eliminar o bloquear la cuenta de cualquier guía que incumpla las condiciones antedichas, sin perjuicio del ejercicio de las acciones judiciales y/o administrativas que **GURUWALK** pueda emprender contra el guía infractor. La eliminación de la cuenta no acarreará en caso alguno indemnización de daños y perjuicios.
+It is not permitted to access or use the Platform for illegal or unauthorised purposes, with or without an economic purpose, and therefore, as a guide, you will be solely responsible for any consequences. By way of example, the prohibited acts include, but are not limited to, the following:
 
-Por ello y en esta línea, **GURUWALK** antes de emprender este tipo de acciones puede eliminar los contenidos del guía según sea necesario, para garantizar el respeto de los términos y condiciones que has aceptado expresamente, por ejemplo, por comunicación del titular de derechos de autor de fotos publicadas. **GURUWALK** no está obligado a almacenar copias del contenido del usuario ni a proporcionar tales copias.
+1. Use of the Platform in a way that may cause damage, interruptions, inefficiencies or defects in its functionality or in the computer of a third party;
+2. Use of the Platform for the transmission, installation or publication of any virus, malicious code or other harmful programs or files;
+3. Registering through the Platform using a false identity, impersonating third parties or using a false profile or performing any other action that may confuse other Users about the origin of a message;
+4. Unauthorised access to any section of the Platform, other connected systems or networks, any **GURUWALK** server, or services offered through the Website by means of hacking, falsification, extraction of passwords or any other unlawful means;
+5. Breaking, or attempt to break, the security or authentication measures of the Platform or of any network connected thereto, or the security or protection measures inherent to the contents offered on the Platform;
+6. Carrying out any action that causes a disproportionate or unnecessary saturation in the infrastructure of the Platform or in the **GURUWALK** systems or networks, as well as in the systems and networks connected to the Platform;
+7. Preventing the normal development of promotions or contests or any other activity that may be offered through the Platform or any of its functionalities, either by altering or trying to alter, illegally or otherwise, access, participation or operation thereof, or falsifying the result thereof and/or using fraudulent participation methods, through any procedure, and/or through any practice that subverts or violates these Terms and Conditions in any form.
+8. Failure to comply with the rules of the Cancellation Policy ([Cancellation Policy (guruwalk.com)](https://support.guruwalk.com/portal/en/kb/articles/cancellation-policy)).
+9. Failure to comply with the Community Rules for Gurus ([GuruWalk](https://www.guruwalk.com/terms/pro_plan))
+10. The use of sexist, classist, racist, or inappropriate language or behaviour with any member of the Community (**GURUWALK** workers, other GURUS, or walkers)
+11. Any attempted deception or fraud related to any member of the Community and/or **GURUWALK**, including promoting pre-paid tours within the Platform’s tours that must be free-tours.
+12. Failure to comply with Data Protection regulations. Including but not limited to, using the data of the walkers for purposes other than those stipulated, such as claims for reviews.
+13. The use of the internal platform messaging or walker data for commercial purposes external to GuruWalk.
+14. Failure to comply with the rules of the Opinion Policy ([Opinion Policy (guruwalk.com)](https://support.guruwalk.com/portal/en/kb/articles/reviews-policy)).
+15. Failure to comply with the rules of the Quality Policy ([Quality Policy (guruwalk.com)](https://support.guruwalk.com/portal/en/kb/articles/quality-policy) ).
+16. Failure to comply with the rules of the Tour Content policy ([Tour Content policy (guruwalk.com)](https://support.guruwalk.com/portal/en/kb/articles/content-policy-31-5-2022))
+17. Failure to pay, generating negative credits over a long period of time.
+18. Assign No-Shows to Walkers who have completed the tour. In this case the corresponding credits will be subtracted and the contract could be cancelled.
 
-**6) USOS NO PERMITIDOS SOLO APLICABLES A GURUS HOBBY Y CONSECUENCIAS DEL INCUMPLIMIENTO**
+**GURUWALK** may delete or block the account of any guide that does not comply with the above conditions, without prejudice to the exercise of any judicial and/or administrative action that **GURUWALK** may take against the infringing guide. The deletion of the account will not in any case result in compensation for damages.
 
-Sin perjuicio de las limitaciones expuestas en el punto cinco, los Gurus Hobby cuentan además con las siguientes limitaciones de uso de la plataforma **GURUWALK**:
+Therefore, in this regard, before undertaking these types of actions, **GURUWALK** can remove the contents of the guide, as necessary, to ensure compliance with the terms and conditions that you have expressly accepted, for example, after notification from the copyright holder of photos published. **GURUWALK** is not obliged to store copies of the user's content or to provide such copies.
 
-1. No se permite a un mismo usuario tener más de una cuenta Hobby.
-2. No podrán crear en la plataforma más de tres tours.
-3. Por cada Tour solo será posible publicar dos horarios por idioma y día, dichos horarios tendrán que tener una diferencia mínima de dos horas entre sí.
-4. No se permite bajo ningún concepto la unión de Walkers procedentes de diferentes tours en un mismo evento.
-5. No se podrán realizar falsas cancelaciones.
+* **ON-PERMITTED USES ONLY APPLICABLE TO GURUS HOBBY AND CONSEQUENCES OF NON-COMPLIANCE**
+    
 
-**GURUWALK** podrá eliminar o bloquear la cuenta de cualquier guía Hobby que incumpla las condiciones antedichas. La eliminación de la cuenta no acarreará en caso alguno indemnización de daños y perjuicios.
+Without prejudice to the limitations set out in point five above, Hobby Gurus are also subject to the following limitations on the use of the **GURUWALK** platform:
+
+1. The same user is not allowed to have more than one Hobby account.
+2. No more than three tours may be created on the platform.
+3. For each Tour it will only be possible to publish two schedules per language and per day, and these schedules must be at least two hours apart.
+4. Under no circumstances are Walkers from different tours allowed to join together in the same event.
+5. False cancellations are not allowed.
+
+**GURUWALK** may delete or block the account of any Hobby Guide who breaches the above conditions. The deletion of the account shall in no event give rise to any compensation for damages.
+
+* **PERSONAL DATA PROCESSING**
+    
+
+For the sole purpose of organising and carrying out the tours published on the platform, the Guru, in their capacity as data processor, will be empowered to act on behalf of **GURUWALK** (data controller) in the processing of the identification and contact details of those users who reserve a place in the published tours.
+
+The processing will consist of access to the personal data of those users who have a booking for a tour published by the Guru and Including the data provided for the contact within the parties and the organization of the tour.
+
+The data accessed by the Guru will be limited to the minimum necessary for identification and contact with the interested parties.
+
+This clause relating to the processing of personal data will be applicable as long as the Guru can access the personal data of users through the platform.
+
+However, obligations relating to confidentiality shall be maintained indefinitely, irrespective of whether the contractual relationship between the parties has ceased.
+
+**Obligations of the Guru in the processing of personal data**
+
+In regard to the personal data processed for each tour, the Guru, as the data processor, undertakes to:
+
+1. Use the utmost diligence in the fulfilment of the obligations contained in this contract and in the application of any appropriate technical or organisational measures to ensure the data is processed in accordance with the requirements of the applicable regulations to guarantee the protection of the rights of the interested parties.
+2. Use the personal data subject to processing exclusively for the purpose of organising and carrying out the tours. Use of the data for any other purpose is expressly prohibited.
+3. Process the personal data according to the instructions transmitted by **GURUWALK**. If the Guru finds that any of the instructions violate the applicable regulations, he/she will inform **GURUWALK** immediately.
+4. The Guru will not communicate Personal Data to third parties, unless expressly instructed by **GURUWALK**.
+5. The Guru will not subcontract any of the services offered under this data processor contract.
+6. The Guru will maintain the duty of secrecy and confidentiality with respect to the personal data subject to processing as a result of the tours, even after their completion.
+7. The Guru guarantees that he/she has the necessary training in the protection of Personal Data required to process the aforementioned data.
+8. The Guru shall assist **GURUWALK** whenever possible in responding to the exercise of the rights of access, rectification, erasure and opposition, restriction of processing, portability, and the right to not be subject to automated individualised decisions (including profiling).
+
+When the affected persons exercise the aforementioned rights before the Guru, the latter must inform **GURUWALK**. The notification must be made immediately and in no case later than one working day after receiving the request, alongside any other information that may be relevant to process the request.
+
+1. The Guru will notify GURWALK of any personal data under their responsibility when there is any security breaches he/she becomes aware of , together with all the relevant information for the documentation and communication of the incident.
+2. Likewise, the Guru, when legally required, will notify the Data Protection Authority of personal data security breaches as soon as possible and will communicate said breaches to the interested parties.
+3. The Guru will offer support to **GURUWALK** in carrying out impact assessments related to data protection, as appropriate.
+4. The Guru will support **GURUWALK** in carrying out prior consultations with the Data Protection Supervisory Authority, where appropriate.
+5. The Guru will make available to **GURUWALK** any information required to demonstrate compliance with his/her obligations, as well as for the carrying out of any audits or inspections, by the controller or any other auditor authorised by it.
+6. Where applicable, in accordance with the Applicable Regulations, the Guru will designate a data protection officer, as well as communicating his/her identity and contact data to **GURUWALK**.
+7. Where applicable, in accordance with the Applicable Regulations, the Guru will keep, in writing, a record of all categories of processing activities of the data carried out on behalf of **GURUWALK**.
+8. Once the tour has been carried out, the Guru undertakes to destroy the personal data of users that, where appropriate, the Guru has stored or used outside the **GURUWALK** Platform.
+
+**Security measures**
+
+In addition to the security measures relating to the use of the Platform, in the event that the Guru processes the personal data of users outside the Platform, he/she is obliged to maintain the following:
+
+* Encryption of personal data.
+* The ability to ensure the confidentiality, integrity, and availability of personal data.
+* The ability to restore the availability of and access to personal data in a timely manner in the event of a physical or technical incident.
+* A regular evaluation, assessment, and verification process with regard to the efficiency of the technical and organisational measures to ensure data security.
+
+In the evaluation of the appropriate security level, due consideration shall be given to the risks that may derive from the processing, in particular, the destruction, loss or accidental or unlawful alteration of the personal data transmitted, stored or processed in some other way, as well as the communication or unauthorised access to said data.
+
+**Obligations of **GURUWALK** in the processing of personal data**
+
+**GURUWALK** is responsible for:
+
+1. Delivering to the Guru or enabling access to user personal data through the Platform.
+2. Where applicable, in accordance with the Applicable Regulations, carrying out an assessment of the impact on Personal Data protection of the Processing operations to be carried out by the Provider.
+3. Where applicable, carrying out any appropriate prior inquiries in accordance with the Applicable Regulations.
+4. Striving to ensure compliance with the Applicable Regulations by the Guru, before and during all processing.
+5. Supervising the treatment, including the performance of inspections and audits.
+
+**Power to audit**
+
+Upon written notice from **GURUWALK** within a reasonable time and not less than 72 hours, the Guru will allow **GURUWALK** to perform audits aimed at ensuring compliance with the provisions of this data processor contract and the Applicable Regulations. The Provider shall bear the cost of the aforementioned audits when they find non-compliance with the security measures established in Clause 5 of this data processor contract.
+
+**Liability**
+
+The Provider shall be liable and shall hold **GURUWALK** harmless from any kind of damage, prejudice, sanction (expressly including those imposed by the Data Protection Authority) or expenses (including reasonable expenses of lawyers, attorneys or other professionals), which may be caused by the breach of the Provider obligations established in this data processor contract, or any other established in the Applicable Regulations.
 
 #### TERMS AND CONDITIONS APPLICABLE TO GURUWALK AFFILIATES
 
@@ -307,7 +389,7 @@ Los datos personales de las personas físicas que intervengan en la firma y ejec
 
 El tratamiento de los datos identificativos de las personas firmantes está legalmente amparado en los artículos 6.1.b) y c) del Reglamento (UE) 2016/679, dado que es necesario para la firma y ejecución del contrato y para el cumplimiento de obligaciones legales. Asimismo, cada parte ostenta un interés legítimo en el tratamiento de los datos de localización profesional del resto de partes, de acuerdo con el artículo 19 de la Ley Orgánica 3/2018.
 
-Los titulares de estos datos podrán ejercitar sus derechos de acceso, rectificación, supresión, limitación a su tratamiento, oposición, portabilidad y a no ser objeto de decisiones individualizadas, incluida la elaboración de perfiles, dirigiendo una comunicación al responsable de cada parte. La persona física firmante en representación del afiliado podrá ejercer los derechos frente a GuruWalk S.L. en el correo electrónico [privacidad@guruwalk.com](mailto:privacidad@guruwalk.com).
+Los titulares de estos datos podrán ejercitar sus derechos de acceso, rectificación, supresión, limitación a su tratamiento, oposición, portabilidad y a no ser objeto de decisiones individualizadas, incluida la elaboración de perfiles, dirigiendo una comunicación al responsable de cada parte. La persona física firmante en representación del afiliado podrá ejercer los derechos frente a GuruWalk S.L. en el correo electrónico [\[email protected\]](https://www.guruwalk.com/cdn-cgi/l/email-protection).
 
 La Agencia Española de Protección de Datos es la autoridad de control en esta materia y ante quien los afectados pueden acudir para reclamar si consideran que el tratamiento es ilícito o que los derechos sobre sus datos personales no han sido respetados.
 
