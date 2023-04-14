@@ -1,5 +1,5 @@
-Nutzungsbedingungen
-===================
+Nutzungsbedingungen (gültig bis 31. Mai 2023)
+=============================================
 
 Präambel
 ---------
