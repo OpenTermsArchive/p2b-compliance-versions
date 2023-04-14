@@ -170,3 +170,4 @@ Ljubljana, 24. 03. 2023
 
 * [Pravila in pogoji uporabe bolha.com – dodatek za Spletno trgovino bolha.com](https://www.bolha.com/index.php?ctl=show_static_page&alias=supplement-disclaimer)
 * [Pravila in pogoji uporabe bolha.com – dodatek za Megabon ponudbo na bolha.com](https://www.bolha.com/index.php?ctl=show_static_page&alias=supplement-disclaimer-megabon)
+* [Pravila in pogoji uporabe bolha.com – dodatek za storitev Brez Skrbi](https://www.bolha.com/index.php?ctl=show_static_page&alias=disclaimer-brez-skrbi)
