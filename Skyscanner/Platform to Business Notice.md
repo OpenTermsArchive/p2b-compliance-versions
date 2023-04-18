@@ -48,7 +48,7 @@ Additionally, we apply a “Greener Choice” tag to certain results to highligh
 
 As explained in our [Partner Policy](https://skyscannerpartnersupport.zendesk.com/hc/en-us/articles/115004848773-Partner-Policy) we will remove content which fails to meet the standards we hold all of our partners to, which means that it will not appear (or re-appear) until the issue is resolved.
 
-The operation of our Partner Quality Score, “PQS”,  typically means that, even where prices between different partners are equal, we are able to utilise criteria based on the PQS to rank those partners (to avoid a tie in ranking). In the limited circumstances where results are tied absolutely based on these criteria, we will rank as ﬁrst the partner who provides to us a better click-through-rate and commission level.
+The operation of our Partner Quality Score, “PQS”,  typically means that, even where prices between different partners are equal, we are able to utilise criteria based on the PQS to rank those partners (to avoid a tie in ranking). In the limited circumstances where results are tied absolutely based on these criteria, we will rank as ﬁrst the partner whose name comes first in the alphabet.
 
 ### For Accommodation
 
