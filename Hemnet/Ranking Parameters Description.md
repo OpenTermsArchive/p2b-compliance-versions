@@ -194,7 +194,7 @@ Tittar vi på annonspaketet med mest exponering, Hemnet Premium, får annonsen 
 
 Dessa siffror är ett snitt från hela Sverige och därför kan det skilja sig på lokala marknader.
 
-En bostadsförsäljning påverkas av många faktorer och ett enskilt annonspaket är ingen garanti för en lyckad affär, men sett till statistik ser vi att mängden besökare till annonsen är en viktig komponent i försäljningen. [Läs mer om hur prisuppgången ofta ökar med Hemnet Plus och Premium](https://www.hemnet.se/artiklar/guider/2021/05/18/ofta-storre-prisuppgang-med-hemnet-plus-och-premium).
+En bostadsförsäljning påverkas av många faktorer och ett enskilt annonspaket är ingen garanti för en lyckad affär, men sett till statistik ser vi att mängden besökare till annonsen är en viktig komponent i försäljningen. [Läs mer om hur prisuppgången ofta ökar med Hemnet Plus och Premium](https://www.hemnet.se/artiklar/guider/2021/05/18/ofta-storre-prisuppgang-med-hemnet-plus-och-premium).
 
 ### Om Hemnet Bas
 
@@ -208,7 +208,7 @@ Hemnet Bas är den minsta annonsen på Hemnet med en liten bild och placering l
 
 Hemnet Plus är vårt mellanpaket. Det ger en normalstor bild och du placeras ovanför Hemnet Bas-annonser som publiceras samma dag samt att du prioriteras i liknande bostäder. Dessutom syns din visningstid direkt i resultatlistan vilket är en uppskattad funktion.
 
-Hemnet Premium är vårt annonspaket som ger bäst synlighet för dig som vill maximera dina chanser till en lyckad försäljning. Premium ger ännu större synlighet i sökresultatet än Hemnet Plus med två extra bilder och annonsen placeras högst upp bland de annonser som publiceras samma dag på Hemnet. I Premium ingår även en gratis Raketen som är fri att aktivera när som helst från Säljkollen och ger en bra boost till annonsen. Precis som med Hemnet Plus får du en synlig visningstid och 50 % rabatt på de Raketen du köper utöver den du får gratis. Hemnet Premium ger även ökad trygghet då Förnya annons ingår kostnadsfritt om du köpt Premium senast 7 dagar efter att din mäklare publicerat annonsen.
+Hemnet Premium är vårt annonspaket för dig som vill slå marknaden och få ut det mesta av din annonsering på Hemnet. Premium ger ännu större synlighet i sökresultatet än Hemnet Plus med två extra bilder och annonsen placeras högst upp bland de annonser som publiceras samma dag på Hemnet. I Premium ingår även en gratis Raketen som är fri att aktivera när som helst från Säljkollen och ger en bra boost till annonsen. Precis som med Hemnet Plus får du en synlig visningstid och 50 % rabatt på de Raketen du köper utöver den du får gratis. Hemnet Premium ger även ökad trygghet då Förnya annons ingår kostnadsfritt om du köpt Premium senast 7 dagar efter att din mäklare publicerat annonsen.
 
 ### Om Hemnet Plus
 
@@ -218,7 +218,7 @@ Vår data visar att bostäder som får fler besök på Hemnet ofta säljs både 
 
 #### Vad ingår när jag köper Hemnet Plus?
 
-**Få 50 % rabatt på Raketen –** du får köpa Hemnets effektiva tilläggsprodukt Raketen till halva priset. Med Raketen hamnar du högst upp i resultatlistan i 5 eller 3 dagar och du får i snitt 50 %fler, relevanta besökare under kampanjperioden.
+**Få 50 % rabatt på Raketen –** du får köpa Hemnets effektiva tilläggsprodukt Raketen till halva priset. Med Raketen hamnar du högst upp i resultatlistan i 5 eller 3 dagar och du får i snitt 50 % fler, relevanta besökare under kampanjperioden.
 
 **Framhävda visningstider –** dina aktiva visningstider syns på din annons direkt i sökresultatet istället för bara i din annons. Det gör att din annons sticker ut extra mycket i sökresultatet och att fler besökare kan se och spara dina visningstider.
 
@@ -246,7 +246,7 @@ Bostadssäljare med Hemnet Plus köper i snitt två stycken Raketen under förs
 
 #### Vad ingår när jag köper Hemnet Premium?
 
-Med Hemnet Premium får du ännu större synlighet i sökresultatet än med Hemnet Plus med två extra bilder och annonsen placeras högst upp bland de annonser som publiceras samma dag på Hemnet. I Premium ingår även en gratis Raketen som är fri att aktivera när som helst från Säljkollen vilket ger en bra boost till annonsen. Precis som med Hemnet Plus får du en synlig visningstid på annonsen och 50 % rabatt på de Raketen du köper utöver den du får gratis. Med Hemnet Premium kommer du också prioriteras högre bland liknande bostäder där din bostad finns med i urvalet. Hemnet Premium ger dig även extra trygghet då Förnya annons ingår för de som köpt Hemnet Premium i samband med publicering av annonsen. Förnya annons ger dig möjlighet att publicera annonsen som helt ny om du skulle behöva ompublicera, t.ex. om du vill visa bostaden igen eller behöver starta om försäljningen.
+Med Hemnet Premium får du ännu större synlighet i sökresultatet än med Hemnet Plus med två extra bilder och annonsen placeras högst upp bland de annonser som publiceras samma dag på Hemnet. I Premium ingår även en gratis Raketen som är fri att aktivera när som helst från Säljkollen vilket ger en bra boost till annonsen. Precis som med Hemnet Plus får du en synlig visningstid på annonsen och 50 % rabatt på de Raketen du köper utöver den du får gratis. Men Hemnet Premium kommer du också prioriteras högre bland liknande bostäder där din bostad finns med i urvalet. För ökad trygghet får du även ett obegränsat antal Förnya annons med Hemnet Premium, det gäller endast om du köper Hemnet Premium inom 7 dagar efter annonsen har publicerats.
 
 #### Hur hjälper Hemnet Premium min försäljning?
 
@@ -262,7 +262,7 @@ En bostadsförsäljning påverkas av många faktorer och ett enskilt annonspaket
 
 Som privatperson kan du betala med kort, direktbetalning, faktura och Swish.
 
-Hemnet använder Klarna för smidig och trygg betalning. Med Klarna kan du betala via direktbetalning, kort, e-faktura på 30 dagar, delbetalning samt swish. Alla köp verifieras med BankID. Om du inte vill betala via Klarna kan du betala med kortbetalning via vår checkout. Det fungerar även för dig som inte har ett svenskt personnummer.
+Hemnet använder Klarna för smidig och trygg betalning. Med Klarna kan du betala via direktbetalning, kort, e-faktura på 30 dagar, delbetalning eller swish. Alla köp verifieras med BankID. Om du inte vill betala via Klarna kan du betala med kortbetalning via vår checkout. Det fungerar även för dig som inte har ett svenskt personnummer.
 
 Är du företagskund kan du välja mellan kort och faktura.
 
@@ -276,6 +276,6 @@ Om din betalning går igenom får du ett bekräftelsemejl från Klarna där det 
 
 #### Kan jag ångra mitt köp?
 
-Nej. Enligt distansavtalslagen (2 kap., 11§) gäller inte ångerrätt på ”digitalt innehåll som levereras på något annat sätt än på ett fysiskt medium, om konsumenten uttryckligen har samtyckt till leverans på detta sätt och gått med på att det inte finns någon ångerrätt”. [Läs mer om ångerrätten i våra villkor.](https://assets.hemnet.se/assets/dokument/hemnet_avtalsvillkor_for_annonstjanster_20221101.pdf)
+Nej. Enligt distansavtalslagen (2 kap., 11§) gäller inte ångerrätt på ”digitalt innehåll som levereras på något annat sätt än på ett fysiskt medium, om konsumenten uttryckligen har samtyckt till leverans på detta sätt och gått med på att det inte finns någon ångerrätt”. [Läs mer om ångerrätten i våra villkor.](https://documents.portal.hemnet.se/9o1tpf08smajtur7dhtv96lzfwd6)
 
 [Läs alla frågor och svar](https://www.hemnet.se/kundservice/saljare)
