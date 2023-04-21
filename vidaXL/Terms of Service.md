@@ -3,49 +3,68 @@ Utilizamos diferentes términos y condiciones para los consumidores y los client
 **Términos y condiciones para consumidores**
 --------------------------------------------
 
-Actualizado: 2021-09-03
+Actualiz**ado: 2023-04-20**
 
 Éstas condiciones generales forman parte de Thuiswinkel.nl y se han elaborado en consulta con la Asociación de Consumidores en el marco del Grupo de Coordinación de Autorregulación (CZ) del Consejo Económico y Social y serán operables a partir del 1 de junio 2020.
 
 ### **Índice**
 
-1. Artículo 1 – Definiciones
-2. Artículo 2 – Identidad del comerciante
-3. Artículo 3 – Pertinencia
-4. Artículo 4 – La oferta
-5. Artículo 5 – El contrato
-6. Artículo 6 – Derecho de desistimiento
-7. Artículo 7 – Obligaciones del cliente en caso de desistimiento
-8. Artículo 8 – Clientes que están practicando el derecho de desistimiento y los gastos asociados con ellos
-9. Artículo 9 – Obligaciones del comerciante en caso de desistimiento
-10. Artículo 10 – Exclusión del derecho de desistimiento
-11. Artículo 11 – El precio
-12. Artículo 12 – Cumplimiento del contracto y la garantía adicional
-13. Artículo 13 – Entrega e implementación
-14. Artículo 14 – Transacciones de duración, rescindir y extender
-15. Artículo 15 – El pago
-16. Artículo 16 – Procedimiento de quejas
-17. Artículo 17 – Conflictos
-18. Artículo 18 – Garantía de la rama
-19. Artículo 19 – Términos adicionales o diferentes
-20. Artículo 20 – Modificación de las condiciones generales de Thuiswinkel.org
+Artículo   1 – Definiciones
 
-### Artículo 1 – Definiciones
+Artículo   2 – Identidad del comerciante
+
+Artículo   3 – Aplicabilidad
+
+Artículo   4 – La oferta
+
+Artículo   5 – El contrato
+
+Artículo   6 – Derecho de desistimiento
+
+Artículo   7 – Obligaciones del cliente en caso de desistimiento
+
+Artículo   8 – Los consumidores que ejercen su derecho de desistimiento y los costes que conlleva
+
+Artículo   9 – Obligaciones del comerciante en caso de desistimiento
+
+Artículo 10 – Exclusión del derecho de desistimiento
+
+Artículo 11 – El precio
+
+Artículo 12 – Cumplimiento del contrato y la garantía adicional
+
+Artículo 13 – Entrega e implementación
+
+Artículo 14 – Transacciones de duración, terminación y prolongación
+
+Artículo 15 – El pago
+
+Artículo 16 – Procedimiento de quejas
+
+Artículo 17 – Conflictos
+
+Artículo 18 – Garantía de la sucursalde Shopping secure (Thuiswinkel.org)
+
+Artículo 19 – Términos adicionales o diferentes
+
+Artículo 20 – Modificación de las condiciones generales
+
+### **Artículo 1 – Definiciones**
 
 Las siguientes definiciones se aplican en estos términos y condiciones:
 
-1. **Acuerdo adicional**: un acuerdo en que el consumidor obtiene productos, contenidos o servicios digitales en relación con un contrato a distancia. El comerciante o un tercero tiene la responsabilidad de entregar estos, contenidos o servicios digitales sobre la base de un acuerdo entre el tercero y el comerciante;
-2. **Período de desistimiento**: el período en que el consumidor puede usar su derecho de desistimiento;
-3. **Consumidor**: una persona física cuyas acciones no se llevan a cabo para los objetivos relacionados con su actividades de negocio, profesión o empresa;
-4. **Día**: día calendario;
-5. **Contenidos digitales**: los datos producidos y entregados en una forma digital;
-6. **Transacción de duración extendida**: un contrato a distancia para una serie de productos y/o servicios, por lo que la obligación de suministro y compra se extiende por un período de tiempo;
-7. **Soporte duradero**: cada medio auxiliar – también correo electrónico – que permite el consumidor o empresa a salvar información dirigida personalmente a él en un modo que mantiene la intención del uso futuro o consultación durante un período adaptado al fin para cual se indica la información, y que hace posible reproducción sin modificaciones de la información salvada;
-8. **Derecho de desistimiento:** la oportunidad del consumidor para renunciar la transacción de duración extendida, dentro del período de desistimiento;
-9. **Comerciante**: la persona física o jurídica la cual es un miembro de Thuiswinkel.org y la cual ofrece productos, (acceso a) contenidos digitales y/o servicios a distancia a los consumidores;
-10. **Contrato a distancia**: un contrato firmado de la empresa y el consumidor en el marco de un sistema organizado para el comercio a distancia de productos;
-11. **Modelo de formulario del derecho de desistimiento**: el modelo europeo de formulario del derecho de desistimiento se adjunta en Apéndice 1 de estos términos y condiciones. El comerciante no tiene la obligación abastecer proporcionar Apéndice 1 al consumidor si el consumidor no tiene el derecho del desistimiento con respecto a su pedido;
-12. **Técnica para comunicación a distancia**: medio auxiliar que puede ser usado para comunicación con respecto a firmar el contrato, sin la necesidad de un encuentro del comerciante y el consumidor al mismo lugar al mismo tiempo.
+1. Acuerdo adicional: un acuerdo en que el consumidor obtiene productos, contenidos o servicios digitales en relación con un contrato a distancia. El comerciante o un tercero tiene la responsabilidad de entregar estos, sobre la base de un acuerdo entre el tercero y el comerciante;
+2. Período de desistimiento: el período en que el consumidor puede usar su derecho de desistimiento;
+3. Consumidor: una persona física cuyas acciones no se llevan a cabo para los objetivos relacionados con su actividades de negocio, profesión o empresa;
+4. Día: día del calendario;
+5. Contenidos digitales: los datos producidos y entregados en una forma digital;
+6. Contrato de suministro: un contrato a distancia para una serie de productos y/o servicios, por lo que la obligación de suministro y compra se extiende por un período de tiempo;
+7. Soporte duradero:; todo medio -incluido el correo electrónico- que permita a un consumidor o comerciante almacenar la información que le ha sido dirigida personalmente de forma que se facilite su uso o consulta futura durante un periodo acorde con el objetivo al que se destina la información, y que facilite la reproducción inalterada de la información almacenada;
+8. Derecho de desistimiento: la posibilidad de que el consumidor renuncie a un contrato a distancia dentro del plazo de desistimiento;
+9. Comerciante: identidad mencionada en el artículo 2. Una tienda web, una empresa (persona jurídica) que ofrece productos, (acceso a) contenidos digitales o servicios a los consumidores, a distancia;
+10. Contrato a distancia: un contrato firmado entre la empresa y el consumidor en el marco de un sistema organizado para el comercio a distancia de productos;
+11. Modelo de formulario del derecho de desistimiento: el modelo europeo de formulario del derecho de desistimiento se adjunta en Apéndice 1 de estos términos y condiciones. El comerciante no está obligado a facilitar el Apéndice I si el consumidor no tiene derecho de desistimiento con respecto a su pedido;
+12. Técnica para comunicación a distancia: medio auxiliar que puede ser usado para comunicación con respecto a firmar el contrato, sin la necesidad de un encuentro del comerciante y el consumidor al mismo lugar al mismo tiempo.
 
 ### **Artículo 2: Identidad del comerciante**
 
@@ -53,56 +72,59 @@ Nombre del comerciante: vidaXL International B.V. Negocio bajo el nombre: vidaXL
 
 Dirección del comerciante: Mary Kingsleystraat 1, 5928 SK Venlo  Países Bajos
 
-Correo electrónico: [https://vidaxl.zendesk.com/hc/es/requests/new?ticket\_form\_id=360000487960](https://vidaxl.zendesk.com/hc/es/requests/new?ticket_form_id=360000487960)
+Correo electrónico: https://vidaxl.zendesk.com/hc/es/requests/new?ticket\_form\_id=360000487960
 
 Número de la registración en la Cámara de Comercio e Industria: 52876861
 
 Número de la identificación de la IVA: NL850643545B01
 
-### **Artículo 3: Pertinencia**
+### **Artículo 3: Aplicabilidad**
 
-1. Estas condiciones se aplican a cada oferta del comerciante y a cada contrato a distancia celebrado entre el comerciante y el consumidor;
-2. Antes de concluir el contrato a distancia, estos términos y condiciones generales se ponen a disposición del consumidor. Si esto no es razonablemente posible, el comerciante indicará – antes de concluir el contrato – en que modo se pueda consultar los términos y condiciones generales con el comerciante, y que estos se enviarán lo antes posible sin gastos.
-3. Si el contrato a distancia se celebre por vía electrónica, sea posible – al contrario al párrafo anterior y antes de concluir el contrato a distancia – que estos términos y condiciones generales se ponen a disposición del consumidor por vía electrónica, de tal manera que el consumidor pueda salvarles de una manera sencilla en un soporte duradero. Si esto no es razonablemente posible, el comerciante indicará – antes de celebrar el contrato – en que modo se pueda consultar los términos y condiciones generales por vía electrónica y que estos se enviarán lo antes posible sin gastos por vía electrónica o en cualquier otra manera.
-4. En casos en que al lado de estos términos y condiciones generales se adjuntan condiciones especificas de productos o servicios, el segundo párrafo y el tercer párrafo se aplican con analogía y el consumidor siempre puede invocar la condicíon que es más favorable para él.
+1. Las presentes condiciones generales se aplicarán a todas las ofertas realizadas por un comerciante y a todos los contratos a distancia celebrados entre un comerciante y un consumidor.Al visitar nuestro sitio o al realizar una compra, usted contrata nuestro “servicio” y acepta quedar obligado por las siguientes condiciones, incluidas las condiciones y las políticas adicionales mencionadas en este documento o disponibles a través de un hipervínculo. Le rogamos que lea detenidamente estas Condiciones de Servicio antes de acceder a, o utilizar nuestro sitio web. Al acceder a, o utilizar cualquier parte del sitio, usted acepta quedar obligado por estas Condiciones de Servicio. Si usted no está conforme con todas las condiciones de este contrato, no podrá acceder al sitio web ni utilizar ninguno de los servicios.
+2. Si el contrato a distancia se celebra por vía electrónica, a diferencia de lo dispuesto en el apartado anterior, y antes de la celebración del contrato a distancia, se facilitará al consumidor el texto de las presentes condiciones generales por vía electrónica, de forma que pueda almacenarlas fácilmente en un soporte de datos duradero. Si esto no es razonablemente posible, antes de celebrar el contrato a distancia, el comerciante indicará dónde pueden consultarse las condiciones generales por vía electrónica y que, a petición del consumidor, se le enviarán gratuitamente, ya sea por vía electrónica o de otra forma..
+3. En los casos en que se apliquen condiciones específicas relacionadas con el producto o el servicio, además de estas condiciones generales, los párrafos segundo y tercero se aplican por analogía y el consumidor siempre puede invocar la condición aplicable que le sea más favorable en caso de incompatibilidad de las condiciones generales..
 
 ### **Artículo 4 – La oferta**
 
-1. Si una oferta está sujeto de una duración limitada, o está sujeto a ciertas condiciones, esta se indica explícitamente en la oferta.
-2. La oferta contiene una descripción completa y acurada de los productos, contenidos digitales y o servicios. La descripción es suficientemente detallada para permitir una evaluación adecuada de la oferta por parte del consumidor. Si el comerciante hace uso de imágenes, estas imágenes son imágenes verdaderas de los productos, servicios y/o contenidos digitales. El comerciante no está obligado por errores evidentes o errores en la oferta.
+1. Si una oferta está sujeta a un periodo de validez limitado o a condiciones, esto se mencionará explícitamente en la oferta.
+2. La oferta contiene una descripción completa y acurada de los productos, contenidos digitales y/o servicios. La descripción es suficientemente detallada para permitir una evaluación adecuada de la oferta por parte del consumidor. Si el comerciante hace uso de imágenes, estas imágenes son imágenes verdaderas de los productos, servicios y/o contenidos digitales. El comerciante no está obligado por errores evidentes o errores en la oferta.
 3. Cada oferta contiene información que deja claro al consumidor cuáles son los derechos y obligaciones relacionados con la aceptación de la oferta.
+4. Si existe un contrato, el comerciante no quedará obligado por errores manifiestos o errores genuinos y accidentales en el precio que un consumidor debería haber advertido.
+5. Nos reservamos el derecho de limitar o prohibir los pedidos que, a nuestro juicio, parezcan realizados por concesionarios, revendedores o distribuidores.
 
 ### **Artículo 5 – El contrato**
 
-1. El contrato se celebrará, con sujeción a lo estipulado en el párrafo 4, en el momento en el que el consumidor acepta la oferta y las condiciones estipuladas por lo tanto se han cumplido.
-2. Si el consumidor ha aceptado la oferta por vía electrónica, el comerciante confirmará inmediatamente el recibo de la aceptación de la oferta por vía electrónica. Hasta la recepción de esta aceptación no ha sido confirmado por el comerciante, el consumidor podrá rescindir el contrato.
-3. Si el contrato se celebra por vía electrónica, el comerciante tomará medidas técnicas y organizativas adecuadas para garantizar la transferencia electrónica de datos y él se asegurará un entorno web seguro.Si el consumidor puede pagar electrónicamente, el comerciante tomará precauciones de seguridad apropiadas.
-4. El comerciante puede obtener información – dentro de los marcos legales – sobre la capacidad del consumidor para cumplir con sus obligaciones de pago, así como sobre los hechos y factores que son importantes para la conclusión responsable del contrato a distancia. Si la investigación le da al comerciante motivos adecuados para negarse a celebrar el contrato, en tal caso el comerciante tiene el derecho, con el apoyo de razones, a rechazar un pedido o solicitud o aplicación o de obligar su cumplimiento a las condiciones especiales o solicitud.
-5. El comerciante enviará a un consumidor, a más tardar, cuando la entrega de un producto, servicio o contenido digital, la información siguiente, por escrito, o de una manera tal que el consumidor puede almarcenarla en un soporte duradero accesible:
-    1. La dirección de la oficina de la empresa del comerciante, donde el consumidor puede presentar quejas;
-    2. Las condiciones en que el consumidor puede hacer uso del derecho de desistimiento y el método para hacerlo, o una declaración clara en relación con la preclusión del derecho de desistimiento;
-    3. Información sobre garantías y servicio post-venta existente;
-    4. El precio, incluidos todos los impuestos sobre el producto, servicio o contenido digital; los gastos de envío en la medida en su caso, y la forma de pago, entrega o implementación del contrato a distancia;
-    5. Los requisitos para la rescisión del contrato, si la duración del contrato sea superior a un año o si es indefinida;
-    6. Si el consumidor tiene derecho de desistimiento, el modelo de formulario de derecho de desistimiento.
-6. En el caso de un contrato de duración prolongada, lo estipulado en el párrafo anterior se aplica sólo a la primera entrega.
+1. El cliente añade los productos seleccionados al carrito de la compra. El cliente puede cambiar los datos y los productos añadidos en cualquier momento durante el proceso de pedido, antes de realizar un pedido definitivo.
+2. El cliente realiza un pedido definitivo de los productos/servicios añadidos al carrito de la compra haciendo clic en el botón que existe para ese fin.
+3. El contrato se celebrará, sin perjuicio de lo dispuesto en el apartado 4, en el momento en que el consumidor acepte la oferta y se cumplan las condiciones estipuladas en ella..
+4. Si el consumidor ha aceptado la oferta por vía electrónica, el comerciante confirmará inmediatamente el recibo de la aceptación de la oferta por vía electrónica. Hasta que la recepción de esta aceptación no haya sido confirmada por el comerciante, el consumidor podrá rescindir el contrato.
+5. Si el contrato se celebra por vía electrónica, el comerciante tomará medidas técnicas y organizativas adecuadas para garantizar la transferencia electrónica de datos y se asegurará un entorno web seguro. Si el consumidor puede pagar electrónicamente, el comerciante tomará precauciones de seguridad apropiadas.
+6. El comerciante puede obtener información – dentro de los marcos legales – sobre la capacidad del consumidor para cumplir con sus obligaciones de pago, así como sobre los hechos y factores que son importantes para la conclusión responsable del contrato a distancia. Si la investigación le da al comerciante motivos adecuados para negarse a celebrar el contrato, en tal caso el comerciante tiene el derecho, con el apoyo de razones, a rechazar un pedido o solicitud o aplicación o de obligar su cumplimiento a las condiciones especiales o solicitud.
+7. El comerciante enviará al consumidor, a más tardar en el momento de la entrega de un producto, servicio o contenido digital, la siguiente información, por escrito, o de forma que el consumidor pueda almacenarla en un soporte duradero accesible::
+    * La dirección de la oficina de la empresa del comerciante, donde el consumidor puede presentar quejas;
+    * Las condiciones en que el consumidor puede hacer uso del derecho de desistimiento y el método para hacerlo, o una declaración clara en relación con la preclusión del derecho de desistimiento;
+    * Información sobre garantías y servicio post-venta existente;
+    * El precio, incluidos todos los impuestos sobre el producto, servicio o contenido digital; los gastos de envío, en la medida en que sean aplicables, y la forma de pago, entrega o implementación del contrato a distancia;
+    * Los requisitos para la rescisión del contrato, si la duración del contrato es superior a un año o si es indefinida;
+    * Si el consumidor tiene derecho de desistimiento, el modelo de formulario de derecho de desistimiento.
+8. En el caso de un contrato de suministro, lo estipulado en el párrafo anterior se aplica sólo a la primera entrega.
 
 ### **Artículo 6 – Derecho de desistimiento**
 
 _A la entrega de productos:_
 
-1. Cuando la compra de productos, el consumidor tiene derecho a disolver el contrato, sin dar razones, durante un período de almenos 14 días. Se permite el comerciante para pedir a un consumidor por la razón de esta disolución, pero el consumidor no tiene la obligación expresar sus motivos.
-2. El plazo previsto en el párrafo 1 comienza el día después de que el producto fue recibido por el consumidor o por un tercero designado por el consumidor, que no es el partido del transporte, o:
-    1. Si el consumidor ha pedido varios productos: el día en que el consumidor, o un tercero designado por el consumidor, recibe el último producto. El comerciante puede rechazar una sola orden para varios productos con diferentes fechas de entrega, siempre que haya informado claramente al consumidor de esta antes del proceso de pedido.
-    2. Si la entrega de un producto implica diferentes entregas o partes: el día en que el consumidor o un tercero designado por el consumidor, recibió la última entrega o la última parte.
-    3. Con contratos para la entrega regular de los productos durante un período determinado: el día en que el consumidor o un tercero designado por el consumidor, recibió el último producto.
+1. Al comprar productos, el consumidor tiene derecho a disolver el contrato, sin dar razones, durante un período de almenos 14 días. Se permite el comerciante pedir a el consumidor por la razón de esta disolución, pero el consumidor no tiene la obligación de expresar sus motivos.
+2. El plazo previsto en el párrafo 1 comienza el día después de que el producto fue recibido por el consumidor o por un tercero designado por el consumidor, que no sea el transportista, o:
+    * Si el consumidor ha pedido varios productos: el día en que el consumidor, o un tercero designado por el consumidor, recibe el último producto. El comerciante puede rechazar una sola orden para varios productos con diferentes fechas de entrega, siempre que haya informado claramente al consumidor de esta antes del proceso de pedido.
+    * Si la entrega de un producto implica diferentes entregas o partes: el día en que el consumidor o un tercero designado por el consumidor, recibió la última entrega o la última parte.
+    * En los contratos de suministros durante un período determinado: el día en que el consumidor o un tercero designado por el consumidor, recibió el último producto.
 
-_A la entrega de servicios y contenido digital que no se preste en un soporte material:_
+_A la entrega de servicios y contenido digital que no se suministren en un soporte material:_
 
-3. Un consumidor tiene derecho a disolver el contrato, sin dar razones, para el suministro de contenido digital que no se preste en un soporte material durante un período de almenos catorce días. Se permite el comerciante para pedir a un consumidor por la razón de esta disolución, pero el consumidor no tiene la obligación expresar sus motivos.
+3. Un consumidor tiene derecho a disolver el contrato, sin dar razones, para el suministro de contenido digital que no se preste en un soporte material durante un período de al menos catorce días. Se permite el comerciante para pedir a un consumidor por la razón de esta disolución, pero el consumidor no tiene la obligación expresar sus motivos.
 4. El plazo previsto en el párrafo 3 comienza el día después de la celebración del contrato.
 
-_Período extendido de desistimiento para productos, servicios y contenidos digitales que no se preste en un soporte material en el caso de que un consumidor no se le informó sobre el derecho de desitimitieno:_
+_Período extendido de desistimiento para productos, servicios y contenidos digitales que no se suministren en un soporte material en el caso de que un consumidor no se le informó sobre el derecho de desistimiento:_
 
 5. Si el comerciante no proporciona al consumidor la información legalmente obligatoria sobre el derecho de desistimiento o si no se proporciona el modelo de formulario, el período de desistimiento terminará doce meses después del final del período de desistimiento estipulado originalmente basado en los párrafos anteriores de este artículo.
 6. Si el comerciante proporciona al consumidor la información mencionada en el párrafo anterior dentro de los doce meses siguientes a la fecha en que comienza el período de desistimiento original, el período de desistimiento finalizará catorce días después del día en que el consumidor reciba la información.
@@ -110,34 +132,30 @@ _Período extendido de desistimiento para productos, servicios y contenidos digi
 ### **Artículo 7 – Obligaciones del cliente en caso de desistimiento**
 
 1. Durante el período de desistimiento, el consumidor deberá tratar el producto y su embalaje con cuidado. Sólo desempaquetará o utilizará el producto en la medida de lo necesario con el fin de evaluar la naturaleza, la características y la eficacia del producto. El punto de partida es que el consumidor sólo puede manejar e inspeccionar el producto de la misma manera que se le permitiría en una tienda.
-2. El consumidor sólo se hará responsable por la devaluación del producto cuando esto sea el resultado de su manejo del producto que no sea de lo permitido en el párrafo 1.
+2. El consumidor sólo es responsable de la devaluación del producto que sea consecuencia de una manipulación del mismo distinta a la permitida en el apartado. 1..
 3. El consumidor no se hará responsable por la devaluación del producto si el comerciante no le ofreció toda la información obligatoria por ley sobre el derecho de desistimiento antes de la celebración del contrato.
 
-### **Artículo 8 – Clientes que están practicando el derecho de desistimiento y los gastos que asociados con ellos**
+### **Artículo 8 – Los consumidores que ejercen su derecho de desistimiento y los costes que conlleva**
 
-1. Un consumidor que quiere ejercer su derecho de desistimiento deberá informar de ello al comerciante, dentro del plazo de desistimiento, por medio del modelo de formulario de derecho de desistimiento o de alguna otra forma inequívoca.
-2. Tan pronto como sea posible, pero no más tarde de 14 días después del día de la presentación de informes que se refiere el párrafo 1, el consumidor devolverá el producto, o le entregará a (un representante de) el comerciante. Esto no es necesario si el comerciante se ofrece a recoger el producto sí mismo. En cualquier caso el consumidor se ha cumplido el plazo para el retorno de los productos si se envía el producto de vuelta antes de que el plazo de desistimiento ha expirado.
-3. El consumidor devuelve el producto con todos los accesorios pertinentes, si es razonablemente posible en el estado y embalaje original, y de acuerdo con las instrucciones razonables y claros aportados por el comerciante.
-4. El riesgo y la carga de la prueba para el ejercicio del derecho de desistimiento correcto y en tiempo son parte de la responsabilidad del consumidor.
-5. El consumidor asume los gastos directos de la devolución del producto. Si el comerciante no ha declarado que el consumidor asumirá estos gastos o si el comerciante indica una voluntad de asumir estos gastos a sí mismo, entonces el consumidor no será responsable de sufragar los gastos de devolución de mercancías.
-6. Si el consumidor ejerce su derecho de desistimiento, después preguntar en una manera explícita que el servicio de prestado o la entrega de gas, agua o electricidad no preparado para la venta se aplicarán en un volumen delimitado o en una cantidad determinada durante el plazo de desistimiento, el consumidor deberá pagar al comerciante una suma de dinero que es equivalente a la parte del contrato que el comerciante ha cumplido en el momento de desistimiento, en comparación con el cumplimiento del contrato en su totalidad.
-7. El consumidor no asumirá los gastos de ejecución de los servicios o el suministro de agua, gas o electricidad no preparado para la venta – en un volumen o cantidad limitada – o para la entrega de la calefacción central de la ciudad, si:
-    * El comerciante no proporcionó el consumidor con la información obligatoria por ley sobre el derecho de desistimiento, los gastos de pagar en caso de desistimiento o el formulario de modelo para derecho de desistimiento, o:
-    * El consumidor no pidió explícitamente sobre el inicio de la implementación del servicio o la entrega de gas, agua, electricidad o calefacción central de la ciudad durante el plazo de desistimiento.
-8. El consumidor no soportará gastos para el suministro total o parcial de los contenidos digitales que no se presten en un soporte material, si:
+1. El consumidor que quiera ejercer su derecho de desistimiento deberá informar de ello al comerciante, dentro del plazo de desistimiento, por medio del modelo de formulario de derecho de desistimiento o de alguna otra forma inequívoca.
+2. Tan pronto como sea posible, pero no más tarde de 14 días después del día de la presentación de informes que se refiere el párrafo 1, el consumidor devolverá el producto, o le entregará a (un representante de) el comerciante. Esto no es necesario si el comerciante se ofrece a recoger el producto sí mismo. En cualquier caso el consumidor habrá cumplido con el plazo para el retorno de los productos si se envía el producto de vuelta antes de que el plazo de desistimiento haya expirado.
+3. El consumidor devolverá el producto con todos los accesorios pertinentes, si es razonablemente posible en el estado y embalaje original, y de acuerdo con las instrucciones razonables y claras aportadas por el comerciante.
+4. El riesgo y la carga de la prueba para ejercer el derecho de desistimiento de forma correcta y dentro de plazo recaen en el cliente. Si el consumidor envía un artículo, deberá considerar usar un servicio de envío con seguimiento o adquirir un seguro de envío. El comerciante no garantiza que recibirá el artículo que usted devuelve.
+5. El consumidor se hará cargo de los gastos directos de la devolución de un producto. Si el comerciante no ha declarado que el consumidor se hará cargo de dichos gastos o si el comerciante indica que está dispuesto a hacerse cargo de dichos gastos, el consumidor no será responsable de los gastos de devolución de las mercancías.
+6. El consumidor no soportará gastos para el suministro total o parcial de los contenidos digitales que no se presten en un soporte material, si:
     * Antes de la entrega, no estaba de acuerdo de manera explícita de iniciar el cumplimiento del contrato antes de que finalice el plazo de desistimiento.
     * Él no reconoció haber perdido su derecho de desistimiento sobre la concesión de su permiso, o:
     * El comerciante ha dejado para confirmar esta declaración hecha por el consumidor.
-9. Si un consumidor ejerza su derecho de desistimiento, todos los acuerdos estarán legalmente disueltos.
+7. Si un consumidor ejerza su derecho de desistimiento, todos los acuerdos estarán legalmente disueltos.
 
 ### **Artículo 9 – Obligaciones del comerciante en caso de desistimiento**
 
-1. Si el comerciante hace posible que un consumidor puede declarar su desistimientio a través de medios electrónicos, a continuación, después de recibir tal declaración, envía una confirmación inmediata de la recepción.
-2. El comerciante reembolsa el consumidor con todos los pagos, incluyendo cualquier gasto de entrega que el comerciante ha cobrado por el producto devuelto, sin embargo, a más tardar dentro de los 14 días después del día en que el consumidor informó el desistimiento. Excepto en los casos en que el comerciante se ofrece a recoger el producto sí mismo, se puede posponer el reembolso hasta haber recibido el producto o hasta que demuestra que el consumidor se ha vuelto el producto, en función de lo que ocurre antes.
-3. Para cualquier devolución, el comerciante utilizará el mismo método de pago que se utilizó inicialmente por el consumidor, a menos que el consumidor está de acuerdo con otro método. El reembolso es gratis para el consumidor.
-4. Si el consumidor un método costoso de la entrega con preferencia a la entrega estándar más barata, el comerciante no tiene que reembolsar los gastos adicionales del método más caro.
+1. Si el comerciante hace posible que un consumidor puede declarar su desistimiento a través de medios electrónicos, a continuación, después de recibir tal declaración, envía una confirmación inmediata de la recepción.
+2. El comerciante reembolsa el consumidor con todos los pagos, incluyendo cualquier gasto de entrega que el comerciante haya cobrado por el producto devuelto, sin embargo, a más tardar dentro de los 14 días después del día en que el consumidor informó el desistimiento. Excepto en los casos en que el comerciante se ofrezca a recoger el producto por sí mismo, se puede posponer el reembolso hasta haber recibido el producto o hasta que demuestra que el consumidor ha vuelto el producto, en función de lo que ocurre antes.
+3. Para cualquier devolución, el comerciante utilizará el mismo método de pago que se utilizó inicialmente por el consumidor, a menos que el consumidor esté de acuerdo con otro método. El reembolso es gratis para el consumidor.
+4. Si el consumidor eligió un método de entrega caro en lugar de la entrega estándar más barata, el comerciante no tiene que reembolsar los costes adicionales del método más caro.
 
-### **Artículo 10 – Exclusión del derecho de desistimien to**
+### **Artículo 10 – Exclusión del derecho de desistimiento**
 
 El comerciante puede impedir el derecho de desistimiento para los siguientes productos y servicios, pero sólo si el comerciante lo declaró claramente al hacer la oferta, o al menos con la suficiente antelación antes de la celebración del contrato:
 
@@ -146,7 +164,7 @@ El comerciante puede impedir el derecho de desistimiento para los siguientes pro
 3. Los contratos de servicios, después de la finalización total del servicio, pero sólo si:
     * Realización comenzó con el acuerdo expreso previo del consumidor, y;
     * El consumidor declaró haber perdido su derecho o desistimiento tan pronto como el comerciante había terminado el contrato en su totalidad.
-4. Los viajes combinados, las vacaciones combinadas y los circuitos combinados que se refiere el artículo 7:500 BW y contratos en el transporte de pasajeros.
+4. Los viajes combinados, las vacaciones combinadas y los circuitos combinados que se refiere el EU directive 2015/2302 contratos en el transporte de pasajeros.
 5. Los contratos de servicios que ofrecen acceso al alojamiento, si el contrato ya se estipula una fecha determinada o el período de ejecución y que no sea con la finalidad de alojamiento, el transporte de mercancías, servicios de alquiler de coches y catering.
 6. Los contratos con respecto a actividades de ocio, si el contrato ya se estipula una fecha o plazo de ejecución determinado.
 7. Productos fabricados de acuerdo a las especificaciones del consumidor, que no fueron prefabricados y se realizaron con base en la elección o decisión específica del consumidor, o que están claramente destinados a una persona específica.
@@ -163,116 +181,112 @@ El comerciante puede impedir el derecho de desistimiento para los siguientes pro
 ### **Artículo 11 – El precio**
 
 1. Durante el período de validez indicado en la oferta, los precios de los productos y/o servicios que se ofrecen no se incrementarán, a excepción de los cambios de precios en los aranceles de IVA.
-2. En contraste con el párrafo anterior, el comerciante podrá ofrecer productos o servicios a precios variables, en los casos en que estos precios están sujetos a las fluctuaciones del mercado financiero sobre el que el comerciante no tiene ninguna influencia. La oferta debe referirse a este vínculo con las fluctuaciones y el hecho de que los precios mencionados son precios recomendados.
+2. En contraste con el párrafo anterior, el comerciante podrá ofrecer productos o servicios a precios variables, en los casos en que estos precios estén sujetos a las fluctuaciones del mercado financiero sobre el que el comerciante no tiene ninguna influencia. La oferta debe referirse a este vínculo con las fluctuaciones y el hecho de que los precios mencionados son precios recomendados.
 3. Los aumentos de precios dentro de los 3 meses después de la celebración del contrato solamente se permiten si son el resultado de regulaciones o estipulaciones legales.
 4. Los aumentos de precios de más de 3 meses después de la celebración del contrato sólo se permitirán si el comerciante les ha estipulado en esta forma, y:
-    * Estes son el resultado de las regulaciones o estipulaciones legales, o:
+    * Estos son el resultado de las regulaciones o estipulaciones legales, o:
     * El consumidor está autorizado a rescindir el contrato en el día en el que el acrecentamiento de precios entran en vigor.
 5. Los precios indicados en las ofertas de productos o servicios incluyen el IVA.
+6. Se podrán cobrar también gastos de envío, dependiendo del valor del envío o de la opción de entrega o de la dirección que usted elija. Dichos cargos adicionales se mostrarán claramente durante el proceso de compra y se incluirán en el “precio total”.
+7. Dependiendo del país del consumidor, es posible que este deba pagar tasas, impuestos o derechos de importación además de los gastos de envío, que solo cubren los gastos de tránsito del producto.
 
 ### **Artículo 12 – Cumplimiento del contrato y la garantía adicional**
 
-1. El comerciante garantiza que los productos y/o servicios cumplen con el contrato, las especificaciones indicadas en la oferta, los requisitos razonables de fiabilidad y/o de utilidad de servicio y las estipulaciones legales y/o regulaciones gubernamentales que existían en la fecha en que se celebró en contrato. Si de acuerdo, el comerciante también garantiza que el producto es adecuado para otra designación que normal.
-2. Una disposición de garantía adicional ofrecida por el comerciante, fabricante o importador nunca puede afectar a los derechos legales y las afirmaciones que un consumidor puedo invocar contra al comerciante sobre la base del contrato si el comerciante no ha cumplido su parte en el contrato.
+1. El comerciante garantiza que los productos y/o servicios cumplen con el contrato, las especificaciones indicadas en la oferta, los requisitos razonables de fiabilidad y/o de utilidad de servicio y las estipulaciones legales y/o regulaciones gubernamentales que existían en la fecha en que se celebró en contrato. Si ha sido acordado, el comerciante también garantiza que el producto es adecuado para otra designación que normal.
+2. Una disposición de garantía adicional ofrecida por el comerciante, fabricante o importador nunca puede afectar a los derechos legales y las afirmaciones que un consumidor puede invocar contra al comerciante sobre la base del contrato si el comerciante no ha cumplido su parte en el contrato.
 3. Una garantía adicional se define como todos los compromisos de un comerciante, su proveedor, importador o fabricante que otorga a los derechos o reclamaciones del consumidor, por encima de los previstos por la ley, para el caso de que él no cumple con su parte en el contrato.
+4. Independientemente de la garantía comercial, el comerciante sigue estando obligado por la garantía legal de conformidad de los bienes, contenidos digitales y servicios digitales en aplicación de los artículos 120 y siguientes del Código de los Consumidores.
+5. En el caso de contrato de compraventa de bienes o de suministro de contenidos o servicios digitales suministrados en un acto único o en una serie de actos individuales, el empresario será responsable de las faltas de conformidad que existan en el momento de la entrega o del suministro y se manifiesten en un plazo de tres años desde la entrega en el caso de bienes o de dos años en el caso de contenidos o servicios digitales, sin perjuicio de lo dispuesto en el artículo 115 ter, apartado 2, letras a) y b) de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias.
+6. En los bienes de segunda mano, el empresario y el consumidor o usuario podrán pactar un plazo menor al indicado en el párrafo anterior, que no podrá ser inferior a un año desde la entrega.
 
 ### **Artículo 13 – Entrega e implementación**
 
 1. El comerciante tendrá la mayor atención posible al recibir y poner en práctica los pedidos de productos y al evaluar las solicitudes para la prestación de servicios.
 2. El lugar de entrega es la dirección que el consumidor hizo saber al comerciante.
-3. Teniendo en cuenta lo que se indica en el artículo 4 de estos términos y condiciones generales, la compañía implementará órdenes aceptadas con la expedición eficiente, aunque a más tardar dentro de los 30 días, a menos que un período diferente de la entrega ha sido acordado. Si la entrega sufre un retraso, o si la entrega no puede llevarse a cabo, o sólo parcialmente, el consumidor será informado de esto en los últimos 30 días después de que el pedido fue realizado. En este caso, el consumidor tiene derecho a disolver el contrato sin coste y el derecho de los posibles daños y perjuicios.
-4. Después de la disolución, de acuerdo con el párrafo anterior, el comerciante restituirá al consumidor la suma que ha pagado él.
-5. El riesgo de daño y/o perdido de productos es la responsabilidad del comerciante hasta el momento de la entrega al consumidor o un representante designado por el consumidor y anunciado al comerciante anteriormente, a menos que esto se haya acordado explícitamente lo contrario.
+3. Si no es posible realizar una entrega al consumidor porque las mercancías entregadas no caben por la puerta principal, la primera puerta o las escaleras del consumidor, o porque el consumidor no se encuentra en el lugar de entrega que ha especificado, a pesar de haber informado al consumidor del horario de entrega con una antelación razonable, el consumidor se hará cargo de los gastos de la entrega fallida.
+4. La entrega se efectuará de acuerdo con las condiciones estipuladas en la política de entrega, que forma parte de estas condiciones.
+5. Teniendo en cuenta lo que se indica en el artículo 4 de estos términos y condiciones generales, la compañía implementará órdenes aceptadas con la expedición eficiente, aunque a más tardar dentro de los 30 días, a menos que un período diferente de la entrega haya sido acordado. Si la entrega sufre un retraso, o si la entrega no puede llevarse a cabo, o sólo parcialmente, el consumidor será informado de esto en los últimos 30 días después de que el pedido fuese realizado. En este caso, el consumidor tiene derecho a disolver el contrato sin coste y el derecho de los posibles daños y perjuicios.
+6. Después de la disolución, de acuerdo con el párrafo anterior, el comerciante restituirá al consumidor la suma que ha pagado él.
+7. El riesgo de daño y/o perdida de productos es la responsabilidad del comerciante hasta el momento de la entrega al consumidor o un representante designado por el consumidor y anunciado al comerciante anteriormente, a menos que esto se haya acordado explícitamente lo contrario.
 
-### **Artículo 14 – Transacciones de duración, rescindir y extender**
+### **Artículo 14 – Transacciones de duración, terminación y prolongación**
 
-_Rescindir:_
+_Terminación:_
 
-1. El consumidor tiene derecho en todo momento de rescindir un contrato de composición abierta que se celebra por el suministro regular de productos (incluyendo electricidad) o servicios, con sujeción a las reglas acordadas de terminación y un plazo de preaviso que no exceda de un mes.
+1. El consumidor tiene derecho en todo momento a rescindir un contrato de composición abierta que se celebra por el suministro regular de productos (incluyendo electricidad) o servicios, con sujeción a las reglas acordadas de terminación y un plazo de preaviso que no exceda de un mes.
 2. El consumidor tiene derecho en todo momento de rescindir un contrato de duración terminada que se celebra por el suministro regular de productos (incluyendo electricidad) o servicios al final del plazo fijado, a sujeción a las reglas acordadas de terminación y un plazo de preaviso que no exceda de un mes.
 3. Con respecto a los contratos descritos en los dos primeros párrafos, el consumidor puede:
     * terminarlos en todo momento y él no se limitará a la terminación en un momento determinado o durante un período determinado;
     * terminarlos en la misma forma en la que se hayan concluído;
     * siempre terminarlos sujeto al mismo período de notificación como lo estipulado para el comerciante.
 
-_Extender:_
+_Prolongación:_
 
 4. Un contrato de duración determinada que se celebre por el suministro regular de productos (incluyendo la electricidad) o servicios no puede prolongarse o renovarse automáticamente por un período fijo de tiempo.
-5. En la salida de la que se afirma en el párrafo anterior, un contrato de duración determinada que se celebró para el suministro regular de periódicos diarios o semanales o revistas puede prolongarse de forma automática por un período determinado que no exceda de tres meses, si el consumidor tiene la libertad rescindir el presente contrato prolongado hacia el final de la prórroga, con un plazo de preaviso que no exceda de un mes.
+5. A diferencia de lo indicado en el apartado anterior, un contrato de duración determinada celebrado para el suministro regular de periódicos o revistas diarias o semanales podrá prorrogarse automáticamente por un plazo fijo que no exceda de tres meses, si el consumidor tiene la posibilidad de rescindir este contrato prorrogado hacia el final de la prórroga, con un plazo de preaviso que no exceda de un mes.
 6. Un contrato de duración determinada que se celebró para el suministro regular de productos o servicios solo puede prolongarse automáticamente por un período indefinido de tiempo si el consumidor tiene el derecho de rescindir en todo momento, con un plazo de preaviso que no exceda de un mes. En caso de un contrato para el suministro regular pero menos de una vez por mes de periódicos diarios o semanales o revistas, hay un plazo de preaviso que no exceda de tres meses.
 7. Un contrato a plazo fijo para el suministro regular, a modo de introducción, de periódicos diarios o semanales o revistas (suscripciones de prueba o suscripciones introductorias) no se prolonga de forma automática y se terminará automáticamente al final del período de prueba o período introductorio.
 
 _Duración:_
 
-8. Si el plazo fijo de un contrato exceda de un año, entonces después de un año el consumidor tiene el derecho de rescindir en todo momento, con un plazo preaviso que no exceda de un mes, a menos que razonabilidad y equidad dicten que la terminación anticipada del contrato sería inaceptable.
+8. Si el plazo fijo de un contrato exceda un año, entonces después de un año el consumidor tiene el derecho de rescindir en todo momento, con un plazo preaviso que no exceda de un mes, a menos que la razonabilidad y equidad dicten que la terminación anticipada del contrato sería inaceptable.
 
 ### **Artículo 15 – El pago**
 
-1. Por lo que ninguna otra fecha esté estipulado en el contrato o en las condiciones suplementarias, las sumas debidas por el consumidor deben ser pagado dentro de los 14 días después del comienzo del período de desistimiento, o en la ausencia de un período de desistimiento dentro de 14 días después de la celebración del contrato. En el caso de un contrato de prestación de un servicio, este período de 14 días comienza el día después de que el consumidor recibió la confirmación del contrato.
-2. El consumidor está obligado a informar al comerciante inmediatamente cualquier inexactitud en los datos de pago previstos o establecidos.
-3. Si un consumidor no cumple con su obligación de pago(s) a su debido tiempo, después de que el comerciante ha informado al consumidor sobre la demora en el pago, el consumidor se permite 14 días para cumplir con la obligación de pagar. Si el pago no se realiza dentro de este período de 14 días, los intereses legales se pagarán sobre la suma adeudada y el comerciante tiene el derecho de cobrar gastos extrajudiciales razonables de colección que él ha incurrido.
+1. Los métodos de pago disponibles se muestran en el sitio web del comerciante o en la descripción del artículo correspondiente o, como máximo, en el momento de terminar el proceso de pedido (finalización del pedido/checkout). A menos que se indique algo distinto, las solicitudes de pago derivadas del contrato deben pagarse inmediatamente.
+2. Siempre que no se estipule otra fecha en el contrato o en las condiciones complementarias, las sumas adeudadas por el consumidor deberán abonarse en un plazo de 14 días a partir del inicio del periodo de desistimiento o, a falta de un periodo de desistimiento, en un plazo de 14 días a partir de la celebración del contrato. En el caso de un contrato de prestación de servicios, este plazo de 14 días comienza el día siguiente a la recepción por parte del consumidor de la confirmación del contrato..
+3. El consumidor está obligado a informar al comerciante inmediatamente cualquier inexactitud en los datos de pago previstos o establecidos.
+4. Si un consumidor no cumple su(s) obligación(es) de pago a tiempo, después de que el comerciante haya informado al consumidor sobre el retraso en el pago, el consumidor dispone de 14 días para cumplir la obligación de pago; si el pago no se realiza en este periodo de 14 días, se pagarán intereses legales sobre la suma adeudada y el comerciante tiene derecho a cobrar los costes extrajudiciales de cobro razonables en los que haya incurrido. Estos costes de cobro ascienden, como máximo, a: el 15% de las cantidades impagadas hasta 2.500 euros; el 10% a partir de los siguientes 2.500 euros; y el 5% a partir de los siguientes 5.000 euros, con un mínimo de 40 euros. El comerciante puede apartarse de estas cantidades y porcentajes que sean favorables al consumidor
 
 ### **Artículo 16 – Procedimiento de denuncias**
 
-1. El comerciante tiene a su disposición un procedimiento de denuncias, que se ha dado suficiente publicidad, y él se ocupará de una queja de acuerdo con este procedimiento de denuncia.
+1. El comerciante dispone de un procedimiento de reclamación en su sitio web, al que ha dado suficiente publicidad, y tramitará las reclamaciones de acuerdo con dicho procedimiento..
 2. Un consumidor que ha descubierto deficiencias en la ejecución de un contrato debe presentar cualquier queja al comerciante sin demora, en su totalidad y con descripciones claras.
-3. Una respuesta a las quejas presentadas al comerciante se proporcionará en un plazo de 14 días, contados desde la fecha de recepción. Si se prevé que una queja requerirá un tiempo de procesamiento más largo, entonces el comerciante le responderá dentro de 14 días, confirmiendo la recepción e indicando cuando el consumidor puede esperar una respuesta más elaborada.
-4. Una queja acerca de un producto, un servicio o el servicio del comerciante también se puede presentar a través de un formulario de quejas en la página del comerciante de la página web de Thuiswinkel.org, www.thuiswinkel.org. La queja se envía tanto al comerciante en cuestión y a Thuiswinkel.org.
-5. El consumidor debe dar al operador un período de tiempo de al menos 4 semanas para resolver la queja en consulta conjunta. Después de este período, la queja se convierte en una disputa que está sujeta al régimen de solución de controversias.
+3. Una respuesta a las quejas presentadas al comerciante se proporcionará en un plazo de 14 días, contados desde la fecha de recepción. Si se prevé que una queja requerirá un tiempo de procesamiento más largo, entonces el comerciante le responderá dentro de 14 días, confirmando la recepción e indicando cuando el consumidor puede esperar una respuesta más elaborada.
+4. El consumidor debe dar al operador un período de tiempo de al menos 4 semanas para resolver la queja en consulta conjunta. Después de este período, la queja se convierte en una disputa que está sujeta al régimen de solución de controversias.
 
 ### **Artículo 17 – Conflictos**
 
-1. Los contratos celebrados entre un comerciante y un consumidor y que están sujetos a estes términos y condiciones generales están sujetos únicamente a la ley neerlandesa. Si el empresario centra sus actividades comerciales en el país donde vive el consumidor, el consumidor siempre puede invocar la ley de consumo obligatoria de su país.
-2. Los conflictos entre un consumidor y un comerciante sobre la celebración o el ejercicio de los contratos relativos a los productos y servicios que se proporcionarán por este comerciante se pueden presentar a la Comisión de Conflictos de Thuiswinkel, P.O. Box 90600, 2509 LP en La Haya (www.sgc.nl), ya sea por el consumidor o el comerciante, de acuerdo con lo estipulado a continuación.
-3. Un consumidor de la Plataforma europea ODR ([http://ec.europa.eu/consumers/odr/](http://ec.europa.eu/consumers/odr/) ) "
-4. La Comisión de Conflictos sólo se ocupará de un conflicto si el consumidor primero puso su queja, sin demora, al comerciante.
-5. Si la queja no conduce a una solución, el conflicto debe ser presentado a la Comisión de Conflictos a más tardar 12 meses después de que el consumidor haya presentado la denuncia al comerciante.
-6. Si el consumidor quiere presentar un conflicto a la Comisión de Conflictos, el comerciante está obligado por esa elección. Preferiblemente, el consumidor notifica al comerciante primero. Si un comerciante desea presentar un conflicto a la Comisión de Conflictos, entonces el consumidor indicará, en respuesta a una solicitud por escrito hecha por el comerciante, sea por contrato, o prefiera el conflicto a ser tratado por la ley ante un tribunal de justicia competente. Si el consumidor no indica su elección al comerciante en un plazo de cinco semanas, entonces el comerciante tiene derecho a poner el conflicto ante el tribunal de justicia competente.
-7. Las resoluciones de la Comisión de Conflictos están sujetos a las condiciones estipuladas en el reglamento de la Comisión de Conflictos. Las decisiones de la Comisión de Conflictos toman la forma de consejos vinculantes.
-8. La Comisión de Conflictos no se ocupará de un conflicto – o va a terminar su intervención – si el comerciante se ha concendido una suspensión de pagos, ha quebrado, o ha terminado realmente actividades comerciales antes de que la comisión se ocupó del conflito durante una sesión y dictó una sentencia definitiva.
-9. Si, al lado de la Comisión de Conflictos de Thuiswinkel, hay otra comisión competente de conflictos que se reconoce o una que está afiliado a los conflictos de la Comisión de Conflictos de la Fundación de Asuntos de Consumidores (SGC) o el Instituto de Quejas de Servicios Financieros (Kifid), la Comisión de Conflictos de Thuiswinkel preferiblemente tendrá jurisdicción para los conflictos que se relacionan principalmente con el método de ventas o de prestación de servicios de larga distancia.
-10. Para todos los otros conflictos habrá otras comisiones de conflictos que son reconocidos por el SGC o afiliados con la Kifid.
+1. Los contratos celebrados entre un comerciante y un consumidor y que estén sometidos a estas condiciones generales, estarán sometidos al derecho neerlandés. Dado que el empresario centra sus actividades comerciales en España (donde reside el consumidor), el consumidor podrá recurrir siempre a la ley de consumo aplicable de forma imperativa en España.
+2. Los litigios entre un consumidor y un comerciante sobre la celebración o la ejecución de contratos relativos a productos y servicios que debe facilitar dicho comerciante pueden plantearse al Comité de Litigios, a través de la plataforma europea de resolución de conflictos en línea ([http://ec.europa.eu/consumers/odr/](http://ec.europa.eu/consumers/odr/)).
+3. El Comité de Litigios para las compras a domicilio es un proveedor de resolución alternativa de litigios al que está adherido el comerciante. El Comité de Litigios para las compras a domicilio ha sido autorizado por el Ministerio de Seguridad y Justicia de los Países Bajos y proporciona servicios seguros de resolución de controversias y realiza una evaluación independiente de su reclamación, conforme a las Normas de 2015 sobre resolución alternativa de litigios en materia de consumo (autoridades competentes e información).
+4. Se puede presentar una reclamación (en inglés) ante al Comité de Litigios para las compras a domicilio de las formas siguientes: En línea: [www.sgc.nl/en](http://www.sgc.nl/en)   
+    Por escrito: por correo: Thuiswinkel Disputes Committee, P.O. Box 90600, 2509 LP Den Haag, Países Bajos
+5. La Comisión de Conflictos sólo se ocupará de un conflicto si el consumidor primero puso su queja, sin demora, al comerciante.
+6. Si la queja no conduce a una solución, el conflicto debe ser presentado a la Comisión de Conflictos a más tardar 12 meses después de que el consumidor haya presentado la denuncia al comerciante.
+7. Si el consumidor quiere presentar un conflicto a la Comisión de Conflictos, el comerciante está obligado por esa elección. Preferiblemente, el consumidor notifica al comerciante primero.
+8. Si un comerciante desea presentar un conflicto a la Comisión de Conflictos, entonces el consumidor indicará, en respuesta a una solicitud por escrito hecha por el comerciante, sea por contrato, o prefiera el conflicto a ser tratado por la ley ante un tribunal de justicia competente. Si el consumidor no indica su elección al comerciante en un plazo de cinco semanas, entonces el comerciante tiene derecho a poner el conflicto ante el tribunal de justicia competente.
+9. Las resoluciones de la Comisión de Conflictos están sujetas a las condiciones estipuladas en el reglamento de la Comisión de Conflictos. Las decisiones de la Comisión de Conflictos toman la forma de consejos vinculantes.
+10. La Comisión de Conflictos no se ocupará de un conflicto – o va a terminar su intervención – si el comerciante se ha concedido una suspensión de pagos, ha quebrado, o ha terminado realmente actividades comerciales antes de que la comisión se ocupó del conflicto durante una sesión y dictó una sentencia definitiva.
 
-### **Artículo 18 – Garantía de la rama**
+### **Artículo 18 – Garantía de la rama de Shopping secure (Thuiswinkel.org)**
 
-1. Thuiswinkel.org garantiza el cumplimiento de las obligaciones de sus miembros en relación con los asesoramientos vinculantes impuestos de la Comisión de Conflictos de Thuiswinkel, a menos que el miembro decide poner el asesoramiento vinculante ante un tribunal de justicia para la verificación dentro de los dos meses después de la fecha de ese consejo. En caso de verificación del tribunal de justicia, la suspensión de la garantía terminará y la garantía entrará en vigencia una vez más a la decisión judicial, sea definitiva y concluyente, por lo que el tribunal ha declarado que el asesoramiento vinculante tiene efecto vinculante. Hasta una suma máxima de € 10.000 por asesoramiento vinculante, Thuiswinkel.org pagará esa suma al consumidor. En caso de importes superiores a € 10.000 por asesoramiento vinculante, se pagará una suma de € 10.000. En cuanto a la suma es superior a € 10.000, Thuiswinkel.org tiene la obligación de realizar esfuerzos razonables suficientes para perseguir al miembro a cumplir el asesoramiento vinculante.
-2. La aplicación de esta garantía requiere que el consumidor presentará una apelación por escrito a Thuiswinkel.org, y transferirá su reclamación en el emperario de Thuiswinkel.org. En cuanto a la reclamación en el comerciante excece la suma de € 10.000, el consumidor se ofrecerá la posibilidad de transferir su reclamación en el comerciante por encina de la suma de € 10.000 a Thuiswinkel.org, después de que esta organización perseguirá el pago de la reclamación ante un tribunal en su propio título y costos.
+1. Thuiswinkel.org garantiza el cumplimiento de las obligaciones de sus socios en relación con los asesoramientos vinculantes impuestos de la Comisión de Conflictos de Thuiswinkel, a menos que el socio decide poner el asesoramiento vinculante ante un tribunal de justicia para la verificación dentro de los dos meses después de la fecha de ese consejo. En caso de verificación del tribunal de justicia, la suspensión de la garantía terminará y la garantía entrará en vigencia una vez más a la decisión judicial, sea definitiva y concluyente, por lo que el tribunal ha declarado que el asesoramiento vinculante tiene efecto vinculante. Hasta una suma máxima de € 10.000 por asesoramiento vinculante, Thuiswinkel.org pagará esa suma al consumidor. En caso de importes superiores a € 10.000 por asesoramiento vinculante, se pagará una suma de € 10.000. Cuando la suma sea superior a € 10.000, Thuiswinkel.org tiene la obligación de realizar esfuerzos razonables suficientes para perseguir al miembro a cumplir el asesoramiento vinculante.
+2. La aplicación de esta garantía requiere que el consumidor presente una apelación por escrito a Thuiswinkel.org y que transfiera su reclamación al comerciante a Thuiswinkel.org. En la medida en que la reclamación al comerciante supere la suma de 10.000 euros, se ofrecerá al consumidor la posibilidad de transferir su reclamación al comerciante por encima de la suma de 10.000 euros a Thuiswinkel.org, donde después esta organización perseguirá el pago de la reclamación en los tribunales por su propia cuenta y con los costes.
 
 ### **Artículo 19 – Términos adicionales o diferentes**
 
-Estipulaciones adicionales o estipulaciones que difieren de estos términos y condicionales generales, no pueden ser perjudiciales para el consumidor y deben ser registrados por escrito, o de tal manera que los consumidores pueden almacenarles en una forma fácilmente accesible en un soporte duradero.
+Las estipulaciones adicionales o estipulaciones que difieren de estos términos y condicionales generales, no pueden ser perjudiciales para el consumidor y deben ser registradoa por escrito, o de tal manera que los consumidores pueden almacenarles en una forma fácilmente accesible en un soporte duradero.
 
-### **Artículo 20 – Modificación de las condiciones generales de thuiswinkel.org**
+### **Artículo 20 – Modificación de las condiciones generales**
 
-1. Thuiswinkel.org sólo modificará estos términos y condiciones generales después de consultar con la Asociación de Consumidores.
-2. Las enmiendas a estos términos y condiciones sólo entrarán en vigor después de que hayan sido publicados en la forma adecuada, en el entendimiento de que dónde las enmiendas se aplican durante la validez de una oferta, la estipulación que es más favorable para el consumidor prevalecerá.
-
-Thuiswinkel.org  
-P.O. Box 7001, 6710 CB EDE, Los Países Bajos
-
-Los derechos sólo se pueden derivar de la base de la versión neerlandesa de estos términos y condiciones generales.
+Las modificaciones de estas condiciones sólo entrarán en vigor después de haber sido publicadas de forma adecuada, entendiéndose que cuando las modificaciones se apliquen durante la vigencia de una oferta, prevalecerá la estipulación más favorable para el consumidor.
 
 **ANEXO I**
 
 **Modelo de formulario de desistimiento**
 
-—  A la atención de \[aquí el comerciante deberá insertar el nombre del comerciante, su dirección geográfica y, si dispone de ellos, su número de fax y su dirección de correo electrónico\]:
+* A la atención de \[aquí el comerciante deberá insertar el nombre del comerciante, su dirección geográfica y, si dispone de ellos, su número de fax y su dirección de correo electrónico\]:
+* Por la presente le comunico/comunicamos que desisto de mi/desistimos de nuestro contrato de venta del siguiente bien/prestación del siguiente servicio
+* Pedido el/recibido el
+* Nombre del consumidor o de los consumidores
+* Dirección del consumidor o de los consumidores
+* Firma del consumidor o de los consumidores (solo si el presente formulario se presenta en papel)
+* Fecha
 
-—  Por la presente le comunico/comunicamos (1) que desisto de mi/desistimos de nuestro (1) contrato de venta del siguiente bien/prestación del siguiente servicio (1)
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-—  Pedido el/recibido el (1)
-
-—  Nombre del consumidor o de los consumidores
-
-—  Dirección del consumidor o de los consumidores
-
-—  Firma del consumidor o de los consumidores (solo si el presente formulario se presenta en papel)
-
-—  Fecha
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-(1)  Táchese lo que no proceda.
+Táchese lo que no proceda.
 
 **Términos y condiciones para clientes comerciales**
 ----------------------------------------------------
@@ -618,7 +632,7 @@ Artículo 12 - Varios
 
 _Adjunto(s) archivo(s)_
 
-[Términos y Condiciones](https://www.vidaxl.es/on/demandware.static/-/Library-Sites-vidaXLSharedLibrary/default/dw1bbd0bec/Documents/terms_conditions/ES.pdf)
+[Términos y Condiciones](https://www.vidaxl.es/on/demandware.static/-/Library-Sites-vidaXLSharedLibrary/default/dw0636040d/Documents/terms_conditions/ES.pdf)
 
 [Términos y Condiciones Generales de Subastas](https://www.vidaxl.es/on/demandware.static/-/Library-Sites-vidaXLSharedLibrary/default/dw762e0ba9/Documents/terms_conditions_auctions/ES.pdf)
 
