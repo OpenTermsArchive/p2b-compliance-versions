@@ -726,7 +726,7 @@ Avand in vedere ca in momentul realizarii Importului Automat pot aparea intrerup
 9\. Pretul maxim al unui produs pentru care se poate activa serviciul „GdL cu livrare prin curieri speciali” este de 5000 Ron. In cazul in care pentru un produs s-a activat serviciul, vanzatorul nu va mai putea modifica pretul.  
 10\. Livrarea produsului se face prin serviciul de curierat agreat, care va genera documentul de transport pentru livrare la sfarsitul tranzactiei prin intermediul Site-ului, altfel coletul poate fi considerat neacoperit de „GdL cu livrare prin curieri speciali”. Documentele de transport trebuie pastrate pana la finalizarea tranzactiei.  
 Utilizatorii se obligă să respecte termenele și condițiile serviciului de curierat ales pentru expedierea produsului prin intermediul Serviciului Garanţia de Livrare, aşa cum sunt comunicate prin intremediul site-ului furnizorului de servicii de curierat. Vă rugăm să citiți cu atenție aceste documente:  
-[Termeni şi condiţii Urgent Cargus](https://www.urgentcargus.ro/DOC/termeni-si-conditii-de-transport.pdf "Termeni şi condiţii Urgent Cargus")  
+[Termeni şi condiţii Cargus](https://www.cargus.ro/documente-oficiale-persoane-fizice/ "Termeni şi condiţii Urgent Cargus")  
 [Termeni şi condiţii DPD](https://www.dpd.com/ro/home/expediere/informa_ii_expediere/termeni_si_conditii_de_transport "Termeni şi condiţii DPD")  
 [Termeni şi condiţii Poșta Română](https://www.posta-romana.ro/a119/termeni-de-utilizare/termeni-si-conditii.html "Termeni şi condiţii Poșta Română")  
 [Coniții generale prinvind furnizarea serviciilor Fan Courier](https://www.fancourier.ro/conditii-generale-privind-furnizarea-serviciilor-postale/ "Coniții generale prinvind furnizarea serviciilor Fan Courier")
