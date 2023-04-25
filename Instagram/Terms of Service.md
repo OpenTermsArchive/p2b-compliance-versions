@@ -1,6 +1,6 @@
 Terms of Use
 
-We’re updating our Terms of Service. The updates go into effect on 5 July 2023. Read new terms [here](https://help.instagram.com/929024151466738?ref=tou).
+We’re updating our Terms of Use. The updates go into effect on 5 July 2023. Read new terms [here](https://help.instagram.com/929024151466738?ref=tou).
 
 _Facebook Ireland Limited has changed its name to Meta Platforms Ireland Limited. We’ve updated our Terms of Use, Data Policy, and Cookies Policy to reflect the new name on January 4, 2022. While our company name has changed, we are continuing to offer the same products, including Instagram from Meta. Our Data Policy and Terms of Use remain in effect, and this name change does not affect how we use or share data. [_Learn more about Meta_](https://about.facebook.com/meta) and our vision for the metaverse._
 
@@ -24,11 +24,11 @@ We agree to provide you with the Instagram Service. The Service includes all of 
 
 * **Offering personalised opportunities to create, connect, communicate, discover and share.** People are different. So we offer you different [types of accounts](https://help.instagram.com/138925576505882?ref=tou) and features to help you create, share, grow your presence, and communicate with people on and off Instagram. We also want to strengthen your relationships through shared experiences that you actually care about. So we build systems that try to understand who and what you and others care about, and use that information to help you create, find, join and share in experiences that matter to you. Part of that is highlighting content, features, offers and accounts that you might be interested in, and offering ways for you to experience Instagram, based on things that you and others do on and off Instagram.
 * **Fostering a positive, inclusive, and safe environment.**  
-    We develop and use tools and offer resources to our community members that help to make their experiences positive and inclusive, including when we think they might need help. We also have teams and systems that work to combat abuse and violations of our Terms and policies, as well as harmful and deceptive behavior. We use all the information we have-including your information-to try to keep our platform secure. We also may share information about misuse or harmful content with other Meta Companies or law enforcement. Learn more in the [Data Policy](https://help.instagram.com/519522125107875?ref=igtos).
+    We develop and use tools and offer resources to our community members that help to make their experiences positive and inclusive, including when we think they might need help. We also have teams and systems that work to combat abuse and violations of our Terms and policies, as well as harmful and deceptive behavior. We use all the information we have-including your information-to try to keep our platform secure. We also may share information about misuse or harmful content with other Meta Companies or law enforcement. Learn more in the [Privacy Policy](https://help.instagram.com/519522125107875?ref=igtos).
 * **Developing and using technologies that help us consistently serve our growing community.**  
     Organizing and analyzing information for our growing community is central to our Service. A big part of our Service is creating and using cutting-edge technologies that help us personalize, protect, and improve our Service on an incredibly large scale for a broad global community. Technologies like artificial intelligence and machine learning give us the power to apply complex processes across our Service. Automated technologies also help us ensure the functionality and integrity of our Service.
 * **Providing consistent and seamless experiences across other Meta Company Products.**  
-    Instagram is part of the Meta Companies, which share technology, systems, insights, and information-including the information we have about you (learn more in the [Data Policy](https://help.instagram.com/519522125107875?ref=igtos)) in order to provide services that are better, safer, and more secure. We also provide ways to interact across the Meta Company Products that you use, and designed systems to achieve a seamless and consistent experience across the Meta Company Products.
+    Instagram is part of the Meta Companies, which share technology, systems, insights, and information-including the information we have about you (learn more in the [Privacy Policy](https://help.instagram.com/519522125107875?ref=igtos)) in order to provide services that are better, safer, and more secure. We also provide ways to interact across the Meta Company Products that you use, and designed systems to achieve a seamless and consistent experience across the Meta Company Products.
 * **Ensuring access to our Service.**  
     To operate our global Service, we must store and transfer data across our systems around the world, including outside of your country of residence. The use of this global infrastructure is necessary and essential to provide our Service. This infrastructure may be owned or operated by Meta Platforms, Inc., Meta Platforms Ireland Limited, or their affiliates.
 * **Connecting you with brands, products, and services in ways you care about.**  
@@ -50,9 +50,9 @@ You may see branded content on Instagram posted by account holders who promote p
 
   
 
-**The Data Policy**
+**The Privacy Policy**
 
-Providing our Service requires collecting and using your information. The [Data Policy](https://help.instagram.com/519522125107875) explains how we collect, use, and share information across the [Meta Products](https://www.facebook.com/help/1561485474074139?ref=tos). It also explains the many ways you can control your information, including in the [Instagram Privacy and Security Settings](https://help.instagram.com/285881641526716?ref=igtos).
+Providing our Service requires collecting and using your information. The [Privacy Policy](https://help.instagram.com/519522125107875) explains how we collect, use, and share information across the [Meta Products](https://www.facebook.com/help/1561485474074139?ref=tos). It also explains the many ways you can control your information, including in the [Instagram Privacy and Security Settings](https://help.instagram.com/285881641526716?ref=igtos).
 
   
 
