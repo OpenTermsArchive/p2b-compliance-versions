@@ -1,4 +1,6 @@
-[All Collections](https://intercom.help/eatwith/en/)[TERMS & CONDITIONS](https://intercom.help/eatwith/en/collections/3727668-terms-conditions)
+[All Collections](https://intercom.help/eatwith/en/)
+
+[TERMS & CONDITIONS](https://intercom.help/eatwith/en/collections/3727668-terms-conditions)
 
 Hosts Charter
 
