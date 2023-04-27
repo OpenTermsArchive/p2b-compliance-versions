@@ -197,6 +197,8 @@ _In June 2017, we announced that Yahoo and AOL joined to become a unified digita
                 
             6. Flurry is provided by Flurry LLC
                 
+            7. As of February 1, 2023, Yahoo Finance is provided by Yahoo Finance LLC except in Canada where it is provided by Yahoo Finance Canada ULC. The following additional Terms apply to use of the Yahoo Finance Services: (i) You may not access or collect data, or attempt to access or collect data, from our Services using any automated means, devices, programs, algorithms or methodologies, including but not limited to robots, spiders, scrapers, data mining tools, or data gathering or extraction tools, for any purpose without our express, prior permission; and (ii) You may not use any material or content from Yahoo Finance, including without limitation any data, (a) to create any database, archive, mobile application, data feed, widget or any other aggregated data source that competes with or constitutes a material substitute for the Services, in whole or in part, offered on Yahoo Finance or the services offered by Yahoo Finance’s data providers, or (b) to provide any service that competes with or constitutes a material substitute for the Services or data offered on Yahoo Finance or by Yahoo Finance’s data providers.
+                
 14. **Contracting Party, Choice of Law, and Location for Resolving Disputes and Other Local Region Provisions**
     
     1. In Section 13 above, find the provider of the Services you are using. That is the provider that you are contracting with for the Services. The choice of law, the location for resolving disputes, certain defined terms (including the Applicable Yahoo Entity), and other important region specific provisions are in this Section 14. If you have any questions, please contact customer care using the contact information in the region that applies to you below.
@@ -270,4 +272,4 @@ _In June 2017, we announced that Yahoo and AOL joined to become a unified digita
         14. Additional terms for German users can be found [here](https://legal.yahoo.com/ie/de/yahoo/terms/additionalterms/index.html).
             
 
-_Last updated: 1 February 2023_
+_Last updated: 27 April, 2023_
