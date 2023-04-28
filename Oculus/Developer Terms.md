@@ -1,7 +1,7 @@
 Platform to Business Notice for EU and UK Business Users
 ========================================================
 
-Updated: September 29, 2022
+Updated: April 28, 2023
 
 This Platform to Business Notice (“**Notice**”) has been created to comply with the Platform to Business Regulation 2019/1150 (“**Regulation**”). It applies to You only if you are a business established in the European Union or in the United Kingdom and develop content or other applications for distribution through the Meta Quest digital store to consumers located in the European Union or in the United Kingdom (“**Relevant Business User**”).
 
@@ -14,7 +14,7 @@ Any capitalized term not defined in this Notice shall have the meaning given to 
 Changes to Terms
 ----------------
 
-* If makes any amendment, supplement or modification to its Terms, Meta Platforms Technologies will provide You with at least fifteen (15) days notice (“**Notice Period**”) before such changes will come into effect by sending a notification to You via email to the address associated with Your Meta Platforms Technologies account or other means acceptable under the Regulation.
+* If it makes any amendment, supplement or modification to its Terms, Meta Platforms Technologies will provide You with at least fifteen (15) days notice (“**Notice Period**”) before such changes will come into effect by sending a notification to You via email to the address associated with Your Meta Platforms Technologies account or other means acceptable under the Regulation.
 * If You do not agree to the change(s) notified to You, You are entitled to terminate Your contractual relationship with Meta Platforms Technologies within fifteen (15) days of receiving the notice of the change(s) by contacting Meta Platforms Technologies Developer Support [https://developer.oculus.com/contact/](https://developer.oculus.com/contact/).
 * The Notice Period will not apply to any amendments, supplements or modifications proposed by Meta Platforms Technologies that are agreed in writing by You.
 * In certain situations, Meta Platforms Technologies may not be able to provide You with the Notice Period for amendments, supplements or modifications. These situations include where:
@@ -46,7 +46,7 @@ Differentiated treatment
 ------------------------
 
 * Some apps may be pre-loaded onto hardware, and some Relevant Business Users may have additional access to prototype or pre-release tools or services, or be permitted to early access hardware or software features.
-* When there are hardware pre-load or other early access opportunities for third party apps, Meta Platforms Technologies will reach out to the applicable Relevant Business Users directly.
+* When there are hardware pre-loads or other early access opportunities for third party apps, Meta Platforms Technologies will reach out to the applicable Relevant Business Users directly.
 * Provided end user safety and the security of end user data is not compromised, most features will be rolled out to all Relevant Business Users via SDKs, hardware updates or releases, or other means.
 
 Data
@@ -54,7 +54,7 @@ Data
 
 ### User data
 
-* Meta Platforms Technologies’s collection and use of user data is described in the Meta Platforms Technologies Privacy Policy [https://www.oculus.com/legal/privacy-policy/](https://www.oculus.com/legal/privacy-policy/).
+* Meta Platforms Technologies’ collection and use of user data is described in the Meta Platforms Technologies Privacy Policy [https://www.oculus.com/legal/privacy-policy/](https://www.oculus.com/legal/privacy-policy/).
 
 ### Data Meta Platforms Technologies collects from You
 
@@ -83,7 +83,7 @@ Data
 Complaint handling system
 -------------------------
 
-* If you have a complaint about Meta Platforms Technologies compliance with the Regulation or your account, you may submit a request for further information here: [https://www.facebook.com/help/oculus/contact/3000932963366913/](https://www.oculus.com/lynx/?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2Foculus%2Fcontact%2F3000932963366913%2F)
+* If you have a complaint about Meta Platforms Technologies’ compliance with the Regulation or your account, you may submit a request for further information here: [https://www.facebook.com/help/oculus/contact/3000932963366913/](https://www.oculus.com/lynx/?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2Foculus%2Fcontact%2F3000932963366913%2F)
 * For technical support, please contact developer support for assistance [https://developer.oculus.com/contact](https://developer.oculus.com/contact/).
 * Meta Platforms Technologies will provide you with a response to your request within a reasonable time.
 * Aggregated information about the type of requests submitted to the complaint handling system and how they have been resolved will be made available on an annual basis.
@@ -96,4 +96,5 @@ From July 2021 through June 2022, we received zero inquiries via the complaint h
 Mediation
 ---------
 
-* If Meta Platforms Technologies is not able to resolve Your complaint through the complaint handling system, You may refer the issue to our appointed mediators. Please check back here to obtain updated information about our mediators.
+* If Meta Platforms Technologies is not able to resolve Your complaint through the complaint handling system, then your issue may be referred by either party to the Centre for Effective Dispute Resolution (“CEDR”) for mediation. The parties agree to mediate any issue referred to the CEDR in good faith and will do so in accordance with the CEDR’s mediation procedures.
+* To initiate mediation, a party must give notice in writing to the other party referring the issue to mediation. A copy of the referral should be sent to CEDR. After an issue has been referred to CEDR, the parties will agree on a mediator within 14 days. If they do not agree on a mediator in that timeframe, the mediator will be nominated by CEDR. If you have a question about the mediation process, or if you wish to refer an issue to mediation, you can contact us at [developer support](https://developer.oculus.com/contact/).
