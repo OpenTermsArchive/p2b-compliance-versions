@@ -1,4 +1,4 @@
-**v2211\_E\_i**
+**v2305\_E\_i**
 
 ### General Delivery Terms
 
@@ -88,7 +88,7 @@ C: FOR US DOMESTIC TRANSACTIONS EXCEPT TRANSACTIONS TO WHICH 3B APPLIES
 
 ### General Delivery Terms
 
-These general delivery terms including the Annexes (the "**Terms**"), supplemented by standards setting out Booking.com's ethical norms and values, form an integral part of the Accommodation Agreement (together with the Terms, "**Agreement**") and are entered into between the Accommodation and Booking.com (each a "**Party**" and collectively the "**Parties**").
+These general delivery terms including the Annexes (the "**Terms**"), supplemented by standards setting out Booking.com's policies, ethical norms and values (the "**Policies**"), form an integral part of the Accommodation Agreement (together with the Terms, "**Agreement**") and are entered into between the Accommodation and Booking.com (each a "**Party**" and collectively the "**Parties**").
 
 #### 1\. DEFINITIONS
 
@@ -128,9 +128,9 @@ These general delivery terms including the Annexes (the "**Terms**"), supplement
 
 "**Messaging Service**" means the service that Booking.com may from time to time provide as part of its service to the Guest and to the Accommodation to facilitate communication between the Guest, the Accommodation and Booking.com.
 
-"**Narrow Parity Countries**" means Australia, Brazil, China, all countries within the European Economic Area (except for No Parity Countries), Georgia, Hong Kong, Israel, Japan, South Korea, Switzerland, Turkey, the United Kingdom, New Zealand and/or such other jurisdictions as from time to time indicated by Booking.com.
+"**Narrow Parity Countries**" means Armenia, Australia, Brazil, China, all countries within the European Economic Area (except for No Parity Countries), Georgia, Hong Kong, Israel, Japan, South Korea, Turkey, the United Kingdom, New Zealand and/or such other jurisdictions as from time to time indicated by Booking.com.
 
-"**No Parity Countries**" means Austria, Belgium, France, Germany, Italy, Russia, and/or such other jurisdictions as from time to time indicated by Booking.com.
+"**No Parity Countries**" means Austria, Belgium, France, Germany, Italy, Russia, Switzerland and/or such other jurisdictions as from time to time indicated by Booking.com.
 
 "**Personal Data**" means any information relating to an identified or identifiable natural person (meaning someone who can be identified, directly or indirectly, by reference to an identifier such as a name, credit card details, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person).
 
@@ -386,7 +386,7 @@ The Accommodation may access the data listed at 3.4(i) through the Extranet.
 
 4.2 Guest Reviews
 
-4.2.1 Guests who have stayed at the Accommodation will be asked by Booking.com to comment on and provide a score for certain aspects of their stay. Booking.com may post these reviews on the Platform. Booking.com is a distributor and not a publisher of these reviews. Booking.com shall have no obligation to verify the accuracy or completeness of the reviews, and shall have no liability or responsibility for the content and consequences of the publication or distribution of the reviews.
+4.2.1 Guests who have arrived or stayed at the Accommodation will be asked by Booking.com to comment on and provide a score for certain aspects of their experience with the Accommodation. Booking.com may post these reviews on the Platform. Booking.com is a distributor and not a publisher of these reviews. Booking.com shall have no obligation to verify the accuracy or completeness of the reviews, and shall have no liability or responsibility for the content and consequences of the publication or distribution of the reviews.
 
 4.2.2 Booking.com may at its sole discretion refuse, edit or remove reviews where they include or refer to anything that Booking.com reasonably determines to be inappropriate and/or offensive, including but not limited to:
 
@@ -576,7 +576,7 @@ This Clause 6.3.2 does not limit the liability of the Parties in relation to tor
 
 (xv) breach, including any act or event of default or failure to perform any obligation, of any other agreement between the Accommodation and Booking.com or any Booking.com Affiliated Company;
 
-(xvi) conduct by the Accommodation which is not compatible with Booking.com’s global business model, technology or policies;
+(xvi) conduct by the Accommodation which is not compatible with Booking.com’s global business model, technology or the Policies;
 
 (xvii) Booking.com reasonably believes that action is necessary to protect the personal safety or property of Booking.com, Guests or third parties and to prevent inappropriate, unlawful or unprofessional physical and/or non-physical behaviour and/or acting in bad faith, fraud or any other unacceptable activity;
 
@@ -626,7 +626,7 @@ This Clause 6.3.2 does not limit the liability of the Parties in relation to tor
 
 (iv) is required to be disclosed by law, court order, subpoena or governmental authority.
 
-9.4 Notwithstanding Clauses 9.1 to 9.3, Booking.com may disclose any information regarding the Accommodation and/or the Agreement with Booking.com Affiliated Companies. This shall include, but not be limited to the Confidential Information and information about the Accommodation’s performance under the Agreement and its compliance with Booking.com’s policies. Booking.com will ensure that any Booking.com Affiliated Companies that receive the Confidential Information will be bound by the same obligation of confidentiality by which it is bound.
+9.4 Notwithstanding Clauses 9.1 to 9.3, Booking.com may disclose any information regarding the Accommodation and/or the Agreement with Booking.com Affiliated Companies. This shall include, but not be limited to the Confidential Information and information about the Accommodation’s performance under the Agreement and its compliance with the Policies. Booking.com will ensure that any Booking.com Affiliated Companies that receive the Confidential Information will be bound by the same obligation of confidentiality by which it is bound.
 
 #### 10\. DISPUTE RESOLUTION
 
@@ -662,7 +662,7 @@ Accommodations may find more detailed information, including how to submit compl
 
 #### 11\. COMPLIANCE
 
-11.1 The Accommodation shall comply with the standards and principles set out in this Agreement and in Booking.com’s policies, and will participate in relevant training at Booking.com's reasonable request.
+11.1 The Accommodation shall comply with the standards and principles set out in this Agreement and in the Policies, and will participate in relevant training at Booking.com's reasonable request.
 
 11.2 In relation to these Terms and/or the Agreement neither Party (including their employees, directors, officers, agents and any other representatives) will, directly or indirectly:
 
@@ -736,7 +736,7 @@ https://admin.booking.com/hotelreg/terms-and-conditions.html?cc1=nl&lang=en.
 
 1.2 Booking.com Services
 
-1.2.1 The Accommodation is aware that the Service is operated by Booking.com B.V. located in Amsterdam, The Netherlands. Where an affiliate of Booking.com (rather than Booking.com B.V. itself) is a Party to the Agreement, any reference in the Guidelines to Booking.com shall also refer to the affiliate of Booking.com B.V. as applicable.
+1.2.1 The Accommodation is aware that the Service is operated by Booking.com B.V. located in Amsterdam, the Netherlands. Where an affiliate of Booking.com (rather than Booking.com B.V. itself) is a Party to the Agreement, any reference in the Guidelines to Booking.com shall also refer to the affiliate of Booking.com B.V. as applicable.
 
 1.2.2 If the Personal Data related to Guest reservations, including but not limited to reservation details, requests and updates, as well as check-in data ("**Guest Personal Data**") is not exclusively and directly processed by the Accommodation (as may be the case where, for example, the Accommodation is or represents a chain, property management company etc.), this Annex shall apply to the Accommodation that is ultimately processing the Guest Personal Data. Booking.com may consider the Accommodation (whether or not the entity contracting with it) to be the (sole) Data Controller of any Guest Personal Data processed in the context of the Agreement.
 
