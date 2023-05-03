@@ -218,7 +218,8 @@ The Price Guide is a tool for Reverb users that bases its information on recent 
 
 You shall comply with all applicable domestic and international laws, statutes, ordinances and regulations regarding your use of the Site and any Reverb service and, if applicable, your listing, purchase, solicitation of offers to purchase, and sale of items. In addition, you shall be responsible for paying any and all taxes applicable to any purchases or sales of items you make on the Site (excluding any taxes on Reverb's net income). This includes sales and/or use taxes applicable in each jurisdiction, depending on the threshold required for collection. This responsibility may include applicable customs and fees for import and export sales; Reverb assumes no responsibility for any losses, fees, or confiscations related to importing and exporting products purchased through Reverb.  
   
-For seller income tax purposes, as of January 1, 2022, if you receive $600 or more in gross sales through the site, exclusive of Reverb's fees, you will receive a Form 1099-K from Reverb and may be obligated to pay federal or state tax on your taxable income. Reverb is not responsible, in any manner, for paying taxes on your earnings or your use of the Site. Reverb cannot provide tax advice. Please contact your tax professional to determine whether or not you have a tax liability.
+Depending on your business status and location, Reverb may be required to apply VAT on seller fees and remit it to the relevant tax authority (some countries may refer to VAT as Goods and Services Tax (“GST”) or Harmonized Sales Tax (“HST”); VAT, GST, HST, and any local sales tax are collectively referred to as VAT). VAT is collected on all Reverb fees for sellers located in countries where VAT should be applied.  
+Internal Revenue Service regulations require that we file a Form 1099-K to report unadjusted annual gross sales information for sellers located in the United States or being paid in USD in certain circumstances.To comply with these regulations, sellers will be required to provide taxpayer-identification information to Reverb. Reverb is not responsible, in any manner, for paying taxes on your earnings or your use of the Site. Reverb cannot provide tax advice. Please contact your tax professional to determine whether or not you have a tax liability.
 
 23\. Proposition 65 - California
 --------------------------------
@@ -294,6 +295,6 @@ The services hereunder are offered by Reverb.com, LLC, located at 3345 N Lincoln
   
   
 
-Effective Date: July 1st, 2022
+Effective Date: June 5, 2023
 
-Updated: May 25th, 2022
+Updated: May 3, 2023
