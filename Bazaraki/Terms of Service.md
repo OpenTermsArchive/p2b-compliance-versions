@@ -502,9 +502,9 @@ Moreover, Bazaraki users cannot cancel the services already paid to Bazaraki.
 15\. Privacy Policy
 -------------------
 
-Last updated 21/11/2022
+Last updated 04/05/2023
 
-This Privacy Policy describes how BZRK LIMITED, a company registered in Cyprus under registration number HE 185425 (“We”) collects, uses, processes, and discloses information, including personal information (the “Personal Data”) which identify and relate to you (“You”), in conjunction with your access to and use of the website (hereinafter the “Website” or “Bazaraki”)..
+This Privacy Policy describes how BZRK LIMITED, a company registered in Cyprus under registration number HE 185425 (“We”) collects, uses, processes, and discloses information, including personal information (the “Personal Data”) which identify and relate to you (“You”), in conjunction with your access to and use of the website www.bazaraki.com (hereinafter the “Website” or “Bazaraki”)..
 
 You must carefully read this Privacy Policy, in order to determine whether you wish to provide your Personal Data, or those of third parties, to Bazaraki.
 
@@ -539,7 +539,7 @@ Our Data Protection Officer is M. Paraschou & Co LLC (the “DPO”). If you hav
 7. The browser used and, if applicable, the operating system of your Device and the name of your access provider.
 8. Device and connection information such as statistics on your page views, traffic to and from the sites, ad data, your browsing history, and your web log information.
 
-The Personal Data mentioned above are collected automatically through the use of Cookies, web beacons, and similar technologies. You have the option to restrict the information collected on the Website. For more information about Cookies, see our Cookies Policy \[Terms and conditions (bazaraki.com)\].
+The Personal Data mentioned above are collected automatically through the use of Cookies, web beacons, and similar technologies. You have the option to restrict the information collected on the Website. For more information about Cookies, see our Cookies Policy below.
 
 15.3.2. We may collect Personal Data from Third Parties, including technical data from analytics providers such as Google LLC.
 
@@ -549,9 +549,8 @@ The Personal Data mentioned above are collected automatically through the use of
 2. Buying or selling information you provide during a transaction, or other transaction-based content that you generate or is connected to your account as a result of a transaction you are involved in.
 3. Financial and billing information (such as credit card or bank account numbers) in connection with a transaction with us, which is held by our trusted payment processing service providers.
 4. Your information when you submit a Feedback and/or a Support Form and/or information through your participation in community discussions, chats or when you otherwise correspond with us.
-5. Your information when you submit a Feedback and/or a Support Form and/or information through your participation in community discussions, chats or when you otherwise correspond with us.
 
-15.3.4. We may also use call-tracking technologies that will allow us and the Website Users to identify precisely the number of calls received through advertisements on the Website. By using such technologies, we might record the first six digits of your telephone number during your call with a Website User, as well as the duration, date and time of your call. This information is processed without any attempt to identify any individual. The conversation is anonymised to conceal your identity and is used merely for the assessment of the Website’s performance. Your conversation with the Website User will not be recorded nor stored on any of the servers used by Bazaraki. Website Users are only provided with anonymous \[statistical\] data, such as the total number of calls accepted via the ads on the Website.
+15.3.4. We may also use call-tracking technologies that will allow us and the Website Users to identify precisely the number of calls received through advertisements on the Website. By using such technologies, we might record the first six digits of your telephone number during your call with a Website User, as well as the duration, date and time of your call. This information is processed without any attempt to identify any individual.
 
 15.3.5. When using the Website, you may have the option to link one of your social media accounts instead of creating a new account. Such social media sites may automatically grant us access to some of the Personal Data retained by them about you for identification purposes. You may customise what Personal Data is shared with us through the privacy settings on the relevant social media website. By associating a social media account with the Website and authorizing us to have access to this information, you agree that we may collect, use and retain the information provided by these social media sites in accordance with this Privacy Policy.
 
@@ -608,9 +607,10 @@ We do not collect any Special Category Personal Data about you (such as details 
 **15.7.1 We may disclose your Personal Data to third parties if:**
 
 1. Disclosure to companies in the Bazaraki Group of Companies, Bazaraki-controlled affiliates and subsidiaries or to third parties, where such disclosure is necessary is for the performance of the intended purposes (such as the provision of our Services). Such receiving parties are bound by appropriate confidentiality agreements. We may disclose your personal data to service providers, including financial institutions or other service providers, to facilitate the provision of their services as well as to law enforcement bodies, credit agencies or bureaus as authorized by applicable national laws.
-2. Disclosure is necessary to assert, exercise or defend legal claims and there is no reason to assume that you have a predominantly legitimate interest in not disclosing your data.
-3. You have expressly consented to this.
-4. We are legally required to disclose such data.
+2. You complete and submit a form on the Website requesting assistance to find a real estate property. In such cases, Bazaraki may share the contact details provided by you for this purpose with independent, third-party real estate agents who may contact you to assist you in finding a property (as per your request). By completing and submitting such a request, you consent and agree to any personal data provided by you to be shared with the said real estate agents and for them to contact you directly to assist you in relation to your request.
+3. Disclosure is necessary to assert, exercise or defend legal claims and there is no reason to assume that you have a predominantly legitimate interest in not disclosing your data.
+4. You have expressly consented to this.
+5. We are legally required to disclose such data.
 
 15.7.2. When disclosure of your Personal Data is permitted or necessary, we try to restrict the Personal Data disclosed to what is directly relevant and necessary for the accomplishment the specified purpose. Apart from the above, we do not transfer your personal information to any other third party without your prior approval.
 
@@ -637,7 +637,7 @@ We do not collect any Special Category Personal Data about you (such as details 
 15.10 International Transfer of Personal Data
 ---------------------------------------------
 
-15.10.1. Your Personal Data may be transferred out of the European Economic Area for storage purposes, \[among other\] and be processed by third party companies.
+15.10.1. Your Personal Data may be transferred out of the European Economic Area for storage purposes and be processed by third party companies.
 
 15.10.2. In such case, third party companies will be under a contractual duty to protect your Personal Data by employing appropriate safeguards. To this effect, we employ standard contractual clauses approved by the European Commission, in line with GDPR requirements.
 
@@ -668,7 +668,7 @@ We will process your Personal Data at all times in a confidential way and mainta
 
 15.12.5. We do not warrant, undertake and/or represent error-free performance under this Privacy Policy. We will use all reasonable efforts to comply with this Privacy Policy and shall take immediate rectification actions in the event of a breach of this Privacy Policy. We shall not be liable for any incidental, consequential or punitive damages relating to a breach of this Privacy Policy. If you wish to exercise any of the rights set out above, contact our DPO via email.
 
-15.13 LINKS TO OTHER WEBSITES
+15.13 Links to other websites
 -----------------------------
 
 The Website may include links to third-party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy policies and/or procedures. When you leave our Website, we encourage you to read the privacy notice of every website you visit.
@@ -678,9 +678,9 @@ The Website may include links to third-party websites, plug-ins and applications
 
 15.14.1. We may amend the information contained in this Privacy Policy when we consider this appropriate or as required due to changes in applicable legislation. Should we do so, we will notify you through the Website, but are not obliged to send you an email to inform you of the changes effected. You may assess such changes and, as the case may be, object or unsubscribe from any service or functionality.
 
-15.14.2.We recommend that you review this Privacy Policy at frequent intervals to be kept up to date with any amendments introduced. We will update the “Last Updated” date at the beginning of this Privacy Policy. Any changes make to this Privacy Policy are effective as of this Last Updated date and replace any prior Privacy Policy versions.
+15.14.2. We recommend that you review this Privacy Policy at frequent intervals to be kept up to date with any amendments introduced. We will update the “Last Updated” date at the beginning of this Privacy Policy. Any changes make to this Privacy Policy are effective as of this Last Updated date and replace any prior Privacy Policy versions.
 
-15.14.3.In case you need any clarifications about the processing of your Personal Data, contact our DPO at dataprotection@bazaraki.com.
+15.14.3. In case you need any clarifications about the processing of your Personal Data, contact our DPO at dataprotection@bazaraki.com.
 
 16\. Cookies Policy
 -------------------
