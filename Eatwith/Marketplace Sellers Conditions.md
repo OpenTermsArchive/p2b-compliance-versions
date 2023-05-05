@@ -6,7 +6,9 @@ Hosts Charter
 
 Hosts Charter
 
-Written by Camille Rumani. Updated over a week ago
+Written by Camille Rumani
+
+Updated over a week ago
 
 Version 2.0 in effect from January 22nd 2018
 
