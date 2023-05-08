@@ -1,19 +1,23 @@
 User Agreement
 ==============
 
-För den svenska versionen av detta avtal, klicka här: [Användaravtal](https://info.tradera.com/anvandaravtal/)
+**User Agreement**
+
+För den svenska versionen av detta avtal, klicka här: [**Användaravtal**](https://info.tradera.com/anvandaravtal/)
 
 **Introduction**
 
-**This agreement, Tradera’s User Agreement, Tradera’s Privacy Policy and all other policies posted on our site set out the terms on which Tradera offers you access to and use of Tradera’s sites, services, applications and tools (collectively ”Services”). You can find our policies** [**here**](http://info.tradera.com/faq/regler-pa-tradera/)**. All policies, including Tradera’s Privacy Policy, are incorporated in this User Agreement. You agree to comply with all terms of this User Agreement when accessing or using our Services. The entity you are contracting with is Tradera Marketplace AB (reg. no. 556569-4642), Sankt Eriksgatan 117, 113 43 Stockholm (”Tradera”, ”we” or ”us”).**
+**This agreement, Tradera’s User Agreement, Tradera’s Privacy Policy and all other policies posted on our site set out the terms on which Tradera offers you access to and use of Tradera’s sites, marketplace services, applications and tools (collectively ”Services”). You can find our policies** [**here**](http://info.tradera.com/faq/regler-pa-tradera/)**. All policies, including Tradera’s Privacy Policy, are incorporated in this User Agreement. You agree to comply with all terms of this User Agreement when accessing or using our Services. The entity you are contracting with is Tradera Marketplace AB (reg. no. 556569-4642), Sankt Eriksgatan 117, 113 43 Stockholm (”Tradera”, ”we” or ”us”).**
 
-This User Agreement is effective from 16 November 2022 for existing users and upon acceptance for new users. [**The previous version**](https://info.tradera.com/en/anvandaravtal-eng-2020-2022/) of this User Agreement was effective for all users on 18 July 2020.
+Before you pay for a purchased item or receive a payout for a sold item, you must also accept Tradera’s terms and conditions for payments. Depending on whether you are residing in Sweden or abroad, different terms and conditions for payments will be applicable. For natural persons residing in Sweden, (i) Terms and Conditions - payments (customers residing in Sweden) apply, and for customers residing abroad and legal persons, (ii) Terms and Conditions - payments (companies and customers residing abroad) apply. Tradera’s own payment service is only regulated in the Terms and Conditions - payments (customers residing in Sweden). 
+
+This User Agreement is effective from 8 May 2023. [**The previous version**](https://info.tradera.com/en/anvandaravtal-eng-2022-2023/) of this User Agreement apply for the period between 16 November 2022 and 7 May 2023.
 
 **Scope**
 
 Tradera is a marketplace that allows users to offer, sell and buy just about anything in a variety of pricing formats and locations. Tradera is not a traditional auctioneer.
 
-Tradera does not own any of the items offered or sold through Tradera and is not a party to the transactions between the buyer and the seller. The actual contract for sale is directly between the seller and the buyer.
+Tradera does not own any of the items offered or sold through Tradera. The actual contract for sale is directly between the seller and the buyer.
 
 We can provide guidance regarding prices, pricing, listing and other such questions as part of our Services. Such guidance is provided solely for informational purposes and you may decide not to follow it. Tradera does not review users’ listings or content. While we may help facilitate the resolution of disputes between users, Tradera has no control over and does not guarantee the existence, quality, safety or legality of items advertised; the truth or accuracy of user’s content, listings or feedback; the ability of sellers to sell items; or that a buyer or seller will actually complete a transaction or return an item.
 
@@ -68,7 +72,7 @@ When a buyer or seller issue arises, we may consider previous events and the par
 
 _If you are a seller_
 
-In addition to our entitlement to terminate or limit the Services as set out above under "General", and without any obligation to make any refunds, we are entitled to terminate the Services (either in whole or in part) and withhold you from selling further goods on Tradera if you (i) can be deemed to be insolvent for any reason; (ii) are in breach of the terms of this User Agreement, including Tradera's Payment Solution Terms, or if Tradera has reason to believe that you will breach such terms; (iii) provide Tradera with inaccurate or misleading information or conceal relevant facts; or (iv) offer goods or services that are contrary to Tradera's country-specific ethical guidelines in force from time to time, or otherwise act in a manner which, either directly or indirectly, can reasonably be deemed to be contrary to rules adopted by credit/debit card companies or their industry organization or any other payment service terms that are relevant to Tradera (Tradera's ethical guidelines can be provided upon request). Tradera may obtain access information from you as a seller in order to determine whether you are in breach of this User Agreement, including Tradera's Payment Solution Terms.
+In addition to our entitlement to terminate or limit the Services as set out above under "General", and without any obligation to make any refunds, we are entitled to terminate the Services (either in whole or in part) and withhold you from selling further goods on Tradera if you (i) can be deemed to be insolvent for any reason; (ii) are in breach of the terms of this User Agreement, including Tradera's Terms and Conditions - payments (customers residing in Sweden) or Terms and Conditions - payments (companies and customers residing abroad), depending on which terms and conditions for payments that apply, or if Tradera has reason to believe that you will breach such terms; (iii) provide Tradera with inaccurate or misleading information or conceal relevant facts; or (iv) offer goods or services that are contrary to Tradera's country-specific ethical guidelines in force from time to time, or otherwise act in a manner which, either directly or indirectly, can reasonably be deemed to be contrary to rules adopted by credit/debit card companies or their industry organization or any other applicable payment service terms that are relevant to Tradera (Tradera's ethical guidelines can be provided upon request). Tradera may obtain access information from you as a seller in order to determine whether you are in breach of this User Agreement, including Tradera's Terms and Conditions - payments (customers residing in Sweden) or Terms and Conditions - payments (companies and customers residing abroad), depending on which terms and conditions for payments that apply.
 
 _Suspending or restricting a business user's use of the Services_
 
@@ -82,7 +86,7 @@ A decision on terminating a business user's use of the Services, in whole or in 
 
 In case the notice period does not apply, Tradera will provide the business user concerned, without undue delay, with a statement of reasons for that decision.
 
-Tradera shall not be under an obligation to provide reasons for the decision to suspend, restrict or terminate a business user's use of the Services, where Tradera is subject to a legal or regulatory obligation not to provide the specific facts or circumstances or the reference to the applicable ground or grounds, or where Tradera can demonstrate that the business user has repeatedly infringed the applicable terms and conditions of this User Agreement, including the Payment Solution Terms, resulting in termination of the provision of the whole of the Services in question.
+Tradera shall not be under an obligation to provide reasons for the decision to suspend, restrict or terminate a business user's use of the Services, where Tradera is subject to a legal or regulatory obligation not to provide the specific facts or circumstances or the reference to the applicable ground or grounds, or where Tradera can demonstrate that the business user has repeatedly infringed the applicable terms and conditions of this User Agreement, Terms and Conditions - payments (customers residing in Sweden) or Terms and Conditions - payments (companies and customers residing abroad), depending on which terms and conditions for payments that apply, resulting in termination of the provision of the whole of the Services in question.
 
 **Fees and Invoicing**
 
@@ -99,8 +103,8 @@ When listing an item for sale, you agree to comply with our [**Rules**](https:/
 * when and if your listing appears in search results on Tradera or the Internet may depend on factors such as the listing format, heading, bidding activity, deadline for responses, keyword, price and shipping costs, valuation, and feedback about you as a seller;
 * some optional listing upgrades will only be visible on certain Tradera Services;
 * some Services require you to enter into a separate agreement with a third party, and such third party will decide if you can access such services;
-* you accept the terms that apply for the payment method you choose when you list, sell and receive payment for items sold; and
-* we have the right to agree with third parties providing payment solutions on Tradera that they will withhold part of the amount they are paying you from the buyer and that they will use such withheld payment to pay Tradera directly the fees that you owe us.
+* you shall accept the terms that apply for the payment method you choose when you list, sell and receive payment for items sold; 
+* we have the right to agree with third parties providing payment solutions on Tradera that they will withhold part of the amount they are paying you from the buyer and that they will use such withheld payment to pay the fees that you owe us directly to Tradera, and, when applicable, we also have the right to withhold part of the amount of the buyers payment to you to pay for fees owed by you to Tradera; and
 * Limitations regarding the types of Services you may use and their functionality may apply based on your use of the Services.
 
 **Purchase Conditions**
@@ -110,43 +114,8 @@ When buying an item you agree to comply with our Rules for Buyers, and that:
 * you are responsible for reading the full item listing before making a bid or commitment to buy;
 * you enter into a legally binding contract to purchase an item when you commit to buy an item or if you have the winning bid (or if your offer for an item is accepted in another way);
 * some Services require you to enter a separate agreement with a third party and such third party will determine if, and to what extent, you will be allowed to access such services;
-* you accept the terms that apply for the payment method that you use when you buy an item (see more information under Section "Payment" below); and
+* you must accept the terms that apply for the payment method that you use when you buy an item (see more information  in Terms and Conditions - payments (customers residing in Sweden) or Terms and Conditions - payments (companies and customers residing abroad), depending on which terms and conditions for payments that apply.); and
 * you accept the terms that apply for the shipping method that you have chosen when you buy an item.
-
-**Buyer protection**
-
-In certain circumstances, a buyer is entitled to buyer protection, meaning that a buyer can have a dispute handled via a dispute resolution process and be refunded an amount paid in a transaction.
-
-Tradera's buyer protection is included if the buyer chooses to pay by way of an invoice or instalments via Paynova or Klarna. Tradera's buyer protection is not included when paying via PayPal, by card or Swish, but Tradera can offer buyer protection when paying by card or Swish on a later occasion in exchange for a charge. It is stated on Tradera's platform before the buyer chooses the payment method whether buyer protection is included or can be purchased. The Seller must perform its obligations as far as concerns Tradera's buyer protection irrespective of the payment method chosen by the buyer.
-
-Certain types of purchase are in no case included in Tradera's buyer protection, namely the following:
-
-* purchases of real estate (including, without limitation, residential property);
-* purchases of vehicles (including, without limitation, motor vehicles, motorcycles, caravans, aircrafts and boats), except for personally portable light vehicles used for recreational purposes, such as bicycles and wheeled hoverboards;
-* purchases of custom-made items (unless they are claimed to have not been received);
-* purchases of items equivalent to cash (including, without limitation, gift cards);
-* purchases of tickets for events, such as tickets for sporting events or concerts; and
-* purchases of goods or services that are prohibited under Tradera's Rules for Sellers.
-
-This is how Tradera's dispute resolution process works
-
-If a seller and the buyer have a disagreement, e.g. due to the fact that the buyer has not received delivery of goods the buyer has paid for or the goods that have been delivered are (according to the buyer) substantially different from the seller's description, the parties can resolve their disagreement by means of the dispute resolution system provided by Tradera on "My Tradera". This dispute resolution process must be opened in My Tradera within 30 days of the date the buyer made the payment and all communications relating to the dispute must take place via Tradera's dispute resolution system on Tradera's platform.
-
-After a dispute resolution process has been opened, the buyer and the seller must, firstly, communicate with each other through Tradera's dispute resolution system in order to try to find a solution to the problem. If the buyer and the seller are unable to reach a solution within ten (10) days of the date on which the dispute resolution process was opened, the buyer can escalate the dispute to Tradera. If the buyer does not escalate the dispute to Tradera within ten (10) days of the date on which the dispute resolution process was opened, the dispute resolution process will automatically be closed in the seller's favour.
-
-When a dispute is escalated to Tradera as set out above, Tradera will contact both the buyer and the seller in order to acquire an understanding as to what has happened. Tradera can then ask both parties for supporting materials, such as further documents relating to the goods or the transaction. The buyer must demonstrate that there is a defect in the services or goods sold by the seller, e.g. by offering supporting documentation to prove that the goods are different from the seller's description.
-
-Closure of the dispute resolution process:
-
-If the buyer opens a dispute resolution process in respect of a purchase of goods that is not included in Tradera's buyer protection set out above, Tradera will close the dispute without any further investigation and the buyer will not be entitled to a refund.
-
-If a dispute resolution process is closed in the buyer's favour, the buyer is entitled to a refund of all or some of the amount the buyer paid for the relevant goods.
-
-If a dispute resolution process is closed in the Seller's favour, the buyer is not entitled to a refund within the scope of Tradera's dispute resolution process.
-
-Tradera's decision in a matter cannot be appealed to Tradera, but the Seller and the buyer are free to come to a different resolution to a dispute in a different forum.
-
-The rules concerning seller protection are set out in [Tradera's Payment Solution Terms](https://info.tradera.com/sakerhetscenter/betalningsvillkor/).
 
 **International Buying and Selling**
 
@@ -165,20 +134,6 @@ You warrant that all content that you provide or make available to us by your us
 If you are a business user, we allow shoppers to rate products that you list on Tradera and we may make these ratings publicly available.
 
 The processing and transfer of personal data is further governed by the Privacy Policy.
-
-**Payment**
-
-_General_
-
-When you buy an item on Tradera, several payment methods are available to you. These payment methods are provided by payment solution providers with which Tradera cooperates and may change from time to time. The payment methods are offered by these payment solution providers and they decide on the payment methods they want to offer you. Depending on the payment method that you choose, you may have to enter into a separate agreement with the relevant payment solution provider and you will have to accept the terms applicable to the payment method you choose to use.
-
-If any payment issues arise, unless otherwise set out in this User Agreement, they must be dealt with by you and the payment solution provider in accordance with the relevant terms. Tradera is not responsible or liable for delays, defects, losses or anything else relating to the payment or non-payment of items you buy or sell on Tradera.
-
-When you sell an item on Tradera, you must agree to the Payment Solution Terms, as applicable to sellers.
-
-_Payment via Klarna_
-
-When purchasing items on Tradera’s platform, whereby the Buyer has selected to pay via Klarna, the Buyer acknowledges that the Seller transfers the right to receive payment from the Buyer to Tradera, and that Tradera transfers such claim to Klarna. The Buyer accepts that payment, for a purchase made via Klarna, shall be made to Klarna and that a payment to Tradera or to the Seller will not fulfil the Buyer’s payment obligations.
 
 **Limitation of Liability**
 
@@ -228,7 +183,7 @@ Tradera uses different parameters to determine a business user's ranking in the 
 
 **Legal Disputes**
 
-If a dispute arises between you and Tradera, we recommend that, in the first instance, you contact us directly via our [**Customer Service**](https://info.tradera.com/en/kontakt/) to try to find a solution. If you are unable to resolve a dispute with Customer Service, you may ask for the case to be escalated to Tradera's internal complaint-handling system. A second line function will then be responsible to provide guidance. If the dispute is not resolved by the second line support, a third line support function will be involved to finally resolve the dispute. Handling of complaints will be processed swiftly and effectively, and the outcome will be communicated to you individually.
+If a dispute arises between you and Tradera regarding the Services, we recommend that, in the first instance, you contact us directly via our [**Customer Service**](https://info.tradera.com/en/kontakt/) to try to find a solution. If you are unable to resolve a dispute with Customer Service, you may ask for the case to be escalated to Tradera's internal complaint-handling system. A second line function will then be responsible to provide guidance. If the dispute is not resolved by the second line support, a third line support function will be involved to finally resolve the dispute. Handling of complaints will be processed swiftly and effectively, and the outcome will be communicated to you individually.
 
 We will consider reasonable requests to resolve the dispute by way of alternative dispute resolution methods, such as mediation or arbitration.
 
@@ -260,7 +215,7 @@ If you have a dispute regarding services provided by third parties via our sites
 
 _Changes to agreements if you are an individual_
 
-We are entitled to amend this User Agreement, including the Payment Solution Terms (applicable to sellers) from time to time by publishing the new terms on [www.tradera.com](http://www.tradera.com/) or sending them by e-mail. The amended terms shall take effect automatically 30 days after they are provided. You are entitled at any time to terminate you user account with Tradera in accordance with the provisions above. By continuing to use the Services after the new User Agreement takes effect, you agree to the new User Agreement.
+We are entitled to amend this User Agreement, including the Payment Solution Terms (applicable to sellers) from time to time by publishing the new terms on [**www.tradera.com**](http://www.tradera.com/) or sending them by e-mail. The amended terms shall take effect automatically 30 days after they are provided. You are entitled at any time to terminate you user account with Tradera in accordance with the provisions above. By continuing to use the Services after the new User Agreement takes effect, you agree to the new User Agreement.
 
 The policies available on our sites may change from time to time. The changes apply as from the date on which they are published on Tradera’s sites.
 
@@ -268,9 +223,9 @@ In other respects, this User Agreement cannot be amended unless you and an autho
 
 _Changes to agreements if you are a business user_
 
-Tradera will notify business users of any changes to this User Agreement, including the Payment Solution Terms (applicable to sellers) via email. The amendments will take effect 15 days from the date the email with the proposed changes was sent. Tradera might grant a longer notice period if the proposed changes requires necessary technical or commercial adaptations from the concerned business users. If applicable, this prolonged notice period will be stated in the email with the proposed changes.
+Tradera will notify business users of any changes to this User Agreement, including the Terms and Conditions - payments (customers residing in Sweden) and the Terms and Conditions – payments (companies and customers residing abroad) via email. The amendments will take effect 15 days from the date the email with the proposed changes was sent. Tradera might grant a longer notice period if the proposed changes requires necessary technical or commercial adaptations from the concerned business users. If applicable, this prolonged notice period will be stated in the email with the proposed changes.
 
-The business users shall have the right to terminate the User Agreement, including the Payment Solution Terms before the expiry of the notice period. Such termination shall take effect within 15 days from the receipt of the notice.
+The business users shall have the right to terminate the User Agreement, including the Terms and Conditions – payments (customers residing in Sweden) and the Terms and Conditions - payments (companies and customers residing abroad) before the expiry of the notice period. Such termination shall take effect within 15 days from the receipt of the notice.
 
 The notice period may be waived by the business user by means of a written statement or a clear affirmative action. Business users who submit new goods to the Services shall be considered to have given a clear affirmative action to waive the notice period, unless a longer notice period than 15 days applies in accordance with above, in which case the notice period cannot be waived.
 
