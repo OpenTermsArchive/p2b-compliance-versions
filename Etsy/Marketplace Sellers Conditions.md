@@ -217,4 +217,4 @@ If Etsy has reason to believe you, Your Content, or your use of the Services vio
 
 Etsy also provides limited solutions to sellers who meet the requirements of our Purchase Protection Program for Sellers. Read more about Purchase Protection Program for Sellers [here](https://www.etsy.com/legal/policy/seller-protection-policy/34509585385).
 
-Last updated on Oct 20, 2022
+Last updated on May 8, 2023
