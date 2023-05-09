@@ -221,19 +221,41 @@ El Usuario se obliga a mantener indemne a Sumauto, incluyendo gastos razonables 
 
 12.2 El Usuario queda obligado a eximir a Sumauto de toda reclamación de terceros derivada del incumplimiento de la obligación mencionada en el apartado 12.1 y a indemnizar a Sumauto todos los daños y perjuicios de más alcance que puedan resultar de su incumplimiento, especialmente a reembolsarle todos los gastos de defensa jurídica razonables.
 
-### 13\. Compensación, derecho de retención
+### 13\. Reglamento (UE) 2022/2065 de Servicios Digitales / Digital Services Act (DSA)
 
-13.1 No asistirán al Usuario derechos de retención basados en derechos suyos frente a Sumauto derivados de otros negocios jurídicos celebrados con esta.
+13.1 AutoScout24, en cumplimiento del Reglamento (UE) 2022/2065 del Parlamento Europeo y del Consejo de 19 de octubre de 2022 relativo a un mercado único de servicios digitales, publica aquí la información sobre el promedio de usuarios mensuales.
 
-13.2. El Usuario solamente podrá compensar reclamaciones de Sumauto contra él con reclamaciones suyas contra Sumauto que no estén controvertidas o que hayan sido establecidas por resolución judicial o administrativa firme.
+El promedio de usuarios mensuales en AutoScout24 durante el segundo semestre de 2022 (del 1/06 al 31/12) ha sido de 784.325. Estimación de datos (tráfico web y tráfico de la APP) a través de cifras facilitadas por Similarweb.
 
-### 14\. Disposiciones finales
+Es importante resaltar que los datos de usuarios mensuales reportados se extraen de herramientas de seguimiento de proveedores externos por lo que no podríamos descartar que la metodología aplicada incluya el doble recuento de usuarios. Dicha metodología podría cambiar en el futuro.
 
-14.1 El lugar de jurisdicción exclusiva y de cumplimiento será Alcobendas. El contrato entre el Usuario y Sumauto estará sometido a las leyes de España, con exclusión de la Convención de las Naciones Unidas sobre la Compraventa Internacional de Mercaderías.
+Metodología utilizada por Similar Web:  
 
-14.2 Toda modificación del presente contrato y toda adición al mismo, esta misma cláusula incluida, requieren de la forma escrita para su validez.
+• Métrica utilizada:   
+Visitantes Únicos (Audiencia deduplicada).
 
-14.3 Sumauto podrá transmitir a un tercero total o parcialmente sus derechos y obligaciones resultantes de la presente relación contractual si lo anuncia con una antelación de 4 semanas. En tal caso el Usuario podrá resolver el contrato con efectos inmediatos tan pronto se le haya comunicado esa subrogación.
+• Definición:  
+Un usuario que llega al portal, sea en una o más ocasiones, se considera un visitante único de este dominio. Visitas únicas es una métrica principal que permite evaluar el alcance real de un sitio web. 
+
+• Cálculo:  
+Se aplica un ID único por dispositivo a través de la red de contribuyentes de Similarweb la cuál, a diferencia de otras herramientas de análisis de tráfico, no se basa en cookies, metodología ésta considerada poco fiable al ser susceptibles de un borrado manual o automático.
+
+• Deduplicación de la Audiencia:  
+La herramienta Similarweb utiliza modelos de aprendizaje y regresión lineal como base para los algoritmos que permiten estimar el alcance de un sitio web deduplicando las visitas mensuales. Más información en: [Unique Visitors](https://support.similarweb.com/hc/en-us/articles/4558942036113#UUID-b61ba041-2c6b-3534-22c8-f0322200b309) [Deduplicated Audience](https://support.similarweb.com/hc/en-us/articles/360005009398-Deduplicated-Audience)
+
+### 14\. Compensación, derecho de retención
+
+14.1 No asistirán al Usuario derechos de retención basados en derechos suyos frente a Sumauto derivados de otros negocios jurídicos celebrados con esta.
+
+14.2. El Usuario solamente podrá compensar reclamaciones de Sumauto contra él con reclamaciones suyas contra Sumauto que no estén controvertidas o que hayan sido establecidas por resolución judicial o administrativa firme.
+
+### 15\. Disposiciones finales
+
+15.1 El lugar de jurisdicción exclusiva y de cumplimiento será Alcobendas. El contrato entre el Usuario y Sumauto estará sometido a las leyes de España, con exclusión de la Convención de las Naciones Unidas sobre la Compraventa Internacional de Mercaderías.
+
+15.2 Toda modificación del presente contrato y toda adición al mismo, esta misma cláusula incluida, requieren de la forma escrita para su validez.
+
+15.3 Sumauto podrá transmitir a un tercero total o parcialmente sus derechos y obligaciones resultantes de la presente relación contractual si lo anuncia con una antelación de 4 semanas. En tal caso el Usuario podrá resolver el contrato con efectos inmediatos tan pronto se le haya comunicado esa subrogación.
 
 Última revisión: 12.02.2020
 
