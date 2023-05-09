@@ -51,7 +51,7 @@ If you’re an EU based Etsy seller, you can submit a P2B concern to us. Click t
 
 I want to report technological issues affecting me as an EU seller
 
-If you want to report technological issues affecting your Etsy account, [select an option relevant to your technological issue](https://help.etsy.com/hc/en-us/requests/new). For example, if you’re having an issue using Etsy postage labels, you can select **Selling on Etsy**, then **Delivery**, then **Etsy postage labels** to report your issue.
+If you want to report technological issues affecting your Etsy account, [select an option relevant to your technological issue](https://help.etsy.com/hc/en-us/requests/new?segment=selling). For example, if you’re having an issue using Etsy postage labels, you can select **Selling on Etsy**, then **Delivery**, then **Etsy postage labels** to report your issue.
 
 I want to report measures taken against my account
 
