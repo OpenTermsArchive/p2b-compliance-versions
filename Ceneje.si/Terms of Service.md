@@ -83,7 +83,7 @@ Pravila nagradne igre “Counting down till christmas with Afrodita cosmetics“
 
 #### 1\. Organizator nagradne igre
 
-Organizator nagradne igre “Counting down till christmas with Afrodita cosmetics“ (v nadaljevanju: nagradna igra) je Ceneje.si, Ceneje d.o.o. (matična številka: 6699421000), Štukljeva cesta 40, 1000 Ljubljana, v sodelovanju s podjetjem, Kozmetika Afrodita d.o.o. (matična številka: 5300444), Kidričeva ulica 54, 3250 Rogaška Slatina, v nadaljevanju: Organizatorja. Nagradna igra se organizira za namen promocije Ceneje.si in Kozmetika Afrodita.
+Organizator nagradne igre “Counting down till christmas with Afrodita cosmetics“ (v nadaljevanju: nagradna igra) je Ceneje.si, Ceneje d.o.o. (matična številka: 6699421000), Dunajska cesta 155, 1000 Ljubljana, v sodelovanju s podjetjem, Kozmetika Afrodita d.o.o. (matična številka: 5300444), Kidričeva ulica 54, 3250 Rogaška Slatina, v nadaljevanju: Organizatorja. Nagradna igra se organizira za namen promocije Ceneje.si in Kozmetika Afrodita.
 
   
 
