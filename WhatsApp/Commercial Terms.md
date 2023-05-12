@@ -50,8 +50,7 @@ To the extent that any of the additional terms and policies conflict with these 
 
 **Company’s Rights**. Except for the license you grant to us above, you retain all ownership and other rights in and to your Company Content.
 
-**Our License to Company**. Subject to your compliance with these Business Terms, we grant you a limited, revocable, non-exclusive, non-sublicensable, and non-transferable license to use our Business Services solely as authorized in these Business Terms. You can only use our trademarks as expressly permitted by our [WhatsApp](https://about.meta.com/brand/resources/whatsapp/whatsapp-brand)  
-[](https://about.meta.com/brand/resources/whatsapp/whatsapp-brand)or with our prior written permission.
+**Our License to Company**. Subject to your compliance with these Business Terms, we grant you a limited, revocable, non-exclusive, non-sublicensable, and non-transferable license to use our Business Services solely as authorized in these Business Terms. You can only use our trademarks as expressly permitted by our [WhatsApp Brand Guidelines](https://about.meta.com/brand/resources/whatsapp/whatsapp-brand) or with our prior written permission.
 
 **WhatsApp’s Rights**. Except for the express license granted in these Business Terms, we grant no other licenses or rights to Company by implication or otherwise. Unless otherwise indicated, we own all copyrights, trademarks, domains, logos, trade dress, trade secrets, patents, and other intellectual property rights associated with our Business Services.
 
@@ -166,7 +165,8 @@ If you are located in the European Region:
 
 WhatsApp Ireland Limited  
 ATTN: WhatsApp Legal Department  
-4 Grand Canal Square  
-Grand Canal Harbour  
-Dublin 2  
+Meta Platforms Ireland Ltd  
+Merrion Road  
+Dublin 4  
+D04 X2K5  
 Ireland
