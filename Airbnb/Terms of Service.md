@@ -377,19 +377,17 @@ Related articles
 
 --------------------
 
-* [Airbnb basics
-    
-    Rebooking and Refund Policy
-    
-    Please review our Rebooking and Refund Policy.](https://www.airbnb.com/help/article/2868)
-* [Guest
-    
-    Age requirements
-    
-    You must be at least 18 to book a reservation or host your place on Airbnb.](https://www.airbnb.com/help/article/2876)
 * [About the updates to our Terms
     
     Please review this information about updates to our Terms.](https://www.airbnb.com/help/article/2877)
+* [Guest
+    
+    Payment methods accepted
+    
+    We support different payment methods depending on the country your payment account is located in.](https://www.airbnb.com/help/article/126)
+* [Find your payment
+    
+    You can find your upcoming and completed payments in Your payments. This includes payments you’ve made for Homes and Experiences reservation…](https://www.airbnb.com/help/article/3159)
 
 Get help with your reservations, account, and more.
 
