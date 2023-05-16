@@ -20,12 +20,6 @@ Utgångspris för bostaden
 
 kr
 
-Nyhet!
-
-Förbättrad annonskostnad för annonser utan utgångspris.
-
-**[Läs mer om annonskostnader](https://www.hemnet.se/artiklar/guider/2022/10/06/nu-mer-rattvis-prismodell-for-dig-som-vill-lagga-ut-din-bostad-utan-utgangspris)**
-
 Bostaden har inget utgångspris
 
 Beräkna priset
@@ -277,5 +271,9 @@ Om din betalning går igenom får du ett bekräftelsemejl från Klarna där det 
 #### Kan jag ångra mitt köp?
 
 Nej. Enligt distansavtalslagen (2 kap., 11§) gäller inte ångerrätt på ”digitalt innehåll som levereras på något annat sätt än på ett fysiskt medium, om konsumenten uttryckligen har samtyckt till leverans på detta sätt och gått med på att det inte finns någon ångerrätt”. [Läs mer om ångerrätten i våra villkor.](https://documents.portal.hemnet.se/9o1tpf08smajtur7dhtv96lzfwd6)
+
+#### Vad händer med min annons om jag byter mäklare?
+
+Om du bestämmer dig för att byta mäklare behöver din nya mäklare publicera om din bostadsannons på Hemnet med sina egna bilder och beskrivning. Detta innebär att du som säljer din bostad kommer att få betala en ny annonskostnad, med samma villkor som när din bostadsannons publicerades första gången.
 
 [Läs alla frågor och svar](https://www.hemnet.se/kundservice/saljare)
