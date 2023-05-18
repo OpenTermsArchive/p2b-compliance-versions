@@ -1,5 +1,5 @@
-European Union Platform-to-Business Regulation on Etsy
-======================================================
+Europea≠n Union Platform-to-Business Regulation on Etsy
+=======================================================
 
 The European Union (EU) Regulation on platform-to-business relations (P2B Regulation) intends to create a fair, transparent, and predictable business environment for sellers on online platforms. The P2B Regulation applies to sellers located in the EU that also offer their products to consumers in the EU.
 
@@ -20,9 +20,8 @@ To foster transparency and fairness, we’ve put a great deal of effort into ens
 
 If Etsy has reason to believe a seller has violated any of these policies, their shop, shop content, or accounts may be deactivated, suspended or terminated. 
 
-### **European Union Platform-to-Business Report**
-
-From July to December 2020, Etsy received 5,379 complaints through its European Union P2B support channel. Based on the member reports, 3,017 were identified as technology issues, 1,434 as account issues, and 928 as P2B complaints. Around 5% of the complaints were reversed and we processed the complaints within 7 days on average.
+* [**View the 2021 European Union Platform-to-Business Report**](https://storage.googleapis.com/etsy-extfiles-prod/Press/2021%20European%20Union%20Platform-to-Business%20Report.pdf)
+* [**View the 2020 European Union Platform-to-Business Report**](https://storage.googleapis.com/etsy-extfiles-prod/European%20Union%20Platform-to-Business%20Report.pdf)
 
 **How does the P2B regulation impact EU sellers?**
 --------------------------------------------------
@@ -33,7 +32,7 @@ Etsy will duly consider P2B inquiries in accordance with the regulation, and wil
 
 ### **My shop, account, or listing has been actioned by Etsy in error. What should I do?**
 
-Sellers in the EU that believe an action that Etsy has taken on their shop, account, or listing was the result of an error should respond to the email notification they received, unless directed otherwise within the email (for example, a [notification of alleged intellectual property infringement](https://help.etsy.com/hc/en-us/articles/360034079714-Why-Did-I-Receive-a-Notice-of-Intellectual-Property-Infringement-?segment=selling) states that the seller should directly contact the complaining party). Email notifications about a final decision regarding an enforcement action or appeal will generally state that the decision may not be reconsidered. 
+Sellers in the EU who believe an action that Etsy has taken on their shop, account, or listing was the result of an error should respond to the email notification they received, unless directed otherwise within the email (for example, a [notification of alleged intellectual property infringement](https://help.etsy.com/hc/en-us/articles/360034079714-Why-Did-I-Receive-a-Notice-of-Intellectual-Property-Infringement-?segment=selling) states that the seller should directly contact the complaining party). Email notifications about a permanent account action will provide information about the opportunity to [appeal that decision](https://help.etsy.com/hc/articles/6298920789271?segment=selling). 
 
 ### **I’m an EU seller and have concerns related to P2B. How can I contact Etsy?**
 
