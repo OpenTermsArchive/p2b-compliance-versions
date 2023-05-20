@@ -276,7 +276,7 @@ Las modificaciones de estas condiciones sólo entrarán en vigor después de hab
 
 **Modelo de formulario de desistimiento**
 
-* A la atención de \[aquí el comerciante deberá insertar el nombre del comerciante, su dirección geográfica y, si dispone de ellos, su número de fax y su dirección de correo electrónico\]:
+* A la atención de Vida XL B.V. Mary Kingsleystraat 1 5928 SK Venlo, Limburg The Netherlands webservice@vidaxl.es
 * Por la presente le comunico/comunicamos que desisto de mi/desistimos de nuestro contrato de venta del siguiente bien/prestación del siguiente servicio
 * Pedido el/recibido el
 * Nombre del consumidor o de los consumidores
