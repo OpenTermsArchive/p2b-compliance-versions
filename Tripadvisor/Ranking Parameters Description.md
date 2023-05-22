@@ -165,6 +165,7 @@ Pages featuring Things to Do may also feature horizontal selections of other poi
 | “Essential \[Location\]” - Do | Hand curated by Tripadvisor staff |
 | “Essential \[Location\]” - Stay | Hand curated by Tripadvisor staff |
 | “Essential \[Location\]” - Eat | Hand curated by Tripadvisor staff |
+| “Recommended \[Attraction Type\] Experiences” | Traveller Favourites sort (see above) and further curation by Tripadvisor staff |
 | Operators whose products or experiences appear as sponsored may pay Tripadvisor or Viator more for the placement |     |
 
   
