@@ -6,6 +6,7 @@ CONDICIONES APLICABLES A LOS SERVICIOS
 * [**CONDICIONES APLICABLES PARA LOS WALKERS DE GURUWALK**](#s1)
 * [TERMS AND CONDITIONS APPLICABLE TO GURUWALK GUIDES](#s2)
 * [TERMS AND CONDITIONS APPLICABLE TO GURUWALK AFFILIATES](#s3)
+* [APPLICABLE CONDITIONS FOR USERS OF THE GURUWALK APP](#s4)
 
 #### **CONDICIONES APLICABLES PARA LOS WALKERS DE GURUWALK**
 
@@ -418,3 +419,17 @@ Communications between the parties will be made in writing via email or by any o
 ##### 15.- Applicable Law and Competent Jurisdiction
 
 This Agreement is governed by Spanish law. The Parties expressly submit to the jurisdiction of the Courts and Tribunals of the city of Valencia.
+
+#### APPLICABLE CONDITIONS FOR USERS OF THE GURUWALK APP
+
+##### Geolocation Services
+
+Our application uses the location in the background to offer the user a better experience in the application through specific functionalities. The location in the background is activated if the user so decides, voluntarily, and after the explanation of the functionalities for which it is required, being able to deny it if he considers it so.
+
+The data collected is only used to provide users with a better experience in the app, the data is not shared with third parties.
+
+Our app uses always-on geolocation services to provide you with the following features:
+
+* Meet other travelers like you: The application allows you to connect with other users who are near your geographic location. To offer you this function, the application needs to access your geolocation information in real time.
+* Find a tour near you: Through active geolocation, the application will show you information about the tours available in your current location.
+* Notify you that you are near a point of interest: The application will use geolocation always active to notify you when you are in the vicinity of a point of tourist interest or relevant to your experience as a traveler.
