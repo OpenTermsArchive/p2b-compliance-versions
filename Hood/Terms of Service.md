@@ -288,5 +288,7 @@ b) in Ausnahmefällen seine allgemeinen Geschäftsbedingungen zur Abwehr einer u
 
 **Die Nutzungsbedingungen für Zahlungsabwicklung und Käuferschutz auf Hood.de, die für Sie nur gelten, wenn Sie die Zahlungsabwicklung als Käufer oder Verkäufer nutzen, finden Sie [hier](https://www.hood.de/nutzungsbedingungen-zahlungsabwicklung.htm).** 
 
+**Die Nutzungsbedingungen für das Sponsored Products-Programm auf Hood.de, die für Sie nur gelten, wenn Sie das Programm nutzen, finden Sie [hier](https://www.hood.de/nutzungsbedingungen-hoodads.htm).**
+
 **Hinweis zur Alternativen Streitbeilegung gemäß Art. 14 Abs. 1 ODR-VO und § 36 VSBG:**  
 Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit, die Sie unter [https://ec.europa.eu/consumers/odr/](https://ec.europa.eu/consumers/odr/) finden. Wir sind jedoch weder bereit noch verpflichtet an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
