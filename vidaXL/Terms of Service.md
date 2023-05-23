@@ -3,7 +3,7 @@ Utilizamos diferentes términos y condiciones para los consumidores y los client
 **Términos y condiciones para consumidores**
 --------------------------------------------
 
-Actualiz**ado: 2023-04-20**
+Actualizado: 2023-04-20
 
 Éstas condiciones generales forman parte de Thuiswinkel.nl y se han elaborado en consulta con la Asociación de Consumidores en el marco del Grupo de Coordinación de Autorregulación (CZ) del Consejo Económico y Social y serán operables a partir del 1 de junio 2020.
 
@@ -632,7 +632,7 @@ Artículo 12 - Varios
 
 _Adjunto(s) archivo(s)_
 
-[Términos y Condiciones](https://www.vidaxl.es/on/demandware.static/-/Library-Sites-vidaXLSharedLibrary/default/dwb46ac766/Documents/terms_conditions/ES.pdf)
+[Términos y Condiciones](https://www.vidaxl.es/on/demandware.static/-/Library-Sites-vidaXLSharedLibrary/default/dw301ffbba/Documents/terms_conditions/ES.pdf)
 
 [Términos y Condiciones Generales de Subastas](https://www.vidaxl.es/on/demandware.static/-/Library-Sites-vidaXLSharedLibrary/default/dw762e0ba9/Documents/terms_conditions_auctions/ES.pdf)
 
