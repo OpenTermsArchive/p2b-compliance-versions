@@ -991,7 +991,8 @@ Conform Regulamentului nr. 679 din 27 aprilie 2016, beneficiati de dreptul de ac
 
 15.7. Solicitările Dvs. vor fi analizate și vor primi răspuns în termen de maxim 30 de zile lucrătoare de la primirea acestora de către Organizatorul licitației, în cazul în care au fost însoțite de toate datele și informațiile necesare pentru soluționarea acestora. În situația în care nu ați transmis Organizatorului licitației toate datele și informațiile necesare soluționării solicitării respective, vor fi cerute informațiile lipsă, urmând ca termenul de soluționare de mai sus să fie prelungit corespunzător.
 
-**Ultima actualizare: 31.03.2023**
+**Ultima actualizare: 31.03.2023**  
+[Varianta valabila incepand cu data de 14.06.2023](https://ajutor.okazii.ro/wp-content/uploads/2023/05/Termeni-si-Conditii-30-mai-2023.pdf)
 
 Informatiile au fost utile?
 
