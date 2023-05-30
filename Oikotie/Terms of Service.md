@@ -5,15 +5,8 @@ These general terms of use (the "**Terms of Use**") apply to the following servi
 
 These Terms of Use include the general terms applied to the Services. The Service-specific Terms of the specific Service supplement these Terms of Use. In case of a conflict between these Terms of Use and the Service-specific Terms, the latter shall prevail. The Terms of Use are binding to the User as long as the Service is used. If the User does not accept these Terms of Use or wants to terminate the agreement constituted by the Terms of Use, the User shall immediately stop using the Service, delete the application downloaded to the User's device in order to use the Service, if any, and not share any content or information on the Service.
 
-1\. Rights and responsibilities of the service provider
-=======================================================
-
-Rights and responsibilities of the service provider
----------------------------------------------------
-
-1\. Rights and responsibilities of the service provider
-
-* Rights and responsibilities of the service provider
+1. 1\. Rights and responsibilities of the service provider
+    -------------------------------------------------------
     
     The Service is mainly available on a 24-hour basis each day of the week. However, the Service Provider has the right to remove the Service or a part thereof from use temporarily for maintenance, hardware installation, public order and safety, an excessive load on the system or some other necessary reason. The Service Provider gives no express or implied warranties as to the functionality or features of the Service and does not warrant that the Service works without downtime or is error-free.
     
@@ -25,16 +18,8 @@ Rights and responsibilities of the service provider
     
     If the Service contains direct communications between the Users either directly through private messages and public forums or indirectly through content in the Service, the Service Provider is not responsible for the possible disadvantages or damages caused to the Users or third parties due to communications or other actions with other Users.
     
-
-2\. Rights and responsibilities of the user
-===========================================
-
-Rights and responsibilities of the user
----------------------------------------
-
-2\. Rights and responsibilities of the user
-
-* Rights and responsibilities of the user
+2. 2\. Rights and responsibilities of the user
+    -------------------------------------------
     
     The User is granted a personal license to use the Service in accordance with these Terms of Use, possible Service-specific Terms and other terms and conditions related to the Service or individual parts thereof.
     
@@ -46,31 +31,15 @@ Rights and responsibilities of the user
     
     If it appears that the User breaches these Terms of Use while using the Service or if the Service Provider has reasonable cause to assume such breach, the Service Provider reserves the right to immediately close the user account and temporarily restrict the logon to the user account and/or the Service with no prior notification.
     
-
-3\. User data
-=============
-
-User data
----------
-
-3\. User data
-
-* User data
+3. 3\. User data
+    -------------
     
     Use of the Service may require registration. The User shall provide data requested by the Service Provider needed for the Service. The User ensures that the data is correct and accurate and is responsible for regularly updating the data to ensure that it is correct and adequate. The User is responsible for errors and delays due to inadequate or outdated data provided by the User.
     
     The User receives a password and a user ID for the use of and sign-up to the Service. The password and user ID are personal and shall not be disclosed or expressed to a third party. The User is responsible for all use of the Service under its user ID and password. If the user ID or password have ended up to a third party, the User must immediately inform the Service Provider via Service Provider's customer service. The User shall not be responsible for the use under its user ID and password without the User's contribution when the Service Provider has received the notification and the Service Provider has had a reasonable time to block the use of the Service with the user ID. The User can only have one user account in the Service.
     
-
-4\. Ads published in the service
-================================
-
-Ads published in the service
-----------------------------
-
-4\. Ads published in the service
-
-* Ads published in the service
+4. 4\. Ads published in the service
+    --------------------------------
     
     If the User may publish ads in the Service, this section 4 of the Terms of Use shall apply. The Service Provider aims to publish the User's ad in the Service as soon as possible after the ad has been submitted. However, the Service Provider is not obligated to publish an ad in the Service.
     
@@ -84,16 +53,8 @@ Ads published in the service
     
     The Service Provider reserves the right at any time to remove or not to publish ads at its discretion when there is suspicion of any legal uncertainty regarding the ad, its content or the User publishing it according to the information received by the Service Provider. The Service Provider has no liability in the event that the suspicion of legal uncertainty are later on proven to be unfounded.
     
-
-5\. Fees payable and invoicing
-==============================
-
-Fees payable and invoicing
---------------------------
-
-5\. Fees payable and invoicing
-
-* Fees payable and invoicing
+5. 5\. Fees payable and invoicing
+    ------------------------------
     
     Some features of the Service may be subject to a charge. The basic services included in the Service are free of charge to the User. The prices and terms of payment for features subject to a charge are informed separately for each feature. Furthermore, different chargeable products may be obtained through the Service.
     
@@ -105,16 +66,8 @@ Fees payable and invoicing
     
     The User shall file a complaint about an error to Service Provider's customer service within a reasonable time after detecting the error or when the error should have been detected. The customer service contact details are as follows: Tori [https://tuki.tori.fi/hc/fi/requests/new](https://tuki.tori.fi/hc/fi/requests/new); Oikotie Asunnot, Työpaikat and Toimitilat [https://www.oikotie.fi/palaute/](https://www.oikotie.fi/palaute/); Rakentaja.fi[https://www.rakentaja.fi/indexfr.aspx?s=/Suorakanava/palaute.asp](https://www.rakentaja.fi/indexfr.aspx?s=/Suorakanava/palaute.asp).
     
-
-6\. Intellectual property rights
-================================
-
-Intellectual property rights
-----------------------------
-
-6\. Intellectual property rights
-
-* Intellectual property rights
+6. 6\. Intellectual property rights
+    --------------------------------
     
     The Service Provider or its licensors shall own all rights in and to the Service, including without limitation all trademarks, copyrights and other intellectual property rights related to the Service and material in the Service as well as to any texts, pictures, videos, music, programs, designs, models and any other material and data in the Service (the "**Material**"), excluding the content generated by the User.
     
@@ -141,16 +94,8 @@ Intellectual property rights
     
     It is forbidden to make the content of the Service or a part thereof available to the public through dissemination, presenting or showing publicly, or storing and making copies of the content or a part thereof without the prior written consent of the Service Provider.
     
-
-7\. Transfer and termination of access
-======================================
-
-Transfer and termination of access
-----------------------------------
-
-7\. Transfer and termination of access
-
-* Transfer and termination of access
+7. 7\. Transfer and termination of access
+    --------------------------------------
     
     The User has no right to disclose or transfer the access to the Service (including password and other identification enabling the use of the Service) to a third party. The Service Provider may decline to give a user ID, cancel a granted user ID or block the User's access to the Service in the future, if the User has not complied or is not complying with the Terms of Use or law and accepted principles of morality. Furthermore, the default on payments for chargeable features of Services can result in termination of access.
     
@@ -160,16 +105,8 @@ Transfer and termination of access
     
     The termination of access to the Service shall not exempt the User from payments for the services and performances concluded prior to the termination of access. The Service Provider has the right not to grant access to the Service to the User, if the agreement is terminated due to User's breach of agreement.
     
-
-8\. Limitation of liability
-===========================
-
-Limitation of liability
------------------------
-
-8\. Limitation of liability
-
-* Limitation of liability
+8. 8\. Limitation of liability
+    ---------------------------
     
     The Service Provider provides the Service and its content "as it is" without any warranties, representations or liabilities. The User uses the Services provided and/or transmitted by the Service Provider at its own risk. The Service Provider is not liable for any data security risks related to the Service or the accuracy of the content of the Service or its fitness for a specific purpose unless required by mandatory legislation.
     
@@ -177,83 +114,35 @@ Limitation of liability
     
     The User is liable for any damages incurred to the Service Provider or a third party due to a breach or default of any law, authority regulations and guidelines, these Terms of Use or Service-specific Terms by the User.
     
-
-9\. Force majeure
-=================
-
-Force majeure
--------------
-
-9\. Force majeure
-
-* Force majeure
+9. 9\. Force majeure
+    -----------------
     
     Neither party is responsible for damages incurred due to an unusual event beyond the control of a party (force majeure) that the party reasonably could not be expected to have taken into account at the time of the conclusion of the agreement and the consequences of which the party reasonably could not have avoided or prevented.
     
-
-10\. Processing of personal data and use of cookies
-===================================================
-
-Processing of personal data and use of cookies
-----------------------------------------------
-
-10\. Processing of personal data and use of cookies
-
-* Processing of personal data and use of cookies
+10. 10\. Processing of personal data and use of cookies
+    ---------------------------------------------------
     
     The Service Provider processes the Users' personal data in accordance with the Service Provider's privacy description and privacy policy and applicable data protection legislation. The Services use cookies as described in the privacy policy. The privacy policy can be found here:[https://info.privacy.schibsted.com/fi/tietosuoja-ja-evastekaytannot/](https://info.privacy.schibsted.com/fi/tietosuoja-ja-evastekaytannot/)
     
-
-11\. Changes to terms of use
-============================
-
-Changes to terms of use
------------------------
-
-11\. Changes to terms of use
-
-* Changes to terms of use
+11. 11\. Changes to terms of use
+    ----------------------------
     
     The Service Provider reserves the right to change the Terms of Use. The Terms of Use may be changed from time to time and supplemented particularly in the event the supply or content of the Services changes, or due to amendments in the legislation or authority practises or unforeseeable circumstances. The Service Provider announces any material changes by email to the email address provided by the User, on the Service and/or on the website of the Service no later than 30 days prior to the change's entry into force. If the User does not accept the changes, the User has the right to stop using the Service. The User is deemed to have approved the changes if the User uses the Service after the changes have entered into force.
     
-
-12\. Transfer of the service
-============================
-
-Transfer of the service
------------------------
-
-12\. Transfer of the service
-
-* Transfer of the service
+12. 12\. Transfer of the service
+    ----------------------------
     
     The Service Provider has the right to transfer the Service and its maintenance and the customers related thereto to a company belonging to Schibsted Group at the given time.
     
-
-13\. Other terms and conditions
-===============================
-
-Other terms and conditions
---------------------------
-
-13\. Other terms and conditions
-
-* Other terms and conditions
+13. 13\. Other terms and conditions
+    -------------------------------
     
     In addition to these Terms of Use, the User commits to comply with the possible guidelines separately provided or appearing in the Service related to the use of the Service by the Service Provider or its co-operation partner. Valid Terms of Use are available at the Service Provider's home page and/or otherwise provided related to the Service.
     
     The Service may include links and connections to websites and services of a third party. The terms of use and other terms of the third party in question shall be applicable to such services. The Service Provider is not responsible for the privacy policy practises, content, functionality or suitability of the sites for the User.
     
-
-14\. applicable law and disputes
-================================
-
-applicable law and disputes
----------------------------
-
-14\. applicable law and disputes
-
-* applicable law and disputes
+14. 14\. applicable law and disputes
+    --------------------------------
     
     These Terms of Use, the possible Service-specific Terms and the interpretation thereof shall be governed by and construed in accordance with the laws of Finland, excluding any choice of law provisions thereof. Any possible controversies between the Service Provider and the User on the Terms of Use or the Service are aimed to be resolved by negotiations between the parties. The disputes between the Service Provider and the User will be settled in the general courts of Finland.
     
@@ -261,16 +150,8 @@ applicable law and disputes
     
     Before submitting the matter to the Finnish Consumer Disputes Board for resolution we recommend contacting the Consumer Advisory Service at [https://www.kkv.fi/en/consumer-advice/](https://www.kkv.fi/en/consumer-advice/) and via telephone 029 505 3050. Furthermore, the European Commission provides an Online Dispute Resolution forum particularly intended for consumers living in another EU country at [http://ec.europa.eu/consumers/odr/](http://ec.europa.eu/consumers/odr/).
     
-
-15\. Käyttöehtojen voimassaolo ja yhteydenotot
-==============================================
-
-Käyttöehtojen voimassaolo ja yhteydenotot
------------------------------------------
-
-15\. Käyttöehtojen voimassaolo ja yhteydenotot
-
-* Käyttöehtojen voimassaolo ja yhteydenotot
+15. 15\. Käyttöehtojen voimassaolo ja yhteydenotot
+    ----------------------------------------------
     
     These Terms of Use shall apply as of 16.2.2021 and are set to be in force until further notice.
     
@@ -285,16 +166,8 @@ Käyttöehtojen voimassaolo ja yhteydenotot
     FI-00100 Helsinki  
     Finland
     
-
-16\. Special terms and conditions oikotie apartments and premises (oikotie asunnot and toimitilat)
-==================================================================================================
-
-Special terms and conditions oikotie apartments and premises (oikotie asunnot and toimitilat)
----------------------------------------------------------------------------------------------
-
-16\. Special terms and conditions oikotie apartments and premises (oikotie asunnot and toimitilat)
-
-* Special terms and conditions oikotie apartments and premises (oikotie asunnot and toimitilat)
+16. 16\. Special terms and conditions oikotie apartments and premises (oikotie asunnot and toimitilat)
+    --------------------------------------------------------------------------------------------------
     
     ### 1\. Description Of The Service
     
@@ -320,16 +193,8 @@ Special terms and conditions oikotie apartments and premises (oikotie asunnot an
     
     Privacy policy can be found here:[https://info.privacy.schibsted.com/fi/tietosuoja-ja-evastekaytannot/](https://info.privacy.schibsted.com/fi/tietosuoja-ja-evastekaytannot/)
     
-
-17\. Special terms and conditions oikotie työpaikat
-===================================================
-
-Special terms and conditions oikotie työpaikat
-----------------------------------------------
-
-17\. Special terms and conditions oikotie työpaikat
-
-* Special terms and conditions oikotie työpaikat
+17. 17\. Special terms and conditions oikotie työpaikat
+    ---------------------------------------------------
     
     ### 1\. Description Of The Service
     
