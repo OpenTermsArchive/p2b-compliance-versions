@@ -76,7 +76,7 @@ Unless you’re contracting with Snap Inc., nothing in these Business Services T
 8\. Notices
 -----------
 
-Notices under these Business Services Terms must be in writing and sent: (a) if to Snap, to Snap Inc., 3000 31st Street, Santa Monica, California 90405; with a copy to legalnotices@snap.com or Snap Inc., 3000 31st Street, Santa Monica, California 90405, Attn: General Counsel; and (b) if to you, to the email address or street address you have provided via the Business Services, or by posting on the Business Services. Notices will be deemed given upon personal delivery, upon delivery if by mail, upon valid transmission through email, or 24 hours after the time the notice is posted to the Business Service
+Notices under these Business Services Terms must be in writing and sent: (a) if to Snap, to Snap Inc., 3000 31st Street, Santa Monica, California 90405; with a copy to legalnotices@snap.com or Snap Inc., 3000 31st Street, Santa Monica, California 90405, Attn: General Counsel; and (b) if to you, to the email address or street address you have provided via the Business Services, or by posting on the Business Services. Notices will be deemed given upon personal delivery, upon delivery if by mail, upon valid transmission through email, or 24 hours after the time the notice is posted to the Business Service.
 
 9\. Supplemental Terms and Policies
 -----------------------------------
