@@ -314,6 +314,8 @@ You may also pay the Fee using your phone. If you choose this option you will re
 
 Once your advertisement is posted on the Website your request for our services cannot be cancelled at that stage. Prior to the advertisement appearing on the Website you may cancel the advertisement by [contacting us](https://hello.donedeal.ie/hc/en-us/requests/new).
 
+For professional customers with a recurring subscription we require 30 days written notice by contacting us on [motorhelp@donedeal.ie](mailto:motorhelp@donedeal.ie) 
+
 **17\. Published advertisements and duration of advertisements**
 
 Once you have completed the process of submitting your advertisement we will send you an email confirming receipt of your order for the DoneDeal Service, this email does not constitute an acceptance of your order. Your order for posting an advertisement on the Website will not be accepted and an agreement concluded between us and you in relation to the publication of the advertisement on the Website until the payment for the DoneDeal Service has been received by us.
