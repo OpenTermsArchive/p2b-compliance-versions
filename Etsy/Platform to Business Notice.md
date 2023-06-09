@@ -20,6 +20,7 @@ To foster transparency and fairness, we’ve put a great deal of effort into ens
 
 If Etsy has reason to believe a seller has violated any of these policies, their shop, shop content, or accounts may be deactivated, suspended or terminated. 
 
+* [**View the 2022 European Union Platform-to-Business Report**](https://storage.googleapis.com/etsy-extfiles-prod/2022%20European%20Union%20Platform-to-Business%20Report.pdf)
 * [**View the 2021 European Union Platform-to-Business Report**](https://storage.googleapis.com/etsy-extfiles-prod/Press/2021%20European%20Union%20Platform-to-Business%20Report.pdf)
 * [**View the 2020 European Union Platform-to-Business Report**](https://storage.googleapis.com/etsy-extfiles-prod/European%20Union%20Platform-to-Business%20Report.pdf)
 
@@ -54,7 +55,9 @@ If you want to report technological issues affecting your Etsy account, [select 
 
 I want to report measures taken against my account
 
-If you want to report measures taken against your account, please see the email sent to you by Etsy’s Trust & Safety team. This email will detail your next steps to find a resolution.
+Check your email for a message from Etsy, as well as your shop’s [Dashboard](https://www.etsy.com/your/shops/me/dashboard), if you’re a seller. You may be able to resolve the issue either on your own or by working with our team. [Learn more about resolving account suspensions](https://help.etsy.com/hc/articles/115015672628?segment=selling).
+
+If your account was permanently suspended, you can [file an appeal](https://help.etsy.com/hc/articles/6298920789271?segment=selling).
 
 I am an EU seller and have other concerns about P2B
 
