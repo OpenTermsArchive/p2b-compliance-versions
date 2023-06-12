@@ -229,6 +229,8 @@ Jelen ÁSZF legfrissebb, hatályos változata a Felhasználók regisztrációs f
 
 2021\. november 17.
 
+Jelen ÁSZF 2023.június 30-tól hatályos változata az alábbi linkre kattintva érhető el: [https://www.arukereso.hu/static/general\_terms\_and\_conditions2306.html](https://www.arukereso.hu/static/general_terms_and_conditions2306.html)  
+  
 A 2021.11.16-ig érvényes ÁSZF [itt érhető el](https://www.arukereso.hu/static/general_terms_and_conditions1116.html).
 
 [www.arukereso.hu](https://www.arukereso.hu/)  
