@@ -108,8 +108,15 @@ b) că Organizatorul licitației pe Internet realizeaza operațiuni de comerț s
 
 c) că Organizatorul licitației pe Internet promovează în orice mod produsele sau serviciile vânzătorului sau cumpărătorului.
 
-1.1.4. Serviciile furnizate de noi prin intermediul site-ului [www.okazii.ro](http://www.okazii.ro/) se adresează doar persoanelor fizice majore având cel puțin 18 ani împliniți și capacitate de exercițiu deplină, precum și întreprinderilor, indiferent de forma juridică. Utilizatorul persoana fizică declară și garantează că are cel puțin 18 ani, prin simpla acceptare a prezentului acord. Fiecare utilizator declară şi garantează că potrivit prevederilor legale aplicabile are dreptul să utilizeze serviciile noastre şi să acceseze site-ul [www.okazii.ro](http://www.okazii.ro/), şi îşi asumă întreaga răspundere pentru alegerea şi utilizarea serviciilor noastre. Utilizatorul de tip întreprindere (profesionist conform art. 3 alin 2 din Codul Civil) şi reprezentantul acesteia care utilizează efectiv contul, după caz, declară și garantează că (i) are dreptul, calitatea și puterea de a accepta în mod valabil prezentul acord de utilizare; (ii) prin acceptarea prezentului acord de utilizare nu se încalcă legea aplicabilă ori prevederile actelor constitutive/statutare ale entităţii pe care o reprezintă; (ii) a efectuat toate operațiunile necesare și a obținut toate acordurile și autorizațiile necesare pentru a-și asuma obligațiile reglementate de prezentul acord pe seama entității pe care o reprezintă și (iv) își asumă întreaga responsabilitate juridică decurgând din eventuala invocare a lipsei calității de reprezentant.
-
+1.1.4. Serviciile furnizate de noi prin intermediul site-ului [www.okazii.ro](http://www.okazii.ro/) se adresează doar persoanelor fizice majore având cel puțin 18 ani împliniți și capacitate de exercițiu deplină, precum și întreprinderilor, indiferent de forma juridică. Utilizatorul persoana fizică declară și garantează că are cel puțin 18 ani, prin simpla acceptare a prezentului acord. Fiecare utilizator declară şi garantează că potrivit prevederilor legale aplicabile are dreptul să utilizeze serviciile noastre şi să acceseze site-ul [www.okazii.ro](http://www.okazii.ro/), şi îşi asumă întreaga răspundere pentru alegerea şi utilizarea serviciilor noastre. Utilizatorul de tip întreprindere (profesionist conform art. 3 alin 2 din Codul Civil) şi reprezentantul acesteia care utilizează efectiv contul, după caz, declară și garantează că (i) are dreptul, calitatea și puterea de a accepta în mod valabil prezentul acord de utilizare; (ii) prin acceptarea prezentului acord de utilizare nu se încalcă legea aplicabilă ori prevederile actelor constitutive/statutare ale entităţii pe care o reprezintă; (ii) a efectuat toate operațiunile necesare și a obținut toate acordurile și autorizațiile necesare pentru a-și asuma obligațiile reglementate de prezentul acord pe seama entității pe care o reprezintă și (iv) își asumă întreaga responsabilitate juridică decurgând din eventuala invocare a lipsei calității de reprezentant.  
+1.1.5. Utilizatorul are obligația de a furniza date corecte, complete, actuale și valabile, atât la crearea  
+contului, cât și la completarea datelor de facturare. Utilizatorul este obligat să actualizeze datele sale  
+(de identificare și facturare) ori de câte ori acestea se modifică, în cel mult 15 (cincisprezece) zile de  
+la data la care modificarea survine. Fără a aduce atingere prevederilor de mai sus, de fiecare dată  
+când modificările privesc o persoană juridică, Utilizatorul se obligă să furnizeze Organizatorului  
+documentele doveditoare emise de Registrul Comerțului, ANAF sau orice altă autoritate relevantă.  
+Orice încălcare a obligațiilor reglementate de prezentul articol poate fi sancționată prin suspendarea  
+contului de utilizator.  
 **1.2. Statutul și responsabilitatea Organizatorului acestei licitații pentru tranzacțiile încheiate cu ajutorul său.**  
 1.2.1. Organizatorul este răspunzător pentru menținerea în stare de funcționare a licitației pe Internet, exceptând cazurile de forța majoră. Prin caz de forță majoră se înțelege un eveniment imprevizibil și inevitabil, aflat în afara controlului Organizatorului. Sunt considerate evenimente de forță majoră, fără a se limita la acestea, evenimente ca războiul, revoluția, embargoul, cutremurul, grav atac terorist, inundația, incendiul, atacuri informatice grave ori defecțiuni grave în funcționarea rețelei de internet, greva si încetarea nelegală a lucrului, emiterea de către o autoritate competentă a unui ordin sau a oricărui act cu caracter obligatoriu care împiedică desfășurarea activității Organizatorului.  
 1.2.2. Organizatorul nu este implicat în nicio relație juridică preferențiala cu persoanele care negociază sau au încheiat o tranzacție de vânzare-cumpărare rezultată ca urmare a utilizării sitului nostru, cu excepția licitațiilor caritabile care au un statut special  
@@ -125,7 +132,7 @@ c) că Organizatorul licitației pe Internet promovează în orice mod produsele
 1.4.1. Obligațiile Organizatorului acestei licitații pe Internet nu includ implementarea unui control deplin asupra informațiilor afisate de către utilizatorii acestei licitații pe Internet.  
 1.4.2. In scopul respectării legii, a drepturilor Organizatorului acestei licitații pe Internet și/sau a terțelor părți, și pentru o cât mai bună desfăsurare a acestei licitații pe Internet, Organizatorul acestei licitații pe Internet are dreptul exclusiv ca, din proprie inițiativă și după criteriile sale proprii care nu pot fi cenzurate în niciun mod de către terțe persoane, la cererea autorităților competente ale statului sau la cererea unei persoane care justifică un interes legitim, să suspende sau restricționeze în orice alt mod toate și/sau orice informații, comentarii, oferte de orice fel, inclusiv cele de participare la oricare din licitațiile organizate pe site-ul OKazii.ro, precum și orice alte date furnizate de oricare dintre utilizatorii site-ului OKazii.ro, dacă Organizatorul acestei licitații pe Internet decide ca acestea, ținând cont de conduita utilizatorului pe site, istoricul acțiunilor utilizatorului pe site, precum și ținând cont de oricare alte criterii proprii ale Organizatorului acestei licitații pe internet, care nu pot fi cenzurate în niciun fel de către terțe persoane, pun sau pot pune în pericol buna funcționare a OKazii.ro, buna desfășurare a serviciilor oferite prin OKazii.ro, inclusiv a licitațiilor organizate prin OKazii.ro, încalcă sau pot încălca în orice mod termenii prezentului acord, prevederile legale în vigoare și/sau drepturile unei terțe părți.
 
-2\. Utilizatorii serviciilor acestei licitații pe Internet și statutul lor.
+**2\. Utilizatorii serviciilor acestei licitații pe Internet și statutul lor.**
 
 2.1. Orice persoană poate deveni utilizator al serviciilor noastre de licitație pe Internet dacă are acces la Internet și după ce a cofirmat acceptarea termenilor prin finalizarea procesului de creare a contului.
 
@@ -158,6 +165,75 @@ Numele de utilizator nu trebuie sa contina termenul “Okazii” sau cuvinte sim
 2.13. În situaţia în care un utilizator nu a mai accesat contul său pentru o perioadă de 6 luni, atunci Organizatorul va putea dezactiva produsele postate de către acesta. Dezactivarea nu se va face automat la expirarea perioadei, ci va fi efectuată în urma trimiterii unui mail către utilizator care va conţine detalii referitoare la măsura ce va fi aplicată privind licitaţiile sale, modalităţile prin care poate evita aplicarea acestei măsuri, termenul pe care Organizatorul îl oferă în vederea primirii unui răspuns din partea utilizatorului etc. În situaţia în care după aplicarea acestei măsuri utilizatorul va dori repunerea în vânzare a poduselor, va avea această posibilitate din contul său de utilizator, cu respectarea tuturor condiţiilor. Dacă după repunerea în vânzare utilizatorul nu va mai accesa contul său pe perioada de 6 luni, procedura detaliată la prezentul alineat va fi reluată.
 
 2.14. Perioada de proba. Dupa inregistrarea ca utilizator/ activarea contului, utilizatorul beneficiaza de o perioada de proba. In perioada de proba, utilizatorul nu datoreaza tarifele si comisioanele Okazii in limita unui sold debitor de 3 EUR. In cazul depasirii acestui prag, perioada de proba inceteaza. Utilizatorul poate opta pentru continuarea folosirii serviciilor Okazii.ro in urma efectuarii platii soldului debitor. Odata plata efectuata, contul utilizatorului devine activ si pentru serviciile furnizate de Okazii utilizatorul va plati tarifele si comisioanele in conformitate cu prevederile din Termeni si Conditii.
+
+2.15. Dreptul de retragere.  
+2.15.1. În conformitate cu Ordonanța de urgență nr. 34/2014 („OUG 34/2014”) privind drepturile consumatorilor în cadrul contractelor încheiate cu profesioniștii, precum și pentru modificarea și completarea unor acte normative, consumatorul beneficiază de o perioadă de 14 zile pentru a se retrage dintr-un contract la distanță sau dintr-un contract în afara spațiilor comerciale, fără a fi nevoit să justifice decizia de retragere și fără a suporta alte costuri decât costurile directe legate de returnarea produselor și eventualele prejudicii provocate de diminuarea valorii produselor rezultată din manipularea acestora.
+
+2.15.2. De la regula generală instituită potrivit celor de mai sus, OUG 34/2014 reglementează următoarele excepții:  
+a) contractele de servicii, după prestarea integrală a serviciilor şi, în cazul în care contractul dă naştere unei obligaţii de plată pentru consumator, dacă executarea a început cu acordul prealabil expres al consumatorului şi după ce acesta a confirmat că a luat cunoştinţă de faptul că îşi va pierde dreptul de retragere după executarea integrală a contractului de către profesionist;  
+b) furnizarea de bunuri sau servicii al căror preţ depinde de fluctuaţiile de pe piaţa financiară pe care profesionistul nu le poate controla şi care pot avea loc pe parcursul perioadei de retragere;  
+c) furnizarea de bunuri confecţionate după specificaţiile prezentate de consumator sau personalizate în mod clar;  
+d) furnizarea de bunuri care sunt susceptibile a se deteriora sau a expira rapid;  
+e) furnizarea de bunuri sigilate care nu pot fi returnate din motive de protecţie a sănătăţii sau din motive de igienă şi care au fost desigilate de consumator;  
+f) furnizarea de bunuri care sunt, după livrare, potrivit naturii acestora, inseparabil amestecate cu alte  
+elemente;  
+g) furnizarea de băuturi alcoolice al căror preţ a fost convenit în momentul încheierii contractului de vânzare, a căror livrare nu poate fi efectuată înainte de 30 de zile şi a căror valoare reală depinde de fluctuaţiile de pe piaţă pe care profesionistul nu le poate controla;  
+h) contractele în cazul cărora consumatorul a solicitat în mod special profesionistului să se deplaseze la domiciliul său pentru a efectua lucrări urgente de reparaţie sau de întreţinere. Dacă, cu ocazia unei astfel de vizite, profesionistul prestează alte servicii în afara celor solicitate în mod expres de consumator sau furnizează alte bunuri decât piesele de schimb indispensabile pentru executarea lucrărilor de întreţinere sau de reparaţie, dreptul de retragere se aplică respectivelor servicii sau bunuri suplimentare;  
+i) furnizarea de înregistrări audio sau video sigilate sau de programe informatice sigilate care au fost desigilate după livrare;  
+j) furnizarea de ziare, periodice şi reviste, cu excepţia contractelor de abonament pentru furnizarea de astfel de publicaţii;  
+k) contractele încheiate în cadrul unei licitaţii;  
+l) prestarea de servicii de cazare, pentru alt scop decât cel rezidenţial, transport de mărfuri, închiriere de maşini, catering sau serviciile privind activităţile de agrement, în cazul în care contractul prevede o dată sau o perioadă de executare specifică;  
+m) contractele de furnizare de conţinut digital care nu este livrat pe un suport material, dacă executarea a început şi, în cazul în care contractul dă naştere unei obligaţii de plată pentru consumator, în condiţiile în care:  
+(i) consumatorul şi-a dat acordul prealabil expres pentru începerea executării în cursul perioadei de retragere;  
+(ii) consumatorul a confirmat că a luat cunoştinţă de faptul că îşi va pierde dreptul de retragere în consecinţă;  
+(iii) profesionistul a furnizat confirmarea încheierii contractului, în conformitate cu art. 7 alin. (2) sau cu art. 8 alin. (7).
+
+2.15.3. Dacă produsul achiziționat prin intermediul site-ului nu este exceptat de la dreptul de retragere în conformitate cu prevederile OUG 34/2014, consumatorul beneficiază de o perioadă de 14 zile pentru a se retrage dintr-un contract la distanță, fără a fi nevoit să justifice decizia de retragere, în condițiile reglementate de actul normativ menționat mai sus și cu respectarea prezentelor prevederi.
+
+2.15.4. În situația exercitării dreptului de retragere, consumatorul nu este obligat să precizeze motivele pentru care returnează produsul.
+
+2.15.5. Termenul de 14 zile curge de la data la care consumatorul sau o terță parte indicată de acesta intră în posesia fizică a produselor. În cazul în care consumatorul comandă printr-o singură comandă produse multiple care vor fi livrate separat, termenul de 14 zile curge din ziua în care consumatorul sau o parte terță indicată de acesta, intră în posesia ultimului produs.
+
+2.15.6. Pentru a vă exercita dreptul de retragere dintr-un anumit contract, trebuie să contactați operatorul economic care comercializează produsele achiziționate, la adresa pusă la dispoziție de Organizator sau de operatorul economic, și să îl informați cu privire la decizia dvs. de a vă retrage din contract.
+
+2.15.7. În situația în care operatorul economic nu poate fi contact pentru exercitarea dreptului de retragere, vă rugăm să comunicați cererea pe adresa suport@okazii.ro. Organizatorul o va înainta respectivului operator economic și va furniza asistența rezonabil necesară pentru soluționarea cererii de retragere.
+
+2.15.8. Consumatorul poate exercita dreptul de retragere prin utilizarea formularului de retragere de mai jos sau prin orice altă declarație neechivocă în care își exprimă decizia de retragere din contract.  
+Formularul sau declarația de retragere pot fi comunicate operatorului economic prin poștă tradițională sau electronică (e-mail). Folosirea formularului propus mai jos nu este obligatorie.
+
+\*\*\*  
+**FORMULAR DE RETRAGERE**  
+pe baza Ordonanţei de urgenţă nr. 34/2014 privind drepturile consumatorilor în cadrul contractelor încheiate cu profesioniştii, precum şi pentru modificarea şi completarea unor acte normative (publicată în Monitorul Oficial, Partea I nr. 427 din 11.06.2014)  
+Stimați consumatori, prezentul formular se trimite înapoi completat doar dacă doriţi să vă retrageţi din contract.  
+– Către \[aici se introduce numele, adresa poştală şi, dacă este cazul, numărul de telefon, numărul de fax şi adresa de e‐mail ale profesionistului\]:  
+– Vă informez/Vă informăm (\*) prin prezenta cu privire la retragerea mea/noastră (\*) din contractul referitor la vânzarea următoarelor produse (\*)/prestarea următoarelor servicii \*  
+– Comandate la data (\*)/primite la data (\*)  
+– Numele consumatorului (consumatorilor)  
+– Adresa consumatorului (consumatorilor)  
+– Semnătura consumatorului (consumatorilor) (doar în cazul în care acest formular este notificat pe  
+hârtie)  
+– Data (\*) A se elimina menţiunea inutilă, după caz  
+\*\*\*
+
+2.15.9. Notificarea/declarația trebuie să includă datele consumatorului: numele, adresa poștală, numărul de telefon și adresa de e-mail, numărul de comanda, precum și o formulare precisă care să exprime decizia de a se retrage din contract.
+
+2.15.10. Pentru a respecta termenul limită de retragere este suficient să trimiteți comunicarea privind exercitarea dreptului de retragere înainte de expirarea perioadei de retragere.
+
+2.15.11. Ulterior trimiterii notificării de retragere, consumatorul trebuie să expedieze produsele către operatorul economic de la care le-a achiziționat, pe adresa indicată de acesta, cât mai curând posibil și fără întârzieri nejustificate, în cel mult 14 zile de la comunicarea notificării de retragere.
+
+2.15.12. Produsele pe care le returnați trebuie să fie în aceeași stare în care au fost primite. Sunteți responsabil pentru diminuarea valorii produselor care rezulta din manipulări, altele decât cele necesare pentru determinarea naturii, calităților și funcționarii produselor. Nu se acceptă returul produselor asupra cărora au fost efectuate intervenții neautorizate, cele care prezinta urme de uzură sau folosire excesivă, zgârieturi, lovituri, șocuri sau produsele cărora le lipsesc accesorii. Returul se face în ambalajul original, cu etichetele inițiale intacte, certificatul de garanție în original (daca a fost emis de producător/ distribuitor) și toate documentele cu care a fost livrat produsul.
+
+2.15.13. În situația exercitării valabile a dreptului de retragere, operatorul economic va rambursa orice sumă pe care a primit-o de la dumneavoastră, inclusiv costurile livrării, cu excepția costurilor suplimentare determinate de faptul că ați ales altă modalitate de livrare decât cel mai ieftin tip de livrare standard oferit, fără întârzieri nejustificate și, în orice caz, nu mai târziu de 14 zile de la data la care suntem informați cu privire la decizia dumneavoastră de a vă retrage din contract.
+
+2.15.14. Costurile directe legate de returnarea produselor sunt suportate de consumator.
+
+2.15.15. Comerciantul va efectua rambursarea folosind aceeași modalitate de plată ca și cea folosită pentru tranzacția inițială, cu excepția cazului în care consumatorul a fost de-acord cu altă modalitate de rambursare.
+
+2.15.16. Operatorul economic va putea amâna rambursarea sumei până la primirea produselor sau până la primirea unei dovezi conform căreia acestea au fost expediate.
+
+2.15.17. Pentru mai multe detalii, vă rugăm să verificați politica de retur proprie a operatorului economic de la care ați achiziționat produsul.
+
+2.15.18. În termen de 14 zile de la încheierea contractului cu Organizatorul, un consumator se poate retrage dintr-un astfel de contract, pentru un anumit serviciu, dacă serviciile nu vor fi fost deja integral executate de Organizator și dacă respectivul contract dă naștere unei obligații de plată pentru consumator. Utilizatorul este expres de acord cu începerea executării serviciilor de listare și promovare de către Organizator, de la publicarea unui anunț/unei licitații și/sau de la data promovării acestuia, după caz. Utilizatorul declară că înțelege că prin încheierea unei tranzacții în baza unui anunț de vânzare sau a unei licitații își va pierde dreptul de retragere, ca urmare a executării complete a contractului de către Organizator. Utilizatorul declară că înțelege că prin expirarea duratei de promovare achitate își va pierde dreptul de retragere, ca urmare a executării complete a contractului de către Organizator. Serviciile furnizate de Organizator sunt exceptate de la dreptul de retragere în condițiile art. 2.15.2 a) de mai sus. Dreptul de retragere poate fi exercitat de Utilizator prin transmiterea unei notificări la adresa email suport@okazii.ro sau în scris, la adresa poștală a Organizatorului. Toate prevederile prezentului art. 2.15 sunt aplicabile și dreptului de retragere al Utilizatorului în relația cu Organizatorul.
 
 3\. Tarifele pentru serviciile furnizate de noi  
 3.1. Utilizarea Licitaţiei noastre pe Internet este gratuită pentru cumpărători dar implica tarife şi comisioane pentru vânzători. Pentru detalii complete privind tarifele şi comisioanele percepute de catre Organizator de la vanzatori, [click aici](http://ajutor.okazii.ro/vanzare/taxe-si-comisioane).
@@ -205,17 +281,8 @@ Sistemul de comisionare Okazii.ro funcţionează astfel:
 
 Baza de calcul a comisionului include, de regulă, doar preţul produsului vândut de utilizator. Pe cale de excepţie, când valoarea transportului încasat de vânzător este disproporţionat de mare faţă de valoarea produsului comercializat sau faţă de preţurile practicate în piaţă pentru serviciul respectiv de transport, Organizatorul îşi rezervă dreptul de a percepe comision faţă de întreaga valoare a tranzacţiei (inclusiv preţ produs + preţ servicii de transport), indiferent de categoria în care a fost pus la vânzare produsul de utilizatorul vânzător. În toate aceste situaţii, baza de calcul include valoarea produsului, valoarea serviciilor de transport şi orice alte sume solicitate cu orice titlu de vânzător de la cumpărător în legătură cu tranzacţia respectivă.
 
-Comisioanele difera în funcţie de categoria în care este publicat anunțul/licitația după cum urmează:
-
-   
-
-Pentru categoriile care nu sunt mentionate in tabelul de mai sus, comisionul perceput va fi de 6%, cu exceptia categoriilor Servicii, Afaceri si industrie, ATV si Snowmobile, Barci, Motociclete, Anunturi auto gratuite, Imobiliare si Servicii GSM unde se pot lista doar vanzari de tip anunt pentru care nu se percepe comision.  
-Comisionul minim perceput pentru subcategoria Dezmembrări este de 0.40 EUR.
-
-Pentru toate categoriile, cu exceptia celor in care se pot adauga doar vanzari de tip Anunt (Servicii, Afaceri si industrie, ATV si Snowmobile, Barci, Motociclete, Anunturi auto gratuite, Imobiliare si Servicii GSM) percepem un comision minim de 1 leu, dar nu mai mult de 30% valoarea produsului.
-
-Produsele din categoria Computere/Dezmembrări laptopuri sunt comisionate cu 3,5% din valoarea produsului, dar nu cu mai puțin de 0,40 EURO.  
-Tarifele pentru serviciile oferite de Okazii.ro sunt afisate fara TVA, acesta urmand a fi achitat la alimentarea contului.
+Comisioanele difera în funcţie de categoria în care este publicat anunțul/licitația, Acestea pot fi  
+consultate accesând secțiunea [Taxe şi comisioane](http://ajutor.okazii.ro/vanzare/taxe-si-comisioane "Taxe şi comisioane")
 
 **Recuperarea comisioanelor**
 
@@ -233,23 +300,11 @@ Recuperarea comisioanelor ca urmare a neridicării comenzii de către cumpăr
 
 3.4.1 Promovarea pe Okazii  
 Tarifele pentru serviciile de promovare vor fi percepute în funcţie de vechimea utilizatorului în site, activitatea desfăşurată, precum şi calificativele obţinute de utilizatori. În acest sens, utilizatorii vor fi împărţiţi în Vânzători profesionişti şi vânzători ocazionali.  
-În funcţie de categorie, se vor aplica următoarele tarife:
-
-| Promovare | Vanzatori profesionisti | Vanzatori ocazionali |     |     |
-| --- | --- | --- | --- | --- |
-|     | Orice interval | 7 zile | 15 zile | 30 zile |
-| Special in liste | 1,29 | 0,99 | 1,75 | 2,99 |
-| Extraexpunere Okazii | 1,99 | 1,49 | 2,49 | 4,25 |
-| Galerie foto in liste | 0,49 | 0,39 | 0,65 | 1,15 |
-| Titlu evidentiat in liste | 0,25 | 0,19 | 0,35 | 0,59 |
-| Pret evidentiat in liste | 1,49 | 1,15 | 1,99 | 3,49 |
-| Chenar in liste | 0,79 | 0,59 | 0,99 | 1,69 |
-| Culoare de fond | 0,99 | 0,75 | 1,29 | 2,25 |
-| Chenar si fundal in liste | 1,29 | 0,99 | 1,75 | 2,99 |
+În funcţie de categorie, pentru serviciile de promovare reglementate de prezentul articol, se vor aplica tarifele menționate în secțiunea [Instrumente pentru vânzători](http://ajutor.okazii.ro/vanzare/instrumente-vanzatori "Instrumente pentru vanzatori").
 
 Costurile pentru serviciile oferite de Okazii.ro sunt afisate fara TVA, acesta urmand a fi achitat la alimentarea contului.
 
-Vanzatorii ocazionali pot beneficia de serviciile de promovare doar dupa achitarea acestora. Astfel, daca la selectarea serviciilor de promovare soldul Vanzatorului acopera valoarea promovarilor, acestea se vor activa la publicarea anunţului. Daca soldul contului nu acopera valoarea serviciilor de promovare selectate, acestea pot fi activate ulterior, numai dupa alimentarea contului, accesand sectiunea [Promovari neactivate](http://www.okazii.ro/contul-meu/activitate/vanzari/promovari-in-asteptare).
+Vanzatorii ocazionali pot beneficia de serviciile de promovare doar dupa achitarea acestora. Astfel, daca la selectarea serviciilor de promovare soldul Vanzatorului acopera valoarea promovarilor, acestea se vor activa la publicarea anunţului. Daca soldul contului nu acopera valoarea serviciilor de promovare selectate, acestea pot fi activate ulterior, după alimentarea contului de utilizator.
 
 3.4.2. Stergerea de catre vanzator a unui anunt ce beneficiaza de optiuni de promovare nu va duce, in mod automat, la restituirea sumelor utilizate pentru optiunile de promovare suplimentare.
 
@@ -628,7 +683,8 @@ Restrictiile pe care le vor avea utilizatorii sunt, dar fara a se limita la aces
 3\. limitarea valorii totale a produselor pe care un utilizator le poate pune in vanzare pe o anumita perioada data de timp (ex: o luna)
 
 **4.10.** **Operaţiunile efectuate de Utilizator în site-ul Okazii.ro**  
-Sunt înregistrate în contul acestuia şi sunt puse la dispoziţia sa prin intermediul panoului de administrare a contului propriu, de îndată ce acestea sunt efectuate sau în conformitate cu regulile aplicabile fiecărei operaţiuni în parte, dacă este reglementată diferit de prezentul acord de utilizare. **Informaţiile referitoare la tranzactii, mesaje si anumite detalii financiare sunt disponbile în contul fiecărui Utilizator şi pot fi vizualizate timp de 60 de zile de la data la care fiecare operaţiune a fost înregistrată în cont**. Utilizatorii au obligaţia să notifice Organizatorului orice obiecţiune cu privire operaţiunile înregistrate în cont, în general, dar şi cu privire la serviciile oferite de Organizator prin intermediul Okazii.ro, în special, în termen de cel mult 60 de zile de la data înregistrării fiecărei operaţiuni în contul propriu. În caz contrar, se prezumă în mod absolut că serviciile furnizate de Organizator sunt conforme prezentului acord de utilizare şi au fost prestate în conformitate cu solicitările fiecărui Utilizator. După trecerea termenului de 60 de zile menţionat mai sus, Utilizatorul este decăzut din dreptul de a formula reclamaţii / obiecţiuni în legătură cu serviciile furnizate de Organizator prin intermediul Okazii.ro, dar şi cu solicitarea de mediere/anulare calificative.
+Sunt înregistrate în contul acestuia şi sunt puse la dispoziţia sa prin intermediul panoului de administrare a contului propriu, de îndată ce acestea sunt efectuate sau în conformitate cu regulile aplicabile fiecărei operaţiuni în parte, dacă este reglementată diferit de prezentul acord de utilizare. **Informaţiile referitoare la tranzactii, sunt disponbile în contul fiecărui Utilizator şi pot fi vizualizate pentru perioada aferentă anului în curs și anului anterior. Informaţiile referitoare la mesaje sunt disponbile în contul fiecărui Utilizator şi pot fi vizualizate timp de 60 de zile de la data la care fiecare operaţiune a fost înregistrată în cont. Informațiile financiare (facturile și înștiințările de plată) pot fi accesate oricând de utilizatori,  
+indiferent de vechimea acestora.**. Utilizatorii au obligaţia să notifice Organizatorului orice obiecţiune cu privire operaţiunile înregistrate în cont, în general, dar şi cu privire la serviciile oferite de Organizator prin intermediul Okazii.ro, în special, în termen de cel mult 60 de zile de la data înregistrării fiecărei operaţiuni în contul propriu. În caz contrar, se prezumă în mod absolut că serviciile furnizate de Organizator sunt conforme prezentului acord de utilizare şi au fost prestate în conformitate cu solicitările fiecărui Utilizator. După trecerea termenului de 60 de zile menţionat mai sus, Utilizatorul este decăzut din dreptul de a formula reclamaţii / obiecţiuni în legătură cu serviciile furnizate de Organizator prin intermediul Okazii.ro, dar şi cu solicitarea de mediere/anulare calificative.
 
 **4.11. Review-uri produse**
 
@@ -724,7 +780,8 @@ Avand in vedere ca in momentul realizarii Importului Automat pot aparea intrerup
 7\. Vor putea beneficia de serviciul „GdL cu livrare prin curieri speciali” doar utilizatorii care au cumparat dupa activarea serviciului de catre vanzator.  
 8\. Cumparatorul poate solicita activarea optiunii „GdL cu livrare prin curieri speciali” selectand modalitatea de livrare si de plata oferite prin „GdL cu livrare prin curieri speciali” in procesul de finalizare a tranzactiei.  
 9\. Pretul maxim al unui produs pentru care se poate activa serviciul „GdL cu livrare prin curieri speciali” este de 5000 Ron. In cazul in care pentru un produs s-a activat serviciul, vanzatorul nu va mai putea modifica pretul.  
-10\. Livrarea produsului se face prin serviciul de curierat agreat, care va genera documentul de transport pentru livrare la sfarsitul tranzactiei prin intermediul Site-ului, altfel coletul poate fi considerat neacoperit de „GdL cu livrare prin curieri speciali”. Documentele de transport trebuie pastrate pana la finalizarea tranzactiei.  
+10\. Livrarea produsului se face prin serviciul de curierat agreat, care va fi selectat de Organizatortor  
+dintre variantele disponibile conform prezentului [Acord de utilizare](http://ajutor.okazii.ro/termeni-si-conditii#acord "Acord de utilizare"). Documentul de transport pentru livrare va fi generat la sfarsitul tranzactiei prin intermediul Site-ului, altfel coletul poate fi considerat neacoperit de „GdL cu livrare prin curieri speciali”. Documentele de transport trebuie pastrate pana la finalizarea tranzactiei.  
 Utilizatorii se obligă să respecte termenele și condițiile serviciului de curierat ales pentru expedierea produsului prin intermediul Serviciului Garanţia de Livrare, aşa cum sunt comunicate prin intremediul site-ului furnizorului de servicii de curierat. Vă rugăm să citiți cu atenție aceste documente:  
 [Termeni şi condiţii Cargus](https://www.cargus.ro/documente-oficiale-persoane-fizice/ "Termeni şi condiţii Urgent Cargus")  
 [Termeni şi condiţii DPD](https://www.dpd.com/ro/home/expediere/informa_ii_expediere/termeni_si_conditii_de_transport "Termeni şi condiţii DPD")  
@@ -991,8 +1048,7 @@ Conform Regulamentului nr. 679 din 27 aprilie 2016, beneficiati de dreptul de ac
 
 15.7. Solicitările Dvs. vor fi analizate și vor primi răspuns în termen de maxim 30 de zile lucrătoare de la primirea acestora de către Organizatorul licitației, în cazul în care au fost însoțite de toate datele și informațiile necesare pentru soluționarea acestora. În situația în care nu ați transmis Organizatorului licitației toate datele și informațiile necesare soluționării solicitării respective, vor fi cerute informațiile lipsă, urmând ca termenul de soluționare de mai sus să fie prelungit corespunzător.
 
-**Ultima actualizare: 31.03.2023**  
-[Varianta valabila incepand cu data de 14.06.2023](https://ajutor.okazii.ro/wp-content/uploads/2023/05/Termeni-si-Conditii-30-mai-2023.pdf)
+**Ultima actualizare: 14.06.2023**
 
 Informatiile au fost utile?
 
