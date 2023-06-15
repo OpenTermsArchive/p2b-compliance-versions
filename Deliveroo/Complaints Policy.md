@@ -2,7 +2,7 @@ Deliveroo's partner support policy
 
 A
 
-Written by Adam S-R
+Written by Ash H
 
 Updated over a week ago
 
