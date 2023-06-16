@@ -1,7 +1,7 @@
-Results
--------
+DuckDuckGo Search Results
+-------------------------
 
-### Sources
+### Where do DuckDuckGo search results come from?
 
 When people search, we believe they’re really looking for answers, as opposed to just links. For many categories of searches (restaurants, lyrics, weather, etc.), there is usually a specialized search engine (e.g., Tripadvisor), content site (e.g., Musixmatch), or dedicated source (e.g., Dark Sky) that does a better job of actually answering searches than a general search engine can with just links. Our long-term goal is to get you Instant Answers from these best sources.
 
