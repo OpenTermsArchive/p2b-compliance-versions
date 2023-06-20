@@ -1,567 +1,684 @@
-Terms & conditions
-------------------
+General conditions of use for teachers and students
+===================================================
 
-These General Conditions regulate the access and use of the Website ownership of TUS MEDIA, S.L. ("CLASSGAP"), with NIF B-65640930 and social address in Pallars 3-5 B-Building Granollers, 08400 Barcelona (Spain).
+[](https://api.whatsapp.com/send?text=https%3a%2f%2fwww.classgap.com%2fen%2fblog%2fgeneral-conditions-use-for-teachers-and-students)[](https://www.facebook.com/share.php?u=https%3a%2f%2fwww.classgap.com%2fen%2fblog%2fgeneral-conditions-use-for-teachers-and-students)[](https://www.linkedin.com/shareArticle?mini=true&url=https%3a%2f%2fwww.classgap.com%2fen%2fblog%2fgeneral-conditions-use-for-teachers-and-students)[](https://twitter.com/share?url=https%3a%2f%2fwww.classgap.com%2fen%2fblog%2fgeneral-conditions-use-for-teachers-and-students)
 
-Thereby, by accessing the site, or by using the services or applications of the web page classgap.com, you accept the following conditions.
+Terms and Conditions for Teachers
+---------------------------------
 
-_Keep in mind that certain areas of the Service can have different or additional terms and conditions. In the event of conflict between the general conditions and the published for a specific area of the site, the latter will have preference._
+These Terms and Conditions regulate the access and use of the website classgap.com ("Website") by teachers, as well as its services and applications (the website, services and applications shall be collectively referred to as "CLASSGAP"), owned by TUS MEDIA, S. L. ("Tus Media"), with NIF B-65640930, registered in the Mercantile Register of Barcelona: Volume 42792, Folio 111, Page B413067,and registered office at Pallars 3-5 Edificio B in Granollers, Barcelona (Spain). Thus, in order to visit classgap.com, or use its services or applications, you must first expressly accept, as a teacher, the following terms and conditions ("Terms and Conditions"). Please note that certain classgap.com services may have different or additional terms and conditions, for example Classgap for Business or the Featured Teacher service, so in the event of a conflict between these terms and the terms of those services, the latter shall take precedence, unless a complementary interpretation of both Terms and Conditions is possible.
 
-#### Main terms:
+### TERMS
 
-"CONTENT": refers to the texts, graphics, images, music, software, audios, videos, information or other materials gathered in CLASSGAP.
+"Content": Are the texts, graphics, images, music, software (excluding the CLASSGAP application), audios, videos, information or other materials that are collected in CLASSGAP.
 
-"USERS": are the persons who visit and/or use CLASSGAP. There is two types of users:
+"Users": are the persons who successfully complete the process of account registration in CLASSGAP,as described in section 6 "Account Registration". There are two types of Users: Students and Teachers.
 
-* "TUTORS": are users who offer lessons through CLASSGAP. They are responsible for the content and price of the lesson.
-* "STUDENTS": are users who request reservation of a class through classgap.>
+"Students": are Users who receive an online class through CLASSGAP.
 
-"LESSONS"": refers to lessons created by a tutor or academy through CLASSGAP.
+"Teachers": are Users who offer online classes or tutoring services through CLASSGAP. They are responsible for the Content and price of the Class.
 
-"TAXES": are all the taxes that may result by application, including value added taxes, over services and other state taxes or not.
+"Classes": is the Content given by the Teachers in CLASSGAP and/or distributed, sold or bought through CLASSGAP.
 
-"SOFTWARE": is anything that is available in or through this page or provided in other form by CLASSGAP. It will be considered as part of the "services" hereafter.
+"Courses": training unit created by teachers formed by hours of class, content and individual work used to communicate and transmit certain knowledge, studies, instructions among others, to a certain number of people called students or pupils.
 
-"USER CONTENT (UC)": is the content sent by the users in CLASSGAP (including amongst other, any information presented in the conversations, documents uploaded to the virtual classroom, videos or any public area of the service).
+"Taxes": all those state, autonomous or local taxes that may be applicable in those territories where the service is understood to be provided.
 
-"VIRTUAL CLASSROOM": is the area where students and tutors met to teach or learn a lesson. There, users have access to many features such as: video, audio, chat, whiteboard, text editor and screen sharing. Some features may be not available for free lessons.
+"Software": is all that software that is available to the User in CLASSGAP or that has been provided in another way by CLASSGAP. It will be considered as part of the "services" from here on.
 
-#### Service
+"User Content (CU)": is the content sent by the Users (including among others, private conversations, documents uploaded to the classroom, videos, elements shown in screen sharing and any public area of the service).
 
-CLASSGAP’s service allows students to find and book lessons that may interest them, and to tutors and academies to create and impart their lessons, as providing resources for its realization, including online payment and registry of participants, the realization of videos or allow the assessment of courses and tutors.
+"Virtual Classroom": is the CLASSGAP area where Students and Teachers meet in order to receive and teach respectively the Class. In it the Users have access to video, audio, chat, virtual whiteboard, online text editor and screen sharing. Some functionalities may not be available for free classes.
 
-All the lessons whill be teached through streaming in CLASSGAP, the same may be recorded, allowing the students to reproduce them at any time.
+### 1\. Description of the Service
 
-#### Software licenses and downloads:
+The CLASSGAP service allows Students to find and sign up for Classes that may be of interest to them, and Teachers to offer Classes and their online tutoring services, as well as making resources available for their delivery, including online payment and User registration, or allowing feedback from Teachers and Students. All Classes will be taught in the Virtual Classroom of classgap.com.
 
-CLASSGAP may grant personal licenses, nontransferable, non-sub licensable, revocable, nonexclusive to use or download the software exclusively for private use and only in agreement with the conditions of the service and written instructions that, in its case, has provided along with the software.
+### 2.Intellectual Property
 
-The contents of the service are protected by the rules about copyright, brands and other property rights. The owners of the copyright and registered brands are CLASSGAP, subsidiaries and/or authorized third parties. You cannot modify, copy, reproduce, re/publish, load, transmit or distribute in any form the material of this service including texts, videos (including streaming and VOD), graphics, codes and software, without prior consent and written of its owners.
+2.1 Licenses and Software download
 
-You cannot use instruments for data mining, to gather or copy any content or data related with the service or its users in any way unauthorized by CLASSGAP. Likewise, you cannot use framing techniques, or use meta tags or any other "hidden text" using the name or brand of CLASSGAP without authorization.
+All intellectual and industrial property rights and other property rights over CLASSGAP, including, but not limited to, the Website, the Software and/or the Contents are the exclusive property of Tus Media, its affiliates and/or authorised third parties, so Users will refrain from registering in their name or through a third party any intellectual property work, patents, trademarks and other distinctive signs related to CLASSGAP.
 
-However, you can print and download parts of the material for non-commercial personal use provided agreement of not changing or eliminating any copyright of said materials.
+Nothing in these Terms and Conditions can be interpreted as a transmission of the Intellectual Property rights of Tus Media related to CLASSGAP. Therefore, it is expressly prohibited for Users to carry out any act of reproduction, distribution, public communication or other forms of making available, transformation and, in general, any other form of exploitation of any Content, information, Software and/or materials, among others, owned by Tus Media that Users may access through the Website, or any of its applications, whether in whole or in part, unless expressly authorised in writing by the owner of said rights.
 
-If you download or use the software in any other way it will be under your own risk.
+Tus Media may grant personal, non-transferable, non-sublicensable, revocable, revocable, limited duration, non-exclusive licences to use or download the Software exclusively for private use and only in accordance with the terms of service and written instructions, if any, provided by Tus Media together with the Software.
 
-#### Modifications:
+You may not modify, copy, reproduce, republish, upload, transmit or distribute in any way the material on this service including text, video, graphics, code and Software, except with the prior written consent of the owners.
 
-CLASSGAP can occasionally update and/or modify these General Conditions. In this sense, you accept that the modifications made will be mandatory and take effect after the following 7 calendar days from the date of publishing, such that the use of the Service subsequent to the date of effect of the General Conditions will indicate agreement of said modifications.
+You may not use data mining tools to collect or copy any Content, information and/or material or data relating to the service and/or its Users in a manner not authorised by Tus Media. Similarly, you may not use framing techniques, or use meta tags or any other "hidden text" utilising Tus Media's name or trademark without its permission.
 
-Thereby, the User agrees to revise always the most recent version of the General Conditions available in the Web page [www.classgap.com](https://www.classgap.com/en)
+Your downloading or other use of the Software is at your own risk.
 
-#### Use of the Site, App and Contents:
+2.2 CLASSGAP Courses
 
-The Users agree to use the Website, App and Contents in accordance with the Law and the present General Conditions (and subsequent modifications of the same) as well as with the best practices, uses and customs generally accepted of the Internet and public order.
+The intellectual and industrial property rights of the courses that the Users incorporate to CLASSGAP, be they videos, photographs, texts or others, will always belong to their authors and/or legitimate owners.
 
-The not authorized use of the materials and information may assume the violation of intellectual property legislation or industrial or of other applicable laws, which may result in the initiation of the corresponding extrajudicial or legal proceedings.
+Without prejudice to the above, the Users cede to Tus Media, on a non-exclusive basis, for the maximum time permitted by the intellectual property law, and with a worldwide territorial scope, the exploitation rights that fall on the Contents and/or materials incorporated, and in particular the rights of reproduction, public communication, and making them available to the public via Internet, transformation, especially to translate texts into other languages and adaptation of the Contents to the CLASSGAP audience; and distribution, of photographs, texts, videos or any other Content that is subject to protection, according to current intellectual property legislation, for the sole purpose of being displayed and communicated on this Website, on any other of the company's websites, or on websites of companies affiliated to TusMedia.
 
-In case that you add images or any other type of files to CLASSGAP, you will be the only responsible that the same are not protected by copyright. In this regard, we recommend you seek websites that offer free reusable images.
+Likewise, Users authorise Tus Media to proceed to the modification of texts and other Contents, in order to adapt them according to the specifications and technical requirements of CLASSGAP.
 
-You are the only responsible of your UC and the consequences for publishing them. CLASSGAP doesn’t guarantee the confidentiality regarding the data which, voluntarily, the users introduce in classgap.com, independently of being or not being published. You manifest and guarantee that you possess or is owner of the licenses, rights, consents and permits necessary for the reproduction, distribution, transformation and public communication through any electronic media, especially Internet and email, of your UC throughout the world and indefinitely, in the terms established in the present General Conditions, including the right to authorize CLASSGAP to use them as specified in these conditions.
+Tus Media offers its Users the possibility that the Contents uploaded to CLASSGAP are shared and visualised in Facebook, LinkedIn, Twitter, Pinterest and other social networks, in which case, they will be governed by the terms and conditions of these websites.
 
-You agree not to insert illegal works in the Website and to comply with all the regulations related to the exhibition of the works. CLASSGAP reserves the right to remove from the Website those contents considered not appropriate to the characteristics and ends of the same.
+The author can modify and eliminate the Content and/or materials whenever he wants, without prejudice that, if previously he has assigned rights to other Users, said Users, whether they are Students or co-teachers, considering "co-teachers" to those where a Teacher provides the materials or content for the class and another one makes use of said content or materials during the lesson, have the right to exploit that Content in an indeterminate way and the Content will be present in CLASSGAP for its use.
 
-The User will refrain to not insert Contents that diminished the quality of the service, especially, Contents that:
+With the enrolment to a course, the Teacher is ceding the total use of the Contents and/or materials to the enrolled Students for purposes of personal but not commercial use. In case of observing that any User has infringed any intellectual or industrial property right of the Teacher, the Teacher can inform CLASSGAP so that it can adopt the appropriate measures. Likewise, if the Teacher wants to denounce such an infringement, he/she must do so before the competent authorities.
 
-• are illicit by national, community or international regulations.
+2.3. Co-teacher and transfer of intellectual property rights
 
-• violate the fundamental rights of the people; especially those appropriated for underage.
+As stated in section 2.2 above, the authors of the courses in Classgap automatically cede their courses for usufruct to other CLASSGAP teachers in exchange for an economic compensation that will be defined later and will be notified to the authors of the courses.
 
-You grant CLASSGAP a nonexclusive license, free of charge, worldwide, everlasting, with rights of sublicensing, reproduce, distribute, transmit, create derivative works, show and execute publicly any UC or any other material or information (including ideas for improved or new products or services) communicated to CLASSGAP for any mean or form, now known or hereafter developed. Nonetheless, we will need your previous consent to use your name.
+### 3\. Modifications
 
-You accept to not file any remedy against CLASSGAP for any supposed or real infraction of any copyright produced by another user in the Site.
+Tus Media may from time to time update and/or modify these Terms and Conditions. Such modification will be communicated on classgap.com in a conspicuous place, or to Students via email, such that use of the service after the date of posting will indicate your agreement to such modifications. Tus Media will notify Teachers fifteen (15) calendar days prior to any changes to these Terms and Conditions via email.
 
-However, if you are owner of the intellectual and/or industrial copyright and believe that any UC or other content breach them, you may communicate this to CLASSGAP, without prejudice in the actions and legal rights corresponding against the supposed offender.
+Tus Media reserves the right to make changes to the Terms and Conditions effective immediately in any of the following circumstances: (1) when it is necessary due to legal or security requirements; (2) when it results from any variation or adjustment of a technical nature in CLASSGAP, in the service itself or, where appropriate, in the auxiliary services; (3) when the change corresponds to the elimination or modification of elements that in the opinion of Tus Media do not allow preserving the security or are illicit, offensive, inappropriate or discriminatory and/or (4) when it is necessary to face an unforeseen and imminent danger related to the defence of the online intermediary services, the Students or the Teachers against fraud, malware, spam, data security breaches or other cybersecurity risks.
 
-Please have in mind that CLASSGAP will not be responsible to verify the ownership of the UC incorporated by the users to the website. CLASSGAP reserves the right to not delete certain UC until a competent body has declared the wrongfulness of the same, ordering the removal, the possibility to access them, or the existence of the damage, and CLASSGAP knew the corresponding resolution.
+### 4\. Use of the Website and Contents
 
-#### Account registration:
+The Teachers commit to use CLASSGAP in accordance with the Law and applicable regulations, as well as in accordance with the established in the present Terms and Conditions (and the subsequent modifications to the same), the good practices, uses and customs of Internet generally accepted, and the public order.
 
-To be able to access some of the characteristics of the site and book or impart a lesson, you must register as a member creating an account ("CLASSGAP account").
+Unauthorised use of the same may constitute a violation of intellectual or industrial property legislation or other applicable laws, and may give rise to the initiation of the corresponding administrative, extrajudicial or judicial proceedings.
 
-You may register directly through classgap.com or login in on certain social network sites (SNS) as described below.
+In the case that you add images or other type of files to CLASSGAP, you will be the only responsible of the fact that they are not protected by copyright. In this sense, we recommend you to go to websites that offer reusable images free of charge.
 
-You can link your CLASSGAP account to a third party account being: 1) providing CLASSGAP your access information to the third party account through the website; or 2) allowing CLASSGAP to access your third party account according with the terms and conditions applicable to each third party account. In this regard, you declare the right to communicate the information of your third party account to CLASSGAP and/or give access to CLASSGAP to the same without breaching the applicable terms and conditions and without compelling CLASSGAP to pay any quote.
+You are solely responsible for your CU and the consequences of publishing them. Tus Media does not guarantee confidentiality with respect to the data that Users voluntarily enter on classgap.com, regardless of whether or not they are published. You represent and warrant that you own or possess the necessary licences, rights, consents and permissions for the reproduction, distribution, transformation and public communication by any electronic means, in particular the Internet and email, of your UCs throughout the world and for an indefinite period of time, on the terms set out in these Terms and Conditions, including the right to authorise Tus Media to use them in the manner provided for in these Terms and Conditions.
 
-We remind you that the relation with the third party service providers is governed only by the agreement with each provider. CLASSGAP will not review the content of the SNS to verify its precision or legality and shall not be liable for said contents.
+You agree not to insert illegal works in CLASSGAP and to comply with all the applicable regulations related to the exhibition of the works. Tus Media reserves the right to remove from CLASSGAP those Contents that it considers inappropriate to the characteristics and purposes of the same.
 
-We will create your CLASSGAP account based in the personal information that you provided or obtained through a SNS. In this regard, you agree to provide precise information, updated and complete during the signing up process and the updating of said information to maintain it exact, updated and complete.
+The Teacher will abstain from inserting Contents and/or other materials that deteriorate the quality of the service, and in particular, Contents that:
 
-You cannot have more than one active CLASSGAP account. CLASSGAP reserves the right to suspend or delete your CLASSGAP account and your access to the site if you create more than one CLASSGAP account or if the provided information during the registration process or after is inexact, outdated or incomplete.
+\- Are unlawful under national, community or international regulations.
 
-The following terms are applied to your service use and to any account you may create:
+\- Violate the fundamental rights of persons, especially those that are not appropriate for minors.
 
-1. You must be of legal age to use the service;
-2. Have a real identity which corresponds to a person to open an account. The accounts registered by "bots" or other automated means are not permitted;
-3. Must provide your complete name, email address, and any other information requested with the end of completing the signing up process.
-4. You are responsible of maintaining the security of your account and password. CLASSGAP will not be liable for the loss or damage consequence of the breach of this obligation. Agrees to not reveal your password to any third party and be the only responsible for any activity under your CLASSGAP account, even if said activities were not authorized. You will notify CLASSGAP immediately of any unauthorized use of your CLASSGAP account.
-5. Agrees to use the service only for legal matters and agrees to notuse it in any form which breaches the use or rights of other users.
+You grant to Tus Media a non-exclusive, royalty-free, worldwide, perpetual licence, for the maximum period of such rights under applicable law and through any medium, format or mode of exploitation, with the right to sub-licence, reproduce, distribute, transmit, create derivative works, display and publicly perform any CU or any other material or information (including ideas for improved or new products or services) that is communicated to Tus Media by any means and in any form, now known or later developed. However, in the event that we use your name, we will request your prior consent.
 
-The User will not be able to choose as a username or password words and/or expressions that, in general, are contrary to the law or generally accepted best practices, uses and costumes and, in general, words and/or expressions on which any right as to exclude its use by the User.
+You agree that you will have no recourse, directly or through third parties, against Tus Media for any alleged or actual infringement of any proprietary right by another User on classgap.com.
 
-The User may deactivate its registration at any time sending an email to support@classgap.com. The user acknowledges and agrees that CLASSGAP reserves the right to deactivate those registrations inactive for a period of time greater than 6 months.
+However, if you are the owner of intellectual and/or industrial property rights and you believe that any CU or other Content and/or materials included in CLASSGAP infringes them, you may notify Tus Media, without prejudice to any legal actions and rights that you may have against the alleged infringer.
 
-#### Behavior in the service:
+Please take into account that Tus Media will not be responsible for verifying the ownership of the CU incorporated by the Users to CLASSGAP.
 
-We reserve the right to deny providing service to any person for any reason and/or interrupt the service totally or in part at any time, with or without notice.
+### 5\. Content removal policy
 
-The use of the service is subject to all applicable regulations and you are the only liable for the content of your communications through the service. You agree to not download, share, send or distribute in any other form contents or apps that may infringe the current legislation or involve breaching any right of any part. Also are prohibited:
+Tus Media has established mechanisms to detect and remove from CLASSGAP any content that may be considered illicit, including but not limited to content linked to the undermining of personality rights, the infringement of any intellectual property rights, defamatory activities, the security of the services offered by the Teachers, incitement to hatred or terrorism, as well as any other content that, without being considered illicit, is not adequate or appropriate for CLASSGAP. In the event that Tus Media becomes aware of the existence of illicit content, we will proceed to analyse the request and, if necessary, proceed to its immediate removal.
 
-* The actions which constitute unauthorized or unsolicited advertising, among them, unwanted email or spam, chain letters, lottery or gambling.
-* The use of computer viruses or any other code, file or program which is designed or destined to interrupt, damage, or limit the operation of any software, hardware or telecommunications equipment, or damage or obtain unauthorized access to data or any other information of any third party.
-* Impersonate, interfere or interrupt the service, servers or networks connected to the services or interrupt the requirements, procedures, policies or regulations of networks connected to the services.
-* To register in more than one CLASSGAP account.
-* To contact a tutor or student for any other purpose different to book a lesson.
-* Acting as a member, contact and recruit other members to join third party services which are CLASSGAP’s competitors.
-* Use automated command sequences to gather information or interact with CLASSGAP.
-* Use CLASSGAP to find a tutor or student and later complete the reserve externally with the end of avoiding obligation of paying the fee for the CLASSGAP service providing.
-* Systematic retrieval of data or other contents of CLASSGAP to create, directly or indirectly, in single or multiple downloads, a data collection, either manually or by bots, sniffers or similar. Access, manipulate or use of non public areas of the website, computer systems of CLASSGAP or the technical delivery systems of its providers.
-* Any attempt to prove the vulnerability of any system or network of CLASSGAP or force in any way the security or authentication.
-* Fake or alter any TCP/IP header or other CLASSGAP information.
-* Attempting to decipher, decompile, disassemble our software.
-* Collaborate with a third party in doing any of the described conducts.
+If the Professor detects any kind of illicit or inappropriate content in CLASSGAP, we thank you for notifying us, without undue delay, through the following address: support@classgap.com. We will analyse the information or communication as soon as possible and, if necessary, we will remove it promptly. In the event that it becomes necessary, either because the information provided reveals indications or we become aware of the commission of any criminal or other offences, we will inform the competent authorities.
 
-CLASSGAP will have the right to investigate and denounce any of the described conducts, according to the law, also to collaborate with the authorities in the investigation of said actions. You acknowledge that CLASSGAP doesn’t have the obligation to control its access or use of CLASSGAP or to revise or edit the UC without prejudice of having the right to do it in order to operate, guarantee the compliance with the applicable terms and legislation, administrative, police or judicial requirements.
+In any case, in the event that we proceed to remove any illicit or inappropriate content from CLASSGAP, we will inform the User or the third party that has hosted such information, and they can oppose the decision to remove the content by Tus Media. Users or third parties will have a period of five 5 calendar days to exercise their right of opposition and present their allegations to Tus Media at the following address support@classgap.com. Once your allegations have been verified, Tus Media will proceed to respond to you as soon as possible, indicating the decision taken.
 
-CLASSGAP reserves the right to remove or disable the access to any collective content, at any time and without notice, if it considers that it may infringe the terms or damage the site, without prejudice that we generally don’t preview, control or edit the UC. We are not liable for any delay or failure to eliminate said content. You give consent for said elimination and waive any claim against CLASSGAP resulting from it. You can’t use your account to violate the security of another account or to obtain unauthorized access to another network or server. Some parts of the service could not be available for you or other authorized users. You won’t interfere with the use of the service by other persons. You agree that we can terminate without notice your subscription, account or other affiliation with the service in case of violation of the previous previsions.
+### 6\. Account Registration
 
-Due to quality and security reasons, lessons could be recorded. This content won't be spread, protecting the users appearing on it.
+In order to access some features of the Website and to book a Class you must register as a Teacher by creating an account ("CLASSGAP account").
 
-#### Image release of rights:
+You may register directly through classgap.com or by logging into certain social networking sites (SNS) as described below.
 
-User can insert its image in the user profile. In consequence, the User waives without exclusive character and worldwide to CLASSGAP who accepts, the right to use its image for its publication in the Site without the right of any remuneration.
+You may link your CLASSGAP account to a third party account by either: 1) providing Tus Media with your login information to the third party account through the Website; or 2) allowing Tus Media to access your third party account in accordance with the terms and conditions applicable to each third party account. In this regard, you represent that you are entitled to disclose your third party account information to Tus Media and/or give Tus Media access to it without violating the applicable terms and conditions of use and without obligating Tus Media to pay any fees. More information can be found at www.classgap.com/es/info/privacy. 
 
-CLASSGAP is authorized to carry the exploitation of the image of the Users in the form it considers convenient, even to decide not to perform it, without incurring in any right to compensation.
+Please note that your relationship with third party service providers is governed solely by your agreement with that provider. Tus Media will not review SNS Content for accuracy or legality and is not responsible for such Content.
 
-#### Tutors and students in the virtual classroom:
+We will create your CLASSGAP account based on personal information that you provide to us or that we obtain through an SNS. In this regard, you agree to provide accurate, current and complete information during the registration process and to update such information to keep it accurate, current and complete. Tus Media reserves the right to suspend or delete your CLASSGAP account and your access to the Website if the information provided during the registration process or afterwards proves to be inaccurate, outdated or incomplete. The following terms apply to your use of the service and any account you may create:
 
-These service conditions are additional to any agreement established between the tutor and the student. CLASSGAP won’t be able to control the fulfillment of these agreements, in particular: its content, truthfulness and legality, or the obligations of the parts. For this reason, you accept to waive to CLASSGAP and its agents of any responsibility, within the limits of the law. You acknowledge all the risks that may imply to attend to a lesson such as property damage, robbery, or even death.
+1\. You must be of legal age to use the service;
 
-#### Students, additional rules:
+2\. You must have a real identity corresponding to a person to open an account. Accounts registered by "bots" or other automated methods are not permitted;
 
-1\. You agree to accept all the terms and conditions, including the cancellation policy, when accepting to reserve a lesson;
+3\. You must provide your full name, email address, and any other requested information in order to complete the registration process.
 
-2\. The lessons in CLASSGAP are offered directly by tutors or academies. CLASSGAP is not responsible for the information contained in the profiles;
+4\. You are responsible for maintaining the security of your account and password. Tus Media will not be liable for any loss or damage arising from your failure to comply with this obligation. You agree not to disclose your password to any third party and to be solely responsible for any activities under your CLASSGAP account, even if you have not authorised such activities. You will immediately notify Tus Media of any unauthorised use of your CLASSGAP account.
 
-3\. The lessons offered in CLASSGAP are valid exclusively in the dates indicated. CLASSGAP is not responsible for the changes made by the tutor or academy;
+5\. Accepts to use the service only for lawful purposes and agrees not to use it in any way that infringes the use or rights of other Users.
 
-4\. You agree to follow the reasonable norms established by the tutor or academy regarding the lessons and to not take actions that can interfere with the tutor or academy or other student;
+The Teacher will not be able to choose as user name or password words and/or expressions that, in general, are contrary to the law or to the good practices, uses and generally accepted customs and, in general, words and/or expressions on which there is any right that excludes its use by the Teacher. The Teacher may deactivate his/her registration at any time by sending an email to support@classgap.com. The Teacher acknowledges and accepts that Tus Media reserves the right to deactivate inactive registrations for a period of time exceeding 6 months.
 
-5\. You agree to attend the lesson only with educational purposes and not with the purpose of copy any material or technique to use them in lessons or courses you or a third party are imparting;
+### 7\. Conduct of Service
 
-#### Tutors, additional rules:
+Tus Media reserves the right to refuse to provide the service to any User for any reason and/or to discontinue the service in whole or in part at any time, with or without notice. Your use of the Service is subject to all applicable laws and regulations and you are solely responsible for the content of your communications through the Service. You agree that you will not download, share, post or otherwise distribute any content or applications that may violate any applicable law or infringe any rights of any party. Also prohibited:
 
-By displaying your profile and services in CLASSGAP you:
+Actions that constitute unauthorised or unsolicited advertising, including but not limited to spam, chain letters, lottery or gambling.
 
-1\. Take all the responsibility for the content of the service offered;
+The use of computer viruses or any other code, file or programme that is designed or intended to interrupt, damage, or limit the functioning of any software, hardware or telecommunications equipment, or damage or obtain unauthorised access to data or other information of any third party.
 
-2\. Understand that it will be publicly offered to be viewed or to allow reservations;
+Do not use CLASSGAP for illegal or unauthorised purposes. Tus Media is committed to the fight against the dissemination of terrorist content.
 
-3\. Agree to accept the students in your lesson in agreement with the price and duration indicated in classgap.com and waive to deny inscription or assistance to any student for discriminatory or illegal reasons;
+Impersonate, interfere with or disrupt the service, servers or networks connected to the services or fail to comply with the requirements, procedures, policies or regulations of networks connected to the services.
 
-4\. Represent and warrant to be qualified and that you have the qualifications and other requirements needed to impart the lessons listed in the service and to always behave professionally, in compliance with the regulations;
+Contacting another Teacher or a Student for any purpose other than a Class through CLASSGAP.
 
-5\. Agree not to use information from your students for other purposes not related to the lessons, except previous consent of these;
+Acting as a Teacher, contacting and recruiting other Users to join third party services that are competitors of Your Media.
 
-6\. Agree that the students can rate the lessons taken. We cannot control said assessments and we are not responsible for the opinions that may include said assessments;
+Using automated scripts to collect information or interact with CLASSGAP.
 
-#### I'm a student, how can I pay?
+Use CLASSGAP to find a Student and then complete the reservation externally in order to avoid the obligation to pay the commission for the provision of CLASSGAP services.
 
-You can book a free 15 minutes lesson or pay for a complete lesson. Said payment will be made to CLASSGAP by credit card, PayPal or any other payment method enabled in your country.
+Retrieve data systematically or from other CLASSGAP Contents to create, directly or indirectly, in individual or multiple downloads, a collection of data, either manually or by means of bots, crawlers or similar. Access, manipulate or use non-public areas of the website, the computer systems of CLASSGAP or the technical delivery systems of its suppliers.
 
-If you are a holder of a debit/credit card, you can choose "Save card for future transactions" to avoid having to re-enter your details on.
+Any attempt to test the vulnerability of any system or network of CLASSGAP or violate any security or authentication measure.
 
-The data will be collected by the Classgap encrypted form and sent to Braintree, which handles elcetronic payment transactions externally.
+Collaborate with a third party to carry out any of the described conducts.
 
-Braintree, will store and treat such details independently.
+Tus Media will have the right to investigate and denounce any of the mentioned conducts, according to the law, as well as to collaborate with the authorities in the investigation of such actions. You acknowledge that Tus Media, has no obligation to control your access or use of CLASSGAP or to review or edit the CU without prejudice of having the right to do so in order to operate, ensure compliance with the terms and applicable legislation, administrative, police or judicial requirements.
 
-It's compulsory to pay the price of any confirmed reservation and authorize the charge of the corresponding amount to your PayPal account or to charge the amount to your credit card. Once confirmed that the reservation has been completed, you will receive a confirmation email.
+Tus Media reserves the right to remove or disable access to any Collective Content, at any time and without notice, if it considers that it may violate the terms or damage the Website, in accordance with the provisions of our Content Policy. We are not responsible for any delay or failure to remove such Content. You consent to such removal and waive any claim against Tus Media arising from such removal. You may not use your account to breach the security of another account or gain unauthorised access to another network or server. Some parts of the service may not be available to you or other Authorized Users. You will not interfere with other Users' use of the service. You agree that we may terminate without notice your registration, account or other affiliation with the service if you violate the above provisions.
 
-Remember that these payment methods can require that you remain subject to its terms and conditions, which are different from the ones in CLASSGAP.
+For quality control and security purposes only, Classes through CLASSGAP may be recorded. Should this occur, the recordings will be stored for these purposes for 12 months before being deleted. No recorded Content will be disseminated, thus protecting all Users who are part of it.
 
-Thereby, CLASSGAP will receive from the student the complete price of the lesson and later will later deliver it to the tutor, once deducting all applicable fees (CLASSGAP fee and, if applicable, from PayPal, bank, etc).
+### 8\. Transfer of image rights
 
-Thus, CLASSGAP acts as mere intermediary in this payment reception, not being responsible for the contract between the tutor and student. The tutor will be responsible for the quality of the classes as well as the student’s billing. CLASSGAP will not be responsible for the non-payment of the price of the lessons nor its refund. In this regard, it should be noted that, unless stipulated differently in other manner in this document, the price of the class will not be refundable.
+From the Website and/or the application, the Teacher may insert his/her image in his/her User profile. Consequently, the Teacher grants, on a non-exclusive and worldwide basis, to Tus Media, which accepts, the right to use his/her image for publication on the Website and/or the application without the right to any remuneration whatsoever. Tus Media is authorised to carry out the exploitation of the Users' image in any way it deems appropriate, including deciding not to carry it out, without this entailing any right to compensation whatsoever. All of the above is in accordance with the provisions of the applicable data protection regulations and Organic Law 1/1982, of 5 May, on the civil protection of the right to honour, personal and family privacy and one's own image.
 
-#### I'm a tutor, what's the service fee?
+### 9\. Additional Agreements between Teachers and Students
 
-Tutors will be who state the price of their lessons. In case a class is done, CLASSGAP will obtain a percentage of the sale price. Such percentage will vary depending on the booking is directly done through the tutor or through CLASSGAP's website and/or one of their affiliates:
+These Terms and Conditions are in addition to any agreements entered into between the Teacher and the Student. Tus Media cannot control the performance of these agreements, in particular: their content, their accuracy and legality, or the obligations of the parties. For this reason, you agree to release Tus Media and its agents from any liability, both direct and indirect, which may arise in this respect, to the fullest extent permitted by law.
 
-1. Through the Tutor: CLASSGAP will obtain a percentage of 10% of the price set by the tutor when the booking comes from their own channels, through a link provided to that effect.
-2. Through CLASSGAP or our affiliates: CLASSGAP will obtain a variable percentage depending on how many teaching hours the tutor has taught using CLASSGAP. Find below how it works:  
-      
-    
-    |     |     |     |     |
-    | --- | --- | --- | --- |
-    | Tutor | **New**  <br>up to 50 hours | **Professional**  <br>between 51 and 250 h. | **Star**  <br>more than 250 h.\* |
-    | Comission | 20% | 15% | 13% |
-    
-      
-    Unlike the New and Professional teachers whose commissions depend on number of lessons they've globally taught on Classgap, the Star teachers should teach a minimum of 250 lessons every year to maintain their commission.  
-    The total amount after applying the percentage should be higher than 1,25€. Otherwise, a minimum fee of 1,25€ per hour will be applied.  
-      
-    All of the above given percentages **include all the services offered by Classgap**, including:  
-      
-    1\. Student acquisition.  
-    2\. Student payment costs by: credit or debit card, Paypal...  
-    3\. Virtual classroom with all the available features.  
-    4\. Tutor payment costs: bank transfer or Paypal each month.
+### 10\. Additional Rules
 
-We reserve the right to modify at any time the service fees (or to start charging for free services) with the condition that such changes do not have retroactive character to the fees paid before the date of the change.
+When the Teacher teaches a Class in CLASSGAP:
 
-#### I'm a tutor, how and when will I receive my earnings?
+1\. Tus Media is not responsible for the information contained in his/her profile and the Teacher assumes all responsibility for the Content of the Class he/she offers.
 
-At the end of each month we will analyze how much you have earned. There are two posible scenarios:
+2\. Undertakes to offer Classes to Students in accordance with the price and Content indicated on classgap.com and waives the right to refuse to sell to any Student for discriminatory or illegal reasons.
 
-1. You have earned more than 50 euros: We will transfer your earnings at no cost by bank transfer (for CEE bank accounts) or Paypal.  
-    
-2. You have earned less than 50 euros: In this case we will keep your earnings until you reach this threshold.
-3. According to the [visibility level you chose](https://www.classgap.com/my/tutor/profile?tab=6), your profile will be more or less visible and other commissions will apply to the first class with each student.
+3\. You represent and warrant that you are qualified and have the necessary authorisations and other requirements to teach the Classes and that you will at all times act in a professional and compliant manner.
 
-This duality in the payment method is aimed for all the parts to save costs. Thus, if the tutor lives outside Spain the field to be filled out in CLASSGAP is the one for the PayPal account.
+4\. Commits not to use the information of their Students for a purpose other than to give them Class in the CLASSGAP Virtual Classroom, except with their prior consent.
 
-The tutor must be autonomous (freelance) and fulfill the obligations with IRS (generally it must bill with the IVA tax). However, CLASSGAP is not responsible for controlling the fulfillment of said obligations.
+5\. Accepts that the Students may rate their Classes. Tus Media cannot control these evaluations and will not be responsible for the Content of these opinions.
 
-#### Tutoring hour packages
+### 11\. Price of the service and promotional programmes
 
-Optionally, teachers may offer lower prices for class hours if the student contracts packages of hours in advance.
-
-Packages will be a minimum of 5 hours, and must be spent in 1 hour classes. All packages are valid for 6 months and are valid only with the selected teacher. Once the pack has expired, the tutor and the student will not be able to recover the amount of these classes.
-
-Once one or more classes of a package have been completed, no refunds will be made, except in those cases in which the teacher certifies that he or she cannot continue teaching.
-
-#### Free class 15 minutes
-
-Optionally tutors can offer students a 15 minute class. Students can book without any cost a 15 minute class to those tutors that have this option.
-
-* You can book up to 3 free classes per student.
-* A maximum of 1 free book with the same tutor.
-
-Teachers who want to offer a free 15 minute class must have Classgap APP installed on your device.
-
-#### What is my visibility level as a tutor ?
-
-Your profile visibility in the teachers grid depends on a several factors :
-
-* The visibility level you have selected from your personal area
-* The quality of your profile, as in the number of classes you have given on Classgap, the time it takes you to reply to messages or to accept a booking and the conversion rate from free interviews to chargeable classes
-* Your availabilities at that time. You will not appear the days you have marked as absent from your personal area
-
-#### Refund by complaints regarding quality of the lesson:
-
-When can a student ask for a full refund?
-
-1. When the class has not been done due to the abscence of the tutor.
-2. When the class is cancelled for any reason at least 8 hours before the scheduled time of the class.
-3. Within 24 hours after the class, when it’s your first class at Classgap and you feel unsatisfied.
-
-To ask for a full refund due to dissatisfaction, please send an email to support@classgap.com with your reasons and your personal information (name, surname, phone number and a copy of your ID) and we will contact you.
-
-If the student ask for a full refund, we reserve the right not to pay the class to the tutor.
-
-CLASSGAP acts merely as an intermediary between students and teachers and is therefore not responsible for any claims that may arise in respect of cancellations or refunds made, errors in them, or the teacher's decision not to make them when the class has been made. In the event that the student requests a refund of the price paid within 7 calendar days of booking the class, provided that there are more than 48 hours left to start the class, and the class has not been completed, CLASSGAP will study the reasons for this request and, if it considers them justified, may proceed to a refund, informing the teacher of the reasons for it.
-
-#### Links:
-
-The services or third parties can provide links to other websites. You acknowledge that CLASSGAP is not responsible for the availability and contents of said sites.
-
-#### Cookies Policy:
-
-Almacenamiento local de datos y tecnología similar
-
-#### Introduction to Cookies
-
-User trust is important to us, and therefore, at Classgap we care about protecting your privacy. An important aspect of this is to provide you with as much information as possible about how we use your personal data, including how we use local data storage and similar technology.
-
-#### What does local data storage, cookies and similar technology mean?
-
-Local data storage involves storing different types of data locally on your device through your web browser. Locally stored data may, for example, contain user settings, information about how you browse our websites, which web browser you use, what ads have been displayed, and similar behavior on websites with which we collaborate. Locally stored data may be used to customize the content and functions in our services so that your visits are more convenient and meaningful.
-
-One method of local data storage is cookies. Cookies are small text files that are stored on your device (PC, mobile phone or tablet) that allow us to recognize your web browser. Cookies contain information mainly about your web browser and any activity that has occurred on it.
-
-In addition to local data storage, we may use other similar technology, such as web beacons/pixel tags. This technology recognizes cookies and identifiers, and allows third parties to set cookies on your device. Web beacons can be used to determine which ads should be displayed in your web browser.
-
-In this document, the term "local data storage" is used as a collective term for cookies, web beacons and other similar technology.
-
-#### Why does Classgap use local data storage on its websites and apps?
-
-We use local data storage for a variety of purposes, such as: enabling us to perform our services; providing you with relevant, personalized content when you visit our websites; measuring and analyzing traffic to our websites; improving our services; and targeting specific advertising. Further details on these issues are given below.
-
-#### Who else uses local data storage on Classgap?
-
-We use local data storage ourselves, and allow our suppliers to use it when providing their services to us. These providers are subject to the agreements of data processors, and are not permitted to use the data for purposes other than providing the service we have requested.
-
-In addition to our own use, we also offer third parties the opportunity to use data storage on your device when you visit our services. We have developed strict guidelines on how third parties may collect and use data about our visitors. The guidelines indicate that data can only be used for clearly defined purposes.
-
-#### Application areas for local data storage:
-
-1. To deliver and adapt the services to your use.
-2. Local data storage is required and necessary in order to allow you to use our services, such as configuration information, which tells us how the services should be presented in your web browser.
-3. We also use local data storage to tailor our services to your best use. For example, to store settings to store information about the best video quality available for your web browser and the speed of the Internet, or to allow the use of special features, such as the option to store classified ads or retain previous searches and saved listings.
-4. To analyze and improve our services
-5. We use a variety of measurement tools that provide us with statistics and analyses relating to our services. These tools allow us to recognize the web browser over time and find out if the user has visited the website before and if so how often. These tools give us the possibility to get an overview of how many unique users we have and how they use our services.
-6. We also use the information we have collected and analyzed to develop and improve our cooperative services and services at Tus Media, for example, by finding out which services generate a lot of traffic or by seeing if a service is working optimally.
-7. Our advertising
-8. We use local data storage in connection with Classgap's advertising activities. This allows us to know if and how often the user has seen an ad or certain type of ad, and how long ago they saw it. We also use local data storage to build segments and target groups for marketing purposes and to target specific ads. You can read more about how target groups and segments are created in connection with advertising here: [http://www.youronlinechoices.com/uk/.](http://www.youronlinechoices.com/uk/)
-9. The following link includes didactic videos in video tutorial format that explain, step by step, how to configure the privacy options of the most common browsers, social networks and mobile operating systems:
-10. [https://www.agpd.es/portalwebAGPD/CanalDelCiudadano/protegetuprivacidad/index-ides-idphp.php](https://www.agpd.es/portalwebAGPD/CanalDelCiudadano/protegetuprivacidad/index-ides-idphp.php)
-11. We also use local data storage on other websites in connection with Classgap advertising when the user has visited other websites on which we advertise, as well as local data storage set up by other players. This provides us with information about, for example, which website the user visited before visiting our portals and allows us to target our advertising based on this information. For example, we may display travel ads if the user recently visited an airline's website. The information we collect through local data storage does not contain directly identifiable data. We receive information about which pages you visited, but not about who the user is.
-12. Third Party Advertising
-13. As on other commercial websites, Classgap's services also include advertisements provided by other players. Most actors use local data storage. Local data storage is used to find cookies or anonymous identifiers on your device to find out which ads should be displayed or which ads have been displayed on your web browser. Local data storage is also used to measure the effect of ads by measuring how many users clicked on a specific ad and how many actually completed a purchase. We do not allow this data to be linked directly to the user you. Classgap has the ability to read data from third-party cookies such as these.
-14. These companies may use local data storage to target specific advertisements on other websites based on your visit to Classgap . You can learn more about this type of advertising here: [http://www.youronlinechoices.com/uk/helpful-videos/.](http://www.youronlinechoices.com/uk/helpful-videos/)
-
-#### How can I manage locally stored data?
-
-You can adjust the settings in your web browser or use special programs that have been developed to manage cookies.
-
-The settings in your web browser usually display a list of all cookies that have been stored to provide you with an overview and, if you wish, to remove unwanted cookies. Normally, you can indicate that you accept the storage of cookies from the websites you visit or from third parties affiliated with those websites. You can also choose to be notified each time a new cookie is stored. Guidance on how to do this in different web browsers is provided below. Your web browser normally stores cookies in a specific folder on your hard drive, so that you can also browse the content in more detail.
-
-Classgap has also prepared a list of the main forms of local data storage available on our website and more details on their purpose. The list is available below under'Overview of the technology we use'.
-
-However, the cookies that are present on the website change frequently, and not all cookies are equally important. Classgap will therefore regularly update the list of which cookies are available.
-
-AIn addition, services are available that have been specially developed to provide users with an up-to-date list of cookies and other tracking mechanisms. See an example here: [http://www.disconnect.me](http://www.disconnect.me/).
-
-Please note that disabling cookies from Classgap may prevent our websites from functioning properly. For example, you may need to log in each time you visit us.
-
-Below is a summary of how locally stored data can be managed in different web browsers. Please note that this process may change and that the descriptions given here may not be up to date.
-
-#### a. Cookie management in Google Chrome
-
-How to delete cookies:
-
-1. Go to Settings in your browser menu.
-2. Click Show advanced settings.
-3. Click Delete Navigation Data.
-4. Select the time period for which you want to delete the information from the menu at the top. If you want to delete all cookies in your browser, click Since the beginning of time.
-5. Tag Cookies and other site and add-on data.
-6. Click Clear Navigation Data.
-7. Close the window.
-
-How to prevent cookies from being stored in your web browser:
-
-1. Go to Settings in your browser menu.
-2. Click Show advanced settings, and then click Content settings.
-3. Under Cookies, select your preferred option. If you want to prevent all cookies from being stored, click Do not allow site data to be saved.
-4. Click Done.
-5. Close the window.
-
-#### b. Managing Cookies in Safari
-
-How to delete cookies:
-
-1. Go to Preferences in your browser menu.
-2. Click the Privacy tab.
-3. Click Delete all data from websites, and then click Delete to delete all cookies.
-4. Close the window.
-
-How to prevent cookies from being stored in your web browser:
-
-1. Go to Preferences in your browser menu.
-2. Click the Privacy tab.
-3. Under Cookies and website data select your preferred option. If you want to prevent all cookies from being stored, click Always block.
-4. Close the window.
-
-#### c. Cookies management in Mozilla Firefox
-
-How to delete cookies:
-
-1. Go to Options in your browser menu.
-2. Click the Privacy tab.
-3. Click Show Cookies.
-4. Select the cookies you want to delete and click Delete selected. Click Delete All if you want to delete all cookies in your web browser.
-5. Close the window. Any changes you have made will be automatically saved.
-
-How to prevent cookies from being stored in your web browser:
-
-1. Go to Settings in your browser menu.
-2. Select the Privacy tab.
-3. Under History, click Use a custom setting for history.
-4. Select your preferred options in Allow website cookies. If you want to prevent all cookies from being stored, clear the Accept cookies from websites check box.
-5. Close the window. Any changes you have made will be automatically saved.
-
-#### d. Management of cookies in Internet Explorer
-
-How to delete cookies:
-
-1. Go to Tools (sprocket icon) in your browser menu.
-2. Click Internet Properties.
-3. On the General - Navigation History tab, click Delete.
-4. Be sure to check the Cookies and website data option.
-5. Click Delete.
-6. Click OK.
-
-How to prevent cookies from being stored on your web browser:
-
-1. Go to Tools (sprocket icon) in your browser menu.
-2. Click Internet Options, and then click the Privacy tab.
-3. Move the slider bar to the desired level. If you want to prevent all cookies from being stored, select the Block all cookies level.
-4. Click OK.
-
-#### e. Cookies management in Opera
-
-How to delete cookies:
-
-1. Go to Settings in your browser menu.
-2. Select the Privacy and Security tab.
-3. Click Cookies, and then click All cookies and website data.
-4. Select the cookies you want to delete and click Delete. Click Delete All if you want to delete all cookies in your web browser.
-5. Click Done.
-6. Close the window.
-
-How to prevent cookies from being stored on your web browser:
-
-1. Go to Settings in your browser menu.
-2. Select the Privacy and Security tab.
-3. Under Cookies, select your preferred option. If you want to prevent all cookies from being stored, click Don't allow site data to be saved.
-4. Close the window.
-
-#### How can I control what information is sent to advertisers?
-
-If you want to control what information is sent to advertisers, you can download an opt-out cookie from different advertisers or use alternative solutions. Note that you must follow the same process for each device you use, and for each web browser on your devices.
-
-#### Contact information
-
-SIf you have any questions regarding the use of local Classgap storage, please [contact us](https://www.classgap.com/en/contact-us).
-
-#### Overview of the technology used by Classgap
-
-  
-  
-**REQUIRED COOKIES**  
-
-|     |     |
-| --- | --- |
-| CG\_UI | Own cookies of different applications |
-| CG\_LS | Own cookies of different applications |
-| CG\_PC | Own cookies of different applications |
-| CG\_UI | Own cookies of different applications |
-| CG\_LS | Own cookies of different applications |
-| CG\_PC | Own cookies of different applications |
-| CG\_GA | Own cookies of different applications |
-| CG\_AL | Own cookies of different applications |
-| CG\_AR | Own cookies of different applications |
-| CG\_CO | Own cookies of different applications |
-| CG\_CU | Own cookies of different applications |
-| CG\_OR | Own cookies of different applications |
-| CG\_ORF | Own cookies of different applications |
-| CG\_UU | Own cookies of different applications |
-| cfg | Own cookies of different applications |
-| TCP\_Pass | Own cookies of different applications |
-| ASP.NET\_SessionId | Own cookies of different applications |
-| cfg | Own cookies of different applications |
-
-  
-  
-**THIRD PARTY COOKIES**  
-
-|     |     |
-| --- | --- |
-| \_\_gads | Used to serve advertising on certain pages |
-
-  
-  
-**ANALYTICAL COOKIES**  
-
-|     |     |
-| --- | --- |
-| \_\_utma | Cookies used by Google Analytics |
-| \_\_utmb | Cookies used by Google Analytics |
-| \_\_utmc | Cookies used by Google Analytics |
-| \_\_utmz | Cookies used by Google Analytics |
-
-#### Waiver of guarantees and liability:
-
-CLASSGAP waives any kind of liability that can be produce in consequence of, for example but not limited to, actions or omissions in the premises, the lesson, their quality and content, or the opinions of tutors/academies.
-
-The service and all the materials included in the same may include errors and may not be up to date.
-
-Through this service you can make commercial transactions with other users. You acknowledge that said transactions are made under your own risk. Any guarantee offered through the site will be offered exclusively but the third party and not by CLASSGAP or its agents.
-
-You accept that we don’t assume any liability for the delay, deletion, wrongful delivery, or failure to save communications with the users or personal configurations.
-
-CLASSGAP will not be guarantor of any member or premises, nor confirms the truthfulness of the information entered, for which in case of dispute, you must claim exclusively and directly to the member or premises.
-
-CLASSGAP doesn’t assume any responsibility over the Contents entered by the Users. The User who enters a content which violates any national or international current law, will answer for the damages and losses derived of said infraction, exempting CLASSGAP of any liability.
-
-CLASSGAP doesn’t grant any guarantee nor is responsible, in any case, of the damages and losses of any nature that could be derived of the access or use of the Contents or the Website. Among others, and as example but not limited to, CLASSGAP is not liable for the following circumstances:
-
-* Lack of availability, maintenance and effective functionality of the Website and/or its Services or Contents, excluding, to the fullest extent allowed by current law, any liability for damages and losses of all nature that may be due to the lack of availability or continuity of the Website function and the Contents enabled in the same.
-* Lack of utility of the Website or the Contents for any activity.
-* Of the contents of other sites in the Internet to which could redirect the links placed in the Website.
-* Presence of virus, malicious or harmful programs in the Contents.
-* Reception, procurement, storage, broadcast or transmission, by the Users, of the Contents.
-* Illicit, negligent, fraudulent use, contrary to the terms in the present General Conditions, or good faith, of the Website or its Contents, by the Users.
-
-CLASSGAP excludes any responsibility for the damages and losses of any character, including the loss of profit, which could be because of the services provided by third parties through the Website as well as the means they enable to manage the service requests, and specifically, as example but not limited to: the acts of unfair competence and false advertisement, as the lack of truthfulness, exactitude, completeness, vices, defects, relevance and/or currency of the contents provided, storage, received, made available or accessible through the services provided by third parties through the Website.
-
-The user will be liable for the damages and losses of any nature that CLASSGAP could suffer in consequence of the breach of any of the obligations to which they are subjected in virtue of the current General Conditions of Use or the Law in relation with the Usage of the Website.
-
-CLASSGAP will not be responsible of the opinions entered by the Users through the Website or other means of participation or opinion or for the damages and losses that could be derived of said opinions.
-
-#### Request for teacher cancellation
-
-Although any Teacher may request to cancel at any time, in the event that he/she has students with paid classes pending at Classgap, these may be deducted from the accumulated amount he/she has in his/her favour.
-
-#### Compensation:
-
-You agree, in case of breaching the terms and conditions or any other document, to keep CLASSGAP and its agents’ exempt of any claim or expense (including attorneys’ fees and costs) derived.
-
-#### Data Protection:
-
-CLASSGAP informs that it will treat the data of personal character by the terms expressed in the Data of Personal Character Protection Policy of the Website that the User can find under the following URL: _https://classgap.com/en/info/privacy_
-
-#### Language:
-
-We can translate these service conditions, our privacy policy, or any other operational, politic or procedure standard that could be published in the site. The Spanish version will be the one prevailing in case of conflict.
-
-#### Duration:
-
-The duration of the provision of the Website Service and of the Contents is indefinitely.
-
-#### Controlling Law and Jurisdiction:
-
-The terms, conditions and other documents of CLASSGAP will be ruled by Spanish legislation. In case of conflict, the relevant courts will be those in Barcelona.
-
-These terms, in conjunction with the privacy policy and other governing documents constitute the complete agreement between you and CLASSGAP. The invalidity of any document imposed by a court will not affect the remaining provisions.
-
-That in certain cases CLASSGAP doesn’t follow the provisions gathered in this document shall not be considered as a modification thereof. CLASSGAP may transfer the rights and obligations derived of these provisions to a third party, at any time.
-
-The majority of the communications between you and CLASSGAP will be made electronically. You agree that said communication has the same validity as a written communication, provided permitted by law.
-
-#### Intellectual Property and Conditions of Service in Classgap Courses
-
-The intellectual property rights of the courses that users incorporate to Classgap, be they videos, photographs, texts or others, will always belong to their authors and/or producers.
-
-Without prejudice to the foregoing, through this clause, users assign to Classgap, on a non-exclusive basis, for the maximum time permitted by intellectual property law, and with worldwide territorial scope, the rights of exploitation on the content incorporated, and in particular the rights of reproduction, public communication, and making available to the public over the Internet, transformation, especially to translate texts into other languages and adaptation of the content to the audience of Classgap; and distribution of photographs, texts, videos or any other content that is subject to protection under current intellectual property legislation, for the sole purpose of being exposed and communicated to this website or any of the company.
-
-They also authorize Classgap to proceed with the modification of texts and other content, in order to adapt them as required by the specifications and technical requirements of the Web site.
-
-Classgap offers its users the possibility that the content uploaded to the website, are shared and displayed on Facebook, LinkedIn, Twitter, Pinterest and other social networks.
-
-The author can modify and delete the content whenever he wants, although it is understandable that if he has previously ceded rights to other users/co-teachers, such users, whether students or co-teachers, have the right to exploit that content indefinitely and the content will be present on the platform for use.
-
-By creating a course on Classgap, you confirm that all content has been created by you and does not infringe any intellectual property law. In case of using material that comes from other sources it is the responsibility of the author of the course who has all the licenses and permissions that allow the legal use of these materials. Classgap is not responsible, nor will it verify that the material has the necessary permissions and the responsibility will fall on the author if it turns out that some law of intellectual property has been infringed.
-
-#### Service Price and Promotion Programs
-
-Price and conditions in direct sale of courses. In consideration of the provision of services, Classgap will charge a commission to users "Teachers" who generate paid content. This commission will consist of an initial percentage of 5% and successive sales of the same course, the commission corresponding to the level of teacher you have on the platform at that time:
+Price and conditions in direct sale of courses. In consideration for the provision of services, CLASSGAP will charge a commission to the "Teachers who generate paid content. Said commission will consist of an initial percentage of 5% and in successive sales of the same course, the commission that corresponds to you according to the level of Teacher that you have in CLASSGAP at that moment:
 
 Your level can be:
 
-There are 3 levels of teacher, depending on the number of hours spent in Classgap:
+There are 3 levels of Teacher, depending on the number of hours completed in CLASSGAP:
 
-* **New Teachers** (accumulate less than 50 hours of class)Receive 80% of the amount of each class.
-* **Professional Teachers** (accumulate more than 50 hours of class) They receive 85% of the class amount.
-* **Star Teachers** (more than 250 hours of class over the last year) They receive 87% of the amount of each class.
+New Teachers (accumulate less than 50 Class hours) Receive 80% of the amount of each Class.
 
-#### Assignment of intellectual property rights.
+Professional Teachers (accumulate more than 50 hours of Class) Receive 85% of the Class fee.
 
-By enrolling in a course, you are assigning full use to students enrolled for personal but not commercial purposes. In case of observing copyright infringement in the registered students, you can inform us but if you want to report it you will have to report it to the competent authorities.
+Star Teachers (more than 250 hours of classes in the last year) receive 87% of the amount of each class.
 
-#### Co-professor and assignment of intellectual property rights.
+### 12\. I am a teacher, how much does the service cost?
 
-Authors of Classgap courses automatically transfer their courses for use to other teachers of the platform in exchange for a financial compensation to be defined later and will be notified to the authors of the courses.
+You can set the price you want to receive per hour of class given. Tus Media will charge the fixed price with a percentage that varies depending on whether the contract is made through the Teacher or through the CLASSGAP Website and/or distributors contracted by Tus Media and/or affiliates.
 
-Updated: February 20th 2020
+1\. Through the Teacher: Tus Media will charge the price set by the Teacher with a 10% intermediary commission in the event that the booking is made through its own channels, via a link provided for this purpose.
+
+2\. Through Tus Media or affiliates: Tus Media will charge a variable percentage as intermediation commission depending on the total number of hours carried out by the Teacher in CLASSGAP. You can consult the percentage in the following table:
+
+Unlike the New and Professional Teacher, which are based on the overall number of hours in CLASSGAP, the Star Teacher is linked to the completion of a minimum of 250 hours in the last calendar year. The value of applying this percentage must be higher than 1.25€. If it is not, the minimum of €1.25 per hour will be applied. The above percentages include all costs and services offered by CLASSGAP, including:
+
+1) Student Recruitment: we take care of finding you new students to teach.
+
+2) Charge management costs by: debit or credit card, Paypal.
+
+3) Payment security: we assure you that you will be paid for all the classes given.
+
+4) Use of the CLASSGAP Virtual Classroom where you can carry out the Classes, as well as monitoring and assessment tools.
+
+5) Payment management costs: bank transfer or Paypal.
+
+3\. Depending on the level of visibility you have chosen, your profile will be more or less visible and other fees will be applied to the first Class with each Student.
+
+We reserve the right at any time to change the commission for services (or to start charging for free services) provided that such changes are not retroactive to charges paid prior to the time of the change.
+
+### 13\. I am a teacher, when and how will I receive the amount of my classes?
+
+At the end of each month we will analyse the amount you have accumulated from classes taken more than 24 hours ago. There are two scenarios depending on the amount you have accumulated:
+
+1\. You have accumulated more than 50 euros: We will make before the end of the month and free of charge an automatic transfer to your bank account (for EEC accounts) or to your Paypal account.
+
+2\. You have accumulated less than 50 euros: In this case we will keep the amount until the month you reach 50 euros.
+
+This duality in the method of payment is intended to save costs for all parties. Therefore, if the teacher resides outside the EEC countries, he/she must have set up a Paypal account in CLASSGAP to facilitate such payments.
+
+The Teacher must comply with their tax and other obligations arising from the sale of their courses. However, Tus Media is not responsible for monitoring compliance with these obligations.
+
+### 14\. What is my level of visibility as a tutor?
+
+The visibility of your profile in the tutor grids depends on several factors:
+
+The level of visibility selected from your personal area.
+
+The quality of your profile, i.e. the number of Lessons conducted in CLASSGAP, your approval and message reply time, your conversion rate from free to paid Lessons.
+
+Your current availability. You will not appear on the days you have marked as absent from your personal area.
+
+### 15\. Packages of tutoring hours
+
+Teachers may optionally offer reduced tuition hour prices if the Student contracts packages of hours in advance.
+
+Packages will be for a minimum of 5 hours, and must be spent on 1 hour lessons. All packages are valid for 6 months, and are valid only with the selected Teacher.
+
+Once one or more classes of a package have been completed, no refunds will be given, except in cases where the teacher certifies that he/she is unable to continue teaching.
+
+### 16\. 20 min free trial lessons
+
+Teachers may optionally offer students a 20-minute test. Students may book a 20-minute test free of charge with those teachers who have this option.
+
+A maximum of 3 simultaneous free bookings can be made per student.
+
+A maximum of 1 free booking with the same teacher.
+
+### 17\. Cancellations and Refunds
+
+The Student may request a full refund of the Class when:
+
+1\. The Teacher refuses to conduct the Class.
+
+2\. The teacher does not show up at the agreed date and time.
+
+3\. The Class is cancelled up to 8 hours before its scheduled start date.
+
+4\. Within 24 hours of the Class taking place, when it is your first CLASSGAP Class and you are not satisfied with the Class received.
+
+Within these conditions, the deadline for requesting a refund will be 30 days. 
+
+After the first 30 days of purchase, no refund will be accepted, having the sole and exclusive option of refund in the form of a credit balance with a validity period of 12 months. 
+
+The validity period for using the balance is 12 months. 
+
+In the event that a student requests a full refund, CLASSGAP reserves the right not to pay the teacher for the class.
+
+Tus Media, acts as a mere intermediary between the Students and the Teachers and is therefore not responsible for any claims that may arise in respect of cancellations or refunds made, errors in the same, or the Teacher's decision not to make them when the Class has taken place. In the event that the Student requests a refund of the price paid within 7 calendar days of booking the Class, provided that there are more than 48 hours left until the Class begins, and the Class has not taken place, Tus Media will study the reasons for the request and, if it considers them to be justified, may proceed with the refund, informing the Teacher of the reasons for the refund.
+
+### 18\. Affiliated companies
+
+By accepting these General Conditions of Use, or, if you are an active customer, if you request a new service through the Platform, you agree that Tus Media, as data controller, may communicate your personal data (identification data, telephone number, e-mail address and any other information provided in your public profile, such as the subjects you teach or your curriculum vitae, if any) to GoStudent GmbH and its affiliates listed here, so that these entities may send commercial communications by telephone and/or e-mail.
+
+You may withdraw your consent at any time by writing to the postal address of Tus Media (Calle Pallars 3-5 Edificio B, 3-2, 08402 Granollers, Spain) or to the e-mail address privacidad@tusmedia.com.
+
+### 19\. Links
+
+The services or third parties may provide links to other websites. You acknowledge that Tus Media is not responsible for any links belonging to a third party website, nor shall it guarantee the technical availability, quality, veracity and/or legality of any material, content or information contained in such hyperlinks or other Internet sites. The inclusion of these links does not imply any type of association or participation with the linked entities.
+
+### 20\. Cookie Policy
+
+Teachers can access Tus Media's Cookie Policy via the following link Cookie Policy: www.classgap.com/es/info/cookies.
+
+### 21\. Exclusion of guarantees and liability
+
+Tus Media will not be liable in case of (i) any direct and/or indirect, consequential and/or punitive losses and/or damages, as well as of any other nature, caused to the Users or third parties derived from the services, as well as, from any other activities, direct or indirect, developed by and/or through CLASSGAP; (ii) loss of business; (iii) loss of commercial reputation; (iv) loss of any data for which the Users are responsible, as well as, in any case, (v) Tus Media shall not be liable for damages of any kind, including loss of profits, which may be due to the services provided by Tus Media or third parties through the Website or any of its applications, as well as the means that they provide to manage service requests.
+
+Tus Media shall not be liable for any delay or failure to comply with its obligations under these Terms and Conditions if such delay or failure to comply is attributable to circumstances beyond the reasonable control of Tus Media. For the provision of the services offered by the Teachers, the Company assumes no liability whatsoever.
+
+Tus Media disclaims any liability of any kind that may arise as a result of, but not limited to, actions or omissions, in the Classes, their quality and Content, or the opinions of the Teachers. The Service and all materials included in the Service may contain errors and may not be up to date. Through this Service you may engage in commercial transactions with other Users. You acknowledge that such transactions are at your own risk. Any warranties provided through the site are provided solely by the third party and not by Tus Media or its agents. You agree that we assume no responsibility for the delay, deletion, mis-delivery, or failure to store User communications or personal settings. Tus Media does not vouch for any User, nor does it confirm the accuracy of the information provided, so in the event of a dispute, you must claim exclusively and directly from the User. Tus Media assumes no responsibility whatsoever for the Content inserted by Users. Any Teacher who inserts content that infringes any national or international legislation in force shall be liable for any damages arising from such infringement, exempting Tus Media from any liability. Tus Media does not grant any guarantee nor is it responsible, under any circumstances, for damages of any kind that may arise from access to or use of the Content or the Website. Amongst others, and by way of example and without limitation, Tus Media is not responsible for the following circumstances:
+
+Lack of availability, maintenance and effective functioning of CLASSGAP and/or its Services or Contents, excluding, to the maximum extent permitted by the legislation in force, any liability for damages of any nature that may be due to the lack of availability or continuity of the functioning of the Web Site and the Contents enabled in the same.
+
+Lack of usefulness of the Website or the Contents for any activity.
+
+The content of other Internet pages to which the links placed on the Website may lead.
+
+The comments, assessments and/or evaluations made by the User through the Website, as well as the comments, assessments and/or evaluations that may be made by the Teachers; therefore, Users undertake to hold Tus Media harmless for any claim that the latter may receive from any third party or administration derived from such events.
+
+Existence of computer viruses, malicious or harmful programmes, breakdowns or other elements that may cause alterations to the computer system, documents, Contents and/or files of Users.
+
+Reception, obtaining, storage, dissemination or transmission, by the Users, of the Contents.
+
+A bad use that the User can make of CLASSGAP, as well as, of any other errors committed by him/her.
+
+Illegitimate intromissions caused by third parties, which are beyond the control of CLASSGAP.
+
+Illicit, negligent, fraudulent use, contrary to the terms of the present Terms and Conditions, or to the good faith, of CLASSGAP or its Contents, by the Users.
+
+The unavailability of any service offered through the Website or any applications related to CLASSGAP regardless of the cause.
+
+The legal non-compliance or infringement of rights derived from the data or contents of third parties that Tus Media transmits or stores, in its condition as a provider of intermediation services of the information society.
+
+CLASSGAP assumes no responsibility whatsoever in connection with the relationship established between the Teacher and the Student, as it only performs an intermediary function, without intervening either directly or indirectly in the relationship maintained between the Users.
+
+Tus Media excludes any liability, including but not limited to: for acts of unfair competition and illegal advertising, as well as the lack of truthfulness, accuracy, completeness, vices, defects, relevance and/or timeliness of the Contents disseminated, stored, received, made available or accessible through the services provided by third parties through CLASSGAP. The Teacher will be liable for damages of any nature that Tus Media may suffer as a consequence of the non-fulfilment of any of the obligations to which it is subject by virtue of these Terms and Conditions or the Law in relation to the use of the Website. Tus Media will not be responsible for the opinions expressed by Users through CLASSGAP or other participation or opinion tools, nor for any damages that may arise from such opinions.
+
+Tus Media is not responsible nor does it guarantee to the Users, nor to any third party, that the information that appears in CLASSGAP adjusts to the purposes required by the Users. To the extent permitted by applicable law, the services are provided as indicated in these Terms and Conditions and Tus Media is not responsible for, and makes no representations, warranties or guarantees regarding the operation, merchantability, fitness for a particular purpose, accuracy, completeness and correctness of the services.
+
+The Teacher assumes full responsibility and holds Tus Media harmless for any failure to comply with any regulatory or administrative obligations necessary for the provision of the Teacher's services, such as, for example, obtaining any required qualifications.
+
+### 22\. Teacher cancellation request
+
+Although any teacher can request cancellation at any time, in the event that they have students with paid classes pending in CLASSGAP, these may be deducted from the accumulated amount that they have in their favour.
+
+### 23\. Processing of claims
+
+CLASSGAP makes available to the Teachers the following e-mail support@classgap.com to process their claims. These will be processed by CLASSGAP within a reasonable period of time and will be treated in a proportionate manner in relation to their importance and complexity.
+
+### 24\. Indemnification
+
+You agree, in case of violating the terms and conditions or any other document, to hold Tus Media and its agents harmless from any claim or expense (including attorney's fees and costs) arising therefrom. You release Tus Media from any liability and agree to indemnify and hold Tus Media and its affiliates (and their directors, officers, employees and agents) harmless from any claims arising out of or relating to (a) any services, any infringement of intellectual property rights by any of the foregoing, and any personal injury, death or property damage; or (b) any taxes due, payable or unpaid as a result of the provision of the services.
+
+### 25\. Data protection
+
+CLASSGAP informs you that it will treat the personal data in the terms expressed in the Policy of Protection of Personal Data of the Web Site that the Teacher will be able to find under the following URL: www.classgap.com/es/info/privacy
+
+### 26\. Language
+
+We may translate these terms of service, our privacy policy, or any other operating rules, policies or procedures that may be posted on the site. The English version shall prevail in the event of any conflict.
+
+### 27\. Termination and Termination of Terms and Conditions
+
+The duration of the provision of the CLASSGAP service and of the Contents of indefinite character.
+
+The Teachers will be able to unsubscribe at any time through support@classgap.com. Upon cancellation, the contractual relationship derived from the present Terms and Conditions will cease to have effect (except for those clauses that can be deduced to be effective even after the termination of the contract).
+
+If Tus Media decides to terminate the provision of all of its online intermediary services with a Teacher, Tus Media will provide the Teacher via email at least thirty (30) calendar days before the termination takes effect, a statement of the reasons justifying the decision.
+
+In the event of termination, Tus Media will offer the Teacher the opportunity to clarify the facts and circumstances causing the termination via support@classgap.com. If the termination is revoked by Tus Media, Tus Media will reinstate the Teacher without undue delay.
+
+Tus Media may terminate or suspend the service in cases of breach of these Terms and Conditions by Teachers. By way of example and not limitation, the following conducts will be considered breaches of the Terms and Conditions: (i) Make inadequate or fraudulent use of CLASSGAP in any way infringe the intellectual property rights of the same that correspond to Tus Media or the Students; (ii) Use CLASSGAP for purposes not permitted by the applicable norms or laws or by these Terms and Conditions; and/or among others, (iv) any breach of the present Terms and Conditions and/or any specific conditions of use. In such cases. Tus Media will provide the affected Teacher, without undue delay, with a statement of the reasons justifying the decision, unless Tus Media is subject to a legal or regulatory obligation not to indicate the specific facts or circumstances or reasons that have caused it, or, in the event of termination of the service for repeated breach by the Teacher of the Terms and Conditions, provided that Tus Media can demonstrate such breach.
+
+### 28\. Mediation Procedure
+
+The Teachers freely and voluntarily agree that any dispute, disagreement or litigation arising out of or in connection with these Terms and Conditions shall be resolved through a mediation procedure. In any event, at least two mediators shall be appointed to resolve the dispute.
+
+This mediation procedure is voluntary, and shall be without prejudice to the right of Tus Media and the Teachers concerned to initiate legal proceedings at any time during, before or after the mediation procedure.
+
+### 29\. Applicable law and jurisdiction
+
+The terms, conditions and other documents of CLASSGAP will be governed by Spanish law. In case of dispute, the competent courts will be those of Barcelona.
+
+These terms, together with the privacy policy and other governing documents constitute the entire agreement between you and Tus Media. The invalidity of any document decreed by a court shall not affect the remaining provisions. Tus Media's failure in certain cases to follow the provisions contained herein shall not be deemed a modification thereof. Tus Media may assign its rights and obligations under these provisions to a third party at any time. Most communications between you and Tus Media will be made electronically. You agree that such communication shall be as valid as a written communication, to the extent permitted by law.
+
+Terms and Conditions for Students
+---------------------------------
+
+These Terms and Conditions regulate the access and use of the website classgap.com ("Website") by students, as well as its services and applications (the Website, services and applications shall be referred to collectively as "CLASSGAP"), owned by TUS MEDIA, S. L. ("Tus Media"), with NIF B-65640930, registered in the Mercantile Register of Barcelona: Volume 42792, Folio 111, Page B413067, and registered office at Pallars 3-5 Edificio B in Granollers, Barcelona (Spain). Thus, in order to visit classgap.com, or use its services or applications, you must first expressly accept, as a student, the following terms and conditions ("Terms and Conditions"). Please note that certain classgap.com services may have different or additional terms and conditions, for example Classgap for Business or the Featured Teacher service, so in the event of a conflict between these terms and the terms of those services, the latter shall take precedence, unless a complementary interpretation of both Terms and Conditions is possible.
+
+### TERMS
+
+"Content": Are the texts, graphics, images, music, software (excluding the application), audios, videos, information or other materials that are collected in CLASSGAP.
+
+"Users": are the persons that satisfactorily complete the account registration process in CLASSGAP, as described below in section 6 "Account Registration". There are two types of Users: Students and Teachers.
+
+"Students" are Users who receive an online class through CLASSGAP.
+
+"Teachers" are Users who offer online classes or tutoring services through CLASSGAP. They are responsible for the content and price of the Class.
+
+"Classes": is the Content given by the Teachers in CLASSGAP and/or distributed, sold or bought through CLASSGAP.
+
+"Courses": training unit created by teachers formed by hours of class, content and individual work used to communicate and transmit certain knowledge, studies, instructions among others, to a certain number of people called students or pupils.
+
+"Taxes": all those state, autonomous or local taxes that may be applicable in those territories where the service is understood to be provided.
+
+"Software": is all that software that is available in CLASSGAP or that has been provided in another way by CLASSGAP. It will be considered as part of the "Services" from here on.
+
+"User Content ("CU")": is the content sent by the Users (including among others, private conversations, documents uploaded to the classroom, videos, elements shown in screen sharing and any public area of the service).
+
+"Virtual Classroom": is the CLASSGAP area where Students and Teachers meet in order to receive and teach respectively the class. In it the Users have access to video, audio, chat, virtual whiteboard, online text editor and screen sharing. Some features may not be available for free classes.
+
+### 1.Description of the Service
+
+The CLASSGAP service allows Students to find and register for Classes that may be of interest to them, and Teachers to offer their tutoring services online, as well as making available resources for their implementation, including online payment and User registration, or allowing Teacher and Student evaluation. All Classes will be taught in the Virtual Classroom of classgap.com.
+
+### 2\. Intellectual Property
+
+2.1. Licences and downloading of Software
+
+All intellectual and industrial property rights and other property rights over CLASSGAP, including, but not limited to, the Website, the Software and/or the Contents are the exclusive property of Tus Media, its affiliates and/or authorised third parties, therefore Users will abstain from registering in their name or through a third party any intellectual property work, patents, brands and other distinctive signs related to CLASSGAP.
+
+Nothing in these Terms and Conditions can be interpreted as a transmission of the Intellectual Property rights of Tus Media related to CLASSGAP. Therefore, it is expressly prohibited for Users to carry out any act of reproduction, distribution, public communication or other forms of making available, transformation and, in general, any other form of exploitation of any Content, information, Software and/or materials, among others, owned by Tus Media that Users may access through the Website, or any of its applications, whether in whole or in part, unless expressly authorised in writing by the owner of said rights.
+
+Tus Media may grant personal, non-transferable, non-sublicensable, revocable, revocable, limited duration, non-exclusive licences to use or download the Software exclusively for private use and only in accordance with the terms of service and written instructions, if any, provided by Tus Media together with the Software.
+
+You may not modify, copy, reproduce, republish, upload, transmit or distribute in any way the material on this service including text, video, graphics, code and Software, except with the prior written consent of the owners.
+
+You may not use data mining tools to collect or copy any Content, information and/or material or data relating to the service and/or its Users in a manner not authorised by Tus Media. Similarly, you may not use framing techniques, or use meta tags or any other "hidden text" utilising Tus Media's name or branding without its authorisation.
+
+Students may not download courses to their computer, but may download additional material provided by the Teacher, if so indicated in the course.
+
+Excepted from this prohibition is the CLASSGAP mobile application, in which, so that CLASSGAP students do not consume their mobile data when viewing the courses on their terminal, they can download them.
+
+However, you may print and download parts of the material that are for your own non-commercial use as long as you agree not to change, infringe or remove any property rights on such materials. 
+
+Your downloading or other use of the Software is at your own risk.
+
+2.2. CLASSGAP Courses
+
+The intellectual and industrial property rights of the courses that the Users incorporate to CLASSGAP, be they videos, photographs, texts or others, will always belong to their authors and/or legitimate owners.
+
+Without prejudice to the above, the Users cede to Tus Media, on a non-exclusive basis, for the maximum time permitted by the intellectual property law, and with a worldwide territorial scope, the exploitation rights that fall on the Contents and/or materials incorporated, and in particular the rights of reproduction, public communication, and making them available to the public via Internet, transformation, especially to translate texts into other languages and adaptation of the Contents to the CLASSGAP audience; and distribution, of photographs, texts, videos or any other Content that is object of protection, according to the current legislation of intellectual property, for the sole purpose of being exposed and communicated to this Website, any of the company or in Websites of companies affiliated to Tus Media.
+
+Likewise, Users authorise Tus Media to proceed to the modification of texts and other Contents, in order to adapt them according to the specifications and technical requirements of CLASSGAP.
+
+Tus Media offers its Users the possibility that the Contents uploaded to CLASSGAP are shared and visualised in Facebook, LinkedIn, Twitter, Pinterest and other social networks, in which case, they will be governed by the terms and conditions of these websites.
+
+The author can modify and eliminate the Content and/or materials whenever he wants, without prejudice that if previously he has assigned rights to other Users, said Users, whether they are Students or co-Teachers, considering "co-Teachers" to those where a Teacher provides the materials or content for the class and another one makes use of said content or materials during the lesson, have the right to exploit that Content in an indeterminate way and the Content will be present in CLASSGAP for its use.
+
+In case of observing that any User has infringed any intellectual or industrial property right of the Student, the Student can inform CLASSGAP to adopt the appropriate measures. Likewise, if the Pupil wants to report such infringement, he/she must do so before the competent authorities.
+
+### 3\. Modifications
+
+Tus Media may from time to time update and/or modify these Terms and Conditions. Such modification will be communicated on classgap.com in a conspicuous place, or to Students via email so that use of the service after the date of posting will indicate your agreement to such modifications. Tus Media will notify Students fifteen (15) calendar days prior to any changes to these Terms and Conditions via email.
+
+Tus Media reserves the right to make changes to the Terms and Conditions effective immediately in any of the following circumstances: (1) when it is necessary due to legal or security requirements; (2) when it results from any variation or adjustment of a technical nature in CLASSGAP, in the service itself or, where appropriate, in the auxiliary services; (3) when the change corresponds to the elimination or modification of elements that in the opinion of Tus Media do not allow preserving the security or are illicit, offensive, inappropriate or discriminatory and/or (4) when it is necessary to face an unforeseen and imminent danger related to the defence of the online intermediary services, the Students or the Teachers against fraud, malware, spam, data security breaches or other cybersecurity risks.
+
+### 4\. Use of the Website and Contents
+
+The Students commit themselves to use CLASSGAP in accordance with the Law and applicable regulations, as well as in accordance with the established in the present Terms and Conditions (and the subsequent modifications to the same), the good practices, uses and customs of Internet generally accepted, and the public order.
+
+Unauthorised use of the same may constitute a violation of intellectual or industrial property legislation or other applicable laws, and may give rise to the initiation of the corresponding administrative, extrajudicial or judicial proceedings.
+
+In the case that you add images or other type of files to CLASSGAP, you will be the only responsible of the fact that they are not protected by copyright. In this sense, we recommend you to go to websites that offer reusable images free of charge.
+
+You are solely responsible for your CU and the consequences of publishing them. Tus Media does not guarantee confidentiality with respect to the data that Users voluntarily enter on classgap.com, regardless of whether or not they are published. You represent and warrant that you own or possess the necessary licences, rights, consents and permissions for the reproduction, distribution, transformation and public communication by any electronic means, in particular the Internet and email, of your UCs throughout the world and for an indefinite period of time, on the terms set out in these Terms and Conditions, including the right to authorise Tus Media to use them in the manner provided for in these Terms and Conditions.
+
+You agree not to insert illegal works in CLASSGAP and to comply with all the applicable regulations related to the exhibition of the works. Tus Media reserves the right to remove from CLASSGAP those Contents that it considers inappropriate to the characteristics and purposes of the same.
+
+The Student will abstain from inserting Contents and/or other materials that deteriorate the quality of the service, and in particular, Contents that:
+
+\- Are unlawful under national, community or international regulations.
+
+\- Violate the fundamental rights of persons, especially those that are not appropriate for minors.
+
+You grant to Tus Media a non-exclusive, royalty-free, worldwide, perpetual licence, for the maximum duration of such rights under applicable law and through any medium, format or mode of exploitation, with the right to sub-licence, reproduce, distribute, transmit, create derivative works, display and publicly perform any CU or any other material or information (including ideas for improved or new products or services) communicated to Tus Media by any means and in any form, now known or later developed. However, in the event that we use your name, we will request your prior consent.
+
+You agree that you will have no recourse, directly or through third parties, against Tus Media for any alleged or actual infringement of any proprietary right by another User on classgap.com.
+
+However, if you are the owner of intellectual and/or industrial property rights and you believe that any CU or other content and/or materials included in CLASSGAP infringes them, you may notify Tus Media, without prejudice to any legal actions and rights that you may have against the alleged infringer.
+
+Please take into account that Tus Media will not be responsible for verifying the ownership of the CU incorporated by the Users to CLASSGAP. 
+
+### 5\. Content removal policy
+
+Tus Media has established mechanisms to detect and remove from CLASSGAP any content that may be considered illicit, including but not limited to content linked to the undermining of personality rights, the infringement of any intellectual property rights, defamatory activities, the security of the services offered by the Teachers, incitement to hatred or terrorism, as well as any other content that, without being considered illicit, is not adequate or appropriate for CLASSGAP. In the event that Tus Media becomes aware of the existence of illicit content, we will proceed to analyse the request and, if necessary, proceed to its immediate removal.
+
+If the Student detects any kind of illicit or inappropriate content in CLASSGAP, we thank you for notifying us, without undue delay, through the following address support@classgap.com. We will analyse the information or communication as soon as possible and, if necessary, we will remove it promptly. In the event that it becomes necessary, either because the information provided reveals evidence or we become aware of the commission of any criminal or other offences, we will inform the competent authorities.
+
+In any case, in the event that we proceed to remove any illicit or inappropriate content from CLASSGAP, we will inform the User or the third party that has hosted such information, and they can oppose the decision to remove the content by Tus Media. Users or third parties will have a period of five 5 calendar days to exercise their right of opposition and present their allegations to Tus Media at the following address support@classgap.com . Once your allegations have been verified, Tus Media will proceed to respond as soon as possible, indicating the decision taken.
+
+### 6\. Account Registration
+
+In order to access some features of the Website and to book a Class you must register as a Student by creating an account ("CLASSGAP account").
+
+You may register directly through classgap.com or by logging into certain social networking sites (SNS) as described below.
+
+You may link your CLASSGAP account to a third party account by either: 1) providing Tus Media with your login information to the third party account through the Website; or 2) allowing Tus Media to access your third party account in accordance with the terms and conditions applicable to each third party account. In this regard, you represent that you are entitled to disclose your third party account information to Tus Media and/or give Tus Media access to it without violating the applicable terms and conditions of use and without obligating Tus Media to pay any fees. More information can be found at www.classgap.com/es/info/privacy. 
+
+Please note that your relationship with third party service providers is governed solely by your agreement with that provider. Tus Media will not review SNS Content for accuracy or legality and is not responsible for such Content.
+
+We will create your CLASSGAP account based on personal information that you provide to us or that we obtain through an SNS. In this regard, you agree to provide accurate, current and complete information during the registration process and to update such information to keep it accurate, current and complete. Tus Media reserves the right to suspend or delete your CLASSGAP account and your access to the Website if the information provided during the registration process or afterwards proves to be inaccurate, outdated or incomplete. The following terms apply to your use of the service and any account you may create:
+
+You must be of legal age to use the service;
+
+7\. You must have a real identity that corresponds to a person to open an account. Accounts registered by "bots" or other automated methods are not permitted.
+
+8\. You must provide your full name, email address, and any other requested information in order to complete the registration process.
+
+9\. You are responsible for maintaining the security of your account and password. Tus Media will not be liable for any loss or damage arising from your failure to comply with this obligation. You agree not to disclose your password to any third party and to be solely responsible for any activities under your CLASSGAP account, even if you have not authorised such activities. You will immediately notify Tus Media of any unauthorised use of your CLASSGAP account.
+
+10\. Accepts to use the service only for lawful purposes and agrees not to use it in any way that infringes the use or rights of other Users.
+
+The Pupil will not be able to choose as user name or password words and/or expressions that, in general, are contrary to the law or to the good practices, uses and generally accepted customs and, in general, words and/or expressions on which there is any right that excludes its use by the Pupil. The Student may deactivate his/her registration at any time by sending an email to support@classgap.com. The Student acknowledges and accepts that Tus Media reserves the right to deactivate inactive registrations for a period of time exceeding 6 months.
+
+### 7\. Conduct of Service
+
+Tus Media reserves the right to refuse to provide the service to any User for any reason and/or to discontinue the service in whole or in part at any time, with or without notice. Your use of the service is subject to all applicable laws and regulations and you are solely responsible for the content of your communications through the service. You agree that you will not download, share, post or otherwise distribute any content or applications that may violate any applicable law or infringe any rights of any party. Also prohibited:
+
+Actions that constitute unauthorised or unsolicited advertising, including but not limited to spam, chain letters, lottery or gambling.
+
+The use of computer viruses or any other code, file or programme that is designed or intended to interrupt, damage, or limit the functioning of any software, hardware or telecommunications equipment, or damage or obtain unauthorised access to data or other information of any third party.
+
+Do not use CLASSGAP for illegal or unauthorised purposes. Tus Media is committed to the fight against the dissemination of terrorist content.
+
+Impersonate, interfere with or disrupt the service, servers or networks connected to the services or fail to comply with the requirements, procedures, policies or regulations of networks connected to the services.
+
+Contacting a Teacher or other Pupil for any purpose other than a class through CLASSGAP.
+
+Acting as a Student, contact and recruit other Users to join third party services that are competitors of Tus Media.
+
+Using automated scripts to collect information or interact with CLASSGAP.
+
+Use CLASSGAP to find a Teacher and then complete the reservation externally in order to avoid the obligation to pay the commission for the provision of CLASSGAP services.
+
+Retrieve data systematically or from other CLASSGAP Contents to create, directly or indirectly, in individual or multiple downloads, a collection of data, either manually or by means of bots, crawlers or similar. Access, manipulate or use non-public areas of the website, the computer systems of CLASSGAP or the technical delivery systems of its suppliers.
+
+Any attempt to test the vulnerability of any system or network of CLASSGAP or violate any security or authentication measure.
+
+Collaborate with a third party to carry out any of the described conducts.
+
+Tus Media will have the right to investigate and denounce any of the mentioned conducts, according to the law, as well as to collaborate with the authorities in the investigation of such actions. You acknowledge that Tus Media has no obligation to control your access or use of CLASSGAP or to review or edit the CU without prejudice of having the right to do so in order to operate, ensure compliance with the terms and applicable legislation, administrative, police or judicial requirements.
+
+Tus Media reserves the right to remove or disable access to any Collective Content, at any time and without notice, if it considers that it may violate the terms or damage the Website, in accordance with the provisions of our Content Policy. We are not responsible for any delay or failure to remove such Content. You consent to such removal and waive any claim against Tus Media arising from such removal. You may not use your account to breach the security of another account or gain unauthorised access to another network or server. Some parts of the service may not be available to you or other Authorized Users. You will not interfere with other Users' use of the service. You agree that we may terminate without notice your registration, account or other affiliation with the service if you violate the above provisions.
+
+For quality control and security purposes only, Classes through CLASSGAP may be recorded. Should this occur, the recordings will be stored for these purposes for 12 months before being deleted. No recorded Content will be disseminated, thus protecting all Users who are part of it. 
+
+### 8\. Transfer of image rights
+
+From the Website and/or the application, the Student may insert his/her image in his/her User profile. Consequently, the Student grants, on a non-exclusive and worldwide basis, to Tus Media, which accepts, the right to use his/her image for publication on the Website and/or the application without the right to any remuneration whatsoever. Tus Media is authorised to carry out the exploitation of the Users' image in any way it deems appropriate, including deciding not to carry it out, without this entailing any right to compensation whatsoever. All of the above is in accordance with the provisions of the applicable data protection regulations and Organic Law 1/1982, of 5 May, on the civil protection of the right to honour, personal and family privacy and one's own image.
+
+### 9\. Additional Agreements between Teachers and Students
+
+These Terms and Conditions are additional to any agreement between the Teacher and the Student. Tus Media cannot control the performance of these agreements, in particular: their content, their accuracy and legality, or the obligations of the parties. For this reason, you agree to release Tus Media and its agents from any liability, both direct and indirect, which may arise in this respect, to the fullest extent permitted by law.
+
+### 10\. I am a student, how do I pay?
+
+In order for you to take the class, you must first pay the price of the class. This payment will be made to Tus Media by credit card, Paypal or any other payment method available in your country.
+
+If you are a debit/credit card holder, you can choose the option "Save details for future bookings" so that you do not have to re-enter them for future payments.
+
+The data will be collected by Tus Media in encrypted form and sent to Braintree, which handles remote electronic payment transactions.
+
+Braintree will store and process this data autonomously.
+
+You agree to pay the price of any confirmed booking and authorise your PayPal account to be debited or your credit card to be charged. Once the booking has been confirmed as completed, you will receive a confirmation email.
+
+Remember that these payment methods may require you to be subject to their terms and conditions, which are different from those of CLASSGAP. Tus Media does not have any responsibility for the relationship that you maintain with these suppliers, therefore you will hold Tus Media harmless for any claim, cost, damages of any nature that is caused by or related in any way to the Supplier Services, or that is due to or is a consequence of the non-fulfilment of the obligations assumed by you with regard to this Supplier.
+
+Thus, of the total amount paid by the Student, Tus Media will receive the part corresponding to its intermediation commission, while the remainder will be received by Tus Media as a mere depository with the obligation to pay the Teacher its fees. Consequently, the Teacher will be solely responsible for the quality of the class(es) given, as well as for the invoicing of the same to the Student. It should be noted that, with the exception of the first class held, the price of a class already held is non-refundable (see cancellation and refund policy for more information).
+
+### 11\. Packages of tutoring hours
+
+Optionally, Teachers may offer reduced tuition hour prices if the Student contracts packages of hours in advance.
+
+Packages will be for a minimum of 5 hours, and must be spent in 1 hour classes. All packages are valid for 6 months, and are valid only with the selected Teacher.
+
+Once one or more classes of a package have been completed, no refunds will be given, except in cases where the teacher certifies that he/she is unable to continue teaching.
+
+12\. Free 20 minute lessons
+
+Teachers may optionally offer students a 20 minute trial lesson. Students may book a 20-minute trial lesson free of charge with those teachers who have this option.
+
+A maximum of 3 simultaneous free bookings can be made per student.
+
+A maximum of 1 free booking with the same teacher.
+
+Teachers who wish to offer a free 20-minute lesson must have the CLASSGAP APP installed on their device.
+
+### 13\. Cancellations and refunds
+
+1\. The Pupil may request a full refund of the Class when:
+
+2\. The Teacher refuses to conduct the class.
+
+3\. The Teacher does not show up at the agreed date and time.
+
+4\. The Class is cancelled up to 8 hours before its scheduled start date.
+
+Within 24 hours of the Class taking place, when it is your first Class at CLASSGAP and you are not satisfied with the Class received.
+
+Within these conditions, the deadline for requesting a refund is 30 days. 
+
+After the first 30 days of purchase, no refund will be accepted, having the sole and exclusive option of refund in the form of a credit balance with a validity period of 12 months. 
+
+The validity period for using the balance is 12 months. 
+
+To request a refund due to dissatisfaction, please send an e-mail to support@classgap.com with your reasons, as well as your personal details (name and surname, telephone number and photocopy of your identity document) and we will contact you as soon as possible.
+
+Tus Media, acts as a mere intermediary between Students and Teachers and is therefore not responsible for any claims that may arise in respect of cancellations or refunds made, errors in the same, or the Teacher's decision not to make them when the Class has taken place. In the event that the Student requests a refund of the price paid within 7 calendar days of booking the Class, provided that there are more than 48 hours left until the Class begins, and the Class has not taken place, Tus Media will study the reasons for the request and, if it considers them to be justified, may proceed with the refund, informing the Teacher of the reasons for the refund.
+
+### 14\. Affiliated companies
+
+By accepting these General Conditions of Use or, if you are an active customer, if you request a new service through the Platform, you agree that Tus Media, as data controller, may communicate your personal data (identification data, telephone number, e-mail address and any other information provided in your public profile, such as the subjects you teach or your curriculum vitae, if any) to GoStudent GmbH and its affiliates listed here, so that these entities may send commercial communications by telephone and/or e-mail.
+
+You may withdraw your consent at any time by writing to the postal address of Tus Media (Calle Pallars 3-5 Edificio B, 3-2, 08402 Granollers, Spain) or by email to privacidad@tusmedia.com.
+
+### 15\. Links
+
+The services or third parties may provide links to other websites. You acknowledge that Tus Media is not responsible for any links belonging to a third-party website, nor shall it guarantee the technical availability, quality, veracity and/or legality of any material, content or information contained in such hyperlinks or other Internet sites. The inclusion of these links does not imply any type of association or participation with the linked entities.
+
+### 16\. Cookie Policy
+
+Teachers can access Tus Media's Cookie Policy via the following link Cookie Policy: www.classgap.com/es/info/cookies.
+
+### 17\. Exclusion of guarantees and liability
+
+Tus Media will not be liable in case of (i) any direct and/or indirect, consequential and/or punitive losses and/or damages, as well as of any other nature, caused to the Users or third parties derived from the services, as well as, from any other activities, direct or indirect, developed by and/or through CLASSGAP; (ii) loss of business; (iii) loss of commercial reputation; (iv) loss of any data for which the Users are responsible, as well as, in any case, (v) Tus Media shall not be liable for damages of any kind, including loss of profits, which may be due to the services provided by Tus Media or third parties through the Website or any of its applications, as well as the means that they provide to manage service requests.
+
+Tus Media shall not be liable for any delay or failure to comply with its obligations under these Terms and Conditions if such delay or failure to comply is attributable to circumstances beyond the reasonable control of Tus Media. For the provision of the services offered by the Teachers, the Company assumes no liability whatsoever.
+
+Tus Media is exempt from any kind of liability that may arise as a result of, by way of example but not limitation, actions or omissions in the classes, their quality and content, or the opinions of the Teachers. The service and all materials included in it may include errors and may not be up to date. Through this service you may engage in commercial transactions with other Users. You acknowledge that such transactions are at your own risk. Any warranties provided through the site are provided solely by the third party and not by Tus Media or its agents. You agree that we assume no responsibility for the delay, deletion, mis-delivery, or failure to store User communications or personal settings. Tus Media does not vouch for any User, nor does it confirm the accuracy of the information provided, so in the event of a dispute, you must claim exclusively and directly from the User. Tus Media assumes no responsibility whatsoever for the Content inserted by Users. Students who insert Content that infringes any national or international legislation in force shall be liable for any damages arising from such infringement, exempting Tus Media from any liability. Tus Media does not grant any guarantee nor is it responsible, under any circumstances, for damages of any kind that may arise from access to or use of the Content or the Website. Among others, and by way of example and not limitation, Tus Media is not responsible for the following circumstances:
+
+Lack of availability, maintenance and effective functioning of CLASSGAP and/or its Services or Contents, excluding, to the maximum extent permitted by the legislation in force, any liability for damages of any nature that may be due to the lack of availability or continuity of the functioning of the Web Site and the Contents enabled in the same.
+
+Lack of usefulness of the Website or the Contents for any activity.
+
+The content of other Internet pages to which the links placed on the Website may lead.
+
+The comments, assessments and/or evaluations made by the User through the Website, as well as the comments, assessments and/or evaluations that may be made by the Students; therefore, Users undertake to hold Tus Media harmless for any claim that Tus Media may receive from any third party or administration derived from such events.
+
+Existence of computer viruses, malicious or harmful programmes, breakdowns or other elements that may cause alterations to the computer system, documents, Contents and/or files of Users.
+
+Reception, obtaining, storage, dissemination or transmission, by the Users, of the Contents.
+
+A bad use that the User can make of CLASSGAP, as well as, of any other errors committed by him/her.
+
+Illegitimate intromissions caused by third parties, which are beyond the control of CLASSGAP.
+
+Illicit, negligent, fraudulent use, contrary to the terms of the present Terms and Conditions, or to the good faith, of CLASSGAP or its Contents, by the Users.
+
+The unavailability of any service offered through the Website or any applications related to CLASSGAP regardless of the cause.
+
+The legal non-compliance or infringement of rights derived from the data or contents of third parties that Tus Media transmits or stores, in its condition as a provider of intermediation services of the information society.
+
+CLASSGAP does not assume any responsibility in connection with the relationship established between the Teacher and the Student, as it only performs an intermediary function, without intervening either directly or indirectly in the relationship maintained between the Users.
+
+Tus Media excludes any liability, including but not limited to: for acts of unfair competition and illegal advertising, as well as the lack of truthfulness, accuracy, completeness, vices, defects, relevance and/or timeliness of the Contents disseminated, stored, received, made available or accessible through the services provided by third parties through CLASSGAP. The Student will be liable for damages of any nature that Tus Media may suffer as a consequence of the non-fulfilment of any of the obligations to which they are subject by virtue of these Terms and Conditions or the Law in relation to the use of CLASSGAP. Tus Media will not be responsible for the opinions expressed by Users through CLASSGAP or other participation or opinion tools, nor for any damages that may arise from said opinions.
+
+Tus Media is not responsible nor does it guarantee to the Users, nor to any third party, that the information that appears in CLASSGAP adjusts to the purposes required by the Users. To the extent permitted by applicable law, the services are provided as indicated in these Terms and Conditions and Tus Media is not responsible for, nor does it undertake or offer guarantees in relation to the operation, marketing, suitability for a particular purpose, accuracy, completeness and correctness of the services.
+
+### 18\. Indemnification
+
+You agree, in the event of any breach of these terms and conditions or any other document, to hold Tus Media and its agents harmless from any claim or expense (including attorneys' fees and costs) arising therefrom. You release Tus Media from any liability and agree to indemnify and hold Tus Media and its affiliates (and their directors, officers, employees and agents) harmless from any claims arising out of or relating to (a) any Services, any infringement of intellectual property rights by any of the foregoing, and any personal injury, death or property damage; or (b) any taxes payable, or the payment or non-payment thereof, as a result of the provision of the Services.
+
+### 19\. Data protection
+
+CLASSGAP informs you that it will treat the personal data in the terms expressed in the Policy of Protection of Personal Data of the Web Site that the Student can find under the following URL: https://www.classgap.com/es/info/privacy
+
+### 20\. Language
+
+We may translate these terms of service, our privacy policy, or any other operating rules, policies or procedures that may be published on the site. The English version shall prevail in the event of any conflict.
+
+### 21\. Termination and Termination of the Terms and Conditions
+
+The duration of the provision of the CLASSGAP service and of the Contents, provided by the Students or by the Teachers through the Platform is of indefinite character.
+
+Students may unsubscribe at any time through support@classgap.com. Upon termination, the contractual relationship derived from these Terms and Conditions shall cease to have effect (except for those clauses that can be inferred to be effective even after the termination of the contract).
+
+Tus Media may terminate or suspend the service in cases of breach of these Terms and Conditions by Students. By way of example and not limitation, the following conducts will be considered breaches of the Terms and Conditions: (i) Making inadequate or fraudulent use of CLASSGAP in any way infringing the intellectual property rights of the same that correspond to Tus Media or the Teachers; (ii) Using CLASSGAP for purposes not permitted by the applicable regulations or laws or by these Terms and Conditions; and/or among others, (iv) any breach of the present Terms and Conditions and/or any specific conditions of use.
+
+### 22\. Applicable Law and Jurisdiction
+
+The terms, conditions and other documents of CLASSGAP will be governed by the Spanish legislation. In case of dispute, the competent courts will be those of the domicile of the Student.
+
+These terms, together with the privacy policy and other governing documents constitute the entire agreement between You and Tus Media. The invalidity of any document decreed by a court shall not affect the remaining provisions. Tus Media's failure in certain cases to follow the provisions contained herein shall not be deemed a modification thereof. Tus Media may assign its rights and obligations under these provisions to a third party at any time. Most communications between you and Tus Media will be made electronically. You agree that such communication shall be as valid as a written communication, to the extent permitted by law.
