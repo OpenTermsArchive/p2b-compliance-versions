@@ -203,7 +203,7 @@ For certain cases, sellers are protected by Etsy's Purchase Protection Program. 
 
 **c. Your Seller Account and Etsy’s Terms**
 
-In order to keep Etsy safe and improve our Services, we may take actions that limit the visibility of your shop, listings or ads, or that impact your payment account. In the event a shop sees unusual order activity, or we otherwise believe that your actions or shop may result in buyer disputes, chargebacks, increased risk of fraud, counterfeiting, or other claims, Etsy may take actions such as limiting visibility of your account, or placing restrictions or reserves on your payments account, in accordance with our [Terms of Use](https://www.etsy.com/legal/terms-of-use), including this Policy and our [Etsy Payments Policy](https://www.etsy.com/legal/etsy-payments/?ref=list). When appropriate and permitted by law, Etsy will communicate information to the affected seller about the issue.
+In order to keep Etsy safe and improve our Services, we may take actions that limit the visibility of your shop, listings or ads, or that impact your payment account. In the event a shop sees unusual order activity, or we otherwise believe that your actions or shop may result in buyer disputes, chargebacks, increased risk of fraud, counterfeiting, or other claims, Etsy may take actions such as limiting visibility of your account, placing restrictions or reserves on your payments account, or suspending your Etsy account, in accordance with our [Terms of Use](https://www.etsy.com/legal/terms-of-use), including this Policy and our [Etsy Payments Policy](https://www.etsy.com/legal/etsy-payments/?ref=list). When appropriate and permitted by law, Etsy will communicate information to the affected seller about the issue.
 
 In the event a shop sees an unusual spike in orders, particularly in a high demand category, a shop may see an increase or decrease in its search ranking. Often, if a shop sees an increase in fulfilled orders and good reviews, this may result in higher visibility and search rank. However, sometimes a rapid increase in orders can reduce visibility. Read more about how Etsy search works, and what factors impact search ranking, and how you can help optimize your listings and shop [here](https://www.etsy.com/legal/policy/search-advertisement-ranking-disclosures/899478564529)and in [The Ultimate Guide to Etsy Search](https://www.etsy.com/ie/seller-handbook/article/the-ultimate-guide-to-etsy-search/366469415790).
 
@@ -217,4 +217,4 @@ If Etsy has reason to believe you, Your Content, or your use of the Services vio
 
 Etsy also provides limited solutions to sellers who meet the requirements of our Purchase Protection Program for Sellers. Read more about Purchase Protection Program for Sellers [here](https://www.etsy.com/legal/policy/seller-protection-policy/34509585385).
 
-Last updated on May 25, 2023
+Last updated on Jun 21, 2023
