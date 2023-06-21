@@ -11,9 +11,9 @@ Ikrafttrædelse 1. februar 2019
     2. Virksomheder, der har et CVR-nummer, skal benytte DBA Boost annonceringstjeneste, men det er ikke et krav at være en registreret virksomhed med CVR-nummer for at benytte DBA Boost.
 2. **Aftalegrundlag**
     
-    1. De til enhver tid gældende Vilkår samt Privatlivspolitikken og [Regler for Annoncering](https://info.dba.dk/vilkaar/persondatapolitik)udgør det samlede Aftalegrundlag mellem DBA og Annoncøren (herefter "Aftalen"). Aftalen træder i kraft, når Annoncøren har læst og accepteret Aftalegrundlaget samt oprettet konto til DBA Boost.
+    1. De til enhver tid gældende Vilkår samt [Privatlivspolitikken](https://info.dba.dk/vilkaar/persondatapolitik) og [Regler for Annoncering](https://info.dba.dk/vilkaar/annonceringsregler) udgør det samlede Aftalegrundlag mellem DBA og Annoncøren (herefter "Aftalen"). Aftalen træder i kraft, når Annoncøren har læst og accepteret Aftalegrundlaget samt oprettet konto til DBA Boost.
     2. Annoncørens brug af Annoncørens konto og abonnement er i hele Aftalens løbetid underlagt den til enhver tid gældende version af Aftalen, og DBA er berettiget til at opdatere Aftalen på ethvert tidspunkt i Aftalens løbetid.
-    3. DBA må på et hvilket som helst tidspunkt i Aftalens løbetid fjerne eller afslå at oprette eller linke til en annonce, som efter DBA's opfattelse er krænkende, herunder ærekrænkende, vildledende, ulovlig, uanstændig, som ikke lever op til DBA's tekniske krav eller på anden måde er i strid med DBA's [Regler for Annoncering](https://info.dba.dk/vilkaar/persondatapolitik), se mere i pkt. 9.
+    3. DBA må på et hvilket som helst tidspunkt i Aftalens løbetid fjerne eller afslå at oprette eller linke til en annonce, som efter DBA's opfattelse er krænkende, herunder ærekrænkende, vildledende, ulovlig, uanstændig, som ikke lever op til DBA's tekniske krav eller på anden måde er i strid med DBA's [Regler for Annoncering](https://info.dba.dk/vilkaar/annonceringsregler), se mere i pkt. 9.
 3. **Abonnement**
     
     1. Annoncøren kan vælge mellem en række abonnementspakker, som indeholder et max antal annoncer. Abonnementspakkerne stilles til rådighed for alle annoncører. Se en nærmere beskrivelse af abonnementspakkerne på [DBA Boost](https://boost.dba.dk/).
