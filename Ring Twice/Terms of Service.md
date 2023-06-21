@@ -245,7 +245,7 @@ L’accès et l’utilisation de ce site internet et des informations de ce site
 * Nous utilisons le terme « Utilisateur » en référence aux utilisateurs de nos sites internet, pages en ligne et services.
 * Nous utilisons les termes « vous », « votre » et « le vôtre » en référence à l’Utilisateur qui lit ces Mentions Légales.
 * Nous utilisons les termes « nous » et « notre » pour se référer à Ring Twice, dont l’adresse est située à 12, Avenue des Rossignols, 1310 La Hulpe, Belgique, le contrôleur de données.
-* Nous utilisons le terme « ce site internet » pour se référer au site [www.ringtwice.be](https://ringtwice.be/).
+* Nous utilisons le terme « ce site internet » pour se référer au site [www.ringtwice.be](https://ringtwice.be/fr).
 
 ### 3.3 Droits de propriété intellectuelle
 
