@@ -112,6 +112,8 @@ You will comply with the [Community Guidelines](https://snap.com/en-US/community
 
 Other Business Services may also be governed by Supplemental Terms and Policies, which will be made available to you when you elect to use those specific Business Services, and those Supplemental Terms and Policies are incorporated by reference into these Business Services Terms when you accept them.
 
+_In summary: Further terms and policies apply and you need to read and understand those in addition to these terms._
+
 10\. Miscellaneous
 ------------------
 
