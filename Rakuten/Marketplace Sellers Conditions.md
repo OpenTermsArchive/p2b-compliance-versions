@@ -1,9 +1,15 @@
 Conditions particulières – Vendeurs professionnels
 ==================================================
 
-_**Version mise à jour le 08 septembre 2022**_
+_**Version mise à jour le 24 juin 2023**_
 
-_Pour consulter la version précédemment en vigueur des Conditions Particulières Pro, cliquez [ici](https://fr.shopping.rakuten.com/visuels/0_merch/contest/reglement/Conditions%20Particulieres%20Pro%20(en%20vigueur%20entre%20le%202021.09.24%20et%20le%202022.01.01).pdf)._
+_Pour consulter la version des Conditions Particulières applicables aux Vendeurs Professionnels en vigueur du 20.05.2021 au 23.09.2021, cliquez [ici](https://fr.shopping.rakuten.com/newhelp/cpvp/%E2%80%A2http://global.fr.shopping.rakuten.com/wp-content/uploads/2023/06/2_0_CPVP_en_vigueur_entre_le_20052021_et_le23092021.pdf)._
+
+_Pour consulter la version des Conditions Particulières applicables aux Vendeurs Professionnels en vigueur du 24.09.2021 au 31.12.2022, cliquez [ici](https://global.fr.shopping.rakuten.com/wp-content/uploads/2023/06/3_0_CPVP_en_vigueur_entre_le_24092021_et_le_31122021.pdf)._
+
+_Pour consulter la version des Conditions Particulières applicables aux Vendeurs Professionnels en vigueur du 01.01.2022 au 07.09.2022, cliquez [ici](https://global.fr.shopping.rakuten.com/wp-content/uploads/2023/06/4_0_CPVP_en_vigueur_entre_le_01012022_et_le_07092022.pdf)._
+
+_Pour consulter la version des Conditions Particulières applicables aux Vendeurs Professionnels en vigueur du 08.09.2022 au 23.06.2023, cliquez [ici](http://global.fr.shopping.rakuten.com/wp-content/uploads/2023/06/CPVP_Rakuten_en_vigueur_entre_le_08092022_et23062023.pdf)._
 
 Les présentes Conditions particulières ( les _«_ Conditions Particulières Pro_»_) ont pour objet de préciser les stipulations applicables aux relations entre Rakuten et les vendeurs agissant à titre professionnel (ci-après les _«_Vendeurs Professionnels_»_), et en particulier leurs obligations au sens de l'article 6.7 des [Conditions générales d'utilisation](https://fr.shopping.rakuten.com/newhelp/conditions-generales/).
 
@@ -206,7 +212,7 @@ Dès que possible et au plus tard au moment de l’expédition, le Vendeur Profe
 
 En cas de défaut de livraison sous le délai fixé dans les conditions ci-dessus, le Vendeur Professionnel est débiteur d’une indemnité égale à cinq pourcent (5 %) du Prix de la Transaction ainsi qu’à la différence entre le prix payé par l’Acheteur pour la livraison Express et le prix qu’il aurait payé pour un envoi en Recommandé. Le Vendeur Professionnel autorise Rakuten  à débiter directement ce montant de son Porte-Monnaie.
 
-En tant que de besoin, il est précisé que cette indemnité est sans préjudice des tripulations de l’article Pro. 6 (Responsabilité et garanties).
+En tant que de besoin, il est précisé que cette indemnité est sans préjudice des stipulations de l’article Pro. 6 (Responsabilité et garanties).
 
 Le Vendeur Professionnel s'interdit de détourner à son profit ou au profit de tiers les Acheteurs recrutés par le biais de la Plateforme Rakuten, de quelque manière que ce soit. Il s’interdit ainsi notamment d’ajouter à ses colis tout document faisant la promotion de tout autre site Internet que celui exploité par Rakuten.
 
@@ -228,18 +234,28 @@ Conformément aux lois et règlements relatifs à la prévention et à la gestio
 * mettre en œuvre, à la demande de l’Acheteur, la reprise sans frais d’un produit usagé au point de livraison d’un Produit, auprès d’un point de collecte de proximité ou par la mise à disposition d’une solution de renvoi sans frais pour l’Acheteur, dans les conditions fixées par cette réglementation,
 * indiquer préalablement à tout achat, dans son Offre de vente ou par tout moyen écrit à sa convenance, les conditions, modalités et limites de cette reprise sans frais.
 
-**Pro.4 - Conditions financières**
-----------------------------------
+**Pro. 4 - Conditions financières**
+-----------------------------------
 
 **• Pro. 4.1 – Paiement des ventes et Commission de Rakuten**
 
 _Pro. 4.1.1 – Paiement des ventes_
 
-Rakuten reverse au Vendeur Professionnel après chaque vente réputée parfaite, c’est-à-dire pour laquelle (i) l’Acheteur a confirmé la réception conforme du Produit à l’offre du Vendeur Professionnel par le biais de la notation (dans les conditions détaillées à l'article 4.3 des [Conditions Générales d'Utilisation](https://fr.shopping.rakuten.com/newhelp/conditions-generales/)) ou, à défaut, (ii) au terme d’un délai maximal de trente (30) jours à compter de la date de confirmation de la disponibilité du Produit par le Vendeur, selon celui de ces événements qui survient le premier, sans préjudice des conditions posées par l’article 7.5 des [Conditions Générales d’Utilisation](https://fr.shopping.rakuten.com/newhelp/conditions-generales/), le prix de vente convenu minoré de la commission applicable sur le prix de vente final et plus généralement de toute somme due par le Vendeur Professionnel à Rakuten en application du Contrat.
+Rakuten reverse au Vendeur Professionnel le prix de vente convenu minoré de la commission applicable sur le prix de vente final et plus généralement de toute somme due par le Vendeur Professionnel à Rakuten en application du Contrat, après chaque vente réputée parfaite, c’est-à-dire pour laquelle : 
+
+(i) l’Acheteur a confirmé la réception conforme du Produit à l’offre du Vendeur Professionnel par le biais de la notation (dans les conditions détaillées à l'article 4.3 des [Conditions Générales d'Utilisation](https://fr.shopping.rakuten.com/newhelp/conditions-generales/)) ou, à défaut,
+
+(ii) au terme d’un délai maximal de trente (30) jours à compter de la date de confirmation de la disponibilité du Produit par le Vendeur,
+
+selon celui de ces événements qui survient le premier.
+
+Ce qui précède est sans préjudice des conditions posées par l’article 7.5 des [Conditions Générales d’Utilisation](https://fr.shopping.rakuten.com/newhelp/conditions-generales/).
 
 Le paiement des ventes réputées parfaites intervient par virement bancaire chaque lundi et jeudi.
 
 Par exception, (i) si le Vendeur Professionnel fournit à Rakuten le numéro de suivi et/ou toutes les informations permettant de suivre la livraison du colis sur le site du transporteur et (ii) n'a pas activé l’Option Paiement accéléré (Pro. 4.1.2), Rakuten reverse au Vendeur Professionnel le prix de vente convenu minoré de la commission applicable sur le prix de vente final et plus généralement de toute somme due par le Vendeur Professionnel à Rakuten en application du Contrat, au terme d’un délai maximal de cinq (5) jours ouvrés maximum suivant la livraison au domicile de l'Acheteur ou la récupération d’un Produit par l’Acheteur selon le mode de livraison concerné.
+
+Par exception à tout ce qui précède, pendant une durée de trois (3) mois à compter de la première vente d’un Vendeur Professionnel (qui pourra être réduite par Rakuten si la qualité de service du Vendeur Professionnel le justifie), Rakuten reverse au Vendeur Professionnel les sommes visées au premier paragraphe du présent article uniquement lorsque l’Acheteur a confirmé la réception conforme du Produit à l’offre du Vendeur Professionnel par le biais de la notation (dans les conditions détaillées à l'article 4.3 des [Conditions Générales d'Utilisation](https://fr.shopping.rakuten.com/newhelp/conditions-generales/)).
 
 _Pro. 4.1.2 – Option Paiement accéléré  
 _
@@ -264,7 +280,13 @@ Les montants de l’Abonnement, de la Commission et des services et options paya
 
 La Commission est prélevée lors du paiement de la commande par l’Acheteur et facturée automatiquement au Vendeur Professionnel lorsque celui-ci transfère le montant de ses ventes « Payables » sur son Porte-Monnaie (pour l’ensemble des ventes concernées).
 
-La Commission est due même à la suite de l’annulation de la commande pour toute cause étrangère à Rakuten incluant, sans s’y limiter, le fait pour le Vendeur Professionnel de ne pas confirmer la disponibilité du Produit, d’annuler une commande après la confirmation de la disponibilité du Produit, toute annulation d’une commande faisant suite à une réclamation fondée de la part de l’Acheteur dans les conditions du chapitre 8 (« Réclamations et droit de rétractation ») des [Conditions Générales d’Utilisation](https://fr.shopping.rakuten.com/newhelp/conditions-generales/), etc. Dans ce cas, le montant de la Commission sera calculé entre le quatrième (4ème) et le  septième (7ème) jour du mois suivant (m+1) pour les ventes réalisées au cours du mois précédent (m). Ce montant est porté sur la même facture que celle de l’Abonnement visé à l’article Pro. 4.2 et payé dans les mêmes conditions que l’Abonnement.
+La Commission est due même à la suite de l’annulation de la commande pour toute cause étrangère à Rakuten incluant, sans s’y limiter: 
+
+* le fait pour le Vendeur Professionnel de ne pas confirmer la disponibilité du Produit (dans les conditions visées par la Grille Tarifaire Pro),
+* le fait pour le Vendeur Professionnel d’annuler une commande après la confirmation de la disponibilité du Produit (dans les conditions visées par la Grille Tarifaire Pro),
+* toute annulation d’une commande faisant suite à une réclamation fondée de la part de l’Acheteur dans les conditions du chapitre 8 (« Réclamations et droit de rétractation ») des [Conditions Générales d’Utilisation](https://fr.shopping.rakuten.com/newhelp/conditions-generales/).
+
+Dans ce cas, le montant de la Commission sera calculé entre le quatrième (4ème) et le  septième (7ème) jour du mois suivant (m+1) pour les ventes réalisées au cours du mois précédent (m). Ce montant est porté sur la même facture que celle de l’Abonnement visé à l’article Pro. 4.2 et payé dans les mêmes conditions que l’Abonnement.
 
 **• Pro. 4.4 – Impayés**
 
@@ -297,6 +319,7 @@ Sans préjudice des stipulations de l’article Pro. 4.5.1, Rakuten se réserve 
 * d'une hausse du taux de Réclamations et/ou de pics anormaux de Réclamations de même ou de différente(s) nature(s),
 * d'un taux anormal de transactions pour lesquelles le suivi du transporteur est indisponible ou n’indique pas de mouvements du colis à destination de l’Acheteur,
 * d'un taux anormal de Réclamations ou de signalements de la part d’Acheteurs eu égard à la conformité, la nature ou le fonctionnement d’un même Produit ou d’une même catégorie de Produits vendu(s) par le Vendeur Professionnel,
+* d’un taux anormal d’annulation de commandes de la part du Vendeur Professionnel (soit en ne confirmant pas la disponibilité du Produit, soit en annulant la commande de quelque manière que ce soit après avoir confirmé la disponibilité du Produit),
 * le cas échéant, d’une demande de la part du Vendeur Professionnel visant à ce que son compte soit clôturé dans l’une ou plusieurs des situations précédentes.
 
 Le montant de la réserve constituée au titre du présent article est actualisé suivant l’évolution de l’activité du Vendeur Professionnel et des circonstances entourant la mise en place de cette réserve.
@@ -434,7 +457,7 @@ La résiliation amiable du Contrat par Rakuten prendra effet à la fin du deuxi�
 
 **• Pro. 9.3 - Résiliation et clôture du compte du Vendeur Professionnel**
 
-Afin de garantir la bonne exécution des obligations dont il serait débiteur à l'égard des Acheteurs ou de Rakuten, le Vendeur Professionnel accepte que la clôture de son compte intervienne postérieurement à la date d'effet de la résiliation  du Contrat.
+Afin de garantir la bonne exécution des obligations dont il serait débiteur à l'égard des Acheteurs ou de Rakuten, le Vendeur Professionnel accepte que la clôture de son compte intervienne postérieurement à la date d'effet de la résiliation  du Contrat, notamment afin de s’assurer que toute Réclamation relative à une commande en cours puisse être prise en charge par le Vendeur Professionnel. À cet égard, l’article Pro. 4.5.2 « _Réserve - Gestion des risques_ » est susceptible de s’appliquer selon les conditions qu’il prévoit.
 
 **Pro. 10 - Stipulations générales**
 ------------------------------------
