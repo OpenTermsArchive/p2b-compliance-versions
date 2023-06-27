@@ -1,30 +1,29 @@
-What are the main ranking parameters?
-=====================================
+How are the search results ranked?
+==================================
 
-**Distance**: The most important ranking factor is distance. At Lieferando.de we prioritise places that are closest to the delivery address to spread the orders on our platform as much as possible between the active restaurants and stores. We also want to ensure a customer's waiting time is short and couriers only need to travel a few kilometres when delivering orders. When \`Collection' is selected instead of \`Delivery', we rank all restaurants and stores based on distance in the default listing.  
+The order of partners on Lieferando is dynamic and subject to a wide variety of factors. We aim to show our customers restaurants and stores that they are likely to order from, in a way which is fair for our partners, whilst optimising for a great ordering experience. 
+
+As these factors may be subject to change, the order of restaurants and stores in the search results is dynamic. Your neighbour may see a different order than you do, and you could also see differences between your list at different times of the day.  In addition, you can use filters to make your selection more specific or use the sorting options that are available. We aim to always display the most relevant restaurants and stores for you, as after all, tastes differ!  
   
-**Quality**: The quality score is a measurement based on our customers' average feedback via their most recent order and delivery ratings. This way, it shows a fair image of the delivered quality because Lieferando.de has millions of customers, all with different preferences. Please note that the content or characteristics of a restaurant's or store's range or products will on its own not have an effect on its position on the platform, but could in turn impact the quality score due to better reviews.  
-  
-**Popularity**: We determine popularity by the number of recent orders processed by a business compared to other businesses in that area. While this mainly applies to chain restaurants, it could also apply to more prominent restaurants or stores in a city centre. \`Popular places' also tend to employ more delivery staff and therefore can typically cover a larger delivery area and more orders. Based on their popularity, we place them somewhat higher on the list than restaurants or stores that do not have this kind of capacity.  
-  
-**New restaurants**: New businesses temporarily receive an improved position on Lieferando.de because they have fewer reviews. To help these places get started, they receive a higher placement for a short period of time (usually for a week). We indicate new businesses with the \`New' label.  
-  
-**Logistic efficiency**: Lieferando.de may temporarily move restaurants or stores down the list if we know that their orders are unlikely to be delivered to customers within a reasonable timeframe due to capacity issues at the business or our delivery services. In addition, both Lieferando.de and the restaurant or store can decide to "close" a business on the platform if it is too busy in which case it will no longer appear in the business list. For chains with multiple restaurants or stores that deliver to a customer's location we show the closest open branch first and move the further away chains down the list.  
-  
-**Sponsored Results**: Lieferando.de offers a paid sponsorship service, allowing businesses to improve their visibility on the platform by moving up their rank in the 'Best match' search results. This improved visibility is in proportion to the ranking they would otherwise have on Lieferando.de based on the ranking factors listed above.  
-  
-For example, a quality 4-star restaurant or store could appear below a 3-star if the customer is further away, so that place may wish to boost its visibility. It is also possible that a restaurant or store may want more orders on a certain day of the week, and uses the sponsorship services to increase orders for that day.  
-  
-While our sponsorship services are important tools for businesses, relevance to customers continues to be one of the main aims behind our ranking. To ensure that the results remain relevant to customers, restaurants and stores have limitations on improving their visibility. For example, it will be too costly for business #150 in an outer suburb to use our sponsored service and obtain the number 1 position for the entire city.  
-  
-We also restrict the number of spots a place can move up the list to ensure that even when restaurants or stores are using our sponsored services, customers feedback will always directly influence their position in the business list. We want to reward restaurants and stores that provide excellent service to customers while offering customers the best ordering experience possible.
+The default order we list our restaurants and stores is what we refer to as the ‘Best Match’. The following parameters influence how Best Match is sorted:
 
   
-**Favourites**: Customers have the possibility to save places as a \`Favourite'. These places will appear higher up in the business list in order for customers to find them more easily.  
-
-**Other factors**: Furthermore, if any filtering, sorting, or searching actions have been taken, this will affect the order and types of restaurants and stores shown based on the eligibility of those restaurants and stores to the filtering, sorting, or searching criteria.
-
+**Distance:** The most important ranking parameter is distance.  We prioritise the partners that are closest to the delivery address to spread the orders on our platform as much as possible between the active restaurants and stores.  We want to ensure your waiting time is short and that partners only need to travel a few kilometres for delivery.  When selecting ‘Pick-up’ instead of ‘Delivery’, we rank all restaurants and stores based on distance in the default listing.  
   
-**Testing**: From time to time, we may run tests or experiments to monitor and improve our service, which may temporarily impact the restaurant or store order. 
+**Reviews:** The quality score is a measurement of our customers’ average feedback via their most recent food and delivery ratings.  It shows a fair image of the delivered quality because we have millions of customers, all with different preferences.  The content or characteristics of a restaurant's menu or meals will not on its own have an effect on the restaurant’s position on the platform, but could impact its quality score due to better reviews.
+
+**Most Popular:** We determine popularity by the number of recent orders processed by a partner compared to other partners in that area. While this mainly applies to chain restaurants, it could also apply to more prominent restaurants in a city centre.  ‘Popular restaurants’ also tend to employ more delivery staff and therefore can typically cover a larger delivery area and fulfil more orders. Based on their popularity, we place these restaurants higher on the list than restaurants that do not have this kind of capacity.
+
+**New Partners:** New partners temporarily receive an improved position in the search results.  To help these partners get started, they receive a higher placement for a short period of time because they have fewer reviews.  We indicate new restaurants with the ‘New’ label.
+
+**Logistic Efficiency:** We may temporarily move restaurants or stores down the list if we know that their orders are unlikely to be delivered to customers within a reasonable timeframe.  This could be due to capacity issues at the restaurant or our delivery services, or during severe weather conditions.  In addition, both Lieferando and the restaurant can decide to "close" a restaurant on the platform if it is too busy.  This means the restaurant or store will temporarily disappear from the search results.  For restaurant chains with multiple restaurant locations that deliver to a customer's location we show the closest open location first and move the other locations further down the list.
+
+**Sponsored Results:** We offer a paid sponsorship service to partners which allows partners to improve their visibility on the platform by moving up their rank in the search results.  This improved visibility is in proportion to the ranking they would otherwise have on the platform based on the ranking parameters listed above. For example, a quality 4-star partner could appear below a 3-star partner if the customer is further away, so that the partner may wish to boost its visibility.  It is also possible that a partner may want more orders on a certain day of the week, and so uses the sponsorship service to increase orders for that day.  While our sponsorship services are important tools for partners, relevance to customers continues to be one of the main aims behind our ranking.  To ensure that the results remain relevant to customers, restaurants have limitations on improving their visibility. For example, it will be too costly for restaurant #150 in an outer suburb to use our sponsored service and obtain the number 1 position for the entire city.  We also restrict the number of spots a partner can move up the list to ensure that even when partners are using our sponsored services, customer feedback will always directly influence their position in the restaurant list.  We want to reward partners that provide excellent service to customers while offering customers the best food-ordering experience possible. Partners using the sponsorship service can be recognised via the “sponsored” label displayed on their listing.  
+  
+**Favourites:** You have the possibility to save restaurants as a ‘Favourite’. These partners will appear higher up in the search results in order for you to find them more easily.  
+  
+**Other Factors:** We may temporarily promote strategic partnerships in the listings which can affect the order of restaurants or stores, or if any filtering, sorting, or searching actions have been taken, this will affect the order and types of restaurants or stores shown based on the eligibility of those restaurants and stores to the filtering, sorting, or searching criteria.  
+  
+**Testing:** From time to time, we may run tests or experiments to monitor and improve our service, and these may have a temporary impact on the position of restaurants or stores.
 
 * * *
