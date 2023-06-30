@@ -431,7 +431,7 @@ _In June 2017, we announced that Yahoo and AOL joined to become a unified digita
             
             1. Applicable Yahoo Entity:
                 
-                1. For OneSearch, Yahoo Entertainment, Yahoo Lifestyle, Yahoo Mail, Yahoo News, Yahoo Search and Yahoo Sport the Applicable Yahoo Entity is Yahoo New Zealand Limited (Address: Level 1, 22-28 Customs Street East, Auckland 1010 New Zealand) and the following terms apply: (a) the Terms and the relationship between you and Yahoo New Zealand Limited will be governed by the laws of New Zealand without regard to its conflict of law provisions, and (b) you and Yahoo New Zealand Limited agree to submit to the exclusive jurisdiction of the courts of New Zealand.
+                1. For OneSearch, Yahoo Entertainment, Yahoo Lifestyle, Yahoo Mail, Yahoo News, Yahoo Search and Yahoo Sport the Applicable Yahoo Entity is Yahoo New Zealand Limited (Address: Level 4, Deloitte House, 20 Customhouse Quay, Wellington, 6011, New Zealand) and the following terms apply: (a) the Terms and the relationship between you and Yahoo New Zealand Limited will be governed by the laws of New Zealand without regard to its conflict of law provisions, and (b) you and Yahoo New Zealand Limited agree to submit to the exclusive jurisdiction of the courts of New Zealand.
                     
                 2. For other services, the Applicable Yahoo Entity is Yahoo Inc. (Address: 770 Broadway, New York, NY 10003, USA), and for such Services the terms of Section 14.2 (United States) apply.
                     
