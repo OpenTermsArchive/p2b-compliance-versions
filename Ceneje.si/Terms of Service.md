@@ -74,83 +74,73 @@ O piškotkih
 
 Vse o uporabi piškotkov je opisano v [Pravilih o zasebnosti](https://www.ceneje.si/pravila-o-zasebnosti#cookies).
 
-Nagradna igra “COUNTING DOWN TILL CHRISTMAS WITH AFRODITA COSMETICS”
---------------------------------------------------------------------
+Nagradno tekmovanje "Kateri je tvoj najljubši okus proteina Just Whey - GymBeam?"
+---------------------------------------------------------------------------------
 
-Pravila nagradne igre “Counting down till christmas with Afrodita cosmetics“ so v nadaljevanju poimenovana “pravila”.
+Pravila nagradnega tekmovanja "Kateri je tvoj najljubši okus proteina Just Whey - GymBeam?" (v nadaljevanju: pravila) so opisana spodaj.
 
   
 
 #### 1\. Organizator nagradne igre
 
-Organizator nagradne igre “Counting down till christmas with Afrodita cosmetics“ (v nadaljevanju: nagradna igra) je Ceneje.si, Ceneje d.o.o. (matična številka: 6699421000), Dunajska cesta 155, 1000 Ljubljana, v sodelovanju s podjetjem, Kozmetika Afrodita d.o.o. (matična številka: 5300444), Kidričeva ulica 54, 3250 Rogaška Slatina, v nadaljevanju: Organizatorja. Nagradna igra se organizira za namen promocije Ceneje.si in Kozmetika Afrodita.
+Pravila nagradnega tekmovanja "Kateri je tvoj najljubši okus beljakovin Just Whey - GymBeam?" (v nadaljevanju: nagradno tekmovanje) sta Ceneje.si, Ceneje d.o.o. (matična številka: 6699421000), Dunajska cesta 155, 1000 Ljubljana in spletna trgovina GymBeam.si, GymBeam s.r.o., ID št. 46 440 224, s sedežem na naslovu Rastislavova 93, 040 01 Košice, Slovaška republika, v nadaljevanju: Organizatorja. Tekmovanje se organizira za promocijo blagovnih znamk Ceneje.si in GymBeam.si.
 
   
 
 #### 2\. Trajanje nagradne igre
 
-Nagradna igra se začne 25.11.2022. Sodelovanje v nagradni igri je možno do 23.12.2022. (tj. najkasneje do 23:59:59 navedenega dne). Nagradna igra se bo odvila v 5 nagradnih krogih, traja pet tednov in se objavlja vsak petek istočasno na Instagram in Facebook straneh Organizatorja.
-
-V času trajanja nagradne igre bo vsak teden v četrtek razglašen zmagovalec predhodnega tedna.
-
-Nagradna igra poteka na Facebook in Instagram straneh Organizatorjev ([https://www.instagram.com/ceneje\_si](https://www.instagram.com/ceneje_si) in [https://www.facebook.com/Ceneje.si](https://www.facebook.com/Ceneje.si)).
+Nagradno tekmovanje se začne 3. 7. 2023. Možno je sodelovati do 16. 7. 2023. (do 23:59:59 tega dne). Izbrani bodo zmagovalci 17. 7. 2023. Nagradno tekmovanje poteka na spletni strani Ceneje.si.
 
   
 
 #### 3 .Sodelovanje
 
-Pravico do sodelovanja v nagradni igri imajo vse fizične osebe s prebivališčem v Republiki Sloveniji in ki so registrirane na družbenem omrežju Facebook ([https://www.facebook.com/Ceneje.si](https://www.facebook.com/Ceneje.si)) ali Instagram ([https://www.instagram.com/ceneje\_si](https://www.instagram.com/ceneje_si)) razen zaposlenih pri Organizatorjih in ožjih članov družin zaposlenih (starši, zakonec, otroci, sestre in bratje). Udeleženci v nagradni igri ne morejo zahtevati nagrade v večjih količinah ali drugačne nagrade od tiste, ki je navedena v pravilih s strani Organizatorjev.
+Pravico do sodelovanja v nagradnem tekmovanju imajo vsi fizične osebe s stalnim prebivališčem v Republiki Sloveniji, razen zaposlenih Organizatorja in članov njihovih tesnih družinskih članov (starši, zakonec, otroci, sestre in bratje). Udeleženci, ki sodelujejo v nagradnem tekmovanju, ne smejo zahtevati nagrad v večjem obsegu ali drugačne nagrade, kot so navedene v Pravilih s strani Organizatorja.
 
-Za sodelovanje v nagradni igri je potrebno v komentar objave na Facebooku/Instagramu na kreativen način odgovoriti na vprašanje, postavljeno v objavi Organizatorja in slediti ostalim navodilom, napisanim v objavi Organizatorja. S sodelovanjem v nagradni igri sodelujoči sprejemajo ta pravila. Pravila nagradne igre so objavljena na Facebook i Instagram straneh in v splošnih pogojih Organizatorja Ceneje.si.
+Za sodelovanje v nagradnem tekmovanju je treba najti pojavno okno na spletnem mestu Ceneje.si, odgovoriti na vprašanje in vpisati osebne podatke (ime, priimek, e-pošta). Posamezniki lahko svojo prijavo delijo na svojih družbenih omrežjih in povabijo prijatelje k sodelovanju, vendar to ne bo povečalo njihovih možnosti za zmago. S sodelovanjem v nagradnem tekmovanju udeleženci sprejemajo ta pravila. Pravila nagradnega tekmovanja bodo objavljena v splošnih pogojih Organizatorja Ceneje.si.
 
   
 
 #### 4\. Nagradni fond in izbor dobitnika
 
-Nagradni fond: 10 x darilni paket Afrodita kozmetike.
+Nagrade v okviru nagradnega tekmovanja "Kateri je tvoj najljubši okus beljakovin Just Whey - GymBeam?" so 3 darilna paketa izdelkov GymBeam v vrednosti 70 € (prva nagrada), darilni paket v vrednosti 55 € (druga nagrada) in darilni paket v vrednosti 40 € (tretja nagrada).
 
-Zmagovalca nagradne igre bo izbrala komisija Ceneje.si, dobitnik pa bo objavljen na straneh družabnih omrežij Organizatorja.
+Zmagovalce nagradnega tekmovanja bo izbral odbor v sestavi: Nenad Pavičević, Ivana Galetić, Polona Stanovnik.
 
   
 
 #### 5\. Kako prevzeti nagrado?
 
-Po zaključku nagradne igre bo dobitnik o tem obveščen v objavi na Facebooku/Instagramu Ceneje.si. Dobitnik ima pet (5) dni časa, da se javi Organizatorju in potrdi prevzem nagrade. Dobitnik mora v potrditvenem sporočilu poslati ime, priimek, naslov, davčno številko in za potrebe dostavne službe - tudi telefonsko številko.
-
-Nagradni fond je 10 paketov Afrodita kozmetike. Ceneje.si bo obvestil zmagovalca o dobitku in poslal vse potrebne podatke podjetju Kozmetika Afrodita, ki bo dobitnikom poslalo darilne pakete kozmetike.
+Po zaključku nagradnega tekmovanja bodo dobitniki obveščeni po e-pošti na naslov, ki so ga navedli pri prijavi. Dobitniki imajo pet (5) dni, da se javijo Organizatorju in potrdijo prevzem nagrade. V svoji potrditvi morajo dobitniki poslati ime, priimek, naslov in telefonsko številko. Nagrade bodo dobitniki prevzeli v dogovoru s spletno trgovino GymBeam.si.
 
   
 
 #### 6\. Javna objava
 
-S sodelovanjem v tej nagradni igri udeleženci soglašajo, da se, če postanejo dobitniki, njihovo ime in slika lahko s strani Organizatorja brez doplačila objavi in uporabi v tiskanem, zvočnem, slikovnem in video materialu.
+S sodelovanjem v tem nagradnem tekmovanju se udeleženci strinjajo, da se lahko, če postanejo dobitniki, njihovo ime in slika objavita in uporabita brezplačno v tiskani, zvočni, slikovni in video vsebini s strani Organizatorja.
 
   
 
 #### 7\. Mladoletni udeleženci nagradne igre
 
-Mladoletne osebe lahko sodelujejo v nagradni igri v skladu z zakonom. Če je dobitnik nagrade mladoleten, bo Organizator nagrado izročil osebi, ki je zakonsko ali na podlagi odloka državnega organa dolžna skrbeti za mladoletno osebo, a samo po predložitvi dokumenta, ki dokazuje starševsko ali skrbniško razmerje.
-
-Ta nagradna igra ni sponzorirana ali promovirana s strani Facebooka, niti ni povezana s Facebookom.
+Mladoletniki imajo pravico sodelovati v nagradnem tekmovanju v skladu z zakonom. Če je nagrajenec nagrade mladoletna oseba, bo Organizator nagrado izročil osebi, ki je na podlagi zakona ali odločbe državnega organa dolžna skrbeti zanjo, po pregledu dokumentov, ki dokazujejo starševski ali skrbniški odnos
 
   
 
 #### 8\. Druge odredbe
 
-Organizator ne odgovarja za nepopolno ali nepravočasno sodelovanje v nagradni igri ali za sodelovanje z napačnimi podatki.
+Organizator ne odgovarja za nepopolno ali nepopolno sodelovanje v nagradnem tekmovanju ali sodelovanje v nagradnem tekmovanju s napačnimi podatki.
 
-Sodelovanje v nagradni igri, nagrada in/ali prevzem nagrade niso pogojeni z nakupom izdelka ali storitve. Udeleženec in druge osebe, ki poskušajo sodelovati v nagradni igri, sami krijejo vse stroške sodelovanja (npr. stroški prenosa podatkov, internetne povezave, poštnine, klicev ali drugih načinov komunikacije, kilometrine itd.), kar velja tudi v primeru odpovedi nagradne igre.
+Sodelovanje v nagradnem tekmovanju, nagrada in/ali prevzem nagrade niso pogojeni s nakupom katerega koli izdelka ali storitve. Udeleženec in druge osebe, ki poskušajo sodelovati v nagradnem tekmovanju, sami krijejo vse stroške sodelovanja (kot so stroški prenosa podatkov, dostopa do interneta, poštnine, klicev in druge komunikacije, kilometrine itd.), pa tudi v primeru odpovedi nagradnega tekmovanja.
 
-V primeru okoliščin, na katere Organizator nima vpliva (višja sila), se lahko nagradna igra odpove. O tem mora Organizator na svojih spletnih straneh in kanalih družbenih omrežij (Facebook in Instagram) obvestiti vse udeležence. V takem primeru Organizator ne odgovarja za nastale stroške ali drugo škodo.
+V primeru okoliščin, na katere Organizator ne more vplivati (višja sila), se lahko nagradno tekmovanje prekliče. Organizator mora o tem obvestiti vse udeležence prek svoje spletne strani in družbenih omrežij (Facebook in Instagram). V takšnem primeru Organizator ni odgovoren udeležencem za morebitne stroške ali druge škode.
 
-Organizator si pridržuje pravico do sprememb teh pravil, če to zahtevajo razlogi tehnične ali poslovne narave, javni razlogi ali drugi utemeljeni razlogi. Organizator bo udeležence o vseh spremembah in novostih nagradne igre obvestil na kanalih družbenih omrežij Facebook in Instagram. Za dodatne informacije lahko zainteresirani pišejo na [info@ceneje.si](mailto:info@ceneje.si).
-
-Odločitev Organizatorja o vseh vprašanjih v zvezi z nagradno igro ali uporato teh pravil je končna in velja za vse udeležence.
+Organizator si pridržuje pravico do spremembe pravil, če to zahtevajo tehnični ali komercialni razlogi, javni razlogi ali drugi upravičeni razlogi. Vse spremembe in novice nagradnega tekmovanja bo Organizator sporočil udeležencem na spletnem mestu Ceneje.si. Za dodatne informacije se lahko zainteresirana oseba obrne na e-poštni naslov [marketing@ceneje.si](mailto:marketing@ceneje.si).
 
   
 
 #### 9\. Reševanje sporov
 
-Vse pritožbe in reklamacije rešuje Organizator, pošljejo pa se lahko na e-mail naslov [info@ceneje.si](mailto:info@ceneje.si). V primeru utemeljenih pritožb se Organizator zavezuje k reševanju le-teh v najkrajšem možnem času. O tem bo obvestil udeleženca in po potrebi tudi druge udeležence. Za pravne spore med Organizatorjem in udeležencem ter drugimi osebami se upošteva veljavno zakonodajo. V primeru sporov, ki bi izhajali iz te nagradne igre, je pristojno sodišče v Ljubljani.
+Vse pritožbe in reklamacije rešuje Organizator, pošljejo pa se lahko na e-mail naslov [marketing@ceneje.si](mailto:marketing@ceneje.si). V primeru utemeljenih pritožb se Organizator zavezuje k reševanju le-teh v najkrajšem možnem času. O tem bo obvestil udeleženca in po potrebi tudi druge udeležence. Za pravne spore med Organizatorjem in udeležencem ter drugimi osebami se upošteva veljavno zakonodajo. V primeru sporov, ki bi izhajali iz te nagradne igre, je pristojno sodišče v Ljubljani.
 
-Datum objave in začetka veljavnosti teh pravil: 25. november 2022
+Datum objave in začetek veljavnosti teh pravil: 3. julij 2023.
