@@ -3,7 +3,7 @@ This article applies to selling in: **France**
 Amazon Services Europe Business Solutions Agreement
 ===================================================
 
-Last updated: December 24, 2022
+Last updated: July 3, 2023
 
 The version of this Agreement in English is the definitive legal version.
 
@@ -258,6 +258,8 @@ These Selling on Amazon Service Terms are part of the Amazon Services Europe Bus
 You hereby irrevocably authorise APE or APUK to debit Your APE Selling on Amazon payment account and/or Your APUK Selling on Amazon payment account and pay us: (a) the applicable Referral Fees; (b) any applicable Variable Closing Fee; and (c) the non-refundable Selling on Amazon Subscription Fee to cover the cost of registering your Selling on Amazon seller account and the ongoing costs of maintaining it. The Selling on Amazon Subscription Fee is payable in advance for each month (or for each transaction, if applicable) during the term of this Agreement.  **“Selling on Amazon Subscription Fee”** means the fee specified as such on the applicable Amazon Site at the time such fee is payable. With respect to each of Your Transactions: (x) **“Sales Proceeds” has the meaning set out in the Business Solutions Agreement**; (y) “**Variable Closing Fee**” means the applicable fee, if any, as specified on the applicable Amazon Site and (z) **“Referral Fee”** means the applicable percentage of the Sales Proceeds from Your Transaction through the applicable Amazon Site specified on the Amazon Site at the time of Your Transaction, based on the categorization by Amazon of the type of product that is the subject of Your Transaction; provided, however, that Sales Proceeds will not include any shipping charges set by us in each of the following two cases: (i) in the case of Your Transactions that consist solely of products fulfilled using Fulfilment by Amazon, and (ii) for sellers on the Individual selling plan, in the case of Your Transactions that consist solely of Media Products.  Except as provided otherwise, all monetary amounts contemplated in these Service Terms will be expressed in the Local Currency, and all payments contemplated by this Agreement will be charged in the Local Currency. 
 
 All taxes or surcharges imposed on fees payable by you to us or our affiliates will be your responsibility.
+
+If you are using VAT Calculation Service, please refer to [VAT Calculation Service Methodology](https://sellercentral-europe.amazon.com/help/hub/reference/external/202084570?locale=en-US) to review Referral Fee Calculation logic.
 
 **S-5**. **Amazon’s Websites and Services.**
 
