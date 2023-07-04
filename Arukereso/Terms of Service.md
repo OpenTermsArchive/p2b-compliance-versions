@@ -63,6 +63,7 @@ Az alábbiakban részletezett általános szerződési feltételek (továbbiakba
         1. Az „Árukereső” szolgáltatásban megjelenő Felhasználók jogosultak a „Shopping” szolgáltatás használatára. A „Shopping” szolgáltatás keretében a Szolgáltató a Google Shopping rendszerébe feltölti a Felhasználó releváns termékadatait abban az esetben, ha
             
             * a Felhasználó pozitív aktuális egyenleggel rendelkezik,
+            * a termékadatok közül külön feltüntetésre kerül a termék ára és a szállítási díj, továbbá, ha
             * a rendelkezésre adott termékadatok megfelelnek a Google Shopping hirdetések mindenkori elvárásainak ([https://support.google.com/merchants/answer/7052112?hl=hu](https://support.google.com/merchants/answer/7052112?hl=hu)).
             
             A Szolgáltató az „Árukereső” szolgáltatáshoz kapcsolódóan biztosítja a „Shopping” szolgáltatás igénybevételét. A Felhasználó a „Shopping” szolgáltatást a Partner Portálon tett külön online nyilatkozattal veheti igénybe és ugyanúgy szüntetheti meg.  
@@ -227,11 +228,9 @@ Az alábbiakban részletezett általános szerződési feltételek (továbbiakba
 
 Jelen ÁSZF legfrissebb, hatályos változata a Felhasználók regisztrációs felületén elhelyezett „Általános szerződési feltételek” linkre kattintva érhető el.
 
-2021\. november 17.
+2023\. június 30.
 
-Jelen ÁSZF 2023.június 30-tól hatályos változata az alábbi linkre kattintva érhető el: [https://www.arukereso.hu/static/general\_terms\_and\_conditions2306.html](https://www.arukereso.hu/static/general_terms_and_conditions2306.html)  
-  
-A 2021.11.16-ig érvényes ÁSZF [itt érhető el](https://www.arukereso.hu/static/general_terms_and_conditions1116.html).
+A 2023.06.30-ig érvényes ÁSZF [itt érhető el](http://www.arukereso.hu/static/general_terms_and_conditions23_6.html).
 
 [www.arukereso.hu](https://www.arukereso.hu/)  
 Online Comparison Shopping Kft. ©  
