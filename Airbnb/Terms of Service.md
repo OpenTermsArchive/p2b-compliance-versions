@@ -385,9 +385,11 @@ Related articles
     Payment methods accepted
     
     We support different payment methods depending on the country your payment account is located in.](https://www.airbnb.com/help/article/126)
-* [Find your payment
+* [Guest
     
-    You can find your upcoming and completed payments in Your payments. This includes payments you’ve made for Homes and Experiences reservation…](https://www.airbnb.com/help/article/3159)
+    Editing, removing, or adding a payment method
+    
+    Find out how to manage your payment methods.](https://www.airbnb.com/help/article/823)
 
 Get help with your reservations, account, and more.
 
