@@ -3,6 +3,8 @@
 HUAWEI Developers Service Agreement
 ===================================
 
+Share to
+
 Click to view [main changes](https://developer.huawei.com/consumer/en/doc/agreement-changes)
 
 Click to download [HUAWEI Developers Service Agreement](https://terms-dre.platform.dbankcloud.cn/agreementservice/developer/getAgreementTemplate?agrType=1000&country=ove&language=en_us&version=2023020902).
@@ -339,4 +341,4 @@ Next
 
 [HUAWEI Developers Merchant Service Agreement](https://developer.huawei.com/consumer/en/doc/start/merchantserviceagreement-0000001052848245 "HUAWEI Developers Merchant Service Agreement")
 
-Share to
+You can go to the [community forum](https://forums.developer.huawei.com/forumPortal/en/home) for more help. If you need other help, use [Intelligent Assistant](https://developer.huawei.com/consumer/en/customerService/#/bot-dev-top/faq-top/faq-talk-top).
