@@ -1,4 +1,4 @@
-Last modified: 3/21/2023
+Last modified: 7/13/2023
 
   
 
@@ -6,23 +6,23 @@ The terms below will apply to Merchants as of the “Effective Date” defined i
 
 These Supplemental Terms include:
 
-[**Definitions**](#kix.tmfz6hmkphng)
+[**Definitions**](#kix.qed1x49afwxv)
 
-[**General Supplemental Terms**](#kix.7706dkjgnhsi)
+[**General Supplemental Terms**](#kix.960lcvi0qjyu)
 
-[**Specific Supplemental Terms**](#kix.sb6yx5fqtw6y)
+[**Specific Supplemental Terms**](#kix.cw34rol8hny)
 
-[**Marketplace Method Terms**](#kix.9dve9ewb3nyt)
+[**Marketplace Method Terms**](#kix.htgwb6r7muaq)
 
-[**Aggregator Method Terms**](#kix.jmazoqv7bdqi)
+[**Aggregator Method Terms**](#kix.u3v5181cp88z)
 
-[**Non-Delivery Terms**](#kix.gfbml3oxf65m)
+[**Non-Delivery Terms**](#kix.pcqwg7ppe8ep)
 
-[**Sponsored Listings Terms**](#kix.325c675xqp8g)
+[**Sponsored Listings Terms**](#kix.da9cs1yf7cw9)
 
-[**Promotion Terms**](#kix.brm3j8fezfmm)
+[**Promotion Terms**](#kix.45xct4oerq72)
 
-[**User Generated Content**](#kix.fyrec7ytnm)
+[**User Generated Content**](#kix.8jqsdpt7nu53)
 
 **DEFINITIONS**
 
@@ -172,7 +172,7 @@ The following terms have the respective meanings given to them below:
 
 **"Transportation Method"** means a mode of transportation that will be used for the purpose of providing delivery services in accordance with the Specific Supplemental Terms for the Aggregator Method.
 
-**"Uber"** means both Uber Portier B.V., a company registered under the laws of the Netherlands (registration number: 65851307) whose registered address is Meester Treublaan 7, 1097 DP, Amsterdam, the Netherlands ("Uber Portier") and Uber Eats Ireland Limited, a company registered under the laws of the Republic of Ireland (registration number: 711975) ("Uber Ireland").
+**"Uber"** means both Uber Portier B.V., a company registered under the laws of the Netherlands (registration number: 65851307) whose registered address is Burgerweeshuispad 301, 1076 HR, Amsterdam, the Netherlands ("Uber Portier") and Uber Eats Ireland Limited, a company registered under the laws of the Republic of Ireland (registration number: 711975) ("Uber Ireland").
 
 "**Uber Data**" means all data related to the access and use of the Uber Eats Services and Uber Tools, including but not limited to all Personal Data related to Merchant and Customers.
 
@@ -341,7 +341,7 @@ Uber shall have the right to audit (directly or indirectly) at Merchant’s offi
 
 **PAYMENTS TERMS**
 
-These Payments Terms of Service _("Payments Terms"_) constitute a legally binding agreement between you as Partner (as defined below) on the platforms provided by Uber (as defined below) ("_Uber Platforms_"), Uber and Uber Payments B.V., a private limited company established in the Netherlands, with its head office situated at Mr. Treublaan 7, 1097 DP, Amsterdam, the Netherlands, and registered with the Chamber of Commerce under number 71201157 (_"Uber Payments"_). These Payments Terms govern the Payments Services (as defined below) performed on behalf of Uber in connection with activities that take place via the Uber Platforms.
+These Payments Terms of Service _("Payments Terms"_) constitute a legally binding agreement between you as Partner (as defined below) on the platforms provided by Uber (as defined below) ("_Uber Platforms_"), Uber and Uber Payments B.V., a private limited company established in the Netherlands, with its head office situated at Burgerweeshuispad 301, 1076 HR, Amsterdam, the Netherlands, and registered with the Chamber of Commerce under number 71201157 (_"Uber Payments"_). These Payments Terms govern the Payments Services (as defined below) performed on behalf of Uber in connection with activities that take place via the Uber Platforms.
 
 The Uber Terms of Service and/or the Services Agreement (_"Uber Terms")_ separately govern the use of the Uber Platforms and the Uber Services. All capitalized terms in these Payments Terms have the meaning set forth in the Uber Terms, unless otherwise defined in these Payments Terms.
 
@@ -362,7 +362,7 @@ The Uber Terms of Service and/or the Services Agreement (_"Uber Terms")_ separat
 2.3 _"Article"_ means an article in these Payments Terms.  
 2.4 _"Business Day"_ means a day on which banks in the Netherlands are open for regular business.  
   
-2.5 _"Custodian"_ means the Stichting Custodian Uber Payments, a foundation established in the Netherlands, situated at Mr. Treublaan 7, 1097 DP, Amsterdam, the Netherlands, and registered with the Chamber of Commerce under number 71400397 and its successor(s) or assignee(s).  
+2.5 _"Custodian"_ means the Stichting Custodian Uber Payments, a foundation established in the Netherlands, situated at Burgerweeshuispad 301, 1076 HR, Amsterdam, the Netherlands, and registered with the Chamber of Commerce under number 71400397 and its successor(s) or assignee(s).  
   
 2.6 _"E-money"_ means a stored value amount issued by Uber Payments to a User that can be used by the User to pay a Partner Charge.  
   
@@ -397,12 +397,12 @@ _
   
 2.16 _"Services"_ means any supplying of goods and/or services provided by the Partner as laid down in the Agreement.  
   
-2.17 _"Uber_" means Uber B.V., a private limited company established in the Netherlands, with its head office situated at Mr. Treublaan 7, 1097 DP, Amsterdam, the Netherlands, and registered with the Chamber of Commerce under number 56317441 and Uber Portier B.V., a private limited company established in the Netherlands, with its head office situated at Mr. Treublaan 7, 1097 DP, Amsterdam, the Netherlands, and registered with the Chamber of Commerce under number 65851307 and their respective successor(s) or assignee(s).
+2.17 _"Uber_" means Uber B.V., a private limited company established in the Netherlands, with its head office situated at Burgerweeshuispad 301, 1076 HR, Amsterdam, the Netherlands, and registered with the Chamber of Commerce under number 56317441 and Uber Portier B.V., a private limited company established in the Netherlands, with its head office situated at Burgerweeshuispad 301, 1076 HR, Amsterdam, the Netherlands, and registered with the Chamber of Commerce under number 65851307 and their respective successor(s) or assignee(s).
 
   
 2.18 _"Uber Amount"_ means any applicable payment, incentive or other amount due by Uber to the Partner under the Agreement.  
   
-2.19 _"Uber Payments"_ means Uber Payments B.V., a private limited company established in the Netherlands, with its head office situated at Mr. Treublaan 7, 1097 DP, Amsterdam, the Netherlands, and registered with the Chamber of Commerce under number 71201157 and its successor(s) or assignee(s).  
+2.19 _"Uber Payments"_ means Uber Payments B.V., a private limited company established in the Netherlands, with its head office situated at Burgerweeshuispad 301, 1076 HR, Amsterdam, the Netherlands, and registered with the Chamber of Commerce under number 71201157 and its successor(s) or assignee(s).  
   
 2.20 "_Uber Platforms_" means the digital platforms that provide the infrastructure and rules for the digital marketplaces offered by Uber.  
   
@@ -414,9 +414,9 @@ Contact details:
 
 Uber Payments B.V.
 
-Mr. Treublaan 7
+Burgerweeshuispad 301
 
-1079 DP Amsterdam
+1076 HR Amsterdam
 
 The Netherlands
 
@@ -706,7 +706,7 @@ The following Specific Supplemental Terms govern the Aggregator Method and Items
 
 1. **Aggregator Items.** Upon Merchant agreeing to the Order Form, the Definitions, the General Supplemental Terms and the Specific Supplemental Terms governing the Aggregator Method, and contingent upon completion of any additional verification steps, the Uber Tools will be made available to Merchant for it to (a) access and request lead generation, demand prediction, payment processing and other related services in connection with its sale and delivery of Items; and (b) fulfil the delivery of its Items using Aggregator Couriers. Uber Ireland does not provide any delivery services to Merchants or Customers with the Aggregator Method. Rather, Uber Ireland provides lead generation, logistics, demand prediction, payment processing and other related services in connection with the sale and delivery by or on behalf of Merchant of Items to be delivered by Aggregator Couriers.
 2. **Payment.**
-    1. Aggregator Service Fee. In consideration for the Uber Eats Services in connection with the Aggregator Method, Uber Ireland will charge Merchant an Aggregator Service Fee in the amount set forth in the Order Form for each Aggregator Item sold by Merchant via the Uber Eats App. Uber Ireland will calculate the Aggregator Service Fee as follows: the Retail Price of the Aggregator Item(s) sold by Merchant via the Uber Eats App (including any VAT or other sales tax) (such amount, the "Aggregator Item Payment") multiplied by the Aggregator Service Fee percentage.
+    1. Aggregator Service Fee. In consideration for the Uber Eats Services in connection with the Aggregator Method, Uber Ireland will charge Merchant an Aggregator Service Fee in the amount and using the calculation set forth in the Order Form for each Aggregator Item sold by Merchant via the Uber Eats App.
     2. Aggregator Delivery Services. Merchant will pay Aggregator Couriers for their delivery services provided to Merchant at its sole discretion, and Merchant is at all times solely responsible for providing payment to Aggregator Couriers. If Merchant is paid for an order, Merchant is responsible for the Aggregator Service Fee even if an Aggregator Courier is unable to complete the delivery. If applicable, Merchant authorizes Uber and/or its Affiliates to collect a delivery charge from Customers on its behalf (the "Aggregator Delivery Charge").
     3. Aggregator Cash Deliveries. Uber may facilitate a delivery option to Customers that allows them to pay for a given Aggregator Item provided by Merchant and all associated fees and charges resulting from that transaction in cash (an "Aggregator Cash Order"). Notwithstanding the appointment of Uber and/or its Affiliates by Merchant as its limited payment collection agent under the Agreement, in the event of an Aggregator Cash Order request by a Customer, Merchant authorizes an Aggregator Courier to collect the Retail Price of the Aggregator Item(s) sold by Merchant via the Uber Eats App (including any VAT or other sales tax) together with the Aggregator Delivery Charge from the Customer on behalf of Merchant. The Aggregator Courier shall be notified of the funds to be collected by the Aggregator Courier ("Aggregator Cash Collections"), exclusive of any gratuities, in the Uber Eats App. Merchant acknowledges and agrees that collection shall be the responsibility of the Aggregator Courier. Merchant acknowledges and agrees that in consideration of Uber Ireland’s provision of the Uber Eats Services under the Agreement, Merchant owes Uber the respective Aggregator Service Fee, regardless of collections related to any attempted or completed deliveries of the Aggregator Items. Uber shall not be deemed to have waived its right to any amounts owed by Merchant if: (a) there are insufficient payment card order to set off against; (b) Merchant does not timely repay any amounts owed to Uber; or (c) Uber elects to require a minimum amount owed prior to initiating collection efforts or otherwise delays collecting amounts owed by Merchant. Uber reserves the right to suspend Merchant’s account if Merchant maintains a negative balance for more than one (1) week. With each payment statement, Uber shall report any offsetting and deductions.
     4. Revenue Transfer. Uber and/or its Affiliates will transfer to Merchant the total (i) Aggregator Item Payment earned by Merchant (other than with respect to Aggregator Cash Orders); (ii) Aggregator Delivery Charge collected from Customers on Merchant’s behalf (other than Aggregator Delivery Charges directly collected by Aggregator Couriers with respect to Aggregator Cash Orders) (iii) gratuity paid by a Customer in respect of delivery services, if applicable, (iv) less (1) the Aggregator Service Fee and (2) any refunds given on behalf of Merchant to Customers (such final transferred amount being the "Aggregator Item Revenue"). The Aggregator Item Revenue will be transferred on a bi-weekly basis.
