@@ -1,4 +1,4 @@
-Last modified: 7/13/2023
+Last modified: 7/14/2023
 
   
 
@@ -6,23 +6,23 @@ The terms below will apply to Merchants as of the “Effective Date” defined i
 
 These Supplemental Terms include:
 
-[**Definitions**](#kix.qed1x49afwxv)
+[**Definitions**](#kix.m9ysa7sel4ls)
 
-[**General Supplemental Terms**](#kix.960lcvi0qjyu)
+[**General Supplemental Terms**](#kix.wi9i5m8m2spe)
 
-[**Specific Supplemental Terms**](#kix.cw34rol8hny)
+[**Specific Supplemental Terms**](#kix.iw4mksu8oga6)
 
-[**Marketplace Method Terms**](#kix.htgwb6r7muaq)
+[**Marketplace Method Terms**](#kix.a00y45nlgb1t)
 
-[**Aggregator Method Terms**](#kix.u3v5181cp88z)
+[**Aggregator Method Terms**](#kix.wcnovb4ot7s8)
 
-[**Non-Delivery Terms**](#kix.pcqwg7ppe8ep)
+[**Non-Delivery Terms**](#kix.l16lmb3n04fa)
 
-[**Sponsored Listings Terms**](#kix.da9cs1yf7cw9)
+[**Sponsored Listings Terms**](#kix.6b94b0s09lx0)
 
-[**Promotion Terms**](#kix.45xct4oerq72)
+[**Promotion Terms**](#kix.p8b0u541et9n)
 
-[**User Generated Content**](#kix.8jqsdpt7nu53)
+[**User Generated Content**](#kix.5t7h9patjlmy)
 
 **DEFINITIONS**
 
