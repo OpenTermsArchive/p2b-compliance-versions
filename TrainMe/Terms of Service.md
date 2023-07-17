@@ -1,426 +1,408 @@
-General Conditions of Use and Sale of TRAINME SAS
--------------------------------------------------
+Conditions Générales d’Utilisation et de Vente de TRAINME SAS
+-------------------------------------------------------------
 
-These general conditions of use and sale (hereinafter referred to as “General Conditions”) are concluded between:
+Les présentes conditions générales d’utilisation et de vente (ci-après dénommées « Conditions Générales ») sont conclues entre :
 
-* TrainMe, a limited liability company, registered with the Paris RCS under number 811 829 837, whose registered office is located at TRAINME – 5 avenue general de Gaulle Saint-Mandé 94160 (hereinafter: the “Company”).
-    
+*    La société TrainMe, société à responsabilité limitée, immatriculée au RCS de Paris sous le n° 811 829 837, dont le siège social est situé TRAINME – 5 avenue general de Gaulle Saint-Mandé 94160 (ci-après : la « Société »).
 
-And
+Et
 
-* The User of the Site https://www.trainme.co
-    
+*    L’Utilisateur du Site https://www.trainme.co
 
-### Preamble
+### Préambule
 
-The Company operates a website accessible at the address http://www.trainme.co, offering an online marketplace dedicated to connecting sports professionals with individuals.
+La Société exploite un site internet accessible à l’adresse http://www.trainme.co, proposant une place de marché en ligne dédiée à la mise en relation des professionnels du sport avec des particuliers.
 
-The purpose of these General Conditions is to govern the terms and conditions of use and sale of the Site, as well as to define the rights and obligations of the Users put in contact on the Site.
+Les présentes Conditions Générales ont pour objet de régir les conditions et modalités d’utilisation et de vente du Site, ainsi que de définir les droits et obligations des Utilisateurs mis en relation sur le Site.
 
-Any access and/or use of the Site implies unconditional acceptance and compliance with all the terms of these General Conditions.
+Tout accès et/ou utilisation du Site suppose l’acceptation sans réserves et le respect de l’ensemble des termes des présentes Conditions Générales.
 
-### I – Definitions
+### I – Définitions
 
-**User**: Any person benefiting from a personal space on the Site (the "Personal Account"). 
+**Utilisateur** : Toute personne bénéficiant d’un espace personnel sur le Site (le « Compte Personnel »).
 
-**Client**: Any person benefiting from a personal space on the Site (the “Personal Account”), and candidate for the services
+**Client** : Toute personne bénéficiant d’un espace personnel sur le Site (le « Compte Personnel »), et candidate aux prestations
 
-**Coach**: Any sports professional benefiting from a personal space on the Site (the “Personal Account”) and who offers Services
+**Coach** : Tout professionnel du sport bénéficiant d’un espace personnel sur le Site (le « Compte Personnel ») et qui propose des Prestations
 
-As a reminder, according to article L212-1: "Only can, against remuneration, teach, animate or supervise a physical or sporting activity or train its practitioners, as a main or secondary occupation, in a usual, seasonal or occasional, subject to the provisions of the fourth paragraph of this article and of article L. 212-2 of this code, holders of a diploma, title for professional purposes or certificate of qualification"
+Pour rappel, d'après l'article L212-1: "Seuls peuvent, contre rémunération, enseigner, animer ou encadrer une activité physique ou sportive ou entraîner ses pratiquants, à titre d'occupation principale ou secondaire, de façon habituelle, saisonnière ou occasionnelle, sous réserve des dispositions du quatrième alinéa du présent article et de l'article L. 212-2 du présent code, les titulaires d'un diplôme, titre à finalité professionnelle ou certificat de qualification"
 
-Invoicing Mandate: designates the invoicing mandate concluded between the Coach and the Company under the terms of which the Coach agrees to entrust the Company, in compliance with the applicable rules, with the establishment of its invoices relating to the Services provided for a Client via the Site.
+**Mandat de Facturation** : désigne le mandat de facturation conclu entre le Coach et la Société aux termes duquel le Coach accepte de confier à la Société, dans le respect des règles applicables, l’établissement de ses factures relatives aux Prestations réalisées pour un Client via le Site.
 
-Site: refers to the website whose address is [http://www.trainme.co](http://www.trainme.co/)
+**Site :** désigne le site internet dont l’adresse est http://www.trainme.co
 
-### II – Registration on the Site
+### II – Inscription au Site
 
-2.1 To be able to access the Services, the User must register on the site
+2.1 Pour pouvoir accéder aux Services, l’Utilisateur doit s’inscrire sur le site
 
-The User must be at least 18 years old and be legally capable of contracting and using the Site in accordance with these General Conditions. The User is required to provide accurate information that he undertakes to update immediately in the event of modifications.
+L’Utilisateur doit être âgé d’au moins 18 ans et être capable juridiquement de contracter et d’utiliser le Site conformément aux présentes Conditions Générales. L’Utilisateur est tenu de fournir des informations exactes qu’il s’engage à mettre immédiatement à jour en cas de modifications.
 
-Access to the account created is protected by a username and password chosen by the User when registering on the Site. The User is solely responsible for any use that may be made of his username and password, and the sole guarantor of their 
+L’accès au compte créé est protégé par un identifiant et un mot de passe choisi par l’Utilisateur lors de son inscription sur le Site. L’Utilisateur est seul responsable de tout usage qui pourrait être fait de son identifiant et mot de passe, et seul garant de leur confidentialité, ainsi que de toute utilisation de son compte.
 
-confidentiality, as well as any use of his account.
+2.2 Pour être référencé comme Coach sur le Site, celui-ci est tenu de passer un entretien de certification auprès des équipes TrainMe
 
-2.2 To be referenced as a Coach on the Site, the latter is required to pass a certification interview with the TrainMe teams
+Le Coach est référencé uniquement sous son prénom. Le Coach s’engage à ne prendre contact directement avec le client sans passer par la plateforme TrainMe.
 
-The Coach is referenced only under his first name. The Coach undertakes not to contact the client directly without going through the TrainMe platform.
+Le Coach accepte par ailleurs de conclure un [Mandat de facturation](https://trainme.co/coach-sportif/26-mandat) avec la Société pour utiliser les Services.
 
-The Coach also agrees to enter into a Billing Mandate with the Company to use the Services.
+2.3 Dans l'hypothèse où l’Utilisateur fournirait des données fausses, inexactes, périmées ou incomplètes, la Société sera en droit de suspendre ou de procéder à la fermeture de son compte et de lui refuser, à l'avenir, l'accès à tout ou partie des Services.
 
-2.3 In the event that the User provides false, inaccurate, outdated or incomplete data, the Company shall be entitled to suspend or close his account and refuse him, in the future, access to all or part of the Services.
+### III – Description des Services et fonctionnement du Site
 
-### III – Description of the Services and operation of the Site
+L’enregistrement d’un Client via la création d’un Compte Personnel est la condition préalable à toute réservation et paiement d’une Prestation (cf. Conditions Générales d’Utilisation du Site).
 
-The registration of a Customer via the creation of a Personal Account is the prerequisite for any reservation and payment of a Service (cf. General Conditions of Use of the Site).
+Lorsqu'un Client souhaite bénéficier d’une Prestation avec un Coach, le Client doit tout d'abord prendre connaissance des conditions et détails des Prestations proposées par le Coach sur sa fiche de présentation, avant d’effectuer sa réservation (par exemple les zones géographiques desservies par le Coach, le nombre de personnes maximum pouvant assister à la séance du coach, etc.)Un engagement n'est formé entre le Client et le Coach qu'à compter du moment où le Client a payé en ligne la Prestation choisie. L’Utilisateur reconnaît que le paiement de la Prestation ne constitue pas l'acceptation d'une offre ferme et que la conclusion de la Prestation est subordonnée à la confirmation par le Coach, même si celui-ci est dans l’obligation d’accepter la réservation sauf cas de force majeure ou bien en cas de présomption par le Coach de l’existence d’un risque quant à sa sécurité suite au premier contact téléphonique. En cas d’impossibilité du Coach d’honorer cette réservation, (par exemple en cas d’événement grave), la Société et le Coach déploieront leurs meilleurs efforts pour proposer un créneau alternatif ou un Coach alternatif au Client dans les meilleurs délais ou son remboursement.
 
-When a Customer wishes to benefit from a Service with a Coach, the Customer must first read the conditions and details of the Services offered by the Coach on his presentation sheet, before making his reservation (for example the areas geographical areas served by the Coach, the maximum number of people who can attend the coach's session, etc.) A commitment is only formed between the Client and the Coach from the moment the Client has paid online for the chosen Service . The User acknowledges that payment for the Service does not constitute acceptance of a firm offer and that the conclusion of the Service is subject to confirmation by the Coach, even if the latter is obliged to accept the reservation except in cases of force majeure or in the event of presumption by the Coach of the existence of a risk as to his safety following the first telephone contact. If the Coach is unable to honor this reservation, (for example in the event of a serious event), the Company and the Coach will use their best efforts to offer an alternative time slot or an alternative Coach to the Customer as soon as possible or refund.
+Le paiement de la Prestation est réalisé par carte bancaire, par paiement sécurisé (via Stripe) mis à la disposition des Utilisateurs sur le Site.
 
-Payment for the Service is made by bank card, by secure payment (via Stripe) made available to Users on the Site.
+La consignation du prix de la Prestation est effectuée sur un compte dédié ouvert au nom de la Société auprès d'un établissement bancaire de son choix. Une fois le prix de la Prestation consigné sur le compte dédié, la Société est seule habilitée à ordonner à l'établissement bancaire de procéder à son versement au Coach, déduction faite de la commission due à la Société au titre de l'utilisation de ses services.
 
-The consignment of the price of the Service is made in a dedicated account opened in the name of the Company with a banking establishment of its choice. Once the price of the Service has been entered into the dedicated account, the Company alone is authorized to order the banking establishment to pay it to the Coach, after deducting the commission due to the Company for the use of its services.
+En aucun cas une Prestation ne pourra être effectuée en l’absence du paiement du prix de la Prestation.
 
-Under no circumstances may a Service be performed in the absence of payment of the price of the Service.
+Le Client dispose d’un délai de quatorze (14) jours calendrier pour exercer son droit de rétractation sans avoir à justifier de motifs ni à payer de pénalités. Ce délai de quatorze (14) jours court à compter de la date de validation de son paiement en ligne. Le Client peut exercer son droit de rétractation par lettre recommandée avec avis de réception adressée au Service Clients de la Société. Conformément aux dispositions de l’article L. 121-20-2 du Code de la Consommation, le droit de rétractation ne peut pas être exercé lorsque le Client a déjà bénéficié de sa Prestation. En cas d’annulation de la Prestation pour raison valable à la demande de l’Utilisateur (par exemple : conformément à son droit de rétractation de 14 jours à compter de la date de réservation en ligne, ou en cas de force majeure) et / ou du Coach (e.g. en cas de force majeure ou bien en cas de présomption par le Coach de l’existence d’un risque quant à sa sécurité suite au premier contact téléphonique), les sommes initialement dues au titre de la Prestation seront retournées au Client, et au Coach ne pourra en aucun cas prétendre au versement desdites sommes, dans la mesure où lui seul assume les risques liés à la Prestation. Dans un souci de clarification, en cas d’annulation par le Coach pour raison de risques quant à sa sécurité suite au déplacement du Coach chez le Client, les sommes dues au titre de la Prestation ne seront pas retournées au Client. Passé le délai de rétractation de 14 jours, les sommes dues au titre de la Prestation seront retournées au Client à hauteur de 100% si le Client annule la Prestation plus de 24h avant la date prévue de la Prestation, et à hauteur de 0% si le Client annule la Prestation moins de 24 heures avant la date prévue de la Prestation.
 
-The Customer has a period of fourteen (14) calendar days to exercise his right of withdrawal without having to justify reasons or pay penalties. This period of fourteen (14) days runs from the date of validation of its online payment. The Customer may exercise his right of withdrawal by registered letter with acknowledgment of receipt addressed to the Company's Customer Service. In accordance with the provisions of Article L. 121-20-2 of the Consumer Code, the right of withdrawal cannot be exercised when the Customer has already benefited from his Service. In the event of cancellation of the Service for valid reason at the request of the User (for example: in accordance with his right of withdrawal of 14 days from the date of the online reservation, or in the event of force majeure) and / or the Coach (e.g. in the event of force majeure or in the event of presumption by the Coach of the existence of a risk as to his safety following the first telephone contact), the sums initially due for the Service will be returned to the Client, and the Coach may not under any circumstances claim payment of said sums, insofar as he alone assumes the risks associated with the Service. For the sake of clarification, in the event of cancellation by the Coach for reasons of safety risks following the Coach's visit to the Client, the sums due for the Service will not be returned to the Client. After the withdrawal period of 14 days, the sums due for the Service will be returned to the Customer up to 100% if the Customer cancels the Service more than 24 hours before the scheduled date of the Service, and up to 0% if the Customer cancels the Service less than 24 hours before the scheduled date of the Service.
+Toute Prestation pour laquelle le Client aura été identifié grâce à ses Codes Confidentiels sera prise en compte par le Site et engagera le Client concerné.
 
-Any Service for which the Customer has been identified using his Confidential Codes will be taken into account by the Site and will bind the Customer concerned.
+Les Coachs ayant validé un entretien auprès des équipes TrainMe sont référencés dans notre base de données
 
-Coaches who have validated an interview with the TrainMe teams are referenced in our database
+Une facture est alors établie et émise par la Société au nom et pour le compte du Coach, sur la base des informations fournies par ce dernier et adressée par la Société au Client. Le Coach est tenu de communiquer à la Société toutes les informations ou autres mentions légales devant y figurer conformément à ses obligations légales, ainsi qu’il est prévu par le [Mandat de facturation.](https://trainme.co/coach-sportif/26-mandat)
 
-An invoice is then drawn up and issued by the Company in the name and on behalf of the Coach, on the basis of the information provided by the latter and sent by the Company to the Client. The Coach is required to communicate to the Company all information or other legal notices that must appear therein in accordance with its legal obligations, as provided for in the Billing Mandate.
+Pour valider la Prestation, le Client est tenu de laisser une évaluation sur la prestation effectuée par le Coach. La validation de la Prestation entraine le paiement au Coach du montant de la facture, déduction faite de la Prestation payable à la Société par celui-ci.
 
-To validate the Service, the Client is required to leave an evaluation of the service provided by the Coach. The validation of the Service entails the payment to the Coach of the amount of the invoice, after deduction of the Service payable to the Company by the latter.
+### IV – Accès au Site et aux Services
 
-### IV – Access to the Site and Services
+L’accès au Site et aux Services est exclusivement réservé aux Utilisateurs inscrits. De même, les Coachs doivent donner mandat à la Société pour établir et émettre leurs factures en leur nom et pour leur compte (en acceptant le [Mandat de facturation](https://trainme.co/coach-sportif/26-mandat)) pour pouvoir utiliser les Services du Site.
 
-Access to the Site and the Services is exclusively reserved for registered Users. Similarly, Coaches must authorize the Company to draw up and issue their invoices in their name and on their behalf (by accepting the Invoicing Mandate) in order to be able to use the Services of the Site.
+Les Utilisateurs font leur affaire personnelle de la mise en place des moyens informatiques et de télécommunications permettant l’accès au Site. Ils conservent à leur charge les frais de télécommunication lors de l’accès à internet et de l’utilisation du Site.
 
-Users are personally responsible for setting up the IT and telecommunications resources allowing access to the Site. They bear the cost of telecommunications when accessing the internet and using the Site.
+Le Site est accessible 24h/24, 7j/7 pour l’ensemble des Utilisateurs.
 
-The Site is accessible 24 hours a day, 7 days a week for all Users.
+La Société se réserve le droit, sans préavis, ni indemnité, de fermer temporairement ou définitivement le Site ou l’accès à un ou plusieurs Services pour effectuer une mise à jour, des modifications ou un changement sur les méthodes opérationnelles, les serveurs et les heures d’accessibilité, sans que cette liste ne soit limitative.
 
-The Company reserves the right, without notice or compensation, to temporarily or permanently close the Site or access to one or more Services to update, modify or change the operational methods, servers and hours of accessibility, without this list being exhaustive.
+La Société se réserve le droit d’apporter au Site et aux Services toutes les modifications et améliorations qu’elle jugera nécessaires ou utiles dans le cadre du bon fonctionnement du Site et de ses Services.
 
-The Company reserves the right to make to the Site and the Services all the modifications and improvements that it deems necessary or useful for the proper functioning of the Site and its Services.
+### V- Prix des Services
 
-### V- Price of Services
+Le Coach paye une Prestation à la Société, calculée sur la base d’un pourcentage (15% TTC) de la valeur totale du prix de la Prestation. **En résumé si le cours du Coach est de 50 euros, la commission TrainMe est de 7,5 euros.**
 
-The Coach pays a Service to the Company, calculated on the basis of a percentage (15% including tax) of the total value of the price of the Service. In summary, if the Coach's course is 50 euros, the TrainMe commission is 7.5 euros.
+Cette Prestation est directement prélevée sur le montant payable au Coach lors de la validation de la fin de la Prestation par le Client. 
 
-This Service is deducted directly from the amount payable to the Coach upon validation of the end of the Service by the Client.
+Pour les prestations de conseil sur-mesure ou demandes particulières, les tarifs sont disponibles sur simple demande par le biais du service client (hello@trainme.co). Cette prestation fera alors l’objet d’un contrat spécifique entre la Société et le Client.
 
-For tailor-made consulting services or special requests, rates are available on request through customer service (hello@trainme.co). This service will then be the subject of a specific contract between the Company and the Client.
+### VII- Système d’évaluation
 
-### VII- Evaluation system
+A la fin de chaque Prestation, l’Utilisateur est tenu d’évaluer la prestation du Coach pour valider la Prestation. Cette évaluation se compose notamment d’une note globale et d’un bref commentaire qui apparait sur la fiche de du Coach.
 
-At the end of each Service, the User is required to evaluate the Coach's service to validate the Service. This evaluation consists in particular of an overall score and a brief comment that appears on the Coach's profile.
+Les évaluations permettent de donner des indications relatives à la qualité de la prestation effectuée, aux compétences mises en œuvre dans le cadre de la Prestation et à la satisfaction finale du Client
 
-The evaluations make it possible to give indications relating to the quality of the service carried out, the skills implemented within the framework of the Service and the final satisfaction of the Customer.
+Les évaluations laissées par les Clients ne peuvent être modifiées ou supprimées du profil du Coach, sauf demande exceptionnelle du Coach auprès de la Société expliquant la situation et après information du Client.
 
-The evaluations left by the Clients cannot be modified or deleted from the Coach's profile, unless the Coach makes an exceptional request to the Company explaining the situation and after informing the Client.
+Le nombre d’évaluations permet au Coach de bénéficier d’un meilleur référencement sur le Site, en fonction des critères choisis par les Utilisateurs et de faire ainsi remonter son profil dans les résultats de recherche.
 
-The number of evaluations allows the Coach to benefit from a better referencing on the Site, according to the criteria chosen by the Users and thus to raise his profile in the search results.
+### VIII - Engagements
 
-### VIII - Commitments
+8.1 L’Utilisateur s’engage à accéder et utiliser le Site et les Services conformément aux lois en vigueur et aux présentes Conditions Générales.
 
-8.1 The User undertakes to access and use the Site and the Services in accordance with the laws in force and these General Conditions.
+A cet égard, l’Utilisateur reconnait qu’aux fins exclusives de vérification du respect par lui des présentes Conditions Générales et des lois applicables, la Société peut prendre connaissance de tout Contenu publié ou échangé sur le Site.
 
-In this regard, the User acknowledges that for the sole purpose of verifying compliance by him with these General Conditions and applicable laws, the Company may take cognizance of any Content published or exchanged on the Site.
+8.2 L’Utilisateur s’engage à réaliser toutes les déclarations et formalités nécessaires à son activité, ainsi qu’à satisfaire à toutes ses obligations légales, sociales, administratives et fiscales et à toutes les obligations spécifiques qui lui incombe le cas échéant en application du droit français et/ou de la législation étrangère dont il dépend, dans le cadre de son activité et de l’utilisation des Services.
 
-8.2 The User undertakes to carry out all the declarations and formalities necessary for his activity, as well as to meet all his legal, social, administrative and tax obligations and all the specific obligations incumbent upon him, where applicable, in application of the French law and/or the foreign legislation on which it depends, in the context of its activity and the use of the Services.
+En cas de demande, l’Utilisateur s’engage à fournir, sans délai, à la Société tout justificatif prouvant qu’il remplit les conditions énoncées dans le présent article.
 
-In the event of a request, the User undertakes to provide the Company, without delay, with any proof proving that he meets the conditions set out in this article.
+L’Utilisateur est seul responsable du bon accomplissement des formalités précitées qui lui incombent. La responsabilité de la Société ne pourra pas être engagée à ce titre.
 
-The User is solely responsible for the proper fulfillment of the aforementioned formalities incumbent upon him. The liability of the Company cannot be engaged in this respect.
+8.3 L’Utilisateur s’interdit de publier sur les pages du Site accessibles aux autres Utilisateurs (notamment sur la page profil du Coach, les espaces de discussion etc.) toute « information de contact » telle que notamment un numéro de téléphone ou une adresse email.
 
-8.3 The User is prohibited from publishing on the pages of the Site accessible to other Users (in particular on the Coach's profile page, discussion areas, etc.) any "contact information" such as, in particular, a telephone number or an address. E-mail.
+8.4 Les Utilisateurs s’engagent à faire une utilisation loyale du Site et des Services et s’interdisent expressément de contourner les Services et le Site. En conséquence, lorsqu’un Coach et un Client sont mis en relation par le biais du Site relativement à une Prestation, ils s’engagent à contracter exclusivement par l’intermédiaire du Site.
 
-8.4 Users undertake to make fair use of the Site and the Services and expressly refrain from circumventing the Services and the Site. Consequently, when a Coach and a Client are put in contact through the Site in relation to a Service, they undertake to contract exclusively through the Site.
+Tout Utilisateur constatant un contournement des Services de la Société ou incité par un autre Utilisateur à les contourner, s’engage à en informer immédiatement la Société.
 
-Any User noting a circumvention of the Company's Services or encouraged by another User to circumvent them, undertakes to immediately inform the Company.
+De même, tout Utilisateur s’interdit de procéder à toute extraction du contenu du Site pour une activité similaire ou concurrente, ou à des fins de recrutement.
 
-Similarly, any User is prohibited from carrying out any extraction of the content of the Site for a similar or competing activity, or for recruitment purposes.
+8.5 Le Client s’engage à proposer une offre de Prestation sérieuse et suffisamment détaillée au(x) Coach(s) avec le(s)quel(s) il rentre en contact par le biais du Site en vue d’obtenir une proposition tarifaire.
 
-8.5 The Client undertakes to propose a serious and sufficiently detailed Service offer to the Coach(s) with whom he/she comes into contact through the Site in order to obtain a price proposal.
+A ce titre, le Client s’engage à apporter au Coach toute précision nécessaire afin que le descriptif de l’offre de Prestation soit le plus fidèle possible et n’induise pas le Coach en erreur.
 
-As such, the Client undertakes to provide the Coach with all necessary details so that the description of the Service offer is as accurate as possible and does not mislead the Coach.
+Le Client s’interdit en revanche de contacter un Coach pour une Prestation qu’il n’a pas l’intention d’honorer.
 
-On the other hand, the Client is prohibited from contacting a Coach for a Service that he does not intend to honour.
+Le Client s’interdit également d’utiliser les Services et le Site pour faire la promotion de son activité ou de celle d’un tiers. A ce titre, il s’engage notamment à ne pas envoyer de message publicitaire aux Utilisateurs du Site ou à les démarcher.
 
-The Customer is also prohibited from using the Services and the Site to promote its activity or that of a third party. As such, it undertakes in particular not to send advertising messages to Users of the Site or to canvass them.
+8.6 Le Client s’engage à ne pas demander l’annulation de son paiement par provision en monnaie électronique à son établissement financier pendant le cours de la Prestation.
 
-8.6 The Client undertakes not to request the cancellation of his payment by provision in electronic money from his financial institution during the course of the Service.
+8.7 Les coachs certifiés Service à le Personne considèrent que le client va utiliser l'attestation fiscale mentionnant cette certification dans leur déclaration aux autorités compétentes. Si ne souhaite pas l'utiliser, le client doit en informer le coach.
 
-8.7 Personal Service certified coaches consider that the client will use the tax certificate mentioning this certification in their declaration to the competent authorities. If does not wish to use it, the client must inform the coach.
+Carte Cadeau :
 
-Gift card :
+Les Cartes sont valables pendant une durée d’un an à compter de leur date d’achat. La date limite de validité est indiquée sur la Carte. Les Cartes sont matérialisées par un bon d'achat du montant. Ce bon est spécifié sur le mail de confirmation de commande. Ce bon est valable sur tous les Coachs TrainMe. Il est cumulable avec les autres offres.
 
-Cards are valid for one year from the date of purchase. The expiry date is indicated on the Card. The Cards are materialized by a voucher for the amount. This voucher is specified on the order confirmation email. This voucher is valid on all TrainMe Coaches. It can be combined with the other offers.
+Les Packs :
 
-The Packages:
+Les packs 5 cours sont valables pendant un an à compter de leur date d'achat. Ils sont matérialisés par des crédits d'activités valable pour 4 cours. Ils ne peuvent pas être utilisés sur un autre cours. Vous retrouverez vos crédits d'activités en cours et passés dans la rubrique "Mes crédits" sur votre compte TrainMe.
 
-The 5 lesson packs are valid for one year from the date of purchase. They are materialized by credits of activities valid for 4 courses. They cannot be used on another course. You will find your credits for current and past activities in the "My credits" section of your TrainMe account.
+Les packs 10 cours sont valables pendant un an à compter de leur date d'achat. Ils sont matérialisés par des crédits d'activités valable pour 9 cours. Ils ne peuvent pas être utilisés sur un autre cours. Vous retrouverez vos crédits d'activités en cours et passés dans la rubrique "Mes crédits" sur votre compte TrainMe.
 
-The 10 lesson packs are valid for one year from the date of purchase. They are materialized by credits of activities valid for 9 courses. They cannot be used on another course. You will find your credits for current and past activities in the "My credits" section of your TrainMe account.
+Les packs 20 cours sont valables pendant un an à compter de leur date d'achat. Ils sont matérialisés par des crédits d'activités valable pour 19 cours. Ils ne peuvent pas être utilisés sur un autre cours. Vous retrouverez vos crédits d'activités en cours et passés dans la rubrique "Mes crédits" sur votre compte TrainMe.
 
-The 20 lesson packs are valid for one year from the date of purchase. They are materialized by credits of activities valid for 19 courses. They cannot be used on another course. You will find your credits for current and past activities in the "My credits" section of your TrainMe account
+Lorsqu'un pack est consommé en partie (1 cours ou plus), il ne peut plus être remboursé. Il peut, néanmoins, être attribué à un autre Coach, en cas de circonstances particulières.
 
-When a pack is partially consumed (1 lesson or more), it can no longer be refunded. It can, however, be assigned to another Coach, in the event of special circumstances.
+Les Chèques CESUs :
 
-CESU Vouchers:
+A réception des chèques ou tickets CESUs, nous créons un bon du montant reçu moins 10%. Ce bon sera valable un an à sa date de création. Ce bon est valable sur tous les Coachs TrainMe dispensant des cours à Domicile. 
 
-Upon receipt of the CESU checks or tickets, we create a voucher for the amount received less 10%. This voucher will be valid for one year from its date of creation. This voucher is valid on all TrainMe Coaches providing lessons at home.
+Il est cumulable avec les autres offres.
 
-It can be combined with the other offers.
+### IX – Responsabilité
 
-### IX – Liability
+Responsabilité des Utilisateurs, Clients et Coachs
 
-Responsibility of Users, Clients and Coaches
+9.1 L’Utilisateur est seul responsable du préjudice direct ou indirect qu’il est susceptible de subir du fait d’informations inexactes, incomplètes, et/ ou trompeuses qu’il fournirait lors de son inscription ou en l’absence de mise à jour de ces informations, ce dont il assume seul les conséquences.
 
-9.1 The User is solely responsible for the direct or indirect damage that he is likely to suffer as a result of inaccurate, incomplete, and/or misleading information that he provides when registering or in the absence of an update of this information, for which he bears the consequences alone.
+9.2 L’Utilisateur est seul responsable de l’ensemble des Contenus qu’il choisit de mettre en ligne sur le Site, la Société ne contrôlant pas le Contenu avant la mise en ligne.
 
-9.2 The User is solely responsible for all the Content that he chooses to put online on the Site, the Company not controlling the Content before it is put online.
+L’Utilisateur s’interdit expressément de publier tout Contenu injurieux, diffamant, dénigrant, calomnieux, raciste, xénophobe, contraire à la morale et aux bonnes mœurs, contrefaisant, portant atteinte à l’ordre public ou aux droits de tiers, susceptible de porter atteinte aux droits, à la réputation et à l’image de la Société et plus généralement, dont la teneur enfreindrait la loi et/ou les règlements, notamment d’ordre pénal.  
+L'utilisateur garantit ainsi qu'il a obtenu toutes les autorisations, droits, consentements, permissions, et le pouvoir et l'autorité nécessaire à la publication du contenu qu'il soumet, dépose et affiche sur le Site.
 
-The User is expressly prohibited from publishing any Content that is abusive, defamatory, denigrating, slanderous, racist, xenophobic, contrary to morality and good customs, infringing, undermining public order or the rights of third parties, likely to damage to the rights, reputation and image of the Company and more generally, the content of which would violate the law and/or regulations, in particular of a criminal nature.
+9.3 L’Utilisateur est seul responsable de la conclusion et de l’exécution des contrats relatifs à une Prestation qu’il conclut avec un autre Utilisateur par l’intermédiaire du Site, la Société n’intervenant que pour les mettre en relation. La conclusion et l’exécution de ces contrats, qui interviennent directement entre un Coach et un Client s’opèrent à l’initiative et sous la responsabilité exclusive de ces derniers.
 
-The user thus guarantees that he has obtained all the authorizations, rights, consents, permissions, and the power and authority necessary for the publication of the content he submits, deposits and displays on the Site.
+9.4 Le Coach reconnait que les outils et moyens techniques mis à disposition par la Société notamment pour la facturation ne l’exonèrent pas de sa responsabilité quant aux obligations légales lui incombant à cet égard, en particulier s’agissant des mentions obligatoires devant figurer sur ses factures ou en terme de taxes applicables.
 
-9.3 The User is solely responsible for the conclusion and execution of contracts relating to a Service that he concludes with another User through the Site, the Company only intervening to put them in contact. The conclusion and execution of these contracts, which occur directly between a Coach and a Client, take place on the initiative and under the exclusive responsibility of the latter.
+9.5  Le Coach a l’entière responsabilité de se rendre en mesure de déclarer les revenus de son activité de service à la personne sur le portail prévu à cet effet. Ceci est nécessaire à l’exercice de son activité de « services à la personne ». Le prestataire doit également assumer les contraintes liées à l’exigence d’exclusivité inhérente à l’activité. Le Coach doit être en mesure de présenter à TRAINME tous les justificatifs nécessaires. À défaut, c’est le Coach qui doit assumer la responsabilité de la perte des avantages fiscaux pour l’utilisateur
 
-9.4 The Coach acknowledges that the tools and technical means made available by the Company, in particular for invoicing, do not exempt him from his responsibility for the legal obligations incumbent on him in this respect, in particular with regard to the mandatory information that must appear on his invoices or in terms of applicable taxes.
+9.6 L’UTILISATEUR a l’entière responsabilité quant au respect du plafond global des niches fiscales adoptées chaque année dans la loi de Finance. Par conséquent, TrainMe ne peut être tenu responsable dans le cas où l'UTILISATEUR ne puisse plus, pour quelconque raison, bénéficier des avantages fiscaux auxquels les prestations de service proposées sur la plateforme donnent accès (notamment dans le cas où les dépenses en Services à la Personne de l’UTILISATEUR excèdent le plafond global des niches fiscales.
 
-9.5 The Coach is entirely responsible for making himself able to declare the income from his personal service activity on the portal provided for this purpose. This is necessary for the exercise of its “personal services” activity. The service provider must also assume the constraints linked to the requirement of exclusivity inherent in the activity. The Coach must be able to present TRAINME with all the necessary supporting documents. Failing this, it is the Coach who must assume responsibility for the loss of tax benefits for the user.
+Responsabilité de la Société
 
-9.6 The USER has full responsibility for compliance with the overall ceiling of tax loopholes adopted each year in the Finance Act. Consequently, TrainMe cannot be held responsible in the event that the USER can no longer, for any reason, benefit from the tax advantages to which the services offered on the platform give access (in particular in the event that the expenditure on Services to the Person of the USER exceeds the overall ceiling of the tax loopholes.
+9.5 La Société met tous les moyens en œuvre pour assurer l’accès et le bon fonctionnement du Site et des Services 24 heures sur 24, 7 jours sur 7.
 
-Company Responsibility
+Néanmoins, compte tenu des limites liées à l’internet, la Société ne peut exclure que l’accès et le fonctionnement du Site et des Services soient interrompus notamment en cas de force majeure, de mauvais fonctionnement des équipements de l’Utilisateur, de dysfonctionnements du réseau internet de l’Utilisateur, d’opération de maintenance destinées à améliorer le Site et les Services.
 
-9.5 The Company implements all means to ensure access and proper functioning of the Site and Services 24 hours a day, 7 days a week.
+En conséquence, la Société ne saurait être tenue responsable d’une interruption des Services, qu’elle soit volontaire ou non, étant précisé qu’elle s’engage à faire ses meilleurs efforts pour limiter les interruptions qui lui seraient imputables.
 
-Nevertheless, given the limits linked to the Internet, the Company cannot exclude that access to and operation of the Site and the Services may be interrupted, in particular in the event of force majeure, malfunction of the User's equipment, malfunctions of the User's internet network, maintenance operations intended to improve the Site and the Services.
+9.6 La Société met à la disposition des Coachs et des Clients de projets des outils et moyens techniques leur permettant d’entrer en relation aux fins de conclure un contrat de prestation à travers le Site. Sa responsabilité se limite à la fourniture de ces moyens, tels que décrits aux présentes et à la mise en relation des Coachs et des Clients.
 
-Consequently, the Company cannot be held responsible for an interruption of the Services, whether voluntary or not, it being specified that it undertakes to make its best efforts to limit the interruptions which would be attributable to it.
+La Société et l’Utilisateur sont des parties indépendantes, chacun agissant en son nom personnel et pour leur propre compte.
 
-9.6 The Company provides Coaches and Project Clients with tools and technical means allowing them to enter into a relationship for the purpose of concluding a service contract through the Site. Its responsibility is limited to the provision of these means, as described herein and to the connection of Coaches and Clients.
+La Société ne conclut aucun contrat au nom et/ou pour le compte d’un Coach ou d’un Client, ces derniers contractant directement entre eux par l’intermédiaire du Site.
 
-The Company and the User are independent parties, each acting in their own name and for their own account.
+En conséquence, la Société ne peut en aucun cas être considérée notamment comme employé/employeur, agent, ou mandant d’un Utilisateur.
 
-The Company does not conclude any contract in the name and/or on behalf of a Coach or a Client, the latter contracting directly with each other through the Site.
+La Société n’étant pas partie à quelque titre que ce soit aux contrats relatifs à une Prestation conclus entre les Coachs et les Clients, ces derniers sont seuls responsables des difficultés, réclamations et litiges pouvant intervenir lors de la conclusion et/ou de l’exécution desdits contrats. En conséquence, chaque Utilisateur dégage la Société de toute responsabilité quant aux conséquences directes ou indirectes résultant de manière directe ou indirecte de la mise en relation, de la conclusion et/ou de l’exécution d’un tel contrat entre un Coach et un Client.
 
-Consequently, the Company can under no circumstances be considered in particular as an employee/employer, agent, or principal of a User.
+A ce titre, la Société ne saurait être tenue responsable de toute annulation de paiement ou de révocation d’autorisation de prélèvement à l’initiative du seul Client, et des conséquences pouvant en découler.
 
-As the Company is not a party in any capacity whatsoever to the contracts relating to a Service concluded between the Coaches and the Clients, the latter are solely responsible for the difficulties, complaints and disputes that may arise during the conclusion and/or the performance of such contracts. Consequently, each User releases the Company from any responsibility for the direct or indirect consequences resulting directly or indirectly from the connection, conclusion and/or execution of such a contract between a Coach and a Client.
+9.7 La Société ne saurait être tenue pour responsable des informations fausses, trompeuses ou non à jour qui lui sont communiquées par le Coach et qu’elle transmet au Client, dans le cadre de l’option de vérification du Coach.
 
-As such, the Company cannot be held responsible for any cancellation of payment or revocation of direct debit authorization at the initiative of the Customer alone, and the consequences that may result therefrom.
+### X – Protection des données personnelles
 
-9.7 The Company cannot be held responsible for false, misleading or outdated information communicated to it by the Coach and which it transmits to the Client, as part of the Coach's verification option.
+10.1.TrainMe construit avec ses utilisateurs des relations fortes et durables, fondées sur la confiance réciproque : assurer la sécurité et la confidentialité des données personnelles de ses Utilisateurs est une priorité absolue pour TrainMe.
 
-### X – Protection of personal data
+TrainMe collecte et utilise les données personnelles de l’Utilisateur dans le respect des dispositions de la loi n°78-17 du 6 janvier 1978 dite « Informatique et Libertés » et du Règlement général sur la protection des données du 27 avril 2016 dit « RGPD ».
 
-10.1.TrainMe builds strong and lasting relationships with its users, based on mutual trust: ensuring the security and confidentiality of its Users' personal data is an absolute priority for TrainMe.
+10.2. COLLECTE DES DONNEES
 
-TrainMe collects and uses the User's personal data in compliance with the provisions of Law No. 78-17 of January 6, 1978 known as "Informatique et Libertés" and the General Data Protection Regulations of April 27, 2016 known as "RGPD ".
+Toutes les données concernant les Utilisateurs sont collectées directement auprès de ces derniers lors de la création de son Profil, de la constitution de sa Boutique et/ou lors du processus de Commande.
 
-10.2. COLLECTION OF DATA
+10.2.1 CAS PARTICULIERS DES DONNÉES COLLECTÉES PAR LES APPLICATIONS TIERCES
 
-All data concerning Users is collected directly from them when creating their Profile, setting up their Shop and/or during the Order process.
+Certaines applications tierces sont connectées aux applications TrainMe, et fournissent des données nécessaires à la fois à la création de compte TrainMe, et à la fois à l’activation et la participation aux services TrainMe.
 
-10.2.1 SPECIFIC CASES OF DATA COLLECTED BY THIRD-PARTY APPLICATIONS
-
-Certain third-party applications are connected to the TrainMe applications, and provide data necessary both for the creation of a TrainMe account, and both for the activation and participation in the TrainMe services.
-
-This data is listed below by partner connector:
+  
+Ces données sont répertoriées ci-dessous par connecteur partenaire :
 
 **United Heroes**
 
-Data needed to create an account:
+Données nécessaires à la création de compte : 
 
-\- Name  
-\- First name  
-\- E-mail address  
-\- Civility  
-\- User profile language
+* Nom
+    
+* Prénom
+    
+* Adresse email
+    
+* Civilité
+    
+* Langue du profil utilisateur
+    
 
-Data relating to user activity in the United Heroes app:  
-\- Registrations / Unregistrations to courses and webinars organized by TrainMe
+Données relatives à l’activité de l’utilisateur dans l’application United Heroes : 
 
-**Fitness-park**
+* Inscriptions/ Désinscriptions aux cours et webinaires organisés par TrainMe
+    
 
-Data needed to create an account:
+**Fitness Park**
 
-\- Name  
-\- First name  
-\- E-mail address  
-\- Civility
+Données nécessaires à la création de compte : 
 
-10.3. PURPOSE OF THE DATA COLLECTED
+* Nom
+    
+* Prénom
+    
+* Adresse email
+    
+* Civilité
+    
 
-The collection of personal data from Users of the Site has the legal basis:
+x
 
-\- The legitimate interest of TRAINME in ensuring the follow-up and the smooth running of Orders.
+10.3. FINALITE DES DONNEES COLLECTEES
 
-\- The legitimate interest of TRAINME in improving navigation on the Site and adapting its functionalities.
+Le recueil des données personnelles des Utilisateurs du Site a pour base légale :   
+\- L’intérêt légitime de TRAINME à assurer le suivi et le bon déroulement des Commandes.   
+\- L’intérêt légitime de TRAINME à améliorer la navigation sur le Site et adapter les fonctionnalités de celui-ci.   
+\- Le consentement des Utilisateurs en matière de prospection commerciale et de cookies.
 
-\- The consent of Users in terms of commercial prospecting and cookies.
+Les données des Utilisateurs sont principalement traitées pour :   
+\- Permettre leur navigation sur le Site   
+\- Assurer le suivi et le bon déroulement de la Commande
 
-User data is mainly processed for:
+Et à titre subsidiaire,   
+\- Prévenir et lutter contre la fraude (hacking, lutte contre le blanchiment, etc. …)   
+\- Améliorer la navigation sur le Site   
+\- Mener des enquêtes de satisfaction facultatives sur l’Utilisation du Site   
+\- Effectuer des statistiques sur l’utilisation de l’outil et constituer des reportings en interne pour les équipes dirigeantes de TRAINME
 
-\- Allow them to browse the Site
+TRAINME peut utiliser l’adresse email renseignée pour envoyer des emails promotionnels concernant des nouveautés, des offres ou toute information qui pourrait potentiellement intéresser l’Utilisateur du Site.
 
-\- Ensure the follow-up and the smooth running of the Order  
-  
-And alternatively,
+TRAINME peut envoyer des SMS et des notifications PUSH à l'utilisateur. Par exemple pour lui faire un rappel de son prochain cours ou lui notifier que le coach/le client attend une réponse de sa part.
 
-\- Prevent and fight against fraud (hacking, fight against money laundering, etc.)
+10.4. TYPES DE DONNEES TRAITEES
 
-\- Improve navigation on the Site
+TRAINME est susceptible de traiter, en tant qu’intermédiaire entre Utilisateurs, tout ou partie des informations suivantes :   
+\- Nom, prénom, adresse postale, numéro de téléphone, et adresse email   
+\- Historique des transactions   
+\- Annonces mises en ligne par l’Utilisateur dans sa Boutique   
+\- Coordonnées bancaires et documents nécessaires à l’identification des bénéficiaires de virements émis
 
-\- Conduct optional satisfaction surveys on the Use of the Site
+10.5. TRAINME et, en cas d'achat sur le Site, le Vendeur sont les seuls destinataires de ces données. Les données personnelles ne seront en aucun cas transmises à des acteurs commerciaux ou publicitaires.
 
-\- Perform statistics on the use of the tool and compile internal reports for the TRAINME management teams
+TRAINME pourra néanmoins être amenée à transmettre ces données à des prestataires techniques pour les besoins de l’exécution de la Commande et de l’exploitation du Site.
 
-TRAINME may use the email address provided to send promotional emails concerning news, offers or any information that could potentially be of interest to the User of the Site.
+10.6. Ces données sont stockées en France.
 
-TRAINME can send SMS and PUSH notifications to the user. For example to remind him of his next lesson or notify him that the coach/client is waiting for a response from him.
+10.7. TRAINME s'engage à ne pas porter atteinte à la vie privée des Utilisateurs et à prendre toutes précautions utiles afin de préserver la sécurité et la confidentialité de leurs données personnelles et notamment d'empêcher qu'elles soient modifiées, endommagées ou communiquées à des personnes non autorisées, sous réserve des obligations qui pourraient lui incomber au sens de la loi n°2004-575 dite pour la Confiance dans l’Économie Numérique.
 
-10.4. TYPES OF DATA PROCESSED
+L'Utilisateur reconnaît et accepte que pendant la durée susvisée, TRAINME conserve tous documents, informations et enregistrements concernant son activité sur le Site.
 
-TRAINME is likely to process, as an intermediary between Users, all or part of the following information:
+10.8. Conformément à la réglementation européenne en vigueur, les Utilisateurs de TRAINME disposent des droits suivants :   
+\- Droit d'accès (article 15 RGPD) et de rectification (article 16 RGPD), de mise à jour, de complétude des données des Utilisateurs   
+\- Droit de verrouillage ou d’effacement des données des Utilisateurs à caractère personnel (article 17 du RGPD), lorsqu’elles sont inexactes, incomplètes, équivoques, périmées, ou dont la collecte, l'utilisation, la communication ou la conservation est interdite   
+\- Droit de retirer à tout moment un consentement (article 13-2c RGPD)   
+\- Droit à la limitation du traitement des données des Utilisateurs (article 18 RGPD)   
+\- Droit d’opposition au traitement des données des Utilisateurs (article 21 RGPD)   
+\- Droit à la portabilité des données que les Utilisateurs auront fournies, lorsque ces données font l’objet de traitements automatisés fondés sur leur consentement ou sur un contrat (article 20 RGPD)   
+\- Droit de définir le sort des données des Utilisateurs après leur mort et de choisir à qui TRAINME devra communiquer (ou non) ses données à un tiers qu’ils aura préalablement désigné
 
-\- Surname, first name, postal address, telephone number, and email address
+Si l’Utilisateur souhaite savoir comment TRAINME utilise ses Données Personnelles, demande à les rectifier ou s’oppose à leur traitement, l’Utilisateur peut contacter TRAINME par écrit à l’adresse suivante : TRAINME – 5 avenue general de Gaulle Saint-Mandé 94160 ou par mail à hello@trainme.co .
 
-\- Transaction history
+Dans ce cas, l’Utilisateur doit indiquer les Données Personnelles qu’il souhaiterait que TRAINME corrige, mette à jour ou supprime, en s’identifiant de manière précise avec une copie d’une pièce d’identité (carte d’identité ou passeport).
 
-\- Advertisements put online by the User in his Shop
+Les demandes de suppression de Données Personnelles seront soumises aux obligations qui sont imposées à TRAINME par la loi, notamment en matière de conservation ou d’archivage des documents. Enfin, les Utilisateurs de TRAINME peuvent déposer une réclamation auprès des autorités de contrôle, et notamment de la CNIL (https://www.cnil.fr/fr/plaintes).
 
-\- Bank details and documents necessary to identify the beneficiaries of transfers issued  
-  
-10.5. TRAINME and, in case of purchase on the Site, the Seller are the only recipients of this data. Personal data will in no case be transmitted to commercial or advertising actors.
+Pour exercer ses droits, il suffit à l’Utilisateur d’écrire à l’adresse électronique suivante (hello@trainme.co) ou d'adresser un courrier à : TRAINME – 5 avenue general de Gaulle Saint-Mandé 94160
 
-TRAINME may nevertheless be required to transmit this data to technical service providers for the purposes of executing the Order and operating the Site.
-
-10.6. These data are stored in France.
-
-10.7. TRAINME undertakes not to infringe the privacy of Users and to take all necessary precautions to preserve the security and confidentiality of their personal data and in particular to prevent them from being modified, damaged or communicated to third parties. unauthorized, subject to the obligations that may be incumbent upon it within the meaning of law n°2004-575 known as for Confidence in the Digital Economy.
-
-The User acknowledges and accepts that for the aforementioned period, TRAINME retains all documents, information and records concerning its activity on the Site.  
-
-10.7. TRAINME undertakes not to infringe the privacy of Users and to take all necessary precautions to preserve the security and confidentiality of their personal data and in particular to prevent them from being modified, damaged or communicated to third parties. unauthorized, subject to the obligations that may be incumbent upon it within the meaning of law n°2004-575 known as for Confidence in the Digital Economy.
-
-The User acknowledges and accepts that for the aforementioned period, TRAINME retains all documents, information and records concerning its activity on the Site.
-
-10.8. In accordance with the European regulations in force, TRAINME Users have the following rights:
-
-\- Right of access (article 15 GDPR) and rectification (article 16 GDPR), updating, completeness of User data
-
-\- Right to block or delete personal User data (Article 17 of the GDPR), when they are inaccurate, incomplete, ambiguous, outdated, or whose collection, use, communication or storage is prohibited
-
-\- Right to withdraw consent at any time (article 13-2c GDPR)
-
-\- Right to limit the processing of User data (Article 18 GDPR)
-
-\- Right to object to the processing of User data (Article 21 GDPR)
-
-\- Right to the portability of data that Users have provided, when this data is subject to automated processing based on their consent or on a contract (Article 20 GDPR)
-
-\- Right to define the fate of User data after their death and to choose to whom TRAINME will have to communicate (or not) its data to a third party that they will have previously designated
-
-If the User wishes to know how TRAINME uses his Personal Data, asks to rectify them or opposes their processing, the User can contact TRAINME in writing at the following address: TRAINME – 5 avenue general de Gaulle Saint-Mandé 94160 or by email at hello@trainme.co .  
-  
-In this case, the User must indicate the Personal Data that he would like TRAINME to correct, update or delete, by identifying himself precisely with a copy of an identity document (identity card or passport ).
-
-Requests for the deletion of Personal Data will be subject to the obligations imposed on TRAINME by law, in particular with regard to the conservation or archiving of documents. Finally, TRAINME Users can file a complaint with the supervisory authorities, and in particular the CNIL (https://www.cnil.fr/fr/plaintes).
-
-To exercise his rights, the User need only write to the following email address (hello@trainme.co) or send a letter to: TRAINME – 5 avenue general de Gaulle Saint-Mandé 94160
-
-The User is informed that this automated data processing has been declared to the CNIL under number 1934083.
+L’Utilisateur est informé que ce traitement automatisé de données a fait l’objet d’une déclaration à la CNIL sous le numéro 1934083.
 
 ### XI – Cookies
 
-For the proper functioning of the Site and the Services, cookies are installed in the User's computer when connecting to the Site.
+Pour le bon fonctionnement du Site et des Services, des cookies sont implantés dans l’ordinateur du l’Utilisateur lors de sa connexion au Site.
 
-However, the User has the option of opposing the use of these cookies.
+L’Utilisateur dispose toutefois de la possibilité de s’opposer à l'utilisation de ces cookies.
 
-Cookies record information relating to navigation (pages consulted, date and time of consultation, etc.) and the identification of its Users.
+Les cookies enregistrent des informations relatives à la navigation (pages consultées, date et heure de la consultation, etc.) et à l’identification de ses Utilisateurs.
 
-The shelf life of cookies is 6 months.
+La durée de conservation des cookies est de 6 mois.
 
-\# Cookie not subject to consent
+**\# Cookie non soumis à consentement**  
+  
+Il s’agit des cookies qui garantissent le bon fonctionnement du site TrainMe et permettent son optimisation. Le site Web ne peut pas fonctionner correctement sans ces cookies. Il s’agit également des cookies nous permettant de gérer l'accès des utilisateurs à leur espace personnel.  
+  
+**\# Cookies analytiques**  
+  
+Ces cookies nous permettent d’obtenir des statistiques de fréquentation anonymes du site TrainMe afin d’optimiser son ergonomie, sa navigation et ses contenus. Ces cookies nous permettent de comprendre le parcours utilisateur afin de l'améliorer. En désactivant ces cookies, nous ne pourrons pas analyser le trafic du site TrainMe ni le parcours utilisateur.  
+  
+Voici la liste des cookies analytics utilisés :  
+  
+Google Analytics  
+Hotjar  
+  
+**\# Cookies de ciblage publicitaire ou de ciblage**  
+  
+Ces cookies nous permettent de présenter les publicités les plus pertinentes et les plus adaptées à vos centres d’intérêt en fonction de votre navigation sur le site TrainMe.  
+  
+Voici la liste des cookies publicitaires utilisés :  
+  
+Google AdSense  
+Bing Advertising  
+Google tag manager  
+  
+**\# Cookies de messagerie interne**  
+  
+Ces cookies nous permettent de faire fonctionner la messagerie via chat avec notre support et vous permet de retrouver un historique de vos conversations sur le site TrainMe.  
+  
+Ces cookies sont générés par le service Intercom.
 
-These are cookies that guarantee the proper functioning of the TrainMe site and allow its optimization. The website cannot function properly without these cookies. These are also cookies that allow us to manage user access to their personal space.
+### XII– Propriété Intellectuelle
 
-\# Analytical cookies
+12.1 Du Site
 
-These cookies allow us to obtain anonymous traffic statistics for the TrainMe site in order to optimize its ergonomics, navigation and content. These cookies allow us to understand the user journey in order to improve it. By disabling these cookies, we will not be able to analyze TrainMe site traffic or user journeys.
+Le Site et chacun des éléments qui le composent, notamment mais non limitativement, les textes, les images, les vidéos, les photographies, les marques, les logos, les dénominations sociales, les noms de domaine sont la propriété exclusive de la Société ou de celle de ses partenaires.
 
-Here is the list of analytics cookies used:
+Ces éléments sont protégés par les lois relatives à la propriété intellectuelle et autres, et notamment le droit d’auteur.
 
-Google Analytics
+Toute reproduction ou représentation, intégrale ou partielle, du Site ou de l’un des éléments qui le composent, sans l’autorisation de la Société, est interdite et constitue une contrefaçon sanctionnée par le Code de la Propriété Intellectuelle.
 
-Hotjar
+12.2 Des Contenus
 
-\# Advertising or targeting targeting cookies
+Tout Utilisateur qui publie du Contenu sur le Site garde l’entière propriété de tout ce qu’il publie.
 
-These cookies allow us to present the most relevant advertisements and those most suited to your areas of interest based on your browsing on the TrainMe site.
+En communiquant du Contenu par le biais du Site, l’Utilisateur autorise expressément la Société à utiliser, diffuser, héberger, stocker, reproduire, communiquer, publier, modifier, adapter, traduire et afficher tout ou partie du Contenu sur le Site, les réseaux sociaux, les blogs exploités par cette dernière et/ou sur tous autres supports (notamment support physique et numérique, dossier de presse, support commercial, matériel promotionnel et/ou publicitaire), par tous moyens, à des fins d’exploitation, d’amélioration, de promotion, de marketing, de publicité des Services et du Site ou pour les besoins de la mise en place de partenariats. Cette autorisation est valable pour le monde entier et pour toute la durée de l’inscription de l’Utilisateur.
 
-Here is the list of advertising cookies used:
+L’Utilisateur reconnaît que toute utilisation de son Contenu effectuée par la Société préalablement à sa désinscription, la suppression ou la résiliation de son compte ne pourra pas être remise en cause.
 
-Google AdSense
+### XIII - Liens hypertexte
 
-Bing Advertising
+13.1 L’Utilisateur est autorisé à créer un ou plusieurs lien(s) hypertexte(s) pointant par exemple vers la page d’accueil du Site ou vers sa page profil s’il s’agit d’un Coach.
 
-Google tag manager
+Les Utilisateurs s’interdisent de créer tout lien en provenance de sites qui ne seraient pas conformes à la législation en vigueur ou qui seraient de nature à nuire aux intérêts, à la réputation et/ou à l’image du Site et de la Société.
 
-\# Internal messaging cookies
+En tout état de cause, la Société se réserve le droit de mettre fin à cette autorisation à tout moment s’il lui paraît que le lien établi avec le Site est de nature à porter atteinte à ses intérêts, à sa réputation et/ou son image.
 
-These cookies allow us to operate messaging via chat with our support and allow you to find a history of your conversations on the TrainMe site.
+En aucun cas, l’existence d’un lien hypertexte en provenance d’un site tiers vers le Site n’implique une coopération et/ou un partenariat entre le Site et ce site tiers. La Société n’exerce aucun contrôle sur les sites de tiers et n’assume par conséquent, aucune responsabilité quant aux contenus et aux produits et/ou services disponibles sur ou à partir de ces sites tiers comportant un lien hypertexte vers le Site.
 
-These cookies are generated by the Intercom service.
+13.2 Le Site peut contenir des liens vers des sites de partenaires de la Société ou vers des sites de tiers. La Société n’exerce aucun contrôle sur ces sites et n’assume par conséquent, aucune responsabilité quant à la disponibilité de ces sites, leur contenu et sur les produits et/ou services disponibles sur ou à partir de ces sites.
 
-### XII– Intellectual Property
+La Société ne sera aucunement responsable des dommages directs ou indirects pouvant survenir à l’occasion de l’accès de l’Utilisateur au site du partenaire et/ou du tiers et de l’utilisation des contenus et les produits et/ou services de ce site par l’Utilisateur.
 
-12.1 From the Site
+### XIV – Durée, résiliation et sanctions
 
-The Site and each of its components, including but not limited to text, images, videos, photographs, trademarks, logos, corporate names, domain names are the exclusive property of the Company or that of its partners.
+Le présent contrat est conclu pour une durée indéterminée à compter de l’acceptation des Conditions Générales par l’Utilisateur.
 
-These elements are protected by laws relating to intellectual property and others, and in particular copyright.
+Dans le cas où l’Utilisateur ne respecterait pas les présentes Conditions Générales et/ou commettrait un quelconque manquement aux lois et règlements en vigueur, la Société est en droit de suspendre ou fermer le compte de l’Utilisateur, automatiquement et de plein droit, et de lui refuser, à l'avenir, l'accès à tout ou partie des Services, sans préjudice de tous dommages et intérêts éventuels que la Société serait en droit de réclamer.
 
-Any reproduction or representation, in whole or in part, of the Site or of one of its constituent elements, without the authorization of the Company, is prohibited and constitutes an infringement punishable by the Intellectual Property Code.
+### XV – Service clientèle
 
-12.2 Content
+Pour toute question ou information concernant le Site et les Services, l’Utilisateur peut contacter la Société via la rubrique « contact » sur le Site ou en lui adressant un courrier électronique à l’adresse suivante : hello@trainme.co
 
-Any User who publishes Content on the Site retains full ownership of everything he publishes.
+L’Utilisateur peut aussi trouver des réponses à ses questions via la solution de tchat en ligne proposée directement sur le Site ou par téléphone au 01 76 34 01 47
 
-By communicating Content through the Site, the User expressly authorizes the Company to use, distribute, host, store, reproduce, communicate, publish, modify, adapt, translate and display all or part of the Content on the Site, the networks social media, the blogs operated by the latter and/or on any other media (in particular physical and digital media, press kit, commercial media, promotional and/or advertising material), by any means, for the purposes of exploitation, improvement, promotion, marketing, advertising of the Services and the Site or for the purposes of setting up partnerships. This authorization is valid worldwide and for the entire duration of the User's registration.
+### XVI – Nullité – Renonciation
 
-The User acknowledges that any use of his Content made by the Company prior to his unsubscription, deletion or termination of his account cannot be called into question.
+Dans l’hypothèse où l’une des clauses du présent contrat serait déclarée nulle et non avenue par un changement de législation, de réglementation ou par une décision de justice, cela ne saurait en aucun cas affecter la validité et le respect des présentes Conditions Générales.
 
-### XIII - Hypertext links
+Le défaut pour la Société d’exercer les droits qui lui sont reconnus en application des présentes ne constitue pas une renonciation à faire valoir ses droits.
 
-13.1 The User is authorized to create one or more hypertext link(s) pointing, for example, to the home page of the Site or to his profile page if he is a Coach.
+### XVII – Modification des Conditions Générales
 
-Users are prohibited from creating any link from sites that do not comply with the legislation in force or that are likely to harm the interests, reputation and/or image of the Site and the Company.
+La Société se réserve la possibilité de modifier tout ou partie des présentes Conditions Générales.
 
-In any event, the Company reserves the right to terminate this authorization at any time if it appears to it that the link established with the Site is likely to harm its interests, its reputation and/or its picture.
+La Société informera l’Utilisateur des modifications apportées aux présentes Conditions Générales dès leur mise en ligne sur le Site.
 
-Under no circumstances does the existence of a hypertext link from a third-party site to the Site imply cooperation and/or a partnership between the Site and this third-party site. The Company has no control over third-party sites and therefore assumes no responsibility for the content and products and/or services available on or from these third-party sites containing a hypertext link to the Site.
+A défaut d’adhésion aux nouvelle Conditions Générales, l’Utilisateur dispose d’un délai de 24h à compter de la date de notification pour en faire part à la Société par courrier électronique.
 
-13.2 The Site may contain links to the sites of the Company's partners or to the sites of third parties. The Company has no control over these sites and therefore assumes no responsibility for the availability of these sites, their content and the products and/or services available on or from these sites.
+Dans l’hypothèse où l’Utilisateur n’aurait pas notifié son désaccord dans le délai de prévu ci-dessus, il sera réputé avoir accepté les modifications.
 
-The Company shall in no way be liable for any direct or indirect damage that may arise when the User accesses the site of the partner and/or third party and uses the content and the products and/or services of this site by the User.
+### XVIII – Droit applicable et juridiction compétente
 
-### XIV – Duration, Termination and Sanctions
+Les présentes Conditions Générales sont soumises au droit français. Tout litige relatif à leur formation, conclusion, interprétation et/ou exécution relève de la compétence exclusive des juridictions dans le ressort de la Cour d’appel de Créteil.
 
-This contract is concluded for an indefinite period from the acceptance of the General Conditions by the User.
-
-In the event that the User does not comply with these General Conditions and/or commits any breach of the laws and regulations in force, the Company is entitled to suspend or close the User's account, automatically and automatically, and to refuse him, in the future, access to all or part of the Services, without prejudice to any damages that the Company would be entitled to claim.
-
-### XV- Customer Service
-
-For any question or information concerning the Site and the Services, the User may contact the Company via the “contact” section on the Site or by sending an e-mail to the following address: hello@trainme.co
-
-The User can also find answers to his questions via the online chat solution offered directly on the Site or by telephone on 01 76 34 01 47
-
-### XVI – Nullity – Waiver
-
-In the event that one of the clauses of this contract is declared null and void by a change in legislation, regulation or by a court decision, this cannot in any way affect the validity and respect of these General Conditions. .
-
-The Company's failure to exercise the rights granted to it under these terms does not constitute a waiver of its rights.
-
-### XVII – Modification of the General Conditions
-
-The Company reserves the right to modify all or part of these General Conditions.
-
-The Company will inform the User of the modifications made to these General Conditions as soon as they are posted on the Site.
-
-In the absence of adherence to the new General Conditions, the User has a period of 24 hours from the date of notification to inform the Company by e-mail.
-
-In the event that the User has not notified his disagreement within the period provided for above, he will be deemed to have accepted the modifications.
-
-### XVIII – Applicable law and competent jurisdiction
-
-These General Conditions are subject to French law. Any dispute relating to their formation, conclusion, interpretation and/or execution falls within the exclusive jurisdiction of the courts within the jurisdiction of the Court of Appeal of Créteil.
-
-Date of entry into force: 01/03/2016
+Date d’entrée en vigueur : le 01/03/2016
