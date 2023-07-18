@@ -440,6 +440,10 @@ Mai multe informatii [aici](https://s13emagst.akamaized.net/layout/ro/static-upl
 
 16.1. Te rog sa parcurgi [Politica de Confidențialitate](https://www.emag.ro/info/prelucrarea-datelor-cu-caracter-personal) cu privire la prelucrarea datelor cu caracter personal, care face parte din prezentul Document.
 
+16.2. Totodata, te rugam frumos sa ai in vedere ca atunci cand interactionezi telefonic cu reprezentantii eMAG, aceste convorbiri vor fi inregistrate in vederea identificarii nevoilor tale, analizarii calitatii serviciilor oferite de eMAG si imbunatatirii acestora.
+
+Vei fi informat inainte de inceperea apelului iar in situatia în care vei continua apelul telefonic vom considera ca avem acordul tau pentru inregistrarea convorbirii. Daca nu esti de acord cu inregistrarea, ne poti contacta prin celelalte canale mentionate în sectiunea de Contact, disponibila aici, inclusiv prin intermediul functionalitatii chat Suport Online. Pentru mai multe detalii cu privire la inregistrare, retragerea consimtamantului si activitatile de prelucrare a datelor, vezi [Politica de Confidențialitate](https://www.emag.ro/info/prelucrarea-datelor-cu-caracter-personal).
+
 17. **FOLOLSIREA COOKIE-URILOR**
 
 17.1. Vezi [Politica de Cookies](https://www.emag.ro/info/politica-de-utilizare-cookie-uri), care face parte din prezentul Document.
