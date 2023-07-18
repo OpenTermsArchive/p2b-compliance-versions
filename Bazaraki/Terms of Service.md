@@ -140,7 +140,7 @@ Please also see clause [07: Liability.](#7)
 * Bazaraki is not in contact with the interested sellers or buyers
 * Bazaraki is not in contact with the interested landlords or tenants
 * Only owners of real estate, developers, agents, legal representatives of owners of real estate pursuant to a relevant Power of Attorney and first-degree relatives of the owners or real estate can list real estate on Bazaraki.
-* Bazaraki is not obliged to and does not review, check or control any person or organisation or any legal entity that uploads Ads on the Website, but it reserves its right to do so and to take all necessary measures if Bazaraki considers or has reasons to believe that any of these Τerms and Conditions are infringed
+* Bazaraki is not obliged to and does not review, check or control any person or organisation or any legal entity that uploads Ads on the Website
 * Bazaraki cannot arrange viewings of the listed properties
 * The information on Bazaraki is provided purely for informative purposes and does not constitute or form part of any offer or invitation by Bazaraki to sell or to rent real estate and it should not form the basis of, or be relied on in connection with or act as any inducement to enter into, any contract or commitment whatsoever with respect to any such real estate
 * Person/s or companies listing real estate on Bazaraki must always ensure that listing details are legitimate and correct, in compliance with all applicable laws, regulations and codes of practice in the Republic of Cyprus and any compliance guidelines published or made available by Bazaraki from time to time, will not be defamatory, misleading, discriminatory or infringe any copyright, trademark or other intellectual property rights or rights of any third party whatsoever, they have the authority to market the listings, has/have all necessary authorities, consents and licences necessary to use, display, reproduce, publish the Ad
@@ -149,7 +149,7 @@ Please also see clause [07: Liability.](#7)
 * Bazaraki may in its absolute discretion, at any time, remove, cause to be removed or decline to display any information or Ad on the Website which fails to comply with these Terms and Conditions, and shall notify the User of such decision and the reason of rejection or removal at the time of, the relevant Information and/or Ad being removed or rejected
 * Bazaraki may without prejudice to Bazaraki's right as set out in these Terms and Conditions, require the information to be amended at any time if Bazaraki considers or has reason to believe that the User is in breach of the Terms and Conditions or any applicable law or regulation or where it deems in its absolute discretion the information to be of poor quality in terms of presentation, information provided or otherwise
 * Bazaraki reserves the right to charge the User for additional fees or in a manner it deems appropriate or on a per property basis if Bazaraki has reason to believe that Ad and/or information uploaded by any of the User's branch offices is in breach of these Terms and Conditions
-* Bazaraki shall not be under any obligation to monitor or censor the Information and/or Ad that appears on the Website, but Bazaraki reserves the right for itself to do so
+* Bazaraki shall not be under any obligation to monitor or censor the Information and/or Ad that appears on the Website
 * Bazaraki is not responsible for any error or omissions in any information provided or Ad
 * The User acknowledges and agrees that technological failure may impede the provision of the listing services or prevent access to all, or any part of the Ad or information displayed on the Website. BZRK makes no representation or warranty that the Website, the listing services, or the information or Ad will be always accessible or available, or that the whole or any part of the Website, listing services or the information will be free from error and while BZRK will make reasonable endeavours to notify the User in advance, it may suspend temporarily or alter the operation of the Website, or listing services without notice to the User
 * The User acknowledges and agrees that all intellectual property rights in the lisiting services, technology supporting the listing services and the Website vest in Bazaraki and/or its licensors/sub-contractors and that the User has no rights in, or to, such intellectual property other than the right to use the same in accordance with these Terms and Conditions. For the avoidance of doubt, save to the extent otherwise specified in these Terms and Conditions, all intellectual property rights in the information published by the User and Ad shall remain vested in the User (or its licensors, as applicable)
@@ -372,7 +372,7 @@ You warrant, represent and undertake to BZRK that, (i) neither yourself nor thro
 07.Liability
 ------------
 
-These terms and conditions do not limit the evidence of his / her liability / liability borne by Bazaraki in the event of false statements or death or injury due to negligence on the part of him or his agents or employees. You agree that you will not make us responsible for actions taken by other users or for posting by other users.
+You agree that you will not make us responsible for actions taken by other users or for posting by other users.
 
 It is not our responsibility to review user posts and we are not involved in the actual transactions between users. As most of the content on Bazaraki comes from other users, we do not guarantee the accuracy of postings or user communications or the quality, safety, or legality of what is offered.
 
@@ -420,7 +420,10 @@ Indicatively and not restrictively, Bazaraki.com bears absolutely no responsibil
     
     To the fullest extent allowed from the applicable law, the Company under the trade name BZRK LIMITED disclaims any liability towards you and every other person in relation with the context of this present Website thus every other services provided via the later, in terms of tort, contract, bail, liability or negligence or any other occurrence and in relation with indirect, direct, consequent, special, penal or ancillary damage, even in the case where the Company under the trade name BZRK LIMITED has been informed, knows or should have known the possibility of such damage.
     
-6. References and hyperlinks to third party websites
+6. Disclaimers of Certain Damages  
+    If you are dissatisfied with any portion of the Website, or with any provision of these Terms and Conditions your sole and exclusive remedy is to discontinue using the Website. Under no circumstances shall the Company be liable to any User or any third party on account of that User’s use of the Website. In not event shall the Company and/or its employees, directors, associates etc. be liable to you or any such third party for any direct, indirect, punitive, exemplary, incidental, special or consequential damages or any damages whatsoever, including, without limitation, damages for loss of use, data or profits, arising out of or in any way connected with the use or performance of the Website the delay or inability to use the Website, the provision of or failure to provide services, or for any information, software, products, services and related graphics obtained through the Website, or otherwise arising out of the use of the Website, whether based on contract, tort, strict liability or otherwise, even if the Company or any of its employees, directors, associates etc. have been advised of the possibility of damages. 
+    
+7. References and hyperlinks to third party websites
     
     The Website is able to contain references or/and hyperlinks from and to other Websites. If you refer to any of them or follow some hyperlink towards any of the other Websites, this means that you have already exited from the Website and it should be made known to you that the Company has absolutely none control upon these said other Websites thus neither possesses them or maintain them. The Company has absolutely no obligation or/and liability and in no circumstances accepts thus disclaims any and all together the obligations or liabilities for the context and the material that is provided by the other Websites and for the confidentiality of any information that might be provided during your visit to other Websites. The parties which possess and maintain or/and connect with other Websites bear full responsibility, whether civil or penal for the security, legitimacy or trustworthiness of the contexts of their Website and their services, with the Company under the trade name BZRK LIMITED being excluded from any liability.
     
@@ -435,7 +438,7 @@ If you have a dispute with one or more Bazaraki users, you release us (and our o
 09\. Third party rights
 -----------------------
 
-A person who is not a party to this Agreement has no right under to enforce any term of this Agreement, but this does not affect any right or remedy of a third party specified in this Agreement.
+A person who is not a party to this Agreement has no right under to enforce any term of this Agreement.
 
 10\. Personal Information
 -------------------------
