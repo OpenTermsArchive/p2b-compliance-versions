@@ -576,11 +576,11 @@ O preço dos serviços está definido de acordo com a categoria, de acordo com a
     * Pagamento mensal por débito directo: 12,50€ / mês (x12)
     * Pagamento mensal por transferência bancária, multibanco: 20,83 / mês (x12)
     * Pagamento anual antecipado: 125,00€ / ano
-* **Pacote 20** (até 20 anúncios em simultâneo): limite de 200 edições e publicações por mês (contrato anual, renovado automaticamente);
+* **Pacote 25** (até 25 anúncios em simultâneo): limite de 250 edições e publicações por mês (contrato anual, renovado automaticamente);
     * Pagamento mensal por débito directo: 16,00€ / mês (x12)
     * Pagamento mensal por transferência bancária, multibanco: 26,67€ / mês (x12)
     * Pagamento anual antecipado: 160,00€ / ano
-* **Pacote 40** (até 40 anúncios em simultâneo): limite de 400 edições e publicações por mês (contrato anual, renovado automaticamente);
+* **Pacote 50** (até 50 anúncios em simultâneo): limite de 500 edições e publicações por mês (contrato anual, renovado automaticamente);
     * Pagamento mensal por débito directo: 29,00€ / mês (x12)
     * Pagamento mensal por transferência bancária, multibanco: 48,33€ / mês (x12)
     * Pagamento anual antecipado: 290,00€ / ano
