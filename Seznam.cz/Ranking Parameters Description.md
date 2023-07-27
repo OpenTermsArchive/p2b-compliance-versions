@@ -14,7 +14,7 @@ Po odeslání dotazu se zobrazí stránka s výsledky vyhledávání. Typicky t
 Přirozené výsledky
 ------------------
 
-Jedná se o odkazy v hlavní oblasti výsledků, jejichž pozice je určována stejnou technologií nezávisle na názvu domény a jejím vztahu ke společnosti Seznam.cz. Tyto výsledky nelze žádným způsobem přímo ovlivňovat nebo koupit. Oblast přirozených výsledků je hlavní částí stránky vyhledávání a běžně se v ní zobrazuje 10 přirozených odkazů. Struktura přirozeného výsledku je popsána v části [struktura výsledku](https://napoveda.seznam.cz/cz/fulltext-hledani-v-internetu/struktura-vysledku).
+Jedná se o odkazy v hlavní oblasti výsledků, jejichž pozice je určována stejnou technologií nezávisle na názvu domény a jejím vztahu ke společnosti Seznam.cz. Tyto výsledky nelze žádným způsobem přímo ovlivňovat nebo koupit. Oblast přirozených výsledků je hlavní částí stránky vyhledávání a běžně se v ní zobrazuje 10 přirozených odkazů. Struktura přirozeného výsledku je popsána v části [struktura výsledku](https://napoveda.seznam.cz/cz/fulltext-hledani-v-internetu/struktura-vysledku).
 
 Pro řazení přirozených výsledků je klíčový proces strojového učení. Modely strojového učení využívají předem připravené příklady hodnocení stránek k dotazu tzv. _anotace_ dle níže přiložených pravidel. Na základě modelů, které ze strojového učení vznikají, pak Seznam vyhledávání zcela automatizovaně řadí výsledky přirozeného vyhledávání.
 
@@ -40,7 +40,7 @@ Mají přidanou informační hodnotu pro uživatele. Jejich začlenění mezi v�
 Miniaplikace a karusel
 ----------------------
 
-Miniapliakce mají za cíl přímo odpovědět na dotaz uživatele v základních otázkách (např. kalkulačka). Karusel pomáhá s orientací a výběrem souvisejících dotazů v tématu (např. jedlé houby). Miniaplikace i karusel se zobrazují přímo pod vyhledávacím polem. Odpovídají pouze, když mají přidanou hodnotu pro uživatele./p>
+Miniapliakce mají za cíl přímo odpovědět na dotaz uživatele v základních otázkách (např. kalkulačka). Karusel pomáhá s orientací a výběrem souvisejících dotazů v tématu (např. jedlé houby). Miniaplikace i karusel se zobrazují přímo pod vyhledávacím polem. Odpovídají pouze, když mají přidanou hodnotu pro uživatele.
 
 **Kompletní seznam miniaplikací a přímých odpovědí:**
 
@@ -51,7 +51,7 @@ Miniapliakce mají za cíl přímo odpovědět na dotaz uživatele v základníc
 Reklama
 -------
 
-Jedná se o speciální pozice v rámci výsledků vyhledávání technologicky i funkčně oddělené od Přirozených výsledů vyhledávání, tak jak jsou popsány výše. Tyto výsledky jsou označeny jako Reklama. V bočním a horním panelu se mohou zobrazit tzv. _Produktové inzeráty_. Detailnější informace o reklamních pozicích Sklik, způsobech jejich řazení i možnostech jejich objednání naleznete na [stránce nápovědy Skliku](http://napoveda.sklik.cz/).
+Jedná se o speciální pozice v rámci výsledků vyhledávání technologicky i funkčně oddělené od Přirozených výsledů vyhledávání, tak jak jsou popsány výše. Tyto výsledky jsou označeny jako Reklama. V bočním a horním panelu se mohou zobrazit _Nabídky ze Zboží.cz_. Detailnější informace o reklamních pozicích Sklik, způsobech jejich řazení i možnostech jejich objednání naleznete na [stránce nápovědy Skliku](http://napoveda.sklik.cz/).
 
 **Pravidla anotací ke stažení (formát PDF):**
 
