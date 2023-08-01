@@ -759,7 +759,7 @@ Dans le cadre de leurs relations, le Sous-Traitant s'engage à effectuer pour le
     
     * Régis Lechien, Avocat - DPO (355 rue de l’Elorn 29200 Brest
         
-    * Coordonnées à utiliser : 1 rue Victor Hugo 44400 Rezé France
+    * Coordonnées à utiliser : 8 Allée Baco 44000 Nantes France
         
     * Adresse électronique dédiée dpo@allovoisins.com
         
