@@ -269,7 +269,7 @@ Suspension and termination
 
 We may at any time, whether with or without cause and whether with or without notice, immediately suspend your right to use Helpling (including removal of your profile from the Site and the App) and/or terminate the legal agreement between us and close your account.
 
-You may terminate the legal agreement between us and request the closure of your account at any time on not less than 14 days’ notice by emailing us at [\[email protected\]](https://www.helpling.co.uk/cdn-cgi/l/email-protection)
+You may terminate the legal agreement between us and request the closure of your account at any time on not less than 14 days’ notice by emailing us at [\[email protected\]](https://www.helpling.co.uk/cdn-cgi/l/email-protection).
 
 We will determine, in our discretion, whether there has been a breach of these terms of use through your use of Helpling and, if such a breach has occurred, we may take such action as we deem appropriate, including all or any of the following actions:
 
