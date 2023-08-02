@@ -235,13 +235,13 @@ hârtie)
 2.15.18. În termen de 14 zile de la încheierea contractului cu Organizatorul, un consumator se poate retrage dintr-un astfel de contract, pentru un anumit serviciu, dacă serviciile nu vor fi fost deja integral executate de Organizator și dacă respectivul contract dă naștere unei obligații de plată pentru consumator. Utilizatorul este expres de acord cu începerea executării serviciilor de listare și promovare de către Organizator, de la publicarea unui anunț/unei licitații și/sau de la data promovării acestuia, după caz. Utilizatorul declară că înțelege că prin încheierea unei tranzacții în baza unui anunț de vânzare sau a unei licitații își va pierde dreptul de retragere, ca urmare a executării complete a contractului de către Organizator. Utilizatorul declară că înțelege că prin expirarea duratei de promovare achitate își va pierde dreptul de retragere, ca urmare a executării complete a contractului de către Organizator. Serviciile furnizate de Organizator sunt exceptate de la dreptul de retragere în condițiile art. 2.15.2 a) de mai sus. Dreptul de retragere poate fi exercitat de Utilizator prin transmiterea unei notificări la adresa email suport@okazii.ro sau în scris, la adresa poștală a Organizatorului. Toate prevederile prezentului art. 2.15 sunt aplicabile și dreptului de retragere al Utilizatorului în relația cu Organizatorul.
 
 **3\. Tarifele pentru serviciile furnizate de noi**  
-3.1. Utilizarea Licitaţiei noastre pe Internet este gratuită pentru cumpărători dar implica tarife şi comisioane pentru vânzători. Pentru detalii complete privind tarifele şi comisioanele percepute de catre Organizator de la vanzatori, [click aici](http://ajutor.okazii.ro/vanzare/taxe-si-comisioane).
+3.1. Utilizarea Licitaţiei noastre pe Internet poate implica tarife / comisioane atât pentru cumpărători cât și  pentru vânzători. Pentru detalii complete privind tarifele şi comisioanele percepute de către Organizator de la vânzători, [click aici](http://ajutor.okazii.ro/vanzare/taxe-si-comisioane). Anumite sume sunt achitate în avans, la activarea / solicitarea serviciului, altele pot fi achitate și după prestarea serviciului.
 
 3.1.1. În eventualitatea în care un Utilizator datorează sume de bani către Organizator, indiferent de izvorul unor astfel de datorii, Organizatorul are dreptul să reţină sumele datorate de Utilizator din sumele de bani aflate în orice moment în contul Utilizatorului, până la acoperirea integrală a datoriei către Organizator, indiferent dacă aceste sume sunt provenite din alimentare cont, din bonusuri sau sunt sume ce revin Utilizatorului Vânzător din vânzarea de produse prin intermediul Garanţiei de Livrare.
 
 3.1.2. Fără a aduce atingere prevederilor de mai sus, în toate situaţiile în care Utilizatorul a furnizat date de facturare prin completarea corespunzătoare a acestora în contul său de utilizator, sunt aplicabile următoarele reguli, după verificarea şi validarea acestora (a datelor de facturare) de către Organizator:
 
-3.1.3. Organizatorul va emite Utilizatorului o factură fiscală la începutul fiecărei luni, pentru toate serviciile prestate în luna anterioară şi o va comunica acestuia pe adresa de e-mail asociată contului de utilizator, împreună cu raportul de activitate detaliat cu privire la serviciile facturate.
+3.1.3. Organizatorul va emite Utilizatorului o factură fiscală la începutul fiecărei luni, pentru serviciile prestate în luna anterioară şi o va comunica acestuia pe adresa de e-mail asociată contului de utilizator, împreună cu raportul de activitate detaliat cu privire la serviciile facturate.
 
 3.1.4. Facturile vor fi emise în lei, la cursul oficial comunicat de BNR pentru prima zi a lunii în care au fost prestate serviciile.
 
@@ -249,7 +249,7 @@ hârtie)
 
 3.1.6. În caz de neexecutare în termen a obligaţiei de plată, Organizatorul poate să dispună potrivit propriei sale opţiuni: (a) suspendarea serviciilor oferite; sau (b) blocarea definitivă a contului de utilizator, în urma unei simple notificări transmise către Utilizator, fără preaviz, fără punere în întârziere, fără intervenţia instanţei de judecată, fără nicio altă formalitate.
 
-3.1.7. Facturile emise de Organizator pot fi descărcate de Utilizator şi din contul propriu. Neprimirea de către Utilizator a facturii fiscale pe e-mail, din orice motive (inclusiv căsuţă de mail plină, pierderea accesului la căsuţa de mail, dar fără a se limita la aceasta) nu scuteşte pe acesta de plata facturilor, acestea considerându-se acceptate la plată de către Utilizator dacă nu formulează obecţiuni în cel mult 48 de ore de la momentul la care acestea îi sunt comunicate prin intermediul contului său de utilizator.
+3.1.7. Facturile emise de Organizator pot fi descărcate de Utilizator şi din contul propriu. Neprimirea de către Utilizator a facturii fiscale pe e-mail, din orice motive (inclusiv căsuţă de mail plină, pierderea accesului la căsuţa de mail, dar fără a se limita la aceasta) nu scuteşte pe acesta de plata facturilor, acestea considerându-se acceptate la plată de către Utilizator dacă nu formulează obiecţiuni în cel mult 48 de ore de la momentul la care acestea îi sunt comunicate prin intermediul contului său de utilizator.
 
 3.2.Organizatorul acestei licitaţii pe Internet percepe tarife de listare din contul de utilizator al vânzătorului de pe Okazii.ro în următoarele situaţii:  
 – dacă produsul listat pe site are preţul de pornire de cel puțin 20.01 RON sau 5.01 EUR (inclusiv), pentru tipul de listare „licitaţie standard”  
@@ -260,8 +260,7 @@ Anunţurile, licitaţiile instant cu preţ sub 20.01 RON sau 5.01 EUR sau licita
 
 Pentru categoriile Artă și Obiecte de colecție respectiv Librărie și toate subcategoriile acestora listarea produselor este gratuită indiferent de valoarea produselor listate.
 
-**Modul de funcţionare a sistemului de tarifare a listării**
-
+**Modul de funcţionare a sistemului de tarifare a listării**  
 Sistemul de tarifare funcţionează astfel:  
 – vânzătorul listează pe site unul sau mai multe produse pe care vrea să le comercializeze;  
 – în momentul în care el a terminat procesul de adăugare a produsului spre vânzare, sistemul verifică parametrii listării şi determină dacă acel produs trebuie sau nu tarifat, contul de utilizator Okazii.ro al vânzătorului fiind debitat în mod corespunzator.
@@ -317,16 +316,11 @@ Utilizatorii pot vizualiza in orice moment informatiile despre suma datorata in 
 
 In situatia in care utilizatorii nu achita suma datorata la data scadenta mentionata mai sus, Organizatorul acestei licitatii pe Internet are dreptul sa suspende contul pana la achitarea integrala a debitului.  
 In cazul suspendarii contului, Organizatorul acestei licitatii pe Internet are dreptul, potrivit propriei sale opţiuni, sa aplice oricare din sanctiunile mentionate mai jos, fara ca enumerarea sa fie limitativa:  
-– Toate licitatiile cu articole postate spre vanzare **vor fi inchise**; ele se vor regasi in sectiunea [Vanzari incheiate](http://www.okazii.ro/contul-meu/activitate/vanzari/vanzari-incheiate "Vanzari incheiate") cu sau fara castigator, dupa caz.
-
-– **Nu se mai poate pune sau repune in vanzare** un produs.
-
-– Repunerile automate in vanzare **sunt anulate**.
-
-– Nu se mai poate raspunde la mesajele din forumul produsului sau mesageria privata.
-
-Dupa achitarea sumei restante, contul va fi reactivat in mod automat.
-
+– Toate licitatiile cu articole postate spre vanzare **vor fi inchise**; ele se vor regasi in sectiunea [Vanzari incheiate](http://www.okazii.ro/contul-meu/activitate/vanzari/vanzari-incheiate "Vanzari incheiate") cu sau fara castigator, dupa caz.  
+– **Nu se mai poate pune sau repune in vanzare** un produs.  
+– Repunerile automate in vanzare **sunt anulate**.  
+– Nu se mai poate raspunde la mesajele din forumul produsului sau mesageria privata.  
+Dupa achitarea sumei restante, contul va fi reactivat in mod automat.  
 [Modalitatile de achitare a creditului sunt disponibile aici](http://ajutor.okazii.ro/vanzare/taxe-si-comisioane).
 
 3.6. Organizatorul are dreptul de a suspenda contul oricărui utilizator în situaţia în care utilizatorul respectiv figurează cu datorii către Organizator, indiferent dacă provin din comisioane, promovări sau alte servicii, indiferent dacă i s-a transmis sau nu înştiinţare de plată potrivit art. 3.5 de mai sus şi indiferent de data la care s-a născut obligaţia de plată în sarcina utilizatorului, în cazul în care Organizatorul apreciază, potrivit propriei opţiuni, că utilizatorul respectiv prezintă un risc mare de insolvabilitate.
@@ -349,19 +343,16 @@ Returnarea sumelor care au fost alimentate prin sms se va face direct de la oper
 In cazul in care utilizatorul incalca in orice mod prezentul regulament, fapt care duce la blocarea definitiva a contului sau, Organizatorul va retine, cu titlu de daune, toate sumele aflate in contul utilizatorului sanctionat. Utilizatorul intelege si este de acord cu faptul ca in cazul in care va incalca prezentul regulament, incalcare ce va duce la blocarea definitiva a contului sau, acesta nu va mai avea niciun drept asupra sumelor de bani ce se aflau in cont la momentul sanctionarii sale si ca este de acord ca Organizatorul sa retina cu titlu de despagubire sumele respective.
 
   
-3.9. Achitarea tarifelor catre Okazii.ro este realizata prin alimentarea contului detinut in cadrul sitului.
-
+3.9. Achitarea tarifelor catre Okazii.ro este realizata prin alimentarea contului detinut in cadrul sitului.  
 Utilizatorii, persoane fizice, pot primi facturi fiscale aferente platilor efectuate in contul okazii.ro daca acest lucru este solicitat in mod explicit prin intermediul e-mail-ului, pentru toate alimentarile efectuate, mai putin cele prin SMS, daca solicita acest lucru in termen de 30 de zile de la data alimentarii contului. Utilizatorii au obligatia de a furniza toate datele necesare intocmirii facturii fiscale.
 
 3.9.1 Utilizatorul are dreptul să utilizeze sumele alimentate în cont potrivit prevederilor de mai sus până la expirarea termenului de decădere reglementat de prezentul articol. Dacă în termen de 12 luni de la ultima alimentare a contului Okazii.ro, Utilizatorul nu a pus niciun anunț (licitație) nou(ă) şi nu are niciun anunț (licitație) activ(ă), poate fi decăzut din dreptul de a beneficia de serviciile Okazii.ro corespunzătoare sumelor achitate în avans (prin alimentarea contului) și neutilizate până la expirarea termenului menționat mai sus.
 
-Modalitati de alimentare a contului:
-
+Modalitati de alimentare a contului:  
 **3.9.2 Ordin de plată**  
 Alimentarea contului prin ordin de plată se poate face atât de catre persoanele fizice cât și de catre persoanele juridice, de la sediul oricărei sucursale de bancă din România. Suma minima ce poate fi alimentata prin ordin de plata este 1 euro.
 
-Procesul decurge astfel:
-
+Procesul decurge astfel:  
 De la sediul oricărei sucurale de bancă se completează un ordin de plată către  
 **BITFACTOR  S.R.L**  
 **Cod fiscal : RO33928115**  
@@ -383,10 +374,8 @@ Din suma totala achitata de catre utilizator va fi scazut TVA-ul.
 **3.9.3 Carte de credit/debit**  
 Plațile prin intermediul cardurilor de debit sau credit sunt procesate de către partenerii nostri www.epayment.ro respectiv www.mobilpay.ro prin intermediul unei conexiuni securizate SSL, datele transmise fiind criptate. Alimentarea contului prin acest procedeu este disponibilă atât persoanelor fizice, cât și persoanelor juridice care poseda carduri emise în numele firmei. Sumele selectate se vor regăsi instant în contul de pe OKazii.
 
-Procesul decurge astfel:
-
-Accesezi secțiunea Contul meu/Financiar/Alimenteaza cont,
-
+Procesul decurge astfel:  
+Accesezi secțiunea Contul meu/Financiar/Alimenteaza cont,  
 selectezi suma cu care dorești să alimentezi contul și;
 
 – vei fi redirecționat automat, prin conexiune securizată SSL, către pagina unde vei furniza datele cardului tău;  
@@ -403,8 +392,7 @@ Datele despre card sunt introduse direct în sistemele bancii. În cazul carduri
 
 Precizăm că Okazii.ro nu răspunde sub nicio formă și nu poarta niciun fel de responsabilitate pentru serviciul de procesare a plaților prin carduri oferit de furnizorul nostru precum și pentru orice fel de eroare și/sau fraudă decurgând din sau în legatură cu acest serviciu. Totuși, deși acest serviciu este oferit și dirijat în totalitate și în mod independent de către furnizorul nostru, noi vom întreprinde toate masurile rezonabile pentru a limita pe cât posibil riscul apariției acestor erori și/sau fraude.
 
-**3.9.4 Cu plata ramburs**
-
+**3.9.4 Cu plata ramburs**  
 Alimentarea contului prin plată ramburs este o metodă de plată destinată exclusiv PERSOANELOR FIZICE rezidente în România.
 
 Procesul decurge astfel:  
@@ -443,27 +431,21 @@ Okazii.ro își rezerva dreptul de bloca accesul unui utilizator la alimentarea 
 
 3.10. In toate cazurile in care, in scopul respectarii prevederilor legale in materie, a drepturilor Organizatorului si / sau a tertelor parti, si pentru o cat mai buna derulare a tranzactiilor prin intermediul site-ului okazii.ro, Organizatorul acestei licitatii pe internet
 
-– va primi o notificare din partea unui furnizor de servicii sau din partea unei terte persoane sau
-
-– va aprecia, potrivit propriilor sale criterii care nu pot fi cenzurate in niciun mod si in nicio masura de catre utilizatori sau orice terte persoane,
-
-ca alimentarea conturilor utilizatorilor a fost facuta prin orice fel de mijloace frauduloase sau ca exista orice indicii in aces sens, Organizatorul va putea recurge la urmatoarele masuri:
-
-– emiterea de avertismente,
-
-– suspendarea contului,
-
-– blocarea definitiva a accesului la serviciile Okazii.ro
-
-– anularea contului utilizatorului,
-
+– va primi o notificare din partea unui furnizor de servicii sau din partea unei terte persoane sau  
+– va aprecia, potrivit propriilor sale criterii care nu pot fi cenzurate in niciun mod si in nicio masura de catre utilizatori sau orice terte persoane,  
+ca alimentarea conturilor utilizatorilor a fost facuta prin orice fel de mijloace frauduloase sau ca exista orice indicii in aces sens, Organizatorul va putea recurge la urmatoarele masuri:  
+– emiterea de avertismente,  
+– suspendarea contului,  
+– blocarea definitiva a accesului la serviciile Okazii.ro  
+– anularea contului utilizatorului,  
 – retragerea din conturile utilizatorilor a sumelor alimentate in cont potrivit celor de mai sus,  
 fara a fi tinut sa justifice motivele.
 
 Masurile anterior mentionate pot fi aplicate cumulativ sau alternativ de catre Organizator, potrivit propriilor sale criterii, si nu pot fi cenzurate in niciun mod si in nicio masura de catre utilizatori sau orice terte persoane.
 
-**4\. Regulile de utilizare a serviciilor furnizate de noi.**  
-4.1. Utilizator Verificat.  
+**4\. Regulile de utilizare a serviciilor furnizate de noi.**
+
+**4.1. Utilizator Verificat.**  
 Calitatea de Utilizator verificat este activata utilizatorilor care au incheiat un contract de prestari servicii semnat si stampilat cu Bitfactor SRL.
 
 Prin derogare de la prevederile de mai sus, o persoană juridică străină, care nu este înregistrată în România, poate deveni Utilizator Verificat prin furnizarea certificatului emis de registrul în care este înmatriculată persoana juridică din străinătate, care să ateste existenţa societăţii. Organizatorul poate solicita şi alte documente în vederea acordării statutului de Utilizator Verificat, după caz.
@@ -487,12 +469,10 @@ In cazul in care Organizatorul are suspiciuni intemeiate legate de incercari ale
 Utilizatorii Okazii.ro au obligatia de a aprecia modalitatea in care a decurs tranzactia efectuata prin intermediul Okazii.ro, prin acordarea unui calificativ pozitiv, negativ sau neutru celuilalt utilizator cu care au interactionat in cadrul tranzactiei sau in vederea incheierii acesteia. Utilizatorii Okazii.ro au dreptul de a face comentarii pozitive sau negative odata cu acordarea calificativului, comentarii referitoare la modul de actiune a celorlalti utilizatori, inclusiv a persoanelor cu care au luat legatura in timpul utilizarii acestui sistem (in timpul negocierilor sau stabilirii relatiilor contractuale). Nerespectarea in mod repetat si sistematic a obligatiei de a acorda calificative celorlalti utilizatori poate fi sanctionata de Organizator prin suspendarea accesului la anumite servicii.  
 Organizatorul acestei licitatii are dreptul de a acorda calificative fiecarui utilizator al serviciilor sale. Calificativele acordate de catre Organizator vor fi marcate cu denumirea “system”.
 
-**Acordare automata calificative detaliate**
-
+**Acordare automata calificative detaliate**  
 Atunci cand se incheie o tranzactie pe Okazii iar modalitatea de transport este fie “predare personala,” fie o metoda de transport cu cost zero, cumparatorul nu va putea acorda calificativ detaliat pentru “Cost transport” iar valoarea acestuia va fi precompletata automat la 5 (valoarea maxima).
 
-**Ce reprezinta calificativul?**
-
+**Ce reprezinta calificativul?**  
 Calificativul arata reputatia unui utilizator in randul celorlalti utilizatori. Calificativul este recunoscut si listat de catre Okazii.ro, astfel incat orice calificativ pozitiv duce la o crestere a calificativului general cu un punct, orice calificativ negativ micsoreaza calificativului general cu un punct. Calificativele neutre nu influenteaza calificativul general.  
 Daca un obiect pentru care s-a licitat deja este retras de la o licitatie Standard sau Mokazie, calificativul vanzatorului scade automat cu un punct.
 
@@ -573,8 +553,7 @@ Regula aceasta se extinde şi asupra mesajelor trimise între utilizatori.
 Orice abatere de la această regulă poate duce la notificarea vanzatorului si ulterior, generarea unui avertisment. Sancţionarea comportamentului necorespunzător pe site este un drept pe care îl are Organizatorul, ci nu o obligaţie. Organizatorul va aprecia în mod discreţionar, de la caz la caz, dacă şi în ce modalitate va sancţiona utilizatorii care nu respectă prezentele reguli.
 
 **4.6.14. Anunturi cumparare/schimb**  
-Nu este permisa introducerea in cadrul sitului de anunturi de cumparare sau schimb exclusiv.
-
+Nu este permisa introducerea in cadrul sitului de anunturi de cumparare sau schimb exclusiv.  
 Anunturile care incalca aceasta regula pot fi sterse de catre Serviciul Asistenta Clienti al sitului.
 
 **4.6.15. Conditionarea ofertarii**  
@@ -588,12 +567,9 @@ Totodată, livrarea produsului comandat nu poate fi condiționată de confirmare
 **4.6.16. Loturi obiecte diferite**  
 Nu este permis ca in cadrul unei vanzari sa fie afisate mai multe produse. Fiecare vanzare trebuie sa aiba ca obiect comercializarea unui singur articol. Sunt considerate obiecte diferite produsele care au culori, dimensiuni sau elemente grafice diferite. Produsele care incalca aceasta regula vor fi sterse de catre Departamentul Asistenta Clienti.
 
-**4.6.17. Vanzator Premium**
-
-Pentru a deveni Vânzători Premium, utilizatorii Okazii.ro trebuie să ai un [rating de calitate](https://ajutor.okazii.ro/vanzare/rating-ul-de-calitate.html) de 4 (Silver) sau 5 (Gold)
-
-Statutul de Vânzător Premium este actualizate în data de 2 a fiecărei luni.
-
+**4.6.17. Vanzator Premium**  
+Pentru a deveni Vânzători Premium, utilizatorii Okazii.ro trebuie să ai un [rating de calitate](https://ajutor.okazii.ro/vanzare/rating-ul-de-calitate.html) de 4 (Silver) sau 5 (Gold)  
+Statutul de Vânzător Premium este actualizate în data de 2 a fiecărei luni.  
 Organizatorul își rezerva dreptul de a acorda ori de a refuza facilitatea vânzătorului Premium, potrivit propriei sale opțiuni, fără că acesta să fie obligat să se justifice, în orice mod sau în orice măsură, față de utilizatori.
 
 **4.6.18. Detalii plata si livrare**  
@@ -603,12 +579,10 @@ Vanzatorul are obligatia de a introduce toate detaliile legate de livrarea si pl
 Este interzis ca un vânzător să solicite un preţ minim fix pentru licitaţiile de tip Mokazie. În cazul acestor licitaţii, utilizatorii pot oferi ce preţ consideră, urmând ca la expirarea termenului licitaţiei cumpărătorul care oferă preţul cel mai mare care a fost înregistrat în sistem să fie considerat câştigător. Orice condiţionare a preţului inclusă în descrierea produsului şi / sau efectuată prin mesaje între utilizatori va fi sancţionată cu ştergerea licitaţiei, precum şi orice altă sancţiune de care dispune Organizatorul. Sancţionarea va fi luată în considerare de la caz la caz, apreciată de Organizator, fără a fi obligat să aplice vreo sancţiune.  
 In cazul licitatiilor de tip standard, pretul de pornire este stabilit de catre vanzator. Nu este permis vânzătorului ca în textul descrierii produsului şi / sau prin titlu şi / sau prin intermediul mesageriei să facă referire la un preţ, altul decât cel stabilit la momentul postării licitaţiei. În situaţia în care vânzătorul a încălcat această regulă, Organizatorul poate sancţiona vânzătorul prin ştergerea licitaţiei sau prin orice altă modalitate consideră de cuviinţă. Sancţionarea abaterilor reprezintă un drept al Organizatorului, nu o obligaţie, iar Organizatorul va analiza fiecare astfel de abatere de la caz la caz.
 
-**4.6.20. Modificarea vânzărilor cu oferte**
-
+**4.6.20. Modificarea vânzărilor cu oferte**  
 Utilizatorul vânzător are dreptul să modifice semnificativ parametrii vănzării numai dacă pentru produsul respectiv nu a fost înregistrată nicio ofertă până la data efectuării de către vânzător a modificării respective. Schimbarea produsului pus în vânzare după înregistrarea a cel puţin o ofertă, este strict interzisă. Orice încălcare a acestei reguli poate conduce la ştergerea vănzării de către Serviciul Asistenţă Clienţi.
 
-**4.6.21. Procesare date cumparatori**
-
+**4.6.21. Procesare date cumparatori**  
 In calitate de vanzator pe Okazii aveti obligatia sa folositi datele personale ale cumparatorilor, strict pentru onorarea comenzilor. Orice alt tip de procesare al datelor de catre dumneavoastra este interzis, incluzand dar fara a se limita la:  
 – Crearea de conturi cu datele primite si solicitarea de activare a contului  
 – Abonarea la newslettere si solicitarea de confirmare a abonarii  
@@ -625,10 +599,8 @@ Utilizatorii acordă Organizatorului o licență neexclusivă, transferabilă ș
 **4.7. Obligațiile cumpărătorului.**  
 Cumparatorul are obligatia sa respecte urmatoarele reguli:
 
-**4.7.1. Studiati cu mare atentie descrierea unui articol**
-
-Daca descrierea unui articol nu este clara, asigurati-va de clarificarea acestui aspect inainte de a face vreo oferta. Inainte de a plasa o oferta puteti cere informatii suplimentare din partea vanzatorului prin intermediul forumului.
-
+**4.7.1. Studiati cu mare atentie descrierea unui articol**  
+Daca descrierea unui articol nu este clara, asigurati-va de clarificarea acestui aspect inainte de a face vreo oferta. Inainte de a plasa o oferta puteti cere informatii suplimentare din partea vanzatorului prin intermediul forumului.  
 Facand o oferta pentru un articol se subintelege ca sunteti de acord sa-l cumparati.
 
 **4.7.2. Fiti atenti**  
@@ -685,8 +657,7 @@ Restrictiile pe care le vor avea utilizatorii sunt, dar fara a se limita la aces
 Sunt înregistrate în contul acestuia şi sunt puse la dispoziţia sa prin intermediul panoului de administrare a contului propriu, de îndată ce acestea sunt efectuate sau în conformitate cu regulile aplicabile fiecărei operaţiuni în parte, dacă este reglementată diferit de prezentul acord de utilizare. **Informaţiile referitoare la tranzactii, sunt disponbile în contul fiecărui Utilizator şi pot fi vizualizate pentru perioada aferentă anului în curs și anului anterior. Informaţiile referitoare la mesaje sunt disponbile în contul fiecărui Utilizator şi pot fi vizualizate timp de 60 de zile de la data la care fiecare operaţiune a fost înregistrată în cont. Informațiile financiare (facturile și înștiințările de plată) pot fi accesate oricând de utilizatori,  
 indiferent de vechimea acestora.**. Utilizatorii au obligaţia să notifice Organizatorului orice obiecţiune cu privire operaţiunile înregistrate în cont, în general, dar şi cu privire la serviciile oferite de Organizator prin intermediul Okazii.ro, în special, în termen de cel mult 60 de zile de la data înregistrării fiecărei operaţiuni în contul propriu. În caz contrar, se prezumă în mod absolut că serviciile furnizate de Organizator sunt conforme prezentului acord de utilizare şi au fost prestate în conformitate cu solicitările fiecărui Utilizator. După trecerea termenului de 60 de zile menţionat mai sus, Utilizatorul este decăzut din dreptul de a formula reclamaţii / obiecţiuni în legătură cu serviciile furnizate de Organizator prin intermediul Okazii.ro, dar şi cu solicitarea de mediere/anulare calificative.
 
-**4.11. Review-uri produse**
-
+**4.11. Review-uri produse**  
 Utilizatorul are dreptul de a adăuga recenzii (review-uri) la produsele comercializate pe site-ul Okazii.ro, în condiţiile reglementate mai jos. Review-urile sunt afişate în site doar după ce sunt aprobate de Organizator; acesta verifică dacă fiecare review respectă prezentul Acord. Dacă Organizatorul consideră cu bună credinţă cu un review încalcă prezentul acord, acesta nu va fi afişat în site.
 
 4.11.1 Orice Utilizator poate adăuga un review la un produs comercializat pe site, indiferent dacă a cumpărat sau nu acel produs prin intermediul Okazii.ro. Cu toate astea, în cazul în care produsul este cumpărat prin interemediul site-ului ww.okazii.ro, lângă review este menţionat „Achiziţie verificată”.
@@ -713,16 +684,14 @@ Utilizatorul are dreptul de a adăuga recenzii (review-uri) la produsele comerci
 
 4.11.6. Organizatorul nu dorește să facă ori să sugereze nicio asociere directă sau indirectă între el şi opiniile ori comentariile exprimate de Utilizatori. Review-urile produselor afişate pe site sunt rezultatul exclusiv al acțiunii Utilizatorilor şi reflectă exclusiv aprecierea subiectivă a acestora, evaluarea respectivelor produse neavând nicio legătură cu Organizatorul. Acesta din urma are dreptul, dar nu obligația, de a verifica şi supraveghea modul de acordare a review-urilor, precum şi opiniile exprimate de Utilizatori în legătură cu produsele de pe site.
 
-4.12. Ierarhia
-
+**4.12. Ierarhia**  
 4.12.1. Anunțurile/licitațiile sunt afișate în Site într-o ordine dată de un anumit scor de relevanță (ranking) înregistrat de fiecare anunț în parte pe baza unui algoritm proprietar. Scopul acestui algoritm este să afișeze cele mai relevante rezultate ale căutărilor efectuate de utilizatorii Site-ului.
 
 4.12.2. Ranking-ul este influențat de mai mulți parametri, precum titlu, descriere, categoria în care este încadrat produsul, rating-ul utilizatorului vânzător și, cel mai important, opțiunile personale ale utilizatorului care efectuează căutarea. Organizatorul licitației furnizează servicii de promovare prin intermediul cărora poate fi influențată prin plată ordinea de afișare a anunțurilor. În acest sens, utilizatorii pot opta pentru servicii de promovare ce vor afișa anunțurile/licitațiile pentru care s-a activat promovarea în primele 3 poziții din rezultatele căutărilor sau listărilor de produse din categorii. Anunțurile promovate sunt marcate cu textul „Promo”. În rezultatele oricărei căutări vor fi afișate cel mult 3 anunțuri promovate. Anunțurile promovate beneficiază de un marcaj distinctiv și vor fi afișate în aceasta zonă dacă răspund termenilor de căutare sau atunci când este accesată lista de produse dintr-o categorie. În cazul în care exista mai multe produse promovate ce răspund criteriilor de afișare sau căutare, acestea vor fi afișate prin rotație la fiecare afișare de pagina.
 
 4.12.3. Având în vedere dorința Organizatorului licitației de a afișa anunțuri relevante pentru cumpărători, o importanță deosebită o au cuvintele cheie utilizate de persoana care efectuează căutarea. Rezultatele căutării în Site pot fi influențate și prin folosirea filtrelor, prin folosirea metodei de căutare avansată și/sau sortând rezultatele după o ordine alternativă (precum preț, data adăugării, numărul de oferte, ultimele produse adăugate sau timpul rămas până la expirarea vânzării), având astfel abilitatea de a influența afișarea rezultatelor pentru a primi un clasament bazat pe alte criterii.
 
-4.13. Conținutul site-ului
-
+4.13. Conținutul site-ului  
 4.13.1. Toate drepturile de proprietate intelectuală asupra conținutului de orice fel al Site-ului, inclusiv, dar fără a se limita la design, imagini, texte, baze de date, programe pentru calculator, dar fără a se limita la acestea (“Conținutul Site-ului”), aparțin Organizatorului licitației.
 
 4.13.2. Prin derogare de la prevederile de mai sus, nu aparțin Organizatorului licitației drepturile asupra acelor materiale pentru care pe Site s-a indicat în mod expres sau implicit un alt titular de drepturi, precum conținutul anunțurilor, fotografiile care le însoțesc, materialele publicitare ale terților, dar fără a se limita la acestea.
@@ -735,7 +704,8 @@ Utilizatorul are dreptul de a adăuga recenzii (review-uri) la produsele comerci
 
 4.13.6. Utilizatorii înțeleg și acceptă că Site-ul poate conține legături sau trimiteri către alte site-uri de internet, precum site-urile furnizorilor de produse și/sau servicii către care trimit bannerele publicitare postate pe Site, dar fără a se limita la acestea, care sunt considerate de Organizatorul licitației utile în legătură cu Conținutul Site-ului sau cu activitatea utilizatorilor pe internet, dar care nu se află sub controlul sau îndrumarea sa. În măsura maximă permisă de lege, Organizatorul licitației este absolvit de orice răspundere în ceea ce privește conținutul sau opiniile exprimate pe toate site-urile de internet mai sus menționate, precum și pentru corectitudinea și exactitatea acestora, iar utilizatorii înțeleg și acceptă că aceste site-uri de internet nu sunt monitorizate, controlate sau verificate în orice mod de către Organizatorul licitației. În momentul în care utilizatorii accesează aceste site-uri de internet, ei o fac pe riscul lor, cunoscând că utilizarea serviciilor oferite de aceste site-uri este supusă condițiilor stabilite de administratorii acestor site-uri.
 
-**5\. Serviciul Magazine Okazii.ro** Magazine.Okazii.ro reprezinta o facilitate pusa la dispozitia utilizatorilor Okazii.ro, persoane fizice sau juridice, prin care acestia beneficiaza de o listare personalizata a produselor puse la vanzare in cadrul Okazii.ro.  
+**5\. Serviciul Magazine Okazii.ro**  
+Magazine.Okazii.ro reprezinta o facilitate pusa la dispozitia utilizatorilor Okazii.ro, persoane fizice sau juridice, prin care acestia beneficiaza de o listare personalizata a produselor puse la vanzare in cadrul Okazii.ro.  
 In cadrul unui magazin Okazii.ro, utilizatorii isi pot pune spre vanzare produsele intr-o sectiune pentru care pot alege structura generala a acesteia, pot incarca un logo propriu (respectand Termenii si Conditiile site-ului; ex: fara terminatia „.ro”), pot introduce o denumire a magazinului, o descriere, precum si termenii si conditiile de functionare a acestuia.  
 Magazinul Okazii.ro poate fi accesat prin intermediul unui link de tipul [http://magazine.okazii.ro/numemagazin](http://magazine.okazii.ro/numemagazin), unde „numemagazin” repezinta numele de utilizator al contului Okazii.ro, detinut de catre posesorul magazinului.  
 In magazinul Okazii.ro pot fi introduse vanzari de tip „Instant” si “Anunt”. Acestea pot fi listate manual sau pot fi introduse prin import.  
@@ -747,12 +717,9 @@ Abonamentele pentru serviciul Magazine.Okazii.ro sunt prelungite automat, cu exc
 **5.1. Import automat**  
 Importul de produse reprezinta o facilitate de care pot beneficia numai utilizatorii care au activat serviciul magazine.okazii.ro. Importul de produse poate fi realizat automat prin feed xml.  
 Pentru realizarea Importului Automat, utilizatorul Okazii.ro este obligat sa furnizeze un url care ulterior va fi apelat pentru obtinerea informatiilor legate de produsele ce urmeaza sa fie afisate pe Okazii.ro. Informatiile care sunt afisate pe Okazii.ro provin dintr-un fisier de tip .xml realizat de catre utilizator.  
-In cazul in care site-ul dumneavoastra este dezvoltat pe o platforma standard de e-commerce, va putem pune gratuit la dispozitie scripturi pentru generarea automata a fisierului de import, in masura in care dispunem de acestea.
-
-Okazii.ro furnizeaza utilizatorului Okazii.ro un script functional, insa verificarea setarilor realizate pe server intra in intregime in atributia utilizatorului respectiv (inclusiv restrictii in fisierul .htaccess, dar fara a se limita la aceasta).
-
-La cererea utilizatorului Okazii.ro, în eventualitatea în care acesta are nevoie de suport tehnic pentru verificarea sau realizarea setărilor pe serverul său și în limita disponibilității, Okazii.ro va putea accesa serverele utilizatorilor Okazii.ro, pe baza datelor de conectare (user și parolă) furnizate de aceștia, în vedere acordării de sprijin pentru implementarea scriptului Okazii.ro. Bitfactor nu va utiliza datele de conectare ale utilizatorilor Okazii.ro pentru accesarea neautorizată a serverelor acestora.Orice modificare adusa platformei standard de e-commerce poate afecta sau impiedica functionarea scriptului.
-
+In cazul in care site-ul dumneavoastra este dezvoltat pe o platforma standard de e-commerce, va putem pune gratuit la dispozitie scripturi pentru generarea automata a fisierului de import, in masura in care dispunem de acestea.  
+Okazii.ro furnizeaza utilizatorului Okazii.ro un script functional, insa verificarea setarilor realizate pe server intra in intregime in atributia utilizatorului respectiv (inclusiv restrictii in fisierul .htaccess, dar fara a se limita la aceasta).  
+La cererea utilizatorului Okazii.ro, în eventualitatea în care acesta are nevoie de suport tehnic pentru verificarea sau realizarea setărilor pe serverul său și în limita disponibilității, Okazii.ro va putea accesa serverele utilizatorilor Okazii.ro, pe baza datelor de conectare (user și parolă) furnizate de aceștia, în vedere acordării de sprijin pentru implementarea scriptului Okazii.ro. Bitfactor nu va utiliza datele de conectare ale utilizatorilor Okazii.ro pentru accesarea neautorizată a serverelor acestora.Orice modificare adusa platformei standard de e-commerce poate afecta sau impiedica functionarea scriptului.  
 Scripturile sunt livrate in mod gratuit si functioneaza pe majoritatea platformelor de acelasi tip, indiferent de versiune.  
 In cazul in care nu sunteti multumit de rezultatul scriptului sau acesta nu functioneaza corect, Okazii.ro nu isi asuma nicio raspundere, astfel ca in acest caz este recomandat sa urmati instructiunile din manualul de import xml si sa va creati propriul script de feed. In principal, Okazii.ro nu isi asuma nicio raspundere in legatura cu erorile cauzate de particularitatile platformelor utilizatorilor, de nerespectarea de catre acestia a etapelor de import sau in legatura cu alte erori neimputabile Okazii.ro.
 
@@ -761,15 +728,14 @@ Actualizarea datelor pe Okazii.ro se poate realiza manual, prin accesarea butonu
 Avand in vedere ca in momentul realizarii Importului Automat pot aparea intreruperi ale transmiterii informatiilor, Okazii.ro nu isi asuma in niciun mod si in nicio masura raspunderea privind corectitudinea informatiilor inserate cu ajutorul optiunii de Import Automat. Utilizatorul Okazii.ro care foloseste importul automat are obligatia de a verifica daca datele produselor sale sunt exacte si complete. Utilizatorul Okazii.ro care a optat pentru optiunea de Import Automat are intreaga raspundere pentru caracterul corect si complet al informatiilor privind produsele actualizate si / sau importate prin folosirea optiunilor prezente pe site.
 
 **6\. Serviciul Garantia de Livrare**  
-6.1 Termeni utilizati in cadrul regulamentului
-
+**6.1 Termeni utilizati in cadrul regulamentului**  
 • Utilizatorul site-ului Okazii.ro care va folosi serviciul Serviciul Garantia de Livrare cu livrare prin curieri speciali este denumit in continuare “utilizator”.  
 • Site-ul Okazii.ro va fi denumit in continuare „Okazii.ro” sau „Site-ul”.  
 • Serviciul “Gdl cu livrare prin curieri speciali” este denumirea utilizată în prezentul Regulament pentru serviciul “Garanția de Livrare cu livrare prin curieri speciali.  
 • Utilizatorul care are in raport cu o tranzactie Okazii rolul de vanzator este denumit in continuare “Vanzator”; utilizatorul care are in raport cu o tranzactie Okazii rolul de cumparator este denumit in continuare ”Cumparator”.  
 • Serviciul de curierat prin care se face livrarea acoperita de „GdL cu livrare prin curieri speciali” este denumit in continuare „serviciul de curierat agreat”.
 
-6.2 Principiile de functionare a serviciului Garantia de Livrare  
+**6.2 Principiile de functionare a serviciului Garantia de Livrare**  
 1\. Utilizatorii vor putea folosi serviciul “GdL cu livrare prin curieri speciali” numai acceptand Termenii si conditiile de utilizare.  
 2\. Pentru a putea activa serviciul “GdL cu livrare prin curieri speciali”, vanzatorul va trebui sa introduca codul IBAN in lei corespunzator unui cont bancar impreuna cu numele titularului acestui cont, date care sunt necesare pentru realizarea platii rezultate in urma tranzactiei. Validarea vanzatorului va fi facuta de catre Okazii.ro. Okazii.ro isi rezerva dreptul de a nu valida un utilizator care a incalcat anterior regulile de functionare ale Site-ului. Okazii.ro nu va folosi in niciun alt fel datele introduse de utilizatori, date care vor pastra un caracter confidential.  
 3\. Vanzatorul poate opta pentru serviciul „GdL cu livrare prin curieri speciali” atat la introducerea unui produs in vanzare, cat si ulterior, pe toata durata de valabilitate a acesteia, editand parametrii tranzactiei sale, numai in situatia in care nu au fost inregistrate oferte.  
@@ -800,18 +766,16 @@ Utilizatorii se obligă să respecte termenele și condițiile serviciului de cu
 17\. Vanzatorul are obligatia sa completeze corect adresa si datele expeditorului pe coletul trimis. In situatia in care coletul va fi returnat vanzatorului, cumparatorul va trece la adresa destinatarului adresa specificata la livrarea produsului de catre vanzator. Daca nu a fost ridicat coletul de catre vanzator, tranzactia se va inchide cu statusul “Colet returnat” si se va returna cumparatorului intreaga suma platita.
 
 6.2.4 In calitate de cumparator, utilizatorul are urmatoarele obligatii  
-18\. Cumparatorul are obligatia sa introduca in mod corect si complet datele de livrare pentru a fi expediat coletul.  
-19\. În cazul în care dorește returnarea produsului, cumparatorul este obligat să efectueze returul prin generarea documentului de transport din contul său de utilizator Okazii.ro. De asemenea, cumparatorul trebuie sa specifice  
-un cod IBAN valid pentru returnarea banilor achitați pentru comanda returnată. O tranzactie este considerata ca fiind finalizata cu succes daca in termen de 3 zile lucratoare de la receptionarea coletului de catre cumparator  
-acesta nu genereaza un document de transport din contul Okazii.ro pentru expedierea retur a produsului. Cheltuielile de returnare a produsului se suportă de cumpărător și vor fi reținute din valoarea rambursului plătit inițial pentru comandă.
+18\. Cumparatorul are obligatia sa achite tarifele percepute de Organizator pentru a beneficia de serviciul Garanția de Livrare. Returnarea produsului cumpărat prin Garanția de Livrare nu îndreptățește cumprătorul să solicite rambursarea tarifelor achitate pentru acest serviciu, care rămân datorate către Organizator.
 
-20\. Finalizarea tranzactiei cu succes determina efectuarea platii catre vanzator in ziua de joi următoare datei la care comanda se consideră finalizată cu succes, dar nu mai devreme de intrarea banilor corespunzatori tranzactiei  
-in contul Okazii.ro, precum si incetarea oricaror datorii si obligatii din partea acestuia catre cumparator si ale cumparatorului catre acesta. La finalizarea cu succes a tranzacției, inceteaza orice datorii si obligatii ale Okazii.ro catre utilizatorii implicati in tranzactie, cu privire la tranzacția respectivă.  
+18.1. Cumparatorul are obligatia sa introduca in mod corect si complet datele de livrare pentru a fi expediat coletul.  
+19\. În cazul în care dorește returnarea produsului, cumparatorul este obligat să efectueze returul prin generarea documentului de transport din contul său de utilizator Okazii.ro. De asemenea, cumparatorul trebuie sa specifice un cod IBAN valid pentru returnarea banilor achitați pentru comanda returnată. O tranzactie este considerata ca fiind finalizata cu succes daca in termen de 3 zile lucratoare de la  receptionarea coletului de catre cumparator acesta nu genereaza un document de transport din contul Okazii.ro pentru expedierea retur a produsului. Cheltuielile de returnare a produsului se suportă de cumpărător și vor fi reținute din valoarea rambursului plătit inițial pentru comandă.
+
+20\. Finalizarea tranzactiei cu succes determina efectuarea platii catre vanzator in ziua de joi următoare datei la care comanda se consideră finalizată cu succes, dar nu mai devreme de intrarea banilor corespunzatori tranzactiei in contul Okazii.ro, precum si incetarea oricaror datorii si obligatii din partea acestuia catre cumparator si ale cumparatorului catre acesta. La finalizarea cu succes a tranzacției, inceteaza orice datorii si obligatii ale Okazii.ro catre utilizatorii implicati in tranzactie, cu privire la tranzacția respectivă.  
 21\. Din momentul generarii documentului de transport din platforma Okazii.ro, cumparatorul are la dispozitie 5 zile lucratoare pentru a expedia coletul retur către vânzător. Dacă, dupa trecerea termenului de 5 zile menționat mai sus, Okazii.ro nu poate confirma cu firma de curierat statusul de colet (retur) expediat, tranzactia va fi considerata ca fiind finalizată cu succes iar suma achitata de catre cumparator va fi transferata vanzatorului.  
-22\. Dupa primirea coletului retur, vanzatorul poate reclama eventualele deteriorari sau lipsuri ale coletului primit, in scris, la adresa suportgdl@okazii.ro pana in ziua de joi imediat urmatoare primirii statusului de colet retur receptionat de la firma de curierat. Daca vanzatorul nu semnaleaza in termenul mentionat mai sus o problema referitoare la coletul retur receptionat, tranzactia se va considera anulata iar Okazii.ro va returna suma cumparatorului. Dacă din contră, vanzatorul reclamă în termen o problemă a coletului primit retur, Okazii.ro va bloca transferul banilor catre cumparator, fie pana la primirea unei rezoluţii comune din partea cumparatorului si a  
-vanzatorului prin care acestia vor comunica înţelegerea lor cu privire la cuantumul sumei ce va fi returnata cumparatorului, fie până la primirea unei dispoziţii sau instrucţiuni din partea unei autorităţi competente cu privire la conflictul dintre cei doi şi suma de bani în discuţie, oricare dintre acestea survine prima.
+22\. Dupa primirea coletului retur, vanzatorul poate reclama eventualele deteriorari sau lipsuri ale coletului primit, in scris, la adresa suportgdl@okazii.ro pana in ziua de joi imediat urmatoare primirii statusului de colet retur receptionat de la firma de curierat. Daca vanzatorul nu semnaleaza in termenul mentionat mai sus o problema referitoare la coletul retur receptionat, tranzactia se va considera anulata iar Okazii.ro va returna suma cumparatorului. Dacă din contră, vanzatorul reclamă în termen o problemă a coletului primit retur, Okazii.ro va bloca transferul banilor catre cumparator, fie pana la primirea unei rezoluţii comune din partea cumparatorului si a vanzatorului prin care acestia vor comunica înţelegerea lor cu privire la cuantumul sumei ce va fi returnata cumparatorului, fie până la primirea unei dispoziţii sau instrucţiuni din partea unei autorităţi competente cu privire la conflictul dintre cei doi şi suma de bani în discuţie, oricare dintre acestea survine prima.
 
-6.3 Rolul Okazii.ro si al serviciului de curierat  
+**6.3 Rolul Okazii.ro si al serviciului de curierat**  
 6.3.1 Okazii.ro si serviciul „Garantia de Livrare”  
 23\. Okazii.ro va indeplini mai multe functii, aflandu-se in raporturi diferite cu utilizatorii, reprezentantii serviciilor de curierat agreate sau terte parti.  
 24\. Okazii.ro va avea calitatea de furnizor de servicii fata de utilizatori, punand la dispozitia acestora o platforma on-line cu scopul de a facilita vanzarea de produse de catre utilizatori in nume propriu. In acest raport, Okazii.ro va avea urmatoarele obligatii: (a) sa asigure buna functionare a sistemului pus la dispozitia utilizatorilor; (b) sa asigure notificarea utilizatorilor cu privire la modificarile survenite in statusul unei tranzactii. Notificarile vor putea fi facute atat prin intermediul sistemului de notificari dezvoltat de Okazii.ro, cat si prin e-mail; (c) sa afiseze versiunea curenta a prezentului document si data cand acesta a fost publicat pe Site.  
@@ -828,15 +792,15 @@ vanzatorului prin care acestia vor comunica înţelegerea lor cu privire la cuan
 29\. In raporturile ce au ca obiect primirea unor sume de bani, furnizorul de servicii de curierat va avea calitatea de submandatar fata de utilizatori si mandatar fata de Okazii.ro. Astfel, pentru a indeplini mandatul primit de la utilizatori, Okazii.ro subimputerniceste furnizorul de servicii de curierat in vederea primirii sumelor de bani, urmand ca ulterior furnizorul de servicii de curierat sa ii vireze catre Okazii.ro, unde aceste sume vor fi retinute conform prevederilor prezentului document. In acest sens, furnizorul de servicii de curierat va incasa sumele de bani de la utilizatori in numele si pe seama Okazii.ro, ce incaseaza la randul ei in numele si pe seama utilizatorului. Prin acceptarea prezentului document, utilizatorii acorda Okazii.ro posibilitatea de a submandata catre furnizorul de servicii obligatia de a incasa sumele de bani platite de utilizatori cu titlu de pret. In calitate de submandatar, furnizorul de servicii de curierat are obligatia de a primi sumele de bani din partea utilizatorilor si de a le vira catre Okazii.ro, intocmai cum a primit aceste sume. Atat utilizatorii, cat si Okazii.ro vor putea trage la raspundere furnizorul de servicii de curierat conform dispozitiilor legale prevazute de legiuitor pentru mandat.  
 30\. Pentru trimiterile retur se aplica tarifele standard ale firmelor de curierat
 
-6.4 Sistemul de plata pentru serviciul Garantia de Livrare  
+**6.4 Sistemul de plata pentru serviciul Garantia de Livrare**  
 31\. Plata ramburs se va face direct reprezentantului serviciului de curierat, in momentul primirii coletului de catre cumparator.  
 32\. Costurile de transport vor cadea in sarcina cumparatorului, atat in cazul livrarii produsului, cat si in momentul returnarii produsului.  
 33\. In situatia in care cumparatorul isi va fi dat o adresa eronata, fara sau cu intentia aceasta, atunci costul expedierii va fi suportat de vanzator. In nicio situatie Okazii nu va fi obligata sa suporte orice cheltuiala rezultata din transportul produselor intre utilizatorii sai.  
 34\. Okazii urmăreşte permanent siguranta tranzactiilor derulate prin intermediul Site-ului. Okazii va retine sumele de bani incasate de la utilizatori pana in momentul in care vor fi indeplinite conditiile pentru a vira banii catre una dintre partile tranzactiei.  
 35\. Dobanda pe care sumele de bani o acumuleaza in contul Okazii apartine Okazii.  
 36\. In cazul vanzatorului, Okazii va elibera banii catre el în urmatoarea zi de joi ulterioară datei la care tranzactia a fost considerata ca fiind finalizată cu succes, dar nu mai devreme de intrarea banilor în contul Okazii.  
-37\. Comisionul Okazii.ro va fi suportat in totalitate de catre vanzator, in conditiile art. 3.3 din Termeni si Conditii. Suma corespunzatoare acestui comision va fi retinuta din pretul produsului si va fi identificata in contul utilizatorului sub forma unei alimentari.  
-38\. Pentru toate livrarile efectuate in cadrul serviciului GdL prin curierul DPD, UrgentCargus, Fan Courier sau prin Posta Romana, costul de transport va fi retras din contul de utilizator al vanzatorului iar suma corespunzatoare va fi retinuta din pretul produsului si va fi identificata in contul utilizatorului sub forma unei alimentari.  
+37\. Comisionul Okazii.ro va fi suportat in totalitate de catre vanzator, in conditiile art. 3.3 din Termeni si Conditii. Suma corespunzatoare acestui comision va fi retinuta din pretul produsului si va fi identificata in contul utilizatorului sub forma unei alimentari. Fără a aduce atingere celor de mai sus, cumpărătorul datorează către Okazii.ro tariful perceput de aceasta din urmă pentru a furniza cumpărătorului serviciul Garanția de Livrare.  
+38\. Pentru toate livrarile efectuate in cadrul serviciului GdL prin curierul DPD, UrgentCargus, Fan Courier sau prin Posta Romana, costul de transport va fi retras din contul de utilizator al vanzatorului iar suma corespunzatoare va fi retinuta din pretul produsului si va fi identificata in contul utilizatorului sub forma unei alimentari. Tariful datorat de cumpărător către Okazii.ro va fi achitat la momentul efectuării plății produsului comandat.  
 39\. In cazul trimiterilor efectuate prin intermediul serviciului de curierat furnizat de Posta Romana, Vanzatorul trebuie sa respecte urmoarele obligatii:  
 • Sa prezinte trimiterile postale pe durata orelor de program insotite de formularele postale generate si tiparite din Site (scrisorile de transport (AWB) si dupa caz, de formularele aferente serviciilor suplimentare: confirmare postala de primire interna – AR);  
 • Sa nu prezinte trimiteri pe ambalajul carora sunt inscrise: (a) inscriptii care contravin ordinii publice sau bunelor moravuri; sau (b) inscriptii care discrediteaza sau denigreaza marcile de comert, denumirile comerciale, alte semne distinctive, bunuri, servicii, activitati ale C.N. Posta Romana S.A.  
@@ -844,18 +808,18 @@ vanzatorului prin care acestia vor comunica înţelegerea lor cu privire la cuan
 • Conditii de dimensiuni si greutate acceptate pentru trimiterile Prioripost: (a) dimensiuni minime:90 x 140 mm, cu o toleranta de 2 mm şi (b) dimensiuni maxime: 2 m pentru una din dimensiuni sau 3 m pentru suma lungimii si a celui mai mare perimetru luat in alt sens decat cel al lungimii. Greutatea maxima admisa este de 15 kg/20 kg continut indivizibil.  
 • Scrisoarea de transport (AWB) si dupa caz, formularele aferente serviciilor suplimentare, sunt aplicate de expeditor pe ambalajul fiecarei trimiterii, prin introducere intr-o poseta din plastic autocolanta, transparenta.
 
-6.5 Sanctiuni  
+**6.5 Sanctiuni**  
 40\. In cazul in care cumparatorul solicita livrarea produsului cumparat prin Garantia de Livrare, iar vanzatorul livreaza prin alt curier, atunci vanzatorul va fi sanctionat de catre Okazii. In cazul in care vanzatorul este la prima abatere, acesta va fi suspendat pe o perioada de 30 de zile din „Gdl cu livrare prin curieri speciali”. Aceasta sanctiune are ca efect imediat limitarea pretului maxim la care are dreptul vanzatorul sa puna un produs spre vanzare.  
 41\. In cazul in care vanzatorul se afla la a doua abatere, atunci el va fi suspendat permanent din serviciul Garantia de Livrare, fapt care va avea efecte si asupra pretului de vanzare maxim la care vanzatorul doreste sa posteze un produs. Astfel, daca vanzatorul va dori sa puna in vanzare un produs care are ca pret de pornire un pret mai mare decat pretul maxim pe care are dreptul sa il afiseze, atunci vanzatorul va trebui sa activeze optiunea „Livrare personala”.  
 42\. Okazii are dreptul sa sanctioneze orice astfel de fapte, dar nu si obligatia de a face acest lucru. Sanctionarea utilizatorilor sai ramane la libera sa apreciere, Okazii avand o putere discretionara in a lua masurile de coercitie necesare impotriva utilizatorilor care incalca prezentul regulament.
 
-6.6 Prevederi finale  
+**6.6 Prevederi finale**  
 43\. Orice fel de comunicare si informatie transmisa prin serviciul „Gdl cu livrare prin curieri speciali”, precum si raporturile juridice intre utilizatori, Okazii.ro si furnizorul de servicii de curierat vor fi guvernate de prezentul Regulament (Termeni si conditii), ca reprezentand acordul complet, exclusiv si definitiv dintre utilizatori, Okazii.ro si furnizorul de servicii de curierat.  
 44\. Prevederile care reglementează Garanţia de Livrare nu restricționează în nicio modalitate drepturile consumatorului în relația cu profesioniștii. Pentru a înlătura orice îndoială, consumatorii beneficiază în relația cu profesioniștii de dreptul de retragere în condițiile Ordonanţei de urgenţă nr. 34/2014 privind drepturile consumatorilor în cadrul contractelor încheiate cu profesioniştii, precum şi pentru modificarea şi completarea unor acte normative.
 
 **7. Plata cu cardul**  
 **7.1. Preliminarii**  
-Toți cumpărătorii care fac plata produsului prin card bancar la momentul efectuării comenzii pe site beneficiază de Garanția de Livrare pentru plata cu cardul. Prin acceptarea documentului Termeni și Condiții al Site-ului, atât vânzătorul cât și cumpărătorul acceptă în mod expres prevederile Garanției de Livrare pentru plata cu cardul.  
+Toți cumpărătorii care fac plata produsului prin card bancar la momentul efectuării comenzii pe site beneficiază de Garanția de Livrare pentru plata cu cardul și sunt obligați să respecte prevederile art. 6 de mai sus, aplicabile Serviciului Garanția de Livrare. Prin acceptarea prezentului Acord de utilizare, atât vânzătorul cât și cumpărătorul acceptă în mod expres prevederile Garanției de Livrare aplicabile mutatis mutandis și pentru plata cu cardul.  
 Plata cu cardul este disponibilă doar anumitor produse pentru care vânzătorul oferă livrare prin Poșta Română ori prin intermediul unui serviciu de curierat, exceptând produsele disponibile doar prin predare personală.  
 Categoriile in care nu este disponibila plata cu cardul sunt urmatoarele:
 
@@ -901,8 +865,7 @@ Pentru a putea primi banii prin transfer bancar, vânzătorul va trebui să intr
 
 Pentru sume ce nu depăşesc 1.500 lei, banii pot fi trimiși la cerere și prin e-mandat (mandat poștal online), tarifele de expediţie fiind în sarcina Utilizatorului.
 
-Tarifele de expeditie sunt urmatoarele, în funcţie de valoarea sumei expediate:
-
+Tarifele de expeditie sunt urmatoarele, în funcţie de valoarea sumei expediate:  
 pentru sume < 200 lei, tariful este 10 lei;  
 pentru sume în intervalul 200,01 – 500 lei, tariful este 15 le;  
 pentru sume în intervalul 500,01 – 1000 lei, tariful este 20 lei;  
@@ -927,7 +890,8 @@ După ce Okazii.ro a primit confirmarea că produsul a ajuns înapoi la vânzăt
 Prezenta clauză reglementează dreptul cumpărătorului de a returna produsul în condițiile Acordului de utilizare a site-ului www.okazii.ro și nu restricționează în nicio modalitate drepturile consumatorului în relația cu profesioniștii. Pentru a înlătura orice îndoială, consumatorii beneficiază în relația cu profesioniștii de dreptul de retragere în condițiile Ordonanţei de urgenţă nr. 34/2014 privind drepturile consumatorilor în cadrul contractelor încheiate cu profesioniştii, precum şi pentru modificarea şi completarea unor acte normative.
 
 **7.6. Comisioane**  
-Comisionul Okazii.ro va fi suportat in totalitate de catre vanzator, in conditiile art. 3.3 din Termeni si Conditii. Suma corespunzatoare acestui comision va fi retinuta din valoarea tranzactiei sau a produsului, dupa caz, si va fi identificata in contul utilizatorului sub forma unei alimentari.  
+Comisionul Okazii.ro va fi suportat în totalitate de către vânzător, în condițiile art. 3.3 din Termeni și Condiții, Cumpărătorul fiind ținut însă să achite tarifele corespunzătoare Serviciului Garanția de Livrare de care beneficiază implicit. Suma corespunzătoare comisionului suportat de vânzător va fi reținuta din valoarea tranzacției sau a produsului, după caz, și va fi identificată în contul utilizatorului sub forma unei alimentări, iar tariful datorat de cumpărător către Okazii.ro va fi achitat la momentul efectuării plății produsului comandat.  
+  
 Toate comisioanele bancare, precum și comisioanele procesatorului de card, percepute pentru transferul sumelor de bani în condițiile Garanției de Livrare pentru plata cu cardul vor fi suportate de Okazii.ro. Comisioanele bancare ocazionate de încasarea sumelor de bani rămân în sarcina vânzătorului. Okazii.ro își rezervă dreptul de a modifica politica de suportare a comisioanelor bancare, cu menționarea prealabilă a acestei modificări în Termeni și Condiții.
 
 **7.7. Sancţiuni**  
@@ -1047,7 +1011,9 @@ Conform Regulamentului nr. 679 din 27 aprilie 2016, beneficiati de dreptul de ac
 
 15.7. Solicitările Dvs. vor fi analizate și vor primi răspuns în termen de maxim 30 de zile lucrătoare de la primirea acestora de către Organizatorul licitației, în cazul în care au fost însoțite de toate datele și informațiile necesare pentru soluționarea acestora. În situația în care nu ați transmis Organizatorului licitației toate datele și informațiile necesare soluționării solicitării respective, vor fi cerute informațiile lipsă, urmând ca termenul de soluționare de mai sus să fie prelungit corespunzător.
 
-**Ultima actualizare: 14.06.2023**
+**Ultima actualizare: 02.08.2023**
+
+[Versiuni anterioare](https://ajutor.okazii.ro/istoric-termeni-si-conditii.html)
 
 Informatiile au fost utile?
 
