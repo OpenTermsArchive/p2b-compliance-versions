@@ -44,17 +44,16 @@ Listele pot fi:
 * orice informatie comunicata prin orice mijloc de catre un angajat/colaborator al Vanzatorului, Cumparatorului, conform informatiilor de contactare, specificate sau nu de catre acesta;
 * informatii legate de Bunurile si/sau Serviciile si/sau tarifele practicate de Vanzator intr-o anumita perioada;
 * informatii legate de Bunurile si/sau Serviciile si/sau tarifele practicate de catre un tert cu care Vanzatorul are incheiate contracte de parteneriat, intr-o anumita perioada;
-* date referitoare la Vanzator, sau alte date privilegiate ale acestuia.
 
-**Review** – o evaluare scrisa de catre detinatorul sau beneficiarul unui Bun sau Serviciu, evaluare redactata pe baza experientei personale si capacitatii acestuia de a realiza comentarii calitative și de a spune daca Bunul sau Serviciul respecta sau nu specificatiile mentionate de catre producator.
+**_Review_** _– o evaluare scrisa de catre detinatorul sau beneficiarul unui Bun sau Serviciu, evaluare redactata pe baza experientei personale si a capacitatii acestuia de a realiza comentarii calitative și de a spune daca Bunul sau Serviciul respecta sau nu specificatiile mentionate de catre producator**, cu exceptia Bunurilor, produselor, din categoria “Tutun&tigari”, in acord cu dispozitiile legale in vigoare .**_
 
-**Rating** – modalitate de exprimare a gradului de satisfactie a unui Utilizator/Client/Cumparator fata de un produs. Rating-ul se exprima sub forma de stele, fiecare Bun putand primi un punctaj de la o stea, la cinci stele. Acest grad de satisfactie va fi asociat intotdeauna review-ului scris de Utilizator/Client/Cumparator asupra unui Bun sau Serviciu.
+**_Rating_** _– modalitate de exprimare a gradului de satisfactie a unui Utilizator/Client/Cumparator fata de un produs, **cu exceptia celor din categoria “Tutun&tigari”, in acord cu dispozitiile legale in vigoare**. Rating-ul se exprima sub forma de stele, fiecare Bun putand primi un punctaj de la o stea, la cinci stele. Acest grad de satisfactie va fi asociat intotdeauna review-ului scris de Utilizator/Client/Cumparator asupra unui Bun sau Serviciu._
 
-**Comentariu** – apreciere sau observatie cu scop critic, pe marginea unui Review sau a unui alt comentariu.
+**_Comentariu_** _– apreciere sau observatie cu scop critic, pe marginea unui Review sau a unui alt comentariu. **In acord cu dispozitiile legale in vigoare, sunt excluse de la Comentarii, Bunurile din categoria “Tutun&tigari”.**_
 
-**Intrebare** – formula de adresare catre alti Utilizatori/Clienti/Cumparatori cu scopul de a obtine informatii despre Bunurile sau Serviciile din pagina respectiva.
+**_Intrebare_** _– formula de adresare catre alti Utilizatori/Clienti/Cumparatori cu scopul de a obtine informatii despre Bunurile sau Serviciile din pagina respectiva, **cu exceptia Bunurilor din categoria “Tutun&tigari” in acord cu dispozitiile legale incidente.**_
 
-**Raspuns** – informatie scrisa care este transmisa Utilizatorului/Clientului/Cumparatorului care a adresat o Intrebare in Site, in pagina unui anumit Bun. Raspunsul reprezinta o explicatie oferita de un Utilizator/Client/Cumparator unui alt Utilizator/Client/Cumparator in cadrul unei discutii.
+**_Raspuns_** _– informatie scrisa ce este transmisa Utilizatorului/Clientului/Cumparatorului care a adresat o Intrebare in Site, in pagina unui anumit Bun. Raspunsul reprezinta o explicatie oferita de un Utilizator/Client/Cumparator unui alt Utilizator/Client/Cumparator in cadrul unei discutii. **Prin exceptie, Utilizatorul/Clientul/Cumparatorul nu va putea transmite intrebari, comentarii, raspunsuri in legatura cu Bunurile din categoria “Tutun&tigari” nefiind permise de asemenea Review-urile, ori Ratingurile acestora, in acord cu dispozitiile legale din Romania.**_
 
 **Document** – prezentele Termene si Conditii.
 
