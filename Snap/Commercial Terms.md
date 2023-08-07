@@ -108,7 +108,7 @@ Your use of products or services provided by a third party in connection with th
 
 Unless you’re contracting with Snap Inc., nothing in these Business Services Terms will exclude or in any way limit a party’s liability for fraud, death, or personal injury caused by its negligence, or any other liability to the extent such liability may not be excluded or limited as a matter of law.
 
-_In summary: Our limitations on liability in the Terms of Service apply in addition to the financial cap in these terms. We are not liable for losses caused by third parties. We do not exclude liability for things we cannot be excluded as a matter of law._
+_In summary: Our limitations on liability in the Terms of Service apply in addition to the financial cap in these terms. We are not liable for losses caused by third parties._ _We do not exclude liability for things that cannot be excluded as a matter of law._
 
 9\. Notices
 -----------
