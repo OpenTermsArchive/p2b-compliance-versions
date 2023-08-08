@@ -17,7 +17,7 @@ Az alábbiakban részletezett általános szerződési feltételek (továbbiakba
 ### I. SZERZŐDÉS TARTALMA
 
 1. A Szolgáltató a Szerződés keretében, az alábbiakban meghatározott szolgáltatás teljesítését vállalja díjazás ellenében a Weboldalon aktiváltan regisztrált felhasználó (a továbbiakban: Felhasználó) részére:
-2. Az „Árukereső” szolgáltatás keretében a Szolgáltató a Felhasználó elérhetőségeinek (cégnév, cím, telefon, e-mail, webshop webcíme, bolt logója) és termékeinek (termék neve, ára, átirányítás a bolt adott termékére) megjelenítését vállalja a Szolgáltató által a Weboldalon üzemeltetett termékkatalógusban (ár-összehasonlító internetes portálon), valamint co-brand árukereső oldalain. Az „Árukereső” szolgáltatás keretei között a Szolgáltató külön szolgáltatási elemekkel bővítheti az általa nyújtott szolgáltatásokat, melyek feltételeit – a jelen Szerződés feltételei mellett – a Szolgáltató a díjazási feltételekben, vagy a PartnerPortálon, a Felhasználó PartnerPortálon való belépését követően teszi elérhetővé.
+2. z „Árukereső” szolgáltatás keretében a Szolgáltató a Felhasználó elérhetőségeinek (cégnév, cím, telefon, e-mail, webshop webcíme, bolt logója) és termékeinek , vagy a Felhasználó oldalára harmadik felek által feltöltött termékek adatainak (termék neve, ára, átirányítás a bolt adott termékére) megjelenítését vállalja a Szolgáltató által a Weboldalon üzemeltetett termékkatalógusban (ár-összehasonlító internetes portálon), valamint a Partnerprogramban működtetett oldalakon. Az „Árukereső” szolgáltatás keretei között a Szolgáltató külön szolgáltatási elemekkel bővítheti az általa nyújtott szolgáltatásokat, melyek feltételeit – a jelen Szerződés feltételei mellett – a Szolgáltató a díjazási feltételekben, vagy a PartnerPortálon, a Felhasználó PartnerPortálon való belépését követően teszi elérhetővé.
     1. Az Weboldalon való termékmegjelenés helye licitálással változtatható a [https://www.arukereso.hu/admin/#sponsored-listing](https://www.arukereso.hu/admin/#sponsored-listing) oldalon leírtak alapján.
     2. Díjak, elszámolás módja
         1. A Szolgáltató vállalja, hogy főkategóriánként, valamint a speciális megjelenésekre vonatkozó aktuális díjakat a [https://www.arukereso.hu/admin/#prices](https://www.arukereso.hu/admin/#prices) oldalon elérhetővé teszi.
@@ -47,8 +47,11 @@ Az alábbiakban részletezett általános szerződési feltételek (továbbiakba
         4. Nem magyar ÁFA tartalommal forgalmazó boltokra vonatkozó feltételek  
             EU-n belüli székhelyű, de nem magyar ÁFA tartalmú ajánlatot megjelenítő boltok és az EU-n kívüli székhelyű boltok ajánlatai az alapértelmezett termékoldali forgalmazólistában a nem magyar ÁFA tartalommal (27%, 18% vagy 5%) forgalmazott ajánlatok számára kialakított szekcióban jelennek meg, a többi forgalmazó magyar ÁFA tartalmú ajánlata alá rendezve. Ezen boltok ajánlatai nem kerülnek kiemelésre a termékoldalakon, de az egyéb, kiválasztott szűrési és rendezési szempontnak megfelelően, a többi bolt ajánlataival együtt jelennek meg a listázásban.  
             
+        5. Online piacterekre vonatkozó feltételek  
+            Az online piacteret biztosító Felhasználó számára a Szolgáltató – a Felhasználó saját termékén felül – egy termék megjelenítését teszi lehetővé.  
+            
     5. Egyéb szolgáltatási rendelkezések
-        1. Az „Árukereső” szolgáltatás keretében megjelenítésre szánt termékadatokat a Felhasználó köteles biztosítani a Szolgáltató részére a [https://www.arukereso.hu/admin/#feed-format](https://www.arukereso.hu/admin/#feed-format) oldalon leírt feltételek alapján.
+        1. Az „Árukereső” szolgáltatás keretében megjelenítésre szánt termékadatokat a Felhasználó köteles biztosítani a Szolgáltató részére a [https://www.arukereso.hu/admin/#feed-format](https://www.arukereso.hu/admin/#feed-format) oldalon leírt feltételek alapján.Online piacterek esetén a termékadatokra vonatkozóan a Szolgáltató további feltételeket is előírhat, amelyet a PartnerPortálon tesz közzé. A Szolgáltató elismeri, hogy online piactér Felhasználó ugyanazon terméket akár eltérő ár, vagy szállítási termékadatokkal is megjelenítheti, mely nem tekinthető többszörözött termékadatnak.
             1. A Szolgáltató nem köteles megjeleníteni a termékkatalógusban azokat az adatokat:
                 * amelyeket a Felhasználó nem jelen ÁSZF rendelkezései alapján ad meg részére;
                 * amelyek nem valósak;
@@ -66,7 +69,7 @@ Az alábbiakban részletezett általános szerződési feltételek (továbbiakba
             * a termékadatok közül külön feltüntetésre kerül a termék ára és a szállítási díj, továbbá, ha
             * a rendelkezésre adott termékadatok megfelelnek a Google Shopping hirdetések mindenkori elvárásainak ([https://support.google.com/merchants/answer/7052112?hl=hu](https://support.google.com/merchants/answer/7052112?hl=hu)).
             
-            A Szolgáltató az „Árukereső” szolgáltatáshoz kapcsolódóan biztosítja a „Shopping” szolgáltatás igénybevételét. A Felhasználó a „Shopping” szolgáltatást a Partner Portálon tett külön online nyilatkozattal veheti igénybe és ugyanúgy szüntetheti meg.  
+            Ha a Felhasználó által megadott termékadatok a fenti feltételeknek nem felelnek meg, a Szolgáltató a megtagadhatja a termékadatok Google Shopping rendszerbe való feltöltését. A Szolgáltató az „Árukereső” szolgáltatáshoz kapcsolódóan biztosítja a „Shopping” szolgáltatás igénybevételét. A Felhasználó a „Shopping” szolgáltatást a Partner Portálon tett külön online nyilatkozattal veheti igénybe és ugyanúgy szüntetheti meg.  
             Amennyiben a Google Shopping felületen a Felhasználó hirdetése megjelenítésre kerül és a látogató arra rákattint, akkor onnan a látogató közvetlenül a Felhasználó webshopjára kerül átirányításra.
         2. A „Shopping” szolgáltatás díja költség- és jutalék alapú, azaz az adott átkattintás Google által a Szolgáltató felé felszámított költség kerül a Felhasználó felé áthárításra, mely költségen felül a Szolgáltató jutalékot is felszámít a Felhasználó felé. A jutalék mértékét a Szolgáltató határozza meg, melyet az „Árukereső” szolgáltatás aktuális díjszabásában ([https://www.arukereso.hu/admin/Login#prices-shopping](https://www.arukereso.hu/admin/Login#prices-shopping)) tesz közzé. A “Shopping” szolgáltatás díja a Felhasználó egyenlegéből kerül levonásra.  
             A „Shopping” szolgáltatás keretében a Google által a Szolgáltatónak termékajánlatonként átadott átkattintási darabszámok kerülnek felszámításra, ezért a Felhasználó elismeri, hogy a Szolgáltató az ÁSZF 2.2.2. pontja alól mentesül. Az elszámolással kapcsolatosan a Felhasználó elfogadja a Szolgáltató kimutatását és ellene kifogással nem él.  
@@ -228,9 +231,9 @@ Az alábbiakban részletezett általános szerződési feltételek (továbbiakba
 
 Jelen ÁSZF legfrissebb, hatályos változata a Felhasználók regisztrációs felületén elhelyezett „Általános szerződési feltételek” linkre kattintva érhető el.
 
-2023\. június 30.
+2023\. augusztus 08.
 
-A 2023.08.08-tól érvényes ÁSZF [itt érhető el](http://www.arukereso.hu/static/general_terms_and_conditions23_8.html).
+A 2023.08.08-ig érvényes ÁSZF [itt érhető el](http://www.arukereso.hu/static/general_terms_and_conditions2308.html).
 
 [www.arukereso.hu](https://www.arukereso.hu/)  
 Online Comparison Shopping Kft. ©  
