@@ -377,19 +377,22 @@ Related articles
 
 --------------------
 
-* [About the updates to our Terms
+* ### [About the updates to our Terms](https://www.airbnb.com/help/article/2877)
     
-    Please review this information about updates to our Terms.](https://www.airbnb.com/help/article/2877)
-* [Guest
+    Please review this information about updates to our Terms.
     
-    Payment methods accepted
+* Guest
     
-    We support different payment methods depending on the country your payment account is located in.](https://www.airbnb.com/help/article/126)
-* [Guest
+    ### [Payment methods accepted](https://www.airbnb.com/help/article/126)
     
-    Editing, removing, or adding a payment method
+    We support different payment methods depending on the country your payment account is located in.
     
-    Find out how to manage your payment methods.](https://www.airbnb.com/help/article/823)
+* Guest
+    
+    ### [Editing, removing, or adding a payment method](https://www.airbnb.com/help/article/823)
+    
+    Find out how to manage your payment methods.
+    
 
 Get help with your reservations, account, and more.
 
