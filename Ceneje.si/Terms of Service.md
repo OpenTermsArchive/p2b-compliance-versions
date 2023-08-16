@@ -74,66 +74,70 @@ O piškotkih
 
 Vse o uporabi piškotkov je opisano v [Pravilih o zasebnosti](https://www.ceneje.si/pravila-o-zasebnosti#cookies).
 
-Nagradno tekmovanje "Kateri je tvoj najljubši okus proteina Just Whey - GymBeam?"
----------------------------------------------------------------------------------
+Nagradno tekmovanje "Nagradna igra “Sestavi LEGO® kocke, osvoji LEGO® komplet"
+------------------------------------------------------------------------------
 
-Pravila nagradnega tekmovanja "Kateri je tvoj najljubši okus proteina Just Whey - GymBeam?" (v nadaljevanju: pravila) so opisana spodaj.
+Pravila nagradne igre »Sestavi LEGO® kocke, osvoji LEGO® komplet« (v nadaljevanju: Pravila) so opisana spodaj.
 
   
 
 #### 1\. Organizator nagradne igre
 
-Pravila nagradnega tekmovanja "Kateri je tvoj najljubši okus beljakovin Just Whey - GymBeam?" (v nadaljevanju: nagradno tekmovanje) sta Ceneje.si, Ceneje d.o.o. (matična številka: 6699421000), Dunajska cesta 155, 1000 Ljubljana in spletna trgovina GymBeam.si, GymBeam s.r.o., ID št. 46 440 224, s sedežem na naslovu Rastislavova 93, 040 01 Košice, Slovaška republika, v nadaljevanju: Organizatorja. Tekmovanje se organizira za promocijo blagovnih znamk Ceneje.si in GymBeam.si.
+Organizator nagradne igre Sestavi LEGO® kocke, osvoji LEGO® komplet (v nadaljevanju: nagradna igra) je Ceneje.si, Ceneje d.o.o. (matična številka: 6699421000), Dunajska cesta 155, 1000 Ljubljana, v nadaljevanju: Organizator.
 
   
 
 #### 2\. Trajanje nagradne igre
 
-Nagradno tekmovanje se začne 3. 7. 2023. Možno je sodelovati do 16. 7. 2023. (do 23:59:59 tega dne). Izbrani bodo zmagovalci 17. 7. 2023. Nagradno tekmovanje poteka na spletni strani Ceneje.si.
+Nagradna igra se začne 11. avgusta 2023. Možno je sodelovati do 31. avgusta 2023 (tj. najkasneje do 23:59:59 ure na navedeni dan). Zmagovalci bodo izbrani 15. septembra 2023. Nagradna igra poteka na spletni strani Ceneje.si.
 
   
 
 #### 3 .Sodelovanje
 
-Pravico do sodelovanja v nagradnem tekmovanju imajo vsi fizične osebe s stalnim prebivališčem v Republiki Sloveniji, razen zaposlenih Organizatorja in članov njihovih tesnih družinskih članov (starši, zakonec, otroci, sestre in bratje). Udeleženci, ki sodelujejo v nagradnem tekmovanju, ne smejo zahtevati nagrad v večjem obsegu ali drugačne nagrade, kot so navedene v Pravilih s strani Organizatorja.
+Pravico do sodelovanja v nagradni igri imajo vse fizične osebe s stalnim prebivališčem v Republiki Sloveniji, razen zaposlenih Organizatorja in članov njihovih tesnih družinskih članov (starši, zakonec, otroci, sestre in bratje). Udeleženci, ki sodelujejo v nagradni igri, ne smejo zahtevati nagrad v večjem obsegu ali drugačne nagrade, kot so navedene v Pravilih s strani Organizatorja.
 
-Za sodelovanje v nagradnem tekmovanju je treba najti pojavno okno na spletnem mestu Ceneje.si, odgovoriti na vprašanje in vpisati osebne podatke (ime, priimek, e-pošta). Posamezniki lahko svojo prijavo delijo na svojih družbenih omrežjih in povabijo prijatelje k sodelovanju, vendar to ne bo povečalo njihovih možnosti za zmago. S sodelovanjem v nagradnem tekmovanju udeleženci sprejemajo ta pravila. Pravila nagradnega tekmovanja bodo objavljena v splošnih pogojih Organizatorja Ceneje.si.
+Za sodelovanje v nagradni igri se mora sodelujoči prijaviti in poslati fotografije svojih LEGO kreacij, poleg fotografije LEGO kreacije pa mora sodelujoči poslati tudi svoje ime in priimek, elektronski naslov, naslov fotografije in kratek opis fotografije. Možna je samo ena prijava z istimi osebnimi podatki (imenom in priimkom ter e-poštnim naslovom), v prijavi pa je možno poslati največ tri fotografije Lego izdelkov/kreacij.
 
-  
-
-#### 4\. Nagradni fond in izbor dobitnika
-
-Nagrade v okviru nagradnega tekmovanja "Kateri je tvoj najljubši okus beljakovin Just Whey - GymBeam?" so 3 darilna paketa izdelkov GymBeam v vrednosti 70 € (prva nagrada), darilni paket v vrednosti 55 € (druga nagrada) in darilni paket v vrednosti 40 € (tretja nagrada).
-
-Zmagovalce nagradnega tekmovanja bo izbral odbor v sestavi: Nenad Pavičević, Ivana Galetić, Polona Stanovnik.
+Posamezniki lahko delijo svojo prijavo na svojih kanalih družbenih medijev in k sodelovanju povabijo prijatelje, vendar to ne bo povečalo njihovih možnosti za zmago. S sodelovanjem v nagradni igri udeleženci sprejemajo ta Pravila. Pravila nagradne igre bodo objavljena v splošnih pogojih organizatorja Ceneje.si.
 
   
 
-#### 5\. Kako prevzeti nagrado?
+#### 4\. Nagradni sklad in izbor dobitnikov
 
-Po zaključku nagradnega tekmovanja bodo dobitniki obveščeni po e-pošti na naslov, ki so ga navedli pri prijavi. Dobitniki imajo pet (5) dni, da se javijo Organizatorju in potrdijo prevzem nagrade. V svoji potrditvi morajo dobitniki poslati ime, priimek, naslov in telefonsko številko. Nagrade bodo dobitniki prevzeli v dogovoru s spletno trgovino GymBeam.si.
+Nagrade v okviru nagradne igre »Sestavi LEGO® kocke, osvoji LEGO® komplet« so 3 kompleti LEGO: LEGO® City™ Stuntz Double Loop Stunt Arena (60339) v vrednosti 149,99 €, zgradba LEGO® Friends™ (41704) v vrednosti € 159,99 in LEGO® ICONS™ Šopek (10280) v vrednosti 64,99 €.
+
+Zmagovalce nagradne igre bo izbral odbor v sestavi: Maja Rotovnik, Ivana Galetić, Polona Stanovnik.
+
+  
+
+#### 5\. Prevzem nagrade
+
+Po zaključku nagradne igre bodo nagrajenci obveščeni po e-pošti na naslov, ki so ga navedli pri prijavi. Nagrajenci imajo pet (5) dni, da se javijo Organizatorju in potrdijo prevzem nagrade. V svoji potrditvi morajo poslati ime, priimek, naslov in telefonsko številko.
+
+Nagradni sklad je sestavljen iz LEGO® City™ Stuntz Double Loop Stunt Arena (60339) v vrednosti 149,99 €, zgradba LEGO® Friends™ (41704) v vrednosti € 159,99 in LEGO® ICONS™ Šopek (10280) v vrednosti 64,99 €.
 
   
 
 #### 6\. Javna objava
 
-S sodelovanjem v tem nagradnem tekmovanju se udeleženci strinjajo, da se lahko, če postanejo dobitniki, njihovo ime in slika objavita in uporabita brezplačno v tiskani, zvočni, slikovni in video vsebini s strani Organizatorja.
+S sodelovanjem v tej nagradni igri se sodelujoči strinjajo, da se lahko, če postanejo nagrajenci, njihovo ime in sliko brezplačno objavi in ​​uporablja v tiskanem, zvočnem, slikovnem in video gradivu. Vse prispele fotografije LEGO kompletov, vseh sodelujočih v tem kreativnem natečaju, lahko organizator uporabi za namene oglaševanja natečaja in v povezanih marketinških aktivnostih.
 
   
 
 #### 7\. Mladoletni udeleženci nagradne igre
 
-Mladoletniki imajo pravico sodelovati v nagradnem tekmovanju v skladu z zakonom. Če je nagrajenec nagrade mladoletna oseba, bo Organizator nagrado izročil osebi, ki je na podlagi zakona ali odločbe državnega organa dolžna skrbeti zanjo, po pregledu dokumentov, ki dokazujejo starševski ali skrbniški odnos
+Pravico do sodelovanja v nagradni igri imajo mladoletne osebe, v skladu z zakonom. Če je nagrajenec nagrade mladoletna oseba, bo Organizator nagrado izročil osebi, ki je na podlagi zakona ali odločbe državnega organa dolžna skrbeti zanjo, po pregledu dokumentov, ki dokazujejo starševski ali skrbniški odnos.
 
   
 
 #### 8\. Druge odredbe
 
-Organizator ne odgovarja za nepopolno ali nepopolno sodelovanje v nagradnem tekmovanju ali sodelovanje v nagradnem tekmovanju s napačnimi podatki.
+Vsi osebni podatki udeležencev so shranjeni na strežnikih organizatorja in se lahko uporabljajo in obdelujejo izključno za namen te nagradne igre. Organizator ne odgovarja za nepopolno sodelovanje v nagradni igri ali sodelovanje v nagradni igri s napačnimi podatki.
 
-Sodelovanje v nagradnem tekmovanju, nagrada in/ali prevzem nagrade niso pogojeni s nakupom katerega koli izdelka ali storitve. Udeleženec in druge osebe, ki poskušajo sodelovati v nagradnem tekmovanju, sami krijejo vse stroške sodelovanja (kot so stroški prenosa podatkov, dostopa do interneta, poštnine, klicev in druge komunikacije, kilometrine itd.), pa tudi v primeru odpovedi nagradnega tekmovanja.
+Sodelovanje v nagradni igri, nagrada in/ali prevzem nagrade niso pogojeni s nakupom kateregakoli izdelka ali storitve. Udeleženec in druge osebe, ki poskušajo sodelovati v nagradni igri, sami krijejo vse stroške sodelovanja (kot so stroški prenosa podatkov, dostopa do interneta, poštnine, klicev in druge komunikacije, kilometrine itd.), pa tudi v primeru odpovedi nagradne igre.
 
-V primeru okoliščin, na katere Organizator ne more vplivati (višja sila), se lahko nagradno tekmovanje prekliče. Organizator mora o tem obvestiti vse udeležence prek svoje spletne strani in družbenih omrežij (Facebook in Instagram). V takšnem primeru Organizator ni odgovoren udeležencem za morebitne stroške ali druge škode.
+V primeru okoliščin, na katere Organizator ne more vplivati (višja sila), se lahko nagradna igra prekliče. Organizator mora o tem obvestiti vse udeležence prek svoje spletne strani in družbenih omrežij (Facebook in Instagram). V takšnem primeru Organizator ni odgovoren udeležencem povrniti morebitnih stroškov ali druge škode.
 
 Organizator si pridržuje pravico do spremembe pravil, če to zahtevajo tehnični ali komercialni razlogi, javni razlogi ali drugi upravičeni razlogi. Vse spremembe in novice nagradnega tekmovanja bo Organizator sporočil udeležencem na spletnem mestu Ceneje.si. Za dodatne informacije se lahko zainteresirana oseba obrne na e-poštni naslov [marketing@ceneje.si](mailto:marketing@ceneje.si).
 
@@ -143,4 +147,4 @@ Organizator si pridržuje pravico do spremembe pravil, če to zahtevajo tehničn
 
 Vse pritožbe in reklamacije rešuje Organizator, pošljejo pa se lahko na e-mail naslov [marketing@ceneje.si](mailto:marketing@ceneje.si). V primeru utemeljenih pritožb se Organizator zavezuje k reševanju le-teh v najkrajšem možnem času. O tem bo obvestil udeleženca in po potrebi tudi druge udeležence. Za pravne spore med Organizatorjem in udeležencem ter drugimi osebami se upošteva veljavno zakonodajo. V primeru sporov, ki bi izhajali iz te nagradne igre, je pristojno sodišče v Ljubljani.
 
-Datum objave in začetek veljavnosti teh pravil: 3. julij 2023.
+Datum objave in začetek veljavnosti teh pravil: 11. avgust 2023.
