@@ -28,7 +28,7 @@ XI. Cenník doplnkových služieb
 
 XII. Zrušenie konta
 
-XIII.Zodpovednosť za škodu
+XIII. Zodpovednosť za škodu
 
 XIV. Zodpovednosť za vady a Reklamačný poriadok
 
@@ -44,7 +44,7 @@ osobných ochranných pomôcok (rúšok, ochranných masiek, respirátorov
 
 atď.) na našom inzertnom portáli obmedzená. Prevádzkovateľ portálu v
 
-snahe predchádzať porušovaniu legislatívnych opatrení akýkokoľvek
+snahe predchádzať porušovaniu legislatívnych opatrení akúkokoľvek
 
 inzerciu predaja tohto druhu tovaru nepovoľuje, resp. odstraňuje.
 
@@ -80,7 +80,7 @@ portáli Bazar.sk.
 
 poskytovateľom služieb je spoločnosť United Classifieds s.r.o., so sídlom Prievozská
 
-14, 821 09 Bratislava, zapísaná v Obchodnom registri Okresného súdu Bratislava I,
+14, 821 09 Bratislava, zapísaná v Obchodnom registri Mestského súdu Bratislava III,
 
 oddiel: Sro, vložka č.: 107298/B, IČO: 50 020 161, IČ DPH SK2120153101, (ďalej len
 
@@ -242,9 +242,7 @@ limit je potrebné uhradiť aktivačný poplatok prostredníctvom odoslania SMS 
 
 číslo 8877 v tvare: INZ ID inzerátu alebo platobnou kartou. Cena
 
-zverejnenia je 1,80 €. Platnosť inzerátov v kategórii Práca sú 3
-
-mesiace.
+zverejnenia je 1,80 €. Platnosť inzerátov v kategórii Práca sú 3 mesiace.
 
 
 
@@ -272,23 +270,25 @@ je oprávnený inzerovať výlučne ponuku nehnuteľností, ktoré sú v jeho vl
 
 Súkromný používateľ môže naraz inzerovať najviac 3 nehnuteľnosti. V prípade
 
-podozrenia, že sa nejedná o súkromnú inzerciu má Prevádzkovateľ právo
+podozrenia, že sa nejedná o súkromnú inzerciu má Prevádzkovateľ právo vyžiadať
 
-vyžiadať si doklad preukazujúci právny vzťah Používateľa k inzerovanej
+si doklad preukazujúci právny vzťah Používateľa k inzerovanej nehnuteľnosti
 
-nehnuteľnosti (napr. kópiu listu vlastníctva), tieto inzeráty odstrániť resp. bez
+(napr. kópiu listu vlastníctva), tieto inzeráty odstrániť resp. bez upozornenia
 
-upozornenia zrušiť Používateľovi prístup. 10IDinzerátu (SMS môže mať tvar INZ
+zrušiť Používateľovi prístup. 10IDinzerátu (SMS môže mať tvar INZ 10IDinzerátu,
 
-10IDinzerátu, INZ 11IDinzerátu, INZ 12IDinzerátu alebo INZ 13IDinzerátu),
+INZ 11IDinzerátu, INZ 12IDinzerátu alebo INZ 13IDinzerátu), pričom IDinzerátu
 
-pričom IDinzerátu je číslo inzerátu uvedené v detaile inzerátu alebo uhradiť
+je číslo inzerátu uvedené v detaile inzerátu alebo uhradiť aktivačný poplatok za
 
-aktivačný poplatok za zverejnenie inzerátu v danej kategórii platobnou kartou
+zverejnenie inzerátu v danej kategórii platobnou kartou prostredníctvom
 
-prostredníctvom platobného terminálu CardPay. Aktivácia inzerátu
+platobného terminálu CardPay. Aktivácia inzerátu prostredníctvom CardPay
 
-prostredníctvom CardPay prebehne ihneď po pridaní inzerátu.
+prebehne ihneď po pridaní inzerátu.
+
+
 
 8. Poskytovanie inzertných služieb za poplatok za pridávanie inzerátov v kategórii Služby,
 
@@ -319,8 +319,6 @@ manuálne pridávali a spravovali svoju ponuku cez rozhranie Bazar.sk sú od 6.4
 automaticky presmerovaní do nového administračného rozhrania Prevádzkovateľa,
 
 realitného softvéru ViaReal.
-
-
 
 10. Po registrácii nového firemného konta – typ Realitná kancelária cez Bazar.sk a jeho
 
@@ -369,8 +367,6 @@ tohto súhlasu Používateľ stráca právo na odstúpenie od zmluvy. Používat
 vyhlasuje, že bol poučený o tom, že udelením súhlasu so začatím poskytovania služby
 
 pred uplynutím lehoty na odstúpenie, stráca právo na odstúpenie od zmluvy.
-
-
 
 13. Služby Portálu sú pre Firemných inzerentov, ktorí využívajú automatické zadávanie
 
@@ -428,13 +424,13 @@ odstrániť z webových stránok. Za poskytnutie práv podľa tohto ustanovenia 
 
 Používateľovi odplata.
 
-
-
 15. V inzeráte je možné inzerovať iba jednu ponuku. Ak pôvodná ponuka stratí platnosť,
 
 nie je povolené inzerát pozmeniť tak, aby namiesto neplatnej ponuky bola v pôvodnom
 
 inzeráte uvádzaná nová, platná ponuka.
+
+
 
 III. Ochrana osobných údajov a súkromia
 
@@ -486,9 +482,9 @@ ich pôvodcom je Prevádzkovateľ. Prevádzkovateľ bude spracúvať osobné úd
 
 dobu trvania zmluvného vzťahu. Nesúhlas s volaním, so zasielaním týchto e- mailov
 
-alebo SMS správ môže Používateľ kedykoľvek oznámiť Prevádzkovateľovi zaslaním e-
+alebo SMS správ môže Používateľ kedykoľvek oznámiť Prevádzkovateľovi zaslaním
 
-mailu na adresu kontakt@bazar.sk (alebo na iný kontakt pokiaľ tak určujú tieto
+emailu na adresu kontakt@bazar.sk (alebo na iný kontakt pokiaľ tak určujú tieto
 
 Podmienky alebo Osobitné podmienky) alebo jednoduchým odhlásením pri každom
 
@@ -510,11 +506,11 @@ výnimkou ustanovenia ods. 4 tohto článku Podmienok. Výhodou registrácie je
 
 rozšírenie možností správy inzerátov priamo Používateľom.
 
+
+
 2. Registrácia je možná prostredníctvom aktuálne dostupnej platformy (overenie
 
 používateľa prostredníctvom služby tretej strany/vytvorenie vlastného konta).
-
-
 
 3. Registrovaní Používatelia môžu mať vytvorené používateľské konto ako Súkromný
 
@@ -574,11 +570,13 @@ overenie ich korektnosti. Pokiaľ sú všetky údaje správne (t.j. uvedené IČ
 
 v obchodnom alebo živnostenskom registri SR a ďalšie uvedené informácie súhlasia s
 
-výpisom z príslušného registra), Prevádzkovateľ
+výpisom z príslušného registra), Prevádzkovateľ bezodkladne kontaktuje Firemného
 
-bezodkladne kontaktuje Firemného inzerenta za účelom sprístupnenia služby. O tejto
+inzerenta za účelom sprístupnenia služby. O tejto skutočnosti je Firemný inzerent informovaný
 
-skutočnosti je Firemný inzerent informovaný e-mailom.
+e-mailom.
+
+
 
 VI. Úprava údajov inzerenta
 
@@ -620,11 +618,11 @@ VII. Správanie sa Používateľov
 
 1. Používateľ plne zodpovedá za obsah vlastných uverejnených ponúk (inzerátov), vrátane
 
-textovej, grafickej, obrazovej, prípadne zvukovej a zvukovo-obrazovej
+textovej, grafickej, obrazovej, prípadne zvukovej a zvukovo-obrazovej časti. Používateľ
 
-časti. Používateľ je pri pridávaní ponuky povinný zabezpečiť, aby jej obsah bol v
+je pri pridávaní ponuky povinný zabezpečiť, aby jej obsah bol v súlade s legislatívnymi
 
-súlade s legislatívnymi normami SR, najmä:
+normami SR, najmä:
 
 a) môže inzerovať iba predmety, ktorých predaj je v Slovenskej republike dovolený
 
@@ -731,6 +729,8 @@ poskytnuté prostredníctvom Prevádzkovateľa.
 alebo služby v rámci svojej podnikateľskej činnosti, je povinný inzerovať takéto
 
 produkty, tovary a/alebo služby výlučne prostredníctvom svojho firemného konta.
+
+
 
 8. Používateľ sám zodpovedá za splnenie zákonných povinností, vyplývajúcich z predaja a
 
@@ -906,13 +906,11 @@ d) písať celé slová veľkými písmenami s výnimkou skratiek,
 
 e) do názvu alebo textu inzerátu vkladať špeciálne znaky (@\*#$%^\&!? a pod.), f)
 
-do názvu, textu, mena a do fotografií k inzerátu vkladať kontaktné údaje
+do názvu, textu, mena a do fotografií k inzerátu vkladať kontaktné údaje (telefónne
 
-(telefónne číslo, emailovú adresu, www adresu, FB stránku), kontaktné údaje
+číslo, emailovú adresu, www adresu, FB stránku), kontaktné údaje Používateľ
 
-Používateľ vkladá výhradne na miesto na to určené, a to do časti Kontakt v
-
-pridávaní inzerátu,
+vkladá výhradne na miesto na to určené, a to do časti Kontakt v pridávaní inzerátu,
 
 g) uvádzať do mena iba špeciálne znaky (@\*#$%^\&!? a pod.),
 
@@ -950,11 +948,11 @@ Inzerát v kategórii „Práca“ musí obsahovať nasledujúce informácie:
 
 
 
-a)druh pracovného pomeru,
+a) druh pracovného pomeru,
 
 b) informáciu o zamestnávateľovi,
 
-c)konkrétny popis pracovnej ponuky a náplň práce,
+c) konkrétny popis pracovnej ponuky a náplň práce,
 
 d)pracovný čas,
 
@@ -1032,8 +1030,6 @@ vymazané administrátorom (bez náhrady zaplatenej ceny doplnkovej služby); sl
 
 pritom považuje za dodanú v celom rozsahu.
 
-
-
 2. Bezplatné doplnkové služby sa delia na služby, ktoré možno používať ako neprihlásený
 
 Používateľ a na služby, ktoré si vyžadujú registráciu.
@@ -1068,9 +1064,9 @@ Služba je dostupná až po prihlásení na Bazar.sk. Vyhľadávací agent umož
 
 registrovanému Používateľovi zadefinovať kritéria hľadania v inzerátoch. Systém v
 
-pravidelných intervaloch prehľadáva databázu inzerátov a vypisuje ich v konte
+pravidelných intervaloch prehľadáva databázu inzerátov a vypisuje ich v konte Používateľa.
 
-Používateľa. V prípade, že má Používateľ nastavené aj zasielanie mailov, tak systém zasiela
+V prípade, že má Používateľ nastavené aj zasielanie mailov, tak systém zasiela
 
 Používateľovi na zadaný e-mail zoznam inzerátov spĺňajúcich zadané kritéria.
 
@@ -1094,19 +1090,21 @@ sa posunie pred ostatné (netopované) inzeráty a bude sa zobrazovať na popred
 
 miestach v kategórií ako aj vo výsledkoch vyhľadávania. Poradie je podľa dátumu začiatku
 
-aktuálneho topovania aj v prípade viacnásobného topovania. Inzerát bude naviac
+aktuálneho topovania aj v prípade viacnásobného topovania. Inzerát bude naviac označený
 
-označený červeným označením „TOP“ počas celej doby topovania inzerátu.
+červeným označením „TOP“ počas celej doby topovania inzerátu.
 
 Ak bude váš inzerát jediný topovaný, bude sa zobrazovať na prvej pozícii a ostatné
 
 (netopované) inzeráty ho nemôžu stanovenú dobu predbehnúť. Ak je topovaných
 
-inzerátov viac, ich poradie bude určené podľa času aktivácie topovania inzerátu. Inzeráty,
+inzerátov viac, ich poradie bude určené podľa času aktivácie topovania inzerátu.
 
-ktoré boli topované neskôr, budú umiestnené vyššie. Po uplynutí doby topovania sa inzerát
+Inzeráty, ktoré boli topované neskôr, budú umiestnené vyššie. Po uplynutí doby
 
-automaticky zaradí medzi bežné inzeráty, pričom jeho dátum sa už nebude meniť.
+topovania sa inzerát automaticky zaradí medzi bežné inzeráty, pričom jeho dátum sa už
+
+nebude meniť.
 
 
 
@@ -1179,8 +1177,6 @@ zvýraznený - žlté podfarbenie inzerátu a môže mať aktivovanú Prémiovú
 inzerát bude nachádzať aj v Boxe Prémiová ponuka aj ako topovaný, zvýraznený v
 
 štandardných výsledkoch vyhľadávania.
-
-
 
 Do boxu Prémiová ponuka sa inzeráty radia na základe času aktivácie služby Prémiová
 
@@ -1275,8 +1271,6 @@ základe iných skutočností. Poplatok predplatného za službu Plus bude autom
 uhrádzaný opakovanými platbami na základe platobných údajov Používateľa zadaných
 
 pri aktivácii vybranej služby, nasledovne:.
-
-
 
 • v prípade realizácie úhrady platby ceny za topovanie inzerátu bude platba vo výške
 
@@ -1384,9 +1378,15 @@ inzerátu uvedené v detaile inzerátu. Každá SMS bude topovať inzerát na 7 
 
 2. SMS posúva inzerát na ďalších 7 dní dopredu (celkom na 14 dní)
 
+
+
 3. SMS posúva inzerát na ďalších 7 dní dopredu (celkom na 21 dní).
 
+
+
 4. SMS posúva inzerát na ďalších 7 dni dopredu (celkom na 28 dní).
+
+
 
 5. SMS posúva inzerát na ďalších 7 dni dopredu (celkom na 35 dní).
 
@@ -1450,11 +1450,9 @@ topovaný, ak je odoslaná SMS v nesprávnom tvare alebo používateľ nemá dos
 
 kredit, inzerát nebude topovaný a používateľ dostane spätnú SMS s pokynmi, ktoré ma
 
-vykonať aby mohla byť služba aktivovaná.
+vykonať aby mohla byť služba aktivovaná. Aktivácia zvýraznenie inzerátu cez
 
-
-
-Aktivácia zvýraznenie inzerátu cez SMS
+SMS
 
 
 
@@ -1475,8 +1473,6 @@ zvýraznenia spočíta.
 4. SMS posúva inzerát na ďalších 7 dni dopredu (celkom na 28 dní).
 
 5. SMS posúva inzerát na ďalších 7 dni dopredu (celkom na 35 dní).
-
-
 
 Zvýraznenie inzerátu znamená, že služba je predplatená, t.j. posledný deň bude
 
@@ -1518,7 +1514,7 @@ ZVYR 11IDinzerátu, ZVYR 12IDinzerátu alebo ZVYR 13IDinzerátu), pričom IDinze
 
 číslo inzerátu uvedené v detaile inzerátu a je platné minúty, t.j. ak napr. užívateľ zvýrazní
 
-inzerát na 7 dní a dostane spätnú SMS 01. 08\. 2015 o 15:40, tak zvýraznenie bude platné
+inzerát na 7 dní a dostane spätnú SMS 01. 08. 2015 o 15:40, tak zvýraznenie bude platné
 
 do 08. 08. 2015 15:40.
 
@@ -1628,9 +1624,9 @@ platby v príslušnom mesiaci. Do žiadosti je potrebné uviesť názov organiz�
 
 adresu, IČO, DIČ, DIČ DPH, sumu, predmet fakturácie (aký inzerát sa topuje, zvýrazňuje,
 
-aktivuje) a dátum platby. V prípade nedodržania lehoty, nebude žiadosť o vystavenie
+aktivuje) a dátum platby. V prípade nedodržania lehoty, nebude žiadosť o vystavenie faktúry
 
-faktúry akceptovaná.
+akceptovaná.
 
 
 
@@ -1688,9 +1684,9 @@ XIII. Zodpovednosť za škodu
 
 1. Používateľ si je vedomý toho, že využíva služby Portálu výhradne na vlastné riziko.
 
-Prevádzkovateľ nezodpovedá za činnosť Používateľov služieb Portálu, ani za
+Prevádzkovateľ nezodpovedá za činnosť Používateľov služieb Portálu, ani za spôsob
 
-spôsob akým služby Portálu využívajú.
+akým služby Portálu využívajú.
 
 2. Prevádzkovateľ nenesie žiadnu zodpovednosť za škody, ktoré by vznikli Používateľom
 
@@ -1722,8 +1718,6 @@ zabezpečenie. Zároveň má právo odstaviť Portál bez akéhokoľvek upozorne
 
 uvedenia dôvodu.
 
-
-
 6. Prevádzkovateľ nezodpovedá za akúkoľvek škodu, ktorá by mohla byť Používateľovi
 
 spôsobená v súvislosti s používaním služieb na Portáli, ako aj spôsobených jeho
@@ -1733,8 +1727,6 @@ nefunkčnosťou, chybovosťou, činnosťou používateľov či z iných dôvodov
 
 
 XIV. Zodpovednosť za vady a Reklamačný poriadok
-
-
 
 1. Prevádzkovateľ si vyhradzuje právo kedykoľvek odoprieť Používateľovi prístup na
 
@@ -1748,9 +1740,9 @@ Prevádzkovateľa, iného Používateľa alebo porušenia Podmienok.
 
 2. Prevádzkovateľ zodpovedá za to, že platené služby Portálu budú poskytované riadne a
 
-včas. V prípade výskytu vád poskytovaných platených služieb je Prevádzkovateľ
+včas. V prípade výskytu vád poskytovaných platených služieb je Prevádzkovateľ povinný
 
-povinný tieto vady bezodkladne odstrániť alebo zabezpečiť ich odstránenie.
+tieto vady bezodkladne odstrániť alebo zabezpečiť ich odstránenie.
 
 3. Informácie o postupoch pri uplatňovaní a vybavovaní reklamácii, sťažností a podnetov
 
@@ -1812,6 +1804,8 @@ podmienkach Slovenskej republiky; pokiaľ Používateľ nie je spotrebiteľom, n
 
 neupravené Podmienkami sa uplatnia príslušné ustanovenia Obchodného zákonníka.
 
+
+
 4. Prevádzkovateľ má právo meniť, inovovať a inak modifikovať služby Portálu bez
 
 predchádzajúceho upozornenia Používateľov ako aj bez ich súhlasu, v prípade, že
@@ -1838,4 +1832,4 @@ má sa za to, že so zmenami pravidiel bez výhrad súhlasí.
 
 
 
-V Bratislave, dňa 01.07.2021
+V Bratislave, dňa 01.06.2023
