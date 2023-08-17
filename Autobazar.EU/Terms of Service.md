@@ -28,7 +28,7 @@ I. Úvodné ustanovenia a základné pojmy
 --------------------------------------
 
 1. Tieto Podmienky používania portálu Autobazar.EU (ďalej len „**Podmienky**“) upravujú práva a povinnosti prevádzkovateľa a používateľov pri poskytovaní a využívaní služieb na portáli Autobazar.EU.
-2. Prevádzkovateľom portálu Autobazar.EU (ďalej len „**Portál**“ alebo „**Autobazar.EU**“) a poskytovateľom služieb je spoločnosť **Autobazar.EU portál s.r.o.**, so sídlom Prievozská 14, 821 09 Bratislava-mestská časť Ružinov, IČO: 50 104 756, zapísaná v Obchodnom registri Okresného súdu Trenčín, oddiel: Sro, vložka č.: 32406/R (ďalej len „**Prevádzkovateľ**“). Adresa elektronickej pošty: [info@autobazar.eu](mailto:info@autobazar.eu); tel. kontakt: +421 220 924 192.M
+2. Prevádzkovateľom portálu Autobazar.EU (ďalej len „Portál“ alebo „Autobazar.EU“) a poskytovateľom služieb je spoločnosť Autobazar.EU portál s.r.o., so sídlom Prievozská 14, 821 09 Bratislava-mestská časť Ružinov, IČO: 50 104 756, zapísaná v Obchodnom registri Mestského súdu Bratislava III, oddiel: Sro, vložka č.: 161357/B (ďalej len „Prevádzkovateľ“). Adresa elektronickej pošty: info@autobazar.eu; tel. kontakt: +421 220 924 192
 3. Službou sa rozumejú najmä služby vyhľadávania, služby diskusného fóra, online auto-moto inzertné služby, ktoré Prevádzkovateľ poskytuje na sprostredkovanie ponuky a dopytu tovarov a služieb medzi Používateľmi, doplnkové platené služby, ako aj ďalšie služby, ktoré Prevádzkovateľ aktuálne poskytuje na Portáli (ďalej len „**Služba**“).
 4. Používateľom Portálu je každá fyzická alebo právnická osoba, ktorá vstupuje na Portál a využíva Služby poskytované Prevádzkovateľom na Portáli (ďalej len „**Používateľ**“ alebo „**Používatelia**“). Ak je Používateľom fyzická osoba, táto musí byť staršia ako 16 rokov.
 5. Súkromným inzerentom sa rozumie fyzická osoba predávajúca svoj súkromný majetok (ďalej ako „**Súkromný inzerent**“ alebo taktiež aj ako „**predajca**“).
@@ -547,4 +547,4 @@ XV. Záverečné ustanovenia
 
   
   
-V Novom Meste nad Váhom, dňa 1.12.2022
+V Bratislave, dňa 1.6. 2023
