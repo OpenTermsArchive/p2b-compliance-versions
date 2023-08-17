@@ -89,7 +89,7 @@ Organizator nagradne igre Sestavi LEGO® kocke, osvoji LEGO® komplet (v nadalje
 
 #### 2\. Trajanje nagradne igre
 
-Nagradna igra se začne 11. avgusta 2023. Možno je sodelovati do 31. avgusta 2023 (tj. najkasneje do 23:59:59 ure na navedeni dan). Zmagovalci bodo izbrani 15. septembra 2023. Nagradna igra poteka na spletni strani Ceneje.si.
+Nagradna igra se začne 16. avgusta. 2023. Možno je sodelovati do 8. septembra. 2023 (tj. najkasneje do 23:59:59 ure na navedeni dan). Zmagovalci bodo izbrani 22. septembra. 2023. Nagradna igra poteka na spletni strani Ceneje.si.
 
   
 
@@ -98,6 +98,10 @@ Nagradna igra se začne 11. avgusta 2023. Možno je sodelovati do 31. avgusta 20
 Pravico do sodelovanja v nagradni igri imajo vse fizične osebe s stalnim prebivališčem v Republiki Sloveniji, razen zaposlenih Organizatorja in članov njihovih tesnih družinskih članov (starši, zakonec, otroci, sestre in bratje). Udeleženci, ki sodelujejo v nagradni igri, ne smejo zahtevati nagrad v večjem obsegu ali drugačne nagrade, kot so navedene v Pravilih s strani Organizatorja.
 
 Za sodelovanje v nagradni igri se mora sodelujoči prijaviti in poslati fotografije svojih LEGO kreacij, poleg fotografije LEGO kreacije pa mora sodelujoči poslati tudi svoje ime in priimek, elektronski naslov, naslov fotografije in kratek opis fotografije. Možna je samo ena prijava z istimi osebnimi podatki (imenom in priimkom ter e-poštnim naslovom), v prijavi pa je možno poslati največ tri fotografije Lego izdelkov/kreacij.
+
+Vse poslane fotografije sestavljenih LEGO kreacij bodo vključene v izbor za eno od treh nagrad iz nagradnega sklada tega tekmovanja, vendar si Organizator pridržuje pravico izbire prikaza prijavljenih fotografij na spletni strani nagradnega tekmovanja na portalu Ceneje.si. Udeleženci lahko sodelujejo v tekmovanju s fotografijami svojih sestavljenih LEGO kompletov, pa tudi popolnoma izvirnih kreacij iz LEGO kock.
+
+6
 
 Posamezniki lahko delijo svojo prijavo na svojih kanalih družbenih medijev in k sodelovanju povabijo prijatelje, vendar to ne bo povečalo njihovih možnosti za zmago. S sodelovanjem v nagradni igri udeleženci sprejemajo ta Pravila. Pravila nagradne igre bodo objavljena v splošnih pogojih organizatorja Ceneje.si.
 
