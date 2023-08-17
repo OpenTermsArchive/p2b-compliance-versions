@@ -667,7 +667,7 @@ Os centros de arbitragem de conflitos de consumo legalmente autorizados que o co
 * Centro de Informação e Arbitragem do Porto (CICAP), cujo sítio electrónico se encontra acessível através desta ligação: [https://www.cicap.pt/](https://www.cicap.pt/);
 * Centro de Informação e Arbitragem do Vale do Ave (TRIAVE), cujo sítio electrónico se encontra acessível através desta ligação: [https://www.triave.pt/](https://www.triave.pt/);
 * Centro de Informação e Arbitragem do Vale do Cávado (CIAB), cujo sítio electrónico se encontra acessível através desta ligação: [https://www.ciab.pt/pt/](https://www.ciab.pt/pt/);
-* Centro de Informação, Mediação e Arbitragem do Algarve (CIMAAL), cujo sítio electrónico se encontra acessível através desta ligação: [http://www.consumidoronline.pt/pt/](http://www.consumidoronline.pt/pt/).
+* Centro de Informação, Mediação e Arbitragem do Algarve (CIMAAL), cujo sítio electrónico se encontra acessível através desta ligação: [http://www.consumidoronline.pt/](http://www.consumidoronline.pt/).
 
 No caso de ser consumidor residente noutro Estado Membro, poderá efectuar a sua reclamação através do Centro Europeu do Consumidor, cujo sítio electrónico se encontra acessível através desta ligação: [https://cec.consumidor.pt/](https://cec.consumidor.pt/)
 
