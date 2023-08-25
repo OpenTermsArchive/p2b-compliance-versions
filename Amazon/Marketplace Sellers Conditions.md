@@ -465,6 +465,11 @@ Upon any suspension or termination of your access to the Selling Partner APIs an
 
 We may change or discontinue the Selling Partner APIs or the API Materials (including by changing or removing features or functionality of the Selling Partner APIs or the API Materials) from time to time. For any material changes that will negatively affect your business, we will provide notice under Section 17.
 
+Amazon Services Europe Business Solutions Agreement
+---------------------------------------------------
+
+* [Summary of Amazon Services Europe Business Solutions Agreement](https://sellercentral.amazon.fr/help/hub/reference/external/GCPXXW8VVFWDU584?locale=en-US)
+
 This article applies to selling in: **France**
 
 Amazon Marketplace Fair Pricing Policy
