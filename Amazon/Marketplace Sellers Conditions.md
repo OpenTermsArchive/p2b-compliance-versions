@@ -465,6 +465,8 @@ Upon any suspension or termination of your access to the Selling Partner APIs an
 
 We may change or discontinue the Selling Partner APIs or the API Materials (including by changing or removing features or functionality of the Selling Partner APIs or the API Materials) from time to time. For any material changes that will negatively affect your business, we will provide notice under Section 17.
 
+Click **[here](https://sellercentral-europe.amazon.com/gp/help/external/GCPXXW8VVFWDU584)** to see a summary of the main elements of the Amazon Services Europe Business Solutions Agreement.
+
 Amazon Services Europe Business Solutions Agreement
 ---------------------------------------------------
 
