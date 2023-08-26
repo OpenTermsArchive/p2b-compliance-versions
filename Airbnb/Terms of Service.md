@@ -405,33 +405,28 @@ Site Footer
 
 * [Help Center](https://www.airbnb.com/help/home?from=footer)
 * [AirCover](https://www.airbnb.com/aircover)
+* [Combating discrimination](https://www.airbnb.com/against-discrimination)
 * [Supporting people with disabilities](https://www.airbnb.com/accessibility)
 * [Cancellation options](https://www.airbnb.com/help/article/2701/extenuating-circumstances-policy-and-the-coronavirus-covid19)
-* [Our COVID-19 Response](https://www.airbnb.com/d/covidsafety)
-* [Report a neighborhood concern](https://www.airbnb.com/neighbors)
-
-### Community
-
-* [Airbnb.org: disaster relief housing](https://www.airbnb.org/?locale=en)
-* [Combating discrimination](https://www.airbnb.com/against-discrimination)
+* [Report neighborhood concern](https://www.airbnb.com/neighbors)
 
 ### Hosting
 
 * [Airbnb your home](https://www.airbnb.com/host/homes?from_footer=1)
 * [AirCover for Hosts](https://www.airbnb.com/aircover-for-hosts)
-* [Explore hosting resources](https://www.airbnb.com/resources)
-* [Visit our community forum](https://www.airbnb.com/help/community?s=footer)
-* [How to host responsibly](https://www.airbnb.com/help/responsible-hosting)
+* [Hosting resources](https://www.airbnb.com/resources)
+* [Community forum](https://www.airbnb.com/help/community?s=footer)
+* [Hosting responsibly](https://www.airbnb.com/help/responsible-hosting)
 * [Airbnb-friendly apartments](https://www.airbnb.com/airbnb-friendly)
 
 ### Airbnb
 
 * [Newsroom](https://www.airbnb.com/press/news)
-* [Learn about new features](https://www.airbnb.com/release)
-* [Letter from our founders](https://news.airbnb.com/what-makes-airbnb-airbnb)
+* [New features](https://www.airbnb.com/release)
 * [Careers](https://www.airbnb.com/careers)
 * [Investors](https://investors.airbnb.com/)
 * [Gift cards](https://www.airbnb.com/giftcards)
+* [Airbnb.org disaster relief](https://www.airbnb.org/?locale=en)
 
 Footer section
 
