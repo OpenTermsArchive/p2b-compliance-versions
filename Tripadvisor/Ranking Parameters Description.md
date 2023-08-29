@@ -106,7 +106,7 @@ The results displayed are not necessarily exhaustive of all offers that may be a
 
 When restaurants are filtered by sub-category (for instance : type of cuisine, dinner, local cuisine, etc), then within this sub-category they are ranked according to the ['Popularity Index'](https://www.tripadvisor.com/TripadvisorInsights/w765). This is the same for the subcategory of bookable table and/or for which a special offer is applied.
 
-* “Best Value” is the default sort order for hotels and ranks these establishments using exclusive Tripadvisor data, including confirmed availability from our partners, booking popularity as reported to us by our partners, traveler ratings, prices, location and personal user preferences.
+* “Best Value” is the default sort order for hotels and ranks these establishments using exclusive Tripadvisor data, including traveler ratings, confirmed availability from our partners, prices, booking popularity and location, as well as personal user preferences and recently viewed hotels.
 * “Price (low to high)”: ranks the establishments according to the lowest prices offered through our partners for your selected dates at the time of your search.
 * “Distance to city centre”: ranks first the establishments closest to the applicable city centre with confirmed availability for your dates from our partners.
 * “Featured”: ranks accommodations taking into account the compensation paid to us by those accommodations and/or booking sites. It also incorporates exclusive Tripadvisor data, including traveler ratings, confirmed availability from our partners, prices, booking popularity, location and personal user preferences.
