@@ -1013,7 +1013,9 @@ Conform Regulamentului nr. 679 din 27 aprilie 2016, beneficiati de dreptul de ac
 
 **Ultima actualizare: 02.08.2023**
 
-[Versiuni anterioare](https://ajutor.okazii.ro/istoric-termeni-si-conditii.html)
+[**Termeni si Conditii incepand cu 15.09.2023**](https://ajutor.okazii.ro/wp-content/uploads/2023/08/Termeni_si_conditii_Okazii_ro_15sept2023.pdf)
+
+**[Versiuni anterioare](https://ajutor.okazii.ro/istoric-termeni-si-conditii.html)**
 
 Informatiile au fost utile?
 
