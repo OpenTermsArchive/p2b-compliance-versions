@@ -387,11 +387,11 @@ Related articles
     
     We support different payment methods depending on the country your payment account is located in.
     
-* Guest
+* Host
     
-    ### [Editing, removing, or adding a payment method](https://www.airbnb.com/help/article/823)
+    ### [When a guest asks to visit before booking](https://www.airbnb.com/help/article/47)
     
-    Find out how to manage your payment methods.
+    Encourage them to review your listing description and photos, and be available to answer any additional questions they have about your space…
     
 
 Get help with your reservations, account, and more.
