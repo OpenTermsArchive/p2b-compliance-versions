@@ -481,7 +481,7 @@ Sellers are responsible for setting their own prices on Amazon stores. In our mi
 
 Sellers agree that Amazon may remove an offer, suspend a shipping option, or, in repeated cases, suspend or terminate selling privileges if sellers:
 
-A- Set prices or practices in violation of applicable laws across all EU member states and the UK (such as the books fixed price laws in France); or
+A- Set prices or practices in violation of applicable laws across all EU member states and the UK (such as the books fixed price laws or the shipping regulation for New Books in France); or
 
 B- Set prices which fall below or exceed sellers’ own minimum and maximum price set for that product.
 
