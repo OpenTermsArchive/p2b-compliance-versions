@@ -405,8 +405,8 @@ Site Footer
 
 * [Help Center](https://www.airbnb.com/help/home?from=footer)
 * [AirCover](https://www.airbnb.com/aircover)
-* [Combating discrimination](https://www.airbnb.com/against-discrimination)
-* [Supporting people with disabilities](https://www.airbnb.com/accessibility)
+* [Anti-discrimination](https://www.airbnb.com/against-discrimination)
+* [Disability support](https://www.airbnb.com/accessibility)
 * [Cancellation options](https://www.airbnb.com/help/article/2701/extenuating-circumstances-policy-and-the-coronavirus-covid19)
 * [Report neighborhood concern](https://www.airbnb.com/neighbors)
 
@@ -426,7 +426,7 @@ Site Footer
 * [Careers](https://www.airbnb.com/careers)
 * [Investors](https://investors.airbnb.com/)
 * [Gift cards](https://www.airbnb.com/giftcards)
-* [Airbnb.org disaster relief](https://www.airbnb.org/?locale=en)
+* [Airbnb.org emergency stays](https://www.airbnb.org/?locale=en)
 
 Footer section
 
