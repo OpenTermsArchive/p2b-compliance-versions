@@ -1,4 +1,4 @@
-Last modified: 09/08/2021
+Last modified: 08/09/2023
 
   
 
@@ -7,7 +7,7 @@ Uber Eats (Ireland) Services Agreement
 
 ### Order Form Terms
 
-This Uber Eats (UK) Services Agreement (the “Agreement”) governs your relationship with Uber Portier B.V., a company registered under the laws of the Netherlands (registration number: 65851307) whose registered address is Meester Treublaan 7, 1097 DP, Amsterdam, the Netherlands ("Uber").
+This Uber Eats (UK) Services Agreement (the “Agreement”) governs your relationship with Uber Portier B.V., a company registered under the laws of the Netherlands (registration number: 65851307) whose registered address is Burgerweeshuispad 301, 1076 HR, Amsterdam, the Netherlands ("Uber").
 
 The Agreement shall consist of these Order Form Terms and the Supplemental Terms (currently available at [uber.com/legal/eats\_terms\_en\_IR](http://uber.com/legal/eats_terms_en_IR)). In the event of a conflict between the Order Form Terms and the Supplemental Terms, the Order Form Terms shall prevail. By accepting the Order Form Terms, Merchant declares that it has read, understood and accepts the Order Form Terms and the Supplemental Terms. If Merchant objects to any amended Supplemental Term, Merchant may terminate this Agreement in accordance with clause IV of the Order Form Terms. Capitalized terms used but not defined herein shall have the meanings given to such terms in the Definitions section of the Supplemental Terms.
 
@@ -66,4 +66,4 @@ This Agreement shall be governed by and construed in accordance with the laws of
 
 #### **VI. Notices**.
 
-Any notice to Uber should be provided to Uber Portier B.V., Attn: Legal, Meester Treublaan 7, 1097 DP, Amsterdam, the Netherlands (legal-contracts-bv@uber.com). Notices to Merchant should be sent to the email address provided by Merchant at signup.
+Any notice to Uber should be provided to Uber Portier B.V., Attn: Legal, Burgerweeshuispad 301, 1076 HR, Amsterdam, the Netherlands (legal-contracts-bv@uber.com). Notices to Merchant should be sent to the email address provided by Merchant at signup.
