@@ -11,6 +11,7 @@ In this article
 ---------------
 
 * [Using filters when searching](#section-heading-1-0)
+* [Factors that influence search results](#section-heading-2-0)
 * [How Hosts influence search results](#section-heading-3-0)
 * [How guests influence search results](#section-heading-4-0)
 * [How search works for recently activated listings](#section-heading-4-1)
