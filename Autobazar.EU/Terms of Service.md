@@ -260,8 +260,8 @@ Pre zákazníkov zo Slovenska:
 |     | Počet uhradených inzerátov |     |     |     |
 | Kategória | Služba  <br>**Overená klasika** | Služba  <br>**Všade na očiach** | Služba  <br>**Na plný plyn** | Služba  <br>**Až na mesiac** |
 | Osobné vozidlá / SUV / Úžitkové vozidlá do 3.5t  <br>⌞ 1. (prvý) | **SMS / kredit / platobná karta**  <br>6,90€ / 6,90 € / 6,90€ | **SMS / kredit / platobná karta**  <br>11,90 € / 9,90 € / 9,90 € | **SMS / kredit / platobná karta**  <br>16,90 € / 14,90 € / 14,90 € | **kredit / platobná karta**  <br>34,90 € |
-| ⌞ 2. (druhý) | **SMS / kredit / platobná karta**  <br>10,00 € | **SMS / kredit / platobná karta**  <br>\- | **SMS / kredit / platobná karta**  <br>\- | **kredit / platobná karta**  <br>\- |
-| ⌞ 3. a ďalší inzerát | **SMS / kredit / platobná karta**  <br>18,00 € | **SMS / kredit / platobná karta**  <br>\- | **SMS / kredit / platobná karta**  <br>\- | **kredit / platobná karta**  <br>\- |
+| ⌞ 2. (druhý) | **SMS / kredit / platobná karta**  <br>10,00 € | **SMS / kredit / platobná karta**  <br>\- | **SMS / kredit / platobná karta**  <br>16,90 € / 14,90 € / 14,90 € | **kredit / platobná karta**  <br>34,90 € |
+| ⌞ 3. a ďalší inzerát | **SMS / kredit / platobná karta**  <br>18,00 € | **SMS / kredit / platobná karta**  <br>\- | **SMS / kredit / platobná karta**  <br>\- | **kredit / platobná karta**  <br>34,90 € |
 | ⌞ cena do 5 000€ | **SMS / kredit / platobná karta**  <br>6,90€ / 6,90 € / 4,99€ | **SMS / kredit / platobná karta**  <br>11,90 € / 9,90 € / 9,90 € | **SMS / kredit / platobná karta**  <br>16,90 € / 14,90 € / 14,90 € | **kredit / platobná karta**  <br>34,90 € |
 | Nákladné vozidlá 3,5–7,5t | **SMS / kredit / platobná karta**  <br>6,90€ / 6,90 € / 6,90€ | **SMS / kredit / platobná karta**  <br>11,90 € / 9,90 € / 9,90 € | **SMS / kredit / platobná karta**  <br>16,90 € / 14,90 € / 14,90 € | **kredit / platobná karta**  <br>34,90 € |
 | Nákladné vozidlá nad 7,5t |
