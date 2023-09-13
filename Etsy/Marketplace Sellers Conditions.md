@@ -1,10 +1,7 @@
-Seller Policy (Effective from December 1, 2022)
-===============================================
+Seller Policy
+=============
 
 Etsy is a marketplace where you can sell your handmade goods, vintage items, and craft supplies directly to buyers around the world. We want to make sure that you and your buyers have a positive experience on Etsy. Please read on to find out more about your rights, as well as what is expected of you, as a seller.
-
-This policy was published on October 19, 2022. It will take effect on December 1, 2022. The previous version of this policy can be viewed [here](https://www.etsy.com/legal/policy/seller-policy-effective-until-august-1/1055170083320).
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 This policy is a part of our [Terms of Use](https://www.etsy.com/legal/terms). By opening an Etsy shop, you’re agreeing to this policy and our Terms of Use
 
@@ -26,8 +23,8 @@ This policy is a part of our [Terms of Use](https://www.etsy.com/legal/terms). B
 3. [Feedback, Cases, and Your Success](#success)  
     a. Reviews  
     b. Etsy’s Case System  
-    c. Your Seller Account and Etsy’s Terms  
-    d. Etsy's Purchase Protection Program for Sellers
+    c. Etsy's Purchase Protection Program for Sellers  
+    d. Your Seller Account and Etsy’s Terms
 
 1\. Selling Basics
 ------------------
@@ -65,7 +62,7 @@ Even if they otherwise meet our marketplace criteria, [prohibited items](https:/
 
 [Reselling](https://www.etsy.com/legal/policy/reselling/239324376512) is not allowed in the handmade category on Etsy. Reselling refers to listing an item as handmade when you were not involved in designing or making that item.
 
-Keep in mind that members or, in some cases third parties, may flag listings that appear to violate our policies for Etsy's review. Etsy may remove any listings that violate our policies. Note that listing fees are non-refundable. Etsy may also suspend or terminate your account for any violations. You’ll still be on the hook to pay any outstanding fees on your Etsy statement. You can find more information in our [Fees & Payments Policy](https://www.etsy.com/legal/fees/).
+Keep in mind that members or, in some cases third parties, may flag listings that appear to violate our policies for Etsy's review. Etsy may remove any listings that violate our policies. Note that listing fees are non-refundable. Etsy may also suspend or terminate your account for any violations and you'll still have to pay any outstanding fees on your Etsy statement. You can find more information in our [Fees & Payments Policy](https://www.etsy.com/legal/fees/).
 
 If you are raising money on behalf of a charity, you must obtain that charity’s consent. Please see [this Help article](https://www.etsy.com/legal/policy/donating-shop-proceeds-to-charity/239327254340) for more information about donating any portion of your sales to charity.
 
@@ -77,7 +74,7 @@ By selling on Etsy, you agree that you will:
 
 1. Provide honest, accurate information to Etsy and in your [About section](https://help.etsy.com/hc/articles/115015628487).
 2. Honor your [Shop Policies](https://help.etsy.com/hc/articles/115014372467).
-3. Ensure your shop content, such as any text, photos or videos used to represent yourself, your shop or your listings, abide by Etsy’s policies, including our [Anti-Discrimination Policy](https://www.etsy.com/legal/policy/anti-discrimination-and-hate-speech/123551108902#:~:text=Whether%2520you&%2339;re%2520engaging%2520with,hate%2520speech%2520are%2520not%2520allowed.).
+3. Ensure your shop content, such as any text, photos or videos used to represent yourself, your shop or your listings, abide by Etsy’s policies, including our [Anti-Discrimination Policy](https://www.etsy.com/legal/policy/anti-discrimination-and-hate-speech/123551108902#:~:text=Whether%2520you%27re%2520engaging%2520with,hate%2520speech%2520are%2520not%2520allowed.).
 4. Accurately represent your items in [listings](https://help.etsy.com/hc/articles/115015628707) and listing photos.
 5. Respect the [intellectual property](https://www.etsy.com/legal/ip) of others. If you feel someone has violated your intellectual property rights, [you can report it to Etsy](https://help.etsy.com/hc/en-us/articles/360000344448-How-to-File-a-Notice-of-Intellectual-Property-Infringement).
 6. Not engage in [fee avoidance](https://www.etsy.com/legal/fees/#avoidance).
@@ -109,9 +106,9 @@ At Etsy, everyone is expected to treat fellow members of the Etsy community with
 
 **a. Creating and Uploading Content**
 
-As a member of Etsy, you have the opportunity to create and upload a variety of content, like listings, Messages, text, photos, and videos. In order to keep our community safe and respectful, you agree that you will not upload content that is:
+As a member of Etsy, you have the opportunity to create and upload a variety of content, like listings, Messages, text, photos, and videos. In order to keep our community safe and respectful, you agree that you will not upload content that:
 
-1. Contains hateful or derogatory language or imagery, or any content that is subject to our [Anti-Discrimination and Hate Speech Policy](https://www.etsy.com/legal/policy/anti-discrimination-and-hate-speech/123551108902#:~:text=Whether%2520you&%2339;re%2520engaging%2520with,hate%2520speech%2520are%2520not%2520allowed.);
+1. Contains hateful or derogatory language or imagery, or any content that is subject to our [Anti-Discrimination and Hate Speech Policy](https://www.etsy.com/legal/policy/anti-discrimination-and-hate-speech/123551108902#:~:text=Whether%2520you%27re%2520engaging%2520with,hate%2520speech%2520are%2520not%2520allowed.);
 2. Contains threats, harassment, extortion, or violates our rules about interference;
 3. Violates someone else’s intellectual property rights;
 4. Is false, deceptive, or misleading;
@@ -129,7 +126,7 @@ Read more about how Etsy search works, what factors impact search ranking, and h
 
 You are responsible for protecting members’ personal information you receive or process, and you must comply with all relevant legal requirements. This includes applicable data protection and privacy laws that govern the ways in which you can use Etsy user information. These laws may require that you post and comply with your own privacy policy, which must be accessible to Etsy users with whom you interact. Your privacy policy must be compatible with this policy and Etsy’s [Terms of Use](https://www.etsy.com/legal/terms-of-use), and Etsy's [Privacy Policy](https://www.etsy.com/legal/privacy/?ref=list).
 
-In particular, when you sell using our Services (subject to this Policy) or use Etsy’s API (also subject to the Etsy API Terms of Use), you may receive and determine what to do with certain personal information, such as when communicating with users and entering into transactions with buyers. This means you process personal information (for example, buyer name, email address, and shipping address) and, to the extent you do so, under EU law, you are an independent controller of data relating to other users that you may have obtained through the Services. For more information on the General Data Protection Regulation, see more resources at https://gdpr-info.eu and http://gdprandyou.ie. As a data controller (that is someone who decides what personal data is collected and the purpose you’ll use the data for) to the extent that you process user personal information outside of the Services, you may be required under applicable data protection and privacy laws to honor requests received from such users for data access, portability, correction, deletion, and objections to processing. Also, if you disclose personal information without the buyer’s proper consent, you are responsible for that unauthorized disclosure. This includes, for example, disclosures you make or unintentional data breaches. For example, you may receive a buyer’s email address or other information as a result of entering into a transaction with that buyer. This information may only be used for Etsy-related communications or for Etsy-facilitated transactions. You may not use this information for unsolicited commercial messages or unauthorized transactions. Without the buyer’s consent, and subject to other applicable Etsy policies and laws, you may not add any Etsy member to your email or physical mailing list, use that buyer’s identity for marketing, or obtain or retain any payment information. Please bear in mind that you're responsible for knowing the standard of consent required in any given instance. If Etsy and you are found to be joint data controllers of personal information, and if Etsy is sued, fined, or otherwise incurs expenses because of something that you did in your capacity as a joint data controller of buyer personal information, you agree to indemnify, defend and hold Etsy (and its employees, agents, consultants, subsidiaries, partners, affiliates, and licensors) harmless against any claims, costs, losses, damages, liabilities, judgements and expenses (including reasonable attorney fees) in connection with your processing of buyer personal information.
+In particular, when you sell using our Services (subject to this Policy) or use Etsy’s API (also subject to the [Etsy API Terms of Use](https://www.etsy.com/legal/api)), you may receive and determine what to do with certain personal information, such as when communicating with users and entering into transactions with buyers. This means you process personal information (for example, buyer name, email address, and shipping address) and, to the extent you do so, under EU law, you are an independent controller of data relating to other users that you may have obtained through the Services. For more information on the General Data Protection Regulation, see more resources at https://gdpr-info.eu and http://gdprandyou.ie. As a data controller (that is someone who decides what personal data is collected and the purpose you’ll use the data for) to the extent that you process user personal information outside of the Services, you may be required under applicable data protection and privacy laws to honor requests received from such users for data access, portability, correction, deletion, and objections to processing. Also, if you disclose personal information without the buyer’s proper consent, you are responsible for that unauthorized disclosure. This includes, for example, disclosures you make or unintentional data breaches. For example, you may receive a buyer’s email address or other information as a result of entering into a transaction with that buyer. This information may only be used for Etsy-related communications or for Etsy-facilitated transactions. You may not use this information for unsolicited commercial messages or unauthorized transactions. Without the buyer’s consent, and subject to other applicable Etsy policies and laws, you may not add any Etsy member to your email or physical mailing list, use that buyer’s identity for marketing, or obtain or retain any payment information. Please bear in mind that you're responsible for knowing the standard of consent required in any given instance. If Etsy and you are found to be joint data controllers of personal information, and if Etsy is sued, fined, or otherwise incurs expenses because of something that you did in your capacity as a joint data controller of buyer personal information, you agree to indemnify, defend and hold Etsy (and its employees, agents, consultants, subsidiaries, partners, affiliates, and licensors) harmless against any claims, costs, losses, damages, liabilities, judgements and expenses (including reasonable attorney fees) in connection with your processing of buyer personal information.
 
 For more information, please see our [Privacy Policy](https://www.etsy.com/legal/privacy).
 
@@ -142,7 +139,7 @@ With Etsy's "Messages", you have the ability to communicate directly with your b
 Messages may not be used for the following activities:
 
 1. Sending unsolicited advertising or promotions, requests for donations, or spam;
-2. Harassing or abusing another member or violating our [Anti-Discrimination Policy](https://www.etsy.com/legal/policy/anti-discrimination-and-hate-speech/123551108902#:~:text=Whether%2520you&%2339;re%2520engaging%2520with,hate%2520speech%2520are%2520not%2520allowed.);
+2. Harassing or abusing another member or violating our [Anti-Discrimination Policy](https://www.etsy.com/legal/policy/anti-discrimination-and-hate-speech/123551108902#:~:text=Whether%2520you%27re%2520engaging%2520with,hate%2520speech%2520are%2520not%2520allowed.);
 3. Contacting someone after they have explicitly asked you not to; or
 4. Interfering with a transaction or the business of another member.
 5. Exchanging personal contact, financial or other information for the purposes of evading the checkout process on Etsy, including phone number, address, email, social media handles, external URLs, instructions for money transfer, etc.
@@ -169,7 +166,9 @@ iii. Communicating Cancellations
 
 If you are unable to complete a transaction, you must notify the buyer via Messages and cancel the transaction. If the buyer already submitted payment, you must issue a full refund. You are encouraged to keep proof of any refunds in the event a dispute arises. All cancellations are subject to our [Cancellation Policy](https://www.etsy.com/legal/policy/cancellation-policy/253925018785?ref=list).
 
-European Union Right of Withdrawal Buyers in the European Union (EU), and in parallel buyers in the UK, may be entitled to a 14-day “right of withdrawal” after receiving an item, during which they may return an item for any reason. The details of this right vary by EU member state or in the UK. The right of withdrawal may not apply to certain items like custom items or perishable goods. Rights with respect to digital items vary by EU member state or in the UK. Read more about the EU and UK Right of Withdrawal in this [Help](https://www.etsy.com/legal/policy/selling-to-eu-buyers/239965962014#:~:text=Right%20to%20return%20items%20(Right,the%20seller%20within%2014%20days.&text=If%20you%20sell%20to%20the,a%20minimum%20of%2014%20days) article.
+European Union Right of Withdrawal
+
+Buyers in the European Union (EU), and in parallel buyers in the UK, may be entitled to a 14-day “right of withdrawal” after receiving an item, during which they may return an item for any or no reason. The details of this right vary by EU member state or in the UK. The right of withdrawal may not apply to certain items like custom items or perishable goods. Rights with respect to digital items vary by EU member state or in the UK. Read more about the EU and UK Right of Withdrawal in this [Help](https://www.etsy.com/legal/policy/selling-to-eu-buyers/239965962014#:~:text=Right%20to%20return%20items%20(Right,the%20seller%20within%2014%20days.&text=If%20you%20sell%20to%20the,a%20minimum%20of%2014%20days) article.
 
 Please be aware that in addition to this policy, each country has its own laws surrounding shipping, cancellations, returns, and exchanges. Please familiarize yourself with the laws of your own country and those of your buyers’ countries.
 
@@ -197,11 +196,13 @@ The Case system is how a buyer notifies Etsy of an order issue or dispute that t
 
 Etsy reserves the right to resolve an order issue before the 48-hour window for circumstances including, but not limited to, seller inactivity, harassment, refusal of service, manipulation, and undermining the integrity of the case system.
 
-Buyers may file a case for items that never arrive, arrive damaged, or do not match the listing description as part of Etsy’s Purchase Protection Program (for more information on case eligibility, click [here](https://www.etsy.com/legal/policy/cases-policy/243306189901). Etsy may request your assistance in resolving a case opened against your shop. By using Etsy’s case system, you understand that Etsy may use your personal information for the purpose of resolving disputes with other members. For more information on our privacy policy, [click here](https://www.etsy.com/legal/privacy).
+Buyers may file a case for items that never arrive, arrive late or, arrive damaged, or do not match the listing description as part of Etsy’s Purchase Protection Program (for more information on case eligibility, click [here](https://www.etsy.com/legal/policy/cases-policy/243306189901). Etsy may request your assistance in resolving a case opened against your shop. By using Etsy’s case system, you understand that Etsy may use your personal information for the purpose of resolving disputes with other members. For more information on our privacy policy, [click here](https://www.etsy.com/legal/privacy).
+
+**c. Etsy's Purchase Protection Program for Sellers**
 
 For certain cases, sellers are protected by Etsy's Purchase Protection Program. If the case falls outside of Etsy's [Purchase Protection Program for Sellers](https://www.etsy.com/legal/policy/seller-protection-policy/34509585385?ref=list), unless otherwise required by law, you will be required to refund the order, including original shipping and return shipping. Etsy reserves the right to issue a refund to the buyer and recoup funds from your account, including your payment account reserve, if payment was made via Etsy Payments.
 
-**c. Your Seller Account and Etsy’s Terms**
+**d. Your Seller Account and Etsy’s Terms**
 
 In order to keep Etsy safe and improve our Services, we may take actions that limit the visibility of your shop, listings or ads, or that impact your payment account. In the event a shop sees unusual order activity, or we otherwise believe that your actions or shop may result in buyer disputes, chargebacks, increased risk of fraud, counterfeiting, or other claims, Etsy may take actions such as limiting visibility of your account, placing restrictions or reserves on your payments account, or suspending your Etsy account, in accordance with our [Terms of Use](https://www.etsy.com/legal/terms-of-use), including this Policy and our [Etsy Payments Policy](https://www.etsy.com/legal/etsy-payments/?ref=list). When appropriate and permitted by law, Etsy will communicate information to the affected seller about the issue.
 
@@ -211,10 +212,6 @@ In addition, we may limit the visibility of listings or ads in the interest of k
 
 Etsy may make changes to onboarding or authentication processes for sellers at our sole discretion. Completion of these processes may be required for seller account activation or continued access and usage.
 
-If Etsy has reason to believe you, Your Content, or your use of the Services violate our Terms, including this Seller Policy, we may deactivate Your Content to some or all users, or suspend or terminate your account (and any accounts Etsy determines is related to your account) and your access to the Services. Sellers in the European Union can see more information [here](https://help.etsy.com/hc/en-gb/articles/360051541413?segment=selling). Generally, Etsy will notify you that Your Content or account has been suspended or terminated, unless you’ve repeatedly violated our Terms or we have legal or regulatory reasons preventing us from notifying you.
+If Etsy has reason to believe you, Your Content, or your use of the Services violate our Terms, including this Seller Policy, we may deactivate Your Content to some or all users, or suspend or terminate your account (and any accounts Etsy determines are related to your account) and your access to the Services. Sellers in the European Union can see more information [here](https://help.etsy.com/hc/en-gb/articles/360051541413?segment=selling). Generally, Etsy will notify you that Your Content or account has been suspended or terminated, unless you’ve repeatedly violated our Terms or we have legal or regulatory reasons preventing us from notifying you.
 
-**d. Etsy's Purchase Protection Program for Sellers**
-
-Etsy also provides limited solutions to sellers who meet the requirements of our Purchase Protection Program for Sellers. Read more about Purchase Protection Program for Sellers [here](https://www.etsy.com/legal/policy/seller-protection-policy/34509585385).
-
-Last updated on Jun 21, 2023
+Last updated on Sep 13, 2023
