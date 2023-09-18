@@ -2,7 +2,7 @@ Privalia | 1
 
 
 
-Actualizado el 8 de septiembre de 2022
+Actualizado el 18 de septiembre de 2023
 
 
 
@@ -52,21 +52,21 @@ Las presentes Condiciones Generales de Uso (en adelante, las "Condiciones de Uso
 
 del sitio web www.privalia.com (en adelante, el "Sitio Web") y de las aplicaciones para smartphone (en
 
-adelante, las “Apps”), gestionada por VENTE PRIVEE COM SA SUCURSAL EN ESPAÑA (en adelante,
+adelante, las “Apps”), gestionada por VENTE-PRIVEE.COM SA, SUCURSAL EN ESPAÑA (en
 
-"Privalia"). Privalia es la sucursal, con domicilio en Rambla de la Marina, 450, 08907 L’Hospitalet de
+adelante, "Privalia"). Privalia es la sucursal, con domicilio en Rambla de la Marina, 450, 08907
 
-Llobregat (Barcelona), inscrita en el Registro Mercantil de Barcelona, en el tomo 47297, folio 75, Hoja
+L’Hospitalet de Llobregat (Barcelona), inscrita en el Registro Mercantil de Barcelona, en el tomo 47297,
 
-B-547694, inscripción 1ª, con número de CIF W2504156G y con número de teléfono (+34) 935 53 18
+folio 75, Hoja B-547694, inscripción 1ª, con número de CIF W2504156G y con número de teléfono
 
-06, que opera en España en nombre y por cuenta de la sociedad francesa VENTE PRIVEE COM,
+(+34) 935 53 18 06, que opera en España en nombre y por cuenta de la sociedad francesa VENTE-
 
-Société Anonyme con un capital de 684.588,77 € inscrita en el registro comercial y de sociedades de
+PRIVEE.COM, Société Anonyme con un capital de 684.332,35 € inscrita en el registro comercial y de
 
-Bobigny con el número RCS 434 317 293 y con domicilio en 249 Avenue du President Wilson 93210
+sociedades de Bobigny con el número RCS 434 317 293 y con domicilio en 249 Avenue du President
 
-la Plaine - Saint Denis.
+Wilson 93210 la Plaine - Saint Denis.
 
 
 
@@ -900,7 +900,7 @@ por escrito a través de la sección “Ayuda y Contacto” o a través de la se
 
 Adicionalmente a la sección "Ayuda y Contacto" y Mi Cuenta \> Mis Pedidos, Privalia también pone a
 
-disposición del Cliente el email de contacto atencionalcliente@privalia.com. Los Clientes también
+disposición del Cliente el email de contacto atencionalcliente@veepee.com. Los Clientes también
 
 podrán ponerse en contacto con Privalia por teléfono o a través de las Redes Sociales aptas para ello.
 
@@ -1010,7 +1010,7 @@ regulan la compra de Productos y la contratación de Servicios ofrecidos por Pri
 
 través del Sitio Web y de las aplicaciones para smartphone (en adelante, las “Apps”), gestionada por
 
-VENTE PRIVEE COM SA SUCURSAL EN ESPAÑA (en adelante, "Privalia"). Privalia es la sucursal,
+VENTE-PRIVEE.COM SA, SUCURSAL EN ESPAÑA (en adelante, "Privalia"). Privalia es la sucursal,
 
 con domicilio en Rambla de la Marina, 450, 08907 L’Hospitalet de Llobregat (Barcelona), inscrita en el
 
@@ -1018,15 +1018,15 @@ Registro Mercantil de Barcelona, en el tomo 47297, folio 75, Hoja B-547694, insc
 
 de CIF W2504156G y con número de teléfono (+34) 935 53 18 06, que opera en España en nombre y
 
-por cuenta de la sociedad francesa VENTE PRIVEE COM, Société Anonyme con un capital de
+por cuenta de la sociedad francesa VENTE-PRIVEE.COM, Société Anonyme con un capital de
 
-684.588,77 €, inscrita en el registro comercial y de sociedades de Bobigny con el número RCS 434
+684.332,35 €, inscrita en el registro comercial y de sociedades de Bobigny con el número RCS 434
 
 317 293 y con domicilio en 249 Avenue du President Wilson 93210 la Plaine - Saint Denis. Privalia
 
 entrega a través del Sitio Web y Apps, exclusivamente, para el territorio español comprendido en la
 
-Península Ibérica, Baleares y Canarias (en adelante, el “Territorio”). Privalia únicamente realiza e nvíos
+Península Ibérica, Baleares y Canarias (en adelante, el “Territorio”). Privalia únicamente realiza envíos
 
 y distribuye los Productos y ofrece los Servicios en el Territorio.
 
@@ -1132,35 +1132,33 @@ del Producto o contratación del Servicio.
 
 
 
-Los descuentos aplicados a los Productos que se ofertan en el Sitio Web y en las Apps son aplicados
+Los precios aplicados a los productos ofrecidos en el Sitio Web y Apps se comparan con el precio de
 
-en base al precio original de salida al mercado que los proveedores indican a Privalia (en adelante
+venta al público que los proveedores indican a Privalia. Este precio (en adelante "precio original") se
 
-“precio antes de aplicar descuento”).
-
-
-
-Ese precio antes de aplicar descuento es el precio que aparece tachado en el Sitio Web y Apps y
-
-Privalia lo publica en base a la información que le indica el proveedor.
+indica tachado debajo del precio de venta de Privalia.
 
 
 
-Privalia, por lo tanto, indica el precio tachado antes de aplicar descuento y el precio de venta de Privalia
+El precio tachado representa, por tanto, una comparación de precios y no una reducción de los precios
 
-para representar una comparación de precios y no para indicar una reducción de precio.
-
-
-
-Privalia no será responsable de que otros clientes del proveedor o terceras empresas publiquen precios
-
-antes de aplicar descuento que sean inferiores o diferentes a los publicados por Privalia.
+anteriores aplicados por Privalia en el Sitio Web o en las Apps.
 
 
 
-En el caso de que el precio indicado tachado sea un valor estimado en base al precio de productos
+A pesar de tomar precauciones específicas para garantizar la veracidad del precio original, Privalia no
 
-similares en el mercado, Privalia lo indicará en la campaña de venta.
+podrá ser considerada responsable en caso de que otros operadores vendan productos idénticos
+
+indicando un precio original inferior o diferente al precio indicado en el Sitio Web o Apps.
+
+
+
+En los casos en que el precio indicado tachado sea en cambio un valor estimado basado en el precio
+
+de productos similares en el mercado (y por tanto no comparado con el precio original), Privalia lo
+
+indicará en la campaña de venta.
 
 
 
@@ -1214,9 +1212,29 @@ cualesquiera otros impuestos aplicables.
 
 Los precios no incluyen los gastos de envío de los Productos. Salvo que se indique otra tarifa durante
 
-el proceso de compra, los gastos de envío serán desde 3,95€ en caso de compra en una campaña en
+el proceso de compra, los gastos de envío ascienden a un mínimo de 3,95€ por cada pedido y pueden
 
-la que compre el Cliente y desde 5,95€ en caso de compra en más de una campaña.
+variar según la forma de envío, dirección de entrega, peso y volumen, número de campañas
+
+seleccionadas por el Cliente del Producto o Productos adquiridos.
+
+
+
+En el caso de Productos seleccionados para un único pedido de dos campañas separadas, el coste
+
+mínimo de envío será de 5,95€.
+
+
+
+El Cliente podrá consultar el precio final de los gastos de envío antes de iniciar el pago. Si el Cliente
+
+tiene derecho a una promoción especial o a un descuento en el envío, el sistema se lo comunicará al
+
+Cliente antes de confirmar la compra. Para productos voluminosos, los gastos de envío pueden variar
+
+en función del tamaño y del peso del producto y se indicarán en el momento de la compra del pedido.
+
+Los gastos de envío deberán ser aceptados por el Cliente en el momento de enviar el pedido.
 
 
 
@@ -1264,6 +1282,8 @@ Una vez realizada la solicitud de contratación del Servicio Premium, Privalia e
 
 de confirmación y a partir de ese momento se activará automáticamente en la cuenta del Cliente.
 
+Privalia | 15
+
 
 
 El descuento se aplicará automáticamente en todas las compras superiores a 50€ en Península y
@@ -1280,9 +1300,9 @@ si la compra inicial ha sido superior a los 50€ en Península y Baleares o 60�
 
 Quedarán exentos del envío gratis los pedidos que superen la volumetría y peso estándar (10 kg) y los
 
-pedidos Marketplace.
+pedidos Marketplace, incluyendo la contratación de viajes y viajes combinados, así como los pedidos
 
-Privalia | 15
+formalizados en el Espacio de Venta Re-Turn.
 
 
 
@@ -1356,6 +1376,8 @@ la compra realizada. La compra del Producto se entenderá perfeccionada en el mo
 
 del pago del precio por Privalia.
 
+Privalia | 16
+
 
 
 6\. PAGO DE LOS PRODUCTOS
@@ -1366,55 +1388,9 @@ El Cliente deberá realizar el pago mediante tarjeta de crédito o de débito Vi
 
 Express, Visa Electrón y/u otras tarjetas análogas, mediante el sistema de PayPal, mediante
 
-transferencia bancaria utilizando el sistema de Klarna “Paga Ahora”, mediante Apple Pay o a través
+transferencia bancaria utilizando el sistema de Klarna “Paga Ahora” o el servicio de pago aplazado de
 
-del servicio de pago aplazado Oney.
-
-
-
-Klarna
-
-Privalia | 16
-
-
-
-El servicio de Klarna “Paga Ahora” es ofrecido por Klarna Bank AB (publ), Sveavägen 46, 111 34
-
-Estocolmo (en adelante “Klarna”), banco sueco registrado en el registro de empresas de Suecia con el
-
-número de registro 556737-0431. Klarna autorizado a prestar servicios financieros por
-
-Finansinspektionen (la Autoridad de Supervisión Financiera de Suecia). Para más información sobre
-
-este servicio véase https://www.klarna.com/es/legal/.
-
-
-
-Para utilizar el servicio de transferencia bancaria de Klarna “Paga Ahora”, el Cliente tendrá que aceptar
-
-las condiciones legales, de privacidad yde cookies de Klarna e indicar el banco a través del cual el
-
-Cliente quiere llevar a cabo la transferencia bancaria. Una vez hecho, el Cliente será redirigido a la
-
-página web de dicho banco para finalizar la compra.
-
-
-
-El justificante de compra estará disponible y se podrá visualizar en la sección Mi cuenta \> Mis Pedidos.
-
-Desde esta sección el Cliente también se podrá descargar la factura del pedido, si el Cliente ha
-
-especificado sus datos y la ha pedido. La tarjeta con la que se haga el pago deberá tener como entidad
-
-financiera emisora a un banco o caja de ahorros de la Unión Europea.
-
-
-
-El Cliente deberá notificar a Privalia, a través de la sección Ayuda y Contacto, cualquier cargo indebido
-
-o fraudulento en la tarjeta utilizada para compras en el Sitio Web y/o Apps, en el menor plazo de tiempo
-
-posible, con el objeto de que Privalia pueda realizar las gestiones que considere convenientes.
+Klarna, mediante Apple Pay o a través del servicio de pago aplazado Oney.
 
 
 
@@ -1422,13 +1398,393 @@ Paypal
 
 
 
-Los pagos de PayPal son procesados por la empresa VENTE PRIVEE COM, Société Anonyme con un
+Los pagos de PayPal son procesados por la empresa VENTE-PRIVEE.COM, Société Anonyme con
 
-capital de 684.588,77€, inscrita en el registro comercial y de sociedades de Bobigny con el número
+un capital de 684.332,35 €, inscrita en el registro comercial y de sociedades de Bobigny con el número
 
 RCS 434 317 293 y con domicilio en 249 Avenue du President Wilson 93210 la Plaine - Saint Denis
 
 (Número de IVA intracomunitario: FR70434317293).
+
+
+
+Klarna
+
+
+
+Los servicios de Klarna que se indican a continuación son ofrecidos por Klarna Bank AB (publ),
+
+Sveavägen 46, 111 34 Estocolmo, Suecia (en adelante “Klarna”), empresa sueca inscrita en el Registro
+
+Mercantil de Suecia con el número 556737-0431 y con teléfono +34 911 391 220. Klarna está
+
+autorizado a prestar servicios financieros por Finansinspektionen (la Autoridad de Supervisión
+
+Financiera de Suecia) y se encuentra registrada en el Banco de España para llevar a cabo sus servicios
+
+en España bajo el número 673. Para más información sobre este servicio véase
+
+https://www.klarna.com/es/legal/.
+
+
+
+Klarna ofrece los siguientes servicios:
+
+
+
+- “Paga Ahora”
+
+
+
+Para utilizar el servicio de transferencia bancaria de Klarna “Paga Ahora”, el Cliente tendrá que
+
+aceptar las condiciones legales, de privacidad y de cookies de Klarna e indicar el banco a través
+
+del cual el Cliente quiere llevar a cabo la transferencia bancaria. Una vez hecho, el Cliente será
+
+redirigido a la página web de dicho banco para finalizar la compra.
+
+
+
+- Pago aplazado (“Paga en 3 plazos”)
+
+
+
+Características generales
+
+
+
+El servicio de pago aplazado de Klarna (“Paga en 3 plazos”) es un aplazamiento de pago con
+
+reembolsos fraccionados de hasta un máximo de sesenta (60) días, que permite a los Clientes
+
+consumidores residentes en España pagar la compra de Productos en tres (3) plazos, con cargo a
+
+una tarjeta de pago válida a nombre del Cliente.
+
+
+
+Este servicio se ofrece y está sujeto a la aprobación previa de Klarna.
+
+
+
+A continuación, se indican las principales características indicadas por Klarna.
+
+Privalia | 17
+
+
+
+Operación
+
+
+
+El importe del crédito se establecerá en euros y corresponderá al importe de la operación (valor de
+
+la compra) más los gastos de envío, impuestos, conversión de divisas si procede, así como
+
+cualesquiera otras comisiones o gastos cargados por Privalia. El primer pago se cargará cuando
+
+Privalia confirme la compra del Producto y los dos (2) siguientes pagos se cobrarán
+
+automáticamente a los treinta (30) y sesenta (60) días del pago inicial.
+
+
+
+El servicio no conlleva el pago de intereses ni comisiones por pagos atrasados si el Cliente respeta
+
+el calendario de pagos automático. En caso de demora en el pago, Klarna podrá cobrar un recargo.
+
+En caso de impago, el importe pendiente de pago se cobrará en la siguiente cuota, junto con los
+
+posibles recargos por pago atrasado.
+
+
+
+“Paga en 3 plazos” es un crédito. Un crédito es un compromiso vinculante y debe ser reembolsado.
+
+En caso de no reembolsar completamente el crédito, esta situación podría tener consecuencias
+
+graves para el Cliente, y Klarna podría, entre otras acciones: (a) cargar el saldo pendiente, incluidos
+
+los recargos por pago atrasado, de inmediato, utilizando cualquiera de las tarjetas del Cliente que
+
+Klarna tuviera registradas o mediante una factura por separado; (b) usar una agencia de cobro de
+
+deudas para recibir el pago, en cuyo caso el Cliente deberá abonar todos los costes razonables
+
+(incluidos los honorarios de abogados) incurridos por Klarna y/o la agencia de cobro de deudas; y
+
+(c) reportar información del impago a las agencias de informes de crédito.
+
+
+
+Privalia no recibe ninguna compensación de los Clientes en relación con esta solución de pago y
+
+solo pone el servicio a disposición de sus Clientes.
+
+
+
+Si el Cliente cancela la compra o devuelve un pedido que ya ha sido pagado, Klarna cancelará
+
+automáticamente las cuotas pendientes y reembolsará al Cliente las cantidades que ya haya
+
+abonado.
+
+
+
+El Cliente deberá leer y aceptar los términos y condiciones de Klarna en la página de pago de
+
+Klarna y en el momento de validar el pago.
+
+
+
+Condiciones necesarias para solicitar el servicio a Klarna
+
+
+
+- El solicitante debe ser una persona física, mayor de edad y residente en España;
+
+
+
+- El solicitante debe disponer de una tarjeta de crédito o débito válida de la que sea titular (las
+
+tarjetas de prepago no están admitidas), aceptada por Klarna. Para más información, consulte
+
+el sitio web de Klarna:
+
+
+
+https://cdn.klarna.com/1.0/shared/content/legal/terms/0/es_es/paylaterin3.
+
+
+
+- El importe financiable debe estar comprendido entre un mínimo de 50 € y un máximo de 1.500
+
+€.
+
+
+
+Especificaciones de Klarna
+
+
+
+- Tarjetas aceptadas y almacenamiento de los datos de la tarjeta
+
+Privalia | 18
+
+
+
+Si no se acepta un tipo de tarjeta, Klarna se lo comunicará al Cliente antes de que complete
+
+su compra. Klarna acepta la mayoría de tarjetas de crédito y débito que no están a punto de
+
+caducar.
+
+
+
+Si la tarjeta del Cliente es cancelada, el Cliente deberá realizar todos los pagos restantes
+
+cuando Klarna lo solicite. Si los datos de la tarjeta del Cliente cambian entre el momento de la
+
+compra y el pago final, el Cliente se compromete a notificar a Klarna los datos actualizados de
+
+la tarjeta. Klarna proporcionará un método digital para comunicar estas actualizaciones. Si el
+
+Cliente no notifica a Klarna estos detalles, autoriza a Klarna a obtenerlos de su banco emisor
+
+directamente, si es posible. Si finalmente el Cliente no proporciona a Klarna la información
+
+actualizada, podría cobrarle una penalización.
+
+
+
+El Cliente autoriza a Klarna a guardar los detalles de su tarjeta en sus sistemas. Klarna usará
+
+esta información para autorizar los pagos futuros bajo estos términos y condiciones. A menos
+
+que el Cliente decida no autorizarlo, es posible que Klarna use esta información para rellenar
+
+los detalles de la tarjeta del Cliente en sus futuras compras y en todo caso podrá gestionar los
+
+detalles de su tarjeta online. Si Klarna consigue información actualizada de la tarjeta del banco
+
+emisor del Cliente, éste está de acuerdo con que Klarna la guardará en sus sistemas.
+
+
+
+- Retraso en el pago
+
+
+
+Si Klarna no puede cobrar al Cliente la cantidad correspondiente en el método de pago
+
+escogido en la fecha de vencimiento, Klarna se lo notificará y le ofrecerá un plazo de cortesía
+
+de entre dos (2) y siete (7) días hábiles para que el Cliente actualice su método de pago o para
+
+que se asegure de que dispone de fondos disponibles en su método de pago predeterminado.
+
+Es importante que el Cliente se asegure de que tiene fondos suficientes disponibles para
+
+completar su pago el día del vencimiento. Si Klarna no es capaz de cobrar la segunda cuota
+
+durante el periodo de gracia, transferirá el importe impagado al último plazo, incluyendo una
+
+penalización por el pago atrasado.
+
+
+
+Si el Cliente no realiza el pago al final del periodo de cortesía, entrará en impago y, entre otras
+
+acciones que Klarna tendrá derecho a ejercer, podría cobrarle una penalización por demora
+
+cuya cantidad sea de: i) 4 euros por cuota si el valor total del pedido es inferior a 49,90 €, ii) 7
+
+€ por cuota si el valor total del pedido está comprendido entre 50 € y 199,99 €, iii) 12 € por
+
+cuota si el valor total del pedido es igual o superior a 200 €, o el máximo importe permitido por
+
+la legislación aplicable, si es menor. Si el Cliente no realiza el pago es posible que no pueda
+
+volver a usar este servicio en el futuro. Klarna podrá seguir intentando el recobro en las
+
+siguientes fechas de vencimiento. Si Klarna no puede cobrar el importe restante en la tercera
+
+cuota, Klarna podrá facturar al Cliente el importe restante para ser pagado inmediatamente o
+
+podrá seguir sus procedimientos de recobro de deuda, en cuyo caso el Cliente tendrá que
+
+pagar todos los costes razonables en los que haya incurrido Klarna y/o la agencia de recobros.
+
+
+
+En este link consta toda la información:
+
+
+
+https://cdn.klarna.com/1.0/shared/content/legal/terms/es-ES/1.0.1/consumer_credit
+
+
+
+- Acceso a informes de crédito, verificación de identidad e informes
+
+
+
+Cuando el Cliente solicite utilizar este método de pago, Klarna verificará la identidad del
+
+Cliente. La verificación de identidad se lleva a cabo para cumplir con los requisitos de
+
+Privalia | 19
+
+
+
+prevención del blanqueo de capitales y financiación del terrorismo, así como para prevenir el
+
+fraude. El Cliente facilitará a Klarna la información necesaria para verificar su identidad. Klarna
+
+también podrá contrastar la información facilitada con bases de datos de terceros o con una
+
+agencia de crédito. Esta búsqueda puede afectar a la puntuación crediticia del Cliente y a sus
+
+posibilidades de obtener un crédito en el futuro. Si, como resultado de la consulta de Klarna,
+
+el Cliente no puede acceder a este método de pago, Klarna informará al Cliente.
+
+
+
+- Pago anticipado y devoluciones
+
+
+
+El Cliente puede pagar el saldo restante en cualquier momento y no se le cobrará más por
+
+hacerlo. Si el Cliente cancela su compra, Klarna cancelará los pagos pendientes y le devolverá
+
+el importe que ya le haya cobrado en su tarjeta. Cualquier devolución parcial reducirá el
+
+balance total del Cliente, pero no se considerará un pago completo. El Cliente seguirá teniendo
+
+que abonar las cuotas pendientes de acuerdo al plan de pagos establecidos al efectuar la
+
+compra en las fechas establecidas hasta que el total de la compra se haya pagado por
+
+completo. Si el Cliente tiene un saldo acreedor, Klarna podrá abonar el saldo en su tarjeta o
+
+en cualquier otra tarjeta que Klarna tenga registrada.
+
+
+
+- Impago
+
+
+
+Existirá una situación de impago si: (a) no se realiza ningún pago antes de la fecha de
+
+vencimiento después de los períodos de cortesía aplicables; (b) el Cliente está inmerso en
+
+procedimientos de insolvencia o concursales; (c) el Cliente proporciona información falsa,
+
+engañosa o incorrecta a Klarna; o (d) el Cliente incumple o no está dispuesto a cumplir con
+
+alguna de las condiciones contenidas en los términos y condiciones de este método de pago.
+
+
+
+- Klarna se reserva el derecho de aceptar o rechazar cualquier solicitud.
+
+
+
+- Quejas y reclamaciones
+
+
+
+Las reclamaciones relativas a los servicios de Klarna se rigen por la información facilitada
+
+en https://www.klarna.com/es/atencion-al-cliente/.
+
+
+
+Si el Cliente tiene una queja en relación al servicio prestado por Klarna, puede enviar su
+
+reclamación a través del formulario de contacto en el sitio web de Klarna
+
+(https://www.klarna.com/es/atencion-al-cliente/), por correo electrónico
+
+a service@klarna.com.es o por correo postal con la palabra clave "Queja" a la dirección de
+
+Klarna. Klarna intentará resolver la queja del Cliente lo antes posible y no más tarde de dos (2)
+
+meses desde su presentación. Si Klarna no puede resolver su queja, el Cliente puede remitir
+
+su queja a la Swedish National Board for Consumer Disputes (ARN) en Allmänna
+
+reklamationsnämnden, buzón de correos 174, 101 23 Estocolmo, Suecia. Klarna participará en
+
+dichos procedimientos y está obligado a hacerlo según la ley aplicable. La información sobre
+
+los requisitos de acceso se puede encontrar en el sitio web de ARN: http://www.arn.se. El
+
+Cliente puede presentar su disputa en cualquier idioma oficial de la Unión Europea a través de
+
+la plataforma ODR proporcionada por la Comisión Europea. La disputa se enviará a ARN. El
+
+Cliente puede encontrar la plataforma ODR aquí: https://ec.europa.eu/consumers/odr/,
+
+(búsqueda: FIN-NET).
+
+Privalia | 20
+
+
+
+Para obtener más información sobre Klarna, visite: https://www.klarna.com/es/. Encontrará más
+
+información sobre los costes aplicados por Klarna en caso de impago del Cliente y el tratamiento de
+
+datos personales realizado por Klarna en el siguiente link:
+
+
+
+https://cdn.klarna.com/1.0/shared/content/legal/terms/0/es_es/paylaterin3
 
 
 
@@ -1476,8 +1832,6 @@ Condiciones necesarias para solicitar 3x 4x Oney
 
 y con domicilio en España.
 
-Privalia | 17
-
 
 
 - El solicitante debe tener una tarjeta VISA o Mastercard, de débito o crédito, con una fecha de
@@ -1519,6 +1873,8 @@ Para usar Oney, el Cliente deberá seguir los siguientes pasos:
 - En la página de medios de pago de Privalia, el Cliente deberá seleccionar “Financiar mi compra
 
 con 3x 4x Oney”.
+
+Privalia | 21
 
 
 
@@ -1578,8 +1934,6 @@ Oney cobrará a los Clientes que usen la solución de pago aplazado un importe d
 
 (1%) por cada pago sobre el total de la compra en concepto de gastos de gestión financiados.
 
-Privalia | 18
-
 
 
 Ejemplo de financiación para compra de 300€ en 3X Oney, con unos gastos de gestión financiados del
@@ -1623,6 +1977,10 @@ Para una información más completa sobre la seguridad del Sito web y/o Apps y d
 pagos, consultar la Política de Privacidad. Asimismo, Privalia manifiesta que no tiene acceso ni
 
 almacena datos sensibles completos relativos al medio de pago utilizado por el Cliente. Únicamente la
+
+Privalia | 22
+
+
 
 entidad correspondiente procesadora del pago tiene acceso a estos datos a modo de gestión de los
 
@@ -1680,10 +2038,6 @@ presentes Condiciones de Venta Privalia acepta someterse al procedimiento de det
 
 operaciones fraudulentas antes referido, sin responsabilidad para Privalia y de la misma forma autoriza
 
-Privalia | 19
-
-
-
 a Privalia para que, una vez que el Cliente proporcione la información y documentos adicionales antes
 
 referidos, éstos sean utilizados para transacciones futuras que el mismo Cliente realice.
@@ -1693,6 +2047,30 @@ referidos, éstos sean utilizados para transacciones futuras que el mismo Client
 Es posible que, debido a la normativa aplicable, se solicite a los Clientes una doble autenticación para
 
 que Privalia pueda procesar sus pedidos.
+
+
+
+Recibos y facturas
+
+
+
+El justificante de compra estará disponible y se podrá visualizar en la sección Mi cuenta \> Mis Pedidos.
+
+Desde esta sección el Cliente también se podrá descargar la factura del pedido, si el Cliente ha
+
+especificado sus datos y la ha pedido. La tarjeta con la que se haga el pago deberá tener como entidad
+
+financiera emisora a un banco o caja de ahorros de la Unión Europea.
+
+
+
+El Cliente deberá notificar a Privalia, a través de la sección Ayuda y Contacto, cualquier cargo indebido
+
+o fraudulento en la tarjeta utilizada para compras en el Sitio Web y/o Apps, en el menor plazo de tiempo
+
+posible, con el objeto de que Privalia pueda realizar las gestiones que considere convenientes.
+
+Privalia | 23
 
 
 
@@ -1776,8 +2154,6 @@ El riesgo de los Productos (entre otros, la pérdida, menoscabo o robo) se trans
 
 del momento en que los mismos se hayan puesto a su disposición en el lugar de entrega.
 
-Privalia | 20
-
 
 
 Privalia (RII-AEE n.7733 y RII-RPA n.2278) cumple con la normativa vigente en materia de residuos
@@ -1793,6 +2169,10 @@ un centro de reciclaje local.
 El Cliente, al realizar la compra en Privalia de un aparato eléctrico y electrónico (“AEE”), podrá también
 
 solicitar la recogida gratuita de un RAEE equivalente al adquirido en Privalia. La recogida y trasporte
+
+Privalia | 24
+
+
 
 se realizará de forma que se puedan dar las condiciones óptimas para su reciclado o reutilización,
 
@@ -1840,6 +2220,14 @@ entrega dentro del horario laboral habitual.
 
 
 
+La entrega se realizará a pie de calle, salvo que se indique lo contrario en las condiciones particulares
+
+de la campaña. Con el fin de optimizar el proceso de entrega, la dirección indicada por el Cliente debe
+
+ser una dirección de entrega a la que se pueda realizar la entrega dentro del horario laboral habitual.
+
+
+
 Por el momento Privalia no realiza envíos de artículos voluminosos o de campañas específicas a
 
 Canarias. Cuando un Producto no sea entregable en Canarias, se informará a los Clientes en el
@@ -1874,8 +2262,6 @@ pedido esté en estado "Confirmado" y la campaña no excluya esta posibilidad en
 
 particulares.
 
-Privalia | 21
-
 
 
 Privalia no será responsable por los errores o perjuicios causados en la entrega cuando la dirección
@@ -1883,6 +2269,8 @@ Privalia no será responsable por los errores o perjuicios causados en la entreg
 de entrega introducida por el Cliente no exista, sea incorrecta o cuando no se cumplan los requisitos
 
 para el cambio de dirección de entrega indicados previamente.
+
+Privalia | 25
 
 
 
@@ -1948,15 +2336,7 @@ naturales desde la entrega del Producto o desde la celebración del contrato si 
 
 para comunicar su desistimiento total o parcial de la compra del Producto o la contratación del Servicio.
 
-Sin perjuicio de lo anterior, Privalia ha decidido aumentar el plazo que tiene el Cliente para ejercer su
-
-derecho de desistimiento, de manera que el Cliente dispondrá de un plazo de treinta (30) días naturales
-
-desde la entrega del Producto o desde la celebración del contrato si se trata de un Servicio, para
-
-comunicar su desistimiento total o parcial de la compra del Producto o la contratación del Servicio. Una
-
-vez finalizado el plazo de treinta (30) días naturales, Privalia no aceptará devoluciones por
+Una vez finalizado el plazo de catorce (14) días naturales, Privalia no aceptará devoluciones por
 
 desistimiento de compras de Productos o contratación de Servicios. La devolución efectuada en plazo
 
@@ -1974,8 +2354,6 @@ de 6,95€ para la Península o Baleares y 12€ para Canarias.
 
 Al momento, el sistema de Privalia no está disponible para artículos voluminosos.
 
-Privalia | 22
-
 
 
 En caso de que el Cliente haya adquirido Productos de diferentes campañas (Multicampaña) deberá
@@ -1987,6 +2365,8 @@ asumir el coste de 6,95€ por campaña.
 En caso de pedido que incluye más de un Producto, Privalia devolverá los gastos de envío solo si se
 
 devuelven todos los Productos de un pedido.
+
+Privalia | 26
 
 
 
@@ -2076,8 +2456,6 @@ Si se elige la devolución en un punto de recogida se tendrán 14 días para dej
 
 este plazo ya no se podrá devolver.
 
-Privalia | 23
-
 
 
 Una vez finalizado por el Cliente el procedimiento de devolución establecido en la sección Mi cuenta \>
@@ -2091,6 +2469,8 @@ fecha y horario en la que se producirá dicha recogida.
 Sin perjuicio del anterior procedimiento, el Cliente también podrá ejercer su derecho de desistimiento
 
 mediante el uso del formulario de desistimiento que se encuentra en la sección Ayuda y Contacto.
+
+Privalia | 27
 
 
 
@@ -2126,7 +2506,7 @@ Venta Privalia.
 
 
 
-Privalia comprobará en su almacén la adecuación del Producto devuelto, reservá ndose el derecho a
+Privalia comprobará en su almacén la adecuación del Producto devuelto, reservándose el derecho a
 
 no realizar el reembolso en caso de detectar que el Producto adquirido y el devuelto no coinciden o
 
@@ -2180,8 +2560,6 @@ que no se corresponden con el pedido realizado por el Cliente, Privalia se hará
 
 transporte de la devolución de los Productos.
 
-Privalia | 24
-
 
 
 10\. GARANTÍA DE LOS PRODUCTOS ADQUIRIDOS
@@ -2191,6 +2569,10 @@ Privalia | 24
 Los Productos disponen de la garantía legal por falta de conformidad de los mismos que se manifieste
 
 en el periodo - a partir de la fecha de entrega - previsto y de conformidad con lo establecido en la
+
+Privalia | 28
+
+
 
 normativa de aplicación para los Clientes consumidores. Respecto de los Productos de segunda mano
 
@@ -2280,10 +2662,6 @@ reemplazo del mismo, ya que su modelo de negocio no prevé una disponibilidad du
 
 No obstante, de cumplirse los requisitos indicados por la ley de consumidores vigente, Privalia restituirá
 
-Privalia | 25
-
-
-
 al Cliente una parte o la totalidad del precio del Producto no conforme, según las condiciones del
 
 Producto y como acordado con el Cliente.
@@ -2293,6 +2671,8 @@ Producto y como acordado con el Cliente.
 En relación a los Productos de carácter duradero, Privalia facilitará al Cliente los datos de contacto y
 
 la información relativa al servicio de asistencia técnica.
+
+Privalia | 29
 
 
 
@@ -2376,13 +2756,11 @@ documentan la adquisición por parte del Cliente de los Productos o Servicios y 
 
 y única voluntad de Privalia y el Cliente en relación con su objeto e invalida y sustituye cualesquiera
 
-Privalia | 26
-
-
-
 otros acuerdos o contratos, verbales o por escrito, alcanzado por las partes con anterioridad. Cualquier
 
 modificación deberá realizarse por escrito y de mutuo acuerdo entre las partes implicadas.
+
+Privalia | 30
 
 
 
@@ -2472,13 +2850,11 @@ Así mismo, en cumplimiento de lo dispuesto en la Ley de Resolución Alternativa
 
 informa a los consumidores que, como entidad adherida y en los términos del Código Ético, los
 
-Privalia | 27
-
-
-
 Usuarios podrán acudir a Confianza Online para la resolución alternativa de eventuales controversias
 
 (https://www.confianzaonline.es/consumidores/como-reclamar/formulario-reclamaciones/).
+
+Privalia | 31
 
 
 
@@ -2506,15 +2882,11 @@ CONDICIONES DE USO DE MARKETPLACE
 
 
 
-La empresa VENTE-PRIVEE.COM, S.A., con un capital social de 684.588,77 €, inscrita en el Registro
+La empresa VENTE-PRIVEE.COM, S.A., con un capital social de 684.332,35 €, inscrita en el Registro
 
 Mercantil de Bobigny bajo el número 434 317 293 y con sede social en La Plaine Saint-Denis, 93210,
 
 249 Avenue du Président Wilson (“Privalia”), pone a disposición en el sitio web www.privalia.com (y
-
-Privalia | 28
-
-
 
 sus dominios vinculados) y en las aplicaciones para smartphone, una plataforma que permite a sus
 
@@ -2529,6 +2901,8 @@ Airport Business Park - Kinsale Road - Cork - Irlanda. Amazon CS Ireland Ltd. Am
 es una empresa del grupo Amazon Web Services (AWS), con sede social en Inc. P.O/ Box 81226 -
 
 Seattle, WA 98108-1226.
+
+Privalia | 32
 
 
 
@@ -2604,8 +2978,6 @@ Condiciones de Uso Marketplace.
 
 3. CALIDAD DE INTERMEDIARIO DE PRIVALIA
 
-Privalia | 29
-
 
 
 Al realizar un pedido en el Marketplace, el Cliente compra a vendedores profesionales. Privalia
@@ -2625,6 +2997,10 @@ Privalia, por tanto, no actúa en nombre de los Vendedores ni de los Clientes y,
 no asume ninguna responsabilidad en relación con las obligaciones que correspondieran a los
 
 mismos o con las acciones que éstos lleven a cabo, aunque Privalia intentará, en la medida de lo
+
+Privalia | 33
+
+
 
 posible, encontrar una solución aceptable para las partes y asegurará cualquier derecho que el
 
@@ -2704,8 +3080,6 @@ devolución que sean de aplicación y estar conforme con las mismas para adquiri
 
 4.2.6 Cualquier Cliente que acceda al Servicio puede:
 
-Privalia | 30
-
 
 
 - efectuar un pedido con el Vendedor,
@@ -2719,6 +3093,8 @@ Privalia | 30
 pedidos” o, en su defecto, poniéndose en contacto con el Vendedor directamente desde esa
 
 misma sección indicado como motivo del contacto “Quiero recibir mi factura”.
+
+Privalia | 34
 
 
 
@@ -2802,10 +3178,6 @@ recibirá, según corresponda:
 
 - Un correo electrónico de confirmación parcial de su pedido o,
 
-Privalia | 31
-
-
-
 - Un correo electrónico de cancelación de su pedido.
 
 
@@ -2821,6 +3193,10 @@ corresponda) al Cliente.
 Una vez realizado el pedido, el Cliente no podrá cancelarlo ni modificarlo. Si el Cliente desea añadir
 
 algún otro Producto a la cesta, tendrá que realizar otra compra. Si, por el contrario, el Cliente desea
+
+Privalia | 35
+
+
 
 cancelar el pedido, podrá rechazar el paquete en el momento de la entrega o podrá proceder a su
 
@@ -2853,6 +3229,8 @@ generales de venta del Vendedor al que el Cliente ha realizado su pedido.
 El Cliente puede consultar en todo momento el estado de su pedido en el Sitio Web y/o Apps, a
 
 través de la sección “Menú \> Mis pedidos”.
+
+
 
 El Cliente puede acceder a su factura puesta a disposición por el Vendedor en el espacio “Menú \>
 
@@ -2902,10 +3280,6 @@ Privalia no será responsable en caso de que se publique, por error involuntario
 
 precio de venta al público sea manifiestamente inferior al ofrecido en el mercado en el momento de
 
-Privalia | 32
-
-
-
 la venta, de manera que la existencia de ese error fuese notoria. Privalia tampoco será responsable
 
 en caso de ventas cuyo importe final sea manifiestamente erróneo debido a errores técnicos.
@@ -2917,6 +3291,8 @@ El precio de venta no incluye los gastos de envío de los Productos, que se indi
 descriptiva de cada Producto. Estos gastos se indicarán específicamente en el momento de hacer
 
 el pago, de conformidad con lo indicado más adelante.
+
+Privalia | 36
 
 
 
@@ -3004,10 +3380,6 @@ presentes Condiciones de Uso Marketplace acepta someterse a este procedimiento, 
 
 responsabilidad para Privalia y, de la misma forma, autoriza a Privalia para que, una vez que el Cliente
 
-Privalia | 33
-
-
-
 proporcione la información y documentos adicionales antes referidos, éstos sean utilizados para
 
 transacciones futuras que el mismo Cliente realice.
@@ -3019,6 +3391,8 @@ transacciones futuras que el mismo Cliente realice.
 
 
 7.1 Condiciones de entrega
+
+Privalia | 37
 
 
 
@@ -3100,8 +3474,6 @@ momento de efectuar el pedido y de acuerdo con sus condiciones generales de vent
 
 Privalia no será responsable en caso de retraso en la entrega de un Vendedor.
 
-Privalia | 34
-
 
 
 En caso de retraso en la entrega por parte del Vendedor y de conformidad con lo dispuesto
@@ -3113,6 +3485,8 @@ de la Ley General para la Defensa de los Consumidores y Usuarios, el Cliente se 
 contacto exclusivamente con el Vendedor de los Productos de que se trate a través de la
 
 interfaz de mensajería accesible desde su espacio de seguimiento de pedidos.
+
+Privalia | 38
 
 
 
@@ -3196,8 +3570,6 @@ Vendedor" y luego "Quiero devolver un artículo". El Cliente deberá seguir el p
 
 de devolución comunicado por correo electrónico.
 
-Privalia | 35
-
 
 
 Aunque este derecho de desistimiento debe ejercerse con el Vendedor, el Servicio de Atención al
@@ -3211,6 +3583,8 @@ disponible para todas las cuestiones relacionadas con el procedimiento a seguir.
 El proceso de devolución de los Productos se realizará de conformidad con las condiciones que en
 
 cada caso determine el Vendedor.
+
+Privalia | 39
 
 
 
@@ -3286,8 +3660,6 @@ Apps y/o en las condiciones generales de venta del Vendedor que el Cliente podr�
 
 Web y/o Apps.
 
-Privalia | 36
-
 
 
 Además, Privalia invita a los Clientes a consultar las instrucciones de garantía del Vendedor
@@ -3307,6 +3679,8 @@ en contacto con el Vendedor.
 Se recuerda que la garantía comercial no priva al Cliente de las disposiciones relativas a las garantías
 
 legales, como se indica en la cláusula anterior.
+
+Privalia | 40
 
 
 
@@ -3384,8 +3758,6 @@ para las partes.
 
 11. PROPIEDAD INTELECTUAL E INDUSTRIAL
 
-Privalia | 37
-
 
 
 11.1 Cada Vendedor es titular de los derechos sobre todos los contenidos presentes en su Tienda,
@@ -3399,6 +3771,8 @@ tipo que pudiera poner a disposición en la Tienda virtual o de los Clientes a t
 
 
 Cada Vendedor es el editor de su Tienda y, como tal, responsable del espacio de ventas dedicado.
+
+Privalia | 41
 
 
 
@@ -3478,10 +3852,6 @@ plataforma Marketplace de Privalia. El servicio de atención al Cliente del Vend
 
 responsable de gestionar las incidencias y reclamaciones de los Clientes, sin perjuicio de que el
 
-Privalia | 38
-
-
-
 Servicio de Atención al Cliente de Privalia para el Sitio Web podrá intervenir oportunamente a los
 
 efectos de mediar en la obtención de soluciones para el Cliente.
@@ -3498,6 +3868,8 @@ otras comunicaciones a Privalia, el Cliente podrá ponerse en contacto con el Se
 
 Cliente de Privalia para el Sitio Web de las siguientes formas:
 
+Privalia | 42
+
 
 
 - Número de teléfono: (+34)93 553 18 05.
@@ -3508,7 +3880,7 @@ Cliente de Privalia para el Sitio Web de las siguientes formas:
 
 
 
-VENTE-PRIVEE.COM, S.A., SUCURSAL EN ESPAÑA
+VENTE-PRIVEE.COM S.A., SUCURSAL EN ESPAÑA
 
 Servicio de Atención al Cliente
 
@@ -3520,7 +3892,7 @@ España
 
 
 
-- Correo electrónico: atencionalcliente@privalia.com.
+- Correo electrónico: atencionalcliente@veepee.com.
 
 
 
@@ -3568,8 +3940,6 @@ de los Productos deberá realizarse por escrito y de mutuo acuerdo entre las par
 
 17. NULIDAD PARCIAL
 
-Privalia | 39
-
 
 
 En caso de que cualquier cláusula de las presentes Condiciones de Uso Marketplace sea declarada
@@ -3585,6 +3955,8 @@ El no ejercicio por parte de Privalia de cualquier derecho derivado de estas Con
 Marketplace no se interpretará como renuncia a dicho derecho, salvo renuncia expresa y por escrito
 
 por parte de Privalia o prescripción de la acción que en cada caso corresponda.
+
+Privalia | 43
 
 
 
@@ -3650,7 +4022,7 @@ La Comisión Europea trasladará la reclamación del Cliente a los mediadores na
 
 notificados.
 
-Privalia | 40
+Privalia | 44
 
 
 
@@ -3672,23 +4044,25 @@ VIAJE
 
 
 
-VENTE PRIVEE COM SA SUCURSAL EN ESPAÑA (en adelante, "Privalia"), la sucursal, con domicilio
+VENTE-PRIVEE.COM SA, SUCURSAL EN ESPAÑA (en adelante, "Privalia"), la sucursal, con
 
-en Rambla de la Marina, 450, 08907 L’Hospitalet de Llobregat (Barcelona),, inscrita en el Registro
+domicilio en Rambla de la Marina, 450, 08907 L’Hospitalet de Llobregat (Barcelona),, inscrita en el
 
-Mercantil de Barcelona, en el tomo 47297, folio 75, Hoja B-547694, inscripción 1ª, con número de CIF
+Registro Mercantil de Barcelona, en el tomo 47297, folio 75, Hoja B-547694, inscripción 1ª, con número
 
-W2504156G y con número de teléfono (+34) 935 53 18 06, que opera en España en nombre y por
+de CIF W2504156G y con número de teléfono (+34) 935 53 18 06, que opera en España en nombre y
 
-cuenta de la sociedad francesa VENTE PRIVEE COM, Société Anonyme con un capital de 684.588,77
+por cuenta de la sociedad francesa VENTE-PRIVEE.COM, Société Anonyme con un capital de
 
-€, inscrita en el registro comercial y de sociedades de Bobigny con el número RCS 434 317 293 y con
+684.332,35 €, inscrita en el registro comercial y de sociedades de Bobigny con el número RCS 434
 
-domicilio en 249 Avenue du President Wilson 93210 la Plaine - Saint Denis, pone a disposición en el
+317 293 y con domicilio en 249 Avenue du President Wilson 93210 la Plaine - Saint Denis, pone a
 
-sitio web www.privalia.com (y en los dominios conectados a él) y en aplicaciones para smartphone,
+disposición en el sitio web www.privalia.com (y en los dominios conectados a él) y en aplicaciones para
 
-una plataforma que permite a sus clientes comprar viajes directamente a vendedores profesionales.
+smartphone, una plataforma que permite a sus clientes comprar viajes directamente a vendedores
+
+profesionales.
 
 
 
@@ -3746,11 +4120,11 @@ Estas CGPV únicamente aplican en los casos en que los Clientes contratan Servic
 
 través de la página web del Tour Operador. No serán de aplicación en caso de que los Clientes
 
+Privalia | 45
+
+
+
 compren productos o contraten otros servicios a través del servicio de compra común de Privalia o a
-
-Privalia | 41
-
-
 
 través del servicio Marketplace; en cuyo caso, resultarían de aplicación a los Clientes las Condiciones
 
@@ -3784,7 +4158,7 @@ Ofertas se propondrá al Cliente de la siguiente manera:
 
 
 
-Unos días antes de que comience una venta privada de viajes, los Clientes, dependie ndo de cómo
+Unos días antes de que comience una venta privada de viajes, los Clientes, dependiendo de cómo
 
 tengan configurada la privacidad y su newsletter, podrán recibir un e-mail de invitación de parte de
 
@@ -3842,15 +4216,13 @@ toda responsabilidad respecto a ello a Privalia.
 
 2.5. Pago y Confirmación:
 
+Privalia | 46
+
 
 
 La reserva, el pago y la confirmación de los pedidos de Servicios Turísticos se realizarán
 
 exclusivamente en la página web del Tour Operador externo sujeto a los términos y las condiciones
-
-Privalia | 42
-
-
 
 que se establezcan en cada caso en la página web del correspondiente Tour Operador. Privalia no
 
@@ -3940,15 +4312,13 @@ por lo que Privalia no se hace responsable ni de la información contenida en lo
 
 servicios ofrecidos en ellos.
 
+Privalia | 47
+
 
 
 Privalia podrá realizar, en cualquier momento y sin necesidad de previo aviso, modificaciones y
 
 actualizaciones sobre la información y contenidos de esta Plataforma, en la configuración o
-
-Privalia | 43
-
-
 
 presentación de la misma, siempre de conformidad con lo que estipule la normativa aplicable. El acceso
 
@@ -4030,11 +4400,13 @@ la reserva, el pago, la confirmación del viaje, la gestión del pedido, la entr
 
 contabilidad, la realización de encuestas de satisfacción y/o la elaboración de estadísticas comerciales
 
+Privalia | 48
+
+
+
 anónimas. Estos datos serán recogidos y tratados directamente por el Tour operador, responsable del
 
 tratamiento.
-
-Privalia | 44
 
 
 
@@ -4126,11 +4498,13 @@ cuando estén relacionadas con este ámbito, las reclamaciones serán resueltas 
 
 Mediación de Confianza Online, acreditado para la resolución alternativa de litigios en materia de
 
+Privalia | 49
+
+
+
 consumo. Si las reclamaciones versan sobre publicidad digital, o sobre protección de datos relacionada
 
 con este ámbito, serán sometidas al Jurado de la Publicidad de AUTOCONTROL.
-
-Privalia | 45
 
 
 
@@ -4140,7 +4514,7 @@ línea de la Unión Europea siguiendo este enlace:
 
 https://ec.europa.eu/consumers/odr/main/?event=main.home2.show.
 
-Privalia | 46
+Privalia | 50
 
 
 
@@ -4152,25 +4526,25 @@ CONDICIONES GENERALES DE CUPONES RESERVA
 
 
 
-VENTE PRIVEE COM SA SUCURSAL EN ESPAÑA (en adelante, "Privalia"), la sucursal, con domicilio
+VENTE-PRIVEE. COM SA, SUCURSAL EN ESPAÑA (en adelante, "Privalia"), la sucursal, con
 
-en Rambla de la Marina, 450, 08907 L’Hospitalet de Llobregat (Barcelona),, inscrita en el Registro
+domicilio en Rambla de la Marina, 450, 08907 L’Hospitalet de Llobregat (Barcelona),, inscrita en el
 
-Mercantil de Barcelona, en el tomo 47297, folio 75, Hoja B-547694, inscripción 1ª, con número de CIF
+Registro Mercantil de Barcelona, en el tomo 47297, folio 75, Hoja B-547694, inscripción 1ª, con número
 
-W2504156G y con número de teléfono (+34) 935 53 18 06, que opera en España en nombre y por
+de CIF W2504156G y con número de teléfono (+34) 935 53 18 06, que opera en España en nombre y
 
-cuenta de la sociedad francesa VENTE PRIVEE COM, Société Anonyme con un capital de 684.588,77
+por cuenta de la sociedad francesa VENTE.PRIVEE.COM, Société Anonyme con un capital de
 
-€ inscrita en el registro comercial y de sociedades de Bobigny con el número RCS 434 317 293 y con
+684.332,35 € inscrita en el registro comercial y de sociedades de Bobigny con el número RCS 434 317
 
-domicilio en 249 Avenue du President Wilson 93210 la Plaine - Saint Denis, pone a disposición en el
+293 y con domicilio en 249 Avenue du President Wilson 93210 la Plaine - Saint Denis, pone a
 
-sitio web www.privalia.com (y en los dominios conectados a él) y en aplicaciones para smartphone,
+disposición en el sitio web www.privalia.com (y en los dominios conectados a él) y en aplicaciones para
 
-una plataforma que permite a sus clientes comprar Cupones Reserva directamente a vendedores
+smartphone, una plataforma que permite a sus clientes comprar Cupones Reserva directamente a
 
-profesionales.
+vendedores profesionales.
 
 
 
@@ -4236,7 +4610,7 @@ o recordatorio. La venta de Cupones de Reserva está reservada exclusivamente a 
 
 Promociones están disponibles en la Plataforma durante un periodo predeterminado y limitado.
 
-Privalia | 47
+Privalia | 51
 
 
 
@@ -4328,7 +4702,7 @@ Los Cupones de Reserva no son acumulables a otras promociones, cupones, vales de
 
 salvo que ello esté expresamente indicado en la descripción de la Promoción.
 
-Privalia | 48
+Privalia | 52
 
 
 
@@ -4422,7 +4796,7 @@ estarán detallados en las Condiciones Generales del Proveedor. Estos gastos deb
 
 por el Cliente en el momento del canje de los Cupones de Reserva.
 
-Privalia | 49
+Privalia | 53
 
 
 
@@ -4454,9 +4828,9 @@ posible, con el objeto de que Privalia pueda realizar las gestiones que consider
 
 
 
-Los pagos de PayPal son procesados por la empresa VENTE PRIVEE COM, Société Anonyme con un
+Los pagos de PayPal son procesados por la empresa VENTE-PRIVEE.COM, Société Anonyme con
 
-capital de 684.588,77 € inscrita en el registro comercial y de sociedades de Bobigny con el número
+un capital de 684.332,35 € inscrita en el registro comercial y de sociedades de Bobigny con el número
 
 RCS 434 317 293 y con domicilio en 249 Avenue du President Wilson 93210 la Plaine - Saint Denis
 
@@ -4522,7 +4896,7 @@ información solicitada en un plazo de 3 días laborales a partir de la llamada 
 
 electrónico, la transacción detallada en dicha comunicación y el pedido respectivo podrá ser cancelado
 
-Privalia | 50
+Privalia | 54
 
 
 
@@ -4612,11 +4986,11 @@ llegar a hasta siete (7) días naturales para las tarjetas de débito y a hasta 
 
 para las tarjetas de crédito.
 
-Privalia | 51
+Privalia | 55
 
 
 
-8. MODIFICACIÓN DE LAS CONDICIONES GENERALES CUPONES RESERVA
+8\. MODIFICACIÓN DE LAS CONDICIONES GENERALES CUPONES RESERVA
 
 
 
@@ -4710,7 +5084,7 @@ cuando estén relacionadas con este ámbito, las reclamaciones serán resueltas 
 
 Mediación de Confianza Online, acreditado para la resolución alternativa de litigios en materia de
 
-Privalia | 52
+Privalia | 56
 
 
 
@@ -4726,7 +5100,7 @@ línea de la Unión Europea siguiendo este enlace:
 
 https://ec.europa.eu/consumers/odr/main/?event=main.home2.show.
 
-Privalia | 53
+Privalia | 57
 
 
 
@@ -4738,23 +5112,23 @@ CONDICIONES GENERALES DE ROSEDEAL
 
 
 
-VENTE PRIVEE COM SA SUCURSAL EN ESPAÑA (en adelante, "Privalia"), la sucursal, con domicilio
+VENTE-PRIVEE.COM SA, SUCURSAL EN ESPAÑA (en adelante, "Privalia"), la sucursal, con
 
-en Rambla de la Marina, 450, 08907 L’Hospitalet de Llobregat (Barcelona),, inscrita en el Registro
+domicilio en Rambla de la Marina, 450, 08907 L’Hospitalet de Llobregat (Barcelona),, inscrita en el
 
-Mercantil de Barcelona, en el tomo 47297, folio 75, Hoja B-547694, inscripción 1ª, con número de CIF
+Registro Mercantil de Barcelona, en el tomo 47297, folio 75, Hoja B-547694, inscripción 1ª, con número
 
-W2504156G y con número de teléfono (+34) 935 53 18 06, que opera en España en nombre y por
+de CIF W2504156G y con número de teléfono (+34) 935 53 18 06, que opera en España en nombre y
 
-cuenta de la sociedad francesa VENTE PRIVEE COM, Société Anonyme con un capital de 684.588,77
+por cuenta de la sociedad francesa VENTE-PRIVEE.COM, Société Anonyme con un capital de
 
-€ inscrita en el registro comercial y de sociedades de Bobigny con el número RCS 434 317 293 y con
+684.332,35 € inscrita en el registro comercial y de sociedades de Bobigny con el número RCS 434 317
 
-domicilio en 249 Avenue du President Wilson 93210 la Plaine - Saint Denis, pone a disposición en el
+293 y con domicilio en 249 Avenue du President Wilson 93210 la Plaine - Saint Denis, pone a
 
-sitio web www.privalia.com (y en los dominios conectados a él) y en aplicaciones para smartphone,
+disposición en el sitio web www.privalia.com (y en los dominios conectados a él) y en aplicaciones para
 
-una plataforma que permite a sus clientes comprar Promociones Rosedeal.
+smartphone, una plataforma que permite a sus clientes comprar Promociones Rosedeal.
 
 
 
@@ -4816,7 +5190,7 @@ través de la Plataforma, desde el anuncio dedicado a la campaña en curso o a t
 
 de invitación o recordatorio. La adquisición de Promociones Rosedeal estarán debidamente
 
-Privalia | 54
+Privalia | 58
 
 
 
@@ -4912,7 +5286,7 @@ El Proveedor en tanto que es el único responsable de la comercialización de lo
 
 toda responsabilidad en cuanto a cualquier eventual acción o reclamación de los Clientes en materia
 
-Privalia | 55
+Privalia | 59
 
 
 
@@ -5000,7 +5374,7 @@ tarjeta con la que se haga el pago deberá tener como entidad financiera emisora
 
 ahorros de la Unión Europea.
 
-Privalia | 56
+Privalia | 60
 
 
 
@@ -5100,7 +5474,7 @@ Es posible que, debido a la normativa aplicable, se solicite a los Clientes una 
 
 que Privalia pueda procesar sus pedidos.
 
-Privalia | 57
+Privalia | 61
 
 
 
@@ -5144,7 +5518,7 @@ canjeada. Privalia, tras realizar las comprobaciones oportunas, gestionará la o
 
 precio mediante el mismo sistema de pago utilizado por el Cliente para su adquisición, en un plazo de
 
-cuarenta y ocho (48) horas desde la confirmación interna de que no ha sido efectivame nte canjeada.
+cuarenta y ocho (48) horas desde la confirmación interna de que no ha sido efectivamente canjeada.
 
 En cualquier caso, en un plazo no superior a catorce (14) días naturales desde que el Cliente comunicó
 
@@ -5162,7 +5536,7 @@ para las tarjetas de crédito.
 
 
 
-7. MODIFICACIÓN DE LAS CONDICIONES GENERALES ROSEDEAL
+7\. MODIFICACIÓN DE LAS CONDICIONES GENERALES ROSEDEAL
 
 
 
@@ -5196,7 +5570,7 @@ previo e indispensable a la adquisición de cualquier las Promociones Rosedeal a
 
 Plataforma.
 
-Privalia | 58
+Privalia | 62
 
 
 
@@ -5272,7 +5646,7 @@ línea de la Unión Europea siguiendo este enlace:
 
 https://ec.europa.eu/consumers/odr/main/?event=main.home2.show.
 
-Privalia | 59
+Privalia | 63
 
 
 
@@ -5284,23 +5658,23 @@ CONDICIONES GENERALES DE RE-CYCLE
 
 
 
-VENTE PRIVEE COM SA SUCURSAL EN ESPAÑA (en adelante, "Privalia"), la sucursal, con domicilio
+VENTE-PRIVEE.COM SA, SUCURSAL EN ESPAÑA (en adelante, "Privalia"), la sucursal, con
 
-en Rambla de la Marina, 450, 08907 L’Hospitalet de Llobregat (Barcelona), inscrita en el Registro
+domicilio en Rambla de la Marina, 450, 08907 L’Hospitalet de Llobregat (Barcelona), inscrita en el
 
-Mercantil de Barcelona, en el tomo 47297, folio 75, Hoja B-547694, inscripción 1ª, con número de CIF
+Registro Mercantil de Barcelona, en el tomo 47297, folio 75, Hoja B-547694, inscripción 1ª, con número
 
-W2504156G y con número de teléfono (+34) 935 53 18 06, que opera en España en nombre y por
+de CIF W2504156G y con número de teléfono (+34) 935 53 18 06, que opera en España en nombre y
 
-cuenta de la sociedad francesa VENTE PRIVEE COM, Société Anonyme con un capital de 684.588,77
+por cuenta de la sociedad francesa VENTE-PRIVEE.COM, Société Anonyme con un capital de
 
-€ inscrita en el registro comercial y de sociedades de Bobigny con el número RCS 434 317 293 y con
+684.332,35 € inscrita en el registro comercial y de sociedades de Bobigny con el número RCS 434 317
 
-domicilio en 249 Avenue du Président Wilson 93210 la Plaine - Saint Denis, pone a disposición en el
+293 y con domicilio en 249 Avenue du Président Wilson 93210 la Plaine - Saint Denis, pone a
 
-sitio web www.privalia.com (y en los dominios conectados a él) y en aplicaciones para smartphone,
+disposición en el sitio web www.privalia.com (y en los dominios conectados a él) y en aplicaciones para
 
-una plataforma que permite a sus clientes comprar Promociones Re-Cycle.
+smartphone, una plataforma que permite a sus clientes comprar Promociones Re-Cycle.
 
 
 
@@ -5368,7 +5742,7 @@ Promociones están disponibles en la Plataforma durante un periodo predeterminad
 
 Las Promociones Re-Cycle tendrán la siguiente limitación:
 
-Privalia | 60
+Privalia | 64
 
 
 
@@ -5466,7 +5840,7 @@ i. El Usuario deberá entregar el Paquete en la tienda habilitada por el Proveed
 
 en un plazo de 10 días desde la validación de la solicitud de la Promoción Re-
 
-Privalia | 61
+Privalia | 65
 
 
 
@@ -5564,7 +5938,7 @@ se realizará una comprobación de conformidad en el Formulario de Solicitud de 
 
 cumplimentado y enviado por el Usuario.
 
-Privalia | 62
+Privalia | 66
 
 
 
@@ -5646,7 +6020,7 @@ Cliente deberá ponerse en contacto con Privalia, a través de la sección “Ay
 
 
 
-8. MODIFICACIÓN DE LAS CONDICIONES GENERALES RE-CYCLE
+8\. MODIFICACIÓN DE LAS CONDICIONES GENERALES RE-CYCLE
 
 
 
@@ -5662,7 +6036,7 @@ con anterioridad. Cualquier modificación deberá realizarse por escrito y de mu
 
 partes implicadas.
 
-Privalia | 63
+Privalia | 67
 
 
 
