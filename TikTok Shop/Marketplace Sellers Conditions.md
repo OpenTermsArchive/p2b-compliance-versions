@@ -1326,7 +1326,7 @@ By accepting these Terms, You represent,warrant and undertake to TikTok that:​
 
 • You will comply with all the TikTok Shop Policies and all Applicable Laws. ​
 
-​
+• You will comply with TikTok Shop Business Partner Code of Conduct (currently available at [TikTok Shop Business Partner Code of Conduct](https://globalselling.tiktokglobalshop.com/assets/tts-business-partner-code-of-conduct-en.pdf)) and all future updates thereof, which TikTok may make in its sole discretion from time to time.​
 
 • in performing Your obligations under these Terms You shall comply with all Applicable Law relating to anti-slavery and human trafficking, including the Modern Slavery Act 2015 (“Modern Slavery Laws”). You represent and warrant, that neither You nor any of Your employees, officers, agents, representatives and/or professional advisers (“Personnel”) has: (a) committed an offence under any Modern Slavery Laws; or (b) been notified that it is subject to an investigation relating to an alleged offence or prosecution under any Modern Slavery Laws; or (c) is aware of any circumstances within its supply chain that could give rise to an investigation relating to an alleged offence or prosecution under Modern Slavery Laws. You shall notify Us immediately in writing if You become aware or have reason to believe that You and/or any of Your Personnel have breached or potentially breached any of Your obligations under this clause. Any notice shall set out full details of the circumstances concerning the breach or potential breach of Your obligations.​
 
@@ -2536,7 +2536,7 @@ Notwithstanding the remaining Terms (including without limitation Clause 5 (What
 
 ​
 
-As a condition to using the TikTok Shop, You are required to enter into a seller payment service agreement (“Seller Payment Service Agreement”) with PIPO SG: [Seller Payment Service Agreement](https://lf16-dl-sign.pipopayment.com/obj/download-center-us/26VJ2L4Ahw1vH2cj_TTS_UK_Cross_Border_PSA?x-expires=1691472022&x-signature=XssdvrNH0AamuHO90IqT8jAZR14%3D), which will stipulate the terms and conditions of the Payment Services that PIPO SG may agree to provide to You. If You do not enter into the Seller Payment Service Agreement with PIPO SG, We will not be able to provide the TikTok Shop to You, because We will not be in a position to provide any Payment Services to You, which means that You will not receive payments for Your Products sold to Buyers in the United Kingdom on the TikTok Shop. ​
+As a condition to using the TikTok Shop, You are required to enter into a seller payment service agreement (“Seller Payment Service Agreement”) with PIPO SG: [Seller Payment Service Agreement](https://seller-sg.tiktok.com/university/article/agreement?knowledge_id=10011367&identity=1), which will stipulate the terms and conditions of the Payment Services that PIPO SG may agree to provide to You. If You do not enter into the Seller Payment Service Agreement with PIPO SG, We will not be able to provide the TikTok Shop to You, because We will not be in a position to provide any Payment Services to You, which means that You will not receive payments for Your Products sold to Buyers in the United Kingdom on the TikTok Shop. ​
 
 ​
 
