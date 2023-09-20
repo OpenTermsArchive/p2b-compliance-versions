@@ -1,7 +1,7 @@
 How Bing delivers search results
 ================================
 
-Last updated: August 2023
+Last updated: September 2023
 
 _For previous versions, please see the archives  [here](https://www.bing.com/bingpolicies/archives)._
 
@@ -132,7 +132,7 @@ Generative AI Features
 
 Bing’s generative AI features include the new Bing conversational experiences and the Bing Image Creator. The conversational experiences build on the existing Bing experience to provide users with a new type of natural language search interface, built on “large language model” technology. The sources the chat response uses to form its answer are derived from the same ranking of third-party search results as the main web search results page.  These results are displayed clearly to the user giving them the opportunity to dive deeper by visiting the 3rd party site. Based on the user query or prompt, the model may also produce output that helps inspire the user’s creativity. The output can serve as the inspiration for a poem, a story, code, an essay, a song, or anything else that can be expressed in natural language or in an image, depending on the nature of a user’s request.
 
-Bing's generative AI features were developed with responsible AI in mind.  Please see [The new Bing: Our Approach to Responsible AI](https://blogs.microsoft.com/wp-content/uploads/prod/sites/5/2023/02/The-new-Bing-Our-approach-to-Responsible-AI.pdf) for more detail. User activity in these features is governed by the service’s [Terms of Use](https://aka.ms/microsoftbingtermsofuse) and Code of Conduct.
+Bing's generative AI features were developed with responsible AI in mind.  Please see [The new Bing: Our Approach to Responsible AI](https://aka.ms/responsibleAI-newBing) for more detail. User activity in these features is governed by the service’s [Terms of Use](https://aka.ms/microsoftbingtermsofuse) and Code of Conduct.
 
 ### 
 
@@ -225,7 +225,7 @@ Microsoft respects freedom of expression and the right to access information.  
 
 If Microsoft receives requests to remove content from individuals, businesses, and governments, in limited cases, where quality, safety, user demand, relevant laws, and/or public policy concerns exist, Bing might remove results, inform users of certain risks, or provide users with options for revising their content. Bing limits removal of search results to a narrow set of circumstances and conditions to avoid restricting Bing users’ access to relevant information.
 
-Below we describe the circumstances where Bing may take action on content. When search results are removed, Bing endeavors to be transparent about removal. This includes providing users with notice of removal of search results at the bottom of the page. In addition, we publish information about search results removed by Bing as part of the Microsoft [Content Removal Requests Report](https://go.microsoft.com/fwlink?LinkId=846908).
+Below we describe the circumstances where Bing may take action on content. When search results are removed, Bing endeavors to be transparent about removal. This includes providing users with notice of removal of search results at the bottom of the page. In addition, we publish information about search results removed by Bing as part of the [Microsoft Reports Hub](https://www.microsoft.com/corporate-responsibility/reports-hub), including [Copyright Content Removal Requests Report](https://www.microsoft.com/corporate-responsibility/copyright-removal-requests-report), [Right to be Forgotten Content Removal Requests Report](https://www.microsoft.com/corporate-responsibility/right-to-be-forgotten-removal-requests-report), and [Government Requests for Content Removal Report](https://www.microsoft.com/corporate-responsibility/government-content-removal-requests-report).
 
 When a potential content or conduct violation on Bing is reported, a specially trained human reviewer may look at the content and conduct. 
 
