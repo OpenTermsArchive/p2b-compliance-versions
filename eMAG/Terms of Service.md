@@ -296,9 +296,7 @@ Te rog sa parcurgi  cu privire la modalitățile de plată „Plătește peste 
 
 1. a) in orice moment din Cont:
 
-* – Clientul/Cumparatorul acceseaza Contul sau->sectiunea “Cardurile mele”->alege optiunea “Adauga card”-> e directionat in pagina de plata a procesatorului de plati unde introduce datele cardului pentru a efectua o tranzactie de 1 leu necesara validarii cardului. Dupa validarea cardului de catre banca emitenta, se activeaza automat optiunea “Plata cu 1 click” si se emite tokenul aferent cardului bancar inregistrat. Din acest moment Utilizatorul/Cumparatorul poate beneficia de optiunea “Plata cu 1 click” utilizand tokenul aferent cardului salvat pentru plata Comenzilor.
-
-Pentru evitarea oricarui dubiu, suma de 1 leu nu va fi debitata din contul Utilizatorului/Cumparatorului fiind doar blocata temporar de catre banca emitenta a cardului in vederea validarii datelor de card introduse.
+* – Clientul/Cumparatorul acceseaza Contul sau->sectiunea “Cardurile mele”->alege optiunea “Adauga card”-> introduce datele cardului pentru a valida cardul. Dupa validarea cardului de catre banca emitenta, se activeaza automat optiunea “Plata cu 1 click” si se emite tokenul aferent cardului bancar inregistrat. Din acest moment Utilizatorul/Cumparatorul poate beneficia de optiunea “Plata cu 1 click” utilizand tokenul aferent cardului salvat pentru plata Comenzilor.
 
 1. b) in momentul plasarii unei Comenzi.
 
@@ -969,9 +967,7 @@ Orice diminuare a valorii Bunurilor rezultata din manipularea acestora altele de
 
 1. a) in orice moment din Cont:
 
-* – Clientul/Cumparatorul acceseaza Contul sau->sectiunea “Cardurile mele”->alege optiunea “Adauga card”-> e directionat in pagina de plata a procesatorului de plati unde introduce datele cardului pentru a efectua o tranzactie de 1 leu necesara validarii cardului. Dupa validarea cardului de catre banca emitenta, se activeaza automat optiunea “Plata cu 1 click” si se emite tokenul aferent cardului bancar inregistrat. Din acest moment Utilizatorul/Cumparatorul poate beneficia de optiunea “Plata cu 1 click” utilizand tokenul aferent cardului salvat pentru plata Comenzilor.
-
-Pentru evitarea oricarui dubiu, suma de 1 leu nu va fi debitata din contul Utilizatorului/Cumparatorului fiind doar blocata temporar de catre banca emitenta a cardului in vederea validarii datelor de card introduse.
+* – Clientul/Cumparatorul acceseaza Contul sau->sectiunea “Cardurile mele”->alege optiunea “Adauga card”-> introduce datele cardului pentru a valida cardul. Dupa validarea cardului de catre banca emitenta, se activeaza automat optiunea “Plata cu 1 click” si se emite tokenul aferent cardului bancar inregistrat. Din acest moment Utilizatorul/Cumparatorul poate beneficia de optiunea “Plata cu 1 click” utilizand tokenul aferent cardului salvat pentru plata Comenzilor.
 
 1. b) in momentul plasarii unei Comenzi.
 
