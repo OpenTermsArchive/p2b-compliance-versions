@@ -184,7 +184,7 @@ El USUARIO manifiesta expresamente que la totalidad de contenidos facilitados a 
 
 La legitimidad de los derechos de propiedad intelectual o industrial correspondientes a los contenidos aportados por los USUARIOS es de la exclusiva responsabilidad de los mismos.
 
-A los efectos de preservar los posibles derechos de propiedad intelectual, en el caso de que cualquier USUARIO o un tercero considere que se ha producido una violación de sus legítimos derechos por la introducción de un determinado contenido en el Sitio Web, deberá notificar dicha circunstancia, por escrito, a VERTICALES INTERCOM, S.L. , Sant Cugat Trade Center Av. Corts Catalanes, 5-7 - Oficina A-0408173 Sant Cugat del Vallés (Barcelona), indicando:
+A los efectos de preservar los posibles derechos de propiedad intelectual, en el caso de que cualquier USUARIO o un tercero considere que se ha producido una violación de sus legítimos derechos por la introducción de un determinado contenido en el Sitio Web, deberá notificar dicha circunstancia, por escrito, a VERTICALES INTERCOM, S.L. , Av. Alcalde Barnils, 72, Planta Baja 08174 Sant Cugat del Vallés (Barcelona), indicando:
 
 * Datos de carácter personal identificativos del interesado titular de los derechos presuntamente infringidos. Si la reclamación la presenta un tercero distinto del interesado, deberá indicar la representación que ostenta con la que actúa.
 * Indicación de los contenidos protegidos por los derechos de propiedad intelectual y su ubicación en el web.
