@@ -2536,7 +2536,7 @@ Notwithstanding the remaining Terms (including without limitation Clause 5 (What
 
 ​
 
-As a condition to using the TikTok Shop, You are required to enter into a seller payment service agreement (“Seller Payment Service Agreement”) with PIPO SG: [Seller Payment Service Agreement](https://seller-sg.tiktok.com/university/article/agreement?knowledge_id=10011367&identity=1), which will stipulate the terms and conditions of the Payment Services that PIPO SG may agree to provide to You. If You do not enter into the Seller Payment Service Agreement with PIPO SG, We will not be able to provide the TikTok Shop to You, because We will not be in a position to provide any Payment Services to You, which means that You will not receive payments for Your Products sold to Buyers in the United Kingdom on the TikTok Shop. ​
+As a condition to using the TikTok Shop, You are required to enter into a seller payment service agreement (“Seller Payment Service Agreement”) with PIPO SG: [Seller Payment Service Agreement](http://oneunita.com/agreement/template?code=TTS_UK_Cross_Border_PSA), which will stipulate the terms and conditions of the Payment Services that PIPO SG may agree to provide to You. If You do not enter into the Seller Payment Service Agreement with PIPO SG, We will not be able to provide the TikTok Shop to You, because We will not be in a position to provide any Payment Services to You, which means that You will not receive payments for Your Products sold to Buyers in the United Kingdom on the TikTok Shop. ​
 
 ​
 
@@ -2564,7 +2564,7 @@ If you are selling Products to Buyers in the United States: ​
 
 ​
 
-As a condition to using the TikTok Shop, You are required to enter into a seller payment service agreement (“Seller Payment Service Agreement”) with PIPO SG: Seller Payment Service Agreement, which will stipulate the terms and conditions of the Payment Services that PIPO SG may agree to provide to You. If You do not enter into the Seller Payment Service Agreement with PIPO SG, We will not be able to provide the TikTok Shop to You, because We will not be in a position to provide any Payment Services to You, which means that You will not receive payments for Your Products sold to Buyers in the United States. ​
+As a condition to using the TikTok Shop, You are required to enter into a seller payment service agreement (“Seller Payment Service Agreement”) with PIPO SG: [Seller Payment Service Agreement](http://oneunita.com/agreement/template?code=TTS_UK_Cross_Border_PSA), which will stipulate the terms and conditions of the Payment Services that PIPO SG may agree to provide to You. If You do not enter into the Seller Payment Service Agreement with PIPO SG, We will not be able to provide the TikTok Shop to You, because We will not be in a position to provide any Payment Services to You, which means that You will not receive payments for Your Products sold to Buyers in the United States. ​
 
 ​
 
