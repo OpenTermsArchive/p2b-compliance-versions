@@ -430,7 +430,7 @@ Dans le cadre de son inscription et de la création de son profil, celui-ci est 
 16\. Délai de rétractation
 --------------------------
 
-Dès lors qu’il n’a effectué aucune transaction par l’intermédiaire d’AlloVoisins, ni obtenu par quelque moyen que ce soit les informations permettant de réaliser une mise en relation, ce qui constitue l'essence du service fourni par AlloVoisins, l’Utilisateur dispose de la possibilité d’exercer la faculté de rétractation prévue par le Code de la Consommation (article L 121–18 et suivants) en révoquant son inscription à tout moment et en particulier en l'espace d'un délai de QUARTOZE (14) jours à compter de la conclusion de l’inscription sans l'indication de motifs, via un formulaire disponible à l’ [ANNEXE III](#cgu-annexe_3).
+Dès lors qu’il n’a effectué aucune transaction par l’intermédiaire d’AlloVoisins, ni obtenu par quelque moyen que ce soit les informations permettant de réaliser une mise en relation, ce qui constitue l'essence du service fourni par AlloVoisins, l’Utilisateur dispose de la possibilité d’exercer la faculté de rétractation prévue par le Code de la Consommation (article L 121–18 et suivants) en révoquant son inscription à tout moment et en particulier en l'espace d'un délai de QUARTOZE (14) jours à compter de la conclusion de l’inscription sans l'indication de motifs, via un formulaire disponible à l’ [ANNEXE III](https://public-allo7.allovoisins.com/#cgu-annexe_3).
 
 La présentation de la révocation est aussi possible par courrier postal, ou courriel. L'expédition en temps voulu de la rétractation fait foi du respect du délai de rétractation
 
@@ -533,7 +533,7 @@ Le pays de l’Utilisateur et /ou le pays de l’Utilisateur avec qui il traite 
 
 La législation de ces pays peut différer du droit applicable aux présentes Conditions Générales, y compris la législation concernant les objets pouvant être légalement proposés à la location ou loués. Il peut y avoir des obligations légales supplémentaires comme (par exemple) l’obligation de détenir une autorisation de proposer une offre de biens ou de services ou de bénéficier d’une telle offre. Les Utilisateurs sont tenus de respecter en permanence toutes les lois et tous les règlements nationaux et internationaux d’application à l’utilisation des services d’AlloVoisins et aux offres. Toutes les contestations qui pourraient s'élever entre un Utilisateur et AlloVoisins à l'occasion de l'interprétation et/ou de l'exécution des présentes conditions seront soumises, à défaut d'accord amiable, à la compétence exclusive des juridictions selon les règles légales d'attribution de compétence en vigueur, c’est-à-dire le lieu du domicile de l’Utilisateur pour un non professionnel ou les tribunaux du ressort du siège d’AlloVoisins (NANTES) pour un Utilisateur professionnel.
 
-QUANT AUX CONTESTATIONS QUI POURRAIENT S'ÉLEVER ENTRE DES UTILISATEURS À L'OCCASION DE L'INTERPRÉTATION ET/OU DE L'EXÉCUTION DES PRÉSENTES CONDITIONS DANS LE CADRE DE L’EXÉCUTION D’UNE TRANSACTION ENTRE EUX SERONT SOUMISES, À DÉFAUT D'ACCORD AMIABLE, A LA COMPÉTENCE EXCLUSIVE DES JURIDICTIONS SELON LES RÈGLES LÉGALES D'ATTRIBUTION DE COMPÉTENCE EN VIGUEUR, C’EST-A-DIRE LE LIEU DU DOMICILE DE L’UTILISATEUR BÉNÉFICIAIRE OU LE LIEU D’EXÉCUTION DE LA TRANSACTION. CONFORMÉMENT A L’ARTICLE L. 111-1 DU CODE DE LA CONSOMMATION, L’UTILISATEUR EST INFORMÉ QU’IL A LE DROIT DE RECOURIR GRATUITEMENT A UN MÉDIATEUR DE LA CONSOMMATION EN VUE DE LA RÉSOLUTION AMIABLE DU LITIGE QUI L’OPPOSERAIT A ALLOVOISINS. POUR PLUS D’INFORMATION : [HTTPS://WWW.ECONOMIE.GOUV.FR/MEDIATION-CONSO](https://www.economie.gouv.fr/MEDIATION-CONSO).
+QUANT AUX CONTESTATIONS QUI POURRAIENT S'ÉLEVER ENTRE DES UTILISATEURS À L'OCCASION DE L'INTERPRÉTATION ET/OU DE L'EXÉCUTION DES PRÉSENTES CONDITIONS DANS LE CADRE DE L’EXÉCUTION D’UNE TRANSACTION ENTRE EUX SERONT SOUMISES, À DÉFAUT D'ACCORD AMIABLE, A LA COMPÉTENCE EXCLUSIVE DES JURIDICTIONS SELON LES RÈGLES LÉGALES D'ATTRIBUTION DE COMPÉTENCE EN VIGUEUR, C’EST-A-DIRE LE LIEU DU DOMICILE DE L’UTILISATEUR BÉNÉFICIAIRE OU LE LIEU D’EXÉCUTION DE LA TRANSACTION. CONFORMÉMENT A L’ARTICLE L. 111-1 DU CODE DE LA CONSOMMATION, L’UTILISATEUR EST INFORMÉ QU’IL A LE DROIT DE RECOURIR GRATUITEMENT A UN MÉDIATEUR DE LA CONSOMMATION EN VUE DE LA RÉSOLUTION AMIABLE DU LITIGE QUI L’OPPOSERAIT A ALLOVOISINS. LE MEDIATEUR DESIGNE EST : LE CENTRE DE LA MEDIATION DE LA CONSOMMATION DES CONCILIATEURS DE JUSTICE (CM2C) - 14 RUE SAINT JEAN - 75017 PARIS - CM2C@CM2C.NET - 01 89 47 00 14 TOUTE DECLARATION D’UN LITIGE ET SAISINE DU MEDIATEUR DE LA CONSOMMATION PAR LE MEDIATEUR PEUT ETRE EFFECTUEE A L’ADRESSE INTERNET SUIVANTE : [HTTPS://WWW.CM2C.NET/DECLARER-UN-LITIGE.PHP](https://www.cm2c.net/declarer-un-litige.php).
 
 Conditions particulières aux professionnels
 
@@ -579,7 +579,7 @@ L’Utilisateur qui fait appel à un professionnel dispose de QUATORZE (14) jour
 
 Ce droit de rétractation s'applique aussi aux services à condition que l’Utilisateur n’ait pas demandé expressément qu’il expire en ayant recours à ce service avant l’expiration du délai. Il s’applique également le cas échéant aux produits soldés, d'occasion ou en déstockage.
 
-Pour exercer le droit de rétractation, l’Utilisateur doit notifier sa décision de rétractation du contrat au moyen d'une déclaration dénuée d'ambiguïté (par exemple, lettre envoyée par la poste, télécopie ou courrier électronique) dans un délai de QUATORZE (14) jours à dater de la réception du produit ou du bénéfice du service. À cet effet, AlloVoisins met à disposition un formulaire de demande de rétractation (voir le formulaire en [ANNEXE III](#cgu-annexe_3)).
+Pour exercer le droit de rétractation, l’Utilisateur doit notifier sa décision de rétractation du contrat au moyen d'une déclaration dénuée d'ambiguïté (par exemple, lettre envoyée par la poste, télécopie ou courrier électronique) dans un délai de QUATORZE (14) jours à dater de la réception du produit ou du bénéfice du service. À cet effet, AlloVoisins met à disposition un formulaire de demande de rétractation (voir le formulaire en [ANNEXE III](https://public-allo7.allovoisins.com/#cgu-annexe_3)).
 
 En cas de litige sur la procédure de rétractation, il sera demandé d'apporter la preuve de cette notification. AlloVoisins conseille donc d'utiliser ce formulaire. Ce formulaire est à retourner dûment complété et signé, directement par courrier postal à l'adresse communiquée par le professionnel. L’Utilisateur peut également retrouver l'accès à ce formulaire depuis l’email de confirmation de transaction qui lui est adressé.
 
@@ -710,7 +710,7 @@ Dans le cadre des fonctionnalités de gestion des informations de contact pour l
 
 Toutefois, AlloVoisins est également amené à traiter des données à caractère personnel pour le compte des utilisateurs professionnels, en particulier dans le cadre des fonctionnalités précitées.
 
-En conséquence, AlloVoisins s’engage, dans le cadre de ses engagements sur le respect de la protection des données à caractère personnel, en tant que sous-traitant de données à caractère personnel pour le compte des utilisateurs professionnels en qualité de responsable de traitement. Les informations relatives à ces engagements sont disponibles en [ANNEXE II](#cgu-annexe_2).
+En conséquence, AlloVoisins s’engage, dans le cadre de ses engagements sur le respect de la protection des données à caractère personnel, en tant que sous-traitant de données à caractère personnel pour le compte des utilisateurs professionnels en qualité de responsable de traitement. Les informations relatives à ces engagements sont disponibles en [ANNEXE II](https://public-allo7.allovoisins.com/#cgu-annexe_2).
 
 11\. Droit applicable et compétences
 ------------------------------------
@@ -759,7 +759,7 @@ Dans le cadre de leurs relations, le Sous-Traitant s'engage à effectuer pour le
     
     * Régis Lechien, Avocat - DPO (355 rue de l’Elorn 29200 Brest
         
-    * Coordonnées à utiliser : 8 Allée Baco 44000 Nantes France
+    * Coordonnées à utiliser : 1 rue Victor Hugo 44400 Rezé France
         
     * Adresse électronique dédiée dpo@allovoisins.com
         
@@ -961,8 +961,8 @@ Il est possible que AlloVoisins mette à jour ces dernières de temps à autre a
 Historique de la politique de confidentialité et de respect de la vie privée
 ----------------------------------------------------------------------------
 
-* [Version du 17 février 2022](https://www.allovoisins.com/pdf/conditions_generales_utilisation/ALLOVOISINS_CGU_20220217.pdf)
-* [Version du 18 janvier 2022](https://www.allovoisins.com/pdf/conditions_generales_utilisation/ALLOVOISINS_CGU_20211215.pdf)
-* [Version du 15 novembre 2018](https://www.allovoisins.com/pdf/conditions_generales_utilisation/ALLOVOISINS_CGU_20181115.pdf)
-* [Version du 1er juillet 2018](https://www.allovoisins.com/pdf/conditions_generales_utilisation/ALLOVOISINS_CGU_20180701.pdf)
-* [Version du 5 décembre 2017](https://www.allovoisins.com/pdf/conditions_generales_utilisation/ALLOVOISINS_CGU_20171205.pdf)
+* [Version du 17 février 2022](https://public-allo7.allovoisins.com/pdf/conditions_generales_utilisation/ALLOVOISINS_CGU_20220217.pdf)
+* [Version du 18 janvier 2022](https://public-allo7.allovoisins.com/pdf/conditions_generales_utilisation/ALLOVOISINS_CGU_20211215.pdf)
+* [Version du 15 novembre 2018](https://public-allo7.allovoisins.com/pdf/conditions_generales_utilisation/ALLOVOISINS_CGU_20181115.pdf)
+* [Version du 1er juillet 2018](https://public-allo7.allovoisins.com/pdf/conditions_generales_utilisation/ALLOVOISINS_CGU_20180701.pdf)
+* [Version du 5 décembre 2017](https://public-allo7.allovoisins.com/pdf/conditions_generales_utilisation/ALLOVOISINS_CGU_20171205.pdf)
