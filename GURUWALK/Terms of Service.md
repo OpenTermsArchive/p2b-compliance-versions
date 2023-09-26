@@ -88,7 +88,7 @@ Por ello y en esta línea, **GURUWALK** antes de emprender este tipo de acciones
 
 #### **TERMS AND CONDITIONS APPLICABLE TO GURUWALK GUIDES**
 
-When registering as a guide on the **GURUWALK** website, you agree to the following terms and conditions applicable in your capacity as a user registered as a guide or Guru who wishes to offer your services (hereinafter, "**Guru**").
+When registering as a guide or agency on the **GURUWALK** website, you agree to the following terms and conditions applicable in your capacity as a user registered as a guide, agency or Guru who wishes to offer your services (hereinafter, "**Guru**").
 
 These terms and conditions may be updated and ratified again prior to the hosting of a tour, at any time.
 
@@ -116,6 +116,8 @@ As a **Guru**, you carry out and organize cultural, entertainment, recreation, a
     
 
 As a **Guru**, registration on this website implies that you are interested in promoting your Tours through the **GURUWALK** Platform, for their inclusion in the catalogue offerings to be booked by the **Tourist**.
+
+In the event that you are an agency or company and invite employees or collaborators to access part or all of your account, it is your responsibility to ensure that they comply with these terms and conditions, as well as the associated policies.
 
 By registering as a **Guru**, you expressly agree that you are responsible for the organisation of the various types of tours or routes, tourist safety and their physical or moral integrity, as well as the acceptance, rejection or expulsion of any tourist that may inconvenience the rest of the attendees of the tour.
 
@@ -158,7 +160,7 @@ It is not permitted to access or use the Platform for illegal or unauthorised pu
 15. Failure to comply with the rules of the Quality Policy ([Quality Policy (guruwalk.com)](https://support.guruwalk.com/portal/en/kb/articles/quality-policy) ).
 16. Failure to comply with the rules of the Tour Content policy ([Tour Content policy (guruwalk.com)](https://support.guruwalk.com/portal/en/kb/articles/content-policy-31-5-2022))
 17. Failure to pay, generating negative credits over a long period of time.
-18. Assign No-Shows to Walkers who have completed the tour. In this case the corresponding credits will be subtracted and the contract could be cancelled.
+18. Assign No-Shows to Walkers who have indeed completed the tour. In this case, credits will be deducted accordingly, with a 100% penalty, meaning that for each detected fraud, two credits will be removed. GuruWalk reserves the right to cancel the contract in the case of continued fraud.
 
 **GURUWALK** may delete or block the account of any guide that does not comply with the above conditions, without prejudice to the exercise of any judicial and/or administrative action that **GURUWALK** may take against the infringing guide. The deletion of the account will not in any case result in compensation for damages.
 
@@ -170,8 +172,8 @@ Therefore, in this regard, before undertaking these types of actions, **GURUWALK
 Without prejudice to the limitations set out in point five above, Hobby Gurus are also subject to the following limitations on the use of the **GURUWALK** platform:
 
 1. The same user is not allowed to have more than one Hobby account.
-2. No more than three tours may be created on the platform.
-3. For each Tour it will only be possible to publish two schedules per language and per day, and these schedules must be at least two hours apart.
+2. No more than two tours may be created on the platform.
+3. For each Tour it will only be possible to publish three schedules per day, and these schedules must be at least two and a half hours apart.
 4. Under no circumstances are Walkers from different tours allowed to join together in the same event.
 5. False cancellations are not allowed.
 
