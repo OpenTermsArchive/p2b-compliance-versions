@@ -28,7 +28,7 @@ In connection with using or accessing the Services, you will not:
 * post, list or upload content or items in inappropriate categories or areas on our sites;
 * breach or circumvent any laws, third-party rights or our policies;
 * sell items infringing any intellectual property rights that belong to third parties or in any other way infringe any copyright, trademark or intellectual property right that belongs to a third party;
-* use our Services if you are not able to form legally binding contracts (for example, if you are under 18 years old), or are temporarily or indefinitely suspended from using our Services;
+* use our Services if you are not able to form legally binding contracts, or are temporarily or indefinitely suspended from using our Services;
 * fail to pay for items purchased by you, unless the seller has materially changed the item’s description after you bid, a clear typographical error is made, or you cannot contact the seller (see our [**Rules for Buyers**](https://info.tradera.com/en/bids-are-binding/));
 * fail to deliver items sold by you, unless the buyer fails to comply with the posted terms in your listing or you cannot contact the buyer:
 * manipulate the price of any item or interfere with any other user’s listings;
