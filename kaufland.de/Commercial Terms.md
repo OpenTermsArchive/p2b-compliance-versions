@@ -335,7 +335,7 @@ Für den Fall, dass Zahlmethoden seitens Klarna angeboten werden, hat die Rechnu
 
 12.1.1 Im Falle der wirksamen Erklärung eines Widerrufes ist der Händler verpflichtet, die gelieferten Produkte zurückzunehmen und die Bestellung nach Erhalt der Ware unverzüglich im System des Anbieters zu stornieren, um hierdurch dem Kunden den gezahlten Kaufpreis sowie etwaige Versandkosten zu erstatten.
 
-12.1.2 Soweit die Rücksendekosten nicht vom Kunden zu tragen sind, hat der Händler diese ebenfalls zu übernehmen. Ab einem Wert des zurückgesendeten Produktes in einer Höhe von über 40,00 EUR (40,01 EUR ohne Portokosten der Hinsendung), hat der Händler die Kosten der Rücksendung zu tragen. Über diese Standard-Rücksenderegeln hinaus steht es dem Händler frei den Kunden, z.B. durch eine verlängerte Rücksendefrist oder eine kostenfreie Rücknahme, optional noch besser zu stellen.
+12.1.2 Soweit die Rücksendekosten nicht vom Kunden zu tragen sind, hat der Händler diese ebenfalls zu übernehmen. Ab einem Wert des zurückgesendeten Produktes in einer Höhe von über 40,00 EUR/990 CZK (40,01 EUR/990,01 CZK ohne Portokosten der Hinsendung), hat der Händler die Kosten der Rücksendung zu tragen. Über diese Standard-Rücksenderegeln hinaus steht es dem Händler frei den Kunden, z.B. durch eine verlängerte Rücksendefrist oder eine kostenfreie Rücknahme, optional noch besser zu stellen.
 
 12.1.3 Das Recht ggfs. entstehende Kosten, die dem Anbieter aus einer verspäteten Stornierungsanzeige oder Verzögerungen im Rücknahmeprozess entstehen, dem Händler zu berechnen, behält sich der Anbieter ausdrücklich vor. Selbiges gilt analog im Fall einer Retoure aus anderem Grund.
 
