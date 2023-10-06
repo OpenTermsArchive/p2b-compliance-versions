@@ -1,9 +1,7 @@
 Yahoo Terms of Service
 ======================
 
-**Exciting news!** Our parent company has been acquired by funds managed by affiliates of Apollo Global Management, Inc. and its consolidated subsidiaries. Read more in our [press release](https://www.yahooinc.com/press/apollo-funds-complete-acquisition-of-yahoo/). For now, the way we process your information and the company providing the sites and apps you use remain the same.
-
-_In June 2017, we announced that Yahoo and AOL joined to become a unified digital and mobile media company. We are now operating under these unified Yahoo Terms of Service. If you have a Yahoo or an AOL account, you will need to agree to these Terms. (Note, if you have not yet agreed to these Terms, the [legacy Yahoo Terms of Service](https://policies.yahoo.com/us/en/yahoo/terms/directory/registration/index.htm?redirect=no) or [legacy Oath Terms of Service](http://legal.aol.com/legacy/terms-of-service_full-terms/) (for AOL) still apply to your account.) For all Yahoo products or services that are accessed without signing into an account, the Terms below apply to those products and services effective May 25, 2018. If you are creating a new account, the Terms below apply starting today._
+_In June 2017, we announced that Yahoo and AOL joined to become a unified digital and mobile media company. We are now operating under these unified Yahoo Terms of Service. If you have a Yahoo or an AOL account, you will need to agree to these Terms. (Note, if you have not yet agreed to these Terms, the [legacy Yahoo Terms of Service](https://policies.yahoo.com/us/en/yahoo/terms/directory/registration/index.htm?redirect=no) or [legacy Oath Terms of Service](https://legal.aol.com/legacy/terms-of-service/full-terms/index.html) (for AOL) still apply to your account.) For all Yahoo products or services that are accessed without signing into an account, the Terms below apply to those products and services effective May 25, 2018. If you are creating a new account, the Terms below apply starting today._
 
 **Yahoo Terms of Service**
 
@@ -11,7 +9,7 @@ _In June 2017, we announced that Yahoo and AOL joined to become a unified digita
       
     Yahoo Inc. and all of its brands listed in Section 13 (including Yahoo and AOL brands) and the corporate entities listed in Sections 13 and Section 14 (collectively, “Yahoo”, “us,” “we” or “our”) are part of the Yahoo family of companies. Our brands, websites, apps, products, services and technologies (“Services”) are provided by the entities listed in Section 13 below. Please carefully read Sections 1 through 13, 14.1, and [14.2](#1), which are the sections that apply to you.  
       
-    By using the Services, you agree to these terms, the policies in our [Privacy Center](https://legal.yahoo.com/us/en/yahoo/privacy/index.html), and any community guidelines and supplemental terms provided to you for the Services that you use (collectively, “Terms”). Please read the Terms carefully, as they form your entire agreement with us.  
+    By using the Services, you agree to these terms and any community guidelines and supplemental terms provided to you for the Services that you use (collectively, “Terms”). Please read the Terms carefully, as they form your entire agreement with us.  
       
     **THESE TERMS CONTAIN LIMITATIONS OF** **OUR** **LIABILITY IN** **[SECTION 9](#9)****.**   
       
@@ -42,6 +40,10 @@ _In June 2017, we announced that Yahoo and AOL joined to become a unified digita
         7. make available viruses or any other computer code, files, programs or content designed to interrupt, destroy or limit the functionality of the Services or affect other users; or
             
         8. interfere with or disrupt the Services or servers, systems or networks connected to the Services in any way.
+            
+        9. access or collect data, or attempt to access or collect data, from our Services using any automated means, devices, programs, algorithms or methodologies, including but not limited to robots, spiders, scrapers, data mining tools, or data gathering or extraction tools, for any purpose without our express, prior permission.
+            
+        10. use any material or content from, including without limitation any data, (a) to create any database, archive, mobile application, data feed, widget or any other aggregated data source that competes with or constitutes a material substitute for the Services, in whole or in part, offered on any of our Services or the services offered by our data providers, or (b) to provide any service that competes with or constitutes a material substitute for our Services or data offered by Yahoo or our data providers.
             
     5. _Use of Services._ You must follow any guidelines or policies associated with the Services. You must not misuse or interfere with the Services or try to access them using a method other than the interface and the instructions that we provide. You may use the Services only as permitted by law. Unless otherwise expressly stated, you may not access or reuse the Services, or any portion thereof, for any commercial purpose.
         
@@ -75,7 +77,7 @@ _In June 2017, we announced that Yahoo and AOL joined to become a unified digita
         
 4. **Privacy and Data Protection**  
       
-    Our [Privacy Center](https://legal.yahoo.com/us/en/yahoo/privacy/index.html) explains how we treat your personal data. By using the Services, you agree to our privacy policies and that we can use your information in accordance with our privacy policies. **By using and benefitting from Yahoo's Services you recognize that personalization lies at the core of many of our services. We can only provide many of these Services by using your personal data to provide personalized content and ads. Please visit our** **[Privacy Center](https://legal.yahoo.com/us/en/yahoo/privacy/index.html)** **to learn more about personalization.**
+    Our [privacy policy](https://legal.yahoo.com/us/en/yahoo/privacy/index.html) describes who we are, what information we collect from you, how we process your information, who we share it with, and your rights under data protection laws.
     
 5. **Procedure for Copyright or Other Intellectual Property Infringement Claims**  
       
@@ -197,8 +199,6 @@ _In June 2017, we announced that Yahoo and AOL joined to become a unified digita
                 
             6. Flurry is provided by Flurry LLC
                 
-            7. As of February 1, 2023, Yahoo Finance is provided by Yahoo Finance LLC except in Canada where it is provided by Yahoo Finance Canada ULC. The following additional Terms apply to use of the Yahoo Finance Services: (i) You may not access or collect data, or attempt to access or collect data, from our Services using any automated means, devices, programs, algorithms or methodologies, including but not limited to robots, spiders, scrapers, data mining tools, or data gathering or extraction tools, for any purpose without our express, prior permission; and (ii) You may not use any material or content from Yahoo Finance, including without limitation any data, (a) to create any database, archive, mobile application, data feed, widget or any other aggregated data source that competes with or constitutes a material substitute for the Services, in whole or in part, offered on Yahoo Finance or the services offered by Yahoo Finance’s data providers, or (b) to provide any service that competes with or constitutes a material substitute for the Services or data offered on Yahoo Finance or by Yahoo Finance’s data providers.
-                
 14. **Contracting Party, Choice of Law, and Location for Resolving Disputes and Other Local Region Provisions**
     
     1. In Section 13 above, find the provider of the Services you are using. That is the provider that you are contracting with for the Services. The choice of law, the location for resolving disputes, certain defined terms (including the Applicable Yahoo Entity), and other important region specific provisions are in this Section 14. If you have any questions, please contact customer care using the contact information in the region that applies to you below.
@@ -207,7 +207,7 @@ _In June 2017, we announced that Yahoo and AOL joined to become a unified digita
         
         1. _Defined Terms_
             
-            1. Applicable Yahoo Entity: Yahoo Inc. (Address: 770 Broadway, New York, NY 10003, USA).
+            1. Applicable Yahoo Entity: Yahoo Inc., except for Yahoo Finance which is provided by Yahoo Finance LLC; AOL.com and AOL Mail which are provided by AOL Media LLC and AOL subscription offerings which are provided by AOL Member Services, LLC (Address for all entities: 770 Broadway, New York, NY 10003, USA).
                 
             2. Minimum Age:13 years old
                 
@@ -323,7 +323,7 @@ _In June 2017, we announced that Yahoo and AOL joined to become a unified digita
                 
             2. Minimum Age: 13 years old (however, if you are between 13 and 18 years old, you must have parental or legal guardian permission in order to agree with our Terms and to use the Service).
                 
-        2. _Services Provided_: OneSearch, Yahoo Mail, Yahoo Search, Yahoo News, Yahoo Finance, Yahoo Sports and Yahoo LifeStyle. If you use any of these services while you are within Brazil, or are otherwise contracting with Yahoo do Brasil Internet Ltda., the services are provided by Yahoo do Brasil Internet Ltda. The region specific provisions in Section 14.4 shall apply to such use and supersede anything to the contrary in Section 1 or Section 13(a) of these Terms.
+        2. _Services Provided_: Yahoo Mail, Yahoo Search, Yahoo Finance and OneSearch. If you use any of these services while you are within Brazil, or are otherwise contracting with Yahoo do Brasil Internet Ltda., the services are provided by Yahoo do Brasil Internet Ltda. The region specific provisions in Section 14.4 shall apply to such use and supersede anything to the contrary in Section 1 or Section 13(a) of these Terms.
             
         3. _Other Services._ Services not listed in Section 14.4(b) are not provided by Yahoo do Brasil Internet Ltda., which has no powers or capabilities to take any measures in relation to them, including accessing or disclosing user data and/or removing user generated content.
             
@@ -339,7 +339,7 @@ _In June 2017, we announced that Yahoo and AOL joined to become a unified digita
         
         1. _Defined Terms_
             
-            1. Applicable Yahoo Entity: Yahoo Canada Corp. (Address: 99 Spadina Avenue, Suite 200, Toronto, Ontario M5V 3P8).
+            1. Applicable Yahoo Entity: Yahoo Canada Corp, except for Yahoo Finance which is provided by Yahoo Finance ULC (Address: 100 University Ave., Floor 5, Toronto, Ontario M5J 1V6), AOL Mail which is provided by AOL Media LLC and AOL subscription products which are provided by AOL Member Services LLC (Address: 770 Broadway, 9th Floor, New York, NY 10003).
                 
             2. Minimum Age: Legal Age to form a binding contract in your province or territory of residence.
                 
@@ -365,7 +365,7 @@ _In June 2017, we announced that Yahoo and AOL joined to become a unified digita
             
             1. Applicable Yahoo Entity:
                 
-                1. For OneSearch, Yahoo Lifestyle, Yahoo Finance, Yahoo Mail, Yahoo News, Yahoo Search, Yahoo Sports, Yahoo TV and Yahoo Weather the Applicable Yahoo Company is Yahoo Australia Pty Ltd (Address: Level 4 West, 8 Central Avenue, Eveleigh NSW 2015, Australia) and the following terms apply: (a) the Terms and the relationship between you and Yahoo Australia Pty Ltd will be governed by the laws of the state of New South Wales without regard to its conflict of law provisions, and (b) you and Yahoo Australia Pty Ltd agree to submit to the exclusive jurisdiction of the courts of the state of New South Wales.
+                1. For OneSearch, AOL Mail, Yahoo Lifestyle, Yahoo Finance, Yahoo Mail, Yahoo News, Yahoo Search, Yahoo Sports, Yahoo TV and Yahoo Weather the Applicable Yahoo Company is Yahoo Australia Pty Ltd (Address: Level 4 West, 8 Central Avenue, Eveleigh NSW 2015, Australia) and the following terms apply: (a) the Terms and the relationship between you and Yahoo Australia Pty Ltd will be governed by the laws of the state of New South Wales without regard to its conflict of law provisions, and (b) you and Yahoo Australia Pty Ltd agree to submit to the exclusive jurisdiction of the courts of the state of New South Wales.
                     
                 2. For other services, the Applicable Yahoo Company is Yahoo Inc. (Address: 770 Broadway, New York, NY 10003, USA), and for such Services the terms of Section 14.2 (United States) apply.
                     
@@ -381,7 +381,7 @@ _In June 2017, we announced that Yahoo and AOL joined to become a unified digita
             
             1. Applicable Yahoo Entity:
                 
-                1. For OneSearch, Yahoo Mail and Yahoo Search, the Applicable Yahoo Entity is Yahoo India Private Limited (CIN: U72900MH2000PTC138698) Regd. Office: 03-106, 3rd Floor, WeWork Oberoi Commerz II, 1 Mohan Gokhale Rd, Colony No 2, Aarey Colony, Mumbai – 400 063, Maharashtra, India and the following terms apply: (a) “Minimum Age” means 13 years old, provided that if you are between 13 and 18 years of age, you must have parental or legal guardian permission to use the Services or register for an account, (b) you must be at least 13 years old in order to agree with our Terms, provided that if you are between 13 and 18 years of age, you must have parental or legal guardian permission to do so, (c) the Terms and the relationship between you and Yahoo India Private Limited will be governed by the laws of India without regard to its conflict of law provisions, and (d) you and Yahoo India Private Limited agree to submit to the exclusive jurisdiction of the courts located at Mumbai, India.
+                1. For AOL Mail, OneSearch, Yahoo Mail and Yahoo Search, the Applicable Yahoo Entity is Yahoo India Private Limited (CIN: U72900MH2000PTC138698) Regd. Office: 03-106, 3rd Floor, WeWork Oberoi Commerz II, 1 Mohan Gokhale Rd, Colony No 2, Aarey Colony, Mumbai – 400 063, Maharashtra, India and the following terms apply: (a) “Minimum Age” means 13 years old, provided that if you are between 13 and 18 years of age, you must have parental or legal guardian permission to use the Services or register for an account, (b) you must be at least 13 years old in order to agree with our Terms, provided that if you are between 13 and 18 years of age, you must have parental or legal guardian permission to do so, (c) the Terms and the relationship between you and Yahoo India Private Limited will be governed by the laws of India without regard to its conflict of law provisions, and (d) you and Yahoo India Private Limited agree to submit to the exclusive jurisdiction of the courts located at Mumbai, India.
                     
                 2. For other Services:
                     
@@ -431,7 +431,7 @@ _In June 2017, we announced that Yahoo and AOL joined to become a unified digita
             
             1. Applicable Yahoo Entity:
                 
-                1. For OneSearch, Yahoo Entertainment, Yahoo Lifestyle, Yahoo Mail, Yahoo News, Yahoo Search and Yahoo Sport the Applicable Yahoo Entity is Yahoo New Zealand Limited (Address: Level 4, Deloitte House, 20 Customhouse Quay, Wellington, 6011, New Zealand) and the following terms apply: (a) the Terms and the relationship between you and Yahoo New Zealand Limited will be governed by the laws of New Zealand without regard to its conflict of law provisions, and (b) you and Yahoo New Zealand Limited agree to submit to the exclusive jurisdiction of the courts of New Zealand.
+                1. For AOL Mail, OneSearch, Yahoo Entertainment, Yahoo Lifestyle, Yahoo Mail, Yahoo News, Yahoo Search and Yahoo Sport the Applicable Yahoo Entity is Yahoo New Zealand Limited (Address: Level 4, Deloitte House, 20 Customhouse Quay, Wellington, 6011, New Zealand) and the following terms apply: (a) the Terms and the relationship between you and Yahoo New Zealand Limited will be governed by the laws of New Zealand without regard to its conflict of law provisions, and (b) you and Yahoo New Zealand Limited agree to submit to the exclusive jurisdiction of the courts of New Zealand.
                     
                 2. For other services, the Applicable Yahoo Entity is Yahoo Inc. (Address: 770 Broadway, New York, NY 10003, USA), and for such Services the terms of Section 14.2 (United States) apply.
                     
@@ -439,13 +439,13 @@ _In June 2017, we announced that Yahoo and AOL joined to become a unified digita
                 
         2. _Customer Support_. For customer support, see [this page](https://help.yahoo.com/kb/index?locale=en_NZ&page=product&y=PROD_ACCT).
             
-    11. **Singapore (sg), Indonesia (id), Malaysia (my), Philippines (ph), Thailand (th) or Vietnam (vn)):**
+    11. **Singapore (sg), Indonesia (id), Malaysia (my), Philippines (ph), Thailand (th) or Vietnam (vn):**
         
         1. _Defined Terms_
             
             1. Applicable Yahoo Entity:
                 
-                1. For OneSearch, Yahoo Calendar, Yahoo Celebrity, Yahoo Finance, Yahoo Mail, Yahoo News, Yahoo Search, Yahoo Style, Yahoo Travel, Yahoo TV, Yahoo Weather, and Aviate the Applicable Yahoo Entity is Yahoo! Singapore Digital Marketing Pte. Ltd. (Address: 79 Robinson Road, #07-01, Singapore 068897) and the following terms apply: (a) the Terms and the relationship between you and Yahoo! Singapore Digital Marketing Pte. Ltd. will be governed by the laws of Singapore without regard to its conflict of law provisions, and (b) you and Yahoo! Singapore Digital Marketing Pte. Ltd. agree to submit to the exclusive jurisdiction of the courts of Singapore.
+                1. For AOL Mail, OneSearch, Yahoo Calendar, Yahoo Celebrity, Yahoo Finance, Yahoo Mail, Yahoo News, Yahoo Search, Yahoo Style, Yahoo Travel, Yahoo TV, Yahoo Weather, and Aviate the Applicable Yahoo Entity is Yahoo! Singapore Digital Marketing Pte. Ltd. (Address: 79 Robinson Road, #07-01, Singapore 068897) and the following terms apply: (a) the Terms and the relationship between you and Yahoo! Singapore Digital Marketing Pte. Ltd. will be governed by the laws of Singapore without regard to its conflict of law provisions, and (b) you and Yahoo! Singapore Digital Marketing Pte. Ltd. agree to submit to the exclusive jurisdiction of the courts of Singapore.
                     
                 2. For other Services:
                     
@@ -475,7 +475,7 @@ _In June 2017, we announced that Yahoo and AOL joined to become a unified digita
             
             1. Applicable Yahoo Entity:
                 
-                1. For OneSearch, Yahoo Auctions, Yahoo Autos, Yahoo Charity, Yahoo Dictionary, Yahoo Esports, Yahoo Finance, Yahoo Games, Yahoo House, Yahoo Mail, Yahoo Money, Yahoo Movies, Yahoo News, Yahoo Search, Yahoo Shopping, Yahoo Sports, Yahoo Stock, Yahoo Store Marketplace, Yahoo Style, Yahoo Travel, Yahoo TV, Yahoo Weather, and Aviate the Applicable Yahoo Entity is Yahoo! Taiwan Holdings Limited, Taiwan Branch (Address: 14F, No.66 Sanchong Rd, Nangang District, Taipei, 115, Taiwan) and the following terms apply: (a) the Terms and the relationship between you and Yahoo! Taiwan Holdings Limited, Taiwan Branch will be governed by the laws of the Republic of China (R.O.C.) without regard to its conflict of law provisions, and (b) you and Yahoo! Taiwan Holdings Limited, Taiwan Branch agree to submit to the exclusive jurisdiction of the Taipei District Court located in Taiwan, R.O.C.
+                1. For AOL Mail, OneSearch, Yahoo Auctions, Yahoo Autos, Yahoo Charity, Yahoo Dictionary, Yahoo Esports, Yahoo Finance, Yahoo Games, Yahoo House, Yahoo Mail, Yahoo Money, Yahoo Movies, Yahoo News, Yahoo Search, Yahoo Shopping, Yahoo Sports, Yahoo Stock, Yahoo Store Marketplace, Yahoo Style, Yahoo Travel, Yahoo TV, Yahoo Weather, and Aviate the Applicable Yahoo Entity is Yahoo! Taiwan Holdings Limited, Taiwan Branch (Address: 14F, No.66 Sanchong Rd, Nangang District, Taipei, 115, Taiwan) and the following terms apply: (a) the Terms and the relationship between you and Yahoo! Taiwan Holdings Limited, Taiwan Branch will be governed by the laws of the Republic of China (R.O.C.) without regard to its conflict of law provisions, and (b) you and Yahoo! Taiwan Holdings Limited, Taiwan Branch agree to submit to the exclusive jurisdiction of the Taipei District Court located in Taiwan, R.O.C.
                     
                 2. For other Services:
                     
@@ -556,4 +556,4 @@ _In June 2017, we announced that Yahoo and AOL joined to become a unified digita
         14. Additional terms for German users can be found [here](https://legal.yahoo.com/ie/de/yahoo/terms/additionalterms/index.html).
             
 
-_Last updated: 27 April, 2023_
+_Last updated: 06 October, 2023_
