@@ -1,9 +1,7 @@
 Yahoo Terms of Service
 ======================
 
-**Exciting news!** Our parent company has been acquired by funds managed by affiliates of Apollo Global Management, Inc. and its consolidated subsidiaries. Read more in our [press release](https://www.yahooinc.com/press/apollo-funds-complete-acquisition-of-yahoo/). For now, the way we process your information and the company providing the sites and apps you use remain the same.
-
-_In June 2017, we announced that Yahoo and AOL joined to become a unified digital and mobile media company. We are now operating under these unified Yahoo Terms of Service. If you have a Yahoo or an AOL account, you will need to agree to these Terms. (Note, if you have not yet agreed to these Terms, the [legacy Yahoo Terms of Service](https://policies.yahoo.com/us/en/yahoo/terms/directory/registration/index.htm?redirect=no) or [legacy Oath Terms of Service](http://legal.aol.com/legacy/terms-of-service_full-terms/) (for AOL) still apply to your account.) For all Yahoo products or services that are accessed without signing into an account, the Terms below apply to those products and services effective May 25, 2018. If you are creating a new account, the Terms below apply starting today._
+_In June 2017, we announced that Yahoo and AOL joined to become a unified digital and mobile media company. We are now operating under these unified Yahoo Terms of Service. If you have a Yahoo or an AOL account, you will need to agree to these Terms. (Note, if you have not yet agreed to these Terms, the [legacy Yahoo Terms of Service](https://policies.yahoo.com/us/en/yahoo/terms/directory/registration/index.htm?redirect=no) or [legacy Oath Terms of Service](https://legal.aol.com/legacy/terms-of-service/full-terms/index.html) (for AOL) still apply to your account.) For all Yahoo products or services that are accessed without signing into an account, the Terms below apply to those products and services effective May 25, 2018. If you are creating a new account, the Terms below apply starting today._
 
 **Yahoo Terms of Service**
 
@@ -11,7 +9,7 @@ _In June 2017, we announced that Yahoo and AOL joined to become a unified digita
       
     Yahoo Inc. and all of its brands listed in Section 13 (including Yahoo and AOL brands) and the corporate entities listed in Sections 13 and Section 14 (collectively, “Yahoo”, “us,” “we” or “our”) are part of the Yahoo family of companies. Our brands, websites, apps, products, services and technologies (“Services”) are provided by the entities listed in Section 13 below. Please carefully read Sections 1 through 13, 14.1, and [14.2](#1), which are the sections that apply to you.  
       
-    By using the Services, you agree to these terms, the policies in our [Privacy Center](https://legal.yahoo.com/us/en/yahoo/privacy/index.html), and any community guidelines and supplemental terms provided to you for the Services that you use (collectively, “Terms”). Please read the Terms carefully, as they form your entire agreement with us.  
+    By using the Services, you agree to these terms and any community guidelines and supplemental terms provided to you for the Services that you use (collectively, “Terms”). Please read the Terms carefully, as they form your entire agreement with us.  
       
     **THESE TERMS CONTAIN LIMITATIONS OF** **OUR** **LIABILITY IN** **[SECTION 9](#9)****.**   
       
@@ -42,6 +40,10 @@ _In June 2017, we announced that Yahoo and AOL joined to become a unified digita
         7. make available viruses or any other computer code, files, programs or content designed to interrupt, destroy or limit the functionality of the Services or affect other users; or
             
         8. interfere with or disrupt the Services or servers, systems or networks connected to the Services in any way.
+            
+        9. access or collect data, or attempt to access or collect data, from our Services using any automated means, devices, programs, algorithms or methodologies, including but not limited to robots, spiders, scrapers, data mining tools, or data gathering or extraction tools, for any purpose without our express, prior permission.
+            
+        10. use any material or content from, including without limitation any data, (a) to create any database, archive, mobile application, data feed, widget or any other aggregated data source that competes with or constitutes a material substitute for the Services, in whole or in part, offered on any of our Services or the services offered by our data providers, or (b) to provide any service that competes with or constitutes a material substitute for our Services or data offered by Yahoo or our data providers.
             
     5. _Use of Services._ You must follow any guidelines or policies associated with the Services. You must not misuse or interfere with the Services or try to access them using a method other than the interface and the instructions that we provide. You may use the Services only as permitted by law. Unless otherwise expressly stated, you may not access or reuse the Services, or any portion thereof, for any commercial purpose.
         
@@ -75,7 +77,7 @@ _In June 2017, we announced that Yahoo and AOL joined to become a unified digita
         
 4. **Privacy and Data Protection**  
       
-    Our [Privacy Center](https://legal.yahoo.com/us/en/yahoo/privacy/index.html) explains how we treat your personal data. By using the Services, you agree to our privacy policies and that we can use your information in accordance with our privacy policies. **By using and benefitting from Yahoo's Services you recognize that personalization lies at the core of many of our services. We can only provide many of these Services by using your personal data to provide personalized content and ads. Please visit our** **[Privacy Center](https://legal.yahoo.com/us/en/yahoo/privacy/index.html)** **to learn more about personalization.**
+    Our [privacy policy](https://legal.yahoo.com/us/en/yahoo/privacy/index.html) describes who we are, what information we collect from you, how we process your information, who we share it with, and your rights under data protection laws.
     
 5. **Procedure for Copyright or Other Intellectual Property Infringement Claims**  
       
@@ -197,8 +199,6 @@ _In June 2017, we announced that Yahoo and AOL joined to become a unified digita
                 
             6. Flurry is provided by Flurry LLC
                 
-            7. As of February 1, 2023, Yahoo Finance is provided by Yahoo Finance LLC except in Canada where it is provided by Yahoo Finance Canada ULC. The following additional Terms apply to use of the Yahoo Finance Services: (i) You may not access or collect data, or attempt to access or collect data, from our Services using any automated means, devices, programs, algorithms or methodologies, including but not limited to robots, spiders, scrapers, data mining tools, or data gathering or extraction tools, for any purpose without our express, prior permission; and (ii) You may not use any material or content from Yahoo Finance, including without limitation any data, (a) to create any database, archive, mobile application, data feed, widget or any other aggregated data source that competes with or constitutes a material substitute for the Services, in whole or in part, offered on Yahoo Finance or the services offered by Yahoo Finance’s data providers, or (b) to provide any service that competes with or constitutes a material substitute for the Services or data offered on Yahoo Finance or by Yahoo Finance’s data providers.
-                
 14. **Contracting Party, Choice of Law, and Location for Resolving Disputes and Other Local Region Provisions**
     
     1. In Section 13 above, find the provider of the Services you are using. That is the provider that you are contracting with for the Services. The choice of law, the location for resolving disputes, certain defined terms (including the Applicable Yahoo Entity), and other important region specific provisions are in this Section 14. If you have any questions, please contact customer care using the contact information in the region that applies to you below.
@@ -272,4 +272,4 @@ _In June 2017, we announced that Yahoo and AOL joined to become a unified digita
         14. Additional terms for German users can be found [here](https://legal.yahoo.com/ie/de/yahoo/terms/additionalterms/index.html).
             
 
-_Last updated: 27 April, 2023_
+_Last updated: 06 October, 2023_
