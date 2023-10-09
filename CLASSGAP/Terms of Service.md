@@ -270,13 +270,9 @@ The Student may request a full refund of the Class when:
 
 2\. The teacher does not show up at the agreed date and time.
 
-3\. The Class is cancelled up to 8 hours before its scheduled start date.
+Within these conditions, the deadline for requesting a refund will be 14 days. 
 
-4\. Within 24 hours of the Class taking place, when it is your first CLASSGAP Class and you are not satisfied with the Class received.
-
-Within these conditions, the deadline for requesting a refund will be 30 days. 
-
-After the first 30 days of purchase, no refund will be accepted, having the sole and exclusive option of refund in the form of a credit balance with a validity period of 12 months. 
+After the first 14 days of purchase, no refund will be accepted, having the sole and exclusive option of refund in the form of a credit balance with a validity period of 12 months. 
 
 The validity period for using the balance is 12 months. 
 
@@ -595,11 +591,9 @@ Teachers who wish to offer a free 20-minute lesson must have the CLASSGAP APP in
 
 4\. The Class is cancelled up to 8 hours before its scheduled start date.
 
-Within 24 hours of the Class taking place, when it is your first Class at CLASSGAP and you are not satisfied with the Class received.
+Within these conditions, the deadline for requesting a refund is 14 days. 
 
-Within these conditions, the deadline for requesting a refund is 30 days. 
-
-After the first 30 days of purchase, no refund will be accepted, having the sole and exclusive option of refund in the form of a credit balance with a validity period of 12 months. 
+After the first 14 days of purchase, no refund will be accepted, having the sole and exclusive option of refund in the form of a credit balance with a validity period of 12 months. 
 
 The validity period for using the balance is 12 months. 
 
