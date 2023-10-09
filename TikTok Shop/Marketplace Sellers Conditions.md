@@ -1,6 +1,8 @@
 SELLER TERMS OF SERVICE FOR TIKTOK SHOP
 
-Last updated: September 1, 2023 ​
+Last updated: September 1, 2023​
+
+​
 
 ​
 
@@ -331,6 +333,8 @@ In these Terms, “Applicable Data Protection Laws” means: (i) to the extent t
 ​
 
 Data TikTok Collects from You ​
+
+​
 
 ​
 
@@ -736,11 +740,7 @@ You acknowledge and agree that:​
 
 ​
 
-• ​
-
-​
-
-The trade and purchase of Partner Service are made between You and the Partner and You and the Partner shall be in strict compliance with the service contracts or other arrangements entered into between You and the Partner. TikTok (and/or any of TikTok Affiliates) is not a party to such contract, is not responsible for the provision of any Partner Services to You, and is not liable for the acts, omissions, errors, representations, warranties, negligence or breaches by You or by the Partner. We will not be responsible for any enforcement of any service contract between you and the Partner. TikTok may coordinate with You and the Partner to resolve any dispute, provided, however, that You understand that TikTok 's efforts to coordinate may have no practical or substantive effect, and that You are not entitled to request indemnification or compensation from or TikTok.​
+• The trade and purchase of Partner Service are made between You and the Partner and You and the Partner shall be in strict compliance with the service contracts or other arrangements entered into between You and the Partner. TikTok (and/or any of TikTok Affiliates) is not a party to such contract, is not responsible for the provision of any Partner Services to You, and is not liable for the acts, omissions, errors, representations, warranties, negligence or breaches by You or by the Partner. We will not be responsible for any enforcement of any service contract between you and the Partner. TikTok may coordinate with You and the Partner to resolve any dispute, provided, however, that You understand that TikTok 's efforts to coordinate may have no practical or substantive effect, and that You are not entitled to request indemnification or compensation from or TikTok.​
 
 ​
 
@@ -1326,7 +1326,11 @@ By accepting these Terms, You represent,warrant and undertake to TikTok that:​
 
 • You will comply with all the TikTok Shop Policies and all Applicable Laws. ​
 
+​
+
 • You will comply with TikTok Shop Business Partner Code of Conduct (currently available at [TikTok Shop Business Partner Code of Conduct](https://globalselling.tiktokglobalshop.com/assets/tts-business-partner-code-of-conduct-en.pdf)) and all future updates thereof, which TikTok may make in its sole discretion from time to time.​
+
+​
 
 • in performing Your obligations under these Terms You shall comply with all Applicable Law relating to anti-slavery and human trafficking, including the Modern Slavery Act 2015 (“Modern Slavery Laws”). You represent and warrant, that neither You nor any of Your employees, officers, agents, representatives and/or professional advisers (“Personnel”) has: (a) committed an offence under any Modern Slavery Laws; or (b) been notified that it is subject to an investigation relating to an alleged offence or prosecution under any Modern Slavery Laws; or (c) is aware of any circumstances within its supply chain that could give rise to an investigation relating to an alleged offence or prosecution under Modern Slavery Laws. You shall notify Us immediately in writing if You become aware or have reason to believe that You and/or any of Your Personnel have breached or potentially breached any of Your obligations under this clause. Any notice shall set out full details of the circumstances concerning the breach or potential breach of Your obligations.​
 
@@ -2196,7 +2200,7 @@ If you choose Ship by Seller, You are responsible for engaging a logistic servic
 
 ​
 
-1. Receiving payments for purchases on the TikTok Shop​
+4. Receiving payments for purchases on the TikTok Shop​
 
 ​
 
@@ -2228,7 +2232,7 @@ For the avoidance of doubt, You acknowledge and agree that while We may provide 
 
 ​
 
-2. Payment instructions​
+5. Payment instructions​
 
 ​
 
@@ -2260,7 +2264,7 @@ In this regard, You appoint us, TikTok Pte. Ltd., as Your attorney, and acknowle
 
 ​
 
-3. Deduction of payments for Creators and Us​
+6. Deduction of payments for Creators and Us​
 
 ​
 
@@ -2300,7 +2304,7 @@ For the avoidance of doubt, You acknowledge and agree that while We may provide 
 
 ​
 
-4. Language​
+7. Language​
 
 ​
 
@@ -2312,7 +2316,7 @@ For Indonesia only: You acknowledge that you fully understand the language and t
 
 ​
 
-5. Waiver​
+8. Waiver​
 
 ​
 
@@ -2320,7 +2324,7 @@ TikTok and You expressly agree to waive and set aside our respective rights and 
 
 ​
 
-6. Commercial Data Use Authorization​
+9. Commercial Data Use Authorization​
 
 ​
 
@@ -2472,7 +2476,7 @@ Sellers based in China are not required to have a Platform Account to register a
 
 ​
 
-Unless otherwise agreed between You and Us in writing in advance in accordance with below, You are required to use the logistics services provided by TikTok to deliver all Products from You to Buyers to fulfil orders placed by Buyers on TikTok Shop in Singapore, Malaysia, Thailand, the United Kingdom, Philippines, or Vietnam. Further details are set out in the [Cross-Border TikTok Shop Logistics Terms](https://seller.tiktokglobalshop.com/university/article/agreement?knowledge_id=10018990&identity=1) and, if You ship your Products from a warehouse located in Thailand, the [TikTok Shop Logistics Terms for Thailand](https://seller-th.tiktok.com/university/article/agreement?knowledge_id=10012122). You must comply with the Cross-Border TikTok Shop Logistics Terms and, if You ship your Products from a warehouse located in Thailand, the [TikTok Shop Logistics Terms for Thailand](https://seller-th.tiktok.com/university/article/agreement?knowledge_id=10012122).​
+Unless otherwise agreed between You and Us in writing in advance in accordance with below, You are required to use the logistics services provided by TikTok to deliver all Products from You to Buyers to fulfil orders placed by Buyers on TikTok Shop in Singapore, Malaysia, Thailand, the United Kingdom, Philippines, or Vietnam. Further details are set out in the Cross-Border TikTok Shop Logistics Terms (the [United Kingdom](https://seller-uk.tiktok.com/university/article/agreement?knowledge_id=10018990&identity=1), [Singapore](https://seller-sg.tiktok.com/university/article/agreement?knowledge_id=10018995&identity=1), [Malaysia](https://seller-my.tiktok.com/university/article/agreement?knowledge_id=10018993&identity=2), [the Philippines](https://seller-ph.tiktok.com/university/article/agreement?knowledge_id=10018994&identity=1), [Thailand](https://seller-th.tiktok.com/university/article/agreement?knowledge_id=10018992&identity=1), [Vietnam](https://seller-vn.tiktok.com/university/article/agreement?knowledge_id=10018996&identity=1), and the United States) and, if You ship your Products from a warehouse located in Thailand, the [TikTok Shop Logistics Terms for Thailand](https://seller-th.tiktok.com/university/article/agreement?knowledge_id=10012122). You must comply with the Cross-Border TikTok Shop Logistics Terms and, if You ship your Products from a warehouse located in Thailand, the [TikTok Shop Logistics Terms for Thailand](https://seller-th.tiktok.com/university/article/agreement?knowledge_id=10012122).​
 
 ​
 
@@ -2536,7 +2540,7 @@ Notwithstanding the remaining Terms (including without limitation Clause 5 (What
 
 ​
 
-As a condition to using the TikTok Shop, You are required to enter into a seller payment service agreement (“Seller Payment Service Agreement”) with PIPO SG: [Seller Payment Service Agreement](http://oneunita.com/agreement/template?code=TTS_UK_Cross_Border_PSA), which will stipulate the terms and conditions of the Payment Services that PIPO SG may agree to provide to You. If You do not enter into the Seller Payment Service Agreement with PIPO SG, We will not be able to provide the TikTok Shop to You, because We will not be in a position to provide any Payment Services to You, which means that You will not receive payments for Your Products sold to Buyers in the United Kingdom on the TikTok Shop. ​
+As a condition to using the TikTok Shop, You are required to enter into a seller payment service agreement (“Seller Payment Service Agreement”) with PIPO SG: [Seller Payment Service Agreement](https://lf16-dl-sign.pipopayment.com/obj/download-center-us/26VJcemt5fMrWo87_TTS_UK_Cross_Border_PSA?x-expires=1699268228&x-signature=n8n38TTauV0%2BRPgifzhbeWOSGPk%3D), which will stipulate the terms and conditions of the Payment Services that PIPO SG may agree to provide to You. If You do not enter into the Seller Payment Service Agreement with PIPO SG, We will not be able to provide the TikTok Shop to You, because We will not be in a position to provide any Payment Services to You, which means that You will not receive payments for Your Products sold to Buyers in the United Kingdom on the TikTok Shop. ​
 
 ​
 
@@ -3816,31 +3820,31 @@ Use of API​
 
 ​
 
-4 Audit ​
+3 Audit ​
 
 ​
 
-4.1 TikTok or its representatives may physically or remotely monitor and audit your use of the API and the API Data to ensure you are complying with this Schedule 3.​
+3.1 TikTok or its representatives may physically or remotely monitor and audit your use of the API and the API Data to ensure you are complying with this Schedule 3.​
 
 ​
 
-4.2 You shall keep complete and accurate records to demonstrate your compliance with this Schedule 3.​
+3.2 You shall keep complete and accurate records to demonstrate your compliance with this Schedule 3.​
 
 ​
 
-5 Security​
+4 Security​
 
 ​
 
-5.1 TikTok will implement reasonable physical, electronic and operational safety measures for the TikTok Shop ("Security Measures"). ​
+4.1 TikTok will implement reasonable physical, electronic and operational safety measures for the TikTok Shop ("Security Measures"). ​
 
 ​
 
-5.2 You acknowledge and agree that:​
+4.2 You acknowledge and agree that:​
 
 ​
 
-(a) notwithstanding the Security Measures taken by TikTok under paragraph 6.1, if a an independent software vendor obtains, uses or divulges data and information from your Account beyond the scope of the authority granted by you , it may damage your rights and interests. In such event, you may pursue legal liability against such independent software vendors. You agree to release TikTok and TikTok affliates from and hold TikTok and TikTok Affiliates harmless from any liabilities, losses or damages that may be incurred by you as a result;​
+(a) notwithstanding the Security Measures taken by TikTok under paragraph 5.1, if a an independent software vendor obtains, uses or divulges data and information from your Account beyond the scope of the authority granted by you , it may damage your rights and interests. In such event, you may pursue legal liability against such independent software vendors. You agree to release TikTok and TikTok affliates from and hold TikTok and TikTok Affiliates harmless from any liabilities, losses or damages that may be incurred by you as a result;​
 
 ​
 
@@ -3852,8 +3856,8 @@ Use of API​
 
 ​
 
-6 Intellectual Property​
+5 Intellectual Property​
 
-6.1 You acknowledge that all intellectual property rights in the TikTok Shop, TTSPC, the API and the API Data belongs and shall belong to TikTok (or its licensors) and you shall have no rights in or to the same other than the right to use it in accordance with these Terms.​
+5.1 You acknowledge that all intellectual property rights in the TikTok Shop, TTSPC, the API and the API Data belongs and shall belong to TikTok (or its licensors) and you shall have no rights in or to the same other than the right to use it in accordance with these Terms.​
 
 ​
