@@ -3,7 +3,7 @@ Conditions particulières – Vendeurs professionnels
 
 _**Version mise à jour le 24 juin 2023**_
 
-_Pour consulter la version des Conditions Particulières applicables aux Vendeurs Professionnels en vigueur du 20.05.2021 au 23.09.2021, cliquez [ici](https://fr.shopping.rakuten.com/newhelp/cpvp/%E2%80%A2http://global.fr.shopping.rakuten.com/wp-content/uploads/2023/06/2_0_CPVP_en_vigueur_entre_le_20052021_et_le23092021.pdf)._
+_Pour consulter la version des Conditions Particulières applicables aux Vendeurs Professionnels en vigueur du 20.05.2021 au 23.09.2021, cliquez [ici](https://fr.shopping.rakuten.com/cdn/legal/2.0+-+Conditions+Particuli%C3%A8res+Pro+%28r%C3%A9vis%C3%A9es+2021.05.20%29.pdf?vh=24bf95&func=proxy)._
 
 _Pour consulter la version des Conditions Particulières applicables aux Vendeurs Professionnels en vigueur du 24.09.2021 au 31.12.2022, cliquez [ici](https://global.fr.shopping.rakuten.com/wp-content/uploads/2023/06/3_0_CPVP_en_vigueur_entre_le_24092021_et_le_31122021.pdf)._
 
