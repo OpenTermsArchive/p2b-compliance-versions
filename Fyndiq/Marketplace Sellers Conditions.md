@@ -117,7 +117,15 @@ Products which Fyndiq sells on the Sites must be maintained in stock by You or Y
 
 You are responsible for direct delivery of the product to the consumer within the delivery time stated in Fyndiq's General Terms and Conditions for Consumers (or another delivery time which applies to certain products pursuant to written agreement with Fyndiq and of which the consumer has been informed prior to the purchase).
 
-You are responsible for the product until the consumer has received it. Notification to the consumer that the product has been sent or can be collected from the collection point, or the consumer's failure to collect the package, does not change Your liability.  
+You are responsible for the product until the consumer has received it. Notification to the consumer that the product has been sent or can be collected from the collection point, or the consumer's failure to collect the package, does not change Your liability.
+
+Web Scraping/crawling
+
+All automatic data collection from any of the Fyndiq-sites (fyndiq.se, fyndiq.dk, fyndiq.fi, fyndiq.no) is forbidden, including scraping and crawling, for the purpose of using the data to upload it again on the site (s). If this is discovered, you as a merchant can be fined a fee per uploaded unique article (including variations) as well as being terminated immediately.
+
+The use of automated systems or software to extract data from any Fyndiq-sites (fyndiq.se, fyndiq.dk, fyndiq.fi, fyndiq.no) for commercial purposes, (‘screen scraping’) is prohibited unless the third party has directly concluded a written license agreement with Fyndiq/CDON in which permits it access to the site (s).
+
+  
   
 **6\. Customer service and product liability**
 
