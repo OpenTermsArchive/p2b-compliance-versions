@@ -474,17 +474,7 @@ What is Affiliate Feature?​
 
 ​
 
-​
-
-​
-
 Affiliate Feature is a feature of the TikTok Shop to allow Sellers to set either public or targeted promotion plans and connect with TikTok creators (“Creator(s)”) for the promotion of a Seller’s Products on the Platform (collectively, the “Creator Services”).​
-
-​
-
-​
-
-​
 
 ​
 
@@ -492,17 +482,7 @@ You understand that Affiliate Feature is provided solely to allow You to connect
 
 ​
 
-​
-
-​
-
-​
-
 Your use of Affiliate Feature for any other purpose is prohibited, and may result in termination of Your access to the Affiliate Feature, TikTok Shop and/or the Platform.​
-
-​
-
-​
 
 ​
 
@@ -514,15 +494,7 @@ Your engagement with Creators via the Affiliate Feature will be subject to the m
 
 ​
 
-​
-
-​
-
 You must ensure that all Creator Content You commission: (i) is labelled as an ad or with an appropriate commercial disclosure; (ii) uses Our available ad labelling functionality; and (iii) complies with all Applicable Laws, regulations, codes of conduct and relevant policies on advertising disclosures.​
-
-​
-
-​
 
 ​
 
