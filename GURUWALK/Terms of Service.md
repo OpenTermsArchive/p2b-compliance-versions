@@ -160,7 +160,7 @@ It is not permitted to access or use the Platform for illegal or unauthorised pu
 15. Failure to comply with the rules of the Quality Policy ([Quality Policy (guruwalk.com)](https://support.guruwalk.com/portal/en/kb/articles/quality-policy) ).
 16. Failure to comply with the rules of the Tour Content policy ([Tour Content policy (guruwalk.com)](https://support.guruwalk.com/portal/en/kb/articles/content-policy-31-5-2022))
 17. Failure to pay, generating negative credits over a long period of time.
-18. Assign No-Shows to Walkers who have indeed completed the tour. In this case, credits will be deducted accordingly, with a 100% penalty, meaning that for each detected fraud, two credits will be removed. GuruWalk reserves the right to cancel the contract in the case of continued fraud.
+18. Assign No-Shows to Walkers who have indeed completed the tour. If the system detects wrong doing when marking no shows on a recurring basis (no shows must ONLY be used for people who do not attend the tour at all, not for those who don´t pay or leave mid tour), the credits corresponding to the no shows marked, will not be refunded for a period of 30 days. Once this minimum of 30 days has elapsed, and in case of detecting a good use of the no show system, the PRO account will be able to return to its initial operation.
 
 **GURUWALK** may delete or block the account of any guide that does not comply with the above conditions, without prejudice to the exercise of any judicial and/or administrative action that **GURUWALK** may take against the infringing guide. The deletion of the account will not in any case result in compensation for damages.
 
