@@ -276,7 +276,7 @@ In all circumstances, TikTok will not:​
 
 • be responsible for the procurement or provision of the Creator Services between You and Creator and any contract between You and Creator;​
 
-• be responsible for any liability or enforcement under any contract between You and the Creator；or​
+• be responsible for any liability or enforcement under any contract between You and the Creator; or​
 
 • be responsible for any disputes you may have with Creators beyond enforcement of Creator Terms.​
 
