@@ -151,7 +151,7 @@ _In June 2017, we announced that Yahoo and AOL joined to become a unified digita
         
     2. _Modification of the Terms_. Unless stated differently for your country in Section 14, we may modify the Terms from time to time. Unless we indicate otherwise, modifications will be effective as of the date they are posted on this page or any successor page. You should look at the Terms regularly. We will provide notice (in accordance with Section 3(c) above) of material modifications.
         
-    3. _Continued Use of the Services_. You may stop using the Services at any time, but your continued use of or subscription to a Service after the effective date of any modifications to the Terms or the means that you agree to the Terms as modified.
+    3. _Continued Use of the Services_. You may stop using the Services at any time, but your continued use of or subscription to a Service after the effective date of any modifications to the Terms means that you agree to the Terms as modified.
         
     4. _Waiver and Severability of Terms_. Our failure to exercise or enforce any right or provision of these Terms will not constitute a waiver of such right or provision. If any provision (or part of a provision) of these Terms is found to be invalid, you and we nevertheless agree to give effect to the intentions as reflected in the provision, and the other provisions of these Terms remain in full force and effect.
         
