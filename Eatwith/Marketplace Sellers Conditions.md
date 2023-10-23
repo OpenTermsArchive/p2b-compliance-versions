@@ -190,12 +190,13 @@ In addition you agree:
 Not to offer accommodation to your Guests as part of a Eatwith Invitation.
 
 **5.8** **Host's presence at the event**  
-  
+​  
 You as the host mentioned on the Eatwith platform, should be present at the event. If you can't for any reason, you should notice the guests and give them the option to cancel the booking regardless the cancellation policy.
 
 **5.9**  **Bypassing and payments that are not through the Eatwith platfrom**
 
 You agree to not pass on any (part of the) Commission or turnover to users/guest or offers prospects of this, or of a discount or cash back.  
+​
 
 **6\. Responsibility – Insurance**
 
