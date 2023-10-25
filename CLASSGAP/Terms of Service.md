@@ -571,6 +571,8 @@ Packages will be for a minimum of 5 hours, and must be spent in 1 hour classes. 
 
 Once one or more classes of a package have been completed, no refunds will be given, except in cases where the teacher certifies that he/she is unable to continue teaching.
 
+A charge of €0.70 will be added for the use of the platform resources. Non-refundable amount
+
 12\. Free 20 minute lessons
 
 Teachers may optionally offer students a 20 minute trial lesson. Students may book a 20-minute trial lesson free of charge with those teachers who have this option.
