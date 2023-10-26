@@ -123,7 +123,7 @@ Last updated on November 2020
         
         6. Identify the copyrighted work that you claim has been infringed, or - if multiple copyrighted works are covered by your Notice - you may provide a representative list of the copyrighted works that you claim have been infringed.
         7. Deliver this Notice, with all items completed, to Aptoide’s Designated Copyright Agent:
-            1. Copyright Agent: Aptoide Team Organization: Aptoide, S.A. Address: Rua Soeiro Pereira Gomes, Lote 1, 3D, 1649-031 Lisboa, Portugal E-mail: Telephone: +351 913423006
+            1. Copyright Agent: Aptoide Team Organization: Aptoide, S.A. Address: Rua Soeiro Pereira Gomes, Lote 1, 3D, 1649-031 Lisboa, Portugal E-mail: [abuse.report@aptoide.com](mailto:abuse.report@aptoide.com?subject=Abuse%20Report) Telephone: +351 913423006
             2. We may, in appropriate circumstances, disable or terminate the accounts of users who may be repeat infringers. This process does not limit our ability to pursue any other remedies we may have to address suspected infringement.
 11. 11\. Personal Data
     ==================
