@@ -1,10 +1,10 @@
 MICROSOFT STORE
 
-Version 8.8
+Version 8.9
 
-Publish Date: June 16, 2022
+Publish Date: Oct 30, 2023
 
-Effective Date: July 16, 2022
+Effective Date: Nov 30, 2023
 
 
 
@@ -56,11 +56,11 @@ your Store Account.
 
 
 
-b. "Affiliate" means any legal entity that owns, is owned by, or is
+b. "Affiliate" means any legal entity that owns, is owned by, or is commonly
 
-commonly owned with a party. "Own" means more than 50% ownership or the right to direct
+owned with a party. "Own" means more than 50% ownership or the right to direct the
 
-the management of the entity.
+management of the entity.
 
 
 
@@ -118,9 +118,9 @@ Net Receipts for an App or In-App Product which will be retained by Microsoft fo
 
 of transactions in certain countries or regions The Commerce Expansion Adjustment will be
 
-equal to: (i) 10% for all transactions that are completed by Customers using a gift card or mobile
+equal to: (i) 10% for all transactions that are completed by Customers using a gift card or
 
-operator billing as their form of payment; or (ii) as specified at
+mobile operator billing as their form of payment; or (ii) as specified at
 
 http://go.microsoft.com/fwlink/p/?linkid=248127 (which terms may be updated from time to
 
@@ -138,17 +138,17 @@ services for the Store.
 
 j. "Customer" means any end user customer of the Store who seeks or
 
-acquires an App or In-App Product, regardless of whether such Customer pays a fee to obtain
+acquires an App or In-App Product, regardless of whether such Customer pays a fee to
 
-the App or In-App Product.
+obtain the App or In-App Product.
 
 
 
 k. "Documentation" means Partner Center and the Certification
 
-Requirements, and such other Store materials and information Microsoft makes available to
+Requirements, and such other Store materials and information Microsoft makes available
 
-developers from time to time.
+to developers from time to time.
 
 
 
@@ -198,9 +198,9 @@ p. "In-App Product" means a supplementary digital item including
 
 downloadable additional content for an App that is offered to a Customer for acquisition
 
-through the Store, whether on a fixed or recurring basis; after an In -App Product is acquired by
+through the Store, whether on a fixed or recurring basis; after an In -App Product is acquired
 
-a Customer, it is delivered to the App by the developer.
+by a Customer, it is delivered to the App by the developer.
 
 
 
@@ -296,9 +296,7 @@ named, through which Apps and In-App Products may be offered to or acquired by C
 
 Unless otherwise specified, Store includes the Microsoft Store, the Windows Store, the Xbox
 
-Store, Microsoft Store for Business, Microsoft Store for Education, and the Microsoft Edge Add-
-
-ons site.
+Store, and the Microsoft Edge Add- ons site.
 
 
 
@@ -310,11 +308,11 @@ includes a user name and password.
 
 bb. "Store Fee" means the percentage of Net Receipts for an App or In-App
 
-Product which is retained by Microsoft as a fee for making the App or In -App Product available
+Product which is retained by Microsoft as a fee for making the App or In -App Product
 
-in the Store and providing the services set out in this Agreement other than those covered by
+available in the Store and providing the services set out in this Agreement other than those
 
-the Account Fee or any other separately identified fee.
+covered by the Account Fee or any other separately identified fee.
 
 
 
@@ -336,25 +334,7 @@ Apps.
 
 
 
-ff. "Microsoft Store for Business" means a program, however named, offered
-
-by Microsoft to Organizations to acquire and initiate distribution of Apps and In -App Products
-
-for use by authorized employees, agents and members of each Organization.
-
-
-
-gg. "Microsoft Store for Education" means a program, however named,
-
-offered by Microsoft to Educational Institutions to acquire and initiate distribution of Apps and
-
-In-App Products for use by authorized employees, agents and members of each such
-
-Educational Institution.
-
-
-
-hh. "Xbox Live Services" means those online gaming features that Microsoft
+ff. "Xbox Live Services" means those online gaming features that Microsoft
 
 makes available via its Xbox Live SDK for Windows.
 
@@ -366,9 +346,23 @@ open a Store Account through Partner Center. Microsoft may verify information yo
 
 you set up your Store Account. You may be required to pay an Account Fee to submit your App
 
-for Certification. Microsoft may use the contact information you provide with your Store Account
+for Certification. If your intended distribution of Apps or In-App Products through the Microsoft
 
-to send you newsletters and information regarding events, contests, promotions, and the like. You
+Store is in relation to your business, trade, or profession, your Store Account must be a Company
+
+account type. By choosing an Individual or Company account type during the Store Account sign-
+
+up process, you thereby declare such status. Please review additional information on Store
+
+Account account types at the following link: https://learn.microsoft.com/en-
+
+us/windows/apps/publish/partner-center/account-types-locations-and-fees. Microsoft will use
+
+the email address associated with your Store Account to inform you about updates, changes, or
+
+issues regarding your Store Account, Apps and In-App Products, this Agreement, and other
+
+information. It is your responsibility to ensure that such contact information is kept current. You
 
 agree that Microsoft may publicly display in the Store the email address that you provide in
 
@@ -402,15 +396,19 @@ Apps and In-App Products from the Store, delete App ratings and reviews, retain 
 
 Account Fees (if any), and pursue any other remedies available to Microsoft (including, where
 
-appropriate, the retention of any App Proceeds otherwise owed to you). When Microsoft revokes
+appropriate, the retention of any App Proceeds otherwise owed to you). In deciding whether to
 
-or suspends your Store Account you will receive a written notice of such revocation or suspension
+take such actions, Microsoft will consider the severity of any violations, number of previous
 
-that provides you with an opportunity to respond to Microsoft and ask for reinstatement of your
+violations, proportionality of violations to other Store activity, and the fundamental rights of all
 
-Store Account. All such reinstatement requests should be sent to the following internal complaint-
+parties involved. When Microsoft revokes or suspends your Store Account you will receive a
 
-handling address: reportapp@microsoft.com.
+written notice of such revocation or suspension that provides you with an opportunity to respond
+
+to Microsoft and ask for reinstatement of your Store Account. All such reinstatement requests
+
+should be sent to the following internal complaint-handling address: reportapp@microsoft.com.
 
 
 
@@ -422,9 +420,9 @@ a. Submission. You must submit to Microsoft each App and the metadata for
 
 each In-App Product that you wish to make available through the Store, including any updates to
 
-each App. You are solely responsible and liable for the App and In-App Products you submit.
+each App. You are solely responsible and liable for the App and In-App Products you submit. You
 
-You are responsible for supporting your App and for delivering and supporting your In -App
+are responsible for supporting your App and for delivering and supporting your In -App
 
 Products. Microsoft will retain (or destroy) all copies of the App and other materials you submit.
 
@@ -460,17 +458,21 @@ App on Windows 8, Windows 10, or successor operating system.
 
 ii. Side-loading. If Microsoft offers a "device unlock" service, however
 
-named, you may use such service to unlock a reasonable number of
+named, you may use such service to unlock a reasonable number
 
-Windows Devices, in accordance with any specifications and
+of Windows Devices, in accordance with any specifications and
 
 technical limitations of the service, solely for the purpose of using
+
+6
+
+
 
 such unlocked Windows Devices to test and evaluate your Apps
 
 and/or In-App Products. For purposes of this section, "unlock"
 
-6
+7
 
 
 
@@ -532,9 +534,9 @@ available at http://go.microsoft.com/fwlink/p/?LinkID=224390.
 
 h. App Availability. Microsoft has no obligation to make available any App or
 
-In-App Product that you submit or to maintain the availability of the App or In -App Product, even
+In-App Product that you submit or to maintain the availability of the App or In -App Product,
 
-if that App has been Certified.
+even if that App has been Certified.
 
 
 
@@ -546,17 +548,7 @@ placement or promotion of Apps anywhere in the Store.
 
 
 
-j. Enterprise Apps. If you provide any Enterprise App(s) (as defined in
-
-Exhibit B) to your Personnel (as defined in Exhibit B) directly (as opposed to acquiring and
-
-distributing Apps to users through the Microsoft Store for Business and Microsoft Store for
-
-Education), you are subject to and agree to the terms set forth in Exhibit B to this Agreement.
-
-
-
-k. Promotional Codes. If you select the Promotional Code offer in Partner
+j. Promotional Codes. If you select the Promotional Code offer in Partner
 
 Center, then you grant Microsoft, its agents, Affiliates, licensees and retail partners the right to
 
@@ -566,7 +558,7 @@ of Promotional Codes. You may not offer or distribute Promotional Codes in any m
 
 as follows:
 
-7
+8
 
 
 
@@ -618,7 +610,7 @@ App within 60 days of release of the content.
 
 
 
-l. Removal Policies. Microsoft may remove or suspend the availability of any
+k. Removal Policies. Microsoft may remove or suspend the availability of any
 
 App or In-App Product from the Store for any reason. Reasons may include, without limitation, (i)
 
@@ -628,45 +620,59 @@ this Agreement or of the license grants associated with an App or In -App Produc
 
 or claim that your App or In-App Product infringes the intellectual property rights of a third party;
 
-(iv) an assertion by a mobile network operator that your App or In-App Product causes harm to
+(iv) an assertion by a mobile network operator that your App or In-App Product causes harm to the
 
-the operator's network; (v) an assertion by a mobile network operator that your App is already
+operator's network; (v) an assertion by a mobile network operator that your App is already
 
 provided under an agreement between you and a mobile operator, (vi) complaint(s) about the
 
 content or quality of your App or In-App Product, or (vii) your actual or potential violation of any
 
-applicable federal or state advertising or pricing law, regulation, or regulatory guideline. Microsoft
+applicable law, regulation, or regulatory guideline. Microsoft also may disable previously
 
-also may disable previously downloaded copies of an App or In-App Product if Microsoft believes
+downloaded copies of an App or In-App Product if Microsoft believes that the App or In-App
 
-that the App or In-App Product could cause harm to end users or their devices, third parties
+Product could cause harm to end users or their devices, third parties (including any Covered
 
-(including any Covered Parties) or any network, or to comply with any judicial process, government
+Parties) or any network, or to comply with any legal requirement, government order, or lawsuit
 
-order or lawsuit settlement. Unless your App or In-App Product that accrued App Proceeds is
+settlement. Unless your App or In-App Product that accrued App Proceeds is removed or disabled
 
-removed or disabled for breach of the terms of this Agreement or the Documentation, or in
+for breach of the terms of this Agreement or the Documentation, or in response to an
 
-response to an infringement allegation, Microsoft will pay to you the amounts owed, if any, in
+infringement allegation, Microsoft will pay to you the amounts owed, if any, in connection with the
 
-connection with the distribution of your App or In-App Product that accrued App Proceeds before
+distribution of your App or In-App Product that accrued App Proceeds before removal or
 
-removal or disablement. Microsoft's termination and suspension rights are without prejudice to its
+disablement. Microsoft's termination and suspension rights are without prejudice to its other rights
 
-other rights and remedies. When Microsoft removes or suspends the availability of your App or In-
+and remedies.
 
-App Product you will receive a written notice of such removal or suspension that provides you with
+l. Complaint Handling (Appeals). When Microsoft (i) terminates, removes or
 
-an opportunity to respond to Microsoft and ask for reinstatement of your App or In-App Product.
+suspends the availability of your Store Account, App, or In- App Product; (ii) declines to Certify
 
-All such reinstatement requests should be sent to the following address:
+your App or In-App Product; or (iii) declines to remove or suspend the availability of a third
 
-reportapp@microsoft.com.
+party’s Store Account, App, or In-App Product in response to a claim made by you in accordance
 
-8
+9
 
 
+
+with Section 3(g) above or other claim of illegal content: you will receive a written notice of such
+
+decision that provides you with the reasons for such decision by Microsoft and an opportunity to
+
+ask Microsoft for reconsideration of the decision. All such appeals should be sent to the following
+
+email address: reportapp@microsoft.com. Microsoft will conduct a diligent, objective, and
+
+proportionate review of such appeals, with due regard to the fundamental rights of all parties
+
+involved. Microsoft will conduct such review or notify you of its status within 10 business days,
+
+and Microsoft will inform you by email of its final decision and the reasons for it.
 
 m. Modification or Discontinuance. The Store and Partner Center are the
 
@@ -724,9 +730,9 @@ and (iii) Microsoft will make payments to you in accordance with Section
 
 mobile operators as sub-agents and also grant any Microsoft Affiliates
 
-appointed by Microsoft as sub-agents the right to appoint other
+appointed by Microsoft as sub-agents the right to appoint other Microsoft
 
-Microsoft Affiliates as sub-agents.
+Affiliates as sub-agents.
 
 
 
@@ -748,6 +754,10 @@ commissionaire, as applicable, and solely to the extent required to allow
 
 Microsoft to manage the local tax collection requirements in Australia with
 
+10
+
+
+
 respect to the purchase of your App or In-App Products by an Australian
 
 Customer, to Microsoft Regional Sales Corporation, located at 438B
@@ -762,7 +772,7 @@ may be) agree for the purposes of Section 84-60 of the AU GST Act that:
 
 (I)Section 84-55 of the AU GST Act applies to sales of your Apps or In -
 
-9
+11
 
 
 
@@ -836,11 +846,11 @@ treating MSNZ as if it were the principal for the purpose of the supply. MRS
 
 and MSNZ will charge Store Fees to VAT/GST registered developers and any
 
-other developer identified as a business. Microsoft or its Affiliates will
+other developer identified as a business. Microsoft or its Affiliates will charge
 
-charge Store Fees to developers not identified as being VAT/GST registered
+Store Fees to developers not identified as being VAT/GST registered to
 
-to ensure compliance with VAT rules in countries other than New Zealand.
+ensure compliance with VAT rules in countries other than New Zealand.
 
 Where applicable, the terms used in this sub-section, but not otherwise
 
@@ -858,7 +868,7 @@ accordance with the applicable Documentation and pursuant to an
 
 appropriate agreement between you and the designated OEM or mobile
 
-10
+12
 
 
 
@@ -954,7 +964,7 @@ e. Removing an App Listing. If you use the functionality in Partner Center to
 
 request that Microsoft remove your App or In-App Product from availability in the Store (which
 
-11
+13
 
 
 
@@ -1048,7 +1058,7 @@ provide to Microsoft. If you do not provide such materials, then the Standard Ap
 
 Terms will apply between you and Customers of your App or In-App Product, as applicable for the
 
-12
+14
 
 
 
@@ -1102,49 +1112,11 @@ and will control any legal action concerning the Microsoft Marks.
 
 
 
-k. Microsoft Store for Business and Microsoft Store for Education. Unless you
-
-use the functionality in Partner Center to decline participation in Microsoft Store for Business
-
-and Microsoft Store for Education, then you agree to the following additional terms: (i) you
-
-grant Microsoft the worldwide right to make your App(s) and In -App Product available to
-
-Organizations to download, whether distributed via a version of the Store hosted by Microsoft,
-
-via a web site hosted by the Organization, or otherwise; (ii) when an Organization acquires your
-
-App or In-App Product, you grant the licenses described in Section 4( i), in the quantity acquired,
-
-to the Organization, and you authorize the Organization to assign, revoke, and reassign those
-
-licenses to users who are authorized employees, agents, or members of the same Organization;
-
-(iii) any license agreement you provide to an Organization for your App(s) or In-App Product
-
-shall not conflict with the foregoing grant of rights or the minimum number of permitted
-
-devices per user in Section 4(i), and you acknowledge that each Organization licensee is a third
-
-party beneficiary to this section of the Agreement; and (iv) you acknowledge that Microsoft
-
-cannot ensure Organizations will comply with the terms of your license agreement for your
-
-App(s) or In-App Product, including, but not limited to, any limits on installation and limits on
-
-use of App(s) or In-App Product in certain geographic markets, even if you use functionality in
-
-Partner Center to limit availability of your App(s) and In-App Products to a specific set of
-
-geographic markets.
-
-
-
 5. APP REQUIREMENTS. Each App or In-App Product you submit to Microsoft for
 
 distribution through the Store must meet the following requirements:
 
-13
+15
 
 
 
@@ -1164,15 +1136,25 @@ Assets and App content are available. This includes: (i) all Data Protection Law
 
 relating to collection and use of Personal Information by you or your App, (ii)
 
-telecommunications laws, (iii) content ratings regulations, (iv) consumer protection and
+telecommunications laws, (iii) content ratings regulations, (iv) consumer protection and marketing
 
-marketing laws, including laws that prohibit direct exhortations to children to buy advertised
+laws, including laws that prohibit direct exhortations to children to buy advertised products, and
 
-products, (v) all relevant export control laws, and (vi) tax laws, regardless of the origin of your
+(v) tax laws, regardless of the origin of your App. The parties to this Agreement acknowledge that
 
-App. If you are required to make any disclosures to consumers prior to sale or download of the
+the Apps and In-App Products may be subject to applicable trade laws in one or more countries.
 
-App or In-App Product, you must provide those in the App description field (unless they are
+You will comply with all relevant laws and regulations applicable to the import or export of the
+
+Items, including but not limited to, trade laws such as the U.S. Export Administration Regulations
+
+or other end-user, end use, and destination restrictions by the U.S. and other governments, as
+
+well as sanctions regulations administered by the U.S. Office of Foreign Assets Control (“Trade
+
+Laws”). If you are required to make any disclosures to consumers prior to sale or download of
+
+the App or In-App Product, you must provide those in the App description field (unless they are
 
 provided elsewhere in the Store product description page). Disclosures provided on the Store
 
@@ -1188,13 +1170,13 @@ Store, without additional review, approval, license, or technology-based restric
 
 governmental entity. You must disclose to Microsoft any controlled technology employed, used
 
-or supported by your App or In-App Product, and you must take any action reasonably
+or supported by your App or In-App Product, and you must take any action reasonably requested
 
-requested by Microsoft if necessary for Microsoft to comply with its legal obligations. You may
+by Microsoft if necessary for Microsoft to comply with its legal obligations. You may not use the
 
-not use the Store or any services or tools made available for the development of Apps or In-App
+Store or any services or tools made available for the development of Apps or In-App Products
 
-Products for, or to permit others to carry out, any illegal activity, including breach of contract.
+for, or to permit others to carry out, any illegal activity, including breach of contract.
 
 
 
@@ -1232,6 +1214,10 @@ within your App. For: i) all Games and In-App Products in Games (including subsc
 
 available on any device and, ii) all Apps (and In-App Products made available in such Apps) made
 
+16
+
+
+
 available on Xbox consoles, you must use Microsoft’s commerce engine for the purchase of such
 
 Game or App, or any In-App Products that are or can be consumed or used within such Game or
@@ -1242,7 +1228,7 @@ App.
 
 e. Commerce Platform Requirements. Purchases made on a third-party
 
-14
+17
 
 
 
@@ -1338,7 +1324,7 @@ b. Store Fees. If your App uses the Microsoft commerce engine to support
 
 purchase of the App or any In-App Purchases within the App, the Store Fee (plus any taxes
 
-15
+18
 
 
 
@@ -1412,7 +1398,7 @@ you indicated during the Store Account setup. Microsoft is not responsible for d
 
 misapplication of payment because of incorrect or incomplete information supplied by you
 
-or a bank or for failure of abank to credit your account. If you are outside of the United
+or a bank or for failure of a bank to credit your account. If you are outside of the United
 
 States of America, Microsoft may remit payment to you in the local currency of your
 
@@ -1426,7 +1412,7 @@ requirements, and the amount you receive will be inclusive of any sales, use, go
 
 services, value-added, or similar taxes that may be chargeable by you to Microsoft. You
 
-must provide Microsoft (or its third-party payment processor) with all financial, tax and
+must provide Microsoft (or its third- party payment processor) with all financial, tax and
 
 banking information requested so Microsoft can pay you under this Agreement. Microsoft
 
@@ -1436,7 +1422,7 @@ Documentation. Your failure to keep such information current and accurate may re
 
 Microsoft's removal of your App or In-App
 
-16
+19
 
 
 
@@ -1498,9 +1484,9 @@ applicable law, and each party will reasonably cooperate with the other to obtai
 
 rates or elimination of such taxes pursuant to the applicable income tax treaties. If a Customer is
 
-required to withhold any taxes on the purchase of your Apps or In -App Products, the amount to
+required to withhold any taxes on the purchase of your Apps or In -App Products, the amount
 
-be paid by Microsoft to you will be reduced by such withheld amount, and Microsoft will not
+to be paid by Microsoft to you will be reduced by such withheld amount, and Microsoft will not
 
 provide to you any receipt for any such withheld taxes. If you are located in Australia, wish to
 
@@ -1530,7 +1516,7 @@ makes no warranty that its collection of taxes as related to agency transactions
 
 listed in Exhibit A discharges developer from your own tax obligations.
 
-17
+20
 
 
 
@@ -1626,7 +1612,7 @@ fully perform your obligations under this Agreement;
 
 b. If you are a business or other legal entity and not an individual, then the
 
-18
+21
 
 
 
@@ -1722,7 +1708,7 @@ crash data ("Error Reporting Data"). If Microsoft exposes you to any Personal In
 
 Error Reporting Data, then between you and Microsoft, that Personal Information is Microsoft
 
-19
+22
 
 
 
@@ -1776,15 +1762,15 @@ for improving your App. Further, you agree not to provide any App Analytics data
 
 parties (except for a third-party service provider who is assisting you in processing and
 
-analyzing such data on your behalf and who is not permitted to use it for any other purpose
+analyzing such data on your behalf and who is not permitted to use it for any other purpose or
 
-or disclose it to any other party). You are not permitted to aggregate (or permit any third-
+disclose it to any other party). You are not permitted to aggregate (or permit any third- party
 
-party to aggregate) the App Analytics data with any third party data. You must not use th e
+to aggregate) the App Analytics data with any third party data. You must not use th e App
 
-App Analytics data to attempt to identify or derive information about any particular end-user
+Analytics data to attempt to identify or derive information about any particular end-user or
 
-or device.
+device.
 
 
 
@@ -1818,7 +1804,7 @@ b. LIMITATION OF LIABILITY. TO THE MAXIMUM EXTENT PERMITTED BY
 
 APPLICABLE LAW, MICROSOFT AND EACH OF ITS COVERED PARTIES SHALL HAVE NO LIABILITY
 
-20
+23
 
 
 
@@ -1914,7 +1900,7 @@ thirty (30) days after the other party's receipt of written notice of the breach
 
 this Agreement upon written notice to Microsoft during the 15-day period that begins when
 
-21
+24
 
 
 
@@ -1936,11 +1922,11 @@ Store, Microsoft may retain a copy of the affected App(s) or In-App Product(s), 
 
 Unless the App or In-App Product was removed from the Store because of a court order relating
 
-to intellectual property infringement, you grant to Microsoft a perpetual license to reproduce and
+to intellectual property infringement, you grant to Microsoft a perpetual license to reproduce
 
-provide the App(s) or In-App Product(s) to Customers who previously downloaded the App(s) or
+and provide the App(s) or In-App Product(s) to Customers who previously downloaded the
 
-In-App Product(s) under the terms of the Customer's existing license, or for storage
+App(s) or In-App Product(s) under the terms of the Customer's existing license, or for storage
 
 management, backup and restore, or technical reasons.
 
@@ -2012,7 +1998,7 @@ each independently Processes.
 
 e. Sublicensing and Subcontractors. Microsoft may sublicense its rights
 
-22
+25
 
 
 
@@ -2038,7 +2024,27 @@ Washington.
 
 
 
-g. Mediation. From time to time, and where appropriate, Microsoft may
+g. Out-of-Court Dispute Resolution. Should any appeal you submit to
+
+Microsoft pursuant to the procedures described in Section 3(l) of this Agreement and related to
+
+the provision of services by Microsoft to users located or having their place of establishment in
+
+the European Union not be resolved, you are entitled to select any out-of-court dispute
+
+settlement body within the European Union that has been certified by the Digital Services
+
+Coordinator of the European Union Member State where the settlement body is established to
+
+resolve such dispute. Such settlement body shall not have the power to impose a binding
+
+settlement of the dispute upon the parties. Both parties agree to engage with such settlement
+
+bodies in good faith, with a view to resolving the dispute, except that Microsoft may refuse to
+
+engage with such settlement body if the dispute has already been resolved concerning the same
+
+information and grounds. Additionally, from time to time, and where appropriate, Microsoft may
 
 choose to resolve disputes with you through mediation. In the event that Microsoft determines,
 
@@ -2090,6 +2096,8 @@ Store will not be deemed a waiver of any rights Microsoft may have under this Ag
 
 including for violations of the Certification Requirements or other content related terms.
 
+26
+
 
 
 k. Survival. Sections of this Agreement that, by their terms, require
@@ -2110,7 +2118,7 @@ m. Updates. Microsoft may update this Agreement at any time in its sole
 
 discretion. Microsoft will indicate the last date on which the Agreement was modified at the top
 
-23
+27
 
 
 
@@ -2134,7 +2142,7 @@ rest of this Agreement won't change. This Agreement's section titles are for ref
 
 have no legal effect.
 
-24
+28
 
 
 
@@ -2174,9 +2182,9 @@ http://go.microsoft.com/fwlink/p/?LinkID=271132. The reports that Microsoft make
 
 to you will identify the transactions for which a billing partner has collected sales, use, goods
 
-and services, value added or similar taxes applicable to Customers' acquisition of your App(s) or
+and services, value added or similar taxes applicable to Customers' acquisition of your App(s)
 
-In-App Product(s) through the Store. Except for the transactions described in such reporting,
+or In-App Product(s) through the Store. Except for the transactions described in such reporting,
 
 neither Microsoft nor its billing services providers will remit any sales, use, goods and services,
 
@@ -2192,7 +2200,7 @@ complying with your obligations, if any, to register, collect, and remit taxes i
 
 transactions involving your App(s) or In-App Product(s).
 
-25
+29
 
 
 
@@ -2206,9 +2214,9 @@ Last Updated: March 5, 2019
 
 This Enterprise Application Addendum (the "Addendum") is a supplement to the terms
 
-and conditions of the App Developer Agreement. This Addendum applies if you choose to
+and conditions of the App Developer Agreement. This Addendum applies if you choose to make
 
-make available Enterprise Applications to Personnel as described in this Addendum. Except as
+available Enterprise Applications to Personnel as described in this Addendum. Except as
 
 expressly modified by this Exhibit B, all of the terms and conditions in the App Developer
 
@@ -2264,9 +2272,9 @@ working at the hospital.
 
 
 
-d. "Enterprise Account" means a business account established with Microsoft
+d. "Enterprise Account" means a business account established with
 
-for the purpose of obtaining the Certificate Software and making available Enterprise
+Microsoft for the purpose of obtaining the Certificate Software and making available Enterprise
 
 Applications to Personnel.
 
@@ -2286,7 +2294,7 @@ a. Internal Distribution. Subject to the terms of this Addendum and the App
 
 Developer Agreement, you may make Enterprise Applications internally available to Personnel.
 
-26
+30
 
 
 
@@ -2306,9 +2314,9 @@ b. No Alternative Marketplace. You will not use the Certificate Software to:
 
 (i) make paid Applications that are offered in the general Store available to your Personnel; and
 
-(ii) make available Enterprise Applications in a manner that harms the Store as determined by
+(ii) make available Enterprise Applications in a manner that harms the Store as determined
 
-Microsoft.
+by Microsoft.
 
 
 
@@ -2378,7 +2386,7 @@ Enterprise Applications to Microsoft and Microsoft is not appointed as your agen
 
 commissionaire, or reseller, as applicable, for making your Enterprise Applications available to
 
-27
+31
 
 
 
@@ -2392,9 +2400,9 @@ Store. You are solely responsible and liable for the Enterprise Applications you
 
 Developer Agreement, then without prejudice to Microsoft's other rights and remedies,
 
-Microsoft may (a) revoke the certificates provided by Certificate Software; and/or ( b) terminate
+Microsoft may (a) revoke the certificates provided by Certificate Software; and/or ( b)
 
-your Enterprise Account immediately.
+terminate your Enterprise Account immediately.
 
 
 
@@ -2402,29 +2410,29 @@ your Enterprise Account immediately.
 
 Party, as applicable, from and against (including by paying any associated costs, losses,
 
-damages, or expenses and attorneys' fees) any and all claims made or brought by an unaffiliated
+damages, or expenses and attorneys' fees) any and all claims made or brought by an
 
-third party or Personnel: (a) alleging that your Enterprise Application infringes copyright,
+unaffiliated third party or Personnel: (a) alleging that your Enterprise Application infringes
 
-trademark, or patent rights, or misappropriates trade secrets or undisclosed information, (b)
+copyright, trademark, or patent rights, or misappropriates trade secrets or undisclosed
 
-arising from a failure of your Enterprise Application to comply with the Application Certification
+information, (b) arising from a failure of your Enterprise Application to comply with the
 
-Requirements; (c) relating to use or inability to use your Enterprise Application, including any
+Application Certification Requirements; (c) relating to use or inability to use your Enterprise
 
-product liability claims; and (d) arising from any breach of this Addendum or the warranties in
+Application, including any product liability claims; and (d) arising from any breach of this
 
-the App Developer Agreement. Your obligations in this Section 6 are subject to the conditions
+Addendum or the warranties in the App Developer Agreement. Your obligations in this Section
 
-outlined in Section 10.c (Duty to Defend) of the App Developer Agreement. Covered Parties
+6 are subject to the conditions outlined in Section 10.c (Duty to Defend) of the App Developer
 
-who are not party to the App Developer Agreement are beneficiaries of the App Developer
+Agreement. Covered Parties who are not party to the App Developer Agreement are
 
-Agreement solely for the purpose of enforcing the rights granted to such Covered Parties in this
+beneficiaries of the App Developer Agreement solely for the purpose of enforcing the rights
 
-Section 6 of the Addendum.
+granted to such Covered Parties in this Section 6 of the Addendum.
 
-28
+32
 
 
 
@@ -2518,7 +2526,7 @@ App, In-App Product and the App Assets for each App, and to modify your App desc
 
 solely to correct obvious spelling, grammatical or typographical errors, in connection with (i) the
 
-29
+33
 
 
 
@@ -2536,7 +2544,7 @@ Xbox-related websites and each of their successor platforms, and/or any other Mi
 
 websites, products and services related to the Store and/or Apps. Nothing in this Agreement,
 
-however, will preclude Microsoft from using your App,App Assets, and/or In-App Product as
+however, will preclude Microsoft from using your App, App Assets, and/or In-App Product as
 
 permitted by law without a license (e.g., "fair use" under applicable copyright law or "referential"
 
@@ -2556,19 +2564,19 @@ country, and Microsoft may charge that price (or another price that Microsoft or
 
 chooses in its discretion) in making your App or In -App Product available in the Store in that
 
-country. For any App or In-App Product you choose to make available as provided in this
+country. For any App or In-App Product you choose to make available as provided in this Exhibit
 
-Exhibit C, Microsoft (or a resale partner or billing service provider) will collect and remit sales,
+C, Microsoft (or a resale partner or billing service provider) will collect and remit sales, use,
 
-use, goods and services, value added or similar taxes, if any, applicable to the Customer's
+goods and services, value added or similar taxes, if any, applicable to the Customer's acquisition
 
-acquisition of your App or In-App Product in such country(s) through the Store as provided in
+of your App or In-App Product in such country(s) through the Store as provided in this Exhibit C.
 
-this Exhibit C. Except as provided herein, Microsoft will not remit any sales, use, goods and
+Except as provided herein, Microsoft will not remit any sales, use, goods and services, value
 
-services, value added or other similar tax in connection with Customers' acquisition of your
+added or other similar tax in connection with Customers' acquisition of your App(s) or In-App
 
-App(s) or In-App Product(s).
+Product(s).
 
 
 
@@ -2588,7 +2596,7 @@ chargeback amounts that we paid or credited to Customers; and (ii) we can deduct
 
 royalty payment we make to you any of the foregoing costs and expenses.
 
-30
+34
 
 
 
@@ -2888,19 +2896,19 @@ right to appoint other Microsoft Affiliates as sub-agents.
 
 When you submit an App, you must disclose to Microsoft (1) whether you will require
 
-customers to pay to access functionalities available in the App and (2) whether you will
+customers to pay to access functionalities available in the App and (2) whether you will make
 
-make available paid In-App Product(s) in the App. Except as otherwise provided in this
+available paid In-App Product(s) in the App. Except as otherwise provided in this Agreement,
 
-Agreement, Microsoft will not remit any sales, use, goods and services, value added or other
+Microsoft will not remit any sales, use, goods and services, value added or other similar tax
 
-similar tax in connection with Customers' acquisition of your App(s) or In-App Product(s) in
+in connection with Customers' acquisition of your App(s) or In-App Product(s) in such Apps,
 
-such Apps, and you shall be solely responsible for all App and App In-App Product(s) pricing
+and you shall be solely responsible for all App and App In-App Product(s) pricing practices,
 
-practices, which shall, at a minimum, comply with all applicable laws, regulations, and
+which shall, at a minimum, comply with all applicable laws, regulations, and regulatory
 
-regulatory guidance.
+guidance.
 
 EXHIBIT F: TERMS AND CONDITIONS FOR MICROSOFT EDGE EXTENSIONS
 
@@ -2916,21 +2924,21 @@ supplement to the terms and conditions of the App Developer Agreement. This Adde
 
 if you have submitted or are making available Microsoft Edge Extensions (each, an "Extension")
 
-through Microsoft Edge Add-ons. Except as expressly modified by this Extensions Addendum, all
+through Microsoft Edge Add-ons. Except as expressly modified by this Extensions Addendum, all of
 
-of the terms and conditions in the App Developer Agreement, which is incorporated by reference
+the terms and conditions in the App Developer Agreement, which is incorporated by reference
 
 herein, apply to the offering and distribution of your Microsoft Edge Extensions. Except where
 
 expressly modified by this Addendum, the terms and conditions that apply to an "Application" or
 
-"App" under the App Developer Agreement will apply to an Extension as defined in this
+"App" under the App Developer Agreement will apply to an Extension as defined in this Addendum
 
-Addendum and all references to "Store" or "Microsoft Store" under the App Developer Agreement
+and all references to "Store" or "Microsoft Store" under the App Developer Agreement will apply
 
-will apply to Microsoft Edge Add-ons as defined in this Addendum. Capitalized terms not defined
+to Microsoft Edge Add-ons as defined in this Addendum. Capitalized terms not defined herein will
 
-herein will have the meanings provided in the App Developer Agreement.
+have the meanings provided in the App Developer Agreement.
 
 
 
@@ -2964,9 +2972,9 @@ Microsoft Edge Add-ons, including any updates to each Extension. You are solely 
 
 liable for the Extensions you submit. You are responsible for supporting your extension. Microsoft
 
-will retain (or destroy) all copies of the Extension and other materials you submit. Microsoft will
+will retain (or destroy) all copies of the Extension and other materials you submit. Microsoft will not
 
-not return them, so you must maintain your own backup copies.
+return them, so you must maintain your own backup copies.
 
 
 
@@ -2994,17 +3002,7 @@ through Microsoft Edge Add-ons unless and until the Extension is Certified.
 
 
 
-2. AFFIRMATIVE DECLINE NOT REQUIRED. Notwithstanding Section 4( k) of the App
-
-Developer Agreement, you are not required to affirmatively decline participation in Microsoft Store
-
-for Business and Microsoft Store for Education. Your Extension will only be available through the
-
-Microsoft Edge Add-ons.
-
-
-
-3. APP PRICING, PAYMENTS, TRANSACTIONS AND TAXES. Section 6 of the App Developer
+2. APP PRICING, PAYMENTS, TRANSACTIONS AND TAXES. Section 6 of the App Developer
 
 Agreement does not apply to Extensions and is hereby deleted in its entirety.
 
@@ -3076,15 +3074,17 @@ http://go.microsoft.com/fwlink/p/?LinkId=723143) at any time.
 
 a. Consent for Internet-based or wireless services. If the application
 
-connects to computer systems over the Internet, which may include via a wireless network, using
+connects to computer systems over the Internet, which may include via a wireless network,
 
-the application operates as your consent to the transmission of standard device information
+using the application operates as your consent to the transmission of standard device
 
-(including but not limited to technical information about your device, system, and application
+information (including but not limited to technical information about your device, system, and
 
-software, and peripherals) for Internet-based or wireless services. If other terms are presented in
+application software, and peripherals) for Internet-based or wireless services. If other terms are
 
-connection with your use of services accessed using the application, those terms also apply.
+presented in connection with your use of services accessed using the application, those terms
+
+also apply.
 
 
 
@@ -3092,9 +3092,9 @@ b. Misuse of Internet-based services. You may not use any Internet-based
 
 service in any way that could harm it or impair anyone else's use of it or the wireless network.
 
-You may not use the service to try to gain unauthorized access to any service, data, account, or
+You may not use the service to try to gain unauthorized access to any service, data, account,
 
-network by any means.
+or network by any means.
 
 
 
@@ -3118,9 +3118,9 @@ a. Work around any technical limitations in the application.
 
 
 
-b. Reverse engineer, decompile, or disassemble the application, except and
+b. Reverse engineer, decompile, or disassemble the application, except
 
-only to the extent that applicable law expressly permits, despite this limitation.
+and only to the extent that applicable law expressly permits, despite this limitation.
 
 
 
@@ -3174,9 +3174,11 @@ services for the application.
 
 7. ENTIRE AGREEMENT. This agreement, any applicable privacy policy, any
 
-additional terms that accompany the application, and the terms for supplements and updates
+additional terms that accompany the application, and the terms for supplements and
 
-are the entire license agreement between you and application publisher for the application.
+updates are the entire license agreement between you and application publisher for the
+
+application.
 
 
 
@@ -3200,13 +3202,11 @@ any other country, the laws of that country apply.
 
 
 
-9. LEGAL EFFECT. This agreement describes certain legal rights. You may have
+9. LEGAL EFFECT. This agreement describes certain legal rights. You may have other
 
-other rights under the laws of your state or country. This agreement doesn't change your rights
+rights under the laws of your state or country. This agreement doesn't change your rights under
 
-under the laws of your state or country if the laws of your state or country don't permit it to do
-
-so.
+the laws of your state or country if the laws of your state or country don't permit it to do so.
 
 
 
@@ -3338,15 +3338,17 @@ reserves the right to modify our Usage Rules
 
 a. Consent for Internet-based or wireless services. If the application
 
-connects to computer systems over the Internet, which may include via a wireless network, using
+connects to computer systems over the Internet, which may include via a wireless network,
 
-the application operates as your consent to the transmission of standard device information
+using the application operates as your consent to the transmission of standard device
 
-(including but not limited to technical information about your device, system, and application
+information (including but not limited to technical information about your device, system, and
 
-software, and peripherals) for Internet-based or wireless services. If other terms are presented in
+application software, and peripherals) for Internet-based or wireless services. If other terms are
 
-connection with your use of the services accessed using the application, those terms also apply.
+presented in connection with your use of the services accessed using the application, those
+
+terms also apply.
 
 
 
@@ -3450,11 +3452,11 @@ a. United States and Canada. If you acquired the application in the United
 
 States or Canada, the laws of the state or province where you live (or, if a business, where your
 
-principal place of business is located) govern the interpretation of these terms, claims for breach
+principal place of business is located) govern the interpretation of these terms, claims for
 
-of them, and all other claims (including consumer protection, unfair competition, and tort
+breach of them, and all other claims (including consumer protection, unfair competition, and
 
-claims), regardless of conflict of laws principles.
+tort claims), regardless of conflict of laws principles.
 
 
 
@@ -3486,9 +3488,9 @@ additional contractual warranties, guarantees, or conditions in relation to the 
 
 have all mandatory warranties foreseen by law, but we grant no other warranties. Covered
 
-Parties exclude any implied mandatory warranties, including those of merchantability, fitness for
+Parties exclude any implied mandatory warranties, including those of merchantability, fitness
 
-a particular purpose, safety, comfort, and non-infringement.
+for a particular purpose, safety, comfort, and non-infringement.
 
 
 
@@ -3506,9 +3508,9 @@ represent the application publisher's opinion.
 
 
 
-b. The application publisher shall only be liable if material obligations of
+b. The application publisher shall only be liable if material obligations
 
-these license terms have been violated.
+of these license terms have been violated.
 
 
 
@@ -3530,17 +3532,17 @@ without limitation, liability under the product liability act and statutory liab
 
 warranty, shall remain unaffected by the limitation of liability. The same shall apply to liability of
 
-the application publisher, its vicarious agents and/or its legal representative in the event of fraud
+the application publisher, its vicarious agents and/or its legal representative in the event of
 
-or their negligence resulting in personal injury or death.
+fraud or their negligence resulting in personal injury or death.
 
 
 
 e. No other contractual and legal claims besides those covered in
 
-subsections (a) through (e) of this section 11 may result from these application license terms
+subsections (a) through (e) of this section 11 may result from these application license
 
-and/or the use of the application or services made available through the application.
+terms and/or the use of the application or services made available through the application.
 
 
 
@@ -3604,15 +3606,17 @@ reserves the right to modify our Usage Rules
 
 a. Consent for Internet-based or wireless services. If the application
 
-connects to computer systems over the Internet, which may include via a wireless network, using
+connects to computer systems over the Internet, which may include via a wireless network,
 
-the application operates as your consent to the transmission of standard device information
+using the application operates as your consent to the transmission of standard device
 
-(including but not limited to technical information about your device, system and application
+information (including but not limited to technical information about your device, system and
 
-software, and peripherals) for Internet-based or wireless services. If other terms are presented in
+application software, and peripherals) for Internet-based or wireless services. If other terms are
 
-connection with your use of services accessed using the application, those terms also apply.
+presented in connection with your use of services accessed using the application, those terms
+
+also apply.
 
 
 
@@ -3646,9 +3650,9 @@ a. Work around any technical limitations in the application.
 
 
 
-b. Reverse engineer, decompile, or disassemble the application, except and
+b. Reverse engineer, decompile, or disassemble the application, except
 
-only to the extent that it is expressly permitted by applicable copyright law provisions for
+and only to the extent that it is expressly permitted by applicable copyright law provisions for
 
 computer programs.
 
@@ -3770,13 +3774,13 @@ non-infringement.
 
 11. LIMITATION ON AND EXCLUSION OF REMEDIES AND DAMAGES. To the extent
 
-not prohibited by law, you can recover from the application publisher only direct damages up to
+not prohibited by law, you can recover from the application publisher only direct damages up
 
-the amount you paid for the application or $1.00, whichever is greater. You will not, and waive
+to the amount you paid for the application or $1.00, whichever is greater. You will not, and
 
-any right to, seek to recover any other damages, including consequential, lost profits, special,
+waive any right to, seek to recover any other damages, including consequential, lost profits,
 
-indirect or incidental damages from the application publisher.
+special, indirect or incidental damages from the application publisher.
 
 
 
@@ -3896,15 +3900,15 @@ network by any means.
 
 gives you some rights to use the application. If Microsoft disables the ability to use the
 
-applications on your devices pursuant to your agreement with Microsoft, any associated license
+applications on your devices pursuant to your agreement with Microsoft, any associated
 
-rights will terminate. The application publisher reserves all other rights. Unless applicable law
+license rights will terminate. The application publisher reserves all other rights. Unless
 
-gives you more rights despite this limitation, you may use the application only as expressly
+applicable law gives you more rights despite this limitation, you may use the application only
 
-permitted in this agreement. In doing so, you must comply with any technical limitations in the
+as expressly permitted in this agreement. In doing so, you must comply with any technical
 
-application that only allow you to use it in certain ways. You may not:
+limitations in the application that only allow you to use it in certain ways. You may not:
 
 
 
@@ -3912,15 +3916,15 @@ a. Work around any technical limitations in the application.
 
 
 
-b. Reverse engineer, decompile, or disassemble the application, except and
+b. Reverse engineer, decompile, or disassemble the application, except
 
-only to the extent that applicable law expressly permits, despite this limitation.
+and only to the extent that applicable law expressly permits, despite this limitation.
 
 
 
-c. Make more copies of the application than specified in this agreement or
+c. Make more copies of the application than specified in this agreement
 
-allowed by applicable law, despite this limitation.
+or allowed by applicable law, despite this limitation.
 
 
 
@@ -3966,9 +3970,11 @@ services for the application.
 
 7. ENTIRE AGREEMENT. This agreement, any applicable privacy policy, any
 
-additional terms that accompany the application, and the terms for supplements and updates
+additional terms that accompany the application, and the terms for supplements and
 
-are the entire license agreement between you and application publisher for the application.
+updates are the entire license agreement between you and application publisher for the
+
+application.
 
 
 
@@ -3980,11 +3986,11 @@ a. United States and Canada. If you acquired the application in the United
 
 States or Canada, the laws of the state or province where you live (or, if a business, where your
 
-principal place of business is located) govern the interpretation of this agreement and applies to
+principal place of business is located) govern the interpretation of this agreement and applies
 
-claims for breach of it, and all other claims (including consumer protection, unfair competition,
+to claims for breach of it, and all other claims (including consumer protection, unfair
 
-and tort claims) regardless of conflict of laws principles.
+competition, and tort claims) regardless of conflict of laws principles.
 
 
 
@@ -3994,9 +4000,9 @@ any other country, the laws of that country apply.
 
 
 
-9. LEGAL EFFECT. This agreement describes certain legal rights. You may have
+9. LEGAL EFFECT. This agreement describes certain legal rights. You may have other
 
-other rights under the laws of your state or country. This agreement doesn't change your ri ghts
+rights under the laws of your state or country. This agreement doesn't change your ri ghts
 
 under the laws of your state or country if the laws of your state or country don't permit i t to do
 
@@ -4082,6 +4088,28 @@ Main Change History Summary of App Developer Agreement
 
 
 
+Publish Date: Oct 30, 2023, Version 8.9
+
+Effective Date: Nov 30, 2022
+
+• Updated language, Section 2, Removed clause allowing Microsoft to use provided contact information for
+
+marketing communications
+
+• Updated language, Section 2, Defined a company vs trader account
+
+• Updated Section 3, I, Disclosures and information supporting EU Digital Services Act appeals requirements
+
+• Updated Section 3 j; 4 k; 2; Removed Microsoft Store for Business and Microsoft Store for Education
+
+through document
+
+• Added language; Section 12 g, Adding language required by the EU Digital Services Act to requiring
+
+access to out-of-court dispute settlement process
+
+
+
 Publish Date: June 16, 2022, Version 8.8
 
 Effective Date: July 16, 2022
@@ -4120,9 +4148,9 @@ platform for in-app commerce
 
 party commerce engine for in-app commerce, instead of the Microsoft commerce platform
 
-• Updated 5 ( e), updated to clarify requirements when using third party commerce platform for
+• Updated 5 ( e), updated to clarify requirements when using third party commerce platform for in-
 
-in-app commerce
+app commerce
 
 • Updated 6(a) to clarify applicability of terms to apps that use Microsoft’s commerce platform
 
@@ -4146,9 +4174,9 @@ platform for in-app commerce
 
 • Added New Exhibit E, Terms and Conditions for Win32 App Packages
 
-• Added New Exhibit F, integrating the Terms and Conditions for Microsoft Edge Extensions into
+• Added New Exhibit F, integrating the Terms and Conditions for Microsoft Edge Extensions into the
 
-the ADA
+ADA
 
 
 
@@ -4242,9 +4270,9 @@ throughout the Agreement and its Exhibits
 
 • Added 1 (iii), definition of OCID
 
-• Updated 4 (a) (i) regarding Microsoft’s role as agent or commissionaire and related clarifications
+• Updated 4 (a) (i) regarding Microsoft’s role as agent or commissionaire and related clarifications to
 
-to how we deduct fees
+how we deduct fees
 
 • Updated 6 (b) (i, ii, iii, iv) to reflect new Store Fees and revenue shares
 
@@ -4280,11 +4308,11 @@ Information.
 
 • Added language to (8) (b) to clarify that any Personal Information exposed in the error reporting
 
-data is considered Microsoft Confidential. Such data is subject to requirements governing
+data is considered Microsoft Confidential. Such data is subject to requirements governing handling
 
-handling of personal information, including deletion after 30 days, and destruction or return to
+of personal information, including deletion after 30 days, and destruction or return to Microsoft at
 
-Microsoft at Microsoft’s request, and annual audits.
+Microsoft’s request, and annual audits.
 
 
 
@@ -4342,9 +4370,9 @@ Developers who make paid apps/in-app products available in the Store.
 
 • Added the “Microsoft Store for Education” as another store through which Apps and In-App
 
-Products submitted via Dev Center may be made available to Educational Institutions for
+Products submitted via Dev Center may be made available to Educational Institutions for distribution
 
-distribution to, and use by, their authorized employees, agents, and members.
+to, and use by, their authorized employees, agents, and members.
 
 
 
@@ -4404,8 +4432,8 @@ Information included in Error Reporting Data and not use or disclose such data f
 
 • Updated Exhibit C Marketing Rights to include Microsoft Authorized Resellers
 
-• Updated Exhibit E Advertising Section Requirements for Indemnifications to incorporate and
+• Updated Exhibit E Advertising Section Requirements for Indemnifications to incorporate
 
-reference Section (10) (c) and (11) (b)
+and reference Section (10) (c) and (11) (b)
 
 • Update to Exhibit H to reflect new Standard Application License Terms
