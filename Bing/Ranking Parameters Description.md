@@ -328,6 +328,9 @@ Transparency
 
 Every six months, Microsoft publishes transparency reports that include the number of requests for removal we’ve received in certain categories and approved during that timeframe. You can see some details about the requests in  [Reports Hub | Microsoft CSR](https://www.microsoft.com/en-us/corporate-responsibility/reports-hub).
 
+RELATED TOPICS
+--------------
+
 [Remove cached pages from Bing](https://go.microsoft.com/fwlink?LinkId=282036)
 
 [Submit a request to remove content from Bing](https://go.microsoft.com/fwlink?LinkId=313698)
