@@ -636,6 +636,6 @@ _Adjunto(s) archivo(s)_
 
 [Términos y Condiciones Generales de Subastas](https://www.vidaxl.es/on/demandware.static/-/Library-Sites-vidaXLSharedLibrary/default/dwc8f3cd67/Documents/terms_conditions_auctions/ES.pdf)
 
-[Política de devoluciones](https://www.vidaxl.es/on/demandware.static/-/Library-Sites-vidaXLSharedLibrary/default/dw1f29ea9c/Documents/returns_conditions/ES.pdf)
+[Política de devoluciones](https://www.vidaxl.es/on/demandware.static/-/Library-Sites-vidaXLSharedLibrary/default/dwfc1395f9/Documents/returns_conditions/ES.pdf)
 
 [Declaración de privacidad y cookies](https://www.vidaxl.es/on/demandware.static/-/Library-Sites-vidaXLSharedLibrary/default/dwa4182070/Documents/security_privacy_policy/ES.pdf)
