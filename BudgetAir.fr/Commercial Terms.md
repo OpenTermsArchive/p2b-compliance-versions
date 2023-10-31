@@ -1,4 +1,4 @@
-**v2305\_E\_i**
+**v2312\_E\_i**
 
 ### General Delivery Terms
 
@@ -60,7 +60,7 @@
 
 10.1 Applicable Law & Forum
 
-10.2 Internal Complaint Handling System
+10.2 Complaint Handling System
 
 10.3 Mediation
 
@@ -88,7 +88,7 @@ C: FOR US DOMESTIC TRANSACTIONS EXCEPT TRANSACTIONS TO WHICH 3B APPLIES
 
 ### General Delivery Terms
 
-These general delivery terms including the Annexes (the "**Terms**"), supplemented by standards setting out Booking.com's policies, ethical norms and values (the "**Policies**"), form an integral part of the Accommodation Agreement (together with the Terms, "**Agreement**") and are entered into between the Accommodation and Booking.com (each a "**Party**" and collectively the "**Parties**").
+These general delivery terms including the Annexes (the "**Terms**"), supplemented by Booking.com's policies as published on the Partner Hub (the "**Policies**"), form an integral part of the Accommodation Agreement (together with the Terms and the Policies, "**Agreement**") and are entered into between the Accommodation and Booking.com (each a "**Party**" and collectively the "**Parties**").
 
 #### 1\. DEFINITIONS
 
@@ -96,7 +96,7 @@ These general delivery terms including the Annexes (the "**Terms**"), supplement
 
 "**Accommodation**" means the legal entity (legal person or natural person) that is a signatory to this Agreement, and, where different, the accommodation (meaning property) in relation to which the legal entity is contracting, and to which these Terms are applicable.
 
-"**Accommodation Information**" means information provided by and relating to the Accommodation for inclusion on the Platform, including pictures, photos and descriptions, its amenities and services, the rooms available for reservation, details of the rates (including all applicable Taxes, unless applicable mandatory law provides otherwise, and surcharges), availability, cancellation and no-show policies and other policies and restrictions.
+"**Accommodation Information**" means information provided by and relating to the Accommodation for inclusion on the Platform, including pictures, photos and descriptions, its amenities and services, the rooms available for reservation, details of the rates (including all applicable Taxes, unless applicable mandatory law provides otherwise, and surcharges), availability, cancellation and no-show policies, other policies and restrictions and any (further) information that Booking.com is required to display on the Platform under applicable law.
 
 "**Affiliated Company**" means any entity that directly or indirectly controls, is controlled by or is under common control with a Party at any time during the term of the Agreement, including its directors, officers and employees.
 
@@ -118,9 +118,9 @@ These general delivery terms including the Annexes (the "**Terms**"), supplement
 
 "**Financial Crime Requirements**" means the U.S. Foreign Corrupt Practices Act, the UK Bribery Act 2010, the UK Criminal Finances Act 2017 and any other applicable laws, statutes, regulations, treaties or codes relating to anti-bribery, anti-corruption, anti-money laundering, anti-tax evasion/facilitation of tax evasion, anti-terrorism financing, economic and trade sanctions, and anti-financial crimes applying in the countries in which either of the Parties operates or has a place of business.
 
-"**Force Majeure Event**" means any of the following events affecting multiple Guests and multiple accommodations: acts of God, volcanic eruption, (natural) disaster, fire, (acts of) war, hostilities or any local or national emergency, invasion, compliance with any order or request of any national, provincial, port or other public authority, government regulation or intervention, military action, civil war or terrorism, (biological, chemical or nuclear) explosion, rebellion, riots, insurrection, strikes, civil disorder (or the material or substantial threat or justified apprehension of any such events), curtailment of transportation facilities, close down of airports or any other exceptional and catastrophic event, circumstance or emergency, preventing or making it impossible or illegal for Guests to travel to or stay at the Accommodation.
+"**Force Majeure Event**" means any of the following events affecting multiple Guests and multiple accommodations: acts of God, volcanic eruption, (natural) disaster, fire, (acts of) war, hostilities or any local or national emergency, invasion, compliance with any order or request of any national, provincial, port or other public authority, government regulation or intervention, military action, civil war or terrorism, (biological, chemical or nuclear) explosion, rebellion, riots, insurrection, strikes, civil disorder (or the material or substantial threat or justified apprehension of any such events), curtailment of transportation facilities, close down of airports or any other exceptional and catastrophic event, circumstance or emergency, preventing or making it impossible or illegal or highly unsafe for Guests to travel to or stay at the Accommodation.
 
-"**Guest**" means a visitor to the Platform or a customer or guest of the Accommodation.
+"**Guest**" means a visitor to the Platform or a customer or guest of the Accommodation who made their reservation via the Platform.
 
 "**Intellectual Property**" means any (or, where relevant, any application for any) patent, copyright, invention, database right, design right, registered design, trademark, trade or business name, brand, logo, service mark, know-how, utility model, unregistered design or domain name (under any extension, e.g. .com, .nl, .fr, .eu, etc.) or other similar right or obligation whether registered or unregistered or other industrial or intellectual property right subsisting in any territory or jurisdiction in the world.
 
@@ -132,6 +132,8 @@ These general delivery terms including the Annexes (the "**Terms**"), supplement
 
 "**No Parity Countries**" means Austria, Belgium, France, Germany, Italy, Russia, Switzerland and/or such other jurisdictions as from time to time indicated by Booking.com.
 
+“**Partner Hub**” means Booking.com’s partner help center (partner.booking.com) where Booking.com offers additional support and information for Accommodations.
+
 "**Personal Data**" means any information relating to an identified or identifiable natural person (meaning someone who can be identified, directly or indirectly, by reference to an identifier such as a name, credit card details, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person).
 
 "**Platform**" means the website, app, tools and/or platform of Booking.com and/or its Affiliated Companies and business partners on or through which the Service is made available.
@@ -140,11 +142,11 @@ These general delivery terms including the Annexes (the "**Terms**"), supplement
 
 "**Room Price**" means the total price of the reservation including all applicable Taxes, extras and add-ons made or included prior to check-in (e.g. breakfast) as set or uploaded by the Accommodation to Booking.com through the Extranet, through a Connectivity Provider (as applicable and available) or such other way as Booking.com may indicate from time to time.
 
-"**Service**" means the online hotel reservation system of Booking.com through which Accommodations can make their rooms available for reservation and through which Guests can make reservations at the Accommodations; the promotion of the Accommodation; the Facilitated Payment; and the Messaging Service.
+"**Service**" means the online accommodation reservation system of Booking.com through which Accommodations can make their rooms available for reservation and through which Guests can make reservations at the Accommodations; the promotion of the Accommodation; the Facilitated Payment; and the Messaging Service.
 
 "**System**" means the (XML) system that Accommodations can access to use the Service and manage the administration (including rates, booking policies, etc.) of the Accommodation on the Platform.
 
-"**Taxes**" means VAT, sales taxes and such other applicable national, governmental, provincial, state, municipal or local taxes, fees, (sur)charges and/or levies.
+"**Taxes**" means value-added tax (VAT), sales taxes and such other applicable national, governmental, provincial, state, municipal or local taxes, fees, (sur)charges and/or levies.
 
 "**Technology and Data Laws**" means any applicable law relating to the provision of digital services and the protection and use of information and data (including but not limited to rules regarding information security, the processing of Personal Data, the protection of privacy, the use of device-related information, the operation of digital marketplaces and platforms, and the use of information for marketing purposes), applicable to one or both of the Parties, and any laws or regulations ratifying, implementing, adopting, supplementing, amending or replacing such laws or regulations.
 
@@ -160,9 +162,9 @@ These general delivery terms including the Annexes (the "**Terms**"), supplement
 
 2.1 Accommodation Information
 
-2.1.1 Accommodation Information shall comply with formats and standards provided by Booking.com. The Accommodation Information shall not contain references or links to the Accommodation or to third parties, including telephone or fax numbers, email (including skype or similar) address, social media, website, app or platform. Booking.com reserves the right to edit or exclude any information that is incorrect or incomplete or in violation of the Agreement.
+2.1.1 Accommodation Information shall be provided in accordance with the Policies and shall comply with formats and standards provided by Booking.com. The Accommodation Information shall not contain references or links to the Accommodation or to third parties, including social media, website, app or platform. Booking.com reserves the right to edit or exclude any information that is incorrect or incomplete or in violation of the Agreement.
 
-2.1.2 The Accommodation represents and covenants that the Accommodation Information shall at all times be true, accurate and not misleading. The Accommodation is responsible for a correct and up-to-date statement of the Accommodation Information, including additional availability of rooms for certain periods or any extraordinary events and situations (e.g. renovation or construction at or near the facility). The Accommodation shall update the Accommodation Information on a daily basis (or such more frequent basis as may be required) directly online through the Extranet, through a Connectivity Provider (as applicable and available) or such other way as Booking.com may indicate from time to time. Changes, updates and/or amendments to photos and descriptions will be processed by Booking.com as soon as reasonably practicable.
+2.1.2 The Accommodation represents and covenants that the Accommodation Information shall at all times be true, accurate and not misleading. The Accommodation is responsible for correct, complete and up-to-date Accommodation Information, including additional availability of rooms for certain periods or any extraordinary events and situations (e.g. renovation or construction at or near the facility). The Accommodation shall update the Accommodation Information on a daily basis (or such more frequent basis as may be required) directly online through the Extranet, through a Connectivity Provider (as applicable and available) or such other way as Booking.com may indicate from time to time. Changes, updates and/or amendments to photos and descriptions will be processed by Booking.com as soon as reasonably practicable.
 
 2.1.3 The information provided by the Accommodation for the Platform shall remain the exclusive property of the Accommodation. Information provided by the Accommodation may be edited or modified by Booking.com and subsequently translated into other languages. The translations will remain the exclusive property of Booking.com. The edited and translated content will be for the exclusive use by Booking.com on the Platform and shall not be used in any way or form by the Accommodation for any other distribution or sales channel or purposes. Changes or updates to the descriptive information of the Accommodation are not permitted without Booking.com’s prior written approval.
 
@@ -196,7 +198,7 @@ These general delivery terms including the Annexes (the "**Terms**"), supplement
 
 (i) the number of nights stayed at the Accommodation by the Guest;
 
-(ii) the Room Price per room per night (including Taxes) and such other extras and surcharges which are included in, in addition to, or part of the offered rate or opted into or accepted through the Platform by the Guest prior to the Guest’s check-in (such as breakfasts, meals (half-board or full-board), bicycle rental, late check-out/early check-in fees, extra person charges, resort fees, roll-away beds, theatre tickets, service fees, etc.);
+(ii) the Room Price per room per night (for the purpose of this Commission calculation Clause, the only taxes included in the Room Price shall be value-added tax (VAT), goods and services tax (GST) or any similar sales tax) and such other extras and surcharges which are included in, in addition to, or part of the offered rate or opted into or accepted through the Platform by the Guest prior to the Guest’s check-in (such as breakfasts, meals (half-board or full-board), bicycle rental, late check-out/early check-in fees, extra person charges, resort fees, roll-away beds, theatre tickets, service fees, etc.);
 
 (iii) the number of rooms booked by the Guest; and
 
@@ -248,7 +250,7 @@ The Commission will be calculated in accordance with the confirmed booking as pr
 
 2.4.5 If the Accommodation is late in its payment to Booking.com, Booking.com may claim statutory interest, suspend its service under the Agreement (e.g. by suspending the Accommodation from the Platform) and/or require Facilitated Payments, Direct Debit, a deposit, a bank guarantee or some other form of financial security from the Accommodation.
 
-2.4.6 The Accommodation shall pay a deposit to Booking.com equal to a minimum of the sum of the three highest invoices for Commission due or paid to Booking.com in the prior 12 months or such other amount as reasonably determined by Booking.com at its discretion and request (the "**Deposit**"). The Deposit will be held by Booking.com as security for performance of the payment and other obligations of the Accommodation under the Agreement. After the Agreement has terminated, Booking.com will repay the Deposit (or any balance remaining after deducting outstanding Commission, shortfall payments and other costs due to Booking.com) to the Accommodation. The remaining Deposit will be repaid to the Accommodation within 30 days after settlement in full of any of the Accommodation’s outstanding obligations and liabilities (including payment of the outstanding Commission). If the outstanding Commission exceeds the Deposit or if the Accommodation frequently fails to pay the Commission when due, Booking.com may request (and the Accommodation shall pay) an appropriate additional amount as reasonably specified by Booking.com. Booking.com will monitor the (payment) performance of the Accommodation and may repay the Deposit to the Accommodation at Booking.com’s discretion. The amount of the Deposit does not limit or cap the liability of the Accommodation under the Agreement. The Deposit shall not bear any interest.
+2.4.6 Booking.com may request the Accommodation to pay a deposit to Booking.com equal to a minimum of the sum of the three highest invoices for Commission due or paid to Booking.com in the prior 12 months or a lower amount as reasonably determined by Booking.com (the "**Deposit**"). The Deposit will be held by Booking.com as security for performance of the payment and other obligations of the Accommodation under the Agreement and will only be requested by Booking.com if the Accommodation is late in its payment to Booking.com. After the Agreement has terminated, Booking.com will repay the Deposit (or any balance remaining after deducting outstanding Commission, shortfall payments and other costs due to Booking.com) to the Accommodation. The remaining Deposit will be repaid to the Accommodation within 30 days after settlement in full of any of the Accommodation’s outstanding obligations and liabilities (including payment of the outstanding Commission). If the outstanding Commission exceeds the Deposit or if the Accommodation frequently fails to pay the Commission when due, Booking.com may request an appropriate additional amount as reasonably specified by Booking.com. Booking.com will monitor the (payment) performance of the Accommodation and may repay the Deposit to the Accommodation at Booking.com’s discretion. The amount of the Deposit does not limit or cap the liability of the Accommodation under the Agreement. The Deposit shall not bear any interest.
 
 2.5 Reservation, Guest Reservation, Complaints & We Price Match
 
@@ -320,7 +322,7 @@ The Commission will be calculated in accordance with the confirmed booking as pr
 
 (ii) the part of the reservation that was not used due to the Force Majeure Event.
 
-2.10.2 If there is reasonable and justified doubt, the Accommodation may ask a Guest to provide reasonable evidence of the causality between the Force Majeure Event and their cancellation, no-show or change of reservation. The Accommodation will provide Booking.com with a copy of such evidence on request. In order for Booking.com to register any cancellation, no-show or amendment of the reservation due to a Force Majeure Event, the Accommodation shall inform Booking.com of the number of days actually stayed within two business days after the scheduled check-out date of the no-show or cancellation, or check-out. Booking.com will not charge any Commission in relation to the part of the reservation that is not used due to the Force Majeure Event.
+2.10.2 If there is reasonable and justified doubt, the Accommodation may ask a Guest to provide reasonable evidence of the causality between the Force Majeure Event and their cancellation, no-show or change of reservation. The Accommodation will provide Booking.com with a copy of such evidence on request. In order for Booking.com to register any cancellation, no-show or amendment of the reservation due to a Force Majeure Event, the Accommodation shall inform Booking.com of the number of days actually stayed within two business days after the scheduled check-out date of the no-show or cancellation, or the date of the actual check-out. Booking.com will not charge any Commission in relation to the part of the reservation that is not used due to the Force Majeure Event.
 
 #### 3\. LICENSE & DATA
 
@@ -386,9 +388,9 @@ The Accommodation may access the data listed at 3.4(i) through the Extranet.
 
 4.2 Guest Reviews
 
-4.2.1 Guests who have arrived or stayed at the Accommodation will be asked by Booking.com to comment on and provide a score for certain aspects of their experience with the Accommodation. Booking.com may post these reviews on the Platform. Booking.com is a distributor and not a publisher of these reviews. Booking.com shall have no obligation to verify the accuracy or completeness of the reviews, and shall have no liability or responsibility for the content and consequences of the publication or distribution of the reviews.
+4.2.1 Guests who have arrived or stayed at the Accommodation will be asked by Booking.com to comment on and provide a score for certain aspects of their experience with the Accommodation. Booking.com may post these reviews on the Platform. Booking.com is a distributor and not a publisher of these reviews. Booking.com will assess Guest reviews in accordance with the applicable Policies. Booking.com shall not be liable in relation to Guest reviews shown, or not shown, on the Platform in compliance with applicable law.
 
-4.2.2 Booking.com may at its sole discretion refuse, edit or remove reviews where they include or refer to anything that Booking.com reasonably determines to be inappropriate and/or offensive, including but not limited to:
+4.2.2 Booking.com may at its sole discretion withhold reviews from being made available on the Platform, remove reviews or request a Guest to provide an amended version of the review if they include or refer to anything that Booking.com reasonably determines to be inappropriate and/or offensive, including but not limited to:
 
 (i) politically sensitive comments;
 
@@ -402,7 +404,7 @@ The Accommodation may access the data listed at 3.4(i) through the Extranet.
 
 4.2.3 The Accommodation shall not directly or indirectly manipulate or attempt to manipulate Guest reviews (for example by paying for positive reviews or by posting fake reviews of a competitor property). Any breach of this Clause 4.2.3 shall be a termination event under Clause 7.3(xi) of the Agreement.
 
-4.2.4 The Guest reviews are for the exclusive use of Booking.com. Booking.com retains exclusive ownership of all rights, title and interest in and to all Intellectual Property in the Guest reviews. The Accommodation is not entitled to directly or indirectly use the Guest reviews in any way without the prior written consent of Booking.com.
+4.2.4 The Guest reviews are for the exclusive use of Booking.com. The Accommodation is not entitled to directly or indirectly use the Guest reviews in any way without the prior written consent of Booking.com.
 
 4.3 (Online) Marketing & Pay Per Click Advertising
 
@@ -582,7 +584,7 @@ This Clause 6.3.2 does not limit the liability of the Parties in relation to tor
 
 (xviii) Booking.com reasonably believes that the Accommodation is in breach of any of its representations in Clauses 5.1(vi), 5.1 (vii), 5.2(iv), 11.5 and 11.6, or its obligations set out in Clauses 11.1 to 11.4; or
 
-(xix) failure by the Accommodation to provide Booking.com with information, documents or other evidence that Booking.com reasonably requests from time to time in connection with its due diligence processes, whether to ensure Booking.com's compliance with the Financial Crime Requirements, or otherwise.
+(xix) failure by the Accommodation to (timely) provide Booking.com with accurate, complete and up-to-date information, documents or other evidence that Booking.com reasonably requests from time to time in connection with its due diligence processes, or to ensure Booking.com's compliance with applicable law, or otherwise.
 
 7.4 Any notice or communication by Booking.com of "closure" (or similar wording) of the Accommodation on the website shall mean termination of the Agreement. After termination or suspension of the Agreement, the Accommodation shall honour outstanding reservations for Guests and shall pay all Commission (plus costs, expenses and interest if applicable) due on those reservations in accordance with the terms of the Agreement. Upon termination or suspension of the Agreement and notwithstanding Booking.com’s right to (permanently) remove the Accommodation from the Platform, Booking.com may keep and maintain the Accommodation page on the Platform, but close availability (status "closed operations") pending full and final payment of any due and outstanding amounts (including any Commission).
 
@@ -594,7 +596,7 @@ This Clause 6.3.2 does not limit the liability of the Parties in relation to tor
 
 8.1 The systems, books and records of Booking.com (including its financial systems, the Extranet, the Online Reservation Statement, faxes and/or emails) shall be considered conclusive evidence of the existence and receipt by the Accommodation of the reservations made and the Commission, damages and costs due to Booking.com under the Agreement, unless the Accommodation can provide reasonable and credible counter-evidence.
 
-8.2 The Accommodation shall fully cooperate and provide Booking.com with all reasonably requested information in respect of the identification of the (ultimate beneficial) owner, manager and/or controller of the Accommodation, the Accommodation’s risk profile and such other due diligence, processes and purposes as Booking.com reasonably communicates to the Accommodation from time to time.
+8.2 The Accommodation shall fully cooperate and provide Booking.com with all reasonably requested information in respect of the identification of the (ultimate beneficial) owner, manager and/or controller of the Accommodation, the Accommodation’s risk profile and such other due diligence, processes and purposes as Booking.com reasonably communicates to the Accommodation from time to time. Unless otherwise specified in Booking.com’s request, such information shall be provided within fifteen days of Booking.com’s request.
 
 8.3 Booking.com may conduct and/or instruct a third party to conduct an inspection or audit of the Accommodation's records (including information relating to data processing or security information) to the extent reasonably necessary to fulfil any legal or reporting obligations of Booking.com, and where Booking.com reasonably suspects non-compliance with the Agreement by the Accommodation. The Accommodation and its employees, agents and representatives shall cooperate fully with Booking.com and such third party, providing access to all relevant books, records, premises, personnel and other information and making copies available as required.
 
@@ -634,21 +636,13 @@ This Clause 6.3.2 does not limit the liability of the Parties in relation to tor
 
 10.1.1 Unless set out otherwise in the Agreement, the Agreement shall be exclusively governed by and construed in accordance with the laws of the Netherlands. Any disputes arising out of or in connection with the Agreement shall exclusively be submitted to and dealt with by the competent court in Amsterdam, the Netherlands.
 
-10.2 Internal Complaint Handling System
+10.2 Complaint Handling System
 
-10.2.1 Booking.com has an internal complaint handling system. Accommodations may access the internal complaint handling system through:
+10.2.1 Booking.com offers a complaint handling system to all Accommodations. Accommodations may submit a complaint through the dispute resolution center and/or by contacting their dedicated account representative (if applicable). The dispute resolution center can be reached through the Partner Hub and the Booking.com Platform.
 
-(i) the Extranet;
+10.2.2 Booking.com will confirm receipt of the complaint and will provide more information about the complaint handling process through the Extranet or by email within 1 business day of the complaint being submitted by the Accommodation.
 
-(ii) the partner help center;
-
-(iii) Booking.com’s customer service support;
-
-(iv) Booking.com’s finance department; or,
-
-(v) (if applicable) the Accommodation’s dedicated account representative.
-
-Accommodations may find more detailed information, including how to submit complaints, on the Extranet and the partner help center (partner.booking.com).
+10.2.3 Booking.com will, to the extent permitted by law and by third party confidentiality rights, provide regular updates on the progress of the complaint handling. If necessary, Booking.com will contact the Accommodation for additional information and to assess whether it is possible to resolve the matter. The Accommodation may withdraw its complaint at any time. Booking.com will provide the Accommodation with a decision in response to the complaint or an update on the complaint handling process within 5 days of the complaint being submitted.
 
 10.3 Mediation
 
@@ -712,7 +706,7 @@ Accommodations may find more detailed information, including how to submit compl
 
 12.5 Nothing in the Agreement shall prevent or limit Booking.com in its right to bring or initiate any action or proceeding or seek interim injunctive relief or (specific) performance before or in any competent courts and under the laws of the jurisdiction where the Accommodation is established or registered. The Accommodation waives its right to claim any other jurisdiction or applicable law to which it might have a right.
 
-12.6 The original English version of the Terms may have been translated into other languages for the convenience of the Accommodation. The Parties cannot derive any rights from the translated version and, if there is any dispute regarding the content or interpretation of the Terms or any conflict, ambiguity, inconsistency or discrepancy between the English version and any other language version of the Terms, the English language version shall prevail, and will be binding and conclusive. The English version shall be used in legal proceedings, including in the internal complaint mechanism and in mediation. The English version is available on the following website and will be sent to the Accommodation on written request:
+12.6 The original English version of the Terms has been translated into other languages. If there is any discrepancy between the English version and any translation of the Terms, the English version shall prevail. The English version shall be used in legal proceedings, including in the complaint mechanism and mediation. The English version is available on the following website and will be sent to the Accommodation on written request:
 
 https://admin.booking.com/hotelreg/terms-and-conditions.html?cc1=nl&lang=en.
 
@@ -722,7 +716,7 @@ https://admin.booking.com/hotelreg/terms-and-conditions.html?cc1=nl&lang=en.
 
 12.9 Booking.com and/or its affiliated companies may offer financial products and/or services ancillary to the Guest’s Reservation on the Platform (e.g. room cancellation insurance products). The Accommodation may not offer similar financial products on the Platform.
 
-12.10 Booking.com may from time to time update and amend the Terms, subject to prior communication to the Accommodation and a notice period of 15 days. During the notice period the Accommodation may terminate the Agreement if it chooses to do so. Any updated or amended version shall replace and supersede the then current version with effect from the date specified in the notice.
+12.10 Booking.com may from time to time update and amend the Terms, subject to prior communication to the Accommodation and a notice period of at least 15 days. During the notice period the Accommodation may terminate the Agreement if it chooses to do so. Any updated or amended version shall replace and supersede the then current version with effect from the date specified in the notice.
 
 ### Annex 1
 
@@ -900,9 +894,9 @@ https://admin.booking.com/hotelreg/terms-and-conditions.html?cc1=nl&lang=en.
 
 5\. Taxes
 
-5.1 Unless mandatory local law requires otherwise, the Accommodation shall be responsible for the collection, remittance, withholding and payment to the relevant (tax) authorities (as applicable) of:
+5.1 Unless mandatory local law requires otherwise, and until otherwise communicated in writing by Booking.com, the Accommodation shall be responsible for the collection, remittance, withholding and payment to the relevant (tax) authorities (as applicable) of:
 
-(i) the relevant Taxes and extras in addition to the Room Price (including the relevant Taxes, extras and amounts not included in the Room Price); and
+(i) the relevant Taxes on the Room Price and on any extras and amounts not included in the Room Price; and
 
 (ii) the Taxes on the Commission.
 
@@ -1122,7 +1116,7 @@ d. payments from the Accommodation to Booking.com,
 
 a. the Guest’s personal search history
 
-b. the rate of click through from the search page to the hotel page
+b. the rate of click through from the search page to the property page
 
 c. the number of bookings related to the number of visits to the Accommodation page on the Platform ("**Conversion**")
 
