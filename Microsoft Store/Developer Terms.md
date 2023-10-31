@@ -4090,7 +4090,7 @@ Main Change History Summary of App Developer Agreement
 
 Publish Date: Oct 30, 2023, Version 8.9
 
-Effective Date: Nov 30, 2022
+Effective Date: Nov 30, 2023
 
 • Updated language, Section 2, Removed clause allowing Microsoft to use provided contact information for
 
