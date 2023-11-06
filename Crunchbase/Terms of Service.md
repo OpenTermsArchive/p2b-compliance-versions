@@ -16,7 +16,7 @@ Terms of Service
 
 **We’ve updated our governing terms to** **ensure our Privacy Policies remain up to date and compliant with applicable laws, provide more details on our use of Cookies, add additional data usage restrictions, reference passwordless login and SSO, clarify the terms governing your use of third-party payment providers such as Apple Pay, Google Pay, or PayPal, address the status of the Crunchbase App, clarify the definition of “Content” as it pertains to our Data Use Addendum and update our Cancellation Policy to reflect Crunchbase Lite****. The foregoing changes** **will go** **into effect on** **July 26th, 2023****. PLEASE NOTE THAT YOUR USE OF AND ACCESS TO OUR SERVICE (DEFINED BELOW) IS SUBJECT TO THE FOLLOWING TERMS; IF YOU DO NOT AGREE TO ALL OF THE FOLLOWING, YOU MAY NOT USE OR ACCESS THE SERVICE IN ANY MANNER.**  
 
-Last Updated: June 26th, 2023 
+Last Updated: December 11th, 2023 
 
 Welcome to Crunchbase. Please read on to learn the rules and restrictions that govern your use of our websites, products, services and applications (the “Service”). If you have any questions, comments, or concerns regarding these terms or the Service, please contact us at [policy@crunchbase.com](mailto:policy@crunchbase.com). 
 
@@ -72,18 +72,22 @@ You represent, warrant, and agree that you will not contribute or submit any Use
 
 (k) Decompiles, reverse engineers, or otherwise attempts to obtain the source code or underlying ideas or information of or relating to the Service; or
 
-(l) Involves hotlinking.      
+(l) Uses or distributes AI Content (defined below) in a misleading way, including, for instance, representing that the AI Content is entirely human generated; or
+
+(m) Involves hotlinking.      
 
 A violation of any of the foregoing is grounds for account suspension or termination of your right to use or access the Service. 
 
 **What are my rights with respect to the Service?** 
 
-The materials displayed or published or available on or through the Service, including, but not limited to, text, graphics, data, articles, information, photos, images, illustrations, User Submissions, and so forth (all of the foregoing, the “Content”) are protected by copyright and/or other intellectual property laws. You promise to abide by all copyright notices, trademark rules, information, and restrictions contained in any Content you access through the Service in any way (including through the Crunchbase website, API, mobile applications, downloads, etc.). You will not use, copy, reproduce, adapt, modify, translate, publish, broadcast, transmit, distribute, perform, upload, display, license, sell or otherwise exploit for any purpose any Content not owned by you in a way that violates someone else’s (including Crunchbase’s) rights.
+The materials displayed or published or available on or through the Service, including, but not limited to, text, graphics, data, articles, information, photos, images, illustrations, User Submissions, AI Content and so forth (all of the foregoing, the “Content”) are protected by copyright and/or other intellectual property laws. You promise to abide by all copyright notices, trademark rules, information, and restrictions contained in any Content you access through the Service in any way (including through the Crunchbase website, API, mobile applications, downloads, etc.). You will not use, copy, reproduce, adapt, modify, translate, publish, broadcast, transmit, distribute, perform, upload, display, license, sell or otherwise exploit for any purpose any Content not owned by you in a way that violates someone else’s (including Crunchbase’s) rights.
 
 Notwithstanding the foregoing, you may display insubstantial excerpts of Content for criticism, commentary, news reporting, teaching, scholarship, research and similar purposes, provided: 
 
 * The use does not compete with the Service; and 
 * Proper attribution is provided to Crunchbase (please follow our [Attribution Instructions](https://about.crunchbase.com/terms-of-service/attribution-instructions/) to ensure that you are properly attributing Crunchbase). 
+
+In addition, if you distribute or display the AI Content to others, we encourage you to proactively disclose that the AI Content was created using artificial intelligence technologies.
 
 Any other uses of Content require Crunchbase’s prior written consent. 
 
@@ -94,6 +98,8 @@ If you would like to use Content in any manner other than as expressly permitted
 Additionally, Crunchbase provides access to the [Crunchbase 2013 Snapshot](https://data.crunchbase.com/docs/2013-snapshot) (the “Snapshot”) and [Crunchbase Open Data Map](https://data.crunchbase.com/docs/open-data-map) (the “ODM”) pursuant to the following license terms: 
 
 Subject to your compliance with these Terms, you may access and use the Snapshot and the ODM pursuant to the [Creative Commons Attribution License](https://creativecommons.org/licenses/by/4.0/). The Snapshot must be attributed to our designated pseudonym “CrunchBase 2013 Snapshot” and bear the copyright notice “© 2013” in accordance with the Creative Commons requirements. The pseudonym and copyright notice are meant to avoid confusion with the current Crunchbase dataset and to promote transparency to users of the data. If you have questions, please contact us at [policy@crunchbase.com](mailto:policy@crunchbase.com). 
+
+Crunchbase may also provide access to information or data points that are powered by generative artificial intelligence technologies (“AI Content”), and we will indicate when information provided via the Services was generated using such technologies. While we attempt to be as accurate as we can in the AI Content, the AI Content may occasionally generate incorrect information, and we do not warrant that it is accurate, complete, reliable, current, or error-free. You should always conduct independent verification of artificial intelligence powered statements, and evaluate the accuracy of the AI Content that is made available via the Services. The AI Content is not, and you will not construe nor represent it to be, Crunchbase’s opinion, or legal, financial or investment advice. Neither we nor our content providers are responsible for any damages or losses arising from any use of AI Content. Past performance is no guarantee of future results. You agree that any use you make of the AI Content is at your own risk.
 
 **Do I have to grant any licenses to Crunchbase or to other users?** 
 
@@ -114,8 +120,6 @@ You are responsible for all Content you contribute, in any manner, to the Servic
 Content that constitutes personally identifiable information may be subject to privacy laws or regulations, and your use of all such Content must at all times comply with the terms of our [Data Use Addendum](https://about.crunchbase.com/terms-of-service/data-use-addendum/). You are solely responsible for understanding how privacy laws and regulations may impact your use of such Content and for ensuring that your use (including retention, storage, and all other forms of processing) complies with all such laws and regulations.  
 
 The Service may contain content, data, links or connections to or from third-party websites or services that are not owned or controlled by Crunchbase (“Third-Party Service(s)”). When you access or use Third-Party Services, you accept that there are risks in doing so, and that Crunchbase is not responsible for such risks. By accessing or using Third-Party Services, you may be subject to the terms and conditions and privacy policy of each such Third-Party Service, which may include, by way of example and without limitation, the terms and conditions for any Third-Party Services you use to pay for the Service, such as Apple Pay, Google Pay, or PayPal. We encourage you to be aware when you leave the Service and to read the terms and conditions and privacy policy of each Third-Party Service that you visit or utilize. 
-
-One such Third-Party Service is FinancialContent Services, Inc. dba CloudQuote. Certain information available through the Service: (1) is proprietary to CloudQuote and/or its content providers; (2) may not be copied or distributed; and (3) is not warranted to be accurate, complete or timely. Neither CloudQuote nor its content providers are responsible for any damages or losses arising from any use of this information. Past performance is no guarantee of future results. 
 
 Crunchbase has no control over, and assumes no responsibility for, the content, accuracy, terms and conditions, privacy policies, or practices of or opinions expressed in any Third-Party Services or by any third-party that you interact with through the Service. In addition, Crunchbase will not and cannot monitor, verify, censor or edit the content of any Third-Party Services. By using the Service, you release and hold us harmless from any and all liability arising from your access to or use of any Third-Party Service. 
 
