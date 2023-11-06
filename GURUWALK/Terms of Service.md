@@ -15,7 +15,7 @@ Estos términos y condiciones podrán ser actualizados y ratificados de nuevo pr
 
 **1) IDENTIFICACIÓN GURUWALK**
 
-La titularidad de esta página web, [https://www.guruwalk.com](https://www.guruwalk.com/) ,la ostenta Guruwalk, S.L., con domicilio social en Ronda circunvalación, 188 (Ed. CEEI Castellón), 12003 Castelló de la Plana (Castellón), con CIF B98958648, inscrita en el Registro Mercantil de Valencia, al Tomo 10407, Libro 7688 Folio 44, Sección 8 y Hoja número V179201, en adelante, **GURUWALK**.
+La titularidad de esta página web, [https://www.guruwalk.com](https://www.guruwalk.com/) ,la ostenta Guruwalk, S.L., con domicilio social en Calle Guillem de Castro 9, 46007 Valencia, con CIF B98958648, inscrita en el Registro Mercantil de Valencia, al Tomo 10407, Libro 7688 Folio 44, Sección 8 y Hoja número V179201, en adelante, **GURUWALK**.
 
 Los datos de contacto son los siguientes:  
 Teléfono: +34 644 53 16 24.  
@@ -249,7 +249,7 @@ The Provider shall be liable and shall hold **GURUWALK** harmless from any kind 
 
 ##### Introduction
 
-GuruWalk S.L., with legal address in Ronda Circunvalación, 188, Edificio CEEI Castellón 12003, Castellón de la Plana (Castellón - España), and CIF B-98958648 (collectively referred to herein below as "GuruWalk"), owner of the website www.guruwalk.com (collectively referred to herein below as this "Website"), is a company that provides services to promote free tours in different parts of the world for those users who are interested in contracting said service.
+GuruWalk S.L., with legal address in Calle Guillem de Castro 9, 46007 Valencia, and CIF B-98958648 (collectively referred to herein below as "GuruWalk"), owner of the website www.guruwalk.com (collectively referred to herein below as this "Website"), is a company that provides services to promote free tours in different parts of the world for those users who are interested in contracting said service.
 
 ##### 1.- Objective
 
