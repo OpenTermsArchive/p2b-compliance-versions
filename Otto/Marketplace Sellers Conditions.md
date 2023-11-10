@@ -7,7 +7,7 @@ _Current as of: 18 November 2019_
 
 #### 1.1   Otto Partner Connect (“OPC”)
 
-Otto (GmbH & Co KG), Werner-Otto-Strasse 1-7, 22179 Hamburg, Germany (**“OTTO”**), provides enterprises within the meaning of Section 14 BGB (_Bürgerliches Gesetzbuch - BGB_) (**“RETAILER”**) with a central platform to manage RETAILER activities on the sales platform operated by OTTO, [www.otto.de](http://www.otto.de/) (“**Marketplace**”), at the URL [portal.otto.market](http://partner.otto.de/). The use of OPC is subject to these Terms of Use; any additional services offered under OPC may be subject to additional conditions.
+Otto (GmbH & Co KG), Werner-Otto-Strasse 1-7, 22179 Hamburg, Germany (**“OTTO”**), provides enterprises within the meaning of Section 14 BGB (_Bürgerliches Gesetzbuch - BGB_) (**“RETAILER”**) with a central platform to manage RETAILER activities on the sales platform operated by OTTO, [www.otto.de](http://www.otto.de/) (“**Marketplace**”), at the URL [portal.otto.market](https://portal.otto.market/). The use of OPC is subject to these Terms of Use; any additional services offered under OPC may be subject to additional conditions.
 
 #### 1.2 Terms of Use of Otto (GmbH & Co KG) for Retailers on www.otto.de prevail
 
