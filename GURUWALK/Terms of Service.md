@@ -1,90 +1,90 @@
 [Aviso legal](https://www.guruwalk.com/terms/legal_notice)[Terms of service](https://www.guruwalk.com/terms/terms_policy)[Privacy policy](https://www.guruwalk.com/terms/privacy_policy)[Cookies policy](https://www.guruwalk.com/terms/cookie_policy)[PRO Plan GuruWalk](https://www.guruwalk.com/terms/pro_plan)[Community rules gurus](https://www.guruwalk.com/terms/gurus_guidelines)[Community rules walkers](https://www.guruwalk.com/terms/walkers_guidelines)[GuruWalk Affiliate FAQs](https://www.guruwalk.com/terms/affiliates_faq)[Imprint](https://www.guruwalk.com/terms/imprint)
 
-CONDICIONES APLICABLES A LOS SERVICIOS
-======================================
+CONDITIONS APPLICABLE TO SERVICES
+=================================
 
-* [**CONDICIONES APLICABLES PARA LOS WALKERS DE GURUWALK**](#s1)
+* [**TERMS AND CONDITIONS APPLICABLE TO GURUWALK WALKERS**](#s1)
 * [TERMS AND CONDITIONS APPLICABLE TO GURUWALK GUIDES](#s2)
 * [TERMS AND CONDITIONS APPLICABLE TO GURUWALK AFFILIATES](#s3)
 
-#### **CONDICIONES APLICABLES PARA LOS WALKERS DE GURUWALK**
+#### **TERMS AND CONDITIONS APPLICABLE TO GURUWALK WALKERS**
 
-En el momento en el que te das de alta como usuario (en adelante, **Walker**) en [www.guruwalk.com](https://www.guruwalk.com/) (en adelante, **GURUWALK**), aceptas estos términos y condiciones.
+By registering as a user (hereinafter referred to as **Walker**) on [www.guruwalk.com](https://www.guruwalk.com/) (hereinafter referred to as **GURUWALK**), you agree to the following terms and conditions.
 
-Estos términos y condiciones podrán ser actualizados y ratificados de nuevo previo a la celebración de un tour, en cualquier momento.
+These terms and conditions may be updated and ratified again prior to the conclusion of a tour at any time.
 
-**1) IDENTIFICACIÓN GURUWALK**
+**1) GURUWALK IDENTIFICATION**
 
-La titularidad de esta página web, [https://www.guruwalk.com](https://www.guruwalk.com/) ,la ostenta Guruwalk, S.L., con domicilio social en Calle Guillem de Castro 9, 46007 Valencia, con CIF B98958648, inscrita en el Registro Mercantil de Valencia, al Tomo 10407, Libro 7688 Folio 44, Sección 8 y Hoja número V179201, en adelante, **GURUWALK**.
+The ownership of this website, [https://www.guruwalk.com](https://www.guruwalk.com/) is held by Guruwalk, S.L., with registered office at Calle Guillem de Castro 9, 46007 Valencia, TAX ID B98958648, registered in the Mercantile Register of Valencia, Volume 10407, Book 7688 Folio 44, Section 8 and Sheet number V179201, hereinafter **GURUWALK**.
 
-Los datos de contacto son los siguientes:  
-Teléfono: +34 644 53 16 24.  
-Correo electrónico de contacto: [privacidad@guruwalk.com](mailto:privacidad@guruwalk.com)  
+Contact details are as follows:  
+Phone: +34 644 53 16 24.  
+Contact email: [privacidad@guruwalk.com](mailto:privacidad@guruwalk.com)  
 Facebook: [https://www.facebook.com/guruwalk/](https://www.facebook.com/guruwalk/)  
 Instagram: @guruwalk  
-Para todas las preguntas que puedas tener en relación a los presentes términos y condiciones, puedes dirigirte a nosotros por cualquiera de los medios indicados.
+If you have any questions regarding these terms and conditions, please contact us by any of the means indicated.
 
-**2) OBJETO DEL SITIO WEB**
+**2) PURPOSE OF THE WEBSITE**
 
-**GURUWALK** actúa como intermediario en la reserva de actividades relativas al contacto entre interesados en rutas turísticas (los **Walkers**) y guías que las organizan (en adelante "**Gurus**" o "**proveedor del tour**"), a través de la página web de su titularidad [www.guruwalk.com](https://www.guruwalk.com/) (en adelante, el **Sitio Web**).
+**GURUWALK** acts as an intermediary in the booking of activities relating to the contact between those interested in tourist routes (the **Walkers**) and the guides who organise them (hereinafter "**Gurus**" or "**tour providers**"), through its website [www.guruwalk.com](https://www.guruwalk.com/) (hereinafter the **Website**).
 
-El **Guru** realiza y organiza las actividades culturales, de entretenimiento, esparcimiento y ocio (en adelante Tours), dirigidas a los **Walkers**, bajo su propio riesgo y ventura y a través de sus propios medios.
+**Gurus** perform and organise the cultural, entertainment, leisure and recreational activities (hereinafter referred to as Tours) for **Walkers** at their own risk and by their own means.
 
-La Plataforma permite a **Gurus** y **Walkers** ponerse en contacto para disfrutar de las distintas experiencias que organizan los **Gurus**. De esta forma, **GURUWALK** opera como una plataforma de intermediación.
+The Platform allows **Gurus** and **Walkers** to get in touch to enjoy the different experiences organised by the Gurus. In this way, **GURUWALK** operates as an intermediary platform.
 
-**3) SISTEMA DE REGISTRO Y RESERVAS**
+**3) REGISTRATION AND BOOKING SYSTEM**
 
-Para crear una cuenta, será necesario indicar los siguientes datos personales a fin de crear un perfil de **Walker** registrado: dirección de correo electrónico, nombre completo, ciudad en la que vives. Posteriormente a la hora de realizar una reserva, se te pedirá como en el caso del **walker** sin cuenta registrada el número de acompañantes y un teléfono de contacto para que pueda contactar el **Guru**.
+To create an account, you will need to provide the following personal information in order to create a registered **Walker** profile: email address, full name, city where you live. Subsequently, when making a reservation, you will be asked, as in the case of **Walkers** without a registered account, for the number of companions and a contact telephone number so that the **Guru** can contact you.
 
-A la hora de realizar una reserva, aceptas y te comprometes a cumplir los términos y condiciones estipulados.
+By making a booking, you accept and agree to abide by the terms and conditions.
 
-**4) EL PROVEEDOR DE LOS TOURS (GUÍA), ES EL RESPONSABLE DE SU ORGANIZACIÓN Y DESARROLLO**
+**4) THE TOUR PROVIDER (GUIDE) IS RESPONSIBLE FOR THE ORGANISATION AND RUNNING OF THE TOUR**
 
-**GURUWALK** no organiza ni ofrece ningún tipo de tours propios, por lo tanto, no es el responsable directo de los viajes organizados por un guía. Ten en cuenta por tanto que, **GURUWALK** únicamente facilita el contacto entre el **walker**, como persona que busca tours, y el guía, por lo que **GURUWALK** no garantiza de manera alguna la correcta ejecución del tour.
+**GURUWALK** does not organise or offer any tours of its own and is therefore not directly responsible for tours organised by a guide. Please note that **GURUWALK** only facilitates the contact between the **Walker**, as the person looking for a tour, and the guide, so **GURUWALK** does not guarantee in any way the correct performance of the tour.
 
-Es responsabilidad exclusiva del proveedor de tours o **Guru**, garantizar la exactitud, legitimidad y corrección de todo el contenido e información que aporta en la Plataforma perteneciente a su tour y servicios. En todo caso, como **walker**, puedes acceder a las opiniones sobre la satisfacción o rating con el tour realizado lo que te puede servir como referencia antes de contratar un tour.
+It is the sole responsibility of the tour provider or **Guru** to ensure the accuracy, legitimacy and correctness of all content and information it provides on the Platform pertaining to its tour and services. In any case, as a **Walker**, you can access the opinions about the satisfaction or rating of the tour, which can serve as a reference before hiring a tour.
 
-Al realizar una reserva y contratar un tour, estás contratando con el específico proveedor de ese tour, adhiriéndote a las condiciones que se hayan establecido entre vosotros, sin que **GURUWALK** forme parte de ese contrato y/o tenga responsabilidad alguna sobre cualquier vicisitud relacionada con el mismo (ejecución del tour, calidad del mismo, cancelaciones, retrasos, incumplimientos, accidentes durante el tour, etc.).
+By making a reservation and booking a tour, you are contracting with the specific provider of that tour, adhering to the conditions that have been established between you, without **GURUWALK** being part of that contract and/or having any responsibility for any vicissitude related to it (performance of the tour, quality of the tour, cancellations, delays, non-compliance, accidents during the tour, etc).
 
-Cualquier reclamación sobre esta ejecución debe ser realizada única y exclusivamente al **proveedor del tour** con el que decidiste libremente contratar. Será el **proveedor del tour** el que deba decidir cómo resolver cualquier reclamación que hayas realizado en relación al acuerdo al que hayáis llegado.
+Any complaint about this performance must be made solely and exclusively to the **tour provider** with whom you freely decided to contract. It will be up to the **tour provider** to decide how to resolve any claims you have made in relation to the agreement you have reached.
 
-**5) SI VAS A TRAER ACOMPAÑANTES EN UNA RUTA, ES TU RESPONSABILIDAD INFORMARLES**
+**5) IF YOU ARE BRINGING ACCOMPANYING PERSONS ON A ROUTE, IT IS YOUR RESPONSIBILITY TO INFORM THEM**
 
-Si contratas un tour en el que vaya a participar cualquier acompañante, garantizas que informarás al/los acompañante/s de los presentes términos y condiciones, así como que el/los acompañante/s comprende/n y aceptan estos términos y condiciones.
+If you book a tour in which any accompanying person(s) will participate, you guarantee that you will inform the accompanying person(s) of these terms and conditions and that the accompanying person(s) understands and accepts these terms and conditions.
 
-**6) CONFIRMACIÓN DE RESERVAS DE TOURS Y FUNCIONAMIENTO**
+**6) CONFIRMATION OF TOUR BOOKINGS AND OPERATION**
 
-Recibirás la confirmación de la reserva vía email después de completar el proceso de reserva, incluyendo toda la información de la que dispone **GURUWALK** acerca del tour específico de acuerdo con la información proporcionada por el **proveedor del tour**.
+You will receive the booking confirmation via email after completing the booking process, which includes all the information available to **GURUWALK** about the specific tour according to the information provided by the **tour provider**.
 
-Al hacer una reserva del tour, aceptas las pólizas de los **proveedores de tours** incluyendo todas sus políticas de no presentación, cancelación y check-in que se muestran o establecen en sus términos y condiciones. De nuevo se recuerda que el tour se contrata con un **tercero proveedor del tour**, no con **GURUWALK**, por lo que el contrato que regirá la prestación de servicios del tour será el que se pacte con el proveedor concreto, y la responsabilidad acerca de la prestación correcta y legítima del servicio será del prestador.
+By making a tour booking, you agree to the **tour providers'** policies including all no-show, cancellation and check-in policies shown or stated in their terms and conditions. Again, we remind you that the tour is contracted with a **third-party tour provider**, not with **GURUWALK**, so the contract that will govern the provision of tour services will be the one agreed with the specific provider, and the responsibility for the correct and legitimate provision of the service will be that of the provider.
 
-Es tu responsabilidad notificar al **proveedor de tour** directamente para hacer cualquier modificación de la reserva o informarle sobre cualquier requerimiento especial / facilidades que tú o tus acompañantes pueda requerir.
+It is your responsibility to notify the **tour provider** directly to make any amendments to the booking or to inform them of any special requirements/facilities that you or your accompanying person(s) may require.
 
-El listado de **proveedores de tours** en **GURUWALK** no debería ser considerado como una recomendación específica de **GURUWALK**, que únicamente oferta los servicios de los **proveedores de tours** que se registran en la Plataforma, intentando en todo momento que la calidad de los mismos sea adecuada, pero sin hacerse responsable de la correcta prestación de los servicios de acompañamiento turístico.
+The list of **tour providers** on **GURUWALK** should not be considered as a specific recommendation by **GURUWALK**, which only offers the services of the **tour providers** that are registered on the Platform, trying at all times to ensure that the quality of the same is adequate, but without being responsible for the correct provision of the tour escort services.
 
-**7) SISTEMA DE RATING Y COMENTARIOS EN LOS PERFILES Y RUTAS**
+**7) RATING SYSTEM AND COMMENTS ON PROFILES AND ROUTES**
 
-La Plataforma pone a disposición del usuario un sistema de rating a través del cual el usuario puede revisar la puntuación que otros usuarios han otorgado a los servicios prestados por determinados **proveedores de tours**, así como los comentarios que otros usuarios han facilitado sobre su experiencia. **GURUWALK** no se hace responsable de las opiniones y valoraciones otorgadas por los demás usuarios. Eres únicamente tú quien debe valorar qué tour escoger, y lo haces bajo tu cuenta y riesgo y en esta misma línea, como usuario, puedes facilitar tu opinión, valoración y comentarios sobre tours que hayas realizado.
+The Platform makes a rating system available to the user through which the user can review the rating that other users have given to the services provided by certain **tour providers**, as well as the comments that other users have left about their experience. **GURUWALK** is not responsible for the opinions and ratings given by other users. You are the only one who must decide which tour to choose, and you do so at your own risk, and in the same way, as a user, you can provide your opinion, assessment, and comments on tours you have taken.
 
-**GURUWALK** se reserva el derecho a retirar todos aquellos comentarios y aportaciones que vulneren el respeto a la dignidad de la persona, que sean discriminatorios, xenófobos, racistas pornográficos, que atenten contra la juventud o la infancia, el orden o la seguridad pública o que, a su juicio, no resultarán adecuados para su publicación. En cualquier caso, **GURUWALK** no será responsable de las opiniones vertidas por los usuarios a través de las herramientas de participación.
+**GURUWALK** reserves the right to remove all comments and contributions that violate the respect for the dignity of the person, that are discriminatory, xenophobic, racist, pornographic, that violate youth or childhood, public order, or safety or that, in its opinion, are not appropriate for publication. In any case, **GURUWALK** will not be responsible for the opinions expressed by users through the participation tools.
 
-Tú eres el único responsable de la interacción que establezcas con otros usuarios de la Plataforma y eres consciente de que **GURUWALK** no es responsable de las conductas de otros usuarios. Si bien hace lo posible para que se mantenga la cordialidad y el respeto en las relaciones entre usuarios, **GURUWALK** se reserva el derecho a supervisar o involucrarse en los conflictos que mantengas con otros usuarios. Te pedimos que actúes con sentido común y utilices tu mejor criterio al interactuar con otros usuarios, evitando expresiones malsonantes, ofensivas o que puedan herir la sensibilidad de los demás usuarios de la Plataforma.
+You are solely responsible for your interaction with other users of the Platform, and you are aware that **GURUWALK** is not responsible for the conduct of other users. While **GURUWALK** strives to maintain cordial and respectful relationships between users, **GURUWALK** reserves the right to monitor or become involved in your conflicts with other users. We ask you to act with common sense and use your best judgement when interacting with other users, avoiding swearing, offensive expressions or expressions that may offend the sensibilities of other users of the Platform.
 
-**8) USOS NO PERMITIDOS DE LA PLATAFORMA**
+**8) PROHIBITED USES OF THE PLATFORM**
 
-No está permitido y, por tanto, sus consecuencias serán de tu exclusiva responsabilidad como **walker**, el acceso o la utilización de la Plataforma con fines ilegales o no autorizados, con o sin finalidad económica, y, con carácter enunciativo, pero no limitativo, queda prohibido:
+Access to or use of the Platform for illegal or unauthorised purposes, whether or not for financial gain, is not permitted, and the consequences thereof shall be your sole responsibility as a **walker**, and, without limitation, is prohibited:
 
-1. Usar la Plataforma en forma que pueda provocar daños, interrupciones, ineficiencias o defectos en su funcionalidad o en el ordenador de un tercero;
-2. Usar la Plataforma para la transmisión, la instalación o la publicación de cualquier virus, código malicioso u otros programas o archivos perjudiciales;
-3. Registrarse a través de la Plataforma con una identidad falsa, suplantando a terceros o utilizando un perfil falso o realizando cualquier otra acción que pueda confundir a otros usuarios sobre el origen de un mensaje. As well as contact other users of the platform for commercial or advertising purposes.
-4. Acceder sin autorización a cualquier sección de la Plataforma, a otros sistemas o redes conectadas a la Plataforma, a ningún servidor de **GURUWALK** ni a los servicios ofrecidos a través de la Plataforma, por medio de pirateo o falsificación, extracción de contraseñas o cualquier otro medio ilegítimo;
-5. Quebrantar, o intentar quebrantar, las medidas de seguridad o autenticación de la Plataforma o de cualquier red conectada a la misma, o las medidas de seguridad o protección inherentes a los contenidos ofrecidos en la Plataforma
-6. Llevar a cabo alguna acción que provoque una saturación desproporcionada o innecesaria en la infraestructura de la Plataforma o en los sistemas o redes de **GURUWALK**, así como en los sistemas y redes conectados a la Plataforma, tales como ataques de denegación de servicio;
-7. Impedir el normal desarrollo de las promociones o concursos o cualquier otra actividad que se pueda ofrecer a través de la Plataforma o cualesquiera de sus funcionalidades, ya sea alterando o tratando de alterar, ilegalmente o de cualquier otra forma, el acceso, participación o funcionamiento de aquéllos, o falseando el resultado de los mismos y/o utilizando métodos de participación fraudulentos, mediante cualquier procedimiento, y/o a través de cualquier práctica que atente o vulnere en modo alguno los presentes términos y condiciones.
+1. Using the Platform in a way that may cause damage, interruptions, inefficiencies, or defects in its functionality or in the computer of a third party;
+2. Using the Platform for the transmission, installation or publication of any viruses, malicious code or other harmful programs or files;
+3. Registering through the Platform under a false identity, impersonating a third party or using a false profile or performing any other action that may mislead other users as to the origin of a message. As well as contacting other users of the platform for commercial or advertising purposes.
+4. Unauthorised access to any section of the Platform, other systems or networks connected to the Platform, any **GURUWALK** server or services offered through the Platform, by hacking or forgery, password mining or any other illegitimate means;
+5. Violating, or attempt to violate, the security or authentication measures of the Platform or any network connected to the Platform, or the security or protection measures inherent in the content offered on the Platform;
+6. Taking any action that causes disproportionate or unnecessary saturation of the Platform's infrastructure or **GURUWALK's** systems or networks, as well as systems and networks connected to the Platform, such as denial of service attacks;
+7. Preventing the normal running of promotions or contests or any other activity that may be offered through the Platform or any of its functionalities, either by altering or attempting to alter, illegally or in any other way, access, participation, or operation thereof, or by falsifying the result thereof and/or using fraudulent participation methods, by any procedure, and/or through any practice that violates or infringes these terms and conditions in any way;
 
-**GURUWALK** podrá eliminar o bloquear la cuenta de cualquier **walker** que incumpla las condiciones antedichas, sin perjuicio del ejercicio de las acciones judiciales y/o administrativas que **GURUWALK** pueda emprender contra el guía infractor. La eliminación de la cuenta no acarreará en caso alguno indemnización de daños y perjuicios.
+**GURUWALK** may delete or block the account of any **walker** who breaches the aforementioned conditions, without prejudice to any legal and/or administrative action that GURUWALK may take against the offending guide. The deletion of the account shall in no case entail compensation for damages.
 
-Por ello y en esta línea, **GURUWALK** antes de emprender este tipo de acciones puede eliminar los contenidos del **walker** según sea necesario, para garantizar el respeto de los términos y condiciones que has aceptado expresamente, por ejemplo, por comunicación del titular de derechos de autor de fotos publicadas. **GURUWALK** no está obligado a almacenar copias del contenido del usuario ni a proporcionar tales copias.
+Before taking such action, **GURUWALK** may remove content from the walker as necessary to ensure compliance with the terms and conditions you have expressly agreed to, e.g., by communication from the copyright holder of posted photos. GURUWALK is not obliged to store copies of user content or to distribute such copies.
 
 #### **TERMS AND CONDITIONS APPLICABLE TO GURUWALK GUIDES**
 
