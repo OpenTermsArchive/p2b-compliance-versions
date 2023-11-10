@@ -417,7 +417,6 @@ O preço dos serviços está definido de acordo com a categoria, de acordo com a
 * **Montra 7 dias**: 5,00 €
 * **Montra 30 dias**: 10,00 €
 * **Urgente**: 2,00 €
-* **Serviço de entrega**: 99,99 €
 
 #### Informática e Electrónica
 
@@ -426,7 +425,6 @@ O preço dos serviços está definido de acordo com a categoria, de acordo com a
 * **Montra 7 dias**: 7,00 €
 * **Montra 30 dias**: 20,00 €
 * **Urgente**: 2,00 €
-* **Serviço de entrega**: 99,99 €
 
 #### Imobiliário, Veículos, Emprego & Serviços, Outros, Equipamento profissional, Animais
 
@@ -435,7 +433,6 @@ O preço dos serviços está definido de acordo com a categoria, de acordo com a
 * **Montra 7 dias**: 10,00 €
 * **Montra 30 dias**: 30,00 €
 * **Urgente**: 3,00 €
-* **Serviço de entrega**: 99,99 €
 
 #### Pacotes de arrendamento para férias
 
