@@ -235,6 +235,8 @@ Jelen ÁSZF legfrissebb, hatályos változata a Felhasználók regisztrációs f
 
 A 2023.08.08-ig érvényes ÁSZF [itt érhető el](http://www.arukereso.hu/static/general_terms_and_conditions2308.html).
 
+Az ÁSZF angol verziója [itt érhető el](https://www.arukereso.hu/static/general_terms_and_conditions_en.html).
+
 [www.arukereso.hu](https://www.arukereso.hu/)  
 Online Comparison Shopping Kft. ©  
 Minden jog fenntartva!
