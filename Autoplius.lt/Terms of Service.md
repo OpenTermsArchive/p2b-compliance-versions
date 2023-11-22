@@ -1,3 +1,198 @@
-  
+Autoplius.lt naudojimosi taisyklės
+==================================
 
-===
+1. Bendrosios nuostatos
+
+1. šiomis taisyklėmis (toliau – Taisyklės) nustatoma vartotojų ir verslininkų (toliau – Naudotojai) naudojimosi interneto svetaine [autoplius.lt](http://www.autoplius.lt/) tvarka (toliau – Autoplius.lt arba Svetainė), taip pat Naudotojų teisės, pareigos, atsakomybė bei kitos nuostatos. Svetainės skiltys „[Privatumo politika](https://autoplius.lt/informacija/privatumo-politika)“ ir „[Dažniausiai užduodami klausimai](https://autoplius.lt/informacija/dazniausiai-uzduodami-klausimai)“ yra neatskiriama šių Taisyklių dalis.
+2. Autoplius.lt tvarko ir administruoja UAB „Diginet LTU”, į. k. 126222639, buveinės adresas Saltoniškių g. 9B-1, LT-08105 Vilnius, registruota Lietuvos Respublikos juridinių asmenų registre, el. pašto adresas: [\[email protected\]](https://en.autoplius.lt/cdn-cgi/l/email-protection), tel. nr.: +370 5 207 5061 (toliau – Teikėjas).
+3. Naudojimasis Svetaine ir paslaugomis yra nemokamas. Jeigu teikiama paslauga yra mokama – apie tai Naudotojai Svetainėje yra informuojami papildomai.
+4. Autoplius.lt Naudotojams suteikiama galimybė patalpinti bei peržiūrėti skelbimus apie siūlomus objektus (toliau – Skelbimas), naudotis kitomis Svetainėje teikiamomis paslaugomis šiose Taisyklėse nustatyta tvarka.
+5. Autoplius.lt vartotojas yra fizinis ar juridinis asmuo, su savo verslu, prekyba, amatu ar profesija nesusijusiais tikslais patalpinęs ar norintis peržiūrėti Skelbimą, ar bet kokia kita forma naudojantis Autoplius.lt vartojimo tikslais (toliau – Vartotojas). Autoplius.lt verslininkas yra privatus asmuo, vykdantis komercinę ar profesinę veiklą, arba juridinis asmuo, kuris, naudodamasis Svetaine, siūlo prekes arba paslaugas vartotojams su savo prekyba, verslu, amatu arba profesija susijusiais tikslais ir (ar) yra sudaręs paslaugų teikimo sutartį (toliau – Sutartis) su Teikėju (toliau – Verslininkas).
+6. šių Taisyklių prasme paslaugos apima visus ir bet kokius Naudotojų veiksmus, kuriuos galima atlikti Svetainėje, įskaitant, tačiau neapsiribojant, Skelbimų skelbimą, skelbiamos informacijos skaitymą, klausimų, bet kokio pobūdžio informacijos ir (ar) duomenų pateikimą, siuntimą bei gavimą (toliau – Paslaugos).
+7. Dalis Autoplius.lt teikiamų Paslaugų yra mokamos (toliau – Mokamos paslaugos). Mokamų paslaugų sąlygos yra nurodytos Svetainės skiltyje „[Dažniausiai užduodami klausimai](https://autoplius.lt/informacija/dazniausiai-uzduodami-klausimai)“ bei konkrečios Mokamos paslaugos užsakymo puslapyje. Toliau šiose Taisyklėse nuoroda į „Paslaugas“ apima visas Paslaugas, įskaitant ir Mokamas paslaugas, o nuoroda į „Mokamas paslaugas“ apima tik tas Paslaugas, už kurias Naudotojas moka užmokestį.
+8. Naudotojai sutikimą su Taisyklėmis ir įsipareigojimą jų laikytis išreiškia bet kokiu būdu ir forma naudodami Autoplius.lt. Naudotojai, nesutinkantys bent su viena Taisyklių sąlyga, neturi teisės naudotis Autoplius.lt.
+9. Naudotojų keliami Skelbimai Svetainėje yra aiškiai atskirti: Vartotojų Skelbimai yra žymimi kontaktų skiltyje nurodant „Privatus pardavėjas“, o Verslininkų Skelbimai žymimi kontaktų skiltyje nurodant “Pardavėjas” arba Verslininko pavadinimą, bei kontaktus. Išskyrus atvejus, kai Verslininkas įkelia Skelbimą kaip Privatus asmuo, todėl tokiais atvejais Naudotojai patys įsipareigoja nurodyti informaciją apie tai, ar Skelbimas įkeliamas kaip Privataus pardavėjo, ar kaip Verslininko.
+10. Vartotojų apsaugos reikalavimai netaikomi sutarčiai, kai prekes, paslaugas siūlantis asmuo nėra Verslininkas.
+11. Teikėjas teikia tik technines priemones informacijos patalpinimui Autoplius.lt ir nėra jokių asmenų atstovas ar agentas, suinteresuotoji šalis ar tarpininkas.
+12. Jeigu kuri nors šių Taisyklių nuostata prieštarauja įstatymams arba dėl kokios nors priežasties tampa dalinai arba visai negaliojančia, ji nedaro negaliojančiomis likusių Taisyklių nuostatų.
+
+3. Paslaugų pakeitimai
+
+1. Naudotojas sutinka, jog Teikėjas bet kuriuo metu gali toliau plėtoti Svetainę bei siūlomų Paslaugų spektrą siekdamas užtikrinti tinkamą Paslaugų teikimą ar dėl kitų su tuo susijusių priežasčių (pavyzdžiui, pasikeitus techniniams reikalavimams ar saugos aspektams), taip pat siekdamas užtikrinti teikiamų Paslaugų kokybę, pasiūlą bei prisitaikyti prie Naudotojų poreikių. Todėl Teikėjas gali vienašališkai keisti Autoplius.lt teikiamas Paslaugas ir (ar) jų apmokestinimą, tokiu atveju Naudotojas neturės galimybės toliau naudotis nepakeistomis Paslaugomis po pakeitimų įsigaliojimo.
+2. Dėl tokių Paslaugų pakeitimų Vartotojas nepatirs jokių papildomų išlaidų. Apie Paslaugų pakeitimus ir Vartotojo teisę atsisakyti sutarties dėl Mokamų paslaugų Teikėjas Vartotoją informuos el. paštu 30 dienų prieš įsigaliojant pakeitimams, pateikdamas informaciją susipažinimui apie planuojamus Paslaugų pakeitimus, tačiau tik tais atvejais, kai pakeitimais yra keičiamos jau apmokėtos Paslaugos.
+3. Vartotojas turės teisę atsisakyti sutarties dėl Mokamų paslaugų teikimo per 30 dienų nuo pranešimo apie pakeitimus gavimo arba nuo pakeitimų taikymo momento (priklausomai nuo to, kas įvyko vėliau), jei Paslaugų pakeitimas turės neigiamos įtakos Vartotojo prieigai prie Mokamų paslaugų bei naudojimuisi jomis, išskyrus atvejus, kai toks neigiamas poveikis yra nedidelis.
+4. Jeigu aiškiai nenurodyta kitaip, Naudotojas sutinka, kad apie bet kokius Paslaugų pakeitimus jam bus pranešta prieš 30 dienų nuo jų taikymo pradžios el. paštu, kurį Naudotojas pateikė Teikėjui registruodamasis Svetainėje, nebent Paslaugų pakeitimai neįsigalioja apmokėtų Paslaugų laikotarpiu, tuomet apie pakeitimus Naudotojas informuojamas užsakant Paslaugas.
+5. Naudotojas aiškiai sutinka ne rečiau kaip kartą per mėnesį tikrinti savo el. paštą, kurį pateikė Teikėjui registruodamas savo Autoplius.lt paskyrą.
+
+5. Taisyklių pakeitimai
+
+1. Teikėjas pasilieka teisę bet kada savo išimtine nuožiūra keisti, taisyti ar papildyti šias Taisykles dėl bet kokių teisėtų, pavyzdžiui, teisinių, norminių ar saugumo priežasčių, atsižvelgdamas į galiojančių teisės aktų nustatytus reikalavimus.
+2. Tais atvejais, kai Taisyklių pakeitimai įsigalioja apmokėtų ar faktiškai užsakytų Paslaugų atžvilgiu, pakeistos Taisyklės bus pateiktos patvarioje laikmenoje Verslininkui susipažinti el. paštu, kurį Verslininkas pateikė registruodamasis Svetainėje likus ne mažiau kaip 15 dienų iki numatytos pakeistų Taisyklių įsigaliojimo dienos. Taisyklės taip pat bus pateiktos Naudotojui susipažinti naudojantis Svetaine. Laikoma, kad Teikėjas ir Naudotojas faktiškai susitarė dėl pakeistų Taisyklių taikymo, jeigu:
+
+1. Naudotojas nepateiks prieštaravimo dėl Taisyklių pakeitimų iki numatytos pakeistų Taisyklių įsigaliojimo dienos ir toliau naudosis Svetaine; ir
+2. Naudotojas buvo aiškiai informuotas apie pakeitimus.
+
+4. Jeigu Naudotojas nesutinka su pakeistomis ir (ar) papildytomis Taisyklėmis, jis praranda teisę naudotis Svetaine ir (ar) Paslaugomis.
+5. Verslininkas turi teisę nutraukti sudarytą Sutartį su Teikėju, jeigu praneša apie Sutarties nutraukimą Teikėjui iki pakeistų Taisyklių įsigaliojimo momento. Toks Sutarties nutraukimas įsigalioja per 15 dienų nuo pranešimo apie keičiamas Taisykles gavimo. šio termino Verslininkas gali atsisakyti rašytiniu pareiškimu arba savo veiksmas išreikšdamas tokį norą.
+6. Jeigu Verslininkas, nepraėjus 15 dienų terminui dėl Sutarties nutraukimo su Teikėju, toliau naudojasi Svetaine, kelia Skelbimus po pranešimo apie planuojamus Taisyklių pakeitimus gavimo, laikoma, kad Verslininkas aiškiais savo veiksmais sutinka su Taisyklių pakeitimais.
+7. Iki Svetainės Taisyklių pakeitimo užsakytos Paslaugos teikiamos tokia tvarka ir terminais, kaip buvo nustatyta tuo metu galiojusiose Taisyklėse.
+
+7. Reikalavimai Skelbimų turiniui, formai bei kitos naudojimosi Autoplius.lt sąlygos
+
+1. Patalpindamas Skelbimą, Naudotojas prisiima visą atsakomybę už jo turinio atitikimą Taisyklių sąlygoms ir Lietuvos Respublikos teisės aktams. Pateikdamas Skelbime duomenis, Naudotojas patvirtina ir garantuoja, kad pateikta informacija yra tikra, tiksli ir išsami.
+2. Svetainės duomenų bazėje leidžiama talpinti Skelbimus tik apie transporto priemonių, jų dalių ir (ar) aksesuarų pardavimą arba nuomą. Naudotojai savo Skelbimuose, po jų patalpinimo praėjus 24 val., negali koreguoti pagrindinės informacijos: atitinkamos transporto priemonės markės ir (ar) modelio.
+3. Skelbimas privalo būti patalpintas tik jam skirtoje Autoplius.lt kategorijoje (pavyzdžiui, Skelbimas apie lengvąjį naudotą automobilį negali būti patalpintas motociklų kategorijoje).
+4. Viename Skelbime leidžiama paskelbti (atvaizduoti ir aprašyti) tik vieną objektą.
+5. Autoplius.lt toje pačioje skelbimų kategorijoje galima patalpinti ir demonstruoti tik vieną to paties objekto Skelbimą.
+6. Parduotos transporto priemonės Skelbimas privalo būti ištrintas. Tokiu atveju likęs Skelbimo parodymo laikas neperkeliamas kitam Skelbimui, taip pat į esamą Skelbimą negalima patalpinti kito objekto. Norint parduoti kitą tos pačios markės bei modelio objektą, turi būti sukurtas naujas Skelbimas. Draudžiama talpinti naują objektą seno Skelbimo pagrindu.
+7. Verslininkų Skelbimai, priklausomai nuo pasirinkto Paslaugų plano, gali būti papildomai patalpinami į Autoplius.lt partnerio [www.skelbiu.lt](http://www.skelbiu.lt/) interneto svetainėje su specialiu Autoplius.lt ženklu, taip nurodant, jog objektas yra parduodamas Autoplius.lt. Paspaudus ant tokio skelbimo [www.skelbiu.lt](http://www.skelbiu.lt/) pirkėjas yra nukeliamas į objekto Skelbimą Svetainėje.
+8. Naudotojui draudžiama:
+
+1. Skelbime (komentaruose, nuotraukose) siūlyti kitokius objektus ar paslaugas, negu nurodytas pagrindinėje Skelbimo informacijoje, pateikti klaidingą informaciją apie skelbiamo objekto savybes;
+2. Skelbimo komentaruose nurodyti kitą kainą nei ta, kuri nurodyta pagrindinėje informacijoje arba kainą, kuri neatitinka realios rinkos vertės. Objekto kaina Skelbime turi būti nurodoma su mokesčiais. Skelbimai, pažeidžiantys šį draudimą, yra blokuojami;
+3. Skelbime ir kitose Autoplius.lt aplinkose pateikti informaciją, kuri pažeidžia ar gali pažeisti galiojančius Lietuvos Respublikos teisės aktus, prieštarauja visuotinai pripažintoms etikos ar moralės normoms ar neatitinka šių Taisyklių reikalavimų;
+4. reklamuoti, skelbti informaciją, kurioje minimi su Teikėju tiesiogiai ar netiesiogiai konkuruojantys tretieji asmenys arba jų prekės ir (ar) paslaugos. Naudotojas sutinka, kad tokia informacija / nuorodos gali būti šalinamos;
+5. Skelbime siūlyti objektą, kuris yra parduotas ar kuriuo Naudotojas neturi teisės disponuoti. Skelbimą patalpinęs Naudotojas iš tiesų privalo turėti tokį siūlomą objektą. Skelbimai, pažeidžiantys šį draudimą, yra blokuojami arba nukeliami į Skelbimų paieškos rezultatų sąrašo pabaigą. Svetainės administratorius pasilieka teisę pareikalauti Naudotojo įrodymo apie teisę disponuoti siūlomu objektu;
+6. siūlomo objekto fotografijų vietoje patalpinti su Skelbimo objektu nesusijusių grafinių vaizdų, raidžių, skaitmenų, asmenų atvaizdų (pavyzdžiui, logotipų, ranka rašytų užrašų, telefono numerių, pavardžių) arba fotografijų derinio su grafiniais vaizdais, raidėmis, skaitmenimis, logotipais. Fotografijos turi atspindėti siūlomą Skelbime objektą. Nuotraukos gali būti redaguojamos jas pasukant arba keičiant nuotraukų eiliškumą. Nuotraukos, kurios nevaizduoja Skelbimo objekto, kuriose yra vaizduojami asmenys arba modifikuoti grafiniai vaizdai, logotipai gali būti ištrintos Svetainės administratoriaus. Svetainės administratorius turi teisę redaguoti nuotraukas, pavyzdžiui, pašalindamas arba užtušuodamas taisyklių neatitinkančią nuotraukos dalį. Svetainės administratorius pasilieka teisę numatyti šios taisyklės išimtis;
+7. siūlomo objekto fotografijose pateikti savo ar kitų asmenų asmens duomenis, pavyzdžiui fizinių asmenų ar dokumentų nuotraukas, iš kurių būtų galima identifikuoti esamus ar buvusius parduodamo objekto savininkus, naudotojus bei kitus su skelbimu nesusijusius trečiuosius asmenis. Jei yra poreikis skelbime įkelti objekto techninių reikalavimų atitikimą patvirtinančių dokumentų nuotraukas, pvz. buvusios registracijos liudijimo kopiją, Naudotojas pats turi panaikinti (ištrinti, užtušuoti) iš šių dokumentų visus asmens duomenis, leidžiančius identifikuoti konkretų fizinį asmenį (pvz. vardus, pavardes, asmens kodus, gimimo datas, adresus, asmenų nuotraukas ar panašius duomenis).
+8. talpinti Skelbimus, kuriuose išreiškiamas pageidavimas pirkti arba siūloma tik keitimo paslauga, išskyrus būtent tam skirtas skelbimų kategorijas (pvz. Automobilių supirkimas ir kt.).
+
+10. Draudžiama naudotis Svetaine neteisėtais tikslais, įskaitant, bet neapsiribojant:
+
+1. pateikimą, publikavimą, siuntimą ir (ar) laikymą Svetainėje turinio, kuris pažeistų bet kokias intelektinės nuosavybės teises (autorių, prekių ženklų, dizaino ir t.t.);
+2. pateikimą, publikavimą, siuntimą ir (ar) laikymą Svetainėje turinio, kuris būtų įžeidžiantis, šmeižiantis, diskriminuojantis, pažeistų bet kurio asmens teisę į atvaizdą, vardą, privatumą (adresai, asmens kodas ir t.t.), garbę ir orumą, dalykinę reputaciją ar kitas teises ir laisves;
+3. pateikimą, publikavimą, siuntimą ir (ar) laikymą Svetainėje turinio, kuris keltų grėsmę Svetainės ar jos duomenų bazės saugumui (programos ar dokumentai su virusais ir t.t.);
+4. pateikimą, publikavimą, siuntimą informacijos ir (ar) laikymą Svetainėje turinio, kuriuo pasinaudojant siekiama vykdyti nusikalstamą veiką (sukčiauti ir pan.). Esant įtarimams apie galimai Naudotojo vykdomą neteisėtą veiką, jo patalpinti Skelbimai gali būti blokuojami.
+
+12. Naudotojas supranta ir sutinka, jog atliekant 4.8 ir 4.9 punktuose nurodytus veiksmus bei nesilaikant šių Taisyklių sąlygų jam gali būti apribota arba sustabdyta prieiga prie Svetainės, jeigu Naudotojas nesiima jokių priemonių tokiems veiksmams nutraukti.
+13. Skelbimo patalpinimo sąlygos ir instrukcijos yra nurodytos Autoplius.lt skiltyje „[Dažniausiai užduodami klausimai](https://autoplius.lt/informacija/dazniausiai-uzduodami-klausimai)“, taip pat Skelbimo talpinimo aplinkoje. Konkretaus Skelbimo kaina, parodymo laikas ir kitos sąlygos nurodomos Skelbimų talpinimo planuose. Skelbimų talpinimo planai yra pateikiami Svetainėje pasirinkus Skelbimo kategoriją ir užpildžius Skelbimo duomenis, prieš atliekant mokėjimą. Kilus neaiškumų dėl pasirinkto plano sąlygų Naudotojas neturėtų talpinti Skelbimo ir, norėdamas jį patalpinti, privalo susisiekti su Teikėju.
+14. Svetaine galima naudotis interneto naršykle, mobiliosiomis programėlėmis (prieinamomis „iOS“ ir „Android“ operacinėmis sistemomis). Svetainė palaiko dabartines vyraujančių interneto naršyklių ir operacinių sistemų „iOS“ bei „Android“ versijas.
+
+9. Mokamos paslaugos
+
+1. Autoplius.lt už suteiktas Mokamas paslaugas atsiskaitoma pavedimu per banką, SMS žinute arba virtualiais kreditais – Autoplius.lt pliusais (toliau – Pliusas). Mokamos paslaugos gali būti teikiamos tik po to, kai Vartotojas už jas sumoka Autoplius.lt nustatyta tvarka. Laikoma, kad Vartotojas sumokėjo už Mokamą paslaugą, kai Teikėjas faktiškai gauna Vartotojo mokėjimą.
+2. Vartotojai už tam tikrą mokestį Svetainėje gali atlikti šiuos veiksmus:
+
+1. dėti Skelbimus į mokamas Skelbimų kategorijas;
+2. užsakyti papildomas Mokamas paslaugas: Skelbimo paryškinimą, Skelbimo reklamą ir t.t.
+
+4. Mokamų paslaugų kaina priklauso nuo Paslaugų plano, Skelbimo rodymo laiko, Skelbimo kategorijos, taip pat nuo to, ar Vartotojas pageidauja papildomų Paslaugų. Konkrečių Mokamų paslaugų sąrašas, jų kainos ir kainų apskaičiavimo sąlygos, naudojimosi Paslaugomis tvarka ir terminai yra nurodyti Svetainėje, kiekvienos konkrečios Mokamos paslaugos užsakymo puslapyje, prieš atliekant mokėjimą. Visą kainoraštį taip pat galima rasti [čia](https://autoplius.lt/informacija/kainorastis/). Naudotojas, prieš užsakydamas Paslaugas, privalo susipažinti su šiomis Taisyklėmis.
+5. Pliusas – tai virtualūs Autoplius.lt kreditai, kuriais Naudotojas gali atsiskaityti už Autoplius.lt teikiamas Paslaugas. Vieno Pliuso įsigijimo kaina priklauso nuo to, kokiu būdu pildoma Pliusų sąskaita. Išsamesnę informaciją apie Pliusų įsigijimo būdus galima rasti Svetainės skiltyje „[Dažniausiai užduodami klausimai](https://autoplius.lt/informacija/dazniausiai-uzduodami-klausimai)“ ir prisijungusio Vartotojo aplinkos rubrikoje „Pildyti sąskaitą“. Kitais, negu nurodyti aukščiau, būdais įsigyti Pliusai (per trečiuosius asmenis ir pan.) negalioja ir Teikėjas turi teisę tokius Naudotojo Pliusus panaikinti bei reikalauti Naudotojo atlyginti Teikėjo patirtus nuostolius.
+6. Skelbimų patalpinimo bei papildomų Paslaugų (paryškinimo ir t.t.) kainos nurodomos Skelbimų talpinimo aplinkoje prieš jas užsakant bei Svetainės skiltyje „[Dažniausiai užduodami klausimai](https://autoplius.lt/informacija/dazniausiai-uzduodami-klausimai)“.
+7. Teikėjas turi teisę Svetainės profilaktinių darbų metu, kurie yra skirti užtikrinti tinkamą Svetainės veikimą, apriboti ar nutraukti Paslaugų teikimą protingam terminui, įvertinus reikalingų atlikti darbų pobūdį ir svarbą. Tokiu atveju Naudotojas, besinaudojantis Mokamomis paslaugomis, yra informuojamas apie profilaktinių darbų pradžią elektroniniu paštu ir (ar) kitokiu pranešimu ne vėliau kaip prieš 24 val., iki darbų pradžios. Teikėjas gali, tačiau neprivalo. pratęsti Mokamų paslaugų teikimą Vartotojui tam laikotarpiui, kurį nebuvo teikiamos Mokamos paslaugos, arba neatlygintinai suteiks Mokamas paslaugas, analogiškas nesuteiktoms Mokamoms paslaugoms (jei Mokamos paslaugos nėra tęstinio pobūdžio).
+8. Apribojus ar sustabdžius Naudotojo galimybę naudotis Mokamomis paslaugomis ar Naudotojui negavus ar laiku negavus Mokamų paslaugų dėl kitų priežasčių, nei Naudotojo įvykdytas šių Taisyklių pažeidimas bei atvejai, nurodyti šių Taisyklių 3.2, 5.6, 11.1 punktuose, Teikėjas, Naudotojo prašymu, įsipareigoja pratęsti Mokamų paslaugų teikimą Naudotojui tam laikotarpiui, kurį nebuvo teikiamos Mokamos paslaugos, arba neatlygintinai suteikti Mokamų paslaugų, analogiškų nesuteiktoms Mokamoms paslaugoms (jei Mokamos paslaugos nėra tęstinio pobūdžio).
+9. Užmokestis už Skelbimus, kurie buvo panaikinti ir (ar) pašalinti dėl to, jog Naudotojas pažeidė šių Taisyklių nuostatas, nėra grąžinamas.
+10. Vienas Mokamos paslaugos užsakymas Naudotojui suteikia teisę talpinti vieną Skelbimą, nebent prie konkrečios Paslaugos yra nurodyta kitaip. Pasirinkęs Mokamą paslaugą pagal konkretų planą ir (ar) konkrečiam laikotarpiui (pavyzdžiui 30 dienų ar pan.), Naudotojas įsipareigoja šia Paslauga naudotis ne trumpiau nei Mokamos paslaugos visas galiojimo laikotarpis (toliau – Minimalus laikotarpis). Jei Skelbimo sandoris įvyksta anksčiau, nei pasibaigia Minimalus laikotarpis (pavyzdžiui, transporto priemonė parduodama ar pan.), arba jei Naudotojas pats panaikina Skelbimą, arba jei Skelbimas panaikinamas dėl Naudotojo kaltės, pinigai už nepanaudotą Minimalų laikotarpį Naudotojui nėra grąžinami ir nėra perkeliami kitam Skelbimui apmokėti. Įvykus Skelbimo sandoriui Naudotojas privalo pašalinti Skelbimą, kad neklaidintų kitų Autoplius.lt lankytojų.
+11. Naudotojui perkėlus Skelbimą iš aktyvaus į pasyvų, taip pat sustabdžius Skelbimo rodymą dėl Naudotojo kaltės, Skelbimo nerodymo laikotarpis yra įskaitomas į Minimalų laikotarpį ir Minimalus laikotarpis neperkeliamas bei neprailginamas laikotarpiui, kurį Skelbimas nebuvo rodomas viešai Autoplius.lt.
+12. Įvykus Skelbimo sandoriui, Minimalaus laikotarpio likutis nėra perkeliamas kitam Skelbimui ir Naudotojas negali skelbti naujo (kito) Skelbimo vietoje seno Skelbimo. Jei Naudotojas Mokamą paslaugą pritaikė (ketina pritaikyti) kitam Skelbimui (pavyzdžiui, kitai transporto priemonei, nei pradinė Skelbime nurodyta transporto priemonė), Teikėjas turi teisę panaikinti šį Skelbimą ir perspėti Naudotoją, arba reikalauti už tokį Skelbimą apmokėti kaip už naujai paskelbtą Skelbimą. Toks Skelbimas imamas rodyti tik už jį tinkamai apmokėjus. Naudotojui nesutikus apmokėti, Skelbimas yra panaikinamas.
+
+11. Vartotojo teisės Mokamų paslaugų neteikimo metu arba netinkamos kokybės paslaugų teikimo atveju
+
+1. Vartotojas turi teisę pareikšti reikalavimą Teikėjui pradėti teikti Mokamas paslaugas, jeigu Teikėjas nevykdo savo pareigos pradėti teikti Vartotojo įsigytas Mokamas paslaugas nedelsiant po sutarties sudarymo, nebent tarp šalių yra sulygta kitaip. Jeigu pateikus tokį reikalavimą Teikėjas neteikia Mokamų paslaugų nedelsdamas ar per sutarties šalių aiškiai sutartą papildomą terminą, Vartotojas turi teisę vienašališkai nutraukti sutartį dėl Mokamų paslaugų teikimo.
+2. Jeigu yra suteiktos netinkamos kokybės Mokamos paslaugos, Vartotojas turi teisę reikalauti ištaisyti Mokamų paslaugų trūkumus, sumažinti kainą arba vienašališkai nutraukti sutartį.
+3. Vartotojas turi teisę į Mokamos paslaugos trūkumų ištaisymą, išskyrus atvejus, kai to neįmanoma padaryti, arba jeigu dėl to Teikėjas patirtų neproporcingų išlaidų, atsižvelgiant į visas aplinkybes, įskaitant:
+
+1. Mokamos paslaugos vertę, jeigu nebūtų trūkumų;
+2. trūkumų reikšmingumą.
+
+5. Vartotojas turi teisę į Mokamos paslaugos kainos sumažinimą arba teisę į vienašališką sutarties nutraukimą bet kuriuo iš šių atvejų:
+
+1. Teikėjui neįmanoma ištaisyti Mokamos paslaugos trūkumų arba dėl to Teikėjas patirtų neproporcingų išlaidų atsižvelgiant į visas aplinkybes;
+2. Teikėjas neištaisė Mokamos paslaugos trūkumų per protingą terminą, nemokamai ir nesukeldamas Vartotojui didelių nepatogumų, atsižvelgiant į Mokamos paslaugos pobūdį, dėl kurio ji buvo reikalinga Vartotojui;
+3. Mokamos paslaugos trūkumų atsirado po to, kai Teikėjas bandė užtikrinti tinkamą Mokamos paslaugos kokybę;
+4. trūkumas yra esminis;
+5. Teikėjas pareiškė arba iš aplinkybių tapo aišku, kad jis per protingą terminą neištaisys Mokamos paslaugos trūkumų arba tai sukels didelių nepatogumų Vartotojui.
+
+7. Vartotojas turi teisę nutraukti sutartį tik tuo atveju, kai Mokamos paslaugos trūkumas nėra nedidelis.
+8. Vartotojas savo teisę nutraukti sutartį įgyvendina pateikdamas Teikėjui pareiškimą, kuriame yra išreiškiamas jo sprendimas nutraukti sutartį dėl Mokamų paslaugų teikimo dėl netinkamos kokybės. Nutraukus sutartį, Teikėjas Vartotojui ne vėliau kaip per 14 dienų grąžina visas jo sumokėtas sumas už laikotarpį, kurį buvo teikiamos netinkamos kokybės Mokamos paslaugos, tokiu pačiu mokėjimo būdu, kokį naudojo Vartotojas mokėdamas už Mokamas paslaugas.
+
+13. Vartotojo teisė atsisakyti sutarties
+
+1. Vartotojas patvirtina, kad sutinka, jog pateikus užsakymą, papildomai užsakytos Paslaugos yra laikomos pradėtomis teikti ir jų teikimas negali būti atšauktas, todėl Vartotojas sutinka, jog jam netaikoma 14 dienų nuotolinės sutarties atsisakymo teisė. Todėl Vartotojas, prieš užsakydamas papildomas Paslaugas, privalo įsivertinti jų poreikį. Vartotojui pašalinus Skelbimą, padarius jį nematomu (pasyviu), pinigai už papildomai užsakytą Paslaugą nėra grąžinami ir jos galiojimo terminas nėra pratęsiamas ar perkeliamas kitam Skelbimui.
+2. Jei šalių sutartis dėl Vartotojo kaltės ar jo iniciatyva yra nutraukiama nepraėjus Minimaliam laikotarpiui, Vartotojas privalo sumokėti Teikėjui kompensaciją, lygią konkrečios Vartotojo užsakytos Mokamos paslaugos mokesčio daliai nuo atsisakymo dienos iki Minimalaus laikotarpio pabaigos. ši kompensacija išskaičiuojama iš Vartotojo sumokėtos Mokamos paslaugos kainos. ši nuostata nėra taikoma tuo atveju, jeigu Vartotojas nutraukia sutartį dėl pasikeitusio Mokamų paslaugų teikimo, jų neteikimo ar netinkamos kokybės pagal sutarties nutraukimo tvarką, išdėstytą Taisyklių 2 ir 6 skyriuose.
+
+15. Garantija
+
+1. Teikėjas Vartotojui primena apie galiojančią skaitmeninio turinio ir skaitmeninių paslaugų kokybės garantiją pagal įstatymą.
+
+17. Reitingo nustatymas
+
+1. Autoplius.lt Skelbimų paieškos algoritmas atsižvelgia į toliau išvardintus veiksnius generuojant Skelbimų paieškos rezultatus. Jis sukurtas taip, kad Naudotojai rastų aktualius Skelbimus, ir gali kiekvienam Svetainės Naudotojui būti suasmenintas atsižvelgiant į tokius veiksnius kaip, pavyzdžiui, Naudotojo įvesti raktiniai žodžiai paieškoje.
+2. Rikiuojant Skelbimų paieškos rezultatus, Svetainė remiasi toliau pateikiamais parametrais pagal jų svarbą:
+
+1. Autoplius.lt sudaro galimybę Naudotojams įsigyti „Žvaigždutes“ prieš įkeliant Skelbimą. Didesnį užsakytų „Žvaigždučių“ skaičių turintys Skelbimai rodomi aukščiau paieškos rezultatuose. Prie tokių Skelbimų pavadinimų yra nurodomas „Žvaigždučių“ kiekis. „Žvaigždutes“ Skelbimui gali užsakyti visi Naudotojai: (i) įsigyjant jų atskirai; (ii) tam tikrą kiekį gaunant kartu su Skelbimo aktyvavimo paketu; (iii) įsigyjant verslo planą su automatiškai Skelbimams priskiriama „Žvaigždute“. ši tvarka yra universali, išimtys šiam Skelbimų rikiavimo kriterijui nėra taikomos;
+2. Skelbimų be „Žvaigždučių“, arba turinčių vienodą „Žvaigždučių“ skaičių, reitingavimo kriterijus nurodomas Skelbimų sąrašo viršuje, dešiniajame kampe, atsižvelgiant į Skelbimų savybes bei Naudotojo nustatytus paieškos parametrus, pavyzdžiui, „Pigiausi viršuje“, „Brangiausi viršuje“, „Naujausi viršuje“ arba „Atnaujinti viršuje“. Taip pat gali būti taikomos žemiau nurodytos išimtys ir patikslinimai.
+
+19. Reitingo nustatymo išimtys bei papildomos sąlygos:
+
+1. Kategorijoje „Ratlankiai“, pasirinkus Skelbimų rikiavimą pagal kainą ir esant vienodoms kainoms, aukščiau rodomi Skelbimai, kurie buvo vėliau atnaujinti.
+2. Kategorijose, kuriose yra galimybė nurodyti, kad kaina yra sutartinė, pasirinkus rikiavimą pagal kainą, tokie Skelbimai bus rodomi žemiau Skelbimų su nurodytomis kainomis.
+3. Atlikus tekstinę Skelbimų paiešką pagal raktažodį, Skelbimai tarpusavyje rikiuojami pagal tai, kiek jie atitinka paieškai suvestą Naudotojo informaciją, pavyzdžiui, ar raktažodis buvo rastas Skelbimo antraštėje, ar aprašyme, kiek kartų jis pasikartoja ir pan.
+4. Automobilių dalių kategorijoje pasirinkus Skelbimų reitingavimo būdą „Nauji ir atnaujinti viršuje“, paieškos rezultatų viršuje rodomi per paskutines 7 dienas naujai patalpinti Skelbimai pagal atnaujinimo datą, žemiau – likusieji Skelbimai pagal atnaujinimo datą.
+
+21. Taisyklių pažeidimo pasekmės, Paslaugų teikimo apribojimai ir nutraukimas
+
+1. Patalpindamas Skelbimą, Naudotojas privalo laikytis Autoplius.lt nurodytų Skelbimo patalpinimo instrukcijų ir šių Taisyklių. Priklausomai nuo pažeidimo pobūdžio, Teikėjas turi teisę Skelbimus, neatitinkančius Taisyklių ar Lietuvos Respublikos teisės aktų, redaguoti, blokuoti jų matomumą visiems Naudotojams, arba nukelti Skelbimus į jų paieškos rezultatų sąrašo pabaigą.
+2. Apie sankcijas, kurios bus pritaikytos už Taisyklių pažeidimą, Naudotojas informuojamas registracijos metu nurodytu el. paštu. šiame punkte nurodyta Teikėjo teisė neatleidžia Naudotojo nuo atsakomybės už pateikiamos informacijos atitikimą tikrovei bei teisės aktų reikalavimams. Taisyklių pažeidimo atveju, papildomos užsakytos Paslaugos yra anuliuojamos ir pinigai nėra gražinami.
+3. Verslininkas bus įspėjamas nurodytu kontaktiniu el. paštu ne anksčiau nei prieš 30 dienų apie Teikėjo sprendimą nutraukti Paslaugų teikimą ir kartu informuojamas apie tokio sprendimo motyvus. šis pranešimo terminas nėra taikomas tuo atveju, jeigu Verslininkas pažeidė Taisykles ir dėl to yra nutraukiamas Paslaugų teikimas. Tokiu atveju, Verslininką dėl tokio sprendimo motyvų Teikėjas informuoja el. paštu nedelsdamas.
+4. Be atskiro įspėjimo Teikėjas gali atlikti nedidelius Skelbimo redagavimo veiksmus, jei įrašas Skelbime skiriasi nuo vaizdo, matomo fotografijose, pavyzdžiui, Skelbime gali būti koreguojama vairo padėtis iš „kairėje“ į „dešinėje“ ir atvirkščiai; transporto priemonės būsena gali būti pakeista iš „daužta“ į „nedaužta“, taip pat šalinama informacija, jei Teikėjo vertinimu ji yra netiksli ir/ar neteisinga; taip pat papildyti aktualia Teikėjo duomenų bazės informacija apie objektą.
+5. Teikėjas pasilieka teisę bet kada be išankstinio įspėjimo nutraukti Vartotojo priėjimą prie Autoplius.lt ar naudojimąsi Autoplius.lt Paslaugomis už Taisyklių ar teisės aktų pažeidimus.
+
+23. Sutarties su Verslininku nutraukimas
+
+1. Sutartis galioja tol, kol yra teikiamos Paslaugos pagal užsakytą Skelbimų talpinimo Svetainėje planą.
+2. Paslaugų teikimo Sutartis yra neterminuota ir teikiama tol, kol Paslaugos teikimas nėra nutraukiamas:
+
+1. vienašališkai, apie tai informavus kitą šalį raštu arba el. paštu prieš 10 kalendorinių dienų, išskyrus Sutartyje ir šiose Taisyklėse numatytas išimtis;
+2. Autoplius.lt iniciatyva, be išankstinio įspėjimo, jeigu Verslininkas nėra tinkamai atsiskaitęs už jau suteiktas Paslaugas;
+3. Autoplius.lt iniciatyva, be išankstinio įspėjimo, jeigu Verslininkas panaudojo Svetainę veiklai, prieštaraujančiai Sutarties sąlygoms arba galiojantiems teisės aktams;
+4. abiejų šalių sutarimu.
+
+25. Atsakomybės apribojimas
+
+1. Teikėjas atsako tik už informacijos, pateiktos Skelbime, techninį patalpinimą į Autoplius.lt, jei Skelbimas atitinka visus Taisyklių reikalavimus, ir šios Svetainės duomenų bazės techninį palaikymą.
+2. Naudotojas supranta ir sutinka su tuo, kad Svetainė ir (ar) Paslaugos veikia taip, kokios yra (angl. service as-is) principu ir todėl yra pateikiamos be jokių patvirtinimų ar garantijų iš Teikėjo pusės dėl to, jog Svetainė veiks ir Paslaugos bus teikiamos tinkamai ir laiku, be sutrikimų, kokybiškai, pilna apimtimi arba kad tai nesukels jokių neigiamų pasekmių Naudotojui ar tretiesiems asmenims. Autoplius.lt nėra ir nebus atsakinga už Svetainėse esančios informacijos neteisėtumą, neatitikimus, netikslumą ar klaidingumą (išskyrus tą informaciją, kurią pateikia pati Autoplius.lt) ir iš to kilusias neigiamas pasekmes Naudotojui ar tretiesiems asmenimis.
+3. Teikėjas neatsako už Skelbime pateikiamos informacijos neatitikimą tikrovei ir jų turinį. Teikėjas neatsako už žalą, padarytą Vartotojui ar tretiesiems asmenims dėl Skelbimo turinio ir (ar) jų patalpinimo Autoplius.lt.
+4. Laikoma, kad naudojimasis Autoplius.lt vykdomas nepriekaištingai, jei Svetaine ar jos duomenų baze visapusiškai galima naudotis 90% laiko per metus. Teikėjas neatsako už Autoplius.lt ar jos duomenų bazės veiklos sutrikimus, kilusius dėl priežasčių, kurių Teikėjas negali kontroliuoti.
+5. Naudotojas supranta ir sutinka su tuo, jog Teikėjas nėra ir nebus atsakingas už dėl trečiųjų asmenų, įskaitant, bet tuo neapsiribojant, internetinio, mobilaus ryšio teikėjų, elektroninio pašto paslaugos teikėjo ar kt., kaltės Naudotojui nesuteiktas ar laiku nesuteiktas Paslaugas. Naudotojui negalint naudotis Mokamomis Paslaugomis dėl trečiųjų asmenų kaltės, užmokestis už Mokamas Paslaugas Naudotojui nėra grąžinamas.
+6. Vartotojas yra atsakingas už tinkamą prisijungimo vardo, slaptažodžio, redagavimo kodo naudojimą. Teikėjas neatsako už žalą, kurią Vartotojas patiria dėl to, kad tretieji asmenys pasinaudojo šia informacija.
+
+27. Duomenų naudojimas
+
+1. Registracijos metu, ar vėliau naudojantis Autoplius.lt, Naudotojo pateiktus ar Teikėjo kitais būdais surinktus asmens ir kitus duomenis (toliau – Duomenys) Teikėjas tvarko, t. y. renka, naudoja, saugo, perduoda tik teisėtai, skaidriai ir sąžiningai, iš anksto nustatytais tikslais, ir tik tokia apimtimi, kuri reikalinga tinkamo veiklos vykdymo tikslams pasiekti. Naudotojo Duomenis Teikėjas tvarko vadovaujantis šių Taisyklių, taip pat Autoplius.lt „[Privatumo politikos](https://autoplius.lt/informacija/privatumo-politika)“ nustatyta tvarka.
+2. Duomenys tvarkomi siekiant tinkamai suteikti Paslaugas Naudotojams (patalpinti Skelbimus, suteikti informaciją apie atitinkamų produktų pardavimą, užsakyti tam tikrą Paslaugą ir pan.). Naudotojo Duomenys taip pat yra tvarkomi jo registravimo bei Skelbimų duomenų bazės administravimo Svetainės sistemoje tikslu, tiesioginės rinkodaros ir reklaminių akcijų (tiesioginės rinkodaros žaidimų, viktorinų, konkursų) vykdymo tikslais bei kitais Privatumo politikoje nurodytais tikslais. Teikėjas renka ir saugo Duomenis elektroniniu būdu, Naudotojas gali matyti visus savo pateiktus Duomenis prisijungus prie savo paskyros. Esant poreikiui, Teikėjas pateikia Naudotojo pateiktų Duomenų išrašus Naudotojui paprašius. Tokia užklausa gali būti pateikta el. paštu [\[email protected\]](https://en.autoplius.lt/cdn-cgi/l/email-protection).
+3. Teikėjas garantuoja, kad Duomenys nebus parduodami, teikiami ar kitaip be teisėto pagrindo perduodami tretiesiems asmenims, taip pat naudojami kitiems tikslams, nei jie buvo surinkti. Teikėjas neperduoda Duomenų niekaip kitaip, kaip tik vadovaudamasis „[Privatumo politika](https://autoplius.lt/informacija/privatumo-politika)“ ar taikytinais teisės aktais.
+4. Paslaugų teikimo tikslu Naudotojas sutinka, kad Teikėjas ar Teikėjo grupės įmonė kreiptųsi į pasirinktus trečiuosius asmenis dėl papildomų duomenų apie parduodamą automobilį ar kitą priemonę (detalę) gavimo. Teikėjas gautus duomenis gali padaryti pasiekiamus lankytojams. Šie papildomi duomenys gali būti sujungiami su Naudotojo pateikiama informacija, jei Naudotojas nesuteiks pakankamai informacijos apie parduodamą transporto priemonę. Taip pat papildoma informacija užtikrins, kad Svetainės lankytojai gautų kuo tikslesnę ir objektyvesnę informaciją, padėsiančią priimti sprendimą prieš sudarant pirkimo sandorį. Visa gauta informacija bus talpinama į Teikėjo duomenų bazę kartu su kita Skelbime talpinama informacija. 
+
+29. Intelektinės nuosavybės teisės
+
+1. Teikėjas yra visų teisių į Autoplius.lt turinį ir duomenų bazę savininkas bei turi išimtinę teisę į jų naudojimą. Visi prekių ar paslaugų ženklai, dizainai, pavadinimai, logotipai ir pan., pateikiami Autoplius.lt, yra Teikėjo nuosavybė arba Teikėjas turi teisę jais naudotis.
+2. Naudotojas maksimalia teisės aktų leidžiama apimtimi, besąlygiškai, suteikia Teikėjui neišimtinę, visame pasaulyje galiojančią, nuolatinę, neatšaukiamą, neatlygintiną, sublicencijuojamą teisę naudoti Naudotojo įkeltą turinį (nuotraukas, Skelbimų aprašymus ir pan.), kurį jis skelbia Autoplius.lt. Bet koks trečiųjų asmenų atliekamas Autoplius.lt turinio, duomenų bazės, dizaino apdorojimas, kopijavimas ir (ar) kitoks naudojimas be raštiško Teikėjo leidimo ir (ar) nesilaikant Taisyklių, yra autorių ir kitų teisių pažeidimas, baudžiamas pagal Lietuvos Respublikos įstatymus. šis apribojimas netaikomas Naudotojams jų Skelbimų atžvilgiu.
+3. Naudotojas sutinka, kad Teikėjas turi teisę panaudoti Skelbimų fotografijas reklaminiais ir komerciniais jo bendrovės tikslais, neatskleisdamas asmeninės Naudotojo informacijos. Naudotojas sutinka, kad jo Skelbimai ir kitas Naudotojo publikuojamas turinys, įskaitant bet kokią intelektinę nuosavybę, taptų Svetainės duomenų bazės dalimi, Teikėjo ar jo įgaliotų asmenų būtų saugomi ir įstatymų nustatytais būdais naudojami neribotą laiką ir visame pasaulyje, išskyrus, jei šiose Taisyklėse nurodyta kitaip. Nei Teikėjas, nei jokia kita trečioji šalis, naudodama Skelbimo ir (ar) kitą Naudotojo publikuojamą turinį, nėra įpareigota mokėti Naudotojo autorinio ar kitokio atlyginimo už tokio turinio panaudojimą.
+
+31. Taikytina teisė ir ginčų sprendimas
+
+1. Autoplius.lt veikla vykdoma vadovaujantis Lietuvos Respublikos teisės aktais. Bet kokie ginčai, kilę dėl Autoplius.lt veiklos ar susiję su ja, sprendžiami derybų keliu, o nepavykus susitarti – Lietuvos Respublikos kompetentingame teisme. Teikėjas nesprendžia ir netarpininkauja ginčuose, kilusiuose tarp Naudotojų ir pirkėjų, įsigijusių Naudotojų parduodamus objektus Autoplius.lt.
+2. Autoplius.lt turi savo vidinę nemokamą Verslininkų skundų nagrinėjimo sistemą (toliau – Sistema). Norėdamas pasinaudoti šia Sistema, Verslininkas gali pateikti skundą pasinaudodamas skiltimi „Verslininkų skundų pateikimas“ ir pasirinkdamas skundo temą. Verslininkas turi pateikti kaip įmanoma daugiau informacijos apie skundo pagrindą. Teikėjas atsako Verslininkui patvirtindamas apie gautą skundą ir, dėdamas visas komerciškai pagrįstas pastangas, atsižvelgdamas į skundo kompleksiškumą ir svarbą, kuo greičiau jį išnagrinėja. Gavusi skundą, Autoplius.lt atsakinga komanda kartu su už konkretų Verslininką atsakingu pardavimų vadybininku bendradarbiauja, kad jį ištirtų, atsižvelgdami į iškeltos problemos svarbą ir sudėtingumą. Išnagrinėjus skundą, atsakymas pateikiamas skundą pateikusiam Verslininkui jo nurodytais kontaktais.
+3. Naudodamiesi šia Sistema, Verslininkai gali pateikti skundą:
+
+1. kilus įtarimams, kad Teikėjas nesilaikė Europos Parlamento ir Tarybos Reglamente 2019/1150 nustatytų pareigų, dėl ko buvo pažeisti Verslininko interesai;
+2. tiesiogiai su Paslaugų teikimu susijusiais techniniais klausimais, kurie daro poveikį Verslininkui;
+3. dėl priemonių, kurių ėmėsi Teikėjas, arba jo elgesio, tiesiogiai susijusių su Paslaugų teikimu ir darančių poveikį Verslininkui.
+
+5. Vartotojas prašymą ir / ar skundą dėl Autoplius.lt veiklos ir Paslaugų pirmiausia raštu privalo pateikti Teikėjui ir nurodyti savo reikalavimus. Tokius raštus prašome siųsti el. paštu, adresu [\[email protected\]](https://en.autoplius.lt/cdn-cgi/l/email-protection). Nesutikdamas su Teikėjo atsakymu, Vartotojas gali kreiptis į Valstybinę vartotojų teisių apsaugos tarnybą, adresas Vilniaus g. 25, LT-01402 Vilnius, el. paštu [\[email protected\]](https://en.autoplius.lt/cdn-cgi/l/email-protection) (interneto svetainė [www.vvtat.lt](http://www.vvtat.lt/)) arba užpildyti prašymo formą Europos Sąjungos Elektroninėje vartotojų ginčų sprendimo platformoje, adresu [http://ec.europa.eu/odr/](http://ec.europa.eu/odr/).
+
+33. Mediacija
+
+1. Jeigu Verslininkas arba Teikėjas bet kuriuo metu išreiškia pageidavimą, kad kilęs ginčas būtų sprendžiamas mediacijos būdu, Teikėjas bendradarbiauja su šiais mediatoriais, apie kuriuos plačiau galima pasiskaityti [čia](https://www.teismai.lt/lt/teismai-ir-teisejai/teisejai/teiseju-biografijos/1693/c195) ir [čia](https://www.teismai.lt/lt/visuomenei-ir-ziniasklaidai/teismai-ir-teisejai/teiseju-biografijos/1693/c780), tačiau Teikėjas ir Verslininkas gali bendrai susitarti ir dėl kito mediatoriaus, jeigu tam yra poreikis.
+
+35. Informacijos apsaugos priemonės
+
+1. Teikėjas Duomenis tvarko tokiu būdu, kad taikant atitinkamas technines ar organizacines priemones būtų užtikrintas tinkamas Duomenų saugumas, įskaitant apsaugą nuo Duomenų tvarkymo be leidimo arba neteisėto Duomenų tvarkymo ir nuo jų praradimo, sunaikinimo ar sugadinimo dėl neatsargumo.
+2. Teikėjas primena, jog Naudotojas yra pats atsakingas už prisijungimo duomenų slaptumą. Teikėjas prašo būti atsargiam naudojant ir saugant prisijungimo duomenis. Vartotojas turėtų atsijungti nuo naršyklės baigęs darbą tam, kad būtų tikras, jog niekas neprieis prie Naudotojo elektroninio pašto, asmeninės informacijos, ypač tais atvejais, kai Naudotojas naudojasi viešai prieinamu kompiuteriu (pavyzdžiui, interneto kavinėje, bibliotekoje).
+
+37. Baigiamosios nuostatos
+
+1. Taisyklės yra taikomos nuo to momento, kai Naudotojas patvirtina, kad su jomis sutinka ir galioja visą santykių tarp Naudotojo ir Teikėjo laikotarpį.
+2. Pasikeitus Verslininko kontrolei ar vadovybei, Verslininkas su Sutartimi ir šiomis Taisyklėmis turi supažindinti naujuosius savininkus arba vadovus ir informuoti Teikėją apie atitinkamo naujo personalo kontaktinę informaciją.
+3. Visi Teikėjo teikiami pranešimai Naudotojams yra teikiami naudojantis Svetaine arba Naudotojo registracijoje nurodyti el. paštu, išskyrus atvejus, kai aiškiai nurodyta ar nustatyta kitaip. Visi vadovaujantis šiomis Taisyklėmis pirmiau minėtomis elektroninių ryšių priemonėmis teikiami pranešimai laikomi tinkamai pateiktais jų pristatymo dieną.
