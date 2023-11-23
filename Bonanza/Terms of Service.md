@@ -1,7 +1,8 @@
 **Bonanza User Agreement**
 ==========================
 
-Updated April, 2018  
+Updated November, 2023
+
 By using the bonanza.com web site (the "Website") or establishing an account with Bonanza and using the Bonanza service (the "Service"), you agree to the following terms and conditions (the "Bonanza User Agreement").
 
 **I. Overview**
@@ -74,6 +75,9 @@ Fees for our services will be described once they are determined.
 **Manipulation:** The price stated in each Bonanza Item Description must be an accurate representation of the sale. Manipulation refers to activities whereby the price no longer accurately represents the monetary value of the transaction. For example manipulative activities include, but are not limited to, intentionally stating one price in the Item Description but charging a higher price to the buyer, altering the item's price prior to a sale for the purpose of avoiding Bonanza transaction fees, and hacking into another's account and altering prices. Neither buyer nor seller, may manipulate the price of any item for any reason.  
 
 Sellers have up to 180 days from the date of the transaction to request refunds on the final value fees. Final value fee refund requests on transactions outside of 180 days will not be honored.
+
+**Shipping and fulfillment:**  
+Sellers are responsible for fulfilling orders placed through the Bonanza platform within the handling time stated in their settings. Sellers agree to adhere to Bonanza’s policy documents or community guidelines surrounding shipping requirements.
 
 **V. Usage Guidelines**
 -----------------------
