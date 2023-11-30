@@ -82,6 +82,18 @@ Listele pot fi:
 
 Algoritmul de cautare este format din 2 componente: relevanta text (scor reprezentat de matching-ul dintre termenul de cautare si datele Bunului), popularitatea Bunului in platforma eMAG. Top Bunuri sunt reordonate folosind un algoritm de machine learning in vederea imbunatatirii relevantei cautarilor.
 
+**Sistem de Garanție – Returnare sau SGR** – sistem unic la nivel național conceput, implementat și administrat de către Administratorul SGR (RETURO SISTEM GARANTIE RETURNARE S.A.), obligatoriu  incepand cu data de 30 noiembrie 2023, prin care Cumparatorul, in calitate de consumator sau utilizator final ce achiziţionează pentru consum propriu Produse in Ambalaje SGR, la achiziționarea unui Produs în Ambalaj SGR, plăteste Vânzătorului o Garanție SGR care ii va fi restituită Cumparatorului atunci când acesta din urma va returna Ambalajul SGR la un Punct de returnare.
+
+**Produs in Ambalaj SGR** – o singură unitate de produs îmbuteliată într-un singur Ambalaj SG_R._
+
+**Ambalaje SGR** – Ambalaje primare nereutilizabile din sticlă, plastic sau metal, cu volume cuprinse între 0,1 l şi 3 l inclusiv, utilizate pentru bere, mixuri de bere, mixuri de băuturi alcoolice, cidru, alte băuturi fermentate, sucuri, nectaruri, băuturi răcoritoare, ape minerale şi ape de băut de orice fel, vinuri şi spirtoase, care poartă Marcajul SGR în conformitate cu legislația aplicabilă. Nu fac obiectul SGR  următoarele: pahare pentru băuturi, ambalaje de tip pouches – ambalaje flexibile de tip pungă în straturi, bag-in-box – băuturi în cutie închisă de carton şi orice alt ambalaj care nu îşi poate păstra forma după golire; ambalajul se consideră deşeu de ambalaj atunci când este predat spre reciclare.
+
+**Garanția SGR** – garantie plătită de către Cumparator, Vanzatorului, la momentul achiziționării unui produs în Ambalaj SGR, distinctă de prețul produsului, gestionată în cadrul SGR de către Administratorul SGR şi care este restituită integral Cumparatorului la momentul returnării Ambalajului SGR la un Punct de Returnare. Cumparatorii au posibilitatea de a returna Ambalajul SGR în vederea restituirii Valorii garanţiei în cadrul oricărui Punct de returnare de pe teritoriul României.
+
+**Valoarea garanţiei** – Începând cu data intrării în funcţiune a SGR, respectiv 30 noiembrie 2023, valoarea garanţiei este în cuantum de 0,5 lei pentru toate tipurile de ambalaj SGR. Aceasta va putea fi modificata, in conditiile legii.
+
+**Punct de Returnare** – Spațiu organizat şi gestionat de către unul sau mai mulți comercianți, respectiv de comercianți în parteneriat cu unități administrativ teritoriale sau asociații de dezvoltare intercomunitară, în care Ambalajele SGR sunt returnate de către Cumparator, în vederea restituirii Garanției. Potrivit legii, Vanzatorul nu are obligatia să organizeze Puncte de returnare si nici sa preia Ambalaje SGR. Cumparatorii au posibilitatea de a returna Ambalajul SGR în vederea restituirii Valorii garanţiei în cadrul oricărui Punct de returnare de pe teritoriul României.
+
 2. **DOCUMENTE CONTRACTUALE**
 
 2.1. Prin inregistrarea unei Comenzi pe Site, Cumparatorul este de acord cu forma de comunicare (telefonic sau e-mail) prin care Vanzatorul isi deruleaza operatiunile comerciale.
