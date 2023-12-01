@@ -2,7 +2,7 @@ Privalia | 1
 
 
 
-Actualizado el 18 de septiembre de 2023
+Actualizado el 27 de noviembre de 2023
 
 
 
@@ -1470,8 +1470,6 @@ Este servicio se ofrece y está sujeto a la aprobación previa de Klarna.
 
 A continuación, se indican las principales características indicadas por Klarna.
 
-Privalia | 17
-
 
 
 Operación
@@ -1481,6 +1479,10 @@ Operación
 El importe del crédito se establecerá en euros y corresponderá al importe de la operación (valor de
 
 la compra) más los gastos de envío, impuestos, conversión de divisas si procede, así como
+
+Privalia | 17
+
+
 
 cualesquiera otras comisiones o gastos cargados por Privalia. El primer pago se cargará cuando
 
@@ -1570,8 +1572,6 @@ Especificaciones de Klarna
 
 - Tarjetas aceptadas y almacenamiento de los datos de la tarjeta
 
-Privalia | 18
-
 
 
 Si no se acepta un tipo de tarjeta, Klarna se lo comunicará al Cliente antes de que complete
@@ -1579,6 +1579,8 @@ Si no se acepta un tipo de tarjeta, Klarna se lo comunicará al Cliente antes de
 su compra. Klarna acepta la mayoría de tarjetas de crédito y débito que no están a punto de
 
 caducar.
+
+Privalia | 18
 
 
 
@@ -1674,21 +1676,23 @@ Cuando el Cliente solicite utilizar este método de pago, Klarna verificará la 
 
 Cliente. La verificación de identidad se lleva a cabo para cumplir con los requisitos de
 
-Privalia | 19
-
-
-
 prevención del blanqueo de capitales y financiación del terrorismo, así como para prevenir el
 
 fraude. El Cliente facilitará a Klarna la información necesaria para verificar su identidad. Klarna
 
 también podrá contrastar la información facilitada con bases de datos de terceros o con una
 
-agencia de crédito. Esta búsqueda puede afectar a la puntuación crediticia del Cliente y a sus
+agencia de crédito.
 
-posibilidades de obtener un crédito en el futuro. Si, como resultado de la consulta de Klarna,
+Privalia | 19
 
-el Cliente no puede acceder a este método de pago, Klarna informará al Cliente.
+
+
+Esta búsqueda puede afectar a la puntuación crediticia del Cliente y a sus posibilidades de
+
+obtener un crédito en el futuro. Si, como resultado de la consulta de Klarna, el Cliente no puede
+
+acceder a este método de pago, Klarna informará al Cliente.
 
 
 
@@ -1772,8 +1776,6 @@ Cliente puede encontrar la plataforma ODR aquí: https://ec.europa.eu/consumers/
 
 (búsqueda: FIN-NET).
 
-Privalia | 20
-
 
 
 Para obtener más información sobre Klarna, visite: https://www.klarna.com/es/. Encontrará más
@@ -1785,6 +1787,8 @@ datos personales realizado por Klarna en el siguiente link:
 
 
 https://cdn.klarna.com/1.0/shared/content/legal/terms/0/es_es/paylaterin3
+
+Privalia | 20
 
 
 
@@ -1874,8 +1878,6 @@ Para usar Oney, el Cliente deberá seguir los siguientes pasos:
 
 con 3x 4x Oney”.
 
-Privalia | 21
-
 
 
 - A continuación, se mostrará el formulario en el que el Cliente puede consultar el resumen de su
@@ -1887,6 +1889,8 @@ pedido y la información detallada sobre la financiación.
 - Seguidamente el Cliente deberá seleccionar el número de cuotas en las que quiera pagar y
 
 validar y/o rellenar sus datos personales.
+
+Privalia | 21
 
 
 
@@ -1978,10 +1982,6 @@ pagos, consultar la Política de Privacidad. Asimismo, Privalia manifiesta que n
 
 almacena datos sensibles completos relativos al medio de pago utilizado por el Cliente. Únicamente la
 
-Privalia | 22
-
-
-
 entidad correspondiente procesadora del pago tiene acceso a estos datos a modo de gestión de los
 
 pagos y cobros. Una vez finalizado el proceso de compra, se genera un documento electrónico en el
@@ -1989,6 +1989,8 @@ pagos y cobros. Una vez finalizado el proceso de compra, se genera un documento 
 que se formaliza el contrato y que el Cliente podrá imprimir y que queda archivado en la sección Mi
 
 Cuenta \> Mis Pedidos.
+
+Privalia | 22
 
 
 
@@ -2070,8 +2072,6 @@ o fraudulento en la tarjeta utilizada para compras en el Sitio Web y/o Apps, en 
 
 posible, con el objeto de que Privalia pueda realizar las gestiones que considere convenientes.
 
-Privalia | 23
-
 
 
 7\. CANCELACIÓN Y AMPLIACIÓN DE PEDIDOS
@@ -2087,6 +2087,8 @@ excluyan esta posibilidad. Esta información será facilitada al Cliente en la p
 otro caso, si el Cliente desea cancelar un pedido deberá proceder a su devolución, como se indica más
 
 adelante.
+
+Privalia | 23
 
 
 
@@ -2170,10 +2172,6 @@ El Cliente, al realizar la compra en Privalia de un aparato eléctrico y electr�
 
 solicitar la recogida gratuita de un RAEE equivalente al adquirido en Privalia. La recogida y trasporte
 
-Privalia | 24
-
-
-
 se realizará de forma que se puedan dar las condiciones óptimas para su reciclado o reutilización,
 
 cumpliendo los requisitos legales.
@@ -2189,6 +2187,8 @@ Por otra parte, si el Cliente ha comprado un AEE a un vendedor externo a través
 Privalia, deberá contactar con el propio vendedor directamente para saber de qué manera va a cumplir
 
 con sus obligaciones en cuanto a la reutilización y reciclaje de sus aparatos eléctricos y electrónicos.
+
+Privalia | 24
 
 
 
@@ -2270,8 +2270,6 @@ de entrega introducida por el Cliente no exista, sea incorrecta o cuando no se c
 
 para el cambio de dirección de entrega indicados previamente.
 
-Privalia | 25
-
 
 
 En caso de pedidos de diferentes campañas o constituidos por varios bultos, Privalia podrá realizar la
@@ -2291,6 +2289,10 @@ por circunstancias de fuerza mayor, si el Producto no puede ser entregado en el 
 seleccionado, el transportista se pondrá en contacto para establecer un punto nuevo de entrega. El
 
 Producto estará a disposición del Cliente en el establecimiento durante quince (15) días naturales
+
+Privalia | 25
+
+
 
 desde la fecha indicada en el email. Los paquetes que no hayan sido recogidos o que hayan sido
 
@@ -2366,8 +2368,6 @@ En caso de pedido que incluye más de un Producto, Privalia devolverá los gasto
 
 devuelven todos los Productos de un pedido.
 
-Privalia | 26
-
 
 
 Excepcionalmente, Privalia informa que la opción de devolución para los productos pertenecientes a
@@ -2389,6 +2389,10 @@ teléfonos i-phone o i-watch vinculados a una cuenta de Apple.
 El Cliente tiene derecho a devolver los Productos a su cargo sin utilizar el sistema de devoluciones de
 
 Privalia. No obstante, Privalia: (i) aconseja escoger un servicio con acuse de recibo; (ii) rechazará
+
+Privalia | 26
+
+
 
 Productos devueltos con contrareembolso a cargo de Privalia; y (iii) no se hará cargo de los casos en
 
@@ -2470,8 +2474,6 @@ Sin perjuicio del anterior procedimiento, el Cliente también podrá ejercer su 
 
 mediante el uso del formulario de desistimiento que se encuentra en la sección Ayuda y Contacto.
 
-Privalia | 27
-
 
 
 Las condiciones de devolución previstas en este apartado no resultarán de aplicación a la compra de
@@ -2491,6 +2493,10 @@ Reembolso del precio
 En el supuesto del ejercicio del derecho de desistimiento voluntario, el Cliente tendrá derecho al
 
 reembolso del precio de los Productos devueltos, además de los gastos de envío ordinarios (no se
+
+Privalia | 27
+
+
 
 incluye la diferencia de los gastos de envío exprés), siempre que se devuelvan todos los Productos del
 
@@ -2570,10 +2576,6 @@ Los Productos disponen de la garantía legal por falta de conformidad de los mis
 
 en el periodo - a partir de la fecha de entrega - previsto y de conformidad con lo establecido en la
 
-Privalia | 28
-
-
-
 normativa de aplicación para los Clientes consumidores. Respecto de los Productos de segunda mano
 
 o reacondicionados o adquiridos por Clientes no consumidores (profesionales), la garantía será de un
@@ -2589,6 +2591,8 @@ que actúe con un propósito ajeno a su actividad comercial, empresarial, oficio
 conformidad con el Real Decreto Legislativo 1/2007, de 16 de noviembre, por el que se aprueba el
 
 texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios.
+
+Privalia | 28
 
 
 
@@ -2672,8 +2676,6 @@ En relación a los Productos de carácter duradero, Privalia facilitará al Clie
 
 la información relativa al servicio de asistencia técnica.
 
-Privalia | 29
-
 
 
 11\. RESPONSABILIDAD DE PRIVALIA
@@ -2687,6 +2689,8 @@ sea vendido por Privalia la responsabilidad de Privalia en relación con los Pro
 adquiridos a través del Sitio Web y/o Apps estará limitada al precio de adquisición de dichos Productos
 
 o Servicios.
+
+Privalia | 29
 
 
 
@@ -2760,8 +2764,6 @@ otros acuerdos o contratos, verbales o por escrito, alcanzado por las partes con
 
 modificación deberá realizarse por escrito y de mutuo acuerdo entre las partes implicadas.
 
-Privalia | 30
-
 
 
 Privalia se reserva el derecho de modificar, en cualquier momento y sin previo aviso, las presentes
@@ -2779,6 +2781,8 @@ atentamente estas Condiciones de Venta Privalia. En cualquier caso, la aceptaci�
 de Venta Privalia vigentes en cada momento será un paso previo e indispensable a la adquisición de
 
 cualquier Producto o Servicio de Privalia disponible a través del Sitio Web y/o Apps.
+
+Privalia | 30
 
 
 
@@ -2854,8 +2858,6 @@ Usuarios podrán acudir a Confianza Online para la resolución alternativa de ev
 
 (https://www.confianzaonline.es/consumidores/como-reclamar/formulario-reclamaciones/).
 
-Privalia | 31
-
 
 
 Si éstas se refieren a transacciones electrónicas con consumidores, o sobre protección de datos
@@ -2875,6 +2877,8 @@ Además, Privalia recuerda al Usuario o Cliente que puede acceder a la plataform
 litigios en línea de la Unión Europea siguiendo este enlace:
 
 https://ec.europa.eu/consumers/odr/main/?event=main.home2.show.
+
+Privalia | 31
 
 
 
@@ -2901,8 +2905,6 @@ Airport Business Park - Kinsale Road - Cork - Irlanda. Amazon CS Ireland Ltd. Am
 es una empresa del grupo Amazon Web Services (AWS), con sede social en Inc. P.O/ Box 81226 -
 
 Seattle, WA 98108-1226.
-
-Privalia | 32
 
 
 
@@ -2968,6 +2970,8 @@ especializadas (en adelante, el “Servicio”).
 
 el Cliente que desee acceder y/o utilizar el Servicio.
 
+Privalia | 32
+
 
 
 2.3 Todo uso del Servicio por parte del Cliente conllevará de pleno derecho la aplicación de las
@@ -2997,10 +3001,6 @@ Privalia, por tanto, no actúa en nombre de los Vendedores ni de los Clientes y,
 no asume ninguna responsabilidad en relación con las obligaciones que correspondieran a los
 
 mismos o con las acciones que éstos lleven a cabo, aunque Privalia intentará, en la medida de lo
-
-Privalia | 33
-
-
 
 posible, encontrar una solución aceptable para las partes y asegurará cualquier derecho que el
 
@@ -3068,6 +3068,8 @@ la descripción y condiciones que el Vendedor publica en su espacio de venta en 
 
 términos y condiciones generales de venta del Vendedor.
 
+Privalia | 33
+
 
 
 4.2.5 El Cliente, con carácter previo a la compra del Producto, debe leer con atención, consultar y
@@ -3093,8 +3095,6 @@ devolución que sean de aplicación y estar conforme con las mismas para adquiri
 pedidos” o, en su defecto, poniéndose en contacto con el Vendedor directamente desde esa
 
 misma sección indicado como motivo del contacto “Quiero recibir mi factura”.
-
-Privalia | 34
 
 
 
@@ -3160,6 +3160,8 @@ transmisión al Vendedor enviando un correo electrónico al Cliente, en su calid
 
 técnico.
 
+Privalia | 34
+
 
 
 En el plazo de un (1) día hábil siguiente a la solicitud del pedido, el Cliente recibirá un correo
@@ -3193,10 +3195,6 @@ corresponda) al Cliente.
 Una vez realizado el pedido, el Cliente no podrá cancelarlo ni modificarlo. Si el Cliente desea añadir
 
 algún otro Producto a la cesta, tendrá que realizar otra compra. Si, por el contrario, el Cliente desea
-
-Privalia | 35
-
-
 
 cancelar el pedido, podrá rechazar el paquete en el momento de la entrega o podrá proceder a su
 
@@ -3262,6 +3260,8 @@ Vendedores.
 
 El precio de venta se muestra en euros e incluye el IVA y cualesquiera otros impuestos aplicables.
 
+Privalia | 35
+
 
 
 Junto al precio del Producto, el Vendedor podrá mostrar un precio de referencia del Producto.
@@ -3291,8 +3291,6 @@ El precio de venta no incluye los gastos de envío de los Productos, que se indi
 descriptiva de cada Producto. Estos gastos se indicarán específicamente en el momento de hacer
 
 el pago, de conformidad con lo indicado más adelante.
-
-Privalia | 36
 
 
 
@@ -3360,6 +3358,10 @@ forma autorizar definitivamente la transacción respectiva entre el Cliente y el
 
 obliga a resguardar dicha información y documentos con las más altas medidas de seguridad a su
 
+Privalia | 36
+
+
+
 disposición, en términos de lo dispuesto en la Ley de Protección de Datos de Carácter Personal en
 
 vigor.
@@ -3391,8 +3393,6 @@ transacciones futuras que el mismo Cliente realice.
 
 
 7.1 Condiciones de entrega
-
-Privalia | 37
 
 
 
@@ -3456,6 +3456,8 @@ El importe total de los gastos de envío aplicados se muestra al Cliente en el r
 
 el momento de realizar el pago, antes de que el Cliente valide su pedido.
 
+Privalia | 37
+
 
 
 Los gastos de envío se considerarán aceptados por el Cliente en el momento de efectuar la compra.
@@ -3485,8 +3487,6 @@ de la Ley General para la Defensa de los Consumidores y Usuarios, el Cliente se 
 contacto exclusivamente con el Vendedor de los Productos de que se trate a través de la
 
 interfaz de mensajería accesible desde su espacio de seguimiento de pedidos.
-
-Privalia | 38
 
 
 
@@ -3556,6 +3556,8 @@ con las condiciones generales de venta del Vendedor y las instrucciones facilita
 
 Vendedor.
 
+Privalia | 38
+
 
 
 Para ejercer el derecho de desistimiento y devolver un Producto el Cliente podrá ponerse en
@@ -3583,8 +3585,6 @@ disponible para todas las cuestiones relacionadas con el procedimiento a seguir.
 El proceso de devolución de los Productos se realizará de conformidad con las condiciones que en
 
 cada caso determine el Vendedor.
-
-Privalia | 39
 
 
 
@@ -3656,6 +3656,10 @@ Productos pueden dar lugar a una garantía comercial que deberá otorgar el Vend
 
 indicará en la hoja de descripción del Producto en cuestión en el momento de la venta en el Sitio Web,
 
+Privalia | 39
+
+
+
 Apps y/o en las condiciones generales de venta del Vendedor que el Cliente podrá localizar en el Sitio
 
 Web y/o Apps.
@@ -3679,8 +3683,6 @@ en contacto con el Vendedor.
 Se recuerda que la garantía comercial no priva al Cliente de las disposiciones relativas a las garantías
 
 legales, como se indica en la cláusula anterior.
-
-Privalia | 40
 
 
 
@@ -3754,6 +3756,8 @@ incidencias que pudieran surgir derivadas del contrato de compraventa. Privalia,
 
 para las partes.
 
+Privalia | 40
+
 
 
 11. PROPIEDAD INTELECTUAL E INDUSTRIAL
@@ -3771,8 +3775,6 @@ tipo que pudiera poner a disposición en la Tienda virtual o de los Clientes a t
 
 
 Cada Vendedor es el editor de su Tienda y, como tal, responsable del espacio de ventas dedicado.
-
-Privalia | 41
 
 
 
@@ -3852,6 +3854,10 @@ plataforma Marketplace de Privalia. El servicio de atención al Cliente del Vend
 
 responsable de gestionar las incidencias y reclamaciones de los Clientes, sin perjuicio de que el
 
+Privalia | 41
+
+
+
 Servicio de Atención al Cliente de Privalia para el Sitio Web podrá intervenir oportunamente a los
 
 efectos de mediar en la obtención de soluciones para el Cliente.
@@ -3867,8 +3873,6 @@ Para cualquier cuestión relacionada con el funcionamiento del Marketplace de Pr
 otras comunicaciones a Privalia, el Cliente podrá ponerse en contacto con el Servicio de Atención al
 
 Cliente de Privalia para el Sitio Web de las siguientes formas:
-
-Privalia | 42
 
 
 
@@ -3940,6 +3944,8 @@ de los Productos deberá realizarse por escrito y de mutuo acuerdo entre las par
 
 17. NULIDAD PARCIAL
 
+Privalia | 42
+
 
 
 En caso de que cualquier cláusula de las presentes Condiciones de Uso Marketplace sea declarada
@@ -3955,8 +3961,6 @@ El no ejercicio por parte de Privalia de cualquier derecho derivado de estas Con
 Marketplace no se interpretará como renuncia a dicho derecho, salvo renuncia expresa y por escrito
 
 por parte de Privalia o prescripción de la acción que en cada caso corresponda.
-
-Privalia | 43
 
 
 
@@ -4022,7 +4026,7 @@ La Comisión Europea trasladará la reclamación del Cliente a los mediadores na
 
 notificados.
 
-Privalia | 44
+Privalia | 43
 
 
 
@@ -4120,7 +4124,7 @@ Estas CGPV únicamente aplican en los casos en que los Clientes contratan Servic
 
 través de la página web del Tour Operador. No serán de aplicación en caso de que los Clientes
 
-Privalia | 45
+Privalia | 44
 
 
 
@@ -4132,7 +4136,7 @@ Generales de Venta o las Condiciones Generales de Venta Marketplace.
 
 
 
-2\. IDENTIFICACIÓN DEL TOUR OPERADOR Y CONDICIONES APLICABLES AL
+2. IDENTIFICACIÓN DEL TOUR OPERADOR Y CONDICIONES APLICABLES AL
 
 SERVICIO
 
@@ -4216,7 +4220,7 @@ toda responsabilidad respecto a ello a Privalia.
 
 2.5. Pago y Confirmación:
 
-Privalia | 46
+Privalia | 45
 
 
 
@@ -4312,7 +4316,7 @@ por lo que Privalia no se hace responsable ni de la información contenida en lo
 
 servicios ofrecidos en ellos.
 
-Privalia | 47
+Privalia | 46
 
 
 
@@ -4400,7 +4404,7 @@ la reserva, el pago, la confirmación del viaje, la gestión del pedido, la entr
 
 contabilidad, la realización de encuestas de satisfacción y/o la elaboración de estadísticas comerciales
 
-Privalia | 48
+Privalia | 47
 
 
 
@@ -4498,7 +4502,7 @@ cuando estén relacionadas con este ámbito, las reclamaciones serán resueltas 
 
 Mediación de Confianza Online, acreditado para la resolución alternativa de litigios en materia de
 
-Privalia | 49
+Privalia | 48
 
 
 
@@ -4514,7 +4518,7 @@ línea de la Unión Europea siguiendo este enlace:
 
 https://ec.europa.eu/consumers/odr/main/?event=main.home2.show.
 
-Privalia | 50
+Privalia | 49
 
 
 
@@ -4610,7 +4614,7 @@ o recordatorio. La venta de Cupones de Reserva está reservada exclusivamente a 
 
 Promociones están disponibles en la Plataforma durante un periodo predeterminado y limitado.
 
-Privalia | 51
+Privalia | 50
 
 
 
@@ -4702,7 +4706,7 @@ Los Cupones de Reserva no son acumulables a otras promociones, cupones, vales de
 
 salvo que ello esté expresamente indicado en la descripción de la Promoción.
 
-Privalia | 52
+Privalia | 51
 
 
 
@@ -4796,7 +4800,7 @@ estarán detallados en las Condiciones Generales del Proveedor. Estos gastos deb
 
 por el Cliente en el momento del canje de los Cupones de Reserva.
 
-Privalia | 53
+Privalia | 52
 
 
 
@@ -4896,7 +4900,7 @@ información solicitada en un plazo de 3 días laborales a partir de la llamada 
 
 electrónico, la transacción detallada en dicha comunicación y el pedido respectivo podrá ser cancelado
 
-Privalia | 54
+Privalia | 53
 
 
 
@@ -4986,7 +4990,7 @@ llegar a hasta siete (7) días naturales para las tarjetas de débito y a hasta 
 
 para las tarjetas de crédito.
 
-Privalia | 55
+Privalia | 54
 
 
 
@@ -5084,7 +5088,7 @@ cuando estén relacionadas con este ámbito, las reclamaciones serán resueltas 
 
 Mediación de Confianza Online, acreditado para la resolución alternativa de litigios en materia de
 
-Privalia | 56
+Privalia | 55
 
 
 
@@ -5100,7 +5104,7 @@ línea de la Unión Europea siguiendo este enlace:
 
 https://ec.europa.eu/consumers/odr/main/?event=main.home2.show.
 
-Privalia | 57
+Privalia | 56
 
 
 
@@ -5190,7 +5194,7 @@ través de la Plataforma, desde el anuncio dedicado a la campaña en curso o a t
 
 de invitación o recordatorio. La adquisición de Promociones Rosedeal estarán debidamente
 
-Privalia | 58
+Privalia | 57
 
 
 
@@ -5228,21 +5232,21 @@ El proceso para la adquisición de las Promociones Rosedeal, es el siguiente:
 
 
 
-6. Al seleccionar la casilla de aceptación de las CVR, tras pulsar el botón “Validar y pagar”, el
+1. Al seleccionar la casilla de aceptación de las CVR, tras pulsar el botón “Validar y pagar”, el
 
 Cliente declara aceptar plenamente y sin reservas la integridad de las CVR.
 
-7. Una vez que el Cliente haya seleccionado la Promoción Rosedeal, ésta última se añadirá en
+2. Una vez que el Cliente haya seleccionado la Promoción Rosedeal, ésta última se añadirá en
 
 el carrito del Cliente.
 
-8. El Cliente, entonces, deberá realizar el pago sin salir de su carrito.
+3. El Cliente, entonces, deberá realizar el pago sin salir de su carrito.
 
-9. Efectuado el cobro, el pedido deviene definitivo y el Cliente recibirá un e-mail de confirmación
+4. Efectuado el cobro, el pedido deviene definitivo y el Cliente recibirá un e-mail de confirmación
 
 de su pedido.
 
-10. En este punto, el Cliente podrá acceder a la Promoción Rosedeal a través de: (i) la sección “Mi
+5. En este punto, el Cliente podrá acceder a la Promoción Rosedeal a través de: (i) la sección “Mi
 
 cuenta/Mis pedidos” o (ii) a través del e-mail enviado por Privalia que contendrá la Promoción
 
@@ -5286,7 +5290,7 @@ El Proveedor en tanto que es el único responsable de la comercialización de lo
 
 toda responsabilidad en cuanto a cualquier eventual acción o reclamación de los Clientes en materia
 
-Privalia | 59
+Privalia | 58
 
 
 
@@ -5374,7 +5378,7 @@ tarjeta con la que se haga el pago deberá tener como entidad financiera emisora
 
 ahorros de la Unión Europea.
 
-Privalia | 60
+Privalia | 59
 
 
 
@@ -5474,7 +5478,7 @@ Es posible que, debido a la normativa aplicable, se solicite a los Clientes una 
 
 que Privalia pueda procesar sus pedidos.
 
-Privalia | 61
+Privalia | 60
 
 
 
@@ -5570,7 +5574,7 @@ previo e indispensable a la adquisición de cualquier las Promociones Rosedeal a
 
 Plataforma.
 
-Privalia | 62
+Privalia | 61
 
 
 
@@ -5646,7 +5650,7 @@ línea de la Unión Europea siguiendo este enlace:
 
 https://ec.europa.eu/consumers/odr/main/?event=main.home2.show.
 
-Privalia | 63
+Privalia | 62
 
 
 
@@ -5654,441 +5658,667 @@ CONDICIONES GENERALES DE RE-CYCLE
 
 
 
-1\. ÁMBITO DE APLICACIÓN
+La empresa VENTE-PRIVEE.COM S.A., con un capital social de 684.332,35 €, con sede en 249
+
+avenue du Président Wilson, La Plaine Saint - Denis (93210), inscrita en el Registro Mercantil de
+
+Bobigny con el siguiente número: 434 317 293, SIREN: 434 317 293 000 18, Código APE: 4791B, IVA
+
+intracomunitario: FR70 434 317 293 (en adelante “Privalia”) pone a disposición en el sitio web
+
+www.privalia.com (y en los dominios conectados a él) y en aplicaciones para smartphone, el servicio
+
+descrito a continuación.
 
 
 
-VENTE-PRIVEE.COM SA, SUCURSAL EN ESPAÑA (en adelante, "Privalia"), la sucursal, con
-
-domicilio en Rambla de la Marina, 450, 08907 L’Hospitalet de Llobregat (Barcelona), inscrita en el
-
-Registro Mercantil de Barcelona, en el tomo 47297, folio 75, Hoja B-547694, inscripción 1ª, con número
-
-de CIF W2504156G y con número de teléfono (+34) 935 53 18 06, que opera en España en nombre y
-
-por cuenta de la sociedad francesa VENTE-PRIVEE.COM, Société Anonyme con un capital de
-
-684.332,35 € inscrita en el registro comercial y de sociedades de Bobigny con el número RCS 434 317
-
-293 y con domicilio en 249 Avenue du Président Wilson 93210 la Plaine - Saint Denis, pone a
-
-disposición en el sitio web www.privalia.com (y en los dominios conectados a él) y en aplicaciones para
-
-smartphone, una plataforma que permite a sus clientes comprar Promociones Re-Cycle.
+Director de publicación: Jacques-Antoine GRANJON
 
 
 
-Las presentes condiciones generales (“Condiciones Generales RE-CYCLE” o “CVRC”) rigen la
+Proveedor de alojamiento: VENTE-PRIVEE.COM S.A., sociedad con sede en 249 avenue du Président
 
-presentación, por parte de Privalia a través de su Sitio Web, Web Mobile y/o Apps (en lo sucesivo, la
-
-“Plataforma”), de ofertas y promociones catalogadas como servicio Re-Cycle (en adelante, las
-
-“Promociones RE-CYCLE”). La mera inscripción como Cliente de la Plataforma implica el
-
-conocimiento y aceptación expresa de las presentes CVRC.
+Wilson, La Plaine Saint - Denis (93210), registrada en el Registro Mercantil de Bobigny.
 
 
 
-A través de este servicio, tanto Clientes como usuarios no registrados (en adelante conjuntamente los
-
-“Usuarios”) pueden inscribirse en las Promociones Re-Cycle, consistentes en campañas donde los
-
-Usuarios podrán entregar productos utilizados y/o dañados (“Productos Reciclables”) a cambio de
-
-cupones descuento canjeables en las tiendas del Proveedor (online y/o offline, según se defina) con el
-
-que se haya lanzado la correspondiente campaña. Privalia interviene en la presente operación a modo
-
-de colaborador comercial del Proveedor, gestionando, cuando la campaña así lo indique, la recepción
-
-de los productos y emitiendo los correspondientes cupones; pero el Cliente concluye directamente la
-
-adquisición de los productos y/o servicios que pueda obtener con el citado cupón con el Proveedor en
-
-el momento de su canjeo y sujeto a las condiciones generales de venta que el Proveedor pueda tener
-
-para la venta de sus productos o prestación de sus servicios.
+1. DEFINICIONES
 
 
 
-Estas CVRC únicamente aplican en los casos en que los Usuarios adquieran las Promociones Re-
+Dato(s) Personal(es): de acuerdo con el Reglamento General de Protección de Datos (RGPD)
 
-Cycle. No serán de aplicación en caso de que los Usuarios compren productos o contraten otros
+n.° 2016/679 del Parlamento Europeo y del Consejo de 27 de abril de 2016 relativo a la protección de
 
-servicios a través de otras modalidades; en cuyo caso, resultarían de aplicación a los Clientes las
+las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de
 
-condiciones que resulten aplicables.
+estos datos, se refiere a cualquier información relacionada con una persona física identificada o
 
+identificable que pueda ser identificada, directa o indirectamente, por referencia a un identificador,
 
+como un nombre, un número de identificación, datos de localización, un identificador en línea o uno o
 
-Las Condiciones de Uso de la Plataforma son siempre aplicables cuando el Cliente adquiere
+varios elementos propios de su identidad física, fisiológica, genética, psíquica, económica, cultural o
 
-Promociones Re-Cycle, siempre que no contradigan lo estipulado en las presentes CVRC.
-
-
-
-2\. PROCEDIMIENTO DE ADQUISICIÓN DE PROMOCIONES RE-CYCLE
+social.
 
 
 
-Los Usuarios pueden acceder al servicio de Promociones Re-Cycle directamente a través de la
+Minisite: se refiere al sitio web y la aplicación móvil en los cuales está disponible el Servicio RE-CYCLE
 
-Plataforma, desde la sección dedicada a las Promociones Re-Cycle (“Plataforma Re-Cycle”). Las
-
-Promociones están disponibles en la Plataforma durante un periodo predeterminado y limitado.
+para los Usuarios.
 
 
 
-Las Promociones Re-Cycle tendrán la siguiente limitación:
+Producto(s): se refiere al producto de una (de) o las marca(s) elegible(s) para las condiciones del
+
+servicio Privalia RE-CYCLE del cual el Usuario es propietario y acepta enviar de forma gratuita a
+
+Privalia en el marco de su participación en Privalia RE-CYCLE y de acuerdo con las condiciones del
+
+Artículo 4.
+
+
+
+Proveedor: se refiere a la persona jurídica que participa en la operación Privalia RE-CYCLE en el
+
+marco del Servicio RE-CYCLE.
+
+
+
+Reutilización: se refiere a cualquier operación mediante la cual productos o componentes de
+
+productos que no sean residuos se utilizan de nuevo con la misma finalidad para la que fueron
+
+concebidos, según el artículo 2 aw) de la Ley 7/2022, de 8 de abril, de residuos y suelos contaminados
+
+para una economía circular.
+
+
+
+Servicio o Servicio RE-CYCLE: se refiere al servicio puesto a disposición del Usuario desde el
+
+Minisite y a través del cual Privalia organizará operaciones Privalia RE-CYCLE.
+
+
+
+Sitio: se refiere al Sitio Web, Web Mobile y/o Apps accesibles en la dirección web www.privalia.com,
+
+desde el cual el Usuario puede acceder al Minisite.
+
+Privalia | 63
+
+
+
+Cliente(s): se refiere a la definición indicada en las Condiciones Generales de Uso de Privalia.
+
+
+
+Usuario(s): se refiere a cualquier persona que utilice el Servicio RE-CYCLE, ya sea Cliente o no del
+
+Sitio.
+
+
+
+Privalia RE-CYCLE: se refiere a una iniciativa medioambiental de Privalia para el desarrollo sostenible
+
+mediante la cual, en colaboración con un Proveedor asociado, Privalia permitirá a los Usuarios enviarle
+
+Productos de una o varias marcas con el fin de darles una nueva vida a través de la reutilización.
+
+
+
+2. ÁMBITO DE APLICACIÓN Y ACEPTACIÓN DE LAS CONDICIONES
+
+GENERALES DE USO DEL SERVICIO RE-CYCLE
+
+
+
+2.1 Las presentes Condiciones Generales de Uso del Servicio RE-CYCLE (en adelante "CGU RE-
+
+CYCLE") se suscriben entre Privalia y el Usuario. Estas CGU RE-CYCLE tienen por objeto definir las
+
+condiciones de uso del Servicio RE-CYCLE ofrecido por Privalia.
+
+
+
+2.2 Las CGU RE-CYCLE se aplicarán de manera exclusiva entre Privalia y el Usuario que desee
+
+acceder y/o utilizar el Servicio RE-CYCLE.
+
+
+
+2.3 Cualquier uso del Servicio RE-CYCLE por parte de un Usuario está sujeto a la aceptación
+
+incondicional de las presentes CGU RE-CYCLE.
+
+
+
+3. CONDICIONES DE ACCESO AL SERVICIO RE-CYCLE
+
+
+
+3.1 El Usuario podrá acceder al Servicio RE-CYCLE desde el Sitio haciendo clic en el banner Re-
+
+CYCLE. El Usuario será redirigido al Minisite dedicado al Servicio RE-CYCLE.
+
+
+
+El Servicio RE-CYCLE estará disponible para todos los Usuarios con las siguientes limitaciones:
+
+
+
+- Una (1) solicitud por Usuario (mismo nombre, mismo apellido, misma dirección postal, misma
+
+dirección de correo electrónico).
+
+
+
+- Un número máximo de solicitudes por operación Privalia RE-CYCLE previamente indicado
+
+en el Minisite.
+
+
+
+- La lista de Productos elegibles se definirá en cada acción de Servicio RE-CYCLE.
+
+
+
+3.2 Para hacer uso del Servicio RE-CYCLE el Cliente deberá leer y aceptar expresamente estas CGU
+
+RE-CYCLE, así como confirmar que los Productos son aptos para la Reutilización. Para ello, el Usuario
+
+deberá marcar una casilla de aceptación de las CGU RE-CYCLE, una casilla en la que manifiesta que
+
+los Productos pueden ser reutilizados y hacer clic en el botón "Empezar".
+
+
+
+Con esta aceptación y confirmación, el Usuario acepta confiar su Producto a Privalia y transferirle la
+
+propiedad del mismo para que Privalia y/o, en su caso, las entidades correspondientes del grupo
+
+Veepee, puedan llevar a cabo acciones que promuevan y permitan su Reutilización.
 
 Privalia | 64
 
 
 
-- Se podrá realizar una sola solicitud por Usuario (misma dirección de correo electrónico).
-
-- Una Promoción Re-Cycle podrá tener limitado el número de solicitudes totales.
-
-- La lista de productos elegibles se definirá en cada Promoción Re-Cycle.
+4. DESCRIPCIÓN DEL SERVICIO
 
 
 
-Para poder enviar los Productos Reciclables, el Usuario deberá ser propietario de los mismos y deberá
-
-asegurarse de que se cumplen las siguientes condiciones: (i) que sean identificables con una marca –
-
-logo, marca y/o etiqueta –; (ii) que sean auténticos; (iii) que sean elegibles según la lista de productos
-
-aceptados en la Promoción Re-Cycle. Excepcionalmente, la correspondiente Promoción Re-Cycle
-
-podrá ampliar la gama de productos elegibles, en cuyo caso, se indicará así en la descripción de la
-
-Promoción Re-Cycle.
+4.1 El Servicio RE-CYCLE es un servicio gratuito ofrecido por Privalia.
 
 
 
-Las Promociones se podrán presentar mediante una de las siguientes modalidades, o por ambas al
+A través de este servicio, Privalia organizará una operación de eventos de al menos tres (3) días (en
 
-mismo tiempo:
+adelante, "Operación Privalia RE-CYCLE" u "Operación") y permitirá a los Usuarios enviar a Privalia
 
+Productos de una o varias marcas que puedan ser reutilizados y que sean elegibles para la Operación
 
-
-3. Entrega Online: El Usuario deberá empaquetar los Productos Reciclables y entregarlos en la
-
-oficina elegida en el Formulario de Solicitud para su envío a los almacenes de Privalia, donde
-
-se verificará que cumplen con los criterios de elegibilidad. En esta modalidad, Privalia devendrá
-
-propietaria de los Productos Reciclables.
+Privalia RE-CYCLE.
 
 
 
-4. Entrega Offline: El Usuario deberá entregar los Productos Reciclables y entregarlos en la
+La Operación Privalia RE-CYCLE se enmarca en una iniciativa medioambiental para dar una nueva
 
-tienda habilitada elegida en el Formulario de Solicitud para donde el personal de la tienda
-
-verificará que cumplen con los criterios de elegibilidad. En esta modalidad, el Proveedor
-
-devendrá propietario de los Productos Reciclables.
+vida a los Productos a través de su Reutilización.
 
 
 
-El proceso para la suscripción de las Promociones Re-Cycle, es el siguiente:
+4.2 En el marco de la Operación Privalia RE-CYCLE, el Usuario podrá solicitar el envío de uno o más
+
+Productos de una o varias marcas, según las condiciones de elegibilidad establecidas durante la
+
+Operación Privalia RE-CYCLE y dentro del límite del número máximo de productos por solicitud y por
+
+usuario indicado previamente en el Minisite. La lista de categorías de Productos elegibles se definirá
+
+en la página de presentación del Minisite de la Operación Privalia RE-CYCLE. Se informa al Usuario
+
+que esta lista puede cambiar en función del Proveedor que participe en la Operación.
 
 
 
-11. El Usuario deberá rellenar en la Plataforma Re-Cycle un formulario de solicitud (“Formulario
+4.3 Para poder enviar el Producto, el Usuario deberá ser propietario del mismo y deberá asegurarse
 
-de Solicitud”) que le permita entregar los Productos Reciclables.
-
-12. El Usuario deberá indicar el tipo de entrega de los Productos Reciclables (según disponibilidad
-
-de la campaña) y, con el envío del formulario, declara aceptar plenamente y sin reservas la
-
-integridad de las CVRC y las particularidades descritas en la Promoción Re-Cycle. Con esta
-
-aceptación, el Usuario consiente entregar sus Productos Reciclables (a Privalia o al Proveedor,
-
-según la modalidad) y transferir así la propiedad para que puedan proceder con el reciclaje de
-
-los mismos.
-
-13. Según el método de entrega seleccionado:
+de que se cumplen las siguientes condiciones relativas al Producto:
 
 
 
-a. Entrega Online:
-
-i. El Usuario deberá imprimir el albarán de solicitud y colocarlo dentro del
-
-paquete.
-
-ii. El Usuario deberá imprimir la etiqueta de transporte pre-pagada y pegarla al
-
-exterior del paquete.
-
-iii. El Usuario deberá entregar el paquete en un punto de recogida en un plazo
-
-de 10 días desde la validación de la solicitud a la Promoción Re-Cycle.
+- Ser auténtico y/o no falsificado.
 
 
 
-b. Entrega Offline:
+- Ser apto para su Reutilización (según el artículo 2 aw) de la Ley 7/2022, de 8 de abril, de residuos y
 
-i. El Usuario deberá entregar el Paquete en la tienda habilitada por el Proveedor
+suelos contaminados para una economía circular).
 
-en un plazo de 10 días desde la validación de la solicitud de la Promoción Re-
+
+
+- Ser elegible según la lista de Productos aceptados en la Operación.
+
+
+
+En virtud de estas condiciones, se informa a los Usuarios que no se aceptarán todos los Productos en
+
+el marco de la Operación Privalia RE-CYCLE y que dependen de la lista definida por Privalia y el
+
+Proveedor.
+
+
+
+4.4 Si los Productos seleccionados por el Usuario son elegibles para la Operación, deberá, según el
+
+método de entrega seleccionado:
+
+
+
+a. Entrega online:
+
+
+
+1. Completar un formulario de solicitud RE-CYCLE para el envío de los Productos.
+
+
+
+2. Validar su solicitud RE-CYCLE confirmando que los Productos pueden ser objeto de
+
+Reutilización y aceptando estas CGU RE-CYCLE.
+
+
+
+3. Imprimir su formulario de solicitud y colocarlo dentro del paquete.
+
+
+
+4. Imprimir la etiqueta de transporte prepagada y pegarla en el paquete.
+
+
+
+5. Depositar el paquete en un punto de recogida en un plazo de 10 días laborables a partir de la
+
+validación de su solicitud RE-CYCLE para el depósito del paquete.
 
 Privalia | 65
 
 
 
-Cycle. El personal de Tienda Habilitada validará, entonces, la elegibilidad del
-
-mismo.
+En esta modalidad, Privalia devendrá propietaria de los Productos.
 
 
 
-Las Promociones Re-Cycle solicitadas a través de este procedimiento son definitivas e irrevocables.
-
-No pueden ser ni modificadas ni anuladas. En el caso que el Usuario no entregue el paquete dentro
-
-del plazo habilitado, Privalia notificará por correo electrónico la cancelación de su solicitud a la
-
-Promoción Re-Cycle.
+b. Entrega offline:
 
 
 
-Los cupones adquiridos en las Promociones Re-Cycle tienen un plazo de validez para su canjeo, el
+El Usuario deberá entregar el paquete en la tienda habilitada por el Proveedor elegida en el formulario
 
-cual estará indicado en la descripción de la Promoción Re-Cycle (“Plazo de Validez”). Transcurrido el
+de solicitud RE-CYCLE en un plazo de 10 días laborables desde la validación de la solicitud RE-
 
-Plazo de Validez sin que los mismos hayan sido utilizados, las Promociones Re-Cycle perderán su
+CYCLE. El personal de la tienda habilitada validará, entonces, la elegibilidad del mismo. En esta
 
-funcionalidad, sin que se dé lugar a compensación alguna. El Usuario es el único responsable de
-
-utilizar los cupones de la Promoción Re-Cycle dentro del Plazo de Validez aceptado por él mismo.
+modalidad, el Proveedor devendrá propietario de los Productos.
 
 
 
-3\. ENVÍO/ENTREGA DE LOS PRODUCTOS RECICLABLES.
+4.5 El Usuario garantiza a Privalia la exactitud de la información proporcionada en su formulario de
+
+solicitud. A este respecto, reconoce que si alguno de los Productos para los que ha solicitado el envío
+
+no es un producto elegible según las condiciones de validez que se le hayan indicado, si el Producto
+
+no es auténtico, es falsificado o de imitación, si no es apto para su Reutilización o si no es elegible
+
+según la lista de Productos aceptados, estos Productos no le serán devueltos.
 
 
 
-Preparación del paquete por parte del Usuario:
+5. ENVÍO DE LOS PRODUCTOS
 
 
 
-Durante la preparación del paquete, el Usuario deberá tener cuidado de que el Producto Reciclable
-
-esté correctamente protegido y cumpla con la información declarada en el Formulario de Solicitud.
+5.1 Preparación del paquete por parte del Usuario
 
 
 
-El Usuario, en la modalidad Online, será responsable de las pérdidas, daños o deterioros que se
+Al preparar su paquete, el Usuario deberá asegurarse de proteger adecuadamente su(s) Producto(s)
 
-produzcan durante el transporte, hasta que el Artículo haya sido recepcionado por parte de Privalia en
-
-su almacén. En la modalidad Offline, lo será hasta que el personal de la tienda habilitada lo valide.
+y de que sean conformes a la información proporcionada en el formulario de solicitud RE-CYCLE.
 
 
 
-En el caso de envíos/entregas que incluyan varios Productos Reciclables, el Usuario deberá
+El Usuario, en la modalidad online, será responsable de las pérdidas, daños o deterioros que se
 
-asegurarse de utilizar un mismo paquete para su envío a Privalia.
+produzcan durante el transporte, hasta que el Producto haya sido recepcionado correctamente por
 
+parte de Privalia en su almacén. En la modalidad offline, lo será hasta que el personal de la tienda
 
-
-Servicio de transporte del paquete del Usuario en la modalidad Online:
-
-
-
-En la modalidad Online, la entrega deberá hacerse a través de nuestro transportista asociado Mondial
-
-Relay (“punto pack”) en España. El Usuario dispone de un plazo de 10 días laborables para entregar
-
-el paquete en el lugar que haya elegido en el Formulario de Solicitud. Deberá conservar la confirmación
-
-de entrega del mismo.
+habilitada lo valide.
 
 
 
-Recepción del paquete por parte de Privalia/Proveedor:
+En el caso de envíos que contengan varios Productos del mismo Usuario, el Usuario debe asegurarse
+
+de utilizar el mismo paquete para que Privalia pueda identificarlo fácilmente.
 
 
 
-En el marco de la Promoción Re-Cycle, todos los Productos Reciclables enviados siguen siendo
-
-propiedad del Usuario hasta la efectiva recepción y validación de dichos productos por parte de Privalia
-
-en su almacén (en la modalidad Online) o por parte del proveedor en su tienda habilitada (en la
-
-modalidad Offline).
+5.2 Depósito del paquete por parte del Usuario
 
 
 
-4. VALIDACIÓN Y CONFORMIDAD DE LOS PRODUCTOS RECICLABLES.
+En la modalidad online, el Servicio solo ofrece la opción de entrega a través de nuestro socio
+
+transportista asociado Mondial Relay (“InPost”) en España. El Usuario dispone de un plazo de 10 días
+
+laborables para depositar su paquete en el punto Mondial Relay de su elección. Una vez depositado
+
+el paquete, se invitará al Usuario a conservar la prueba de depósito del paquete. En caso de que el
+
+Usuario no deposite el paquete dentro del plazo establecido, Privalia le notificará por correo electrónico
+
+la falta de envío de los Productos y la cancelación de su solicitud RE-CYCLE.
 
 
 
-Una vez que el paquete haya sido recepcionado por Privalia o por el Proveedor (según corresponda),
+5.3 Recepción del paquete
 
-se realizará una comprobación de conformidad en el Formulario de Solicitud de reciclaje
 
-cumplimentado y enviado por el Usuario.
+
+Una vez depositado, el paquete será transportado a los almacenes de Privalia en un plazo medio de
+
+cinco (5) días laborables (excluyendo casos excepcionales o de fuerza mayor), a partir de la
+
+notificación por correo electrónico de que ha sido recogido por los servicios de entrega de Mondial
+
+Relay.
 
 Privalia | 66
 
 
 
-1. Si se valida el control, se confirmará la solicitud al Usuario y se le asignará un cupón en
+Una vez que el(los) Producto(s) sean recibidos en los almacenes de Privalia, se enviará un correo
 
-función de las condiciones de la Promoción Re-Cycle.
+electrónico al Usuario para informarle de la recepción de su(s) Producto(s). Se realizará un control de
 
-2. Si el control es negativo, por no cumplir con los requisitos descritos en las CVRC o no cumplir
-
-con el Formulario de Solicitud, los Productos Reciclables serán: (i) en la modalidad Online,
-
-conservados(s) por Privalia a modo de penalización, sin que proceda la entrega del
-
-correspondiente cupón de agradecimiento; y (ii) en la modalidad offline, los Productos
-
-reciclables serán devueltos al momento al Usuario.
+calidad de acuerdo con las condiciones establecidas en el artículo 8 siguiente.
 
 
 
-5. CUPONES DE COMPENSACIÓN RE-CYCLE.
+Solo después de que el control de calidad sea satisfactorio, Privalia validará la solicitud RE-CYCLE. A
+
+partir de la validación de la solicitud RE-CYCLE, se informa al Usuario que no podrá solicitar la
+
+devolución de su(s) Producto(s).
 
 
 
-Como agradecimiento por formar parte de la Promoción Re-Cycle, los Usuarios podrán recibir cupones
+Privalia adquiere la propiedad del(los) Producto(s) recogido(s) de conformidad con el artículo 6 de
 
-descuento siempre y cuando los Productos Reciclables cumplan con las condiciones de elegibilidad y
-
-hayan sido debidamente validados por Privalia.
+estas CGU RE-CYCLE.
 
 
 
-Las condiciones de aplicación o uso de estos cupones serán definidos por el Proveedor en la
-
-correspondiente Promoción Re-Cycle.
+6. TRANSFERENCIA DE PROPIEDAD Y RIESGO DE LOS PRODUCTOS
 
 
 
-6\. CONDICIONES APLICABLES A LA ADQUISICIÓN DE PROMOCIONES RE-
+En el marco de las Operaciones Privalia RE-CYCLE, en la modalidad online, todos los Productos se
 
-CYCLE Y RÉGIMEN DE RESPONSABILIDAD.
+envían con reserva de propiedad y, por lo tanto, siguen siendo propiedad del Usuario hasta que se
 
-
-
-Privalia se reserva el derecho a rechazar toda solicitud por razones legítimas y, principalmente, en el
-
-caso de que se realicen múltiples solicitudes por parte de un mismo Usuario.
+reciban todos los Productos en los almacenes o plataformas logísticas de Privalia.
 
 
 
-El Usuario podrá utilizar una sola Promoción Re-Cycle para una misma prestación de un mismo
+La recepción se considera completada cuando los Productos se descargan en los almacenes de
 
-Proveedor, salvo si se especifica lo contrario en las disposiciones descritas en esta.
-
-
-
-Las Promociones Re-Cycle podrán ser nominativas si así está indicado en la descripción de la
-
-campaña.
+Privalia.
 
 
 
-Privalia no será responsable en caso de publicar, por error involuntario, una Promoción Re-Cycle cuyas
+La transferencia de riesgos se produce al comienzo de las operaciones de descarga realizadas por
 
-características sean manifiestamente erróneas, de manera que la existencia de ese error fuese notoria.
-
-
-
-7\. VALIDEZ DE LAS PROMOCIONES RE-CYCLE
+Privalia en sus almacenes o plataformas logísticas.
 
 
 
-Toda la información respecto a la utilización de los cupones descuento facilitada en la descripción de
+En la modalidad offline, todos los Productos se envían con reserva de propiedad y, por lo tanto, siguen
 
-las Promociones Re-Cycle ha sido facilitada a Privalia por parte del Proveedor. Por ello, en caso de
-
-que el Cliente tenga problemas a la hora de canjear el cupón en la tienda/plataforma del Proveedor, el
-
-Cliente deberá ponerse en contacto con Privalia, a través de la sección “Ayuda”.
+siendo propiedad del Usuario hasta que el personal de la tienda habilitada del Proveedor los valide.
 
 
 
-8\. MODIFICACIÓN DE LAS CONDICIONES GENERALES RE-CYCLE
+7. NO CONFORMIDAD DE LOS PRODUCTOS
 
 
 
-Las Condiciones Generales Re-Cycle, además de las condiciones publicadas en la ficha de la
+Una vez que el paquete sea recogido, se realizará un control de conformidad en relación con el
 
-Promoción Re-Cycle, documentan la adquisición por parte del Cliente de las Promociones Re-Cycle y
+formulario de solicitud RE-CYCLE completado y enviado por el Usuario.
 
-constituyen la expresa y única voluntad de Privalia y el Cliente en relación con su objeto e invalida y
 
-sustituye cualesquiera otros acuerdos o contratos, verbales o por escrito, alcanzados por las partes
 
-con anterioridad. Cualquier modificación deberá realizarse por escrito y de mutuo acuerdo entre las
+- Si el control es válido, se confirmará al Usuario la validación de su solicitud y, según las
 
-partes implicadas.
+condiciones de la Operación Privalia RE-CYCLE comunicadas desde el Minisite, Privalia puede
+
+otorgar al Usuario un beneficio RE-CYCLE, tal y como se describe en el artículo 8 siguiente.
+
+
+
+- Si el control es negativo debido a que el Producto no tiene la marca o marcas elegibles para
+
+la Operación, no es auténtico, es falsificado, no es elegible, no puede ser reutilizado o, en
+
+general, no cumple con el formulario de solicitud de RE-CYCLE del Usuario, entonces el
+
+Producto será:
+
+
+
+(i) en la modalidad online, retenido por Privalia. El Producto pasará a tener en ese momento la
+
+consideración de residuo y será revalorizado por la red de Clientes de Privalia RE-CYCLE. Si
+
+las condiciones de la Operación Privalia RE-CYCLE prevén la concesión de beneficios, estos
+
+no serán otorgados.
 
 Privalia | 67
 
 
 
-Privalia se reserva el derecho de modificar, en cualquier momento y sin previo aviso, las presentes
-
-CVRC.
+(ii) en la modalidad offline, los Productos serán devueltos al momento al Usuario.
 
 
 
-Los Clientes y Usuarios siempre dispondrán de las CVRC en vigor en cada momento en un sitio visible,
-
-libremente accesible para cuantas consultas quiera realizar. Los Clientes deberán leer atentamente
-
-estas CVRC. En cualquier caso, la aceptación de las CVRC vigentes en cada momento será un paso
-
-previo e indispensable a la adquisición de cualesquiera Promociones Re-Cycle a través de la
-
-Plataforma.
+8. COMPENSACIÓN DE RE-CYCLE
 
 
 
-9\. LEY APLICABLE Y JURISDICCIÓN
+8.1 En el marco de sus Operaciones Privalia RE-CYCLE, los Usuarios pueden recibir beneficios (por
+
+ejemplo, vales de compra, cupones de descuento, etc.) como agradecimiento por su participación,
+
+sujeto al cumplimiento de las condiciones de elegibilidad de los Productos enviados y de las CGU RE-
+
+CYCLE.
 
 
 
-Las presentes CVRC se rigen por la ley española.
+8.2 Estos beneficios de RE-CYCLE serán determinados por Privalia o el Proveedor y se presentarán a
+
+los Usuarios durante la Operación Privalia RE-CYCLE en el Minisite.
 
 
 
-En caso de controversia o desavenencia que se derive de las presentes CVRC o de la compra de los
+8.3 Las condiciones de aplicación o uso de estos beneficios serán comunicadas a los Usuarios a través
 
-Productos o contratación de los Servicios a Privalia a través de la Plataforma y para la resolución de
-
-cualesquiera conflictos, Privalia y el Cliente consumidor acuerdan someterse, a su libre elección, y con
-
-renuncia a cualquier otro fuero o jurisdicción al que pudieran tener derecho, a los juzgados y tribunales
-
-de la ciudad correspondiente al domicilio del Cliente o Usuario consumidor. En caso de Cliente o
-
-Usuario no consumidor, las partes acuerdan someterse a los juzgados y tribunales de Barcelona
-
-capital.
+del Minisite, así como en el correo electrónico de validación de la solicitud de RE-CYCLE.
 
 
 
-A efectos de las presentes CVRC se entenderá por "consumidor" la persona que actúe con un propósito
+9. RESPONSABILIDAD
 
-ajeno a su actividad comercial, empresarial, oficio o profesión, de conformidad con el Real Decreto
 
-Legislativo 1/2007, de 16 de noviembre, por el que se aprueba el texto refundido de la Ley General
 
-para la Defensa de los Consumidores y Usuarios.
+9.1 Del Usuario
+
+
+
+Cada Usuario se compromete a respetar las CGU RE-CYCLE y, sin limitarse a ello, se compromete a:
+
+
+
+- Proporcionar información y/o datos que no sean engañosos ni incorrectos, especialmente en
+
+lo que respecta a sus datos personales (nombre, apellido, dirección de correo electrónico,
+
+dirección postal, etc.).
+
+
+
+- No utilizar este Servicio con el fin de realizar o intentar realizar transacciones ilícitas o actos
+
+fraudulentos de ninguna manera.
+
+
+
+- No difundir contenido contrario a la ley y/o al orden público, en particular cualquier contenido
+
+violento, pornográfico, racista, antisemita, xenófobo, que atente contra el respeto a la persona
+
+humana, su dignidad, su vida privada, que infrinja los derechos de autor, derechos conexos,
+
+derechos de marca, derechos de diseño y modelo y/o derechos de personalidad de terceros.
+
+
+
+- Mantener estrictamente confidenciales las credenciales que le permiten acceder y/o utilizar el
+
+Servicio RE-CYCLE.
+
+
+
+- Enviar a Privalia únicamente productos de su propiedad y que cumplan con las condiciones de
+
+elegibilidad comunicadas previamente.
+
+
+
+- Enviar a Privalia únicamente productos de los que pueda garantizar la autenticidad, de acuerdo
+
+con las leyes aplicables en materia de propiedad industrial e intelectual.
+
+
+
+- Enviar a Privalia únicamente productos que puedan ser reutilizados y no tengan la
+
+consideración de residuo.
+
+Privalia | 68
+
+
+
+El Usuario reconoce que es el único responsable del uso que hace del Servicio desde su cuenta de
+
+Cliente de Privalia y de las consecuencias de dicho uso.
+
+
+
+9.2 De Privalia
+
+
+
+Privalia se compromete a realizar sus mejores esfuerzos para que este Servicio esté disponible durante
+
+todo el período de visualización del banner RE-CYCLE, independientemente de las operaciones de
+
+mantenimiento programadas, y para garantizar el acceso al Servicio RE-CYCLE en las mejores
+
+condiciones.
+
+
+
+Privalia no asume ninguna responsabilidad ante el Usuario por cualquier evento que escape directa o
+
+indirectamente a su control, que no pudiera haberse previsto razonablemente y cuyos efectos no
+
+puedan evitarse dadas las circunstancias técnicas. Esto incluye, entre otros, cualquier mal
+
+funcionamiento, interrupción no programada, suspensión o modificación de la conexión al Servicio,
+
+pérdida de datos o información a través del Servicio, aparición de errores o virus, daños resultantes de
+
+una intrusión fraudulenta de un tercero que haya modificado la información puesta a disposición de los
+
+Usuarios.
+
+
+
+En este sentido, el Usuario declara aceptar las características y limitaciones de Internet, y en particular
+
+reconoce que el Servicio está disponible "en su estado actual" y en función de su disponibilidad, que
+
+es responsable de la protección de su propio contenido y que le corresponde tomar todas las medidas
+
+adecuadas para protegerlo de posibles virus.
+
+
+
+Privalia puede eliminar, sin previo aviso ni indemnización, cualquier contenido que no cumpla con las
+
+CGU RE-CYCLE.
+
+
+
+En cualquier caso, Privalia no será responsable de cualquier incumplimiento o falta de cumplimiento
+
+de sus obligaciones por parte de un Usuario en virtud de las CGU RE-CYCLE.
+
+
+
+Privalia no será responsable en caso de publicar, por error involuntario, una Operación cuyas
+
+características sean manifiestamente erróneas, de manera que la existencia de ese error fuese notoria.
+
+
+
+10\. LEY APLICABLE Y JURISDICCIÓN COMPETENTE
+
+
+
+Las CGU RE-CYCLE se rigen de acuerdo con la legislación española.
+
+
+
+En caso de controversia o desavenencia que se derive de las presentes CGU RE-CYCLE y para la
+
+resolución de cualesquiera conflictos, Privalia y el Cliente consumidor acuerdan someterse, a su libre
+
+elección, y con renuncia a cualquier otro fuero o jurisdicción al que pudieran tener derecho, a los
+
+juzgados y tribunales de la ciudad correspondiente al domicilio del Cliente o Usuario consumidor. En
+
+caso de Cliente o Usuario no consumidor, las partes acuerdan someterse a los juzgados y tribunales
+
+de Barcelona capital.
+
+
+
+A efectos de las presentes CGU RE-CYCLE se entenderá por "consumidor" la persona que actúe con
+
+un propósito ajeno a su actividad comercial, empresarial, oficio o profesión, de conformidad con el Real
+
+Decreto Legislativo 1/2007, de 16 de noviembre, por el que se aprueba el texto refundido de la Ley
+
+General para la Defensa de los Consumidores y Usuarios.
+
+Privalia | 69
 
 
 
@@ -6102,13 +6332,13 @@ Calle Castelló 24, Esc. 1 2° izq., 28001 Madrid (España), teléfono (+34) 91 
 
 
 
-Así mismo, en cumplimiento de lo dispuesto en la Ley de Resolución Alternativa de Litigios, Privalia
+Asimismo, en cumplimiento de lo dispuesto en la Ley de Resolución Alternativa de Litigios, Privalia
 
 informa a los consumidores que, como entidad adherida y en los términos del Código Ético, los
 
 Usuarios podrán acudir a Confianza Online para la resolución alternativa de eventuales controversias
 
-(https://www.confianzaonline.es/consumidores/como-reclamar/formulario-reclamaciones/).
+(https://www.confianzaonline.es/como-reclamar/formulario-de-reclamaciones/).
 
 
 
@@ -6127,5 +6357,7 @@ con este ámbito, serán sometidas al Jurado de la Publicidad de AUTOCONTROL.
 Además, Privalia recuerda al Cliente que puede acceder a la plataforma de resolución de litigios en
 
 línea de la Unión Europea siguiendo este enlace:
+
+
 
 https://ec.europa.eu/consumers/odr/main/?event=main.home2.show.
