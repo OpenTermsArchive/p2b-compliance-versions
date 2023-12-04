@@ -46,7 +46,7 @@ Furthermore, while Bonanza discourages certain conduct and content on the Websit
 **II. Membership Eligibility**
 ------------------------------
 
-Bonanza's services are free, but available only to individuals who can form legally binding contracts under applicable law. Bonanza's services are not available to children (persons under the age of 18) or to temporarily or indefinitely suspended Bonanza members. If you are a under the age of 18, you can use this service only in conjunction with, and under the supervision of your parents or guardians. If you do not qualify, please do not use Bonanza. Further, you also agree not to transfer or sell your account (including feedback) or User ID.  
+Bonanza's services are available only to individuals who can form legally binding contracts under applicable law. Bonanza's services are not available to children (persons under the age of 18) or to temporarily or indefinitely suspended Bonanza members. If you are a under the age of 18, you can use this service only in conjunction with, and under the supervision of your parents or guardians. If you do not qualify, please do not use Bonanza. Further, you also agree not to transfer or sell your account (including feedback) or User ID.  
 
 **III. Purchasing/Buyer Obligations and Guidelines**
 ----------------------------------------------------
