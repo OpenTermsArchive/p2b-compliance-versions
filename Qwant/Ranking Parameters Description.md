@@ -42,4 +42,4 @@ The displayed points of interest come from the OpenStreetMap project’s collabo
 
 To add or remove a point of interest, you can [contact us](https://about.qwant.com/contact/) with the details of your request.
 
-* Last update: August 24, 2021
+* Last update: December 5, 2023
