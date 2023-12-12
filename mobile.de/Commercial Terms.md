@@ -1,14 +1,17 @@
 Allgemeine Geschäftsbedingungen für die Nutzung des Händlerbereichs des mobile.de Dienstes (AGB-HB)
 ===================================================================================================
 
-**Diese AGB sind gültig ab 1. April 2023.**  
+Willkommen bei der mobile.de GmbH (im Folgenden: "mobile.de"), Albert-Einstein-Ring 26, 14532 Kleinmachnow.  
   
-Die bis 31. März 2023 gültigen AGB finden Sie [hier](https://www.mobile.de/service/agbProfessionalOld?lang=de)  
+
+mobile.de aktualisiert die AGB  
+
+---------------------------------
+
+Die ab 1. Januar 2024 gültigen AGB finden Sie [hier](https://www.mobile.de/service/agbProfessionalNew?lang=de)  
   
 
 * * *
-
-Willkommen bei der mobile.de GmbH (im Folgenden: "mobile.de"), Albert-Einstein-Ring 26, 14532 Kleinmachnow.
 
 Diese AGB-HB regeln das Vertragsverhältnis zwischen mobile.de und den Nutzern des Händlerbereichs (HB) des von mobile.de angebotenen Online-Portals einschließlich der dazugehörigen Apps und sonstigen Anwendungen (im Folgenden "mobile.de Dienst"). Die Nutzung des mobile.de Dienstes unterliegt darüber hinaus dem [Kodex für den Fahrzeughandel im Internet](https://www.mobile.de/service/onlineVehicleTradingCode?lang=de), dessen Geltung jeder Teilnehmer mit der Zustimmung zu diesen AGB-HB ausdrücklich anerkennt.  
   
