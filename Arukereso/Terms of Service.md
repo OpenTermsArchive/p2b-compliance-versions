@@ -40,7 +40,7 @@ Az alábbiakban részletezett általános szerződési feltételek (továbbiakba
             Ha a bolt ajánlatainak ÁFA tartalma nem azonosítható be a nyilvánosan elérhető információk (többek között: webshop termékoldal, ÁSZF) alapján, az Árukereső fenntartja jogát a bolt által adott ajánlat megjelenítésének visszautasítására, vagy eltávolítására.  
             Továbbá jogosult az Árukereső a bolt által adott ajánlat megjelenítésének visszautasítására, vagy eltávolítására, ha az elektronikus kereskedelemre irányadó EU és magyar jogszabályokban meghatározott elektronikus visszaigazolási követelménynek a bolt nem tesz eleget.
         2. Belföldi székhelyű boltokra vonatkozó feltételek  
-            Belföldi székhelyű bolt esetén áthárított magyar ÁFÁ-t (27%, 18% vagy 5%) nem tartalmazó ajánlatot kizárólag alanyi adómentes adózó jeleníthet meg, mely ajánlatok az alapértelmezett termékoldali forgalmazólistában egy, a nem magyar ÁFA tartalommal (27%, 18% vagy 5%) forgalmazott ajánlatok számára kialakított szekcióban jelennek meg a többi forgalmazó magyar ÁFA tartalmú ajánlata alá rendezve. Ezen boltok ajánlatai nem kerülnek kiemelésre a termékoldalakon és kategória oldalakon sem, de az egyéb, kiválasztott szűrési és rendezési szempontnak megfelelően, a többi bolt ajánlataival együtt jelennek meg a listázásban.
+            Belföldi székhelyű bolt esetén áthárított magyar ÁFÁ-t (27%, 18% vagy 5%) nem tartalmazó ajánlatot kizárólag alanyi adómentes adózó jeleníthet meg, mely ajánlatok az alapértelmezett termékoldali forgalmazólistában egy, a nem magyar ÁFA tartalommal (27%, 18% vagy 5%) forgalmazott ajánlatok számára kialakított szekcióban jelennek meg a többi forgalmazó magyar ÁFA tartalmú ajánlata alá rendezve. Ezen boltok ajánlatai nem kerülnek kiemelésre a termékoldalakon és kategória oldalakon sem, de az egyéb, kiválasztott szűrési és rendezési szempontnak megfelelően, a többi bolt ajánlataival együtt jelennek meg a listázásban. Online piactér partnerajánlatként megjelenített és online piactér által minősített alanyi adómentes adózóra e pont nem vonatkozik.
         3. Magyar ÁFA tartalommal forgalmazó EU partnerekre vonatkozó feltételek  
             A szolgáltatást igénybe vehetik EU-n belüli székhellyel rendelkező és a VIES nyilvántartásban érvényes adószámmal elérhető vállalkozások (boltok) is, amennyiben magyar nyelvű kereskedelmi honlappal rendelkeznek és termékeiket magyar ÁFA tartalommal értékesítik (Magyar ÁFÁ-s EU partnerek). A VIES nyilvántartásban nem elérhető, vagy nem érvényes adószámmal rendelkező, illetve nem EU-n belüli bolt regisztrációjának elfogadásáról a Szolgáltató egyedi döntést hoz, amihez a bolt a Szolgáltató által egyedileg meghatározott dokumentumok megküldését, és/vagy feltételek teljesítését írja elő.  
             Az "Árukereső" szolgáltatás teljes funkcionalitása (ideértve a licitálást) csak azon EU partnerek számára érhető el, amelyek ajánlatai magyar ÁFÁ-t tartalmaznak, s mint ilyenek, a vásárlóik felé a termékre vonatkozó magyar ÁFA tartalommal (27%, 18% vagy 5%) állítanak ki számlát. Ilyen esetben az Árukereső az EU partner ajánlatait az alapértelmezett termékoldali forgalmazólistában jeleníti meg. Az EU partner terméklistájának magyar ÁFA tartalmát, valamint magyar nyelvű kereskedelmi honlapjának magyar ÁFA-ra vonatkozó tájékoztatását az Árukereső jogosult ellenőrizni és nem megfelelő magyar ÁFA tartalom, illetve tájékoztatás esetén jogosult az EU partner megjelenését megváltoztatni, rá a nem magyar ÁFA tartalommal forgalmazó boltokra vonatkozó alábbi feltételeket alkalmazni.
@@ -231,14 +231,13 @@ Az alábbiakban részletezett általános szerződési feltételek (továbbiakba
 
 Jelen ÁSZF legfrissebb, hatályos változata a Felhasználók regisztrációs felületén elhelyezett „Általános szerződési feltételek” linkre kattintva érhető el.
 
-2023\. augusztus 08.
+2023\. december 06.
 
-A 2023.08.08-ig érvényes ÁSZF [itt érhető el](http://www.arukereso.hu/static/general_terms_and_conditions2308.html).
+A 2023.12.06-ig érvényes ÁSZF [itt érhető el](http://www.arukereso.hu/static/general_terms_and_conditions0808.html).
 
-A 2023.12.06-tól érvényes ÁSZF [itt érhető el](http://www.arukereso.hu/static/general_terms_and_conditions1206.html).
+[www.arukereso.hu](https://www.arukereso.hu/)  
 
 Az ÁSZF angol verziója [itt érhető el](https://www.arukereso.hu/static/general_terms_and_conditions_en.html).
 
-[www.arukereso.hu](https://www.arukereso.hu/)  
 Online Comparison Shopping Kft. ©  
 Minden jog fenntartva!
