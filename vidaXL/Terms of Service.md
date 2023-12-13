@@ -291,7 +291,7 @@ Táchese lo que no proceda.
 **Términos y condiciones para clientes comerciales**
 ----------------------------------------------------
 
-Última actualización: 2020-06-01
+Última actualización: 2023-12-08
 
 ### **Contenido:**
 
@@ -347,7 +347,7 @@ A lo largo de estos Términos y Condiciones, se utilizarán los siguientes térm
 
 10\. **Sitio web:** La tienda web del empresario en la que se ofrecen bienes y servicios que los clientes pueden comprar;
 
-**11\. Plataforma: El entorno externo en el que los empresarios pueden ofrecer bienes y servicios que los clientes pueden comprar.**
+11. **Plataforma: El entorno externo en el que los empresarios pueden ofrecer bienes y servicios que los clientes pueden comprar.**
 
 ### **Artículo 2 - Identidad del empresario**
 
@@ -366,6 +366,8 @@ La sociedad privada de responsabilidad limitada vidaXL International B.V., ubica
 5\. Si y en la medida en que una de las disposiciones de estos Términos y Condiciones generales sea nula o sin efecto, la disposición en cuestión debe leerse en la forma de la disposición legalmente permitida que más se acerque en contenido a las intenciones de las partes, como aparece de la disposición nula o sin valor, mientras que las disposiciones restantes permanecen plenamente en vigor.
 
 6\. Si, además de estos Términos y Condiciones, se aplican condiciones específicas de una plataforma externa en la que el empresario ofrece productos y servicios, el cliente puede, en caso de condiciones en conflicto, siempre invocar la condición aplicable que sea más favorables para ellos, pero solo si los Términos y Condiciones no son derogables.
+
+7\. Los Clientes Comerciales no tendrán acceso a las Subastas y al Programa de Fidelización en las regiones donde se ofrecen estos servicios.
 
 ### **Artículo 4 - Oferta**
 
