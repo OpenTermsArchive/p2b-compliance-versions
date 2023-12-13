@@ -578,7 +578,7 @@ Blacklane uses RudderStack 96 S. Park Street San Francisco 94107.
 
 Among the types of Personal Data that this Website collects, by itself or through third parties, there are: Cookies; Usage Data; email address; phone number; Universally unique identifier (UUID); Data communicated while using the service; first name; last name; company name.
 
-You can find more information here: [](https://www.rudderstack.com/cookie-policy/)[https://www.rudderstack.com/cookie-policy/](https://www.rudderstack.com/cookie-policy/) and [](https://www.rudderstack.com/privacy-policy/?no_markup=false&from_cookie_policy=true)[https://www.rudderstack.com/privacy-policy/?no\_markup=false&from\_cookie\_policy=true](https://www.rudderstack.com/privacy-policy/?no_markup=false&from_cookie_policy=true) And to opt out: [](https://optout.networkadvertising.org/)[https://optout.networkadvertising.org/](https://optout.networkadvertising.org/)
+You can find more information here: [https://www.rudderstack.com/cookie-policy/](https://www.rudderstack.com/cookie-policy/) and [https://www.rudderstack.com/privacy-policy/?no\_markup=false&from\_cookie\_policy=true](https://www.rudderstack.com/privacy-policy/?no_markup=false&from_cookie_policy=true) And to opt out: [https://optout.networkadvertising.org/](https://optout.networkadvertising.org/)
 
 Any other request to exercise User rights can be directed to the Owner by contacting them via email to privacy@rudderstack.com.
 
