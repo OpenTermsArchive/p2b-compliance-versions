@@ -7,11 +7,11 @@ Les présentes conditions générales d’utilisation et de vente (ci-après dé
 
 Et
 
-*    L’Utilisateur du Site https://www.trainme.co
+*    L’Utilisateur du Site [https://trainme.co](https://trainme.co/)
 
 ### Préambule
 
-La Société exploite un site internet accessible à l’adresse http://www.trainme.co, proposant une place de marché en ligne dédiée à la mise en relation des professionnels du sport avec des particuliers.
+La Société exploite un site internet accessible à l’adresse [https://trainme.co](https://trainme.co/), proposant une place de marché en ligne dédiée à la mise en relation des professionnels du sport avec des particuliers.
 
 Les présentes Conditions Générales ont pour objet de régir les conditions et modalités d’utilisation et de vente du Site, ainsi que de définir les droits et obligations des Utilisateurs mis en relation sur le Site.
 
@@ -29,7 +29,7 @@ Pour rappel, d'après l'article L212-1: "Seuls peuvent, contre rémunération, e
 
 **Mandat de Facturation** : désigne le mandat de facturation conclu entre le Coach et la Société aux termes duquel le Coach accepte de confier à la Société, dans le respect des règles applicables, l’établissement de ses factures relatives aux Prestations réalisées pour un Client via le Site.
 
-**Site :** désigne le site internet dont l’adresse est http://www.trainme.co
+**Site :** désigne le site internet dont l’adresse est [https//trainme.co](https://trainme.co/)
 
 ### II – Inscription au Site
 
