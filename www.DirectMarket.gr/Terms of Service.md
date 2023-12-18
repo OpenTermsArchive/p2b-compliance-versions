@@ -95,36 +95,220 @@
 * την προμήθεια οινοπνευματωδών ποτών, η τιμή των οποίων έχει συμφωνηθεί κατά τη στιγμή της σύναψης της σύμβασης πώλησης, η παράδοση των οποίων μπορεί όμως να πραγματοποιηθεί μόνο μετά από 30 ημέρες και η πραγματική τιμή των οποίων εξαρτάται από διακυμάνσεις στην αγορά, τις οποίες δεν είναι δυνατόν να ελέγξει ο προμηθευτής
 * συμβάσεις κατά τις οποίες ο καταναλωτής έχει ζητήσει ειδικά επίσκεψη από τον προμηθευτή με σκοπό να πραγματοποιήσει επείγουσες επιδιορθώσεις ή την εκτέλεση εργασιών συντήρησης. Εάν, στην περίπτωση τέτοιας επίσκεψης, ο προμηθευτής παράσχει υπηρεσίες επιπλέον εκείνων που ζητήθηκαν συγκεκριμένα από τον καταναλωτή ή αγαθά πέρα από τα ανταλλακτικά που χρησιμοποιήθηκαν υποχρεωτικά κατά την εκτέλεση εργασιών συντήρησης ή κατά τις επιδιορθώσεις, το δικαίωμα υπαναχώρησης εφαρμόζεται στις εν λόγω πρόσθετες υπηρεσίες ή αγαθά
 * την προμήθεια σφραγισμένων ηχητικών εγγραφών ή σφραγισμένων εγγραφών βίντεο ή σφραγισμένου λογισμικού για υπολογιστές, που αποσφραγίστηκαν μετά την παράδοση
-* την προμήθεια εφημερίδων και παντός είδους περιοδικών, εξαιρουμένων των συνδρομητικών συμβάσεων για την προμήθεια αυτών των εντύπων
-* συμβάσεις συναφθείσες σε δημόσιο πλειστηριασμό
-* την παροχή στέγασης πλην για σκοπούς κατοικίας, μεταφοράς αγαθών, υπηρεσιών ενοικίασης αυτοκινήτων, εστίασης ή υπηρεσιών σχετιζόμενων με δραστηριότητες αναψυχής, εάν η σύμβαση προβλέπει συγκεκριμένη ημερομηνία ή προθεσμία εκτέλεσης
-* την προμήθεια ψηφιακού περιεχομένου μη παρεχόμενου πάνω σε υλικό μέσο, εάν η εκτέλεση ξεκίνησε με την προηγούμενη ρητή συγκατάθεση του καταναλωτή και την επιβεβαίωση εκ μέρους του ότι χάνει έτσι το δικαίωμά του υπαναχώρησης.
-
-##### _Άσκηση του δικαιώματος υπαναχώρησης_
-
-Προκειμένου να ασκήσετε το δικαίωμα υπαναχώρησης, οφείλετε να ενημερώσετε απευθείας τον πωλητή (Παραγωγό ή Προμηθευτή) για την απόφασή σας να υπαναχωρήσετε από την σύμβαση πώλησης που συνήψατε με αυτόν με μια ξεκάθαρη δήλωση (π.χ. επιστολή που θα σταλεί με ταχυδρομείο, φαξ ή ηλεκτρονικό ταχυδρομείο). Μπορείτε να χρησιμοποιήσετε το πιο κάτω υπόδειγμα εντύπου υπαναχώρησης, χωρίς τούτο να είναι υποχρεωτικό.
-
-Μπορείτε επίσης να συμπληρώσετε και να υποβάλετε ηλεκτρονικώς το υπόδειγμα εντύπου υπαναχώρησης ή οποιαδήποτε άλλη ξεκάθαρη δήλωση χρησιμοποιώντας την ειδική φόρμα [έντυπο υπαναχώρησης για εκτύπωση](https://www.directmarket.gr/dmarket/marketplc/static/entipo-ipanaxorisis-Print.pdf) ή [έντυπο υπαναχώρησης για web/e-mail](https://www.directmarket.gr/dmarket/marketplc/static/entipo-ipanaxorisis-electronic.doc). Εάν χρησιμοποιήσετε αυτήν τη δυνατότητα, θα διαβιβάσουμε το αίτημά σας άμεσα στον πωλητή (Παραγωγό ή Προμηθευτή) και θα σας διαβιβάσουμε χωρίς καθυστέρηση μέσω ηλεκτρονικού ταχυδρομείου στην ηλεκτρονική διεύθυνση που θα έχετε δηλώσει επιβεβαίωση λήψης της υπαναχώρησής σας.
-
-Για να τηρήσετε την προθεσμία υπαναχώρησης, είναι αρκετό να στείλετε τη δήλωσή σας περί άσκησης του δικαιώματος υπαναχώρησής σας πριν λήξει η προθεσμία υπαναχώρησης.
-
-##### _Συνέπειες της υπαναχώρησης_
-
-Εάν υπαναχωρήσετε από την σύμβαση πώλησης που συνήψατε, ο πωλητής υποχρεούται να σας επιστρέψει όλα τα χρήματα που έλαβε από εσάς, συμπεριλαμβανομένων των εξόδων παράδοσης (εξαιρουμένων των συμπληρωματικών εξόδων που οφείλονται στη δική σας επιλογή να χρησιμοποιηθεί τρόπος παράδοσης άλλος από τον φθηνότερο τυποποιημένο τρόπο παράδοσης που ο πωλητής προσφέρει), χωρίς αδικαιολόγητη καθυστέρηση και οπωσδήποτε εντός 14 ημερολογιακών ημερών από την ημέρα που ο πωλητής θα πληροφορηθεί την απόφασή σας να υπαναχωρήσετε από την μεταξύ σας σύμβαση. Ο πωλητής θα εκτελέσει την ανωτέρω επιστροφή χρημάτων χρησιμοποιώντας το ίδιο μέσο πληρωμής που εσείς χρησιμοποιήσατε για την αρχική συναλλαγή, εκτός κι αν εσείς έχετε συμφωνήσει ρητώς για κάτι διαφορετικό. Σε κάθε περίπτωση, δεν θα σας χρεωθούν έξοδα για τέτοια επιστροφή χρημάτων. Ο πωλητής δικαιούται να καθυστερήσει την επιστροφή χρημάτων μέχρις ότου λάβει πίσω τα αγαθά στην αρχική τους κατάσταση ή μέχρις ότου εσείς παράσχετε αποδείξεις ότι στείλατε πίσω τα αγαθά στην αρχική τους κατάσταση, όποιο από τα δύο συμβεί πρώτο.
-
-Εσείς οφείλετε να στείλετε πίσω τα αγαθά ή να τα παραδώσετε απευθείας στον πωλητή με τον οποίο συνήψατε τη σύμβαση πώλησης χωρίς αδικαιολόγητη καθυστέρηση και οπωσδήποτε εντός 14 ημερολογιακών ημερών από την ημέρα που δηλώσατε ότι υπαναχωρείτε από την μεταξύ σας σύμβαση. προθεσμία θεωρείται ότι έχει τηρηθεί εάν στείλετε πίσω τα αγαθά πριν από τη λήξη της περιόδου των 14 ημερών.
-
-##### _Υπόδειγμα Εντύπου Υπαναχώρησης_
-
-\- Προς \[Στοιχεία πωλητή (Παραγωγού ή Προμηθευτή): όνομα/επωνυμία, γεωγραφική διεύθυνση και, εάν υπάρχει, αριθμός τηλεομοιοτυπίας και e-mail\]:   
-\- Γνωστοποιώ/Γνωστοποιούμε (\*) με την παρούσα ότι υπαναχωρώ/υπαναχωρούμε (\*) από τη σύμβασή μου/μας (\*) πώλησης των ακόλουθων αγαθών (\*)/παροχής της ακόλουθης υπηρεσίας (\*)  
-  - Που παραγγέλθηκε(/αν) στις (\*)/που παρελήφθη(?σαν) στις (\*)   
-\- Όνομα καταναλωτή(/ών)   
-\- Διεύθυνση καταναλωτή(/ών)   
-\- Υπογραφή καταναλωτή(/ών) (μόνο εάν το παρόν έντυπο κοινοποιηθεί σε χαρτί)   
-\- Ημερομηνία   
-(\*) Διαγράφεται η περιττή ένδειξη
-
-#### Ειδικοί Όροι
-
-Κάθε συνεργαζόμενη επιχείρηση που προβάλλεται στην Ηλεκτρονική Αγορά **www.DirectMarket.gr** αποδέχεται τους ανωτέρω Γενικούς Όρους χρήσης. Η ηλεκτρονική Αγορά **www.DirectMarket.gr** δίνει την δυνατότητα στις συνεργαζόμενες επιχειρήσεις που προβάλουν ή/και πωλούν τα προϊόντα τους μέσω της **www.DirectMarket.gr** να διαμορφώσουν τους δικούς τους **Ειδικούς Όρους** για συγκεκριμένα θέματα (π.χ. ημέρες παράδοσης προϊόντων, αποδεκτοί τρόποι πληρωμής, διαχείριση εξόδων μεταφοράς, αποδεκτές περιοχές παράδοσης κτλ), που έχουν ως στόχο να εξειδικεύσουν τους **Γενικούς Όρους της Αγοράς**. Σε κάθε περίπτωση οι Ειδικοί Όροι που θέτει η κάθε επιχείρηση δεν μπορούν να ακυρώσουν τους Γενικούς Όρους της Αγοράς και την υφιστάμενη νομοθεσία. Κατά την ιεράρχηση της νομικής ισχύος των κειμένων, το κείμενο των Γενικών Όρων κατισχύει των Ειδικών Όρων.
+* την προμήθεια εφημερίδων και παντός είδους περιοδικών, εξαιρο  The Greek e-Mall | directmarket.gr                                                  
+    
+    * |
+    *  [![language flag](/dmarket/marketplc/images/flags/flag_el.png "change language view") el](#)
+        * [![language flag](/dmarket/marketplc/images/flags/flag_en.png "change language view")en](https://www.directmarket.gr/dmarket/marketplc/in_lang.jsp?lang=en&cururl=/dmarket/marketplc/static/termsofuse.jsp)
+    * |
+    * [Νέα](https://www.directmarket.gr/dmarket/marketplc/news.jsp)
+    * |
+    * Είσοδος
+    * Εγγραφή
+    
+    [![Πανελλήνια Αγορά Προϊόντων](/dmarket/marketplc/images/logos/0_logo_el.png)](https://www.directmarket.gr/dmarket/marketplc/index.jsp "Πανελλήνια Αγορά Προϊόντων")
+    
+    ![](images/loading.gif)
+    
+    [![Πανελλήνια Αγορά Προϊόντων](/dmarket/marketplc/images/logos/0_logo_el.png)](https://www.directmarket.gr/dmarket/marketplc/index.jsp "Πανελλήνια Αγορά Προϊόντων")
+    
+    * [Σπίτι](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=040)
+        * * [Διακόσμηση](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=040.001)
+            * [Διάφορα Είδη Σπιτιού](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=040.004)
+            * [Είδη Καθαρισμού](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=040.007)
+            * [Είδη Κουζίνας](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=040.010)
+            * [Είδη Υγιεινής](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=040.013)
+            * [Είδη Σκίασης & Στόρια](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=040.014)
+            * [Επαγγελματικός Εξοπλισμός](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=040.016)
+            * [Έπιπλα](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=040.019)
+            * [Ηλεκτρολογικά Είδη](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=040.022)
+            * [Λευκά Είδη](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=040.028)
+        * * [Μοκέτες](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=040.029)
+            * [Οικιακές Συσκευές](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=040.031)
+            * [Πατώματα](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=040.032)
+            * [Συστήματα Ασφαλείας](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=040.034)
+            * [Χαλιά](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=040.037)
+            * [Κήπος - Εργαλεία](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=040.040)
+            * [Petshop Αξεσουάρ](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=040.043)
+            * [Υπηρεσίες](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=040.050)
+            * [Φοιτητικό Σετ](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=040.060)
+    * [Μόδα](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=020)
+        * * [Ανδρας](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=020.001)
+            * [Γυναίκα](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=020.004)
+            * [Αξεσουάρ Ένδυσης](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=020.007)
+        * * [Αξεσουάρ - Καθαριστικά Υπόδησης](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=020.008)
+            * [Γυαλιά Ηλίου](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=020.010)
+            * [Τσάντες - Πορτοφόλια](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=020.013)
+    * [Hobby - Αθλητισμός](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=045)
+        * * [Camping](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=045.001)
+            * [Αθλήματα](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=045.004)
+            * [Αθλητική Μόδα](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=045.007)
+            * [Αλλα Hobbies](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=045.010)
+            * [Βιβλία](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=045.013)
+            * [Καταδύσεις - Ψάρεμα](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=045.016)
+            * [Κυνήγι - Σκοποβολή](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=045.019)
+            * [Μουσικά Όργανα - Αξεσουάρ](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=045.022)
+        * * [Μουσική](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=045.025)
+            * [Όργανα Γυμναστικής](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=045.028)
+            * [Παιχνίδια](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=045.031)
+            * [Ποδηλασία](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=045.034)
+            * [Σκι - Snowboard](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=045.037)
+            * [Σχέδιο / Ζωγραφική](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=045.040)
+            * [Χορός](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=045.060)
+    * [Τεχνολογία](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=050)
+        * * [Υπολογιστές](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=050.001)
+            * [Κινητή Τηλεφωνία](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=050.004)
+            * [Σταθερή Τηλεφωνία](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=050.007)
+            * [Ήχος](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=050.010)
+            * [Εικόνα](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=050.013)
+            * [Gaming](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=050.016)
+        * * [Φωτογραφία - Βίντεο](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=050.019)
+            * [Ηλεκτρονικές Συσκευές](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=050.022)
+            * [Smartwatches](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=050.025)
+            * [Gadgets](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=050.028)
+            * [Υπηρεσίες](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=050.035)
+    * [Υγεία - Ομορφιά](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=015)
+        * * [Αρώματα](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=015.001)
+            * [Ιατρικές Συσκευές](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=015.004)
+            * [Καλλυντικά - Περιποίηση](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=015.007)
+            * [Οπτικά](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=015.010)
+            * [Ορθοπεδικά - Αθλητιατρικά](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=015.013)
+        * * [Προϊόντα Αδυνατίσματος](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=015.016)
+            * [Στοματική Υγιεινή](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=015.019)
+            * [Συμπληρώματα Διατροφής](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=015.022)
+            * [Συσκευές Περιποίησης](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=015.025)
+            * [Φαρμακευτικά](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=015.028)
+    * [Auto-Moto-Sea](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=055)
+        * * [Αυτοκίνητο](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=055.001)
+            * [Μοτοσυκλέτα](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=055.004)
+            * [Car Audio](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=055.007)
+            * [Ναυτιλιακά - Σκάφη](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=055.010)
+    * [Δώρα](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=027)
+        * * [Δώρα Εμπειρίας](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=027.000)
+            * [Είδη Γάμου](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=027.001)
+            * [Είδη Γραφείου](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=027.004)
+            * [Είδη Δώρων](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=027.007)
+            * [Είδη Καπνιστού](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=027.010)
+            * [Είδη Πάρτυ](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=027.013)
+        * * [Εποχής Αποκριάτικα](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=027.016)
+            * [Εποχής Πασχαλινά](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=027.019)
+            * [Εποχής Χριστουγεννιάτικα](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=027.022)
+            * [Κοσμήματα](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=027.025)
+            * [Ρολόγια](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=027.028)
+    * [Παιδικά](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=025)
+        * * [Βόλτα Μωρού](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=025.001)
+            * [Για το Σπίτι](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=025.004)
+            * [Παιδικά - Βρεφικά Παιχνίδια](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=025.007)
+        * * [Παιδική - Βρεφική Μόδα](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=025.010)
+            * [Φαγητό Μωρού](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=025.013)
+            * [Φροντίδα - Υγιεινή](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=025.016)
+    * [Διατροφή](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=005)
+        * * [Αλλαντικά](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=005.001)
+            * [Αλάτι](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=005.004)
+            * [Αρτος](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=005.007)
+            * [Αυγά](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=005.010)
+            * [Βότανα, Αρωματικά](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=005.013)
+            * [Γαλακτοκομικά](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=005.016)
+            * [Γλυκά](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=005.019)
+            * [Δημητριακά](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=005.022)
+            * [Ελιές, Έλαια](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=005.025)
+            * [Έτοιμα Φαγητά, Κατεψυγμένα](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=005.028)
+            * [Ζάχαρη, Γλυκαντικά](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=005.031)
+            * [Ζυμαρικά](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=005.034)
+            * [Θαλασσινά](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=005.037)
+            * [Καλάθια Δώρων Τροφίμων](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=005.038)
+            * [Καφές](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=005.040)
+            * [Κρεατικά](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=005.043)
+            * [Λαχανικά](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=005.046)
+            * [Λίπη Φυτικά - Ζωϊκά](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=005.052)
+        * * [Μανιτάρια](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=005.053)
+            * [Μαρμελάδες](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=005.054)
+            * [Μέλι, Προϊόντα Μελιού](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=005.055)
+            * [Μπαχαρικά - Μυρωδικά](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=005.058)
+            * [Ξηροί Καρποί](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=005.061)
+            * [Ξύδι](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=005.064)
+            * [Ορεκτικά, Τουρσιά](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=005.067)
+            * [Όσπρια](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=005.070)
+            * [Πιπέρι](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=005.073)
+            * [Προϊόντα Αλευροποιίας](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=005.076)
+            * [Ρύζι](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=005.079)
+            * [Σάλτσες, Ντρέσινγκς](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=005.082)
+            * [Σοκολάτα, Ροφήματα](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=005.085)
+            * [Τσάι](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=005.088)
+            * [Τυροκομικά](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=005.091)
+            * [Υπερτροφές](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=005.092)
+            * [Φρούτα](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=005.094)
+            * [Delivery-Διανομή](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=005.097)
+            * [Snacks](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=005.105)
+    * [Ποτά](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=010)
+        * * [Αναψυκτικά, Χυμοί](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=010.001)
+            * [Καλάθια Ποτών](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=010.004)
+            * [Κρασί](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=010.007)
+            * [Μπύρα](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=010.010)
+        * * [Νερό](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=010.013)
+            * [Οινοπνευματώδη](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=010.016)
+            * [Ούζο](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=010.019)
+            * [Τσίπουρο](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=010.022)
+    * [Τέχνη](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=035)
+        * * [Αγάλματα, γλυπτά](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=035.001)
+            * [Αγιογραφίες, Βυζαντινές Εικόνες](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=035.004)
+            * [Αντίκες](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=035.007)
+            * [Αργυροχρυσοχοΐα](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=035.010)
+            * [Γυαλί, Πορσελάνη](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=035.013)
+        * * [Εκκλησιαστικά Είδη](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=035.019)
+            * [Κεραμικά](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=035.022)
+            * [Λαϊκή Τέχνη, Χειροτεχνίες](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=035.025)
+            * [Πίνακες Ζωγραφικής](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=035.028)
+            * [Mix Media](https://www.directmarket.gr/dmarket/marketplc/category.jsp?categoryid=035.043)
+    * ![local markets](/dmarket/marketplc/images/localmarket.png)
+    
+    Παρουσιάστηκε κάποιο σφάλμα. Προσπαθήστε ξανά.
+    ----------------------------------------------
+    
+    ![Ποιοί Είμαστε](/dmarket/marketplc/images/footer/home.png)
+    
+    #### Ποιοί Είμαστε
+    
+    * [Ποιοί Είμαστε](https://www.directmarket.gr/dmarket/marketplc/static/about.jsp)
+    * [Η αγορά μας](https://www.directmarket.gr/dmarket/marketplc/static/ourmarket.jsp)
+    
+    ![Λειτουργία Αγοράς](/dmarket/marketplc/images/footer/open.png)
+    
+    #### Λειτουργία Αγοράς
+    
+    * [Γενικοί Όροι](https://www.directmarket.gr/dmarket/marketplc/static/termsofuse.jsp)
+    * [Τρόποι Πληρωμών](https://www.directmarket.gr/dmarket/marketplc/article.jsp?aid=21590)
+    * [Παράδοση Προϊόντων](https://www.directmarket.gr/dmarket/marketplc/article.jsp?aid=21591)
+    * [Αγορές B2B](https://www.directmarket.gr/dmarket/marketplc/article.jsp?aid=21592)
+    
+    ![Προμηθευτές / Παραγωγοί](/dmarket/marketplc/images/footer/how.png)
+    
+    #### Προμηθευτές / Παραγωγοί
+    
+    * [Δημιουργήστε ένα κατάστημα](https://www.directmarket.gr/dmarket/marketplc/static/openstore.jsp)
+    * [Διασύνδεση e-shop με την Ηλεκτρονική Αγορά](https://www.directmarket.gr/dmarket/marketplc/static/xml-requirements.jsp)
+    
+    Ακολουθήστε μας  [](https://www.facebook.com/directmarketgr "facebook")[](https://www.instagram.com/directmarket_gr/ "instagram")
+    
+    Γίνονται δεκτές οι πληρωμές μέσω:  
+    
+    * • Αντικαταβολής
+    * • Κατάθεσης σε τράπεζα
+    
+    ![](/dmarket/marketplc/images/footer/creditcardicons/visa-2@2x.png) ![](/dmarket/marketplc/images/footer/creditcardicons/mastercard@2x.png) ![](/dmarket/marketplc/images/footer/creditcardicons/maestro@2x.png) ![](/dmarket/marketplc/images/footer/creditcardicons/paypal@2x.png)
+    
+    [![](/dmarket/marketplc/images/footer/creditcardicons/MasterCard Secure Code.jpg)](https://paycenter.piraeusbank.gr/redirection/Content/HTML/3DSecure_el.html) [![](/dmarket/marketplc/images/footer/creditcardicons/Verified by Visa.jpg)](https://paycenter.piraeusbank.gr/redirection/Content/HTML/3DSecure_el.html)
+    
+    * * *
+    
+    [![Espa Image](/dmarket/marketplc/images/footer/footer_espa_el.jpg "Espa Image")](https://www.directmarket.gr/dmarket/marketplc/static/research.jsp)
+    
+    * * *
+    
+    © directmarket.gr  
+        Designed & Developed by [Knowledge](http://www.knowledge.gr/) , Powered by [e-BOSS](http://www.e-boss.gr/)
+    
+    * [Γενικοί Όροι Χρήσης - Πολιτική Ασφάλειας](https://www.directmarket.gr/dmarket/marketplc/article.jsp?aid=7)
+    * [Εκδήλωση Ενδιαφέροντος Συμμετοχής](https://www.directmarket.gr/dmarket/marketplc/contact.jsp "Εκδήλωση Ενδιαφέροντος Συμμετοχής")
+    
+        Υπό την αιγίδα της Κεντρικής Ένωσης Επιμελητηρίων Ελλάδος
