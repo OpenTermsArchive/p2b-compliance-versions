@@ -74,72 +74,72 @@ O piškotkih
 
 Vse o uporabi piškotkov je opisano v [Pravilih o zasebnosti](https://www.ceneje.si/pravila-o-zasebnosti#cookies).
 
-Nagradno tekmovanje "Nagradna igra “Sestavi LEGO® kocke, osvoji LEGO® komplet"
-------------------------------------------------------------------------------
+Nagradna igra “Ceneje.si in Yes pohištvo podarjata razkošno boxspring posteljo - Ujemi svoje sanje!”
+----------------------------------------------------------------------------------------------------
 
-Pravila nagradne igre »Sestavi LEGO® kocke, osvoji LEGO® komplet« (v nadaljevanju: Pravila) so opisana spodaj.
-
-  
-
-#### 1\. Organizator nagradne igre
-
-Organizator nagradne igre Sestavi LEGO® kocke, osvoji LEGO® komplet (v nadaljevanju: nagradna igra) je Ceneje.si, Ceneje d.o.o. (matična številka: 6699421000), Dunajska cesta 155, 1000 Ljubljana, v nadaljevanju: Organizator.
+Pravila nagradne igre “Ceneje.si in Yes pohištvo podarjata razkošno boxspring posteljo - Ujemi svoje sanje!” (v nadaljevanju: Pravila) so opisana spodaj.
 
   
 
-#### 2\. Trajanje nagradne igre
+#### Organizatorji nagradne igre
 
-Nagradna igra se začne 16. avgusta. 2023. Možno je sodelovati do 8. septembra. 2023 (tj. najkasneje do 23:59:59 ure na navedeni dan). Zmagovalci bodo izbrani 22. septembra. 2023. Nagradna igra poteka na spletni strani Ceneje.si.
+Organizator nagradne igre “Ceneje.si in Yes pohištvo podarjata razkošno boxspring posteljo - Ujemi svoje sanje!” (v nadaljevanju: nagradna igra) je Ceneje.si, Ceneje d.o.o. (matična številka: 6699421000), Dunajska cesta 155, 1000 Ljubljana, v sodelovanju s podjetjem, Pohištvo Il ambienti d.o.o. (matična številka: 6564194000) s sedežem na Obrtna ulica 11, 9000 Murska Sobota, v nadaljevanju: Organizatorja. Nagradna igra se organizira za namen promocije Ceneje.si in trgovine Yes pohištvo.
 
   
 
-#### 3 .Sodelovanje
+#### Trajanje nagradne igre
+
+Nagradna igra se začne 19. decembra 2023. Možno je sodelovati do 19. januarja 2024 (tj. najkasneje do 23:59:59 ure na navedeni dan). Nagrajenec bo izžreban 22. januarja 2024. Nagradna igra poteka na spletni strani Ceneje.si.
+
+  
+
+#### Sodelovanje
 
 Pravico do sodelovanja v nagradni igri imajo vse fizične osebe s stalnim prebivališčem v Republiki Sloveniji, razen zaposlenih Organizatorja in članov njihovih tesnih družinskih članov (starši, zakonec, otroci, sestre in bratje). Udeleženci, ki sodelujejo v nagradni igri, ne smejo zahtevati nagrad v večjem obsegu ali drugačne nagrade, kot so navedene v Pravilih s strani Organizatorja.
 
-Za sodelovanje v nagradni igri se mora sodelujoči prijaviti in poslati fotografije svojih LEGO kreacij, poleg fotografije LEGO kreacije pa mora sodelujoči poslati tudi svoje ime in priimek, elektronski naslov, naslov fotografije in kratek opis fotografije. Možna je samo ena prijava z istimi osebnimi podatki (imenom in priimkom ter e-poštnim naslovom), v prijavi pa je možno poslati največ tri fotografije Lego izdelkov/kreacij.
-
-Vse poslane fotografije sestavljenih LEGO kreacij bodo vključene v izbor za eno od treh nagrad iz nagradnega sklada tega tekmovanja, vendar si Organizator pridržuje pravico izbire prikaza prijavljenih fotografij na spletni strani nagradnega tekmovanja na portalu Ceneje.si. Udeleženci lahko sodelujejo v tekmovanju s fotografijami svojih sestavljenih LEGO kompletov, pa tudi popolnoma izvirnih kreacij iz LEGO kock.
-
-6
-
-Posamezniki lahko delijo svojo prijavo na svojih kanalih družbenih medijev in k sodelovanju povabijo prijatelje, vendar to ne bo povečalo njihovih možnosti za zmago. S sodelovanjem v nagradni igri udeleženci sprejemajo ta Pravila. Pravila nagradne igre bodo objavljena v splošnih pogojih organizatorja Ceneje.si.
+Za sodelovanje v nagradni igri se mora sodelujoči prijaviti na nagradno igro in v prijavi poslati svoje ime in priimek, elektronski naslov in naslov bivanja. Možna je samo ena prijava z istimi osebnimi podatki. Za prijavo na nagradno igro je potrebno strinjanje s Pravili in pogoji nagradne igre in Pravili o zasebnosti.
 
   
 
-#### 4\. Nagradni sklad in izbor dobitnikov
+#### Nagradni sklad in izbor nagrajencev
 
-Nagrade v okviru nagradne igre »Sestavi LEGO® kocke, osvoji LEGO® komplet« so 3 kompleti LEGO: LEGO® City™ Stuntz Double Loop Stunt Arena (60339) v vrednosti 149,99 €, zgradba LEGO® Friends™ (41704) v vrednosti € 159,99 in LEGO® ICONS™ Šopek (10280) v vrednosti 64,99 €.
+Nagradni sklad: boxspring postelja Bella 180 x 200 cm v vrednosti €2.152,31.
 
-Zmagovalce nagradne igre bo izbral odbor v sestavi: Maja Rotovnik, Ivana Galetić, Polona Stanovnik.
+Vsi sodelujoči v nagradni igri prejmejo kodo za 50% popust na dostavo pri nakupu pohištva v spletni trgovini Yes pohištvo.
 
-  
-
-#### 5\. Prevzem nagrade
-
-Po zaključku nagradne igre bodo nagrajenci obveščeni po e-pošti na naslov, ki so ga navedli pri prijavi. Nagrajenci imajo pet (5) dni, da se javijo Organizatorju in potrdijo prevzem nagrade. V svoji potrditvi morajo poslati ime, priimek, naslov in telefonsko številko.
-
-Nagradni sklad je sestavljen iz LEGO® City™ Stuntz Double Loop Stunt Arena (60339) v vrednosti 149,99 €, zgradba LEGO® Friends™ (41704) v vrednosti € 159,99 in LEGO® ICONS™ Šopek (10280) v vrednosti 64,99 €.
+Nagrajenec nagradne igre bo naključno izžreban 22. januara. Ceneje.si bo obvestil zmagovalca o nagradi in poslal vse potrebne osebne podatke nagrajenca podjetju Pohištvo Il ambienti d.o.o., ki bo nagrajencu poslalo nagrado.
 
   
 
-#### 6\. Javna objava
+#### Kako prevzeti nagrado?
 
-S sodelovanjem v tej nagradni igri se sodelujoči strinjajo, da se lahko, če postanejo nagrajenci, njihovo ime in sliko brezplačno objavi in ​​uporablja v tiskanem, zvočnem, slikovnem in video gradivu. Vse prispele fotografije LEGO kompletov, vseh sodelujočih v tem kreativnem natečaju, lahko organizator uporabi za namene oglaševanja natečaja in v povezanih marketinških aktivnostih.
+Po zaključku nagradne igre bo nagrajenec o zmagi obveščen po e-mail naslovu, s katerim se je prijavil na nagradno igro. Nagrajenec ima pet (5) dni časa, da se javi Organizatorju in potrdi prevzem nagrade. Nagrajenec mora v potrditvenem sporočilu poslati ime, priimek, naslov, e-mail naslov, davčno številko in za potrebe dostavne službe - tudi telefonsko številko.
+
+Nagradni sklad je boxspring postelja Bella 180 x 200 cm, vrednosti €2.152,31. Nagrade ni mogoče zamenjati za gotovino, ali drug izdelek v denarni protivrednosti nagrade.
+
+V kolikor se izžrebani ne odzove v roku 5 dni, se nagrada ne podeli. V primeru, da nagrade ni mogoče izročiti nagrajencu in se ta vrne organizatorju, se šteje, da je nagrajenec nagrado zavrnil in se le-ta ne podeli.
 
   
 
-#### 7\. Mladoletni udeleženci nagradne igre
+#### Javna objava
+
+S sodelovanjem v nagradni igri se sodelujoči strinjajo, da se lahko njihovi komentarji uporabljajo pri promocijah blagovnih znamk Organizatorja brez kakršnegakoli nadomestila.
+
+S sodelovanjem v tej nagradni igri udeleženci soglašajo, da se, če postanejo prejemniki nagrade, njihovo ime in slika lahko s strani Organizatorja brez doplačila objavi in uporabi v tiskanem, zvočnem, slikovnem in video materialu.
+
+  
+
+#### Mladoletni udeleženci nagradne igre
 
 Pravico do sodelovanja v nagradni igri imajo mladoletne osebe, v skladu z zakonom. Če je nagrajenec nagrade mladoletna oseba, bo Organizator nagrado izročil osebi, ki je na podlagi zakona ali odločbe državnega organa dolžna skrbeti zanjo, po pregledu dokumentov, ki dokazujejo starševski ali skrbniški odnos.
 
   
 
-#### 8\. Druge odredbe
+#### Zaščita podatkov in Druge odredbe
 
-Vsi osebni podatki udeležencev so shranjeni na strežnikih organizatorja in se lahko uporabljajo in obdelujejo izključno za namen te nagradne igre. Organizator ne odgovarja za nepopolno sodelovanje v nagradni igri ali sodelovanje v nagradni igri s napačnimi podatki.
+Vsi osebni podatki udeležencev so shranjeni na strežnikih organizatorja Ceneje d.o.o. in se lahko uporabljajo in obdelujejo izključno za namen te nagradne igre. Osebni podatki pridobljeni v tej nagradni igri (ime, priimek, e-mail, naslov bivanja, mesto in poštna številka) se bodo delili s podjetjem Pohištvo Il ambienti d.o.o. (matična številka: 6564194000) s sedežem na Obrtna ulica 11, 9000 Murska Sobota za namen nagradne igre in pošiljanja promocijskih novic s strani trgovine Yes pohištvo.
 
-Sodelovanje v nagradni igri, nagrada in/ali prevzem nagrade niso pogojeni s nakupom kateregakoli izdelka ali storitve. Udeleženec in druge osebe, ki poskušajo sodelovati v nagradni igri, sami krijejo vse stroške sodelovanja (kot so stroški prenosa podatkov, dostopa do interneta, poštnine, klicev in druge komunikacije, kilometrine itd.), pa tudi v primeru odpovedi nagradne igre.
+Organizator ne odgovarja za nepopolno sodelovanje v nagradni igri ali sodelovanje v nagradni igri s napačnimi podatki. Sodelovanje v nagradni igri, nagrada in/ali prevzem nagrade niso pogojeni s nakupom kateregakoli izdelka ali storitve. Udeleženec in druge osebe, ki poskušajo sodelovati v nagradni igri, sami krijejo vse stroške sodelovanja (kot so stroški prenosa podatkov, dostopa do interneta, poštnine, klicev in druge komunikacije, kilometrine itd.), pa tudi v primeru odpovedi nagradne igre.
 
 V primeru okoliščin, na katere Organizator ne more vplivati (višja sila), se lahko nagradna igra prekliče. Organizator mora o tem obvestiti vse udeležence prek svoje spletne strani in družbenih omrežij (Facebook in Instagram). V takšnem primeru Organizator ni odgovoren udeležencem povrniti morebitnih stroškov ali druge škode.
 
@@ -147,8 +147,8 @@ Organizator si pridržuje pravico do spremembe pravil, če to zahtevajo tehničn
 
   
 
-#### 9\. Reševanje sporov
+#### Reševanje pritožb
 
-Vse pritožbe in reklamacije rešuje Organizator, pošljejo pa se lahko na e-mail naslov [marketing@ceneje.si](mailto:marketing@ceneje.si). V primeru utemeljenih pritožb se Organizator zavezuje k reševanju le-teh v najkrajšem možnem času. O tem bo obvestil udeleženca in po potrebi tudi druge udeležence. Za pravne spore med Organizatorjem in udeležencem ter drugimi osebami se upošteva veljavno zakonodajo. V primeru sporov, ki bi izhajali iz te nagradne igre, je pristojno sodišče v Ljubljani.
+Vse pritožbe in reklamacije rešuje Organizator, pošljejo pa se lahko na e-mail naslov marketing@ceneje.si. V primeru utemeljenih pritožb se Organizator zavezuje k reševanju le-teh v najkrajšem možnem času. O tem bo obvestil udeleženca in po potrebi tudi druge udeležence. Za pravne spore med Organizatorjem in udeležencem ter drugimi osebami se upošteva veljavno zakonodajo. V primeru sporov, ki bi izhajali iz te nagradne igre, je pristojno sodišče v Ljubljani.
 
-Datum objave in začetek veljavnosti teh pravil: 11. avgust 2023.
+Datum objave in začetek veljavnosti teh pravil: 19. december 2023.
