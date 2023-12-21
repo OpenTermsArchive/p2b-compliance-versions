@@ -116,7 +116,10 @@ As a member of Etsy, you have the opportunity to create and upload a variety of 
 6. Contains private information, whether it is your own, or someone else’s;
 7. Encourages or facilitates a transaction that evades the Etsy checkout process;
 8. Contains prohibited medical drug claims;
-9. Violates any of the rules described in our [Prohibited Items Policy](https://www.etsy.com/legal/prohibited/).
+9. Sexualizes minors under the age of 18;
+10. Violates any of the rules described in our [Prohibited Items Policy](https://www.etsy.com/legal/prohibited/).
+
+Members may not use Etsy services such as Messages, Favorites, or Collections to make inappropriate use of otherwise compliant content, whether overtly or through contextualization. This includes, for example, the aggregation of content with the intent of sexualizing minors.
 
 Some content on Etsy is subject to additional requirements. Please see below for more details.
 
@@ -214,4 +217,4 @@ Etsy may make changes to onboarding or authentication processes for sellers at o
 
 If Etsy has reason to believe you, Your Content, or your use of the Services violate our Terms, including this Seller Policy, we may deactivate Your Content to some or all users, or suspend or terminate your account (and any accounts Etsy determines are related to your account) and your access to the Services. Sellers in the European Union can see more information [here](https://help.etsy.com/hc/en-gb/articles/360051541413?segment=selling). Generally, Etsy will notify you that Your Content or account has been suspended or terminated, unless you’ve repeatedly violated our Terms or we have legal or regulatory reasons preventing us from notifying you.
 
-Last updated on Sep 13, 2023
+Last updated on Dec 6, 2023
