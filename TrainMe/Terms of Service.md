@@ -7,11 +7,11 @@ Les présentes conditions générales d’utilisation et de vente (ci-après dé
 
 Et
 
-*    L’Utilisateur du Site [https://trainme.co](https://trainme.co/)
+*    L’Utilisateur du Site [https://personal.trainme.co](https://personal.trainme.co/)
 
 ### Préambule
 
-La Société exploite un site internet accessible à l’adresse [https://trainme.co](https://trainme.co/), proposant une place de marché en ligne dédiée à la mise en relation des professionnels du sport avec des particuliers.
+La Société exploite un site internet accessible à l’adresse [https://personal.trainme.co](https://personal.trainme.co/), proposant une place de marché en ligne dédiée à la mise en relation des professionnels du sport avec des particuliers.
 
 Les présentes Conditions Générales ont pour objet de régir les conditions et modalités d’utilisation et de vente du Site, ainsi que de définir les droits et obligations des Utilisateurs mis en relation sur le Site.
 
@@ -29,7 +29,7 @@ Pour rappel, d'après l'article L212-1: "Seuls peuvent, contre rémunération, e
 
 **Mandat de Facturation** : désigne le mandat de facturation conclu entre le Coach et la Société aux termes duquel le Coach accepte de confier à la Société, dans le respect des règles applicables, l’établissement de ses factures relatives aux Prestations réalisées pour un Client via le Site.
 
-**Site :** désigne le site internet dont l’adresse est [https//trainme.co](https://trainme.co/)
+**Site :** désigne le site internet dont l’adresse est [https//trainme.co](https://personal.trainme.co/)
 
 ### II – Inscription au Site
 
@@ -43,7 +43,7 @@ L’accès au compte créé est protégé par un identifiant et un mot de passe 
 
 Le Coach est référencé uniquement sous son prénom. Le Coach s’engage à ne prendre contact directement avec le client sans passer par la plateforme TrainMe.
 
-Le Coach accepte par ailleurs de conclure un [Mandat de facturation](https://trainme.co/coach-sportif/26-mandat) avec la Société pour utiliser les Services.
+Le Coach accepte par ailleurs de conclure un [Mandat de facturation](https://personal.trainme.co/coach-sportif/26-mandat) avec la Société pour utiliser les Services.
 
 2.3 Dans l'hypothèse où l’Utilisateur fournirait des données fausses, inexactes, périmées ou incomplètes, la Société sera en droit de suspendre ou de procéder à la fermeture de son compte et de lui refuser, à l'avenir, l'accès à tout ou partie des Services.
 
@@ -65,13 +65,13 @@ Toute Prestation pour laquelle le Client aura été identifié grâce à ses Cod
 
 Les Coachs ayant validé un entretien auprès des équipes TrainMe sont référencés dans notre base de données
 
-Une facture est alors établie et émise par la Société au nom et pour le compte du Coach, sur la base des informations fournies par ce dernier et adressée par la Société au Client. Le Coach est tenu de communiquer à la Société toutes les informations ou autres mentions légales devant y figurer conformément à ses obligations légales, ainsi qu’il est prévu par le [Mandat de facturation.](https://trainme.co/coach-sportif/26-mandat)
+Une facture est alors établie et émise par la Société au nom et pour le compte du Coach, sur la base des informations fournies par ce dernier et adressée par la Société au Client. Le Coach est tenu de communiquer à la Société toutes les informations ou autres mentions légales devant y figurer conformément à ses obligations légales, ainsi qu’il est prévu par le [Mandat de facturation.](https://personal.trainme.co/coach-sportif/26-mandat)
 
 Pour valider la Prestation, le Client est tenu de laisser une évaluation sur la prestation effectuée par le Coach. La validation de la Prestation entraine le paiement au Coach du montant de la facture, déduction faite de la Prestation payable à la Société par celui-ci.
 
 ### IV – Accès au Site et aux Services
 
-L’accès au Site et aux Services est exclusivement réservé aux Utilisateurs inscrits. De même, les Coachs doivent donner mandat à la Société pour établir et émettre leurs factures en leur nom et pour leur compte (en acceptant le [Mandat de facturation](https://trainme.co/coach-sportif/26-mandat)) pour pouvoir utiliser les Services du Site.
+L’accès au Site et aux Services est exclusivement réservé aux Utilisateurs inscrits. De même, les Coachs doivent donner mandat à la Société pour établir et émettre leurs factures en leur nom et pour leur compte (en acceptant le [Mandat de facturation](https://personal.trainme.co/coach-sportif/26-mandat)) pour pouvoir utiliser les Services du Site.
 
 Les Utilisateurs font leur affaire personnelle de la mise en place des moyens informatiques et de télécommunications permettant l’accès au Site. Ils conservent à leur charge les frais de télécommunication lors de l’accès à internet et de l’utilisation du Site.
 
