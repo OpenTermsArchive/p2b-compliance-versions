@@ -151,4 +151,4 @@ AGB
 
 Stand: 01.01.2023  
   
-Copyright © 1997-2023 GKS Handelssysteme GmbH
+Copyright © 1997-2024 GKS Handelssysteme GmbH
