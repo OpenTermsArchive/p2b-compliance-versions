@@ -203,4 +203,4 @@ Fecha inscripción 05/12/2007
 
 * * *
 
-Actualizado: Junio 2022 Dec 2023
+Actualizado: Junio 2022 Jan 2024
