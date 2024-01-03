@@ -1,14 +1,16 @@
-TIKTOK SHOP SELLER TERMS OF SERVICE
-
-Last updated: 29 December, 2023​
+Use of API​ TIKTOK SHOP SELLER TERMS OF SERVICE
 
 ​
 
-Effective from: 4 January 2024​
+Last updated: 5 January 2024​
 
 ​
 
+Effective from: 10 January 2024​
+
 ​
+
+For historical version, please click here.​
 
 ​
 
@@ -470,11 +472,7 @@ Affiliate Feature is a feature of the TikTok Shop to allow Sellers to set either
 
 ​
 
-​
-
 You understand that Affiliate Feature is provided solely to allow You to connect with Creators and create public or targeted promotion plans for Your Products via the functionality We make available to You. For example, choosing Products and setting commission rates for the relevant Creator Services provided by a Creator. ​
-
-​
 
 ​
 
@@ -562,8 +560,6 @@ In all circumstances, TikTok will not:​
 
 ​
 
-​
-
 You acknowledge and agree that:​
 
 ​
@@ -593,8 +589,6 @@ TikTok is not liable for the acts, omissions, errors, representations, warrantie
 ​
 
 Licenses in Connection with Creator Content​
-
-​
 
 ​
 
@@ -674,8 +668,6 @@ How to use the Marketplace and authorise a Partner Service?​
 
 ​
 
-​
-
 You can use your Account to authorise a Partner Service provided by a Partner. We will use your Onboarding Information to assess whether or not you will be able to authorise and contract for Partner Services. Where the applicable Partner provides Partner Services to you is an independent software vendor, You agree to ensure they enter into the [TikTok Shop Partner Center Terms of Service](https://partner.tiktokshop.com/doc/page/261097) with TikTok.​
 
 ​
@@ -721,8 +713,6 @@ You acknowledge and agree that:​
 ​
 
 • ​
-
-​
 
 The trade and purchase of Partner Service are made between You and the Partner and You and the Partner shall be in strict compliance with the service contracts or other arrangements entered into between You and the Partner. TikTok (and/or any of TikTok Affiliates) is not a party to such contract, is not responsible for the provision of any Partner Services to You, and is not liable for the acts, omissions, errors, representations, warranties, negligence or breaches by You or by the Partner. We will not be responsible for any enforcement of any service contract between you and the Partner. TikTok may coordinate with You and the Partner to resolve any dispute, provided, however, that You understand that TikTok's efforts to coordinate may have no practical or substantive effect, and that You are not entitled to request indemnification or compensation from TikTok.​
 
@@ -1212,7 +1202,7 @@ Fees​
 
 ​
 
-Unless otherwise specified in the Additional Jurisdiction-Specific Terms, Fees charged by TikTok to you shall include all applicable Taxes. Your payment of Fees to TikTok shall be made free and clear of any deduction or withholding of taxes. If any deduction or withholding tax is required by Applicable Law, You will notify Us and will pay to Us any additional sums necessary to ensure that We receive the Fees agreed under these Terms. You will also provide to Us any documentation reasonably required to demonstrate the sums withheld and that they have been paid to the relevant taxing authority.​
+Unless otherwise specified in the Additional Jurisdiction-Specific Terms, Fees charged by TikTok to you shall include all applicable Taxes, including but not limited to value-added tax, goods and services tax, sales and service tax. Your payment of Fees to TikTok shall be made free and clear of any deduction or withholding of taxes. If any deduction or withholding tax is required by Applicable Law, You will notify Us and will pay to Us any additional sums necessary to ensure that We receive the Fees agreed under these Terms. You will also provide to Us any documentation (i.e. withholding tax receipt) reasonably required to demonstrate the sums withheld and that they have been paid to the relevant taxing authority.​
 
 ​
 
@@ -1221,6 +1211,10 @@ Unless otherwise specified in the Additional Jurisdiction-Specific Terms, Fees c
 ​
 
 TikTok Shop will issue billing statements and official receipts if applicable or valid tax invoices after the tax information provided by You to TikTok Shop is complete and accurate.​
+
+​
+
+​
 
 ​
 
@@ -1268,7 +1262,105 @@ We will not act (and You will not designate Us) as declarant, importer or export
 
 ​
 
-If you sell to Southeast Asia (Indonesia, Vietnam, Thailand, Malaysia and the Philippines)​
+If you sell to Singapore​
+
+​
+
+​
+
+TikTok Shop is obligated to collect and remit Goods and Services Tax (GST) at the prevailing rate to the Singapore tax authority on your behalf for low-value goods (LVG) sold through TikTok Shop effective from 1 January 2023. Singapore's LVG refers to goods with a value not exceeding SGD400 imported into Singapore via air or post at the point of sale.​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+You shall remain responsible for the tax invoice issuance (where applicable), collection and payment of any and all applicable taxes in relation to your Sale, including but not limited to GST, customs and import duties, or other similar taxes, except for the GST in relation to LVG as set out above.​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+Upon request from TikTok Shop, You shall provide information on the Products (e.g. nature, value and location) sold on TikTok Shop, to enable TikTok to determine the correct tax treatments of the Products.​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+We will not act (and You will not designate Us) as declarant, importer or exporter of record, or any equivalent role, in respect of products imported or exported to or from any jurisdiction. Subject to the laws and requirements of the jurisdiction of the Buyer and the jurisdiction from which the Products are shipped, You shall (as appropriate): (i) act in the capacity of importer and/or exporter Yourself; (ii) designate the Buyer to act as importer of the Products (and empower the carrier to act on the Buyer’s behalf); or (iii) designate a willing and suitable authorised third party to act in such capacity​
+
+​
+
+​
+
+​
+
+If you sell to Malaysia​
+
+​
+
+​
+
+TikTok Shop is obligated to collect and remit Sales Tax at the prevailing rate to the Malaysia tax authority on your behalf for low-value goods(LVG) sold through TikTok Shop effective from 1st January, 2024. Malaysia's LVG refers to certain goods at a price not exceeding RM500 and imported into Malaysia via air, sea or land at the point of sale.​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+You shall remain responsible for the tax invoice issuance (where applicable), collection and payment of any and all applicable taxes in relation to your Sale, including but not limited to Sales and Service Tax (SST), customs and import duties, or other similar taxes, except for theSales Tax in relation to LVG as set out above.​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+Upon request from TikTok Shop, You shall provide information on the Products (e.g. nature, value and location etc.) sold on the TikTok Shop, to enable TikTok to determine the correct tax treatments of the Products.​
+
+​
+
+​
+
+​
+
+​
+
+We will not act (and You will not designate Us) as declarant, importer or exporter of record, or any equivalent role, in respect of products imported or exported to or from any jurisdiction. Subject to the laws and requirements of the jurisdiction of the Buyer and the jurisdiction from which the Products are shipped, You shall (as appropriate): (i) act in the capacity of importer and/or exporter Yourself; (ii) designate the Buyer to act as importer of the Products (and empower the carrier to act on the Buyer’s behalf); or (iii) designate a willing and suitable authorised third party to act in such capacity.​
+
+​
+
+​
+
+​
+
+If you sell to Southeast Asia (Indonesia, Vietnam, Thailand and the Philippines)​
 
 ​
 
@@ -2020,11 +2112,23 @@ You and TikTok irrevocably agree that the courts of England and Wales shall have
 
 ​
 
-If you are selling Products to Buyers in Singapore, Indonesia, Malaysia, Thailand, or Vietnam: ​
+If you are selling Products to Buyers in Singapore, Indonesia, Thailand, or Vietnam: ​
 
 ​
 
 These Terms, their subject matter and their formation, are governed by the laws of Singapore. Any dispute arising out of or in connection with these Terms, including any question regarding existence, validity or termination of these Terms, shall be referred to and finally resolved by arbitration administered by the Singapore International Arbitration Centre in accordance with the Arbitration Rules of the Singapore International Arbitration Centre for the time being in force, which rules are deemed to be incorporated by reference in this clause. The seat of the arbitration shall be Singapore. The Tribunal shall consist of three (3) arbitrators. The language of the arbitration shall be English.​
+
+​
+
+​
+
+​
+
+If you are selling Products to Buyers in Malaysia: ​
+
+​
+
+These Terms, their subject matter and their formation, are governed by the laws of Malaysia. Any dispute arising out of or in connection with these Terms, including any question regarding existence, validity or termination of these Terms, shall be referred to and finally resolved by arbitration administered by the Asian International Arbitration Center (“AIAC”) in accordance with the AIAC Arbitration Rules for the time being in force, which rules are deemed to be incorporated by reference in this Clause. The seat of the arbitration shall be Kuala Lumpur, Malaysia. The Tribunal shall consist of a sole arbitrator, who is to be appointed by the Director of AIAC. The language of the arbitration shall be English.​
 
 ​
 
@@ -2080,11 +2184,19 @@ I. Southeast Asia (Singapore, Indonesia, Vietnam, Thailand, Malaysia and the Phi
 
 ​
 
-If You are a Seller in Singapore, Indonesia, Vietnam, Thailand, or Malaysia:​
+If You are a Seller in Singapore, Indonesia, Vietnam, or Thailand:​
 
 ​
 
 You acknowledge that the relevant entity providing the Platform is TikTok Pte. Ltd. (which is registered in Singapore, with its registered office at 1 Raffles Place #26-10 Singapore 048583) and references to TikTok/Us/We/Our shall be construed accordingly. TikTok Pte. Ltd. enters into these Terms and performs all acts and obligations from Singapore.​
+
+​
+
+If You are a Seller in Malaysia:​
+
+​
+
+You acknowledge that the relevant entity providing the TikTok Shop is TikTok Shop (Malaysia) Sdn Bhd, which is registered in Malaysia, and references to TikTok/Us/We/Our shall be construed accordingly. You further acknowledge that TikTok Shop (Malaysia) Sdn Bhd. enters into these Terms and performs all acts and obligations from Malaysia.​
 
 ​
 
@@ -2244,7 +2356,7 @@ Notwithstanding the remaining Terms (including without limitation Clause 5 (What
 
 ​
 
-As a condition to using the TikTok Shop, You will be subject to a seller payment service agreement (“Seller Payment Service Agreement”) with the relevant Third Party PSP, which will stipulate the terms and conditions of the Payment Services that the relevant Third Party PSP may agree to provide to You. (The Seller Payment Service Agreement applicable to Payment Services provided by PIPO HK is: Seller Payment Service Agreement ([Indonesia](https://seller-id.tiktok.com/university/article/agreement?knowledge_id=10011390&identity=1), [Vietnam](https://seller-vn.tiktok.com/university/article/agreement?knowledge_id=10011387&identity=1), [Thailand](https://seller-th.tiktok.com/university/article/agreement?knowledge_id=10011388&identity=1), [Malaysia](https://seller-my.tiktok.com/university/article/agreement?knowledge_id=10012511&identity=1)). The Seller Payment Service Agreement applicable to Payment Services provided by PIPO PH is: [Seller Payment Service Agreement](https://lf16-dl-sign.pipopayment.com/obj/download-center-us/26VKJxZNkdfwqNpf_TTS_PH_Local_Merchant_PSA_PIPOPH?x-expires=1708428406&x-signature=EUaVw3xLcrECDKGr7vkHshbPkM0%3D) (PH). The Seller Payment Service Agreement applicable to Payment Services provided by PIPO SG is: [Seller Payment Service Agreement (SG)](https://seller-sg.tiktok.com/university/article/agreement?knowledge_id=10011367).) By agreeing to these Terms, You agree to be bound by the Seller Payment Service Agreement with the relevant Third Party PSP. If You do not enter into the Seller Payment Service Agreement with the relevant Third Party PSP, We will not be able to provide the TikTok Shop to You, because the relevant Third Party PSP will not be in a position to provide any Payment Services to You, which means that You will not receive payments for Your Products sold on the TikTok Shop.​
+As a condition to using the TikTok Shop, You will be subject to a seller payment service agreement (“Seller Payment Service Agreement”) with the relevant Third Party PSP, which will stipulate the terms and conditions of the Payment Services that the relevant Third Party PSP may agree to provide to You. (The Seller Payment Service Agreement applicable to Payment Services provided by PIPO HK is: Seller Payment Service Agreement ([Indonesia](https://seller-id.tiktok.com/university/article/agreement?knowledge_id=10011390&identity=1), [Vietnam](https://seller-vn.tiktok.com/university/article/agreement?knowledge_id=10011387&identity=1), [Thailand](https://seller-th.tiktok.com/university/article/agreement?knowledge_id=10011388&identity=1), [Malaysia](https://seller-my.tiktok.com/university/article/agreement?knowledge_id=10012511&identity=1)). The Seller Payment Service Agreement applicable to Payment Services provided by PIPO PH is: [Seller Payment Service Agreement (PH)](https://lf16-dl-sign.pipopayment.com/obj/download-center-us/26VKJxZNkdfwqNpf_TTS_PH_Local_Merchant_PSA_PIPOPH?x-expires=1708428406&x-signature=EUaVw3xLcrECDKGr7vkHshbPkM0%3D). The Seller Payment Service Agreement applicable to Payment Services provided by PIPO SG is: [Seller Payment Service Agreement (SG)](https://seller-sg.tiktok.com/university/article/agreement?knowledge_id=10011367).) By agreeing to these Terms, You agree to be bound by the Seller Payment Service Agreement with the relevant Third Party PSP. If You do not enter into the Seller Payment Service Agreement with the relevant Third Party PSP, We will not be able to provide the TikTok Shop to You, because the relevant Third Party PSP will not be in a position to provide any Payment Services to You, which means that You will not receive payments for Your Products sold on the TikTok Shop.​
 
 ​
 
@@ -2292,7 +2404,7 @@ In this regard, You appoint us, the TikTok Shop provider, as Your attorney, and 
 
 ​
 
-You acknowledge that a portion of the payments from the Buyers will be deducted and paid to the Creators, as fees payable by You to the Creators (“Creator Commissions”) as agreed by You and the applicable Creator. The relevant Third Party PSP will deduct and pay the Creator Commissions to the Creators on a periodical basis as part of the Payment Services provided to you. Relevant Third Party PSP will provide Payment Services to the Creators upon Creators entering into the Creator Payment Service Agreement with relevant Third Party PSP and fully satisfy the internal customer due diligence requirements of the Third Party PSP, to enable Creators to view the amounts of Creator Commissions (after deduction of relevant fees/charges, if any) held by the relevant Third Party PSP on behalf of the Creators and to initiate withdrawal and transfer of the Creator Commissions from the relevant Third Party PSP to the Creators (and such other parties as authorized by the Creators, if any), in accordance with the terms of the Creator Payment Service Agreement. ​
+You acknowledge that a portion of the payments from the Buyers will be deducted and paid to the Creators, as fees payable by You to the Creators (“Creator Commissions”) as agreed by You and the applicable Creator. The relevant Third Party PSP will deduct and pay the Creator Commissions to the Creators on a periodical basis as part of the Payment Services provided to you. Relevant Third Party PSP will provide Payment Services to the Creators upon Creators entering into the Creator Payment Service Agreement with relevant Third Party PSP and fully satisfy the internal customer due diligence requirements of the Third Party PSP, to enable Creators to view the amounts of Creator Commissions (after deduction of relevant fees/charges, if any) held by the relevant Third Party PSP on behalf of the Creators and to initiate withdrawal and transfer of the Creator Commissions from the relevant Third Party PSP to the Creators (and such other parties as authorized by the Creators, if any), in accordance with the terms of the Creator Payment Service Agreement.​
 
 ​
 
@@ -2464,11 +2576,19 @@ You acknowledge that the relevant entity providing the Platform is TikTok Inform
 
 ​
 
-If you are selling Products to Buyers in Singapore, Malaysia, Thailand, or Vietnam: ​
+If you are selling Products to Buyers in Singapore, Thailand, or Vietnam: ​
 
 ​
 
 You acknowledge that the relevant entity providing the Platform is TikTok Pte. Ltd. (which is registered in Singapore, with its registered office at 1 Raffles Place #26-10 Singapore 048583) and references to TikTok/Us/We/Our shall be construed accordingly. TikTok Pte. Ltd. enters into these Terms and performs all acts and obligations from Singapore. ​
+
+​
+
+If you are selling Products to Buyers in the Malaysia:​
+
+​
+
+You acknowledge that the relevant entity providing the Platform is TikTok Shop (Malaysia) Sdn Bhd, which is registered in Malaysia, and references to TikTok/Us/We/Our shall be construed accordingly. You further acknowledge that TikTok Shop (Malaysia) Sdn Bhd. enters into these Terms and performs all acts and obligations from Malaysia.​
 
 ​
 
@@ -2584,11 +2704,11 @@ Notwithstanding the remaining Terms (including without limitation Clause 5 (What
 
 ​
 
-As a condition to using the TikTok Shop, You will be subject to a seller payment service agreement (“Seller Payment Service Agreement”) with Third Party PSP: XBorder Seller Payment Service Agreement ([Vietnam](https://lf16-dl-sign.pipopayment.com/obj/download-center-us/26VKJxbNgjT5aydq_TTS_PH_Cross_Border_Merchant_PSA_PIPOHK?x-expires=1708428433&x-signature=UpLB%2BUlz6iXPSSLETyH1Pj6bIiQ%3D), [Thailand](https://lf16-dl-sign.pipopayment.com/obj/download-center-us/26VKJxbNgjT5aydq_TTS_PH_Cross_Border_Merchant_PSA_PIPOHK?x-expires=1708428433&x-signature=UpLB%2BUlz6iXPSSLETyH1Pj6bIiQ%3D), [Malaysia](https://lf16-dl-sign.pipopayment.com/obj/download-center-us/26VKJxbNgjT5aydq_TTS_PH_Cross_Border_Merchant_PSA_PIPOHK?x-expires=1708428433&x-signature=UpLB%2BUlz6iXPSSLETyH1Pj6bIiQ%3D), [the Philippines](https://lf16-dl-sign.pipopayment.com/obj/download-center-us/26VKJxbNgjT5aydq_TTS_PH_Cross_Border_Merchant_PSA_PIPOHK?x-expires=1708428433&x-signature=UpLB%2BUlz6iXPSSLETyH1Pj6bIiQ%3D), [Indonesia](https://oneunita.com/agreement/template?code=TTS_PH_Cross_Border_Merchant_PSA_PIPOHK) and [Singapore](https://seller-sg.tiktok.com/university/article/agreement?knowledge_id=10011367)) which will stipulate the terms and conditions of the Payment Services that Third Party PSP may agree to provide to You. By agreeing to these Terms, You agree to be bound by the Seller Payment Service Agreement with Third Party PSP. If You do not enter into the Seller Payment Service Agreement with Third Party PSP, We will not be able to provide the TikTok Shop to You, because Third Party PSP will not be in a position to provide any Payment Services to You, which means that You will not receive payments for Your Products sold to Buyers in Malaysia, Thailand, the Philippines, or Vietnam on the TikTok Shop. ​
+As a condition to using the TikTok Shop, You will be subject to a seller payment service agreement (“Seller Payment Service Agreement”) with Third Party PSP: XBorder Seller Payment Service Agreement ([Vietnam](https://lf16-dl-sign.pipopayment.com/obj/download-center-us/26VKJxbNgjT5aydq_TTS_PH_Cross_Border_Merchant_PSA_PIPOHK?x-expires=1708428433&x-signature=UpLB%2BUlz6iXPSSLETyH1Pj6bIiQ%3D), [Thailand](https://lf16-dl-sign.pipopayment.com/obj/download-center-us/26VKJxbNgjT5aydq_TTS_PH_Cross_Border_Merchant_PSA_PIPOHK?x-expires=1708428433&x-signature=UpLB%2BUlz6iXPSSLETyH1Pj6bIiQ%3D), [Malaysia](https://lf16-dl-sign.pipopayment.com/obj/download-center-us/26VKJxbNgjT5aydq_TTS_PH_Cross_Border_Merchant_PSA_PIPOHK?x-expires=1708428433&x-signature=UpLB%2BUlz6iXPSSLETyH1Pj6bIiQ%3D), [the Philippines](https://lf16-dl-sign.pipopayment.com/obj/download-center-us/26VKJxbNgjT5aydq_TTS_PH_Cross_Border_Merchant_PSA_PIPOHK?x-expires=1708428433&x-signature=UpLB%2BUlz6iXPSSLETyH1Pj6bIiQ%3D), [Indonesia](https://lf16-dl-sign.pipopayment.com/obj/download-center-us/26VKJxbNgjT5aydq_TTS_PH_Cross_Border_Merchant_PSA_PIPOHK?x-expires=1708428433&x-signature=UpLB%2BUlz6iXPSSLETyH1Pj6bIiQ%3D) and [Singapore](https://seller-sg.tiktok.com/university/article/agreement?knowledge_id=10011367)) which will stipulate the terms and conditions of the Payment Services that Third Party PSP may agree to provide to You. By agreeing to these Terms, You agree to be bound by the Seller Payment Service Agreement with Third Party PSP. If You do not enter into the Seller Payment Service Agreement with Third Party PSP, We will not be able to provide the TikTok Shop to You, because Third Party PSP will not be in a position to provide any Payment Services to You, which means that You will not receive payments for Your Products sold to Buyers in Malaysia, Thailand, the Philippines, or Vietnam on the TikTok Shop. ​
 
 ​
 
-For the avoidance of doubt, You acknowledge and agree that while We may provide instructions on Your behalf to Third Party PSP to facilitate or support the Payment Services that Third Party PSP provides to You any Payment Services that Third Party PSP provides to You will be provided by Third Party PSP in its own capacity (including through its other affiliates or partners), and We are not acting as an agent or delegate of Third Party PSP with respect to such Payment Services. We will not be liable to You for any losses suffered as a result of any breach or default by Third Party PSP under the Seller Payment Service Agreement, or any other agreement that You enter into with Third Party PSP with respect to the Payment Services or otherwise.​
+For the avoidance of doubt, You acknowledge and agree that while We may provide instructions on Your behalf to Third Party PSP to facilitate or support the Payment Services that Third Party PSP provides to You any Payment Services that Third Party PSPprovides to You will be provided by Third Party PSP in its own capacity (including through its other affiliates or partners), and We are not acting as an agent or delegate of Third Party PSP with respect to such Payment Services. We will not be liable to You for any losses suffered as a result of any breach or default by Third Party PSP under the Seller Payment Service Agreement, or any other agreement that You enter into with Third Party PSP with respect to the Payment Services or otherwise.​
 
 ​
 
@@ -2596,7 +2716,7 @@ If you are selling Products to Buyers in the United States: ​
 
 ​
 
-As a condition to using the TikTok Shop, You are required to enter into a seller payment service agreement (“Seller Payment Service Agreement”) with PIPO SG: [Seller Payment Service Agreement](https://lf16-dl-sign.pipopayment.com/obj/download-center-us/26VJcemt5fMrWo87_TTS_UK_Cross_Border_PSA?x-expires=1699268228&x-signature=n8n38TTauV0%2BRPgifzhbeWOSGPk%3D), which will stipulate the terms and conditions of the Payment Services that PIPO SG may agree to provide to You. If You do not enter into the Seller Payment Service Agreement with PIPO SG, We will not be able to provide the TikTok Shop to You, because We will not be in a position to provide any Payment Services to You, which means that You will not receive payments for Your Products sold to Buyers in the United States. ​
+As a condition to using the TikTok Shop, You are required to enter into a seller payment service agreement (“Seller Payment Service Agreement”) with PIPO SG: [Seller Payment Service Agreement](https://lf16-dl-sign.pipopayment.com/obj/download-center-us/26VJxoxuP5sEXkpw_TT_US_Cross_Border_PSA?x-expires=1706437601&x-signature=R%2F9sTXEnclQUmZtNBQGRzIOtFH4%3D), which will stipulate the terms and conditions of the Payment Services that PIPO SG may agree to provide to You. If You do not enter into the Seller Payment Service Agreement with PIPO SG, We will not be able to provide the TikTok Shop to You, because We will not be in a position to provide any Payment Services to You, which means that You will not receive payments for Your Products sold to Buyers in the United States. ​
 
 ​
 
@@ -3952,3 +4072,9 @@ Menu![menu icon](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiI
 * ​
 * 30\. Additional Jurisdiction-Specific Terms​
 * ​
+* Schedule 1​
+* ​
+* Schedule 2​
+* ​
+* Schedule 3​
+* Use of API​
