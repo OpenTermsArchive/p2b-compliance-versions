@@ -1,6 +1,12 @@
 General conditions of use for teachers and students
 ===================================================
 
+[Albert Clemente](https://www.classgap.com/profesores/albert-clemente-pelaez.htm)
+
+(3)
+
+[Contactar](https://www.classgap.com/profesores/albert-clemente-pelaez.htm#contactform)
+
 [](https://api.whatsapp.com/send?text=https%3a%2f%2fwww.classgap.com%2fen%2fblog%2fgeneral-conditions-use-for-teachers-and-students)[](https://www.facebook.com/share.php?u=https%3a%2f%2fwww.classgap.com%2fen%2fblog%2fgeneral-conditions-use-for-teachers-and-students)[](https://www.linkedin.com/shareArticle?mini=true&url=https%3a%2f%2fwww.classgap.com%2fen%2fblog%2fgeneral-conditions-use-for-teachers-and-students)[](https://twitter.com/share?url=https%3a%2f%2fwww.classgap.com%2fen%2fblog%2fgeneral-conditions-use-for-teachers-and-students)
 
 Terms and Conditions for Teachers
@@ -188,17 +194,17 @@ When the Teacher teaches a Class in CLASSGAP:
 
 ### 11\. Price of the service and promotional programmes
 
-Price and conditions in direct sale of courses. In consideration for the provision of services, CLASSGAP will charge a commission to the "Teachers who generate paid content. Said commission will consist of an initial percentage of 5% and in successive sales of the same course, the commission that corresponds to you according to the level of Teacher that you have in CLASSGAP at that moment:
+In consideration for the provision of services and the use of the platform, CLASSGAP will charge a commission to the teachers according to the level of Teacher they have in CLASSGAP at that moment:
 
-Your level can be:
+There are 5 levels of Teacher, depending on the number of hours performed in CLASSGAP:
 
-There are 3 levels of Teacher, depending on the number of hours completed in CLASSGAP:
+*  Beginner teacher (<25 hours), a 32% commission will be charged on the price of the lesson.
+* Intermediate teacher (25<->59 hours), a 27% commission will be charged on the price of the lesson.
+* Advanced teacher (60<->299 hours), a 23% commission will be charged on the lesson price.
+* Expert teacher (300<->499 hours), a 18% commission will be charged on the lesson price.
+* Legend teacher (>500 hours, during the last two years), a 16% commission will be charged on the lesson price.
 
-New Teachers (accumulate less than 50 Class hours) Receive 80% of the amount of each Class.
-
-Professional Teachers (accumulate more than 50 hours of Class) Receive 85% of the Class fee.
-
-Star Teachers (more than 250 hours of classes in the last year) receive 87% of the amount of each class.
+Once you have reached a category you can never go back to a lower one, except for the Legend category which is calculated based on the lessons you have given in the last two years. All other categories accumulate over time.
 
 ### 12\. I am a teacher, how much does the service cost?
 
