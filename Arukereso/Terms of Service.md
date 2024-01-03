@@ -73,7 +73,7 @@ Az alábbiakban részletezett általános szerződési feltételek (továbbiakba
             Amennyiben a Google Shopping felületen a Felhasználó hirdetése megjelenítésre kerül és a látogató arra rákattint, akkor onnan a látogató közvetlenül a Felhasználó webshopjára kerül átirányításra.
         2. A „Shopping” szolgáltatás díja költség- és jutalék alapú, azaz az adott átkattintás Google által a Szolgáltató felé felszámított költség kerül a Felhasználó felé áthárításra, mely költségen felül a Szolgáltató jutalékot is felszámít a Felhasználó felé. A jutalék mértékét a Szolgáltató határozza meg, melyet az „Árukereső” szolgáltatás aktuális díjszabásában ([https://www.arukereso.hu/admin/Login#prices-shopping](https://www.arukereso.hu/admin/Login#prices-shopping)) tesz közzé. A “Shopping” szolgáltatás díja a Felhasználó egyenlegéből kerül levonásra.  
             A „Shopping” szolgáltatás keretében a Google által a Szolgáltatónak termékajánlatonként átadott átkattintási darabszámok kerülnek felszámításra, ezért a Felhasználó elismeri, hogy a Szolgáltató az ÁSZF 2.2.2. pontja alól mentesül. Az elszámolással kapcsolatosan a Felhasználó elfogadja a Szolgáltató kimutatását és ellene kifogással nem él.  
-            Szolgáltató vállalja, hogy a Google által utólagosan érvénytelennek minősített kattintások átlagértékét a Felhasználó egyenlegén jóváírja.
+            Szolgáltató vállalja, hogy a Google által utólagosan érvénytelennek minősített kattintások átlagértékét a Felhasználó egyenlegén tárgyhót követő hónap 15. napjáig jóváírja.
 
 ### II. A SZERZŐDÉS LÉTREJÖTTE ÉS MEGSZŰNÉSE
 
@@ -231,15 +231,13 @@ Az alábbiakban részletezett általános szerződési feltételek (továbbiakba
 
 Jelen ÁSZF legfrissebb, hatályos változata a Felhasználók regisztrációs felületén elhelyezett „Általános szerződési feltételek” linkre kattintva érhető el.
 
-2023\. december 06.
+2024\. január 01.
 
-A 2024.01.01-től érvényes ÁSZF [itt érhető el](http://www.arukereso.hu/static/general_terms_and_conditions2401.html).
+A 2024.01.01-ig érvényes ÁSZF [itt érhető el](http://www.arukereso.hu/static/general_terms_and_conditions0101.html).
 
 [www.arukereso.hu](https://www.arukereso.hu/)  
 
 Az ÁSZF angol verziója [itt érhető el](https://www.arukereso.hu/static/general_terms_and_conditions_en.html).
-
-A 2024.01.01-től érvényes ÁSZF angol verziója [itt érhető el](https://www.arukereso.hu/static/general_terms_and_conditions_en4.html).
 
 Online Comparison Shopping Kft. ©  
 Minden jog fenntartva!
