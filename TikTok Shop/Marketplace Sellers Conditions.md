@@ -1,4 +1,6 @@
-Use of API​ TIKTOK SHOP SELLER TERMS OF SERVICE
+TIKTOK SHOP SELLER TERMS OF SERVICE
+
+05/01/2024496 views
 
 ​
 
@@ -6,11 +8,11 @@ Last updated: 5 January 2024​
 
 ​
 
-Effective from: 10 January 2024​
+Effective from: 15 January 2024​
 
 ​
 
-For historical version, please click here.​
+​
 
 ​
 
@@ -4009,72 +4011,3 @@ Use of API​
 5.1 You acknowledge that all intellectual property rights in the TikTok Shop, TTSPC, the API and the API Data belongs and shall belong to TikTok (or its licensors) and you shall have no rights in or to the same other than the right to use it in accordance with these Terms.​
 
 ​
-
-Menu![menu icon](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3QgeD0iMiIgeT0iMi4yNSIgd2lkdGg9IjEyIiBoZWlnaHQ9IjEiIHJ4PSIwLjUiIGZpbGw9IiM1NTU4NUMiLz4KPHJlY3QgeD0iNiIgeT0iNS43NSIgd2lkdGg9IjgiIGhlaWdodD0iMSIgcng9IjAuNSIgZmlsbD0iIzU1NTg1QyIvPgo8cmVjdCB4PSI2IiB5PSI5LjI1IiB3aWR0aD0iOCIgaGVpZ2h0PSIxIiByeD0iMC41IiBmaWxsPSIjNTU1ODVDIi8+CjxyZWN0IHg9IjIiIHk9IjEyLjc1IiB3aWR0aD0iMTIiIGhlaWdodD0iMSIgcng9IjAuNSIgZmlsbD0iIzU1NTg1QyIvPgo8cGF0aCBkPSJNNC41MzkwNyA3LjYxNTg5QzQuNzc4OTQgNy44MTU3OSA0Ljc3ODk0IDguMTg0MjEgNC41MzkwNyA4LjM4NDExTDIuODIwMDkgOS44MTY1OUMyLjQ5NDQzIDEwLjA4OCAyIDkuODU2NCAyIDkuNDMyNDhMMiA2LjU2NzUyQzIgNi4xNDM2IDIuNDk0NDMgNS45MTIwMiAyLjgyMDA5IDYuMTgzNDFMNC41MzkwNyA3LjYxNTg5WiIgZmlsbD0iIzU1NTg1QyIvPgo8L3N2Zz4K)
-
-* 1\. Introduction​
-* ​
-* 2\. Accepting these Terms​
-* ​
-* 3\. Additional Jurisdiction-Specific Terms​
-* ​
-* 4\. Changes to These Terms​
-* ​
-* 5\. About the TikTok Shop​
-* ​
-* 6\. How to Use the TikTok Shop​
-* ​
-* 7\. TikTok Content and Seller Materials​
-* ​
-* 8\. Affiliate Feature​
-* ​
-* 9\. Service Market and Partner Services​
-* ​
-* 10\. Your use of API​
-* ​
-* 11\. Fees​
-* ​
-* 12\. How you may authorize other users to manage your Account?​
-* ​
-* 13\. Rules for Using the TikTok Shop​
-* ​
-* 14\. Infringing Product​
-* ​
-* 15\. Customs and Tax Policy​
-* ​
-* 16\. Representation and Warranties​
-* ​
-* 17\. What Happens if You Breach These Terms or the TikTok Shop Policies?​
-* ​
-* 18\. Confidentiality​
-* ​
-* 19\. Disclaimers​
-* ​
-* 20\. Release​
-* ​
-* 21\. Limitations of Liability​
-* ​
-* 22\. Indemnities​
-* ​
-* 23\. Term​
-* ​
-* 24\. Restriction, Suspension and Termination​
-* ​
-* 25\. Effects of and Rights on Termination​
-* ​
-* 26\. Miscellaneous Terms​
-* ​
-* 27\. Dispute Resolution​
-* ​
-* 28\. Governing Law and Jurisdiction​
-* ​
-* 29\. Trade Compliance​
-* ​
-* 30\. Additional Jurisdiction-Specific Terms​
-* ​
-* Schedule 1​
-* ​
-* Schedule 2​
-* ​
-* Schedule 3​
-* Use of API​
