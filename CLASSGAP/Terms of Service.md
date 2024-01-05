@@ -1,12 +1,6 @@
 General conditions of use for teachers and students
 ===================================================
 
-[Albert Clemente](https://www.classgap.com/profesores/albert-clemente-pelaez.htm)
-
-(3)
-
-[Contactar](https://www.classgap.com/profesores/albert-clemente-pelaez.htm#contactform)
-
 [](https://api.whatsapp.com/send?text=https%3a%2f%2fwww.classgap.com%2fen%2fblog%2fgeneral-conditions-use-for-teachers-and-students)[](https://www.facebook.com/share.php?u=https%3a%2f%2fwww.classgap.com%2fen%2fblog%2fgeneral-conditions-use-for-teachers-and-students)[](https://www.linkedin.com/shareArticle?mini=true&url=https%3a%2f%2fwww.classgap.com%2fen%2fblog%2fgeneral-conditions-use-for-teachers-and-students)[](https://twitter.com/share?url=https%3a%2f%2fwww.classgap.com%2fen%2fblog%2fgeneral-conditions-use-for-teachers-and-students)
 
 Terms and Conditions for Teachers
