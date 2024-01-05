@@ -1,6 +1,6 @@
 TIKTOK SHOP SELLER TERMS OF SERVICE
 
-05/01/2024496 views
+05/01/2024526 views
 
 ​
 
@@ -1414,7 +1414,7 @@ By accepting these Terms, You represent,warrant and undertake to TikTok that:​
 
 ​
 
-• You will comply with TikTok Shop Business Partner Code of Conduct (currently available at [TikTok Shop Business Partner Code of Conduct](https://globalselling.tiktokglobalshop.com/assets/tts-business-partner-code-of-conduct-en.pdf)) and all future updates thereof, which TikTok may make in its sole discretion from time to time; and​
+• You will comply with TikTok Shop Business Partner Code of Conduct (currently available at [TikTok Shop Business Partner Code of Conduct](https://globalselling.tiktokglobalshop.com/assets/tts-business-partner-code-of-conduct-self-service-en.pdf)) and all future updates thereof, which TikTok may make in its sole discretion from time to time; and​
 
 ​
 
