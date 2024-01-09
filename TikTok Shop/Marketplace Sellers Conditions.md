@@ -1,10 +1,10 @@
 TIKTOK SHOP SELLER TERMS OF SERVICE
 
-05/01/2024962 views
+09/01/20241k views
 
 ​
 
-Last updated: 5 January 2024​
+Last updated: 10 January 2024​
 
 ​
 
