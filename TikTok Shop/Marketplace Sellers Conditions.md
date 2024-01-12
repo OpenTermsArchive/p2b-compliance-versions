@@ -1,6 +1,6 @@
 TIKTOK SHOP SELLER TERMS OF SERVICE
 
-09/01/20241.5k views
+09/01/20241.6k views
 
 ​
 
