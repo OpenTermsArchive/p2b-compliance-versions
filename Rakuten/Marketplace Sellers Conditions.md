@@ -1,7 +1,7 @@
 Conditions particulières – Vendeurs professionnels
 ==================================================
 
-_**Version mise à jour le 24 juin 2023**_
+_**Version mise à jour le 15 janvier 2024**_
 
 _Pour consulter la version des Conditions Particulières applicables aux Vendeurs Professionnels en vigueur du 20.05.2021 au 23.09.2021, cliquez [ici](https://fr.shopping.rakuten.com/cdn/legal/2.0+-+Conditions+Particuli%C3%A8res+Pro+%28r%C3%A9vis%C3%A9es+2021.05.20%29.pdf?vh=24bf95&func=proxy)._
 
@@ -95,7 +95,7 @@ Dans les présentes, les termes suivants employés avec une première lettre en 
 | **Code source  :** | Ensemble des instructions écrites dans un langage de programmation informatique, de balisage ou de formats de présentation, en ce compris tous les éléments multimédias ou autres inclus, utilisés par le Vendeur Professionnel pour les besoins des services personnalisables. |
 | **Contrat :** | Les [Conditions Générales d'Utilisation](https://fr.shopping.rakuten.com/newhelp/conditions-generales/) de la Plateforme Rakuten complétées par les présentes Conditions Particulières Pro, qui fixent la relation contractuelle entre Rakuten et le Vendeur Professionnel. |
 | **Coordonnées des acheteurs :** | L'ensemble des données à caractère personnel de l'Acheteur nécessaire au passage d’une commande sur la Plateforme Rakuten, notamment son nom, prénom, adresse postale, ainsi que le détail de sa commande. |
-| **Indicateurs de Performance et de Confiance :** | Indicateurs notamment (mais sans s'y limiter) relatifs au nombre, à la qualité et à la nature des Produits disponibles dans l'inventaire du Vendeur Professionnel, à son taux de confirmation de la disponibilité des Produits, à son taux de Réclamations déposées par les Acheteurs de ses Produits et aux notes attribuées au Vendeur Professionnel par ces Acheteurs, ainsi qu’à la qualité de ses services en termes de livraison, pondérés sous la forme de rangs (« A », « B », « C », « D ») et d’une note, tel que détaillé sur le compte du Vendeur Professionnel. |
+| **Indicateurs de Performance et de Confiance ("Merchant Quality Score") :** | Indicateurs notamment (mais sans s'y limiter) relatifs au nombre, à la qualité et à la nature des Produits disponibles dans l'inventaire du Vendeur Professionnel, à son taux de confirmation de la disponibilité des Produits, à son taux de Réclamations déposées par les Acheteurs de ses Produits et aux notes attribuées au Vendeur Professionnel par ces Acheteurs, ainsi qu’à la qualité de ses services en termes de livraison, pondérés sous la forme de rangs (« A », « B », « C », « D », etc.) et d’une note, tel que détaillé sur le compte du Vendeur Professionnel et au sein de l’aide en ligne « [Qu’est-ce que le Merchant Quality Score (MQS) ?](https://global.fr.shopping.rakuten.com/aide/merchant-quality-score-mqs/#a-quoi-correspondent-les-grades-a-b-c-et-d) ». |
 | **Parties :** | Rakuten et le Vendeur Professionnel soumis au respect des Conditions Particulières Pro. |
 
 **Pro. 2 - Services de diffusion et de promotion des offres, de traitement des commandes et de fidélisation des Acheteurs**
@@ -241,21 +241,24 @@ Conformément aux lois et règlements relatifs à la prévention et à la gestio
 
 _Pro. 4.1.1 – Paiement des ventes_
 
-Rakuten reverse au Vendeur Professionnel le prix de vente convenu minoré de la commission applicable sur le prix de vente final et plus généralement de toute somme due par le Vendeur Professionnel à Rakuten en application du Contrat, après chaque vente réputée parfaite, c’est-à-dire pour laquelle : 
+Rakuten reverse au Vendeur Professionnel le prix de vente convenu minoré de la commission applicable sur le prix de vente final et plus généralement de toute somme due par le Vendeur Professionnel à Rakuten en application du Contrat, après chaque vente réputée parfaite, sous réserve notamment du score obtenu par le Vendeur Professionnel au titre des Indicateurs de performance et de confiance. 
 
-(i) l’Acheteur a confirmé la réception conforme du Produit à l’offre du Vendeur Professionnel par le biais de la notation (dans les conditions détaillées à l'article 4.3 des [Conditions Générales d'Utilisation](https://fr.shopping.rakuten.com/newhelp/conditions-generales/)) ou, à défaut,
+|     |     |     |     |     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|     |     |     | **Moment du paiement de la vente** |     |     |     |     |     |     |     |
+| **Statut de la commande** | **Date de notation** | **Date de notation + 7J** | **Date de notation + 14J** | **Date de livraison + 16J** | **Acceptation de la vente + 45J** | **Acceptation de la vente + 60J** | **Acceptation de la vente + 90J** |
+| **Indicateurs de performance et de confiance** | **MQS A** | **Tracking** | Notée | **X** |     |     |     |     |     |     |
+| Livrée |     |     |     | **X** |     |     |     |
+| Non livrée |     |     |     |     | **X** |     |     |
+| **Sans Tracking** | Notée |     | **X** |     |     |     |     |     |
+| Non notée |     |     |     |     |     |     | **X** |
+| **Autres MQS** | **Tracking** | Notée | **X** |     |     |     |     |     |     |
+| Livrée |     |     |     | **X** |     |     |     |
+| Non livrée |     |     |     |     |     | **X** |     |
+| **Sans Tracking** | Notée |     |     | **X** |     |     |     |     |
+| Non notée |     |     |     |     |     |     | **X** |
 
-(ii) au terme d’un délai maximal de trente (30) jours à compter de la date de confirmation de la disponibilité du Produit par le Vendeur,
-
-selon celui de ces événements qui survient le premier.
-
-Ce qui précède est sans préjudice des conditions posées par l’article 7.5 des [Conditions Générales d’Utilisation](https://fr.shopping.rakuten.com/newhelp/conditions-generales/).
-
-Le paiement des ventes réputées parfaites intervient par virement bancaire chaque lundi et jeudi.
-
-Par exception, (i) si le Vendeur Professionnel fournit à Rakuten le numéro de suivi et/ou toutes les informations permettant de suivre la livraison du colis sur le site du transporteur et (ii) n'a pas activé l’Option Paiement accéléré (Pro. 4.1.2), Rakuten reverse au Vendeur Professionnel le prix de vente convenu minoré de la commission applicable sur le prix de vente final et plus généralement de toute somme due par le Vendeur Professionnel à Rakuten en application du Contrat, au terme d’un délai maximal de cinq (5) jours ouvrés maximum suivant la livraison au domicile de l'Acheteur ou la récupération d’un Produit par l’Acheteur selon le mode de livraison concerné.
-
-Par exception à tout ce qui précède, pendant une durée de trois (3) mois à compter de la première vente d’un Vendeur Professionnel (qui pourra être réduite par Rakuten si la qualité de service du Vendeur Professionnel le justifie), Rakuten reverse au Vendeur Professionnel les sommes visées au premier paragraphe du présent article uniquement lorsque l’Acheteur a confirmé la réception conforme du Produit à l’offre du Vendeur Professionnel par le biais de la notation (dans les conditions détaillées à l'article 4.3 des [Conditions Générales d'Utilisation](https://fr.shopping.rakuten.com/newhelp/conditions-generales/)).
+Par exception à ce qui précède, si l’Acheteur a choisi un mode de livraison ou de récupération du Produit pour lequel aucun numéro de suivi (et/ou de toutes informations permettant de suivre l’acheminement) ne peut être fourni par le Vendeur, notamment en cas de retrait chez le vendeur, téléchargement d’un produit numérique, click & collect, expédition en mode « normal ») ; Rakuten reversera au Vendeur Professionnel le prix de vente convenu minoré de la commission applicable, au terme d’un délai de vingt (20) jours à compter de la date d’acceptation de la vente par le Vendeur Professionnel.
 
 _Pro. 4.1.2 – Option Paiement accéléré  
 _
