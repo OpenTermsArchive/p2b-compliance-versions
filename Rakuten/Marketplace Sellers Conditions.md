@@ -11,6 +11,8 @@ _Pour consulter la version des Conditions Particulières applicables aux Vendeur
 
 _Pour consulter la version des Conditions Particulières applicables aux Vendeurs Professionnels en vigueur du 08.09.2022 au 23.06.2023, cliquez [ici](http://global.fr.shopping.rakuten.com/wp-content/uploads/2023/06/CPVP_Rakuten_en_vigueur_entre_le_08092022_et23062023.pdf)._
 
+_Pour consulter la version des Conditions Particulières applicables aux Vendeurs Professionnels en vigueur du 24.06.2023 au 14.01.2024, cliquez [ici](https://fr.shopping.rakuten.com/cdn/legal/CPVP/6.0+-+Conditions+Particulieres+Pro+%28revisees+le+24.06.2023%29.pdf?vh=707d67&func=proxy)._
+
 Les présentes Conditions particulières ( les _«_ Conditions Particulières Pro_»_) ont pour objet de préciser les stipulations applicables aux relations entre Rakuten et les vendeurs agissant à titre professionnel (ci-après les _«_Vendeurs Professionnels_»_), et en particulier leurs obligations au sens de l'article 6.7 des [Conditions générales d'utilisation](https://fr.shopping.rakuten.com/newhelp/conditions-generales/).
 
 Les Conditions Particulières Pro, que le Vendeur Professionnel déclare accepter sans aucune restriction ni réserve, complètent en tant que de besoin les Conditions générales d'utilisation acceptées par tout utilisateur de la Plateforme Rakuten. En cas de contrariété entre les Conditions Particulières Pro et les Conditions générales d'utilisation, les premières prévaudront.
