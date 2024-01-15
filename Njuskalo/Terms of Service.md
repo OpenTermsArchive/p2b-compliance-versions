@@ -48,6 +48,7 @@ Predaja oglasa na Njuškalu
 37. Internetske veze (_linkovi_) s internetskog portala Njuškalo: dopušteno je jedino povezivanje na dodatni opis predmeta. _Linkovi_ na stranice koje oglašavaju razne usluge nisu dopušteni. Samo oni korisnici koji na internetskom portalu Njuškalo imaju otvorenu Njuškalo trgovinu mogu stavljati linkove i na vlastitu _web_ trgovinu koju imaju još dodatno postavljenu izvan okvira internetskog portala Njuškalo. _Linkovi_ na stranice koje su u tržišnom natjecanju s Njuškalom nisu dopuštene. Njuškalo zadržava diskrecijsko pravo procjene hoće li neki _link_ odobriti ili neće.
 38. Njuškalo zadržava pravo brisanja, odnosno neobjavljivanja oglasa koji ne zadovoljavaju određeni kriterij ili su u suprotnosti s ovim pravilima i uvjetima.
 39. Njuškalo ima pravo ukloniti, urediti, izmijeniti ili odbiti objavu oglasa, i to bez najave, a to će se dogoditi u sljedećim okolnostima:
+    * kad je oglas u suprotnosti s pravilima oglašavanja koja se nalaze u [aneksu Uvjeta i pravila korištenja](https://www.njuskalo.hr/?ctl=help&content_id=386)
     * kad je oglas predan u pogrešnu rubriku
     * kad proizvod i/ili oglašivač krši autorska prava i/ili druga prava intelektualnog vlasništva
     * kad proizvod može uzrokovati štetu i/ili prekršiti prava intelektualnog vlasništva nekom drugom, na bilo koji način
