@@ -48,7 +48,6 @@ Predaja oglasa na Njuškalu
 37. Internetske veze (_linkovi_) s internetskog portala Njuškalo: dopušteno je jedino povezivanje na dodatni opis predmeta. _Linkovi_ na stranice koje oglašavaju razne usluge nisu dopušteni. Samo oni korisnici koji na internetskom portalu Njuškalo imaju otvorenu Njuškalo trgovinu mogu stavljati linkove i na vlastitu _web_ trgovinu koju imaju još dodatno postavljenu izvan okvira internetskog portala Njuškalo. _Linkovi_ na stranice koje su u tržišnom natjecanju s Njuškalom nisu dopuštene. Njuškalo zadržava diskrecijsko pravo procjene hoće li neki _link_ odobriti ili neće.
 38. Njuškalo zadržava pravo brisanja, odnosno neobjavljivanja oglasa koji ne zadovoljavaju određeni kriterij ili su u suprotnosti s ovim pravilima i uvjetima.
 39. Njuškalo ima pravo ukloniti, urediti, izmijeniti ili odbiti objavu oglasa, i to bez najave, a to će se dogoditi u sljedećim okolnostima:
-    * kad je oglas u suprotnosti s pravilima oglašavanja koja se nalaze u [aneksu Uvjeta i pravila korištenja](https://www.njuskalo.hr/?ctl=help&content_id=386)
     * kad je oglas predan u pogrešnu rubriku
     * kad proizvod i/ili oglašivač krši autorska prava i/ili druga prava intelektualnog vlasništva
     * kad proizvod može uzrokovati štetu i/ili prekršiti prava intelektualnog vlasništva nekom drugom, na bilo koji način
@@ -60,6 +59,7 @@ Predaja oglasa na Njuškalu
     * kad se oglašava potražnja
     * kad postoji sumnja na zloupotrebu internetskog portala Njuškalo
     * kad cijena navedena u oglasu nije stvarna prodajna cijena
+    * kad je oglas u suprotnosti s pravilima oglašavanja koja se nalaze u [aneksu Uvjeta i pravila korištenja](https://www.njuskalo.hr/?ctl=help&content_id=386)
     * Njuškalo zadržava pravo izmjene i dopune pojedinog oglasa, a da se pri tome ne mijenja sadržaj predmetnog oglasa (lektorske intervencije, dopuna podataka i slično).
 40. Objavom oglasa na internetskom portalu Njuškalo korisnik se obvezuje da će savjesno odgovarati na upite ostalih korisnika (na telefon ili e-poštom). Korisnik mora imati aktivnu adresu elektroničke pošte gdje redovito pregledava poštu.
 41. Korisnici svojim zahtjevom za objavu oglasa neopozivo ovlašćuju Njuškalo da se tim sadržajem koristi, kopira ga, objavljuje te distribuira i u drugim medijima. Njuškalo u drugim medijima neće objaviti korisnikove osobne podatke, nego samo sadržaj oglasa i _link_ na internetski portal Njuškalo.
