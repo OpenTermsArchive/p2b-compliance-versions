@@ -1,7 +1,7 @@
 How Bing delivers search results
 ================================
 
-Last updated: September 2023
+Last updated: January 2024
 
 _For previous versions, please see the archives  [here](https://www.bing.com/bingpolicies/archives)._
 
@@ -130,9 +130,9 @@ Answers
 
 Generative AI Features
 
-Bing’s generative AI features include the new Bing conversational experiences and the Bing Image Creator. The conversational experiences build on the existing Bing experience to provide users with a new type of natural language search interface, built on “large language model” technology. The sources the chat response uses to form its answer are derived from the same ranking of third-party search results as the main web search results page.  These results are displayed clearly to the user giving them the opportunity to dive deeper by visiting the 3rd party site. Based on the user query or prompt, the model may also produce output that helps inspire the user’s creativity. The output can serve as the inspiration for a poem, a story, code, an essay, a song, or anything else that can be expressed in natural language or in an image, depending on the nature of a user’s request.
+Bing’s generative AI features include Copilot in Bing conversational experiences, Image Creator from Designer, Copilot Pro, and Copilot GPTs and GPT Builder (coming soon). The conversational experiences build on the existing Bing experience to provide users with a new type of natural language search interface, built on “large language model” technology. The sources Copilot response uses to form its answer are derived from the same ranking of third-party search results as the main web search results page.  These results are displayed clearly to the user giving them the opportunity to dive deeper by visiting the 3rd party site. Based on the user query or prompt, the model may also produce output that helps inspire the user’s creativity. The output can serve as the inspiration for a poem, a story, code, an essay, a song, or anything else that can be expressed in natural language or in an image, depending on the nature of a user’s request.
 
-Bing's generative AI features were developed with responsible AI in mind.  Please see [The new Bing: Our Approach to Responsible AI](https://aka.ms/responsibleAI-newBing) for more detail. User activity in these features is governed by the service’s [Terms of Use](https://aka.ms/microsoftbingtermsofuse) and Code of Conduct.
+Bing's generative AI features were developed with responsible AI in mind.  Please see [Our Approach to Responsible AI](https://aka.ms/responsibleAI-newBing) for more detail. User activity in these features is governed by the service’s [Terms of Use](https://aka.ms/microsoftbingtermsofuse) and Code of Conduct.
 
 ### 
 
@@ -291,13 +291,13 @@ While we do not remove such content entirely from our index, we apply algorithmi
 
 ### Safety in Enhanced Search Features 
 
-**Moderation in Bing conversational search and Bing Image Creator** 
+**Moderation in Copilot in Bing** 
 
-Bing conversational search builds on the existing Bing experience to provide users with a new search interface and conversational experience. Content that appears in conversational search and similar features is subject to the same moderation principles as other content appearing in search results; where applicable, Bing may remove content in conversational search or Image Creator that is in violation of applicable laws or Microsoft policies, including the Bing Conversational Search and Image Creator terms and Code of Conduct.
+Copilot in Bing builds on the existing Bing experience to provide users with a new search interface and conversational experience. Copilot in Bing also include features such as Image Creator from Designer, Copilot Pro and Copilot GPTs and GPT Builder (coming soon). Content that appears in conversational search and similar features is subject to the same moderation principles as other content appearing in search results; where applicable, Bing may remove content in Copilot in Bing that is in violation of applicable laws or Microsoft policies, including the [Copilot in Bing terms and Code of Conduct](https://www.bing.com/new/termsofuse).
 
 We are constantly working to improve our search results. In some cases we may limit how we display content in conversational search or Image Creator in order to prevent users from being unexpectedly exposed to misleading or harmful information.  Users can always view a full set of search results relevant to their query on the main Bing search results page.
 
-All inputs or data provided by users to power conversational search experiences and Bing Image Creator, as well as use of generated outputs, are subject to the Terms of Use \[link: www.bing.com/new/termsofuse\]. In certain cases, Bing may restrict access to the service to users who seriously or repeatedly violate the Terms of Use or Code of Conduct. Users can report problematic content appearing in conversational search and Image Creator by sending feedback using the “feedback” button which is always available at the bottom of Bing search pages, or using the Report a Concern form, which is linked from the Feedback interface and in Bing Help.
+All inputs or data provided by users to power Copilot in Bing, as well as use of generated outputs, are subject to the [Terms of Use](https://www.bing.com/new/termsofuse). In certain cases, Copilot Bing may restrict access to the service to users who seriously or repeatedly violate the Terms of Use or Code of Conduct. Users can report problematic content appearing in Copilot in Bing by sending feedback using the “feedback” button which is always available at the bottom of Copilot pages, or using the Report a Concern form, which is linked from the Feedback interface and in Bing Help.
 
 **Providing helpful search suggestions**
 
