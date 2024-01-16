@@ -1,6 +1,6 @@
 **1\. DEFINITII SI TERMENI**
 
-**eMAG** – este denumirea comerciala a S.C. DANTE INTERNATIONAL S.A., persoana juridica de nationalitate romana, avand sediul social in Bucuresti, Soseaua Virtutii nr. 148, sector 6, avand numar de ordine in Registrul Comertului J40/372/23.01.2002, cod unic de inregistrare fiscala RO14399840.
+**eMAG** – este denumirea comerciala a societatii **DANTE INTERNATIONAL S.A.,** persoana juridica romana, avand sediul social situat in Bucuresti, Soseaua Virtutii nr. 148, Spatiul E47, sector 6, avand numar de ordine in Registrul Comertului J40/372/23.01.2002, cod unic de inregistrare  RO 14399840.
 
 **Vanzator** – eMAG sau orice partener din eMAG Marketplace.
 
@@ -44,21 +44,21 @@ Listele pot fi:
 * informatii legate de Bunurile si/sau Serviciile si/sau tarifele practicate de Vanzator intr-o anumita perioada;
 * informatii legate de Bunurile si/sau Serviciile si/sau tarifele practicate de catre un tert cu care Vanzatorul are incheiate contracte de parteneriat, intr-o anumita perioada;
 
-**_Review_** _– o evaluare scrisa de catre detinatorul sau beneficiarul unui Bun sau Serviciu, evaluare redactata pe baza experientei personale si a capacitatii acestuia de a realiza comentarii calitative și de a spune daca Bunul sau Serviciul respecta sau nu specificatiile mentionate de catre producator**, cu exceptia Bunurilor, produselor, din categoria “Tutun&tigari”, in acord cu dispozitiile legale in vigoare .**_
+**_Review_** _– o evaluare scrisa de catre detinatorul sau beneficiarul unui Bun sau Serviciu, evaluare redactata pe baza experientei personale si a capacitatii acestuia de a realiza comentarii calitative și de a spune daca Bunul sau Serviciul respecta sau nu specificatiile mentionate de catre producator**, cu exceptia Bunurilor, produselor, din categoria “Tutun&tigari”, in acord cu dispozitiile legale in vigoare .** Prezenta exceptie nu se va aplica la Bunurile, produsele din „_[_Articole si accesorii tutun_](https://www.emag.ro/articole-si-accesorii-tutun/c?tree_ref=2219&ref=cat_tree_2724)_“._
 
-**_Rating_** _– modalitate de exprimare a gradului de satisfactie a unui Utilizator/Client/Cumparator fata de un produs, **cu exceptia celor din categoria “Tutun&tigari”, in acord cu dispozitiile legale in vigoare**. Rating-ul se exprima sub forma de stele, fiecare Bun putand primi un punctaj de la o stea, la cinci stele. Acest grad de satisfactie va fi asociat intotdeauna review-ului scris de Utilizator/Client/Cumparator asupra unui Bun sau Serviciu._
+**_Rating_** _– modalitate de exprimare a gradului de satisfactie a unui Utilizator/Client/Cumparator fata de un produs, **cu exceptia celor din categoria “Tutun&tigari”, in acord cu dispozitiile legale in vigoare**. Exceptia nu este aplicabila pentru produsele din “Articole si accesorii tutun”. Rating-ul se exprima sub forma de stele, fiecare Bun putand primi un punctaj de la o stea, la cinci stele. Acest grad de satisfactie va fi asociat intotdeauna Review-ului  unui Bun sau Serviciu in acord cu prezentul Document._
 
-**_Comentariu_** _– apreciere sau observatie cu scop critic, pe marginea unui Review sau a unui alt comentariu. **In acord cu dispozitiile legale in vigoare, sunt excluse de la Comentarii, Bunurile din categoria “Tutun&tigari”.**_
+**_Comentariu_** _– apreciere sau observatie cu scop critic, pe marginea unui Review sau a unui alt comentariu. **In acord cu dispozitiile legale in vigoare, sunt excluse de la Comentarii, Bunurile din categoria “Tutun&tigari”, cu exceptia produselor din “Articole si accesorii tutun”..**_
 
-**_Intrebare_** _– formula de adresare catre alti Utilizatori/Clienti/Cumparatori cu scopul de a obtine informatii despre Bunurile sau Serviciile din pagina respectiva, **cu exceptia Bunurilor din categoria “Tutun&tigari” in acord cu dispozitiile legale incidente.**_
+**_Intrebare_** _– formula de adresare catre alti Utilizatori/Clienti/Cumparatori cu scopul de a obtine informatii despre Bunurile sau Serviciile din pagina respectiva, **cu exceptia Bunurilor din categoria “Tutun&tigari” in acord cu dispozitiile legale incidente.** Prezenta exceptie nu se va aplica la Bunurile, produsele din „_[_Articole si accesorii tutun_](https://www.emag.ro/articole-si-accesorii-tutun/c?tree_ref=2219&ref=cat_tree_2724)_“._
 
-**_Raspuns_** _– informatie scrisa ce este transmisa Utilizatorului/Clientului/Cumparatorului care a adresat o Intrebare in Site, in pagina unui anumit Bun. Raspunsul reprezinta o explicatie oferita de un Utilizator/Client/Cumparator unui alt Utilizator/Client/Cumparator in cadrul unei discutii. **Prin exceptie, Utilizatorul/Clientul/Cumparatorul nu va putea transmite intrebari, comentarii, raspunsuri in legatura cu Bunurile din categoria “Tutun&tigari” nefiind permise de asemenea Review-urile, ori Ratingurile acestora, in acord cu dispozitiile legale din Romania.**_
+**_Raspuns_** _– informatie scrisa ce este transmisa Utilizatorului/Clientului/Cumparatorului care a adresat o Intrebare in Site, in pagina unui anumit Bun. Raspunsul reprezinta o explicatie oferita de un Utilizator/Client/Cumparator unui alt Utilizator/Client/Cumparator in cadrul unei discutii. **Prin exceptie, Utilizatorul/Clientul/Cumparatorul nu va putea transmite intrebari, comentarii, raspunsuri in legatura cu Bunurile din categoria “Tutun&tigari” nefiind permise de asemenea Review-urile, ori Ratingurile acestora, in acord cu dispozitiile legale din Romania. Exceptia anterioara nu va fi aplicabila in cazul produselor din** “Articole si accesorii tutun”**.**_
 
 **Document** – prezentele Termene si Conditii.
 
 **Comunicari Comerciale** – orice tip de mesaj trimis (cum ar fi: e-mail/SMS/telefonic/mobile push/webpush/etc.)  continand informatii generale si tematice, informatii cu privire la produse similare sau complementare cu cele pe care le-ati achizitionat, informatii cu privire la ofertele sau promotiile eMAG sau ale Grupului eMAG, informatii referitoare la Bunuri si Servicii adaugate in sectiunea “Cont/Cosul meu” sau sectiunea  “Cont/Favorite” precum si alte comunicari comerciale cum ar fi cercetari de piata si sondaje de opinie.
 
-**Grupul eMAG** – include i) orice societate sau entitate în care Dante International S.A. (persoană juridică română cu sediul social: București, Şoseaua Virtuții nr. 148, sector 6, înscrisă în Registrul Comerțului sub numărul J40/372/23.01.2002, cod de identificare fiscală RO14399840) deține direct sau indirect 50% dsau maim ult din acțiunile sau partile de interese cu drept de vot ale Dante International S.A.; sau (ii) orice societate sau entitate care deține direct sau indirect 50% sau mai mult din acțiunile sau parțile de interese cu drept de vot ale Dante International S.A.; sau (iii) orice societate sau entitate care direct sau indirect controlează sau se află sub controlul unei societati sau entități descrise la (i) sau (ii).
+**Grupul eMAG** – include i) orice societate sau entitate în care Dante International S.A. (_persoană juridică română cu sediul social: București, Şoseaua Virtuții nr. 148, sector 6, înscrisă în Registrul Comerțului sub numărul J40/372/23.01.2002, cod de identificare fiscală RO14399840_) deține direct sau indirect 50% dsau maim ult din acțiunile sau partile de interese cu drept de vot ale Dante International S.A.; sau (ii) orice societate sau entitate care deține direct sau indirect 50% sau mai mult din acțiunile sau parțile de interese cu drept de vot ale Dante International S.A.; sau (iii) orice societate sau entitate care direct sau indirect controlează sau se află sub controlul unei societati sau entități descrise la (i) sau (ii).
 
 **Tranzactie** – incasarea sau rambursarea unei sume rezultata din vanzarea unui Bun si/sau Serviciu de catre eMAG, Cumparatorului, prin utilizarea serviciilor procesatorului de carduri agreat de catre Vanzator, indiferent de modalitatea de livrare.
 
@@ -216,7 +216,7 @@ Orice diminuare a valorii Bunurilor rezultata din manipularea acestora altele de
 
 **6.12. Plasarea unei comenzi prin metodele de plata “Plateste peste 30 zile” si “Plateste in 4 rate**
 
-Te rog sa parcurgi Termeni și Condiții [Speciale](https://s13emagst.akamaized.net/layout/ro/static-upload/emag-tcs-modalitati-de-plata-30-zile-4-rate-12-09-2023.pdf) [\[CG|eL1\]](#_msocom_1) [\[PI2\]](#_msocom_2) cu privire la modalitățile de plată „Plătește peste 30 de zile” & „Plătește în 4 rate” disponibile în Platforma eMAG, care face parte din prezentul Document.
+Te rog sa parcurgi Termeni și Condiții [Speciale](https://s13emagst.akamaized.net/layout/ro/static-upload/emag-tcs-modalitati-de-plata-30-zile-4-rate-12-09-2023.pdf)  cu privire la modalitățile de plată „Plătește peste 30 de zile” & „Plătește în 4 rate” disponibile în Platforma eMAG, care face parte din prezentul Document.
 
 7. **BUNURI/SERVICII PENTRU CARE NU SE ASIGURA DREPTUL DE RETRAGERE**
 
@@ -436,7 +436,7 @@ Mai multe informatii [aici](https://s13emagst.akamaized.net/layout/ro/static-up
 
 16. **PRELUCRAREA DATELOR CU CARACTER PERSONAL**
 
-16.1. Te rog sa parcurgi [Politica de Confidențialitate](https://www.emag.ro/info/prelucrarea-datelor-cu-caracter-personal) cu privire la prelucrarea datelor cu caracter personal, care face parte din prezentul Document.
+16.1. Te rog sa parcurgi [Politica de Confidențialitate](https://www.emag.ro/info/prelucrarea-datelor-cu-caracter-personal) cu privire la prelucrarea datelor cu caracter personal, care face parte din prezentul Document.
 
 16.2. Totodata, te rugam frumos sa ai in vedere ca atunci cand interactionezi telefonic cu reprezentantii eMAG, aceste convorbiri vor fi inregistrate in vederea identificarii nevoilor tale, analizarii calitatii serviciilor oferite de eMAG si imbunatatirii acestora.
 
@@ -674,5 +674,3 @@ Masini de spalat vase de uz casnic pentru 4 seturi (model de sine statator):
 (d) indicele de eficienta a uscarii: 1,08 ≥ I D > 0,86;
 
 (e) emisii de zgomot transmis prin aer: 53 dB(A) re 1pW.
-
-* * *
