@@ -30,6 +30,7 @@ Diese AGB-HB regeln das Vertragsverhältnis zwischen mobile.de und den Nutzern d
 6. Die über den mobile.de Dienst angebahnten Verträge zwischen einem Teilnehmer und einem Interessenten werden ohne Beteiligung von mobile.de und nicht im Rahmen des mobile.de Dienstes abgeschlossen und erfüllt.
     
 7. Die Teilnahme am mobile.de Online-Kauf ist Gegenstand eines gesonderten, zwischen dem jeweiligen Teilnehmer und mobile.de geschlossenen Vertrags. Soweit in diesem gesondert geschlossenen Vertrag nicht explizit anders vorgesehen, finden diese AGB-HB auf den mobile.de Online-Kauf und die in dessen Rahmen erstellten Inserate keine Anwendung.  
+      
     
 
 **§ 2 Vertragsgegenstand und Leistungsumfang**
@@ -59,7 +60,7 @@ Der Teilnehmer versichert, dass er die in den mobile.de Dienst eingestellten Inh
     
 8. mobile.de behält sich ferner vor, zwecks Verbesserung des Nutzererlebnisses neue oder veränderte Funktionen und Features beschränkt auf bestimmte Nutzergruppen zu testen, soweit dies den Teilnehmern unter Berücksichtigung der berechtigten Interessen von mobile.de zumutbar ist. Dies kann zu unterschiedlichen Darstellungen bei verschiedenen Nutzern führen.
     
-9. mobile.de behält sich vor, die tägliche Anzahl an Einspielungen von Datensätzen durch einen Teilnehmer zu begrenzen, sofern dies aus technischen Gründen, insbesondere aus Kapazitätsgründen erforderlich ist. Dies gilt insbesondere für die Datenübertragung über die von mobile.de hierfür zur Verfügung gestellten Schnittstellen.
+9. mobile.de behält sich vor, die tägliche Anzahl an Einspielungen von Datensätzen durch einen Teilnehmer zu begrenzen, sofern dies aus technischen Gründen, insbesondere aus Kapazitätsgründen, erforderlich ist. Dies gilt insbesondere für die Datenübertragung über die von mobile.de hierfür zur Verfügung gestellten Schnittstellen.
     
 10. mobile.de bietet über den mobile.de Dienst auch die Vermittlung von Finanzdienstleistungen an, insbesondere zur Finanzierung von inserierten Fahrzeugen. Bei der sog. Händlerfinanzierung erfolgt die Vermittlung an die mit dem Händler und mobile.de kooperierende Partnerbank, im Übrigen an bzw. über andere mit mobile.de kooperierende Banken und sonstige Finanzdienstleister. Darüber hinaus steht es Teilnehmern frei, im Rahmen der hierfür von mobile.de entgeltlich angebotenen Funktion die Vermittlung einer Finanzierung mit anderen Banken oder Finanzdienstleistern anzubieten, mit denen der Teilnehmer kooperiert. Im Übrigen ist Teilnehmern das Angebot bzw. die Vermittlung einer Finanzierung oder sonstigen Finanzdienstleistung über den mobile.de Dienst nicht gestattet.
     
@@ -70,11 +71,12 @@ Der Teilnehmer versichert, dass er die in den mobile.de Dienst eingestellten Inh
 
 Oben in den Suchergebnissen werden solche Inserate angezeigt, die am besten zu der Suchanfrage und den bisher von dem jeweiligen Nutzer durchgeführten Suchen und angesehenen Inseraten passen und daher die größte Relevanz für den Nutzer haben. Bei ähnlicher Relevanz können Inserate abhängig vom gebuchten Händler-Paket (und weiterer hinzubuchbarer Optionen) weiter oben angezeigt werden.
 
-mobile.de ermöglicht es den Nutzern zudem, die Suche derart einzustellen, dass in den mobile.de Suchergebnissen auch Inserate der Kategorie Leasing-Angebot angezeigt werden. Hierbei werden auch solche Leasing-Angebote angezeigt, die von Teilnehmern ursprünglich über eine andere mit mobile.de verbundene Plattform eingestellt wurden. Die Reihenfolge aller Leasing-Angebote in den Suchergebnissen richtet sich dabei nach den folgenden Hauptparametern: a. Datum des Einstellens, b. Verhältnis von Kilometerstand zum Fahrzeugalter, c. nutzerpräferierte Automarke, d. nutzerpräferiertes Fahrzeugmodell, e. Leasing-Faktor, f. monatliche Leasingrate.
+mobile.de ermöglicht es den Nutzern zudem, die Suche derart einzustellen, dass in den mobile.de Suchergebnissen auch Inserate der Kategorie Leasing-Angebote angezeigt werden. Hierbei werden auch solche Leasing-Angebote angezeigt, die von Teilnehmern ursprünglich über eine andere mit mobile.de verbundene Plattform eingestellt wurden. Die Reihenfolge aller Leasing-Angebote in den Suchergebnissen richtet sich dabei nach den folgenden Hauptparametern: a. Datum des Einstellens, b. Verhältnis von Kilometerstand zum Fahrzeugalter, c. nutzerpräferierte Automarke, d. nutzerpräferiertes Fahrzeugmodell, e. Leasing-Faktor, f. monatliche Leasingrate.
 
 Mehr Informationen zu den [mobile.de Nachfragewerkzeugen](https://promo.mobile.de/sites/unserangebot/nachfrage/nachfrage-funktionen/?lang=de).
 
-13. Im Rahmen des mobile.de Online-Kauf von mobile.de selbst eingestellte Inserate werden von mobile.de bei der Sortierung der Suchergebnisse mit Inseraten der Teilnehmer gleichbehandelt. Dem Nutzer wird allerdings die Möglichkeit eingeräumt, bei der Suche nach mobile.de Online-Kauf Inseraten zu filtern und in einer gesonderten Rubrik nach mobile.de Online-Kauf Inseraten zu suchen.  
+13. Im Rahmen des mobile.de Online-Kauf von mobile.de selbst eingestellte Inserate werden von mobile.de bei der Sortierung der Suchergebnisse mit Inseraten der Teilnehmer gleichbehandelt. Dem Nutzer wird allerdings die Möglichkeit eingeräumt, bei der Suche nach mobile.de Online-Kauf-Inseraten zu filtern und in einer gesonderten Rubrik nach mobile.de Online-Kauf-Inseraten zu suchen.  
+      
     
 
 **§ 3 Anmeldung und Vertragsschluss, Teilnehmerkonto und Zugangsdaten**
@@ -102,6 +104,7 @@ Durch die Anmeldung und Übermittlung der Daten des Teilnehmers über das von mo
 11. mobile.de wird das Passwort eines Teilnehmers nicht an Dritte weitergeben und den Teilnehmer nie per E-Mail oder Telefon nach dem Passwort fragen.
     
 12. Der Teilnehmer haftet grundsätzlich für sämtliche Aktivitäten, die unter Verwendung seiner Zugangsdaten oder von ihm nach Nr. 8 dieses § 3 autorisierten Nutzerzugängen zu seinem Teilnehmerkonto vorgenommen werden, insbesondere auch für sämtliche Aktivitäten seiner einzelnen Nutzer, sofern ein Teilnehmer über mehrere Zugänge verfügt. Hat der Teilnehmer den Missbrauch der Zugangsdaten nicht zu vertreten, weil eine Verletzung der bestehenden Sorgfaltspflichten nicht vorliegt, so haftet er nicht.  
+      
     
 
 **§ 4 Überprüfung; Löschung von Angeboten, Sperrung, Kündigung und sonstige Maßnahmen**
@@ -135,6 +138,7 @@ Ein wichtiger Grund für mobile.de liegt vor, wenn der Teilnehmer einen gewichti
 8. Ergreift mobile.de eine der Maßnahmen gemäß diesem § 4, insbesondere bei einer Einschränkung, Sperrung oder Beendigung bzw. Kündigung, haben die Teilnehmer die Möglichkeit, die einer solchen Maßnahmen zugrunde liegenden Tatsachen und Umstände im Rahmen des internen Beschwerdemanagementverfahrens von mobile.de (vgl. § 13 Nr. 3 dieser AGB-HB) zu klären.
     
 9. Für den Fall der Wiederaufnahme der Vertragsbeziehungen und Wiedereinrichtung eines Teilnehmers nach einer berechtigten Kündigung oder endgültigen Sperrung durch mobile.de nach Nr. 2 dieses § 4, ist mobile.de berechtigt, eine Wiedereinrichtungsgebühr gemäß der jeweils gültigen [Preisliste für den Händlerbereich](https://www.mobile.de/service/pricelistDealer?lang=de) zu verlangen.  
+      
     
 
 **§ 5 Abrechnung, Fälligkeit und Höhe der Vergütung, Zahlung**
@@ -155,6 +159,7 @@ Der Teilnehmer hat die Möglichkeit, über die hierzu vorgesehene Funktion in se
 6. Bei der Zahlung im Wege des SEPA-Lastschriftverfahrens wird der in der Rechnung ausgewiesene Endbetrag nach Fälligkeit vom Konto des Teilnehmers abgebucht. Die Höhe des Endbetrags und Fälligkeit werden dem Teilnehmer mindestens fünf Tage vor Fälligkeit angekündigt; die Frist für die SEPA-Vorabinformation wird dementsprechend auf fünf Tage verkürzt. Der Teilnehmer hat jederzeit für eine entsprechende Deckung seines Kontos zu sorgen.
     
 7. Der Teilnehmer hat alle Kosten zu ersetzen, die dadurch entstehen, dass eine Lastschrift nicht eingelöst wird und der Teilnehmer dies zu vertreten hat.  
+      
     
 
 **§ 6 Preisänderungen / Änderung der AGB-HB**
@@ -162,6 +167,7 @@ Der Teilnehmer hat die Möglichkeit, über die hierzu vorgesehene Funktion in se
 1. Preisänderungen werden von mobile.de so rechtzeitig angekündigt, dass der Teilnehmer das Vertragsverhältnis unter Einhaltung der vertraglich vereinbarten Kündigungsfrist mit Beendigungszeitpunkt vor Geltung der neuen Preise beenden kann. Soweit er dieses Recht nicht ausübt und die Leistungen von mobile.de nach dem Geltungsdatum der Preisänderung weiter in Anspruch nimmt, wird die Preisänderung für beide Vertragspartner verbindlich. Die Abrechnung erfolgt auf der Grundlage der Preisänderung.
     
 2. mobile.de kann den Teilnehmern Änderungen dieser AGB-HB mit einer angemessenen Frist anbieten ("Änderungsangebot"), die jedoch die Dauer von 15 Tagen nicht unterschreiten darf. Die geänderten Bedingungen werden den Teilnehmern auf einem dauerhaften Datenträger (z. B. per E-Mail) spätestens 15 Tage vor ihrem Wirksamwerden zur Verfügung gestellt. Das Änderungsangebot von mobile.de gilt als angenommen, sofern der Änderung nicht innerhalb von 15 Tagen nach Bekanntgabe in Textform (z. B. per Brief, Telefax oder E-Mail) widersprochen wird. Wenn der Teilnehmer mit den Änderungen nicht einverstanden ist, steht ihm bis zu dem vorgeschlagenen Zeitpunkt des Wirksamwerdens der Änderungen ein fristloses und kostenfreies Kündigungsrecht zu. mobile.de weist den Teilnehmer in der Nachricht, mit der die Änderungen angeboten werden, auch noch einmal besonders auf das Ablehnungsrecht, die Frist dafür und die Möglichkeit zur Kündigung hin. Die geänderten AGB-HB werden zusätzlich auf der Website von mobile.de veröffentlicht.  
+      
     
 
 **§ 7 Anforderungen an die Inhalte und Aufmachung der Inserate**
@@ -212,11 +218,13 @@ Insbesondere nicht gestattet ist die Aufgabe von Inseraten, die gerichtet sind a
 14. Es ist grundsätzlich nicht gestattet, Verweise (Links) auf externe Websites, andere Dienste und Informationsquellen in ein Inserat einzufügen, es sei denn diese sind gesetzlich zwingend erforderlich. Als Links gelten dabei auch E-Mail-Adressen und nicht aktivierte Web-Adressen (URLs) und Teile davon. Ausgenommen sind in den Freitext des Inserats eingefügte Links zu eigenen, extern abgelegten Fahrzeugbildern, PDF-Dateien und Videos, wenn diese Zusatzinformationen über das angebotene Fahrzeug enthalten (z. B. Fahrzeuggutachten, Betriebsanleitung, etc.).
     
 15. Unzulässig ist die Angabe von Telefonnummern, insbesondere der Rufnummernbereiche (0)900 und (0)180, durch deren Anwahl beim Anrufer erhöhte Telefongebühren entstehen.  
+      
     
 
 **§ 8 Datenschutz**
 
 Der Teilnehmer verpflichtet sich, personenbezogene Daten von anderen Nutzern, welche er über den mobile.de Dienst (z. B. über die Nachrichtenfunktion) erhält, lediglich für die Bearbeitung und Beantwortung der jeweiligen Anfrage zu verarbeiten und zu nutzen. Eine weitergehende Nutzung dieser Daten, darf nur bei Vorliegen der gesetzlichen Voraussetzungen erfolgen, für werbliche Zwecke z. B. nach Einholung der erforderlichen Einwilligung(en) der Betroffenen (siehe auch die [mobile.de Datenschutzerklärung](https://www.mobile.de/service/privacyPolicy?lang=de)).  
+  
 
 **§ 9 Verantwortlichkeit für den Inhalt der Inserate; Upload von Fahrzeugen**
 
@@ -227,6 +235,7 @@ Der Teilnehmer verpflichtet sich, personenbezogene Daten von anderen Nutzern, we
 3. mobile.de übernimmt keine Gewährleistung oder Haftung dafür, dass die Inserate den gesetzlichen Bestimmungen genügen.
     
 4. mobile.de übernimmt insbesondere keine Gewährleistung oder Haftung dafür, dass Kauf- oder Leasingverträge, die im Zusammenhang mit mobile.de Inseraten angebahnt oder abgeschlossen werden, nach dem nationalen Recht eines berührten Staates durchsetzbar sind oder in sonstiger Weise bei einer oder beiden Vertragsparteien des Kauf- oder Leasingvertrages die gewünschten rechtlichen oder wirtschaftlichen Folgen hat.  
+      
     
 
 **§ 10 Datenbankaktualität, Fahrzeugsuche, Löschen von Inseraten, Administrieren, Sicherungskopien**
@@ -238,6 +247,7 @@ Der Teilnehmer verpflichtet sich, personenbezogene Daten von anderen Nutzern, we
 3. Jeder Teilnehmer ist verpflichtet, Sicherungskopien von seinem Datenbestand einschließlich der Fahrzeugfotos zu erstellen, um im Falle des Datenverlustes die Inserate schnell wiederherstellen zu können. Die Datensicherung erfolgt im Händlerbereich über den Menüpunkt "Bestand" und den Unterpunkt "Datensicherung".
     
 4. Jeder Teilnehmer ist dafür verantwortlich, mittels der mobile.de Dienste einsehbare und von mobile.de gespeicherte Informationen, die er zu Zwecken der Beweissicherung, Buchführung oder zu anderen Zwecken benötigt, auf einem von mobile.de unabhängigen Speichermedium zu archivieren.  
+      
     
 
 **§ 11 Manipulationen der Fahrzeugsuche, Scraping und Störung der Systemintegrität**
@@ -247,6 +257,7 @@ Der Teilnehmer verpflichtet sich, personenbezogene Daten von anderen Nutzern, we
 2. Aktivitäten, die darauf gerichtet sind, den mobile.de Dienst zu beeinträchtigen, sind untersagt. Der Teilnehmer darf keine Maßnahmen ergreifen, die eine unzumutbare oder übermäßige Belastung der Infrastruktur von mobile.de zur Folge haben können. Es ist dem Teilnehmer nicht gestattet, von mobile.de generierte Inhalte zu blockieren, zu überschreiben oder zu modifizieren oder in sonstiger Weise störend in den mobile.de Dienst einzugreifen.
     
 3. Die Suche im mobile.de Dienst dient Nutzern zum gezielten und schnellen Finden von Fahrzeugangeboten. Damit die Nutzer über geeignete Suchwörter die gewünschten Suchergebnisse erhalten, müssen sich die Textinhalte eines Inserats eindeutig auf das angebotene Fahrzeug beziehen. Es ist Teilnehmern daher untersagt, die Ergebnisse der Fahrzeugsuche des mobile.de Dienstes durch falsche oder irreführende Angaben oder Begriffe, durch das Einstellen in eine falsche Rubrik, durch technische Maßnahmen oder einen sonstigen Missbrauch von Funktionalitäten des mobile.de Dienstes zu verfälschen oder zu manipulieren. Insbesondere ist auch das sog. Keyword-Spamming untersagt. Unter Keyword-Spamming versteht man die Verwendung von Begriffen, die das eigentliche Fahrzeug nicht oder nur teilweise beschreiben und nur darauf ausgelegt sind, Interessenten zu dem Inserat zu locken. Das gilt auch für versteckte HTML-Texte und den unrechtmäßigen Gebrauch von Markennamen.  
+      
     
 
 **§ 12 Bewertungssystem**
@@ -264,6 +275,7 @@ Der Teilnehmer verpflichtet sich, personenbezogene Daten von anderen Nutzern, we
 6. Soweit der Teilnehmer einen Kunden über eine von mobile.de per E-Mail versandte Bewertungsanfrage um eine Bewertung bitten möchte, ist dies nur zulässig, sofern dieser Kunde zuvor eine persönliche Serviceerfahrung mit dem Teilnehmer gemacht hat und der Teilnehmer bei dem jeweiligen Kunden zuvor eine ausdrückliche Einwilligung zum Erhalt der Bewertungsanfrage von mobile.de und zur Weitergabe der E-Mail-Adresse des Kunden an mobile.de zum Zwecke des Versands der Bewertungsanfrage eingeholt hat, die den gesetzlichen Vorgaben entspricht. Sollte mobile.de aufgrund einer fehlenden Einwilligung von einem Dritten in Anspruch genommen werden, wird der Teilnehmer mobile.de von diesen Ansprüchen gem. § 14 dieser AGB-HB freistellen.
     
 7. mobile.de kann das Bewertungssystem als Teil des mobile.de Dienstes selbst und durch Dritte gem. der in § 2 Nr. 3 dieser AGB-HB niedergelegten Bestimmungen bewerben. Dem Teilnehmer ist eine Einbindung der Inhalte des Bewertungssystems (z. B. der Bewertungsergebnisse) außerhalb des mobile.de Dienstes untersagt, sofern mobile.de der Einbindung nicht schriftlich oder anderweitig (z. B. im Rahmen eines gewählten Service-Modells) ausdrücklich zugestimmt hat. Der Teilnehmer ist ohne entsprechende Zustimmung von mobile.de insbesondere nicht berechtigt, die Inhalte auf anderen Webseiten (z. B. seiner Homepage) oder in sonstige Werbematerialien einzubinden oder Verweise auf das Bewertungssystem bzw. dessen Inhalte aufzunehmen, etwa um das Vertrauen in sein Angebot zu erhöhen. Sofern die Einbindung mit Zustimmung durch mobile.de erfolgt, ist der Teilnehmer verpflichtet, die Einbindung unter Beachtung der ggf. gesondert dargestellten Bedingungen sowie gesetzlichen Regelungen vorzunehmen.  
+      
     
 
 **§ 13 Kundenservice, Meldeverfahren und internes Beschwerdemanagementsystem**
@@ -275,17 +287,20 @@ Der Teilnehmer verpflichtet sich, personenbezogene Daten von anderen Nutzern, we
 3. Darüber hinaus hat mobile.de ein internes Beschwerdemanagementsystem eingerichtet, das Teilnehmern insbesondere die Möglichkeit bietet, Beschwerden in Bezug auf die folgenden Probleme direkt bei mobile.de einzureichen, soweit sich diese auf den Teilnehmer auswirken: (i) mutmaßliche Nichteinhaltung der mobile.de treffenden gesetzlichen Vorschriften, (ii) technische Probleme, die in direktem Zusammenhang mit der Bereitstellung des mobile.de Dienstes stehen, sowie (iii) Maßnahmen oder Verhaltensweisen von mobile.de, die in direktem Zusammenhang mit der Bereitstellung des mobile.de Dienstes stehen. Das interne Beschwerdemanagement bietet betroffenen Teilnehmern außerdem die Möglichkeit, Beschwerde einzureichen gegen Entscheidungen von mobile.de darüber, (i) ob gemeldete Information entfernt oder der Zugang dazu gesperrt oder beschränkt wird, (ii) ob die Erbringung des mobile.de Dienstes gegenüber den betroffenen Teilnehmern vollständig oder teilweise ausgesetzt oder beendet wird; und (iii) ob das (Teilnehmer-)Konto des betroffenen Teilnehmers ausgesetzt oder geschlossen wird. Beschwerden gegen die vorgenannten Entscheidungen sind nur innerhalb von sechs Monaten ab dem Zeitpunkt möglich, an dem der Teilnehmer von der Entscheidung in Kenntnis gesetzt wurde. mobile.de bearbeitet Beschwerden, die über das interne Beschwerdemanagementsystem eingereicht werden, zeitnah, diskriminierungsfrei, sorgfältig und frei von Willkür. Enthält eine Beschwerde ausreichende Gründe für die Annahme, dass die Entscheidung, auf eine Meldung hin nicht tätig zu werden, unbegründet ist oder dass die Informationen, auf die sich die Beschwerde bezieht, weder rechtswidrig sind noch gegen diese AGB-HB oder gegen in diese AGB-HB einbezogene Bestimmungen (wie dem Kodex für den Fahrzeughandel im Internet) verstoßen, oder enthält sie Informationen, aus denen hervorgeht, dass das Verhalten des sich beschwerenden Teilnehmers oder sonstigen Nutzers keine Aussetzung oder Kündigung des mobile.de Dienstes oder Schließung des Teilnehmerkontos rechtfertigt, so macht mobile.de die jeweilige Entscheidung unverzüglich rückgängig. Nach Bearbeitung des Beschwerde-Falls informiert mobile.de den Teilnehmer oder sonstigen Nutzer unverzüglich über das Ergebnis der Bearbeitung und begründet seine Entscheidung. Zudem weist mobile.de in der begründeten Entscheidung auf die Möglichkeit der außergerichtlichen Streitbeilegung (vgl. § 19 Nr. 4 dieser AGB-HB) und etwaige andere verfügbare Rechtmittel hin. mobile.de stellt sicher, dass Beschwerden, die in Vertretung von Teilnehmern oder sonstigen Nutzern durch entsprechend gemäß der Verordnung (EU) 2022/2065 qualifizierte Einrichtungen, Organisationen oder Vereinigungen übermittelt werden, vorrangig und umgehend bearbeitet und entschieden werden. mobile.de überprüft sein internes Beschwerdemanagementsystem regelmäßig und hält die Wirksamkeit des internen Beschwerdemanagement in einem Bericht ([hier](https://www.mobile.de/service/complaintReport?lang=de)) fest.
     
 4. Soweit Teilnehmer häufig offensichtlich unbegründete Meldungen oder Beschwerden einreichen, setzt mobile.de die Bearbeitung von Meldungen und Beschwerden für einen angemessenen Zeitraum nach vorheriger Warnung aus. Das unter § 4 Nr. 5 dieser AGB-HB dargestellte Verfahren und die dortigen Hinweise gelten entsprechend für häufig offensichtlich unbegründete Meldungen und Beschwerden nach Satz 1.  
+      
     
 
 **§ 14 Freistellung**
 
 Der Teilnehmer stellt mobile.de von allen Ansprüchen frei, die Dritte wegen der Verletzung ihrer Rechte durch sein Inserat oder wegen der sonstigen Nutzung des mobile.de Dienstes durch den Teilnehmer gegen mobile.de geltend machen. Der Teilnehmer übernimmt hierbei auch die Kosten der notwendigen Rechtsverteidigung durch mobile.de einschließlich sämtlicher Gerichts- und Anwaltskosten. Dies gilt nicht, wenn und soweit die Rechtsverletzung nicht von dem Teilnehmer zu vertreten ist.  
+  
 
 **§ 15 Gewährleistung**
 
 1. mobile.de übernimmt keine Gewähr für die inhaltliche Richtigkeit und Aktualität der Daten, die die Teilnehmer in die mobile.de Datenbanken einstellen. Die mobile.de Datenbanken sind mindestens zu 97% im Monatsdurchschnitt verfügbar. Aufgrund der Durchführung von notwendigen Wartungsarbeiten und Verbesserungen kann es vorkommen, dass einzelne Funktionen kurzzeitig nicht zur Verfügung stehen.
     
 2. mobile.de ist von der Leistungspflicht in Fällen höherer Gewalt befreit. Als höhere Gewalt gelten alle unvorhergesehenen Ereignisse sowie solche Ereignisse, deren Auswirkungen auf die Vertragserfüllung von keiner Partei zu vertreten sind. Zu diesen Ereignissen zählen insbesondere rechtmäßige Arbeitskampfmaßnahmen, auch in Drittbetrieben, behördliche Maßnahmen, Ausfall von Kommunikationsnetzen und Gateways anderer Betreiber, Störungen im Bereich von Leitungsgebern, sonstige technische Störungen, auch wenn diese Umstände im Bereich von Unterauftragnehmern, Unterlieferanten oder deren Subunternehmern oder bei vom Anbieter autorisierten Betreibern von Subknotenrechnern auftreten. Ansprüche ergeben sich für den Teilnehmer bei nicht durch von mobile.de zu verantwortenden Ausfällen nicht.  
+      
     
 
 **§ 16 Haftungsbeschränkung**
@@ -297,6 +312,7 @@ Der Teilnehmer stellt mobile.de von allen Ansprüchen frei, die Dritte wegen der
 3. Eine Haftung für den Ersatz mittelbarer Schäden, insbesondere für entgangenen Gewinn, besteht nur bei Vorsatz oder grober Fahrlässigkeit gesetzlicher Vertreter, leitender Angestellter oder sonstiger Erfüllungsgehilfen von mobile.de.
     
 4. Die vorgenannten Haftungsausschlüsse und Beschränkungen gelten nicht im Fall der Übernahme ausdrücklicher Garantien durch mobile.de und für Schäden aus der Verletzung des Lebens, des Körpers oder der Gesundheit sowie im Fall zwingender gesetzlicher Regelungen.  
+      
     
 
 **§ 17 Urheber- und Nutzungsrechte**
@@ -304,6 +320,7 @@ Der Teilnehmer stellt mobile.de von allen Ansprüchen frei, die Dritte wegen der
 1. Alle Daten, Informationen, Firmenzeichen, Texte, Programme und Bilder der über den mobile.de Dienst eingestellten Inserate und sonstiger Inhalte (z. B. Bewertungen und Antworten im Rahmen des Bewertungssystems) können dem Urheberrecht unterliegen. Ferner unterliegen auch die sonstigen über den mobile.de Dienst abrufbaren Bilder dem Urheberrecht. Die Veränderung, Weiterverarbeitung und Nutzung in Medien aller Art durch Dritte ist nicht gestattet. Die Rechte des jeweiligen Urhebers und des Teilnehmers bleiben hiervon unberührt.
     
 2. Sofern der Teilnehmer von mobile.de angebotene Services oder Tools zur Erstellung von Videos oder sonstigen Inhalten zur Nutzung in seinen Inseraten in Anspruch nimmt, ist eine Nutzung der solchermaßen erstellten Videos oder sonstigen Inhalte außerhalb der Inserate des Teilnehmers nur mit vorheriger Zustimmung von mobile.de gestattet.  
+      
     
 
 **§ 18 Ausübung der Rechte durch Dritte, Vertragsübernahme**
@@ -311,6 +328,7 @@ Der Teilnehmer stellt mobile.de von allen Ansprüchen frei, die Dritte wegen der
 1. Zum Zwecke der Vertragserfüllung und Ausübung der aus diesem Nutzungsvertrag erwachsenden Rechte kann sich mobile.de verbundener Unternehmen bedienen.
     
 2. mobile.de ist berechtigt, mit einer Ankündigungsfrist von vier Wochen seine Rechte und Pflichten aus diesem Vertragsverhältnis ganz oder teilweise auf einen Dritten zu übertragen. In diesem Fall ist der Teilnehmer berechtigt, den Nutzungsvertrag zu kündigen.  
+      
     
 
 **§ 19 Schlussbestimmungen**
