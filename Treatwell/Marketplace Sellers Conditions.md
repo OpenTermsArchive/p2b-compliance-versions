@@ -1,7 +1,7 @@
 Partner Terms of Business
 -------------------------
 
-Last Updated May 2023
+Last Updated January 2024
 
 1. **THE BASICS**
     1. **About us.** Hi! We’re Treatwell! Under these Terms, we’ll call ourselves **Treatwell**, **we**, **us** or **our**. We are present in many different markets around Europe. Which of our companies you are contracting with depends on where your salon is located  
@@ -123,7 +123,7 @@ Last Updated May 2023
     3. **Use restrictions.** When using the Services, you must only send communications to Customers that have provided express consent and the communications are compliant with the GDPR. You agree that Customers who have provided such consent have opted-in to receive email marketing from both you and us.
     4. **Your warranties.** You represent and warrant that:
         1. all Partner Content provided to us or published on the Marketplace, Widget, Distribution Channels, Reserve with Google and Partner Page is materially accurate, doesn’t infringe any third party rights and isn’t defamatory, unlawful, offensive, threatening, pornographic or below general standards of decency,
-        2. you’ll comply with all applicable laws and advertising regulations in the marketing, sale and provision of your services, including by ensuring that any prices marked “discount” are genuine discounts (i.e., they were previously higher and are only discounted for a short period),
+        2. you’ll comply with all applicable laws and regulations as they are and as they may come into force throughout our engagement with you, such as legislation local to your jurisdiction, international obligations and/or European regulations (such as but not exclusively DAC 7). You will further comply with relevant advertising regulations in the marketing, sale and provision of your services, including by ensuring that any prices marked “discount” are genuine discounts (i.e., they were previously higher and are only discounted for a short period),
         3. where applicable, you’re duly registered with all relevant tax authorities,
         4. you hold all necessary licences, consents, authorities, qualifications and insurance for your business activities and personnel (especially relating to your services) which we consider appropriate and exercises our final discretion on,
         5. you will ensure that your organisation independently ensures the accuracy and maintenance of any and all statutory requirements and information obligations required for the delivery of your services.
