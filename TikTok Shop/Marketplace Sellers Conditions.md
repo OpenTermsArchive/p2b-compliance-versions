@@ -1,6 +1,6 @@
 TIKTOK SHOP SELLER TERMS OF SERVICE (ID)
 
-18/01/20244k views
+18/01/20244.1k views
 
 ​
 
