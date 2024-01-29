@@ -1,6 +1,18 @@
 TIKTOK SHOP SELLER TERMS OF SERVICE (ID)
 
-18/01/20244.2k views
+29/01/20244.3k views
+
+​
+
+![filename](https://sf16-sg.tiktokcdn.com/obj/eden-sg/ylauljylsslz_lm_uhsslnht/ljhwZthlaukjlkulzlp/university/ppt-cover.jpeg)
+
+TIKTOK SHOP SELLER TERMS OF SERVICE
+
+.pdf
+
+(159.24KB)
+
+​
 
 ​
 
