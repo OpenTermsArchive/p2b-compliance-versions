@@ -225,7 +225,7 @@ El Usuario se obliga a mantener indemne a Sumauto, incluyendo gastos razonables 
 
 13.1 AutoScout24, en cumplimiento del Reglamento (UE) 2022/2065 del Parlamento Europeo y del Consejo de 19 de octubre de 2022 relativo a un mercado único de servicios digitales, publica aquí la información sobre el promedio de usuarios mensuales.
 
-El promedio de usuarios mensuales en AutoScout24 durante el primer semestre de 2023 (del 1/01 al 30/06) ha sido de 798.187. Estimación de datos (tráfico web y tráfico de la APP) a través de cifras facilitadas por Similarweb.
+El promedio de usuarios mensuales en AutoScout24 durante el segundo semestre de 2023 (del 1/07 al 31/12) ha sido de 831.287. Estimación de datos (tráfico web y tráfico de la APP) a través de cifras facilitadas por Similarweb.
 
 Es importante resaltar que los datos de usuarios mensuales reportados se extraen de herramientas de seguimiento de proveedores externos por lo que no podríamos descartar que la metodología aplicada incluya el doble recuento de usuarios. Dicha metodología podría cambiar en el futuro.
 
