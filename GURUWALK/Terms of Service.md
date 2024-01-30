@@ -172,8 +172,8 @@ Therefore, in this regard, before undertaking these types of actions, **GURUWALK
 Without prejudice to the limitations set out in point five above, Hobby Gurus are also subject to the following limitations on the use of the **GURUWALK** platform:
 
 1. The same user is not allowed to have more than one Hobby account.
-2. No more than two tours may be created on the platform.
-3. For each Tour it will only be possible to publish three schedules per day, and these schedules must be at least two and a half hours apart.
+2. No more than one tour may be created on the platform.
+3. For each Tour it will only be possible to publish two schedules per day, and these schedules must be at least two and a half hours apart.
 4. Under no circumstances are Walkers from different tours allowed to join together in the same event.
 5. False cancellations are not allowed.
 
