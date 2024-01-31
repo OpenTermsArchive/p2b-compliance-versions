@@ -1,4 +1,40 @@
-[1\. Definitions](#section572115416210 "1. Definitions")[2\. Developer Account](#section3205991937 "2. Developer Account")[3\. Use of Huawei Services by You](#section5351103417316 "3. Use of Huawei Services by You")[4\. Authorization and Intellectual Property Rights](#section289816451837 "4. Authorization and Intellectual Property Rights")[5\. Confidentiality](#section422102048 "5. Confidentiality")[6\. Privacy Protection](#section5573121811412 "6. Privacy Protection")[7\. Indemnification](#section083416281341 "7. Indemnification")[8\. DISCLAIMER](#section94691340148 "8. DISCLAIMER")[9\. Termination](#section69514461548 "9. Termination")[10\. Force Majeure](#section189211521357 "10. Force Majeure")[11\. Export Controls](#section91471397513 "11. Export Controls")[12\. Financial Compliance](#section149968151456 "12. Financial Compliance")[13\. Notices and Updates](#section9778024259 "13. Notices and Updates")[14\. Distribution Area and Signing Huawei Entities](#section17326634955 "14. Distribution Area and Signing Huawei Entities")[15\. Governing Law and Dispute Resolution](#section390334220513 "15. Governing Law and Dispute Resolution")[16\. Miscellaneous](#section111341249855 "16. Miscellaneous")[17\. Huawei Brand Protection](#section8327512205220 "17. Huawei Brand Protection")[Exhibit A – List of Countries/Regions](#section3562205811511 "Exhibit A – List of Countries/Regions")[Exhibit B – Huawei Brand Protection Agreement](#section10663111315419 "Exhibit B – Huawei Brand Protection Agreement")
+[1\. Definitions](https://developer.huawei.com/consumer/en/doc/start/agreement-0000001052728169#section572115416210)
+
+[2\. Developer Account](https://developer.huawei.com/consumer/en/doc/start/agreement-0000001052728169#section3205991937)
+
+[3\. Use of Huawei Services by You](https://developer.huawei.com/consumer/en/doc/start/agreement-0000001052728169#section5351103417316)
+
+[4\. Authorization and Intellectual Property Rights](https://developer.huawei.com/consumer/en/doc/start/agreement-0000001052728169#section289816451837)
+
+[5\. Confidentiality](https://developer.huawei.com/consumer/en/doc/start/agreement-0000001052728169#section422102048)
+
+[6\. Privacy Protection](https://developer.huawei.com/consumer/en/doc/start/agreement-0000001052728169#section5573121811412)
+
+[7\. Indemnification](https://developer.huawei.com/consumer/en/doc/start/agreement-0000001052728169#section083416281341)
+
+[8\. DISCLAIMER](https://developer.huawei.com/consumer/en/doc/start/agreement-0000001052728169#section94691340148)
+
+[9\. Termination](https://developer.huawei.com/consumer/en/doc/start/agreement-0000001052728169#section69514461548)
+
+[10\. Force Majeure](https://developer.huawei.com/consumer/en/doc/start/agreement-0000001052728169#section189211521357)
+
+[11\. Export Controls](https://developer.huawei.com/consumer/en/doc/start/agreement-0000001052728169#section91471397513)
+
+[12\. Financial Compliance](https://developer.huawei.com/consumer/en/doc/start/agreement-0000001052728169#section149968151456)
+
+[13\. Notices and Updates](https://developer.huawei.com/consumer/en/doc/start/agreement-0000001052728169#section9778024259)
+
+[14\. Distribution Area and Signing Huawei Entities](https://developer.huawei.com/consumer/en/doc/start/agreement-0000001052728169#section17326634955)
+
+[15\. Governing Law and Dispute Resolution](https://developer.huawei.com/consumer/en/doc/start/agreement-0000001052728169#section390334220513)
+
+[16\. Miscellaneous](https://developer.huawei.com/consumer/en/doc/start/agreement-0000001052728169#section111341249855)
+
+[17\. Huawei Brand Protection](https://developer.huawei.com/consumer/en/doc/start/agreement-0000001052728169#section8327512205220)
+
+[Exhibit A – List of Countries/Regions](https://developer.huawei.com/consumer/en/doc/start/agreement-0000001052728169#section3562205811511)
+
+[Exhibit B – Huawei Brand Protection Agreement](https://developer.huawei.com/consumer/en/doc/start/agreement-0000001052728169#section10663111315419)
 
 HUAWEI Developers Service Agreement
 ===================================
