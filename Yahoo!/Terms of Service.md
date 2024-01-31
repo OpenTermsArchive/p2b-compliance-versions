@@ -69,7 +69,7 @@ _In June 2017, we announced that Yahoo and AOL joined to become a unified digita
         
 3. **Your Account; Notices**
     
-    1. _Account Information._ You may need an account to use some Services. You must ensure that your account information (that is, the information you provided when you registered for or subscribed to a Service) remains current, complete, accurate and truthful. With the exception of AOL accounts, all Yahoo accounts are non-transferable, and any rights to them terminate upon the account holder’s death.
+    1. _Account Information._ You may need an account to use some Services. You must ensure that your account information (that is, the information you provided when you registered for or subscribed to a Service) remains current, complete, accurate and truthful. Unless stated differently for your country in Section 14, with the exception of AOL accounts, all Yahoo accounts are non-transferable, and any rights to them terminate upon the account holder’s death.
         
     2. _Access to Your Account._ You are responsible for all activity that happens on or through your account. To protect your account, keep your password confidential. Do not reuse your account password with other services. Without prejudice to your statutory rights, if you forget your password and otherwise cannot validate your account to Yahoo, you acknowledge and agree that your account may be inaccessible to you and that all data associated with the account may not be retrievable.
         
@@ -217,7 +217,7 @@ _In June 2017, we announced that Yahoo and AOL joined to become a unified digita
             
         4. If you reside in a European Union country, nothing in these Terms, including paragraphs (b) and (c) above, affects your right to rely on any applicable mandatory local law or choice of jurisdiction provision that cannot be varied by contract. The European Commission provides for an online dispute resolution platform, which you can access at [https://ec.europa.eu/consumers/odr/](https://ec.europa.eu/consumers/odr/).
             
-        5. _Customer Support_. Below are links for customer support.
+        5. _Customer Support_. Below are links for customer support. Please see paragraph o. below for points of contact under the EU Digital Services Act.
             
             1. [Ireland](https://ie.help.yahoo.com/kb/account)
                 
@@ -271,5 +271,14 @@ _In June 2017, we announced that Yahoo and AOL joined to become a unified digita
             
         14. Additional terms for German users can be found [here](https://legal.yahoo.com/ie/de/yahoo/terms/additionalterms/index.html).
             
+        15. _EU Digital Services Act_
+            
+            1. Restrictions on use of Yahoo Services.
+                
+                The EU Digital Services Act requires us to inform users in the European Union that we impose certain restrictions on user-provided content that is hosted on Yahoo sites, including moderating user comments. We also enable users to report and request the removal of illegal content. We follow Yahoo’s internal policies and procedures, including where appropriate human review, to identify illegal content. Where necessary, pursuant to our [community guidelines](https://legal.yahoo.com/us/en/yahoo/guidelines/index.html), we take action to remove that content.
+            2. Points of Contact
+                
+                1. If you are a representative of a Member State of the European Union, the European Commission or the European Board for Digital Services you can communicate with us at the following email address: [dsa@yahooinc.com](mailto:dsa@yahooinc.com). Our preferred language of communication is English.
+                2. If you are a user residing within the European Union, you can use our [contact form](https://uk.help.yahoo.com/kb/account?locale=en_GB&sclb=1&ct=TOP_HIDE_INHELP_EMEA_DSA&sbct=ISS_EMEA_DSA).
 
-_Last updated: 06 October, 2023_
+_Last updated: 31 January, 2024_
