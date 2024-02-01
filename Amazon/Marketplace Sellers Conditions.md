@@ -3,7 +3,7 @@ This article applies to selling in: **France**
 Amazon Services Europe Business Solutions Agreement
 ===================================================
 
-Last updated: July 3, 2023
+Last updated: February 1, 2024
 
 The version of this Agreement in English is the definitive legal version.
 
@@ -199,6 +199,8 @@ As used in this Agreement, the following terms have the following meanings:
 
 **"Sales Proceeds"** means the gross sales proceeds paid by buyers via the applicable Amazon Site in the course of any of Your Transactions, including the Purchase Price, all shipping and handling, gift wrap and other charges, any taxes and customs duties.
 
+“**Fee Base Amount**” means the sum of Offer Price, all shipping and handling, gift wrap and other charges, any taxes and customs duties via the applicable Amazon Site in the course of any of your transactions.
+
 **"Seller Central"** means the online portal and tools made available by Amazon to you, for your use in managing your orders, inventory and presence on a particular Amazon Site or any other online point of presence.
 
 **"Service"** means each of the following services that Amazon makes available on one or more of the Amazon Sites: the Selling on Amazon Service; the Fulfilment by Amazon Service; Sponsored Ads, and any related services we make available.
@@ -255,11 +257,16 @@ These Selling on Amazon Service Terms are part of the Amazon Services Europe Bus
 
 **S-4.     Compensation**
 
-You hereby irrevocably authorise APE or APUK to debit Your APE Selling on Amazon payment account and/or Your APUK Selling on Amazon payment account and pay us: (a) the applicable Referral Fees; (b) any applicable Variable Closing Fee; and (c) the non-refundable Selling on Amazon Subscription Fee to cover the cost of registering your Selling on Amazon seller account and the ongoing costs of maintaining it. The Selling on Amazon Subscription Fee is payable in advance for each month (or for each transaction, if applicable) during the term of this Agreement.  **“Selling on Amazon Subscription Fee”** means the fee specified as such on the applicable Amazon Site at the time such fee is payable. With respect to each of Your Transactions: (x) **“Sales Proceeds” has the meaning set out in the Business Solutions Agreement**; (y) “**Variable Closing Fee**” means the applicable fee, if any, as specified on the applicable Amazon Site and (z) **“Referral Fee”** means the applicable percentage of the Sales Proceeds from Your Transaction through the applicable Amazon Site specified on the Amazon Site at the time of Your Transaction, based on the categorization by Amazon of the type of product that is the subject of Your Transaction; provided, however, that Sales Proceeds will not include any shipping charges set by us in each of the following two cases: (i) in the case of Your Transactions that consist solely of products fulfilled using Fulfilment by Amazon, and (ii) for sellers on the Individual selling plan, in the case of Your Transactions that consist solely of Media Products.  Except as provided otherwise, all monetary amounts contemplated in these Service Terms will be expressed in the Local Currency, and all payments contemplated by this Agreement will be charged in the Local Currency. 
+You hereby irrevocably authorise APE or APUK to debit Your APE Selling on Amazon payment account and/or Your APUK Selling on Amazon payment account and pay us: (a) the applicable Referral Fees; (b) any applicable Variable Closing Fee; and (c) the non-refundable Selling on Amazon Subscription Fee to cover the cost of registering your Selling on Amazon seller account and the ongoing costs of maintaining it. The Selling on Amazon Subscription Fee is payable in advance for each month (or for each transaction, if applicable) during the term of this Agreement.  **“Selling on Amazon Subscription Fee”** means the fee specified as such on the applicable Amazon Site at the time such fee is payable. With respect to each of Your Transactions: (a) **“Sales Proceeds” has the meaning set out in the Business Solutions Agreement**; (b) “**Variable Closing Fee**” means the applicable fee, if any, as specified on the applicable Amazon Site and (c) **“Fee Base Amount”** has the meaning as described in the Business Solutions Agreement; **(d)** **“Referral Fee”** means the applicable percentage of the Sales Proceeds or Fee Base Amount (as described herein) from Your Transaction through the applicable Amazon Site specified on the Amazon Site at the time of Your Transaction, based on the categorization by Amazon of the type of product that is the subject of Your Transaction; provided, however, that Sales Proceeds and Fee Base Amount will not include any shipping charges set by us in each of the following two cases: (i) in the case of Your Transactions that consist solely of products fulfilled using Fulfilment by Amazon, and (ii) for sellers on the Individual selling plan, in the case of Your Transactions that consist solely of Media Products.  Except as provided otherwise, all monetary amounts contemplated in these Service Terms will be expressed in the Local Currency, and all payments contemplated by this Agreement will be charged in the Local Currency.
+
+The Referral Fee will be calculated based on the Fee Base Amount for transactions where,
+
+1. You sell to a buyer other than an Amazon entity; or,
+2. The transaction does not include Lightning Deal, Coupon or Voucher, Buy One Get One, Money Off, Percentage Off, Amazon Funded Discount or Subscribe & Save.
+
+For remaining transactions, the Referral Fee will be calculated based on the Sales Proceeds.
 
 All taxes or surcharges imposed on fees payable by you to us or our affiliates will be your responsibility.
-
-If you are using VAT Calculation Service, please refer to [VAT Calculation Service Methodology](https://sellercentral-europe.amazon.com/help/hub/reference/external/202084570?locale=en-US) to review Referral Fee Calculation logic.
 
 **S-5**. **Amazon’s Websites and Services.**
 
@@ -278,6 +285,8 @@ In addition to the General Terms, you agree that the price stated by you for You
 **"Media Product"** means any book, magazine or other publication, sound recording, video recording, software product, computer game, videogame, and/or other media product in any format, including any subscription therefor, sold through an Amazon Site.
 
 **"Purchase Price"** means the total gross amount payable or paid by a buyer for Your Product (including taxes and customs duties).
+
+“**Offer Price**” is the total gross amount of the product provided by the Seller after applying repricing rules such as Sale Price, Business Pricing, Quantity Discounts, if any.
 
 **"Required Product Information"** means, with respect to each of Your Products in connection with a particular Amazon Site, the following (except to the extent expressly not required under the applicable Programme Policies): (a) description, including as applicable, location-specific availability and options, scheduling guidelines and service cancellation policies; (b) SKU and EAN/UPC numbers and other identifying information as Amazon may reasonably request; (c) information regarding in-stock status and availability, shipping limitations or requirements, and Shipment Information (in each case, in accordance with any categorizations prescribed by Amazon from time to time); (d) categorization within each Amazon product category and browse structure as prescribed by Amazon from time to time; (e) digitized image that accurately depicts only Your Product, complies with all Amazon image guidelines and does not include any additional logos, text or other markings; (f) Purchase Price; (g) shipping and handling charge (in accordance with our standard functionality therefor); (h) any text, disclaimers, warnings, notices, labels or other content required by applicable Law to be displayed in connection with the offer, merchandising, advertising or sale of Your Product; (i) any vendor requirements fees or other terms and conditions applicable to such product that a customer should be aware of prior to purchasing the product; (j) brand; (k) model; (l) product dimensions; (m) weight; (n) a delimited list of technical specifications; (o) SKU and EAN/UPC numbers (and other identifying information as we may reasonably request) for accessories related to Your Product that is available in our catalogue; (p) the state or country Your Products ships from; and (q) any other information reasonably requested by us (e.g., the condition of used or refurbished products).
 
