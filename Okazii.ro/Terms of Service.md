@@ -863,17 +863,10 @@ Okazii.ro va elibera banii către vânzător în urmatoarea zi de joi ulterioar�
 
 Pentru a putea primi banii prin transfer bancar, vânzătorul va trebui să introducă în contul de utilizator codul IBAN corespunzător contului său bancar in lei. Titularul contului IBAN declarat în contul Okazii.ro trebuie sa fie același cu titularul contului de Utilizator pe Okazii.
 
-Pentru sume ce nu depăşesc 1.500 lei, banii pot fi trimiși la cerere și prin e-mandat (mandat poștal online), tarifele de expediţie fiind în sarcina Utilizatorului.
+Banii pot fi trimiși la cerere și prin e-mandat (mandat poștal online), în măsura în care suma se încadrează în limitele permise de Poșta Română pentru astfel de operațiuni, tarifele de expediţie fiind în sarcina Utilizatorului.
 
-Tarifele de expeditie sunt urmatoarele, în funcţie de valoarea sumei expediate:  
-pentru sume < 200 lei, tariful este 10 lei;  
-pentru sume în intervalul 200,01 – 500 lei, tariful este 15 le;  
-pentru sume în intervalul 500,01 – 1000 lei, tariful este 20 lei;  
-pentru sume > 1000 lei, tariful se calculează după cum urmează 20 lei + 1% aplicat la suma de expediat.
-
-Serviciile suplimentare au urmatoarele costuri:
-
-Post restant 2.5 lei.
+Tarifele de expediție sunt cele practicate de serviciul poștal utilizat (CN Poșta Română etc) la data  
+la care suma este expediată.
 
 Vânzătorul poate alege alimentarea contului propriu cu suma ce i se cuvine în urma tranzacţiei încheiate prin selectarea din contul său de utilizator a opțiunii “Alimentare în contul Okazii.ro”.
 
@@ -906,14 +899,14 @@ Okazii.ro va avea calitatea de mandatar în raporturile cu utilizatorii, raportu
 Okazii.ro submandatează procesatorul de plăți să încaseze sumele de bani de la cumpărător, în numele și pe seama vânzătorului și să-i trimită către Okazii.ro conform dispozițiilor prezentului document.
 
 **8. Puncte de fidelitate**  
-8.1 Organizatorul acordă Utilizatorilor puncte de fidelitate la achiziţia de produse prin serviciul Garanţia de Livrare şi la achiziţia de produse a căror plată este efectuată online cu cardul.  
-8.2. Punctele de fidelitate devin active şi pot fi utilizate după confirmarea calității în conformitate cu prevederile prezentului document aplicabile fiecărei tranzacții în parte, prevederi care reglementează tranzacțiile realizate prin serviciul Garanția de Livrare şi/sau cele referitoare la produsele achitate online cu cardul, după caz si dupa acordarea unui calificativ vanzatorului. La anularea din orice motiv a unei comenzi, punctele de fidelitate aferente acestuia sunt anulate. Punctele de fidelitate se acorda inclusiv pentru comenzile achitate cu puncte de fidelitate. Daca un cumparator plaseaza mai multe comenzi la acelasi vanzator se vor acorda puncte de fidelitate doar pentru prima comanda.  
+8.1 Organizatorul acordă Utilizatorilor puncte de fidelitate la achiziţia de produse prin serviciul Garanţia de Livrare şi la achiziţia de produse a căror plată este efectuată online cu cardul, dacă comenzile au fost efectuate prin aplicația pentru mobil Okazii.ro.  
+8.2. Punctele de fidelitate devin active şi pot fi utilizate după confirmarea calității în conformitate cu prevederile prezentului document aplicabile fiecărei tranzacții în parte, prevederi care reglementează tranzacțiile realizate prin serviciul Garanția de Livrare şi/sau cele referitoare la produsele achitate online cu cardul, după caz si dupa acordarea unui calificativ vanzatorului. La anularea din orice motiv a unei comenzi, punctele de fidelitate aferente acestuia sunt anulate. Punctele de fidelitate se acorda inclusiv pentru comenzile achitate cu puncte de fidelitate în condițiile art. 8.1 de mai sus, adică dacă comenzile au fost efectuate prin aplicația pentru mobil Okazii.ro. Daca un cumparator plaseaza mai multe comenzi la acelasi vanzator se vor acorda puncte de fidelitate doar pentru prima comanda.  
 8.3. Valoarea punctelor este calculată în funcție de valoarea comenzii şi a categoriei din care face parte produsul comandat. Numărul exact de puncte pe care îl poți obține pentru achiziția unui produs este afișat în pagina produsului respectiv. Pentru un produs pot fi acordate maxim 5000 de puncte.  
 8.4. 100 puncte de fidelitate au valoarea de 1 leu. Valoarea unui punct de fidelitate poate fi modificată oricând de Organizator, potrivit propriilor sale criterii care nu pot fi cenzurate de alte persoane.  
-8.5. Punctele de fidelitate pot fi utilizate exclusiv pentru achiziționarea de produse în cadrul Okazii.ro prin serviciul Garanția de Livrare şi/sau pentru cumpărarea de produse a căror plată poate fi efectuată online cu cardul – numai cu achitarea integrală a acestora cu puncte de fidelitate, în ambele cazuri. Utilizatorul înțelege şi acceptă că achitarea de către Organizator către Utilizator a oricăror sume corespunzătoare valorii punctelor de fidelitate neconsumate, indiferent de motivul invocat sau de cuantumul sumei, nu este posibilă.  
+8.5. Punctele de fidelitate pot fi utilizate exclusiv pentru achiziționarea de produse prin aplicația pentru mobil Okazii.ro, însă exclusiv prin serviciul Garanția de Livrare şi/sau pentru cumpărarea de produse a căror plată poate fi efectuată online cu cardul – numai cu achitarea integrală a acestora cu puncte de fidelitate, în ambele cazuri. Utilizatorul înțelege şi acceptă că achitarea de către Organizator către Utilizator a oricăror sume corespunzătoare valorii punctelor de fidelitate neconsumate, indiferent de motivul invocat sau de cuantumul sumei, nu este posibilă.  
 8.6. Numărul de puncte acumulate este afișat în contul fiecărui utilizator Okazii.ro, în secțiunea Puncte fidelitate.  
-8.7. Punctele de fidelitate nu sunt transmisibile şi pot fi utilizate timp de 90 de zile din momentul în care au fost acordate. Pentru a înlătura orice îndoială, punctele de fidelitate acordate în anul curent sunt anulate ireversibil în ultima zi a anului, nefiind reportate în anul următor, utilizatorul pierzând astfel dreptul de a le utiliza. Valabilitatea în timp a punctelor de fidelitate poate fi modificată oricând de Organizator, potrivit propriilor sale criterii care nu pot fi cenzurate de alte persoane.  
-8.8. Punctele de fidelitate pot fi acumulate şi utilizate doar de către Utilizatorii care dețin un cont activ în cadrul Okazii.ro. În toate situațiile în care Organizatorul a dispus sancționarea unui Utilizator prin suspendarea sau blocarea contului, ca urmare a încălcării de către acesta a termenilor şi condițiilor prezentului acord, punctele de fidelitate pe care acesta le avea în cont la data aplicării sancțiunii sunt anulate (retrase) automat. Indiferent dacă Organizatorul revine sau nu asupra sancțiunilor dispuse (şi contul este reactivat), punctele de fidelitate nu vor fi restituite în contul Utilizatorului sancționat.
+8.7. Punctele de fidelitate nu sunt transmisibile şi pot fi utilizate timp de 90 de zile din momentul în care au fost acordate. Valabilitatea în timp a punctelor de fidelitate poate fi modificată oricând de Organizator, potrivit propriilor sale criterii care nu pot fi cenzurate de alte persoane.  
+8.8. Punctele de fidelitate pot fi acumulate şi utilizate doar de către Utilizatorii care dețin un cont activ în cadrul Okazii.ro la plasarea de comenzi prin intermediul aplicației pentru mobil Okazii.ro. În toate situațiile în care Organizatorul a dispus sancționarea unui Utilizator prin suspendarea sau blocarea contului, ca urmare a încălcării de către acesta a termenilor şi condițiilor prezentului acord, punctele de fidelitate pe care acesta le avea în cont la data aplicării sancțiunii sunt anulate (retrase) automat. Indiferent dacă Organizatorul revine sau nu asupra sancțiunilor dispuse (şi contul este reactivat), punctele de fidelitate nu vor fi restituite în contul Utilizatorului sancționat.
 
 **9. Informațiile furnizate de Dvs. licitației noastre, drepturile și obligațiile Dvs.**  
 9.1. Prin expresia “informatiile dumneavoastra” vom face referire de acum inainte la orice informatie pe care Dvs.  
@@ -1011,7 +1004,7 @@ Conform Regulamentului nr. 679 din 27 aprilie 2016, beneficiati de dreptul de ac
 
 15.7. Solicitările Dvs. vor fi analizate și vor primi răspuns în termen de maxim 30 de zile lucrătoare de la primirea acestora de către Organizatorul licitației, în cazul în care au fost însoțite de toate datele și informațiile necesare pentru soluționarea acestora. În situația în care nu ați transmis Organizatorului licitației toate datele și informațiile necesare soluționării solicitării respective, vor fi cerute informațiile lipsă, urmând ca termenul de soluționare de mai sus să fie prelungit corespunzător.
 
-**Ultima actualizare: 15.09.2023**
+**Ultima actualizare: 01.02.2024**
 
 **[Versiuni anterioare](https://ajutor.okazii.ro/istoric-termeni-si-conditii.html)**
 
