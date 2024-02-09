@@ -50,7 +50,7 @@ Documenti da allegare:
 
 ■ visura camerale del Venditore o altro documento analogo, rilasciato dalla competente autorità;■ copia di un documento di identità del legale rappresentante del Venditore, in corso di validità;■ copia del certificato di attribuzione del codice fiscale del Venditore o altro documento analogo, rilasciat o dallacompetente autorità
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 2.
 
@@ -128,7 +128,7 @@ A2.1 Ai fini del presente Contratto le seguenti espressioniassumono i seguenti s
 
 “Altri Errori” indica la fornitura da parte del Venditoreal Cliente e/o all’Acquirente, in qualsiasi momento dellarelazione con lo stesso, di informazioni non corrispondential vero e/o false e/o ingannevoli e/o inesatte e/o omissivecirca il Prodotto e/o le sue caratteristiche specifichee/o le sue condizioni commerciali e/o le sue qualitàovvero la fornitura da parte del Venditore al Cliente e/oall’Acquirente di qualsiasi informazione che sia idonea afalsare in misura rilevante il comportamento economicodell’Utente, inclusa la non conformità del Prodotto alladescrizione dello stesso già eventualmente esistente nel
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 3.
 
@@ -206,7 +206,7 @@ ha il significato di cui al par. C.14.3. del Contratto.
 
 “DatadiLiquidazione” indica il giorno in cui PB Online Srl , suincarico del Venditore, con riferimento al Periodo diRiferimento immediatamente precedente, ricevuta dalPSP l’informazione circa l’importo delle Tariffe del PSP,calcola il Saldo e il Saldo Netto e comunica al PSP il SaldoNetto e gli Importi Dovuti. Le Date di Liquidazione sono:ogni lunedì della settimana (a partire dalle ore 00.00’.01”e sino alle ore 23.59’.59”). Nel caso in cui la Data di
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 4.
 
@@ -274,7 +274,7 @@ ai fini della Garanzia del Venditore, accendendo allaPiattaforma attraverso il l
 
 “Informazioni Obbligatorie” indica le informazioni inlingua italiana che il Venditore è tenuto a fornire, conriferimento a ciascun Prodotto, prima della conclusione del
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 5.
 
@@ -306,7 +306,7 @@ dei seguenti eventi: a) apertura di un reclamo da partedell’Acquirente per rit
 
 “Iscrizione al MarketPlace” indica la registrazione delVenditore alla Piattaforma, tramite l’apposito form, checonsente al Venditore, previo log-in con le Credenzialidi Registrazione, di inviare la richiesta di adesione alMarketPlace attraverso la Piattaforma e di effettuare laProcedura di On Boarding On-line.
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 6.
 
@@ -352,7 +352,7 @@ cui all’Allegato 3 al Contratto che il Venditore si obbligaa osservare, second
 
 “Normativa in Materia di Privacy” indica ogni legge,(inclusi, a titolo esemplificativo e non esaustivo: i decretilegislativi, i decreti legge i decreti del Presidente dellaRepubblica, i decreti della Presidenza del Consiglio deiMinistri, i decreti ministeriali, etc.), direttiva, regolamento,norma, regola, ordine, licenza, permesso, autorizzazione,sentenza, decisione, o altra previsione - di qualsivogliagenere e tipo, avente contenuto normativo o regolamentare\- vigente al momento di sottoscrizione del Contratto, oentrata in vigore successivamente a tale momento, che
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 7.
 
@@ -416,7 +416,7 @@ unitamente alle spese di consegna e a ogni altro oneree/o costo e/o spesa aggiun
 
 “Regole di Liquidazione” indica le regole di cui agli artt.A.7.2, A.8.2, C.5.2 e C.5.3 del Contratto.
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 8.
 
@@ -486,7 +486,7 @@ A.3 Durata; Diritto di Recesso
 
 A.3.1 Il presente Contratto è a tempo indeterminato. Esso èefficace a decorrere dalla data in cui il Venditore ricevela E-Mail di Benvenuto di cui all’art. B.2.4 che segue eviene così a conoscenza dell'accettazione, da parte diPB Online Srl, della richiesta del Venditore di adesioneal Marketplace. L’efficacia del Contratto e la sua vigenza
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 9.
 
@@ -528,7 +528,7 @@ A.5.1 A partire dalla Data di Scioglimento del Contratto perqualsiasi motivo, iv
 
 A.5.2 A partire dalla Data di Ricezione della Comunicazione diScioglimento del Contratto, in particolare, il Venditore,cesserà immediatamente qualsiasi attività connessa allaofferta e alla vendita dei Prodotti tramite il MarketPlace,compreso l’utilizzo delle funzioni “Crea Offerta” e “CreaProdotto”, fermo restando l’obbligo di eseguire, con ilrispetto delle CGV del Venditore, del Contratto di Acquistoe della ulteriore Documentazione Legale in vigore almomento della trasmissione dell’ordine da parte del
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 10.
 
@@ -558,11 +558,11 @@ A.6 Sospensione del Servizio di Vendita
 
 A.6.1 Fermo restando quanto previsto agli artt. A.3.2 lett (a)e (b), A.4.1, A.4.2 lett. (a) e A5 che precedono e in aggiuntaa quanto previsto in altre disposizioni del Contratto, PBOnline Srl si riserva il diritto di sospendere il Servizio diVendita sul MarketPlace, consentendo al Venditore solol’Accesso Limitato, nei seguenti casi (“Sospensione delServizio di Vendita”):
 
-a) a) numero di Chargeback e/o Storni superiore al 2% deiProventi delle Vendite in un anno;b) Proventi delle Vendite inferiori a Euro 1.000,00 in un mese;c) mancato adempimento nel termine indicato nella diffidaad adempiere inviata ai sensi dell’art. A.4.1 che precede oai sensi degli artt. A.9.3 e C.12.4 che segue;d) violazione delle obbligazioni del Contratto di cui all’art.A.4.2 che precede;e) violazione delle Regole di Liquidazione;f) mancato rimborso all’Acquirente o mancata alternativasoluzione al problema per il quale l’Acquirente hapresentato un reclamo nell’ambito del ProgrammaProtezione Clienti, nei casi in cui la decisione finale assuntada PB Online Srl ai sensi dell’art. C.13.7 che segue siafavorevole all’Acquirente, e/o inadempimento, integrale oparziale, da parte del Venditore, agli obblighi posti a suocarico dalla decisione che PB Online Srl ha assunto adefinizione del reclamo presentato dall’Acquirente tramitela procedura di Protezione Clienti di cui all’art. C.13 delContratto.g) numero di Valutazioni negative superiore al 10% diquelle ricevute in un anno o valutazione complessiva delVenditore in base alle Valutazioni inferiore a 4;h) numero di spedizioni non effettuate nei termini indicati dalVenditore superiore al 10% delle spedizioni effettuate inun mese;i) numero di reclami da parte degli Acquirenti superiore al10% degli ordini ricevuti in un mese e al 3% degli ordiniricevuti in un anno;j) numero di Ordini accettati dal Venditore rispetto al totaledegli Ordini ricevuti inferiore al 70%; l’Ordine si considera“accettato”, quando è contrassegnato il relativo stato sullaPiattaforma (“Accettazione dell’Ordine”);k) ritardo medio tra il momento in cui il Venditore è informatodell’Ordine tramite la Piattaforma (c.d. notifica dell’Ordine)e il momento di Accettazione dell’Ordine, con riferimentoa tutti gli Ordini Ricevuti, a partire da 96 ore;l) numero di Ordini annullati consecutivamente dalVenditore: a partire da tre.
+a) a) numero di Chargeback e/o Storni superiore al 2% deiProventi delle Vendite in un anno;b) Proventi delle Vendite inferiori a Euro1.000,00 in un mese;c) mancato adempimento nel termine indicato nella diffidaad adempiere inviata ai sensi dell’art. A.4.1 che precede oai sensi degli artt. A.9.3 e C.12.4 che segue;d) violazione delle obbligazioni del Contratto di cui all’art.A.4.2 che precede;e) violazione delle Regole di Liquidazione;f) mancato rimborso all’Acquirente o mancata alternativasoluzione al problema per il quale l’Acquirente hapresentato un reclamo nell’ambito del ProgrammaProtezione Clienti, nei casi in cui la decisione finale assuntada PB Online Srl ai sensi dell’art. C.13.7 che segue siafavorevole all’Acquirente, e/o inadempimento, integrale oparziale, da parte del Venditore, agli obblighi posti a suocarico dalla decisione che PB Online Srl ha assunto adefinizione del reclamo presentato dall’Acquirente tramitela procedura di Protezione Clienti di cui all’art. C.13 delContratto.g) numero di Valutazioni negative superiore al 10% diquelle ricevute in un anno o valutazione complessiva delVenditore in base alle Valutazioni inferiore a 4;h) numero di spedizioni non effettuate nei termini indicati dalVenditore superiore al 10% delle spedizioni effettuate inun mese;i) numero di reclami da parte degli Acquirenti superiore al10% degli ordini ricevuti in un mese e al 3% degli ordiniricevuti in un anno;j) numero di Ordini accettati dal Venditore rispetto al totaledegli Ordini ricevuti inferiore al 70%; l’Ordine si considera“accettato”, quando è contrassegnato il relativo stato sullaPiattaforma (“Accettazione dell’Ordine”);k) ritardo medio tra il momento in cui il Venditore è informatodell’Ordine tramite la Piattaforma (c.d. notifica dell’Ordine)e il momento di Accettazione dell’Ordine, con riferimentoa tutti gli Ordini Ricevuti, a partire da 96 ore;l) numero di Ordini annullati consecutivamente dalVenditore: a partire da tre.
 
 A.6.2 La Sospensione del Servizio di Vendita, che saràcomunicata al Venditore tramite e-mail, con un preavvisodi 5 (cinque) giorni prima che la Sospensione del Serviziodi Vendita venga attivata e con indicazioni delle ragionie/o cause, di cui al par. A.6.1 che precede, che hannoportato alla sospensione medesima, è preordinata allaindividuazione e risoluzione dei problemi che la hannocausata nell’interesse dei Clienti, degli Acquirenti, dellostesso Venditore e della Reputazione di PB Online Srl.
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 11.
 
@@ -612,7 +612,7 @@ A.9 Garanzia del Venditore
 
 A.9.1 Ove applicabile il Venditore, con la fornitura dei dati dellaCarta di Credito durante la Procedura di On Boarding On-Line, autorizza PB Online Srl ad addebitare, sulla Cartadi Credito e a favore di PB Online Srl , tutti gli importiche il Venditore sia tenuto a corrispondere a PB OnlineSrl in base al Contratto, ivi inclusi le Commissioni PBOnline Srl e gli Importi da Restituire, così come calcolatialle rilevanti Date di Liquidazione – e rappresentati nellafattura di cui all’art. A.7.2 che precede e nel Rendiconto –rappresentati nella fattura di cui all’art. A.7.2 che precedee nel Rendiconto – e che il Venditore non abbia altrimenticorrisposto a PB Online Srl La data di scadenza dellarichiesta di pagamento è la Giornata Operativa successivaalla rilevante Data di Liquidazione. L’autorizzazione di cuial presente articolo è resa per tutta la durata del Contrattoe per i due anni successivi alla Data di Scioglimento. IlVenditore dichiara di essere consapevole e di accettareche: (i) al momento della fornitura dei dati della Carta diCredito, PB Online Srl verificherà la validità della Cartadi Credito e l'assenza di eventuali blocchi mediante unarichiesta di autorizzazione di 1 Euro (che viene poi in
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 12.
 
@@ -658,7 +658,7 @@ A.12.1 PB Online Srl è l’ideatore ed autore, ai sensi della Legge 22aprile 19
 
 A.12.2 Sono di proprietà di PB Online Srl , la PiattaformaTransazionale, il Sito, il Software, il MarketPlace,l’architettura informatica del Sito, i codici, metodi, gli
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 13.
 
@@ -708,7 +708,7 @@ A.15 Trattamento dei Dati Personali (dei Venditori edegli Acquirenti)
 
 A..15.1 In relazione al trattamento dei “Dati Personali” (comedefiniti all’art. 4, comma 1, lett. b) del Codice della Privacy)conferiti dai Clienti e dagli Acquirenti, le Parti si danno attoche:■ (I) PB Online Srl:(a) agirà in veste di: (i) Titolare esclusivo dei Dati di Registrazionee dei Dati di Navigazione nonché di ogni eventuale ulterioreDato Personale conferito dai Clienti in occasione dellarichiesta di informazioni relative a un Prodotto o all’attivitàsvolta attraverso il Sito ovvero dei Dati Personali conferitinell’ambito del Programma Protezione Clienti; (ii) Titolareautonomo dei Dati di Vendita nonché di ogni ulteriore DatoPersonale eventualmente conferito dagli Acquirenti nellecomunicazioni con il Venditore, attraverso il sistema dimessaggistica interna della Piattaforma Transazionale, inrelazione a un Prodotto Venduto;
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 14.
 
@@ -720,7 +720,7 @@ PB ONLINE SRL - Viale Edoardo Jenner, 53 - 20159 Milano (MI) - P.IVA/C.F. 124295
 
 (b) tratterà i dati di cui ai punti (i) e (ii) che precedono per finalitàstrettamente connesse alla esecuzione del Contratto diAcquisto e per finalità amministrativo-contabili connessealla Vendita.
 
-A.15.2 Con riferimento ai Dati di Vendita e/o a qualsiasi DatoPersonale degli Acquirenti o dei Clienti di cui venga aconoscenza per effetto del presente Contratto, il Venditoredichiara e garantisce che:(i) non utilizzerà i dati per finalità di marketing proprie,compreso il c.d. “soft spam”, e/o di propri partnercommerciali e/o di terzi, per finalità di profilazione, conqualsiasi strumento e logica effettuati (sia attraversosistemi di comunicazione automatizzati sia medianteposta cartacea); e(ii) non comunicherà a terzi, ivi incluse eventuali societàcontrollanti o direttamente o indirettamente controllatei dati di cui al paragrafo II, lett. (a) dell’art. A. 15.1 cheprecede, salvo che tale comunicazione rientri nelle finalitàdi cui alla lett. (b) del citato paragrafo. L’obbligazione dicui al presente punto (ii) resterà valida anche in caso discioglimento, per qualsiasi causa, del Contratto; e(iii) tratterà i dati in conformità alla “informativa sul trattamentodei dati personali” di cui all’Allegato 4A, per quanto dipropria competenza, assicurando un livello di protezioneadeguato e, comunque, adottando le misure minime disicurezza in relazione a tutti i Dati Personali, descritti all’art.A.15.1, paragrafo II, che precede, compresi quelli che nonrisiedono sulla Piattaforma Transazionale, avendo cura dinominare, se del caso, i propri dipendenti e/o collaboratoriquali responsabili o incaricati del trattamento;(iv) risponderà tempestivamente e conformemente alla leggea tutte le istanze provenienti dagli Acquirenti e/o dai Clientiin relazione all’esercizio dei diritti di cui all’art. 7 del Codicedella Privacy e comunicherà tempestivamente a ePRICE,in modo che la stessa – ove tenuta – possa rispondereentro i termini di legge, le istanze formulate dagliinteressati in relazione ai trattamenti dei Dati Personali,effettuati attraverso la Piattaforma Transazionale, chesiano state allo stesso indirizzate.(vi) comunicherà tempestivamente a PB Online Srl , in modoche la stessa – ove tenuta – possa rispondere entro itermini di legge, le istanze formulate dagli interessatiin relazione ai trattamenti dei Dati Personali, effettuatiattraverso la Piattaforma T ransazionale, che siano stateallo stesso indirizzate;(vii) procederà alla designazione di PB Online Srl qualeResponsabile del Trattamento in relazione al trattamentodei Dati di cui è Titolare il Venditore Accessibili Mediante
+A.15.2 Con riferimento ai Dati di Vendita e/o a qualsiasi DatoPersonale degli Acquirenti o dei Clienti di cui venga aconoscenza per effetto del presente Contratto, il Venditoredichiara e garantisce che:(i) non utilizzerà i dati per finalità di marketing proprie,compreso il c.d. “soft spam”, e/o di propri partnercommerciali e/o di terzi, per finalità di profilazione, conqualsiasi strumento e logica effettuati (sia attraversosistemi di comunicazione automatizzati sia medianteposta cartacea); e(ii) non comunicherà a terzi, ivi incluse eventuali societàcontrollanti o direttamente o indirettamente controllatei dati di cui al paragrafo II, lett. (a) dell’art. A.15.1 cheprecede, salvo che tale comunicazione rientri nelle finalitàdi cui alla lett. (b) del citato paragrafo. L’obbligazione dicui al presente punto (ii) resterà valida anche in caso discioglimento, per qualsiasi causa, del Contratto; e(iii) tratterà i dati in conformità alla “informativa sul trattamentodei dati personali” di cui all’Allegato 4A, per quanto dipropria competenza, assicurando un livello di protezioneadeguato e, comunque, adottando le misure minime disicurezza in relazione a tutti i Dati Personali, descritti all’art.A.15.1, paragrafo II, che precede, compresi quelli che nonrisiedono sulla Piattaforma Transazionale, avendo cura dinominare, se del caso, i propri dipendenti e/o collaboratoriquali responsabili o incaricati del trattamento;(iv) risponderà tempestivamente e conformemente alla leggea tutte le istanze provenienti dagli Acquirenti e/o dai Clientiin relazione all’esercizio dei diritti di cui all’art. 7 del Codicedella Privacy e comunicherà tempestivamente a ePRICE,in modo che la stessa – ove tenuta – possa rispondereentro i termini di legge, le istanze formulate dagliinteressati in relazione ai trattamenti dei Dati Personali,effettuati attraverso la Piattaforma Transazionale, chesiano state allo stesso indirizzate.(vi) comunicherà tempestivamente a PB Online Srl , in modoche la stessa – ove tenuta – possa rispondere entro itermini di legge, le istanze formulate dagli interessatiin relazione ai trattamenti dei Dati Personali, effettuatiattraverso la Piattaforma Transazionale, che siano stateallo stesso indirizzate;(vii) procederà alla designazione di PB Online Srl qualeResponsabile del Trattamento in relazione al trattamentodei Dati di cui è Titolare il Venditore Accessibili Mediante
 
 la Piattaforma, mediante sottoscrizione del Contratto diNomina contenuto nell’Allegato 9 al presente Contratto;(viii) procederà alla designazione del DPO, ai sensi dell’art.37 del Regolamento, qualora tenuto, obbligandosia comunicare a PB Online Srl in nome del DPO, ovedesignato, o a mettere a disposizione di PB Online Srl, a sua richiesta, la documentazione comprovante lavalutazione effettuata per addivenire alla decisione di nonnominare un DPO;(ix) procedere alla tenuta del registro dei trattamenti, ai sensidell’art. 30 del Regolamento, obbligandosi a metterlo adisposizione di PB Online Srl , su sua richiesta, nella parterelativa ai trattamenti dei Dati di cui è Titolare il Venditoreovvero a mettere a disposizione di PB Online Srl , a suarichiesta, la documentazione comprovante la valutazioneeffettuata per addivenire alla decisione di non tenere unRegistro dei Trattamenti;(x) procederà all’analisi dei rischi per i diritti e le libertà dellepersone fisiche derivanti dal trattamento dei Dati Personalidi cui è Titolare il Venditore e alla Valutazione d’Impattosulla Protezione dei Dati relativa a tali dati, ove tenuto, aisensi dell’art. 35 del Regolamento, obbligandosi a metterea disposizione di PB Online Srl , su sua richiesta, la relativadocumentazione;(xi) trasferirà i Dati verso paesi terzi solo nel caso in cuitale trasferimento sia strettamente necessario alperseguimento delle finalità di cui al paragrafoA.15.1 (II) (b) che precede e, comunque, nel rispetto delleprevisioni della Normativa in Materia di Privacy e, inparticolare, degli artt. da 44 a 49 del Regolamento e,quindi, con le garanzie adeguate dallo stesso previste,comunicando immediatamente il trasferimento a PBOnline Srl e all’Acquirente, ai sensi dell’art 13.1, lett. f)del Regolamento, anche mediante inserimento di taliinformazioni nella Scheda Venditore;(xii)inserirà nella Scheda Venditore le informazioni di cuiall’art. 13.1.a) (identità e dati di contatto del titolare deltrattamento e del suo rappresentante, ove applicabile) e dicui all’art. 13.1.b) (dati di contatto del DPO), ove applicabile.
 
@@ -728,7 +728,7 @@ A.15.2_bis Fermo restando quanto previsto dagli artt. A.15.1e A.15.2 che precedo
 
 A.15.2 _ter In relazione alla Informativa per i Clienti/ Acquirenti, ilVenditore dichiara e garantisce:a) di averla attentamente esaminata, prima dellasottoscrizione del Contratto, e di approvarla interamenteed espressamenteb) che il trattamento dei Dati Personali di cui è Titolare ilVenditore in essa descritto è conforme al trattamento ditali dati effettuato dal Venditore;c) che il Venditore non tratterà i Dati in maniera difforme daquanto descritto in tale informativa;d) che con l’accettazione e la sottoscrizione del Contrattoaccetta e fa propria tale informativa, assumendo inproprio tutti gli obblighi dalla stessa derivanti e le relativeresponsabilità, obbligandosi a tenere PB Online Srl indennee manlevata da qualunque danno, comprese eventualisanzioni delle autorità competenti, alle stesse possaderivare nel caso in cui le dichiarazioni di cui al presentearticolo, in qualsiasi momento, non corrispondano al veroe/o il trattamento dei Dati effettuato dal Venditore e/oda Responsabili del Trattamento designati dal Venditoree/o Sub-Responsabili del Trattamento da questi ultimidesignati e/o e/o Incaricati del Trattamento autorizzati dal
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 15.
 
@@ -762,7 +762,7 @@ A.16.3 Il Venditore si impegna a effettuare, e conservareper il tempo necessario
 
 A.16.4 Il Venditore riconosce di essere l’unico soggettoresponsabile della veridicità, esaustività, accuratezza,correttezza e non ingannevolezza, ai sensi di cui agli artt.18 e ss. del Codice del Consumo e del D. Lgs. 2 agosto2007, n. 145 ess.mm.ii, (i) delle informazioni e dei dati chelo riguardano; (ii) delle informazioni inserite nella SchedaVenditore, nelle CGV del Venditore, nelle Istruzioni Tiposul Recesso del Venditore, nel Modulo di Recesso Tipo delVenditore, nelle Informazioni sul RAEE, ove applicabili enella Informativa per i Clienti/Acquirenti, per quanto di suacompetenza nonché dei dati forniti durante la Procedura diOnBoarding On-Line, compreso ogni loro aggiornamento;(iii) delle Informazioni Obbligatorie; (iv) e/o di qualsiasi altrainformazione resa dal Venditore ai Clienti e/o agli Acquirenti
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 16.
 
@@ -804,7 +804,7 @@ A.18.2 La tolleranza, anche protratta, di una Parte in relazione aviolazioni del
 
 A.18.3 La lingua ufficiale del Contratto e di tutta la documentazionerelativa, incluse le CGV Market Place, le CGV del Venditore,la Documentazione Legale, le Informazioni Obbligatorie,il Modulo di Recesso Tipo, il Modulo di Recesso Tipodel Venditore, le Istruzioni Tipo sul Recesso, le IstruzioniTipo sul Recesso del Venditore, le Informazioni sul RAEE,l’Informativa per i Clienti/ Acquirenti è l’italiano. Eventualitraduzioni in altre lingue devono considerarsi fornite esono utilizzabili a mero scopo di convenienza. Nel caso di
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 17.
 
@@ -870,7 +870,7 @@ B.2 Procedura di OnBoarding On Line
 
 B.2.1 Per poter aderire al MarketPlace, il Venditore deve seguirela procedura online accessibile dalla sezione “Vendi sulMarketplace” del Sito. Il Venditore, in particolare, deve:1. iscriversi al Marketplace, compilando l’apposito form diregistrazione e completando la procedura di iscrizione,cliccando sul link contenuto nella E-mail di ConfermaRegistrazione;2. accedere al MarketPlace tramite le Credenziali diRegistrazione;3. selezionare lo stato in cui è stabilita la sede legale delVenditore (che nel caso specifico del Venditore è l’Italia) einserire il numero di Partita IVA;4. compilare i form successivi, fornendo i dati richiestirelativi al Venditore (es: sede legale, sede operativa, REA,codice fiscale, ragione sociale, indirizzo PEC, dati relativial rappresentante legale ed eventualmente a ulteriorireferenti, etc.) e al Negozio (es: nome, descrizione,categoria di appartenenza, numero di customer care, etc.);5. caricare i Documenti;6. inviare la richiesta di adesione al MarketPlace, cliccandosull’apposito TAB;7. tramite l’apposito link contenuto nell’Email di ConfermaBuon Fine Invio Richiesta di Adesione al MarketPlace,
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 18.
 
@@ -910,7 +910,7 @@ B.3.1 Il Venditore utilizza la Piattaforma Transazionale edeventuali materiali, 
 
 B.3.2 Le Istruzioni di Funzionamento della PiattaformaTransazionale, che costituiscono l’Allegato 5 al Contratto,sono messe a disposizione del Venditore, unitamenteal Contratto, prima della sua approvazione da parte delVenditore, all’interno dell’area riservata della PiattaformaTransazionale. Eventuali e successive versioni aggiornatedelle Istruzioni di Funzionamento saranno messe adisposizione del Venditore all’interno di tale area, che
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 19.
 
@@ -952,7 +952,7 @@ B.6 Dichiarazioni e garanzie del Venditorein relazione all’utilizzo della Piat
 
 B.6.1 Il Venditore dichiara di essere consapevole e di accettareche:a. gli stessi Prodotti possono essere offerti sul MarketPlaceda Venditori diversi, tra loro in competizione, e anche dallastessa PB Online Srl ;b. PB Online Srl può offrire gli stessi Prodotti offerti dal
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 20.
 
@@ -1012,7 +1012,7 @@ C.1 CGV MarketPlace e CGV del Venditore
 
 C.1.1 Le CGV MarketPlace, di cui all’Allegato 2 del Contratto,
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 21.
 
@@ -1050,7 +1050,7 @@ C.2.3 Il Venditore si impegna a offrire in vendita sul MarketPlacei Prodotti a c
 
 C.2.4 Il Venditore dichiara e garantisce che la offerta e/o laVendita dei Prodotti sul MarketPlace non viola i dirittidi alcun terzo e, in particolare, non viola di diritti delproduttore del Prodotto e/o del titolare e/o licenziatariodei marchi che contraddistinguono i Prodotti e che essaè pienamente conforme alla Normativa Applicabile. Atale proposito il Venditore dichiara e garantisce che: (i) iProdotti e il/i marchio/i che li contraddistinguono sonoautentici, originali e non contraffatti; (ii) i Prodotti sono statiregolarmente immessi nel mercato della Unione Europea eregolarmente acquistati; (iii) i Prodotti non sono oggetto diaccordi di distribuzione selettiva e/o accordi che vietino ladistribuzione degli stessi, anche ai fini della loro rivenditaonline, da parte di terzi; (iv), nel caso in cui il Venditore nonsia il produttore dei Prodotti, di avere acquistato i Prodottida soggetti legittimati alla vendita e/o alla distribuzionedegli stessi.
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 22.
 
@@ -1080,7 +1080,7 @@ C.3 Attività di ePRICE
 
 C.3.1 Fermo restando quanto previsto negli artt. A.17 e B.5.3 (h) cheprecedono e dall’art. C.3.2 che segue, PB Online Srl , nellasua qualità di gestore tecnico-operativo della PiattaformaTransazionale e del Sito, farà tutto quanto nelle sue facoltàper far sì che i Prodotti vengano tempestivamente inseritiin Catalogo secondo quanto previsto dal Contratto e/o daeventuali linee guida e/o altre indicazioni che PB OnlineSrl avrà cura di comunicare al Venditore, all’interno dellasua area riservata della Piattaforma e che, una volta messein tal modo a disposizione del Venditore, diventeranno
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 23.
 
@@ -1142,7 +1142,7 @@ C.7 Consegna dei Prodotti Venduti
 
 C.7.1 Il Venditore si impegna a consegnare i Prodotti nei termini,presso i luoghi e con le modalità indicati nelle CGVMarketPlace, nelle CGV del Venditore e nel Contrattodi Acquisto. Ai fini del presente Contratto e salvo ovediversamente indicato, il termine di consegna del Prodottoall’Acquirente decorre dall’invio dell’ordine di Acquisto.
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 24.
 
@@ -1174,7 +1174,7 @@ C.8.1 Il Venditore è l’unico responsabile del riconoscimento edella applicazi
 
 C.8.2 A titolo meramente esemplificativo, si indica che ilVenditore è (e il Venditore dichiara e riconosce di essere)l’unico responsabile: (1) con riferimento al Diritto diRecesso: (i) della accettazione o del rifiuto delle richiestedi recesso; (ii) della effettuazione del rimborso nel terminedi legge; (iii) del riconoscimento della sussistenza di unadiminuzione di valore del Prodotto, ai sensi del Codicedel Consumo e del calcolo del relativo importo e/odella relativa riduzione dell’importo di rimborso; (2) conriferimento alla Garanzia Legale di Conformità: (i) delladeterminazione della sussistenza o meno del Difetto diConformità; (ii) della procedura di restituzione del Prodottoe del rimborso delle relative spese; (iii) della sostituzioneo riparazione del Prodotto, ovvero, nei casi di riduzionedel prezzo o di risoluzione del Contratto di Acquisto, deirelativi rimborsi, parziali o interi.
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 25.
 
@@ -1228,7 +1228,7 @@ C.12.1 Nel caso in cui il Venditore intenda offrire in vendita sulMarketplace ap
 
 C.12.2 Il Venditore dichiara e garantisce di essere pienamente aconoscenza degli obblighi sullo stesso gravanti in forzadella Normativa RAEE. Il Venditore dichiara e garantiscepertanto che, nel momento in cui offrirà in vendita sulMarketplace un Prodotto AEE, egli avrà già ottemperatoalla Normativa RAEE e che fornirà ai Clienti tutte leinformazioni che, in base a tale normativa, il distributore diun prodotto AEE deve fornire.
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 26.
 
@@ -1254,7 +1254,7 @@ C.13.2 Ai fini di quanto previsto nel presente articolo, il Venditoredichiara:(i
 
 C.13.3 Fatto salvo quanto indicato dall’art. C.13.4 che segue,il Programma Protezione Clienti può essere attivatodall’Acquirente esclusivamente nei seguenti casi:(i) Prodotto Venduto non ricevuto: il Prodotto Vendutonon è stato ricevuto dall’Acquirente entro i tre (3) giornisuccessivi alla data di consegna indicata nella e-mail diconferma d’ordine ricevuta dall’Acquirente o, comunque,entro trenta (30) giorni dalla data di conclusione delContratto di Acquisto, come individuata in base alle CGVdel Venditore;(ii) Prodotto Venduto sostanzialmente non conforme alladescrizione presente nella Pagina Prodotto del Catalogo:il Prodotto Venduto ricevuto dall’Acquirente risultasostanzialmente non conforme alla descrizione delProdotto stesso, come pubblicata dal Venditore nellaPagina Prodotto del Catalogo. Per “Pagina Prodotto” siintende la pagina informativa che illustra le principalicaratteristiche di ciascun Prodotto; per “Prodotto Vendutosostanzialmente non conforme alla descrizione presentenella Pagina Prodotto del Catalogo” (“PSNC”) si intendeun Prodotto sostanzialmente diverso dalla descrizionedel Prodotto stesso, come pubblicata dal Venditore nella
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 27.
 
@@ -1282,7 +1282,7 @@ C.13.5 Qualora l’Acquirente invii a PB Online Srl una richiestadi attivazione 
 
 C.13.6 A seguito della Comunicazione di Avvio PPC, PB OnlineSrl avvierà la relativa istruttoria. In tale fase, PB OnlineSrl potrà chiedere sia al Venditore che all’Acquirente difornire eventuale documentazione (ivi compresi, a titoloesemplificativo e non esaustivo, ricevute, DDT, bolle diconsegna, estratti conto, e-mail, lettere, registrazioni,valutazioni di terzi, verbali delle competenti autorità dipubblica sicurezza, fotografie, etc.) a sostegno dellarispettiva posizione. I documenti recanti informazioniincomplete, parziali, non leggibili e/o provenienti dallastessa parte che intende avvalersene ai fini di fornireprova di una determinata circostanza saranno valutati conriserva da PB Online Srl , e potranno essere da quest’ultimaritenuti inutilizzabili ai fini della procedura di ProtezioneClienti, e quindi non essere tenuti in considerazione. Inparticolare, potranno essere richiesti:(i) nel caso di cui all’art. C.13.3 (i), al Venditore: il documentoda cui risulti il tracking della spedizione all’Acquirente;ove esistenti, eventuali documenti che diano provadella avvenuta consegna (c.d. POD), dell’assenza deldestinatario e/o della rispedizione del Prodotto Venduto alVenditore a seguito di mancata consegna al destinatarioe del tracking di tale rispedizione; all’Acquirente: oveesistente, denuncia presso le competenti autorità dipubblica sicurezza relativa alla mancata consegna delProdotto Venduto e/o al disconoscimento, da partedell’Acquirente, di eventuali sottoscrizioni apposte a suonome su qualsiasi documento relativo alla consegna delProdotto Venduto; ove esistenti, validi e decisivi elementidi prova circa la mancata consegna del Prodotto;(ii) nel caso di cui all’art. C.13.3 (ii), al Venditore: il documentoda cui risulti il tracking della spedizione all’Acquirente;ove esistenti, eventuali polizze assicurative; documentio fotografie che diano prova dello stato e del contenutodel pacco in cui è stato inserito il Prodotto Venduto e/odella rispedizione del Prodotto Venduto al Venditore daparte del destinatario e del tracking di tale rispedizione;all’Acquirente: ove esistente, denuncia presso lecompetenti autorità di pubblica sicurezza (ad es., denunciarelativa alla assenza del Prodotto Venduto all’interno delpacco con cui è stato recapitato e/o al disconoscimento,da parte dell’Acquirente, di eventuali sottoscrizioniapposte a suo nome su qualsiasi documento relativoalla consegna del Prodotto Venduto); ove rilevante, laconfezione originale del Prodotto Venduto;(iii) nel caso di cui all’art. C.13.3 (iii), al Venditore: ove esistenti,eventuali documenti che diano prova dell’avvenutorimborso e dell’entità dello stesso e/o della rispedizione
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 28.
 
@@ -1314,7 +1314,7 @@ Accettato in data ..............................................................
 
 Ai fini e per gli effetti degli articoli 1341 e 1342 c.c., il Venditoredichiara di approvare specificamente le seguenti clausoledel Contratto: A.3.2, lett. (a) (diritto di recesso di PB Online Srl
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 29.
 
@@ -1354,7 +1354,7 @@ Accettato in data ..............................................................
 
 Ultimo aggiornamento: 06/02/2024La versione in lingua italiana del presente documento è quellaufficiale e avente valore legale. Eventuali traduzioni in altre linguesono disponibili solo per facilità di consultazione.
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 1.
 
@@ -1430,7 +1430,7 @@ Prodotti Ricondizionati (Categorie Outlet) 10,00%
 
 Alimentari e Alcolici 8,00%
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 1.
 
@@ -1464,7 +1464,7 @@ In vigore dal 06/02/2024.....................................
 
 nota1/2/3/5 \- Inserire il nome commerciale del Venditore, così come comparirà sul Sito.nota 4 \- Inserire i seguenti dati: denominazione sociale, sede legale, numero di iscrizione al Registro delle Imprese e località in cui taleregistro è radicato, n. di Partita IVA, numero di telefono e di fax, se disponibili; ammontare del capitale sociale e di quello versato.
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 2.
 
@@ -1488,7 +1488,7 @@ più aggiornata delle presenti Condizioni GeneralidiVendita, accedendo alle pagi
 
 3.1 La registrazione al Sito è gratuita. Per registrarsial Sito l’utente deve compilare l’apposito modulo,inserendo nome, cognome, indirizzo e-mail euna password e cliccare sul tasto “Continua”.Nel caso in cui la registrazione avvenga duranteil procedimento di acquisto sarà richiesto anchel’inserimento dell’indirizzo, del numero di telefonoe del codice fiscale. Ciascun utente può usufruiredi una sola registrazione al Sito. Il servizio diregistrazione è prestato da ePRICE. Nel caso in cuil’utente sia già registrato a un altro dei siti sui qualiPB Onle srl opera come erogatore del servizio diregistrazione e/o di vendita (“Siti powered by PBOnline srl”) e sia quindi in possesso delle relativecredenziali di registrazione, l’utente potrà registrarsial Sito, inserendo le credenziali di registrazione giàin suo possesso nella sezione “Sei già registrato?”della pagina di “Log in” del Sito, ferma la facoltàdell’utente di registrarsi al Sito anche usando unindirizzo e-mail diverso, accendo alla sezione “Seiun nuovo cliente?” della pagina di “Log in” del Sito ecompilando, come sopra indicato, l’apposito modulo.L’inserimento nella sezione “Sei già registrato?”della pagina di “Log in” del Sito delle credenziali diregistrazione già in possesso dell’utente costituiscemanifestazione della volontà dell’utente di registrarsial Sito e accettazione delle Condizioni Generali diVendita. Mediante tale inserimento, inoltre, l’utenteche su un altro dei Siti powered by PB Online srlabbia scelto di salvare i dati di una o più carte dicredito per i successivi acquisti (“ Salvataggio delle
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 3.
 
@@ -1514,7 +1514,7 @@ a) per concludere il contratto di acquisto di uno opiù Prodotti sul Sito, l’u
 
 5.1 5.1I Prodotti offerti sul Sito dal Venditore sono gliarticoli presenti nel catalogo elettronico pubblicatosul Sito, e visualizzato dall’utente al momentodella effettuazione dell’ordine, specificamenteindicati come “venduti e spediti dal Venditore”. IProdotti possono appartenere a varie categoriemerceologiche (quali, a mero titolo esemplificativo,elettrodomestici, prodotti tecnologici, prodotti per iltempo libero e lo sport, prodotti per il benessere ela salute, libri, film e DVD).5.2 Ciascun Prodotto è accompagnato da una paginainformativa che ne illustra le principali caratteristiche(“Pagina Prodotto”). All’interno della Pagina Prodotto
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 4.
 
@@ -1526,7 +1526,7 @@ sia già avvenuto, il Venditore, fatto salvo il dirittodell’utente al risarcim
 
 5.7 Nel caso in cui l’utente si avvalga del diritto dirisoluzione di cui all’art. 61, IV e V comma, Codice delConsumo, il contratto di acquisto avente ad oggettoil Prodotto e/o i Prodotti divenuti indisponibili sarà
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 5.
 
@@ -1554,7 +1554,7 @@ IVA) durante il procedimento di acquisto, prima chel’utente sia vincolato dal 
 
 8.1 Il contratto di acquisto è risolutivamente condizionatoal pagamento dell’Importo Totale Dovuto. Nel casoin cui tale pagamento non avvenga, il contrattosi intenderà pertanto risolto di diritto. Di talerisoluzione e della conseguente cancellazionedell’ordine, l’utente sarà immediatamente avvisato(i) subito dopo la trasmissione dell’ordine, tramite ilSito, nel caso in cui abbia scelto come modalità dipagamento la carta di credito; (ii) tramite l’appositosistema di messaggistica della Piattaforma di cuiall’art. 15 che segue, nel caso in cui l'utente abbiascelto una delle altre modalità di pagamento messea disposizione dal Venditore, compresa PayPal.8.2 La proprietà dei Prodotti sarà trasferita all’utenteal momento della spedizione, da intendersi comeil momento di consegna del Prodotto al vettore(“Spedizione”). Il rischio di perdita o danneggiamentodei Prodotti, per causa non imputabile a PB OnlineSrl , invece, sarà trasferito all’utente quando l’utenteo un terzo da lui designato e diverso dal vettore,entra materialmente in possesso dei Prodotti.8.3 Per poter inviare un ordine relativo a un Prodottotramite il Sito è necessario leggere ed esaminareattentamente le presenti CGV.
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 6.
 
@@ -1574,7 +1574,7 @@ IVA) durante il procedimento di acquisto, prima chel’utente sia vincolato dal 
 
 9.1.1 Il pagamento dei Prodotti acquistati sul Sitopuò essere effettuato mediante carta di creditodirettamente tramite il Sito. Sono accettate lecarte di credito dei circuiti VISA, Mastercard,AmericanExpress, Maestro. Le carte di creditoaccettate sono, in ogni caso, indicate, nel footer diogni pagina del Sito. L’addebito dell’Importo TotaleDovuto dall’utente al Venditore per l’acquisto deiProdotti è effettuato in un momento che si collocadopo la trasmissione dell’ordine e prima dellaSpedizione. Selezionando la casella “Salva la tuacarta di credito per i prossimi acquisti” presente nellapagina “Effettua il pagamento” del procedimentodi acquisto ovvero accedendo alla sezione “Cartedi credito salvate” del proprio account personale,l’utente può autorizzare la memorizzazione dei datidi una o più carte di credito e la loro riutilizzazioneper il pagamento dei successivi acquisti sul Sitoe sugli altri Siti powered by PB Online Srl , nelcaso in cui si registrati agli stessi inserendo nellasezione ”Sei già registrato?” della pagina di “Log in”di tali siti le credenziali di registrazione già in suopossesso, evitando, in tal modo, di dover inserire idati della carta di credito a ogni acquisto. L’utentepuò, in ogni momento, revocare l’autorizzazione allariutilizzazione dei dati della carta di credito per gliacquisti successivi, accedendo alla sezione “Cartedi credito salvate” del suo account personale ecancellando le carte già salvate ovvero, durante ilprocedimento di acquisto, cliccando sul bottone“Modifica” che compare a fianco delle carte dicredito memorizzate.9.1.2 Al fine di garantire la sicurezza dei pagamentieffettuati sul Sito e prevenire eventuali frodi, ilVenditore si riserva il diritto di chiedere all’utente,tramite l’apposito sistema di messaggistica di cuiall’art. 15 che segue, di inviare, tramite lo stessomezzo, una copia fronte/retro della propria cartad’identità e nel caso in cui l’intestatario dell’ordinesia diverso dall’intestatario della carta, della cartad’identità di quest’ultimo. Il documento dovrà esserein corso di validità. Nella e-mail di richiesta saràspecificato il termine entro il quale il documentodeve pervenire al Venditore.Tale termine non sarà, in ogni caso, superiorea 5 giorni lavorativi a decorrere dal ricevimentodella richiesta da parte dell’utente. In attesa deldocumento richiesto, l’ordine sarà sospeso. L’utenteè tenuto all’invio dei documenti richiesti nel termineindicato.Tale termine non sarà, in ogni caso, superiorea 5 giorni lavorativi a decorrere dal ricevimentodella richiesta da parte dell’utente. In attesa deldocumento richiesto, l’ordine sarà sospeso. L’utenteè tenuto all’invio dei documenti richiesti nel termineindicato.9.1.3 Nel caso in cui il Venditore non riceva tali documentinel termine specificato nella richiesta ovvero ricevadocumenti scaduti o non validi il contratto si intenderàrisolto di diritto ai sensi e per gli effetti di cui all’art.1456 c.c., e l’ordine conseguentemente cancellato,salvo il diritto del Venditore al risarcimento di
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 7.
 
@@ -1606,7 +1606,7 @@ pagamento tramite PayPal, l’acquirente effettueràil pagamento a Mooney Group 
 
 10.6.1 Nel caso di Consegna a Domicilio, i Prodotti acquistatisul Sito saranno inviati e consegnati all’indirizzo
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 8.
 
@@ -1624,7 +1624,7 @@ non corrette, saranno a sua carico le eventuali speseaggiuntive che il Venditore
 
 10.7.1 Durante il procedimento di acquisto, prima chel’utente trasmetta l’ordine, saranno indicati i terminientro cui il Venditore si impegna a consegnarei Prodotti oggetto dell’ordine dell’utente e chetengono conto, oltre che della zona e della modalitàdi consegna, anche della possibilità che l’utenteacquisti più Prodotti con il medesimo ordine. Itermini di consegna decorrono dalla conclusionedel contratto (i.e. l’invio dell’ordine), salvo che nonsia diversamente indicato. Il termine di consegnadello specifico ordine sarà inoltre indicato nellaconferma d’ordine. Nel caso di omessa indicazionedel termine di consegna, essa avverrà, in ognicaso, entro trenta giorni a decorrere dalla data diconclusione del contratto. Resta fermo quantoprevisto dall’art. 9.03 che precede in relazioneagli Ordini Misti e agli Ordini all’interno dell’OrdineMisto.10.7.2 Nel caso in cui il Prodotto acquistato non siaconsegnato o sia consegnato in ritardo rispetto aitermini di consegna indicati durante il procedimentodi acquisto e nella conferma d’ordine, l’utente,ai sensi dell’art. 61 del Codice del Consumo,invita il Venditore a effettuare la consegna entroun termine supplementare appropriato allecircostanze (“Termine Supplementare ex art. 61,III comma, Codice del Consumo”). Se tale terminesupplementare scade senza che i Prodotti gli sianostati consegnati, l’utente è legittimato a risolvereil contratto (“Risoluzione del Contratto ex art. 61,III comma, Codice del Consumo”), salvo il dirittoal risarcimento del danno. L’utente non è gravatodell’onere di concedere al Venditore il TermineSupplementare ex art. 61, III comma, Codice delConsumo (“Casi Esclusi”) se:a) il Venditore si è espressamente rifiutato diconsegnare i Prodotti;b) il rispetto del termine di consegna indicato duranteil procedimento di acquisto e nella confermad’ordine deve considerarsi essenziale, tenuto contodi tutte le circostanze che hanno accompagnato laconclusione del contratto;c) l’utente ha informato il Venditore, prima dellaconclusione del contratto, che la consegna entroo a una data determinata è essenziale. Nei CasiEsclusi, l’utente, se non riceve i Prodotti nel terminedi consegna indicato durante il procedimento diacquisto e nella conferma d’ordine, è legittimatoa risolvere immediatamente il contratto, salvo ildiritto al risarcimento del danno (“Risoluzione delContratto nei Casi Esclusi”). La indicazione delTermine Supplementare ex art. 61, III comma, Codicedel Consumo e la comunicazione di Risoluzione delContratto ex art. 61, III comma, Codice del Consumoo di Risoluzione del Contratto nei Casi Esclusi
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 9.
 
@@ -1634,7 +1634,7 @@ dovrà essere comunicata dall’utente al Venditoretramite l’apposito sistema 
 
 del Termine Supplementare ex art, 61, III comma,Codice del Consumo e alla Risoluzione ex art. 61, IIIcomma, Codice del Consumo o alla Risoluzione neiCasi Esclusi, ricorrendone i relativi presupposti. Intal caso, il Venditore rimborserà all’utente l’ImportoParziale Dovuto senza indebito ritardo. Il rimborsoavverrà con le modalità di cui all’art. 10.8.6. chesegue. In ogni caso, il Venditore si impegna ainviare all’utente tempestivamente la E-mail diAvviso Ritardo, indicando contestualmente il NuovoTermine di Consegna, se disponibile, e, nel caso incui l’utente non proceda alla fissazione del TermineSupplementare ex art. 61, III comma, Codice delConsumo o, ricorrendone i presupposti, allaRisoluzione del Contratto ex art. 61, III comma, Codicedel Consumo o alla Risoluzione del Contratto neiCasi Esclusi, in relazione alla singola consegna e airelativi Prodotti, fatta salva la possibilità per l’utentedi avvalersi in ogni momento di tali rimedi e/o degliordinari mezzi di tutela messi a disposizione dallalegge e, in particolare, dal Capo XIV del Titolo II delLibro IV del codice civile, il Venditore si impegnainoltre a:(i) in caso di consegna di uno dei Prodotti oggettodell’Ordine Multiplo con un ritardo compreso tra1 e 3 giorni lavorativi rispetto al Nuovo Terminedi Consegna, rimborsare all’utente che ne facciarichiesta le spese di consegna, se già pagate ecalcolate come indicato nell’art. 10.3 che precede,nel termine di dieci giorni lavorativi dalla scadenzadel Nuovo Termine di Consegna, ovvero nonrichiederne il pagamento all’utente che facciarichiesta in tal senso, se non ancora pagate;(ii) in caso di consegna di uno dei Prodotti oggettodell’Ordine Multiplo con un ritardo compreso tra4 e 10 giorni lavorativi rispetto al Nuovo Terminedi Consegna, consentire all’utente che ne facciarichiesta di rifiutare la consegna e di risolvereparzialmente il contratto limitatamente e conesclusivo riferimento al Prodotto oggetto dell’OrdineMultiplo consegnato in ritardo, con conseguenterimborso – immediatamente e, comunque, entro 10giorni lavorativi dalla richiesta di risoluzione parzialedel contratto – solo dell’importo pagato dall’utentein relazione a tale specifico Prodotto, comprese lespese di consegna, calcolate come indicato nell’art.10.3 che precede, o, in alternativa, qualora l’utente nonvoglia risolvere parzialmente il contratto, rimborsareall’utente che ne faccia richiesta – nel termine didieci giorni lavorativi dalla richiesta – le spese diconsegna, se già pagate, calcolate come indicatoall’art. 10.3 che precede ovvero non richiederne ilpagamento all’utente che faccia richiesta in tal senso,se non ancora pagate. La risoluzione dell’interoOrdine Multiplo sarà possibile solo nel caso dievidente e comprovata accessorietà dei Prodottioggetto dell’Ordine Multiplo consegnati in ritardoo non consegnati rispetto agli altri Prodotti oggettodell’Ordine Multiplo consegnati tempestivamente oancora da consegnare;(iii) in caso di ritardo nella consegna di uno dei Prodottioggetto dell’Ordine Multiplo superiore a 10 giornilavorativi rispetto al Nuovo Termine di Consegnao, in ogni caso, a 20 giorni rispetto al termine di
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 10.
 
@@ -1652,7 +1652,7 @@ darne pronta comunicazione al Venditore tramitel’apposito sistema di messaggis
 
 
 
-Nota 6- Inserire le informazioni obbligatorie in base al D.Lgs. 14 marzo 2014, n. 49 e, in particolare, indicare in modo chiaro a) i luoghi diraggruppamento del Venditore o i luoghi convenzionati presso i quali l’utilizzatore finale può conferire gratuitamente i RAEE di tipo equivalente,senza maggiori oneri di quelli che ragionevolmente lo stesso sopporterebbe in caso di vendita non a distanza; oppure b) le modalità di ritiropresso lo stesso luogo di consegna, gratuitamente e senza maggiori oneri di quelli che ragionevolmente lo stesso sopporterebbe in caso divendita non a distanza; c) nel caso sub b), la procedura che sarà seguita; i termini di prestazione del servizio di ritiro; se nel caso in cui il RAEEnon corrisponda alla tipologia del Prodotto nuovo acquistato, il servizio di ritiro RAEE sarà erogato a pagamento ovvero non sarà erogato;se, nel caso in cui l’utente eserciti il diritto di recesso in relazione al Prodotto nuovo acquistato e il servizio di ritiro RAEE non sia stato ancoraerogato, tale servizio sarà o meno erogato; se, nel caso in cui l’utente eserciti il diritto di recesso in relazione al Prodotto nuovo acquistato e ilservizio di ritiro RAEE sia già stato prestato, il costo dello smaltimento sarà o meno addebitato all’utente.2024.1.0-IT
+Nota 6- Inserire le informazioni obbligatorie in base al D.Lgs. 14 marzo 2014, n. 49 e, in particolare, indicare in modo chiaro a) i luoghi diraggruppamento del Venditore o i luoghi convenzionati presso i quali l’utilizzatore finale può conferire gratuitamente i RAEE di tipo equivalente,senza maggiori oneri di quelli che ragionevolmente lo stesso sopporterebbe in caso di vendita non a distanza; oppure b) le modalità di ritiropresso lo stesso luogo di consegna, gratuitamente e senza maggiori oneri di quelli che ragionevolmente lo stesso sopporterebbe in caso divendita non a distanza; c) nel caso sub b), la procedura che sarà seguita; i termini di prestazione del servizio di ritiro; se nel caso in cui il RAEEnon corrisponda alla tipologia del Prodotto nuovo acquistato, il servizio di ritiro RAEE sarà erogato a pagamento ovvero non sarà erogato;se, nel caso in cui l’utente eserciti il diritto di recesso in relazione al Prodotto nuovo acquistato e il servizio di ritiro RAEE non sia stato ancoraerogato, tale servizio sarà o meno erogato; se, nel caso in cui l’utente eserciti il diritto di recesso in relazione al Prodotto nuovo acquistato e ilservizio di ritiro RAEE sia già stato prestato, il costo dello smaltimento sarà o meno addebitato all’utente.2024.1.0-IT - 06/02/24
 
 11.
 
@@ -1668,7 +1668,7 @@ decisione di recedere. Il termine è rispettato, sel’utente rispedisce i Prodo
 
 Nota 7 - Inserire l’indirizzo del Venditore (destinatario, via, numero civico, città, provincia, CAP, Paese) a cui devono essere inviate le comunicazionidi recesso e, se il Venditore accetta il recesso anche tramite telefono e/%o fax, il numero di telefono e/%o il numero di fax rilevanti.Nota 8 - Inserire l’indirizzo (destinatario, via, numero civico, città, provincia, CAP, Paese) del luogo presso il quale devono essere restituiti iProdotti oggetto di recesso.
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 12.
 
@@ -1692,7 +1692,7 @@ precedono.11.2bis Nei contratti relativi ai Contenuti DigitaliDematerializzati l
 
 Tutti i prodotti venduti sul Sito sono coperti dalla
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 13.
 
@@ -1734,7 +1734,7 @@ Cosa fare in presenza di un difetto diconformità
 
 Nel caso in cui un prodotto acquistato sul Sito, nelcorso del periodo di validità della Garanzia Legale,manifesti quello che potrebbe essere un difetto diconformità, l’utente deve contattare il Venditore,tramite l’apposito servizio di messaggistica dellaPiattaforma di cui all’art. 15 che segue.Il Venditore darà tempestivo riscontro allacomunicazione del presunto difetto di conformitàe indicherà all’utente la specifica procedura daseguire, anche tenendo conto della categoriamerceologica cui il Prodotto appartiene e/o deldifetto denunciato.
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 14.
 
@@ -1758,7 +1758,7 @@ A seconda della tipologia di prodotto, il Venditoreindicherà all’utente se:(i
 
 13bis.1 Il Venditore offre all’utente che abbia acquistatoun Prodotto (“Acquirente”) , la possibilità di attivareil piano di definizione alternativa dei reclamidenominato “Programma Protezione Clienti”, checonsente all’Acquirente di rimettere, in via esclusiva,alla società PB Online s.r.l., con sede legale in VialeE. Jenner 53, 20159 Milano, P. IVA 12429590966 – ladecisione di un reclamo presentato dall’Acquirentenei confronti del Venditore (“Programma ProtezioneClienti ePRICE” o “Programma ProtezioneClienti"). Il Programma Protezione Clienti è offerto atitolo gratuito e non prevede, pertanto, il pagamentodi alcun costo a carico dell’Acquirente.13bis.2 I termini e le condizioni che disciplinano l’accessoal e l’attivazione del Programma Protezione Clienti,nonché ogni altra informazione di dettaglio su taleservizio, sono consultabili dall’utente accedendo allaapposita sezione del Sito; essi saranno comunqueforniti all’Acquirente anche dopo la conclusione delcontratto di acquisto sul Sito, in allegato alla e-maildi conferma dell’ordine.13bis.3 Il Programma Protezione Clienti non sostituisce,non limita e non pregiudica, né esclude i diritti ei rimedi riconosciuti all’Acquirente dalla legge (e,in particolare, il diritto di recesso e la GaranziaLegale di cui al Codice del Consumo), dirittie rimedi di cui il consumatore, alle condizionipreviste dalla legge, può sempre avvalersi, nésostituisce, limita, pregiudica e/o esclude eventualidiritti, rimedi, Garanzie Convenzionali e/o ServiziAggiuntivi di Assistenza a Pagamento di cuil’Acquirente possa godere. Tanto impregiudicato,al momento di invio della richiesta di attivazionedel Programma Protezione Clienti, l’Acquirente ètenuto e si impegna sin d’ora a segnalare se abbiagià parallelamente attivato qualcuno tra i rimedi chegli sono riconosciuti dalla legge e/o dalle presentiCondizioni Generali di Vendita. In ogni caso,l’Acquirente è consapevole e accetta che non potràcomunque conseguire una indebita duplicazionedi eventuali indennizzi, rimborsi, risarcimenti a suovantaggio.
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 15.
 
@@ -1786,7 +1786,7 @@ usufruire del servizio stesso saranno fornite duranteil procedimento di acquisto
 
 16\. 1 Il contratto di acquisto concluso sul Sito tra ilVenditore e l’utente è regolato dalla legge italiana.16.2 È fatta salva la applicazione agli utenti consumatoriche non abbiano la loro residenza abituale in Italiadelle disposizioni eventualmente più favorevoli einderogabili previste dalla legge del paese in cui
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 16.
 
@@ -1794,7 +1794,7 @@ usufruire del servizio stesso saranno fornite duranteil procedimento di acquisto
 
 essi hanno la loro residenza abituale, in particolarein relazione al termine per l’esercizio del diritto direcesso, al termine per la restituzione dei Prodotti,in caso di esercizio di tale diritto, alle modalità eformalità della comunicazione del medesimo e allagaranzia legale di conformità.16.3 Si ricorda che nel caso di utente consumatore,per ogni controversia relativa all' applicazione,esecuzione e interpretazione delle presentiCondizioni Generali di Vendita è competente il forodel luogo in cui l’utente risiede o ha eletto domicilio.16.4 Ai sensi dell’art. 141-sexies, comma 3 del DecretoLegislativo 6 settembre 2005, n. 206 (Codice delConsumo), il Venditore informa l’utente che rivestala qualifica di consumatore di cui all’art. 3, comma1, lett. a) del Codice del Consumo, che, nel caso incui egli abbia presentato un reclamo direttamenteal Venditore, a seguito del quale non sia statotuttavia possibile risolvere la controversia cosìinsorta, il Venditore fornirà le informazioni in meritoall’organismo o agli organismi di Alternative DisputeResolution per la risoluzione extragiudiziale dellecontroversie relative ad obbligazioni derivanti da uncontratto concluso in base alla presenti CondizioniGenerali di Vendita (cc.dd. organismi ADR, comeindicati agli artt. 141-bis e ss. Codice del Consumo),precisando se intenda avvalersi o meno di taliorganismi per risolvere la controversia stessa.Il Venditore informa inoltre l’utente che rivesta laqualifica di consumatore di cui all’art. 3, comma 1,lett. a) del Codice del Consumo che è stata istituitauna piattaforma europea per la risoluzione on-linedelle controversie dei consumatori (c.d. piattaformaODR). La piattaforma ODR è consultabile al seguenteindirizzo http://ec.europa.eu/consumers/odr/;attraverso la piattaforma ODR l’utente consumatorepotrà consultare l’elenco degli organismi ADR,trovare il link al sito di ciascuno di essi e avviare unaprocedura di risoluzione on-line della controversiain cui sia coinvolto.Sono fatti salvi in ogni caso il diritto dell’utenteconsumatore di adire il giudice ordinario competentedella controversia derivante dalle presentiCondizioni Generali di Vendita, qualunque sia l’esitodella procedura di composizione extragiudiziale,nonché la possibilità, ove ne ricorrano i presupposti,di promuovere una risoluzione extragiudizialedelle controversie relative ai rapporti di consumomediante ricorso alle procedure di cui alla Parte V,Titolo II-bis del Codice del Consumo.L’utente che risiede in uno stato membro dell’UnioneEuropea diverso dall’Italia, può, inoltre, accedere,per ogni controversia relativa alla applicazione,esecuzione e interpretazione delle presentiCondizioni Generali di Vendita, al procedimentoeuropeo istituito per le controversie di modestaentità, dal Regolamento (CE) n. 861/2007 delConsiglio, dell’11 luglio 2007, a condizione che ilvalore della controversia non ecceda, esclusi gliinteressi, i diritti e le spese, Euro 2.000,00. Il testodel regolamento è reperibile sul sito www.eur-lex.europa.eu.
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 1.
 
@@ -1830,7 +1830,7 @@ Effetti del recesso
 
 Se recedi dal presente contratto, ti saranno rimborsati tutti i pagamenti che hai effettuato a favore del Venditore, compresii costi di consegna (inclusi i costi supplementari), senza indebito ritardo e in ogni caso non oltre 14 giorni dal giorno in cuiil Venditore è informato della tua decisione di recedere dal presente contratto. Salvo che tu non abbia espressamenteconvenuto altrimenti, tali rimborsi saranno effettuati, nel caso di pagamento mediante carta di credito o PayPal, utilizzandolo stesso mezzo di pagamento da te usato per la transazione iniziale; in tutti gli altri casi, mediante bonifico bancario,; ilVenditore ti contatterà per chiederti le coordinate bancarie necessarie alla effettuazione di tale bonifico; n ogni caso, nondovrai sostenere alcun costo quale conseguenza di tale rimborso. Il rimborso può essere sospeso fino al ricevimento deibeni oppure fino alla avvenuta dimostrazione da parte tua di avere rispedito i beni, se precedente.Fatto salvo quanto precede, il Venditore ti ricorda che nel caso di recesso parziale da un contratto di vendita relativoa ordini multipli, così come descritto all’art. 10.3 delle Condizioni Generali di Vendita del Venditore, i costi di consegnache ti saranno rimborsati saranno equivalenti ai costi di consegna che avresti pagato per il singolo bene oggetto direcesso parziale, come risultanti dalla pagina descrittiva del prodotto, in relazione alla specifica modalità di consegnada te prescelta. In nessun caso i costi di consegna che ti saranno rimborsati potranno superare l’importo delle spese di
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 2.
 
@@ -1860,7 +1860,7 @@ Nel caso in cui tu abbia acquistato dal Venditore, tramite il sito web www.ePRIC
 
 Nel caso in cui tu abbia acquistato dal Venditore tramite il sito web www.ePRICE.it un Contenuto Digitale Dematerializzato,il Venditore richiama espressamente la tua attenzione su quanto segue: (i) nel caso in cui l’accesso al Contenuto DigitaleDematerializzato sia simultaneo all’acquisto, sarai informato durante il processo d’acquisto che è necessario che, primadell’inoltro dell’ordine, tu esprima il tuo consenso all’inizio dell’esecuzione del contratto (i.e. la fruizione del ContenutoDigitale Dematerializzato) prima del decorso del periodo di recesso e che accetti espressamente il fatto che, in tal caso(iniziando cioè la fruizione del Contenuto Digitale Dematerializzato prima del decorso del periodo di recesso) tu perdi iltuo diritto di recesso; (ii) nel caso in cui l’accesso al Contenuto Digitale Dematerializzato sia successivo all’acquisto, saraiinformato, prima di inoltrare l’ordine, delle modalità di fruizione e accesso al Contenuto Digitale Dematerializzato e che, intutti questi casi, potrai esercitare il diritto di recesso durante il periodo di recesso a partire dalla data dell’invio dell’ordinedi acquisto o, seconda dei casi, dalla ricezione della e-mail contenente il codice di attivazione del Contenuto DigitaleDematerializzato, se prevista, ma che, qualora tu fruisca o acceda al Contenuto Digitale Dematerializzato prima deldecorso del periodo di recesso, ti sarà preventivamente chiesto di acconsentire espressamente all’inizio della esecuzionedel contratto prima del decorso del periodo di recesso ed alla conseguente perdita del diritto di recesso.
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 3.
 
@@ -1904,7 +1904,7 @@ Modulo di Recesso Tipo
 
 nota1 Inserire l’indirizzo del Venditore (destinatario, via, numero civico, città, provincia, CAP, Paese) a cui devono essere inviate lecomunicazioni di recesso e, se il Venditore accetta il recesso anche tramite telefono e/o fax, il numero di telefono e/o il numero di faxrilevanti.
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 1.
 
@@ -1940,7 +1940,7 @@ esclusivamente per l’esecuzione delle attività connesseal perfezionamento del
 
 Titolare del trattamento dei dati personali è PB Online Srl,società , con sede legale in Viale E. Jenner, 53 20159Milano, Italia, Partita IVA/codice fiscale 12429590966(“ePRICE”).Solo nel caso di acquisto di un prodotto venduto -nell’ambito del MarketPlace - da un Venditore Terzo, comedi volta in volta individuato nella scheda del prodottoprescelto dall’utente, il Venditore Terzo assumerà il ruolodi titolare autonomo dei dati personali dell’utente inseritinel modulo d’ordine (ad eccezione dell’indirizzo e-mailche non viene in nessun caso acquisito dal Venditore)nonché nella eventuale corrispondenza, connessaall’acquisto online, intercorsa attraverso il sistema dimessaggistica interna del MarketPlace (in particolare,
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 2.
 
@@ -1982,7 +1982,7 @@ Dati conferiti nell’ambito del servizio “Dillo viae-mail”
 
 In occasione della navigazione sul Sito, gli utenti registrati
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 3.
 
@@ -2032,7 +2032,7 @@ Inoltre, limitatamente alle finalità descritte alle lettere (d)(“marketing”
 
 Il trattamento dei dati sarà principalmente effettuato conl’ausilio di strumenti elettronici o comunque automatizzati,secondo le modalità e con mezzi idonei a garantire lasicurezza e la riservatezza dei dati stessi, in conformitàdi quanto previsto dal Regolamento UE 679 del 2016.In particolare, saranno adottate tutte le misure tecniche,informatiche, organizzative, logistiche e procedurali di
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 4.
 
@@ -2068,7 +2068,7 @@ dell’utente, i dati in esso riportati saranno conservati perfinalità amminist
 
 L’utente può rivolgersi direttamente al titolare deltrattamento. L’interessato può esercitare i suoi diritti (artt.15-22 del Regolamento UE 679 del 2016) anche in unmomento successivo a quello in cui ha prestato il consenso,potendo così revocare un consenso già prestato.I diritti esercitabili dall’interessato sono:1) diritto di ottenere informazioni su quali dati sono trattatidal titolare (diritto di informazione);2) diritto di chiedere ed ottenere in forma intellegibile i datiin possesso del titolare (diritto di accesso);3) diritto di ottenere l’aggiornamento o la rettifica dei daticonferiti;4) diritto di ottenere la cancellazione dei dati in possessodel titolare;5) esercitare l’opposizione al trattamento in tutto o in parte;6) diritto di revocare il consenso in qualsiasi momento;7) diritto di opporsi ai trattamenti automatizzati e a nonessere assoggettati a trattamenti basati esclusivamentesu decisioni automatizzate compreso la profilazione;8) diritto di chiedere ed ottenere trasformazione in formaanonima dei dati;9) diritto di chiedere ed ottenere il blocco o la limitazionedei dati trattati in violazione di legge e quelli dei quali nonè più necessaria la conservazione in relazione agli scopidel trattamento;10) diritto alla portabilità dei dati
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 6.
 
@@ -2124,7 +2124,7 @@ Tutti i dati personali non sono soggetti a diffusione.L’elenco aggiornato dei 
 
 I dati del Venditore saranno conservati per il solo
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 7.
 
@@ -2144,7 +2144,7 @@ I diritti di cui sopra potranno essere esercitati conrichiesta al Titolare, ai r
 
 automatizzate di contatto (email o fax) si estende anchea quelle tradizionali (posta), fatta salva la possibilità perl’interessato di esercitare tale diritto in parte, ai sensidell’art. 7, comma 4, lett. b) del Codice della Privacy, ossiaopponendosi, ad esempio, al solo invio di comunicazionipromozionali effettuato tramite strumenti automatizzati.
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 1.
 
@@ -2196,7 +2196,7 @@ Una volta effettuato il log-in, apparirà l’interfaccia di gestione: si tratta
 
 Avrete inoltre disponibili dei link diretti ai Messaggi, agli Ordini, al Catalogo delle Offerte ed allo stato delle transazioni.
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 2.
 
@@ -2212,7 +2212,7 @@ Nel caso voleste modificare o azzerare la vostra password, sarà sufficiente uti
 
 Il mio Account \> Impostazioni account \> password
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 3.
 
@@ -2252,7 +2252,7 @@ Quando un ordine ricevuto dalla piattaforma contiene uno o più dei vostri prodo
 
 Potrete attraverso la piattaforma gestire gli stati di avanzamento dell’ordine fino ad indicarne l’avvenuta spedizione,inserirne il numero di tracciamento, caricare documentazione come DDT e Fatture, etc..
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 4.
 
@@ -2286,7 +2286,7 @@ Il mio inventario \> Importa offerte da file \> Manuale per i Venditori.
 
 Nel caso aveste bisogno di ulteriore supporto potrete contattare via e-mail il Servizio Clienti dedicato: marketplace@eprice.it
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 1.
 
@@ -2318,7 +2318,7 @@ Non saranno generalmente accettati i prodotti non assimilabili all’elenco dell
 
 ■ Piante, semi e derivati dalle piante la cui venditaè vietata o soggetta ad autorizzazioni■ Alimentari■ Alcolici■ Sigari, sigarette, nonché tabacchi e sigarette alleerbe■ Prodotti che contravvengano ai diritti di proprietàintellettuale e di qualsiasi altro tipo (ad es. dirittidi immagine o diritti personali)■ Prodotti con contenuto pornografico■ Prodotti contenenti l’ormone umano dellacrescita■ Qualsiasi altro tipo di prodotto che, a discrezionedi PB Online srl non sia considerato idoneo allavendita attraverso i nostri Servizi (inclusi gliarticoli definiti quali proibiti nei suddetti elenchie documenti)
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 1.
 
@@ -2374,7 +2374,7 @@ L’invio del reclamo, avente i requisiti indicati all’art.
 
 Eventuali richieste di attivazione del ProgrammaProtezione Clienti che l’Acquirente invii senza averprovveduto ad effettuare il Reclamo Preventivo e/osenza aver lasciato decorrere il Termine di Rispostanon verranno prese in considerazione da PB OnlineSrl. Parimenti, non verranno considerate quellerichieste di attivazione del Programma ProtezioneClienti che l’Acquirente abbia inviato dopo averricevuto, nel Termine di Risposta, una risposta da
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 2.
 
@@ -2404,7 +2404,7 @@ Dopo aver inoltrato la propria richiesta di attivazionedel Programma Protezione 
 
 non limita e non pregiudica, né esclude i diritti e irimedi riconosciuti all’Acquirente dalla legge (e, inparticolare, il diritto di recesso e la garanzia legaledi conformità di cui al Codice del Consumo; v. artt.52 e ss., 61 e 128 e ss. del Codice del Consumo) epertanto quest’ultimo potrà, alle condizioni previstedalla legge, sempre avvalersi di tali diritti e rimediin relazione al Prodotto. Parimenti, il ProgrammaProtezione Clienti non sostituisce, limita, pregiudicae/o esclude eventuali Garanzie Convenzionali e/oServizi Aggiuntivi di Assistenza di cui l’Acquirentepossa godere in relazione al Prodotto, ai sensi delleCondizioni Generali di Vendita del Venditore.Tanto impregiudicato, al momento di invio dellarichiesta di attivazione del Programma ProtezioneClienti, l’Acquirente è tenuto e si impegna sin d’oraa segnalare se abbia già parallelamente attivatoqualcuno tra i rimedi che gli sono riconosciutidalla legge e/o dalle Condizioni Generali diVendita del Venditore. In tal caso, l’Acquirente èconsapevole e accetta che non potrà comunqueconseguire una indebita duplicazione di eventualiindennizzi, rimborsi, risarcimenti o di qualsiasi altroadempimento positivo che egli abbia richiesto insuo favore.A tal fine, impregiudicato il divieto per l’Acquirentedi conseguire una indebita duplicazione di eventualiindennizzi, rimborsi, risarcimenti a suo vantaggio,si informa l’Acquirente, e l’Acquirente dichiara diessere consapevole e di accettare, che:nel caso in cui l’Acquirente effettui il pagamento deiProdotti acquistati sul Sito mediante la soluzionedi pagamento PayPal (“ Acquisto PayPal”), taleacquisto potrebbe essere coperto dal programmadi protezione degli acquisti offerto entro 180giorni dal pagamento da PayPal (ove per “ PayPal”si intende PayPal (Europe) S.à.r.l. e Cie, S.C.A.(R.C.S. Lussemburgo B 118 349), istituto di creditolussemburghese, con sede legale in 22-24Boulevard Royal L-2449 Lussemburgo) (“ProtezioneAcquisti PayPal”), come descritto e disciplinatodalle rilevanti condizioni d’uso, pubblicate sul sitowww.paypal. com e siti web sostitutivi o successivi(“Condizioni d’Uso del Programma ProtezioneAcquisti PayPal”), che l’Acquirente, in quantofruitore dei servizi prestati da PayPal, conosce eha accettato al momento della conclusione delcontratto con PayPal;a) nel caso in cui l’Acquirente apra una contestazionenell’ambito della Protezione Acquisti PayPal(“Contestazione Protezione Acquisti PayPal”)gli sarà inibita l’apertura di una contestazionenell’ambito del Programma Protezione Clienti PBOnline Srl (“Contestazione Programma ProtezioneClienti ePRICE”);b) nel caso in cui l’Acquirente, in relazione allo stessoAcquisto, apra prima una Contestazione ProgrammaProtezione Clienti PB Online Srl e successivamenteuna Contestazione Protezione Acquisti PayPal, laContestazione Programma Protezione Clienti PBOnline Srl sarà chiusa a favore della ContestazioneProtezione Acquisti PayPal che seguirà invece, il suocorso, secondo quanto previsto dalle Condizioni
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 3.
 
@@ -2428,7 +2428,7 @@ che nella Pagina Prodotto sia stata segnalata taleassenza;■ un pacco contenent
 
 4 Istruttoria di ePRICE4.1 Una volta che l’Acquirente ha attivato la proceduradi Programma Protezione Clienti secondo quantoprevisto dall’art. 2.3 che precede, PB Online Srlprovvederà innanzitutto a verificarne la correttezzaai sensi degli artt. 2 e 3 che precedono. Qualora taleverifica dia esito positivo, PB Online Srl provvederàa inviare una e-mail all’Acquirente, comunicandogliche la sua richiesta di attivazione del ProgrammaProtezione Clienti è andata a buon fine, nonché iltermine entro cui la fase istruttoria si riterrà conclusaa norma dell’art. 4.3 e quello massimo di duratadella procedura di Protezione Clienti. Diversamente,PB Online Srl comunicherà all’Acquirente, sempreper e-mail, che non è stato possibile attivare il
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 4.
 
@@ -2454,7 +2454,7 @@ terzo, a seconda dei casi, il Prodotto oggetto dellaprocedura di Protezione Clie
 
 5.4 Se, nel corso dell’istruttoria:(i) il Venditore ha dato prova documentaledell’avvenuta consegna del Prodotto all’Acquirente,PB Online Srl potrebbe decidere il reclamo a favoredel Venditore, anche se l’Acquirente non ha mairicevuto in consegna il Prodotto;l’Acquirente ha fornito validi e decisivi elementi di prova
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 5.
 
@@ -2482,7 +2482,7 @@ indicati agli artt. 141-bis e ss. Codice del Consumo),precisando se intenda avva
 
 6.7 L’utente che risiede in uno stato membro dell’UnioneEuropea diverso dall’Italia può, inoltre, accedere,per ogni controversia relativa all’applicazione,esecuzione e interpretazione delle presentiCondizioni Generali di Vendita, al procedimentoeuropeo istituito per le controversie di modestaentità, dal Regolamento (CE) n. 861/2007 delConsiglio, dell’11 luglio 2007, a condizione che ilvalore della controversia non ecceda, esclusi gliinteressi, i diritti e le spese, Euro 2.000,00. Il testodel regolamento è reperibile sul sito www.eur-lex.europa.eu
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 1.
 
@@ -2506,7 +2506,7 @@ ALLEGATO 8 - ELENCO DEI PAESI ATTIVATI
 
 \- Italia
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 1.
 
@@ -2532,7 +2532,7 @@ PB ONLINE, in qualità di Responsabile del Trattamento, è autorizzato a trattar
 
 ■ Raccolta,■ Registrazione,■ organizzazione,■ strutturazione,■ conservazione,■ adattamento o la modifica,■ estrazione,■ consultazione,■ uso,■ comunicazione mediante trasmissione, diffusione o qualsiasi altra forma di messa a disposizione,
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 2.
 
@@ -2564,7 +2564,7 @@ Il presente Addendum produce effetti a partire dalla sua sottoscrizione e per tu
 
 PB ONLINE, in qualità di Responsabile del Trattamento, si obbliga:1. a trattare i Dati Personali, in qualità di Responsabile del Trattamento, per la finalità di cui al presente Addendum e,in particolare, come indicato al punto III che precede, ai fini della corretta esecuzione dell’Accordo e della correttaprestazione dei Servizi, ferma restando la facoltà di PB ONLINE di trattare i Dati Personali (anche gli stessi DatiPersonali di cui le è demandato il Trattamento in forza del presente Addendum), in qualità di Titolare del Trattamento,secondo quanto stabilito dall’Accordo2. a comunicare i Dati Personali, di cui le è demandato il Trattamento, in qualità di Responsabile del Trattamento: (i)a responsabili ulteriori del trattamento, designati conformemente all’art. 28 GDPR e all’art. V.9 che segue; e/o (ii)a persone autorizzate al trattamento dei dati personali sotto l’autorità di PB ONLINE, in qualità di Responsabiledel Trattamento, (“ Incaricati”), istruiti in tal senso da PB ONLINE, in qualità di Responsabile del Trattamento,conformemente a quanto indicato dall’art. 29 GDPR.3. trattare i Dati Personali conformemente alle istruzioni documentate del Venditore, in qualità di Titolare delTrattamento (“Istruzioni”), anche in caso di trasferimento di Dati Personali verso un paese terzo o un’organizzazioneinternazionale, salvo che lo richieda il diritto dell’Unione o il dirizzo nazionale cui è soggetto il Responsabile delTrattamento; in tal caso il Responsabile del Trattamento informa il Titolare del Trattamento di tale obbligo giuridicoprima del Trattamento, a meno che il diritto dell’Unione o dello Stato membro in questione vietino tale informazioneper rilevanti motivi di interesse pubblico. Se il Responsabile del Trattamento ritiene che una istruzione costituiscauna violazione del GDPR e/o di un’altra disposizione del diritto dell’Unione o del diritto di uno degli Stati membrirelativa alla protezione dei dati personali, il Responsabile del Trattamento ne dà immediata comunicazione alTitolare del Trattamento.
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 3.
 
@@ -2608,7 +2608,7 @@ Tenendo conto della natura del trattamento, il Responsabile del Trattamento deve
 
 Nel caso in cui gli Interessati indirizzino le richieste di esercizio dei diritti di cui al Capo III del GDPR al Responsabile delTrattamento, il Responsabile del Trattamento è tenuto a inoltrare immediatamente tali richieste al Titolare del Trattamento,per email, all’indirizzo di cui all’art. X che segue.
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 4.
 
@@ -2664,7 +2664,7 @@ XII. Conservazione dei Dati Personali durante la vigenza dell’Addendum e loro 
 
 Durante la vigenza dell’Addendum, PB ONLINE, in qualità di Responsabile del Trattamento, si obbliga a conservare i
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 5.
 
@@ -2724,7 +2724,7 @@ XVII. Trasferimento dei Dati Personali in un paese terzo
 
 Nel caso in cui ePRICE, in qualità di Responsabile del Trattamento, intenda trasferire i Dati Personali in un paese terzo, ilResponsabile del Trattamento si impegna a:- comunicare tale intenzione al Venditore, in qualità di Titolare del Trattamento, indicando il paese terzo di
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
 
 6.
 
@@ -2770,4 +2770,4 @@ XXI. Varie
 
 Le Parti riconoscono che il presente Addendum non limita né riduce gli impegni che il Venditore ha assunto nei confrontidi PB ONLINE nell’Accordo né la facoltà di PB ONLINE di trattare i Dati Personali (anche gli stessi Dati Personali di cuile è demandato il Trattamento in forza del presente Addendum), in qualità di Titolare del Trattamento, secondo quantostabilito dall’Accordo.
 
-2024.1.0-IT
+2024.1.0-IT - 06/02/24
