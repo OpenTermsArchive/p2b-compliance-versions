@@ -1,7 +1,7 @@
 How Bing delivers search results
 ================================
 
-Last updated: January 2024
+Last updated: February 2024
 
 _For previous versions, please see the archives  [here](https://www.bing.com/bingpolicies/archives)._
 
@@ -130,9 +130,11 @@ Answers
 
 Generative AI Features
 
-Bing’s generative AI features include Copilot in Bing conversational experiences, Image Creator from Designer, Copilot Pro, and Copilot GPTs and GPT Builder (coming soon). The conversational experiences build on the existing Bing experience to provide users with a new type of natural language search interface, built on “large language model” technology. The sources Copilot response uses to form its answer are derived from the same ranking of third-party search results as the main web search results page.  These results are displayed clearly to the user giving them the opportunity to dive deeper by visiting the 3rd party site. Based on the user query or prompt, the model may also produce output that helps inspire the user’s creativity. The output can serve as the inspiration for a poem, a story, code, an essay, a song, or anything else that can be expressed in natural language or in an image, depending on the nature of a user’s request.
+Bing has integrated Copilot into the Bing search experience, which allows Bing users to access Copilot’s generative AI features such as Designer, Copilot Pro and Copilot GPT Builder. The conversational experiences enhance the existing Bing experience to provide users with a new type of natural language search interface, built on large language model technology. The sources Copilot uses to form its answer are derived from the same ranking of third-party search results as the main web search results page. These results are displayed clearly to the user, giving them the opportunity to dive deeper by visiting the third-party site. Based on the user query or prompt, the model may also produce output that helps inspire the user’s creativity. The output can serve as the inspiration for a poem, a story, code, an essay, a song, or anything else that can be expressed in natural language or in an image, depending on the nature of a user’s request. 
 
-Bing's generative AI features were developed with responsible AI in mind.  Please see [Our Approach to Responsible AI](https://aka.ms/responsibleAI-newBing) for more detail. User activity in these features is governed by the service’s [Terms of Use](https://aka.ms/microsoftbingtermsofuse) and Code of Conduct.
+Bing sometimes shows Copilot-generated summarized results on the top of the Bing main search results page in response to user queries, making the search experience even easier and faster. Users can still find the traditional search results layout at the lower part of the page.  
+
+Copilot's generative AI features were developed with responsible AI in mind. Please see [Our Approach to Responsible AI](https://aka.ms/responsibleAI-newBing) for more detail. User activity in these features is governed by the service’s [Terms of Use](https://aka.ms/microsoftbingtermsofuse) and Code of Conduct.
 
 ### 
 
