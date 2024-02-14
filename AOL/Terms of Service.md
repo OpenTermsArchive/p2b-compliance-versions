@@ -564,7 +564,7 @@ _In June 2017, we announced that Yahoo and AOL joined to become a unified digita
                 The EU Digital Services Act requires us to inform users in the European Union that we impose certain restrictions on user-provided content that is hosted on Yahoo sites, including moderating user comments. We also enable users to report and request the removal of illegal content. We follow Yahoo’s internal policies and procedures, including where appropriate human review, to identify illegal content. Where necessary, pursuant to our [community guidelines](https://legal.yahoo.com/us/en/yahoo/guidelines/index.html), we take action to remove that content.
             2. Points of Contact
                 
-                1. If you are a representative of a Member State of the European Union, the European Commission or the European Board for Digital Services you can communicate with us at the following email address: [dsa@yahooinc.com](mailto:dsa@yahooinc.com). Our preferred language of communication is English.
+                1. If you are a representative of a Member State of the European Union, the European Commission or the European Board for Digital Services you can communicate with us at the following email address: dsa@yahooinc.com. Our preferred language of communication is English.
                 2. If you are a user residing within the European Union, you can use our [contact form](https://uk.help.yahoo.com/kb/account?locale=en_GB&sclb=1&ct=TOP_HIDE_INHELP_EMEA_DSA&sbct=ISS_EMEA_DSA).
 
 _Last updated: 31 January, 2024_
