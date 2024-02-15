@@ -5,7 +5,7 @@
 **EPIC ONLINE SERVICES DEVELOPER AGREEMENT**
 ============================================
 
-LAST UPDATED 7th OF DECEMBER 2022
+LAST UPDATED: 15 February 2024
 
 Epic has developed a set of online services for you to use in your Video Games. Epic intends to provide these services to you for use in your Video Games in the same manner and at the same level of quality as Epic expects for Epic’s own Video Games.
 
@@ -67,7 +67,8 @@ The purpose of this Agreement is to establish terms regarding your use of the SD
 
 (4) in an unreasonable or excessive manner given the scope, nature, and content of your Video Game, for example to conduct a DDOS attack on the Services.
 
-4.2. Epic reserves the right to immediately remove content stored or maintained through the Services or disable access to, suspend, or terminate the Services to comply with applicable law or if you are in violation of this Section 4 or any Service Addendum. You agree to provide information or other materials related to your use of the Services as reasonably requested by Epic to investigate the source of any problem with the Services or to verify your compliance with this Agreement.
+4.2. Epic reserves the right to immediately remove content stored or maintained through the Services or disable access to, suspend, or terminate the Services to comply with applicable law or if you are in violation of this Section 4 or any Service Addendum. You agree to provide information or other materials related to your use of the Services as reasonably requested by Epic to investigate the source of any problem with the Services or to verify your compliance with this Agreement.  
+For information about our content moderation practices, please visit our [Safety and Security Center](https://safety.epicgames.com/en-US).
 
 4.3. Epic intends to be transparent in its management and enforcement of the restrictions above. Epic will keep you up-to-date and provide additional guidance on these issues through the Epic Online Services Acceptable Use Policy. In addition, technical documentation outlining how to use the SDK and the Services, including any technical restrictions on their use, is available on Epic’s documentation page.
 
@@ -251,7 +252,7 @@ As used in this Agreement, the following capitalized words have the following me
 **SERVICE ADDENDUM FOR STANDARD SERVICES**
 ==========================================
 
-LAST UPDATED 9TH OF NOVEMBER 2021
+LAST UPDATED: 9 November 2021
 
 This Service Addendum for Standard Services (“Addendum”) supplements the Epic Online Services Developer Agreement (“Developer Agreement”) between you and Epic. All defined terms used in the Developer Agreement will have the same meaning where used in this Addendum, unless this Addendum expressly states otherwise.
 
@@ -285,7 +286,7 @@ The purpose of this Addendum is to establish the Services that enable the functi
 **SERVICE ADDENDUM FOR EPIC ACCOUNT SERVICES**
 ==============================================
 
-LAST UPDATED 18TH OF MARCH 2021
+LAST UPDATED: 18 March 2021
 
 This Service Addendum for Epic Account Services (“Addendum”) supplements the Epic Online Services Developer Agreement (“Developer Agreement”) between you and Epic. All defined terms used in the Developer Agreement will have the same meaning where used in this Addendum, unless this Addendum expressly states otherwise.
 
@@ -408,7 +409,7 @@ By using Epic Account Services, you are agreeing to be bound by the terms of thi
 **SERVICE ADDENDUM FOR ANTI-CHEAT SERVICES**
 ============================================
 
-LAST UPDATED 27TH OF MAY 2021  
+LAST UPDATED: 27 May 2021  
   
 This Service Addendum for Anti-Cheat Services (“Addendum”) supplements the Epic Online Services Developer Agreement (“Developer Agreement”) between you and Epic. All defined terms used in the Developer Agreement will have the same meaning where used in this Addendum, unless this Addendum expressly states otherwise.  
   
