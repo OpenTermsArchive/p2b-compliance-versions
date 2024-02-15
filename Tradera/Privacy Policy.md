@@ -40,7 +40,7 @@ We may update this Privacy statement from time to time. The latest version is al
 
 #### Data Controller
 
-Tradera Marketplace AB, Sankt Eriksgatan 117, 113 43 Stockholm, Sweden (hereinafter “**Tradera**”) is the data controller for the processing described in this Privacy statement. Tradera is responsible for the processing of your personal data and to provide the services stated in [User agreement](https://info.tradera.com/en/anvandaravtal-eng/) and according to the principles as laid down in this Privacy statement.
+Tradera Marketplace AB, Solnavägen 3H, 113 63 Stockholm, Sweden (hereinafter “**Tradera**”) is the data controller for the processing described in this Privacy statement. Tradera is responsible for the processing of your personal data and to provide the services stated in [User agreement](https://info.tradera.com/en/anvandaravtal-eng/) and according to the principles as laid down in this Privacy statement.
 
 #### Collection of Personal Data
 
@@ -261,9 +261,9 @@ You may also, if you are not satisfied with the way we address your concerns, lo
 
 Tradera Marketplace AB, org no 556569-4642
 
-Sankt Eriksgatan 117
+Solnavägen 3H
 
-113 43 Stockholm, Sweden
+113 63 Stockholm, Sweden
 
 +46771-392 000
 
