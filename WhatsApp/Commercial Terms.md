@@ -1,3 +1,15 @@
+_We’re updating our Business Terms of Service. This includes:_
+
+* _Changes in response to regulations in the EU and Australia_
+* _Information about how we rely on the new_ [_EU-US Data Privacy Framework_](https://www.whatsapp.com/legal/business-data-processing-terms/preview)
+
+_These changes will go into effect:_
+
+* _On the day you sign up to use our services if on or after 16 February 2024_
+* _On 11 April 2024, if you signed up to use our services before 16 February 2024_
+
+[_Read the updated Business Terms of Service_](https://www.whatsapp.com/legal/business-terms/preview)
+
 WhatsApp Business Terms of Service
 ==================================
 
