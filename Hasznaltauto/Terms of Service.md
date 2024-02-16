@@ -15,7 +15,7 @@
 
 1.4. Jelen ÁSZF tartalmazza a Weboldalakon igénybe vehető Szolgáltatásokra vonatkozóan a Felhasználókat megillető, illetőleg terhelő alapvető jogokat és kötelezettségeket. Jelen ÁSZF a Weboldalakat érintő valamennyi hirdetési- és egyéb szerződésre (továbbiakban: **hirdetési szerződés**) irányadó, feltéve, hogy Üzemeltető és Felhasználó írásbeli megállapodása ettől eltérően nem rendelkezik.
 
-1.5. A Weboldalakon elérhető Szolgáltatásokat kizárólag cselekvőképes természetes személynek, illetőleg gazdálkodó szervezetnek minősülő Felhasználó veheti igénybe. A Szolgáltatás igénybevételével, így különösen, de nem kizárólagosan a regisztrációval, illetve a Szolgáltatás megrendelésével a Felhasználó elismeri, hogy teljes cselekvőképességgel és jogképességgel rendelkező természetes személy, vagy olyan gazdálkodó szervezet, amely nevében a képviseletére jogosult képviselője jár el, valós és helyes adatok megadásával. A Kereskedő Felhasználók az Európai Parlament és a Tanács (EU) 2019/1150 számú rendelete alapján üzleti felhasználónak minősülnek.
+1.5. A Weboldalakon elérhető Szolgáltatásokat kizárólag 18. életévet betöltött cselekvőképes természetes személynek, illetőleg gazdálkodó szervezetnek minősülő Felhasználó veheti igénybe. A Szolgáltatás igénybevételével, így különösen, de nem kizárólagosan a regisztrációval, illetve a Szolgáltatás megrendelésével a Felhasználó elismeri, hogy teljes cselekvőképességgel és jogképességgel rendelkező, 18. életévét betöltött természetes személy, vagy olyan gazdálkodó szervezet, amely nevében a képviseletére jogosult képviselője jár el, valós és helyes adatok megadásával. A Kereskedő Felhasználók az Európai Parlament és a Tanács (EU) 2019/1150 számú rendelete alapján üzleti felhasználónak minősülnek.
 
 1.6. A Felhasználó a Weboldalak bármelyike használatának megkezdésével ráutaló magatartással, illetve a regisztráció során, továbbá a Szolgáltatások megrendelése során tett kifejezett nyilatkozattal elfogadja és magára nézve kötelezőnek ismeri el a jelen ÁSZF rendelkezéseit, továbbá kötelezettséget vállal az ÁSZF betartására. A Weboldalakat minden Felhasználó kizárólag a saját kockázatára és felelősségére, illetőleg a jelen ÁSZF rendelkezéseit és a vonatkozó jogszabályi előírásokat betartva jogszerűen használhatja.
 
@@ -171,9 +171,45 @@ _5.2.5.5. HD képnézegető:_ HD képnézegető szolgáltatásunk lehetővé tes
 
 _5.2.5.6. Logó megjelenítése a találati listában:_ A szolgáltatás bekapcsolása után a hirdető Felhasználó az admin fiókban feltöltött logója megjelenik a keresések találati listában, a Hirdető összes hirdetése mellett.
 
+**5.3. Az ajánlórendszerek átláthatósága**
+
+A Weboldalon a hirdetések alapértelmezett rendezési sorrendje a hirdetések megjelenésének időpontjától függ. A találati lista elején a legfrissebb hirdetések szerepelnek, amelyet az időrendben később megjelent hirdetések követnek, a találati lista végén pedig a legrégebben megjelent hirdetések láthatók.
+
+A hirdetések alapértelmezett rendezési sorrendjét az 5.2. pont szerinti kiemelt hirdetések befolyásolják. A Felhasználónak lehetősége van díjfizetés, vagy a Weboldalon elérhető más fizetési megoldás használatával olyan kiemelést vásárolni, ami a hirdetést előrébb sorolhatja az adott találati lista oldalon. Alapértelmezett rendezési sorrend alkalmazása esetén, amennyiben a találati lista tartalmaz ilyen hirdetéseket, azok az alapértelmezett lista elején– szintén megjelenés szerinti sorrendben – kerülnek feltüntetésre. A Felhasználóknak lehetőségük van a találati lista oldalon az egyéni preferenciáknak megfelelő rendezési sorrend kialakítására és a találatokat rendezhetik ennek megfelelően márka, évjárat, vételár, vagy távolság szerinti növekvő, vagy csökkenő sorrendbe is. Erre a találati lista oldal jobb felső sarkában elhelyezett “Rendezés” funkciót használhatják, amely esetben a kiemelések – a TOP hirdetés kiemelés kivételével – nem lesznek hatással a sorrendre.
+
+A kiemelt hirdetéseket K ikon jelöli a hirdetés jobb alsó sarkában.
+
+Így változtatják meg a kiemelések a lista sorrendjét alapértelmezett rendezéskor. 
+
+1\. TOP hirdetés kiemelés:
+
+Ez a kiemelés típus csak az Autó, Motor és Kishaszongépjármű kategóriákban jelenhet meg. Ha a szűrési feltételeknek megfelelően elérhető ilyen hirdetés, az a lista első pozíciójában fog feltűnni. Kizárólag gyártmány alapján történő keresés (szűrés) esetén az adott gyártmány egyes típusaira az érintett időszakban megrendelt valamennyi TOP hirdetés kiemelésű hirdetés megjelenik a feladás időpontja szerinti sorrendben a találati lista első helyein. 
+
+2\. Garanciális kiemelés + Előre rendezés
+
+A TOP kiemelés után következnek azon hirdetések, amelyek rendelkeznek garanciális és előre rendezés kiemeléssel is.
+
+3\. Garanciális kiemelés
+
+Ez a kiemelés a márkakereskedés / kereskedés által biztosított garanciális programban részt vevő hirdetéseket emeli ki és a találati lista oldalon előre, a TOP hirdetés kiemeléssel, illetve az Előre rendezés és garanciális kiemeléssel is rendelkező hirdetések után rendezi azon hirdetéseket.
+
+4\. Előre rendezés
+
+A találati listás kiemelés szolgáltatás igénybevétele esetén az adott hirdetés a felhasználói keresések (szűrések) találati listájában – a többi, ilyen kiemeléssel nem rendelkező hirdetéshez képest – előre sorolva jelenik meg. 
+
+5\. Nem kiemelt hirdetések
+
+Minden egyéb hirdetés, ami nem rendelkezik a sorrendet befolyásoló kiemeléssel.
+
+6\. Kiemelés címlapra
+
+A kiemelés címlapra szolgáltatás igénybevételével a hirdetés a “kiemelt hirdetések” részben kerül megjelenítésre a Weboldal főoldalán. A főoldali kiemelt hirdetések rendezési elvét a kiemelés megvásárlásnak időpontja határozza meg. A rendezés a legújabb kiemelt hirdetéstől a legrégebbi felé halad.
+
+A “Keretes kiemelés”, “Akciós ár kiemelés” és az “Okos videó” szolgáltatás a találati lista sorrendjét nem befolyásoló kiemelések. Ezen kiemelések előfordulhatnak a fenti kiemelési lehetőségekkel kombinálva. 
+
 **6\. Ellenérték megfizetésének szabályai**
 
-**6.1. Az egyedi hirdetési szerződéssel nem rendelkezőFelhasználók tekintetében alkalmazott szabályok**
+**6.1. Az egyedi hirdetési szerződéssel nem rendelkező Felhasználók tekintetében alkalmazott szabályok**
 
 6.1.1. Az egyedi hirdetési szerződéssel nem rendelkező Felhasználók a hirdetéseik kiemelésének ellenértékét bankkártyás fizetéssel egyenlíthetik ki az Üzemeltető felé a szolgáltatás igénybevételét megelőzően.
 
@@ -301,9 +337,9 @@ Amennyiben a Felhasználó magatartása következtében vagy azzal összefüggé
 
 8.4. Egy Felhasználó hirdető egyidejűleg egy adott járműről egy hirdetést helyezhet el az adott Weboldalon. A régi hirdetés kitörlését követően adható fel ugyanarra a járműre vonatkozó másik hirdetés. Tilos több Felhasználó hirdetői profil létrehozása ennek kikerülésére. 
 
-8.5. Üzemeltető közízlést- vagy jogszabályt, más személy jogos érdekét sértő, valamint az adott Weboldal struktúrájába nem illő adatokat, információkat, képeket, fájlokat, illetve megtévesztő, hamis vagy a valóságnak más okból nem megfelelő, vagy bújtatott reklámot tartalmazó hirdetéseket minden értesítés, előzetes bejelentés nélkül jogosult törölni rendszeréből. 
+8.5. Üzemeltető közízlést- vagy jogszabályt, más személy jogos érdekét sértő, valamint az adott Weboldal struktúrájába nem illő adatokat, információkat, képeket, fájlokat, illetve megtévesztő, hamis vagy a valóságnak más okból nem megfelelő, vagy bújtatott reklámot tartalmazó hirdetéseket jogosult törölni rendszeréből. 
 
-8.6. Üzemeltető a [**www.hasznaltauto.hu**](https://www.hasznaltauto.hu/) honlap esetében jogosult továbbá az alábbi pontok bármelyikének megsértése, megvalósulása esetén külön értesítés nélkül törölni a hirdetést, vagy a megfelelő kategóriába áthelyezni, amennyiben:
+8.6. Üzemeltető a [**www.hasznaltauto.hu**](https://www.hasznaltauto.hu/) honlap esetében jogosult továbbá az alábbi pontok bármelyikének megsértése, megvalósulása esetén törölni a hirdetést, vagy a megfelelő kategóriába áthelyezni, amennyiben:
 
 (a) Felhasználó egyidejűleg egy adott járműről több hirdetést is elhelyez, vagy egy hirdetésben több járművet hirdet.
 
@@ -331,7 +367,7 @@ Amennyiben a Felhasználó magatartása következtében vagy azzal összefüggé
 
 (m) Felhasználó kizárja a felelősségét a hirdetésben közzétett tartalomért (pl.: elírás, tévedés jogának fenntartása).
 
-8.7. Üzemeltető a [**www.szalonauto.hu**](https://www.szalonauto.hu/) honlap esetében jogosult továbbá az alábbi pontok bármelyikének megsértése, megvalósulása esetén külön értesítés nélkül törölni a hirdetést, vagy a megfelelő kategóriába áthelyezni, amennyiben:
+8.7. Üzemeltető a [**www.szalonauto.hu**](https://www.szalonauto.hu/) honlap esetében jogosult továbbá az alábbi pontok bármelyikének megsértése, megvalósulása esetén törölni a hirdetést, vagy a megfelelő kategóriába áthelyezni, amennyiben:
 
 (a) Felhasználó egyidejűleg egy adott járműről több hirdetést is elhelyez, vagy egy hirdetésben több járművet hirdet.
 
@@ -366,7 +402,7 @@ Amennyiben a Felhasználó magatartása következtében vagy azzal összefüggé
 * Üzemeltető azt az általa képviselt etikai erkölcsi alapelvekkel ellentétesnek tartja;
 * vagy a fentiek gyanúja felmerülhet.
 
-8.9. Üzemeltető jogosult a Szolgáltatás nyújtásának megtagadására és a Felhasználót kizárni a Weblapon elérhető Szolgáltatások nyújtásából (a Felhasználó fiókjának illetve hirdetésének törlésével) akkor is, ha a Felhasználó Üzemeltető megítélése szerint nem rendeltetésszerűen használja valamely Weboldalt, illetve nem rendeltetésszerűen veszi igénybe Üzemeltető által nyújtott Szolgáltatást, így különösen, ha:
+8.9. Üzemeltető jogosult a Szolgáltatás nyújtásának megtagadására és a Felhasználót kizárni a Weblapon elérhető Szolgáltatások nyújtásából (a Felhasználó fiókjának tiltásával vagy törlésével, illetve hirdetésének törlésével) akkor is, ha a Felhasználó Üzemeltető megítélése szerint nem rendeltetésszerűen használja valamely Weboldalt, illetve nem rendeltetésszerűen veszi igénybe Üzemeltető által nyújtott Szolgáltatást, így különösen, ha:
 
 * a Felhasználó hatósági engedélyköteles tevékenységet kíván az oldal közvetítésével végezni anélkül, hogy erre jogosult volna;
 * a Felhasználó kereskedelmi forgalomba nem hozható termékeket kínál eladásra, illetve olyan terméket ajánl fel, melynek forgalmazása bűncselekményt vagy szabálysértést valósít meg, vagy annak hirdetése vagy forgalmazása bejelentéshez vagy engedélyhez kötött;
@@ -379,15 +415,62 @@ Amennyiben a Felhasználó magatartása következtében vagy azzal összefüggé
 
 8.10. Tilos a feladott hirdetés olyan módon történő módosítása vagy szerkesztése, amely a hirdetésben szereplő termék tárgyára tekintettel tartalmilag új hirdetés feladásának minősülne.
 
-8.11. Egyedi hirdetési szerződéssel rendelkező Felhasználók esetében erről az ÁSZF 8.5., 8.6., 8.7., 8.8. és 8.10. pontjai szerinti döntésről a döntés indokait tartalmazó e-mailben értesíti Üzemeltető a Felhasználót, aki jogosult panaszeljárásban tisztázni ezeket a körülményeket. Üzemeltető a felelősségét a jelen pont szerinti döntések miatti törlésekért az ÁSZF 7.9. pontja szerint kizárta.
+8.11. Üzemeltető a felelősségét a jelen ÁSZF 8. pontja szerinti döntések miatti törlésekért kizárja, Felhasználó semmilyen kártérítési vagy bármilyen egyéb megtérítési, visszafizetési igénnyel nem élhet.
 
-8.12. Üzemeltető fenntartja magának a jogot, hogy a jelen ÁSZF-ben meghatározottak szerinti Szolgáltatás nyújtásának megtagadásával érintett Felhasználó IP címéről érkező ismételt regisztrációt megtagadja, illetve a már létrejött ismételt regisztrációt előzetes értesítés nélkül, azonnali hatállyal törölje, felé a Szolgáltatás nyújtását a jövőben megtagadja. A Kereskedő Felhasználót erről a döntéséről Üzemeltető e-mailben 30 nappal korábban értesíti, de ezt a döntését nem köteles megindokolni.
+8.12. Üzemeltető fenntartja magának a jogot, hogy a jelen ÁSZF-ben meghatározottak szerinti Szolgáltatás nyújtásának megtagadásával érintett Felhasználó IP címéről érkező ismételt regisztrációt megtagadja, illetve a már létrejött ismételt regisztrációt törölje, felé a Szolgáltatás nyújtását a jövőben megtagadja. A Kereskedő Felhasználót erről a döntéséről Üzemeltető e-mailben 30 nappal korábban értesíti.
 
 8.13. Előzőek ismételt megsértése, megvalósulása esetén Üzemeltető az érintett Felhasználó tekintetében korlátozhatja a hirdetések elhelyezését. Ilyen esetekben a Felhasználó hirdető semmilyen kártérítési vagy bármilyen egyéb megtérítési, visszafizetési igénnyel nem élhet, azonban köteles lesz Üzemeltető ezzel kapcsolatban felmerült kárát megtéríteni.
 
+**8.14. Nem megfelelő hirdetés, tartalom bejelentése**
+
+Amennyiben a Felhasználó észleli, hogy valamely a Weboldalon elérhető hirdetés nem megfelelően lett feladva, vagy jogellenes, lehetősége van az adott hirdetés bejelentésére a Társaság felé a hirdetésnél erre a célra elhelyezett „Probléma a hirdetéssel” gomb megnyomásával megjelenő bejelentési formon keresztül. A Felhasználó – a hiba jellege szerint – az egyes hirdetések kapcsán különböző kategóriákban tehet bejelentést:
+
+* Nem megfelelő telefonszám
+* Okmányok jellege vagy érvényessége nem megfelelő
+* Ajtók száma nem megfelelő
+* A képek nem a hirdetésben szereplő járműről készültek
+* Nem megfelelő felszereltség
+* Nem megfelelő ár
+* A kivitel hibásan van megadva
+* Nem megfelelő kategóriában van a hirdetés
+* A képek utólag szerkesztettek
+* Eladva vagy foglalózva
+* Kilométeróra állás nem megfelelő
+* Jogellenes tartalom
+
+A Felhasználó a Weboldalon elérhető egyéb, jogellenesnek feltételezett tartalom észlelése esetén a Társaság Ügyfélszolgálata részére tehet bejelentést.
+
+A Felhasználó a jogellenes hirdetés, tartalom bejelentése során köteles megadni nevét és/vagy e-mail címét, kivéve, ha a bejelentés a 2011/93/EU irányelv 3–7. cikkében megjelölt bűncselekményre vonatkozik. A név, illetve az e-mail cím megadásának elmaradása nem eredményezi a bejelentés mellőzését, annak kivizsgálását azonban megakadályozhatja.
+
+A Társaság a bejelentések kézhezvételét automatikusan visszaigazolja a bejelentéshez kapcsolt esetszám megküldésével. A Társaság a bejelentést annak kézhezvételétől számított 30 napon belül érdemben megvizsgálja és megválaszolja, illetve megteszi a szükséges intézkedéseket a bejelentés megalapozottsága esetén az abban foglaltak orvoslása érdekében.
+
+**8.15. Tartalommoderálás**
+
+A Társaság saját kezdeményezésre, vagy bejelentés alapján végez hirdetés moderációt. A Társaság a hirdetés moderációt manuálisan (emberi felülvizsgálat útján) végzi egyrészt a hirdetés megjelenését követően az egyedi szerződéssel nem rendelkező Felhasználók tekintetében, másrészt valamennyi Felhasználónak a bizonyos szűrőfeltételeknek megfelelő hirdetései is ellenőrzésre kerülhetnek. A Weboldalon közzétett hirdetés utólagos moderációjára emellett a Felhasználók általi bejelentések és a hatósági megkeresések alapján kerül sor.
+
+A moderáció során a hirdetés tartalmi és formai elemeinek ellenőrzése mellett a felhasználói fiók fő paraméterei is ellenőrzésre kerülnek. Amennyiben megállapításra kerül, hogy a hirdetés jelen Felhasználási Feltételekbe ütközik vagy jogellenes, a Társaság az alábbi intézkedésekről dönthet: hirdetés törlése, felhasználói fiók tiltása vagy törlése, vagy intézkedés elvégzésére nem kerül sor.
+
+Azok a hirdetések, amelyek az ÁSZF-be ütköznek, vagy jogellenesek azonnali törlésre kerülnek. A hirdetések formai vagy tartalmi hibái esetében a Felhasználó e-mailben tájékoztatásra kerül az észlelt hibáról és 72 óra áll rendelkezésére a hirdetés módosítására vagy pontosítására, amennyiben azonban nem történik meg a szükséges módosítás, a hirdetés 72 óra leteltét követően törlésre kerül. 
+
+Amennyiben az ellenőrzés során a felhasználói fiók kapcsán valamilyen szabálytalanság kerül beazonosításra, vagy a felhasználói magatartás korábbi csalással kapcsolatos mintázatnak felel meg, úgy a fiók kapcsán a szolgáltatás korlátozására kerül sor az alábbiak szerint: 
+
+a. Telefonszám feketelistára tétele nem hivatalos, engedély nélkül működő kereskedő (nepper), szolgáltatással visszaélők vagy a számlát nem kiegyenlítő partnerek esetén. A feketelistán szereplő felhasználók nem tudnak új hirdetést feladni, de a fiókhoz hozzáférnek. 
+
+b. Felhasználói fiók tiltása: csaló, illetve korábbi csalással kapcsolatos mintázatba illő felhasználói magatartás beazonosítása esetén a fiók tiltásra kerül. 
+
+A Társaság a hirdetés moderációja esetén döntéséről, intézkedéséről és ennek okáról írásban tájékoztatja a hirdető Felhasználót. A Társaság emellett, amennyiben valamely Felhasználó bejelentésére járt el, írásban tájékoztatja a bejelentést tevő Felhasználót a döntéséről.
+
+A Felhasználó a Társaság tartalommoderálással kapcsolatos döntésével szemben annak kézhezvételét követő 6 hónapon belül panaszt nyújthat be a Társaság Ügyfélszolgálatára. A panaszban a Társaság kifogásolt döntésére (hirdetéskód feltüntetésével) szükséges hivatkozni annak megjelölésével, hogy a Társaság döntését milyen okból kifogásolja. A Társaság a panasz kivizsgálása és az arról való döntés meghozatala során a jelen Szabályzat „Panaszkezelés, ügyfélszolgálat” fejezetében foglaltak szerint jár el.
+
+Amennyiben a panasz megalapozott, a Társaság a panasznak helyt adva megváltoztatja a döntését, amelynek eredményeként a döntés visszavonására, vagy a döntés szerinti korlátozó intézkedés módosítására kerülhet sor. Amennyiben a panasz nem megalapozott, a Társaság a panaszt elutasítva helybenhagyja a korábbi döntését. 
+
+A Társaság panasz kapcsán hozott döntésével szemben további panasz benyújtására nincs lehetőség. A döntéssel érintett hirdető Felhasználó jogosult a választása szerinti tanúsított peren kívüli vitarendezési testülethez fordulni a döntéssel kapcsolatos jogviták rendezése céljából, amelyeket a Társaság részére benyújtott panasz révén nem sikerült rendezni. A peren kívüli vitarendezési testületek listáját a Nemzeti Média- és Hírközlési Hatóság elnöke által vezetett közhiteles nyilvántartás tartalmazza. A fogyasztónak minősülő Felhasználók emellett a jelen Szabályzat „Panaszkezelés, ügyfélszolgálat” fejezete szerinti szervekhez fordulhat jogorvoslatért.
+
+A Társaság felfüggeszti azon Felhasználók felhasználói fiókját, akik gyakran bocsátanak rendelkezésre nyilvánvalóan jogellenes tartalmat. A Társaság felfüggeszti a jogellenes hirdetésre, tartalomra vonatkozó bejelentések, és a bejelentések alapján hozott döntésekkel szembeni panaszok kivizsgálását azon Felhasználók esetében, akik gyakran tesznek nyilvánvalóan megalapozatlan bejelentéseket vagy panaszokat. A Társaság a nyilvánvalóan jogellenes tartalom, illetve nyilvánvalóan megalapozatlan bejelentés, panasz észlelésekor, döntésében tájékoztatja a Felhasználót a Szolgáltatás nyújtásának felfüggesztéséről, illetve a bejelentések, panaszok kivizsgálásának beszüntetéséről, ennek időtartamáról. Azt, hogy az intézkedés alapjául szolgáló gyakori közzététel esete fennáll-e, a Társaság minden esetben egyedileg mérlegeli és dönt róla, figyelemmel többek között a Felhasználó által közzétett jogellenes tartalom, megalapozatlan bejelentés, panasz számosságára, az egyes tartalmak rendelkezésre bocsátása között eltelt időre, a tartalommoderálásra vagy panaszra vonatkozó döntés, illetve a bejelentéssel kapcsolatos tájékoztatás kézhezvételét követő és a döntés alapjául szolgáló üggyel azonos, vagy ahhoz nagymértékben hasonló körülmények ismételt felmerülését.
+
 **9\. Adatvédelem**
 
-Üzemeltető [**adatvédelmi tájékoztatója itt érhető el**](https://adatvedelem.hasznaltauto.hu/adatvedelmi-tajekoztato/).
+Üzemeltető [**adatvédelmi tájékoztatója** **itt** **érhető el**](https://adatvedelem.hasznaltauto.hu/adatvedelmi-tajekoztato/).
 
 **10\. A szerződés megszűnése**
 
@@ -436,6 +519,8 @@ c) Üzemeltető bizonyítani tudja, hogy az érintett Felhasználó több alkalo
 * elektronikus levelezési cím: **ugyfelszolgalat@hasznaltauto.hu**
 
 12.2. Üzemeltető a Szolgáltatásokkal kapcsolatos panaszokat elsődlegesen az **ugyfelszolgalat@hasznaltauto.hu** e-mail címen fogadja. A panaszokat, felhasználói kérdéseket az ügyfélszolgálat írásban, a Felhasználó által megadott e-mail címre küldött e-mail útján válaszolja meg. Üzemeltető a székhelyén személyesen nem fogad panaszokat. 
+
+ A Társaság a Felhasználók számára a kapcsolattartást a fenti elérhetőségein magyar és angol nyelven biztosítja.
 
 12.3. Üzemeltető kivizsgálja az összes, a fentiek szerint beérkező panaszt, és mindent megtesz annak érdekében, hogy az a lehető legrövidebb időn belül érdemben orvoslásra vagy megválaszolásra kerüljön.
 
@@ -637,4 +722,4 @@ Fogyasztók a panaszaikkal első sorban e-mailben fordulhatnak közvetlenül Üz
 
 A békéltető testület hatáskörébe tartozik a fogyasztó és a vállalkozás közötti, a termék minőségével, biztonságosságával, a termékfelelősségi szabályok alkalmazásával, a szolgáltatás minőségével, továbbá a felek közötti szerződés megkötésével és teljesítésével kapcsolatos vitás ügy (a továbbiakban: fogyasztói jogvita) bírósági eljáráson kívüli rendezése: e célból egyezség létrehozásának megkísérlése, ennek eredménytelensége esetén pedig az ügyben döntés hozatala a fogyasztói jogok egyszerű, gyors, hatékony és költségkímélő érvényesítésének biztosítása érdekében. A békéltető testület a fogyasztó vagy a vállalkozás kérésére tanácsot ad a fogyasztót megillető jogokkal és a fogyasztót terhelő kötelezettségekkel kapcsolatban. A békéltető testület eljárása megindításának feltétele, hogy a fogyasztó az érintett vállalkozással közvetlenül megkísérelje a vitás ügy rendezését. A békéltető testület eljárása a fogyasztó kérelmére indul. A kérelmet a békéltető testület elnökéhez kell írásban benyújtani. Üzemeltető székhelye szerint illetékes békéltető testület: Budapesti Békéltető Testület, 1016 Budapest, Krisztina krt. 99. levelezési cím: 1253 Budapest, Pf.: 10.
 
-**Hatályos: 2024.01.02-tól**
+**Hatályos: 2024.02.16.-tól**
