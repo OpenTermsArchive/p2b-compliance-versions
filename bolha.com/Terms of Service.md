@@ -575,64 +575,36 @@ Upravljavec pritožnika brez odlašanja obvestijo o svoji utemeljeni odločitvi 
     
     159. Upravljavec in njegovi lastniki ne odgovarjajo za kakršnokoli posredno ali neposredno škodo, vključno z morebitno izgubo dobička, ki bi nastala zaradi prekinitve dostopa, ne objave oziroma izbrisa malega oglasa ali napak v delovanju spletnega mesta, kot tudi ne jamčijo za uspešnost uporabe tega spletnega mesta.
     
-      
-    
     160. Vsebina in funkcionalnost tega spletnega mesta so ponujene 'takšne kot so'. Upravljavec in lastniki ne odgovarjajo za škodo, ki bi izvirala iz uporabe oziroma nezmožnosti uporabe tega spletnega mesta, vključno in brez omejitev glede izgubljenega prihodka ali pričakovanega dobička, izgube dobrega imena, izgube poslov, izgube podatkov, računalniške napake ali napačnega delovanja oziroma drugih škodnih dogodkov, razen, če bi do omenjenega dogodka prišlo zaradi naklepnih ali malomarnih ravnanj Upravljavca, z namenom škodovanja Uporabniku.
-    
-      
     
     Spletno mesto bolha.com vsebuje povezave na druge spletne strani, vendar ne odgovarja za vsebino na takšnih spletnih straneh niti ne jamči ali prevzema odgovornosti za nezakonito delovanje takšnih spletnih strani, vendar bo v primeru prejema obvestila o kršenju veljavnih predpisov s strani drugih spletnih strani, nemudoma ustrezno ukrepal.
     
     161. Upravljavec ne jamči stalne razpoložljivosti svojih storitev, saj pri zagotavljanju storitev ni mogoče izključiti prekinitev delovanja zaradi vzdrževanja, posodobitev programske opreme in drugih okoliščin, kot so tehnične težave tretjih oseb, višja sila idr.. Kupec in Prodajalec se strinjata, da je odgovornost Upravljavca za razpoložljivost storitev popolnoma izključena, razen v primeru naklepa ali hude malomarnosti.
     
-      
-    
     162. Upravljavec si pridržuje pravico, da bo spreminjal funkcionalnost Spletnega mesta bolha.com in uporabniške izkušnje, kar lahko povzroči premik malega oglasa oziroma to, kako ga Uporabniki najdejo. Upravljavec ne jamči, da bo Prodajalec oziroma Trgovina bolha.com lahko dostopal do vsebine svojega malega oglasa, ko ta enkrat poteče. Zato je priporočljivo, da vsak sam pri sebi shrani vsebino in fotografije malega oglasa, če jih bo želel kasneje uporabiti v kakšnem drugačnem kontekstu.
-    
-      
     
     15\. KONČNE DOLOČBE
     -------------------
     
     163. Registrirani uporabnik se strinja, da lahko Upravljavec njegov mali oglas, vključno s fotografijami, v oglasne namene objavi tudi v drugih medijih. Upravljavec v drugih medijih ne bo objavljal osebnih podatkov, temveč le vsebino malega oglasa in povezavo na Spletno mesto [bolha.com](http://www.bolha.com/).
     
-      
-    
     164. Prodajalec in Trgovina bolha.com z vpisom podatkov na Spletno mesto bolha.com ne izključno ter časovno in teritorialno neomejeno, prenašata materialne avtorske pravice na vseh vnesenih vsebinah. Prenos pravic lahko takšen Uporabnik kadarkoli prekliče, in sicer tako, da izbriše svoj mali oglas. Prodajalec oziroma Trgovina bolha.com se izrecno strinja, da se vse fotografije, ki so objavljene na bolha.com, označi z logotipom Upravljavca.
-    
-      
     
     165. Uporabnik lahko kontaktira drugega Uporabnika preko spletnega mesta bolha.com zgolj z namenom konkretnega povpraševanja in informiranja o predmetu ali storitvi iz malega oglasa. Uporabniku ni dovoljeno kontaktirati drugih Uporabnikov za reklamiranje storitev ali izdelkov.
     
-      
-    
     166. Vsak Uporabnik spletnega mesta sprejema ta Pravila ter se izrecno odreka pravici izterjave morebitne odškodnine od Upravljavca Spletnega mesta bolha.com, nastale iz zgoraj navedenega razmerja med prodajalcem in kupcem.
-    
-      
     
     167. Upravljavec si pridržuje pravico, da kadarkoli, iz razlogov poslovanja, brez predhodnega obvestila, prekine zagotavljanje Spletnega mesta bolha.com.
     
-      
-    
     168. Vsebina Spletnega mesta bolha.com je avtorsko pravno zaščitena, zato je kopiranje, uporaba kateregakoli dela Spletnega mesta www.bolha.com, vključno z vsemi podatki, ki jih priskrbijo Uporabniki ter vključevanje v drugo spletno stran, brez vnaprejšnjega pisnega dovoljenja Upravljavca, prepovedano.
-    
-      
     
     169. Upravljavec ima dolžnost, da kadar izve za kakršne koli informacije, ki vzbudijo sum, da je bilo storjeno kaznivo dejanje, ki vključuje ogrožanje življenja ali varnosti ene ali več oseb, ali da se tako kaznivo dejanje izvaja ali je verjetno, da bo storjeno, o svojem sumu takoj obvesti organe za preprečevanje, odkrivanje in preiskovanje kaznivih dejanj ali pravosodne organe zadevne države članice ali držav članic ter predloži vse ustrezne informacije, ki jih ima na voljo.
     
-      
-    
     170. Upravljavec si pridržuje pravico, da lahko kadarkoli spremeni ta Pravila. Za spremembo Pogojev, kakor tudi za njihovo razveljavitev, ni potrebno soglasje Uporabnikov, ki so se dolžni seznaniti s Pogoji, ki veljajo ob vsakokratni uporabi Storitev Spletnega mesta bolha.com. Vsi podatki o Upravljavcu spletnega mesta so dostopni na [bolha.com](http://www.bolha.com/) in na koncu teh Pravil.
-    
-      
     
     171. Upravljavec in Uporabnik Spletnega mesta bolha.com si bosta prizadevala vse morebitne spore reševati sporazumno. V primeru, da sporazum ni možen, je za reševanje spora pristojno sodišče v Ljubljani.
     
-      
-    
     172. Pravila in pogoji uporabe bolha.com se lahko prevedejo v različne jezike, pri čemer je za razlago posameznih določil merodajna verzija v slovenskem jeziku.
-    
-      
     
     173. Ta Pravila veljajo od 16. 02. 2024
     
