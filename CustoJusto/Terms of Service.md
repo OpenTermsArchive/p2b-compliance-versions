@@ -702,6 +702,6 @@ Assinatura do anunciante \[no caso de a resolução ser comunicada em papel\]
 
 Última actualização: 13 de Fevereiro de 2023
 
-Consulte os nossos termos e condições em vigor até dia 14/10/2021, em formato PDF, [aqui](https://www.custojusto.pt/20200629.pdf).
+Consulte os nossos termos e condições em vigor até dia 14/10/2021, em formato PDF, [aqui](https://www.custojusto.pt/pdf/rules/20200629.pdf).
 
-Consulte os nossos termos e condições em vigor até dia 28/02/2023, em formato PDF, [aqui](https://www.custojusto.pt/20210927.pdf).
+Consulte os nossos termos e condições em vigor até dia 28/02/2023, em formato PDF, [aqui](https://www.custojusto.pt/pdf/rules/20210927.pdf).
