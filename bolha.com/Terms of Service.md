@@ -1,13 +1,13 @@
 SPLOŠNI POGOJI IN PRAVILA UPORABE BOLHA.COM
 ===========================================
 
-1.     UVOD
------------
+1\. UVOD
+--------
 
 Družba Styria digital marketplaces, d.o.o. je lastnik in upravljavec različnih poddomen, na katerih so na voljo storitve povezane z oglaševanjem in prodajo blaga, storitev ter namestitev.
 
-2.     SPLOŠNE DOLOČBE
-----------------------
+2\. SPLOŠNE DOLOČBE
+-------------------
 
 1. Nekateri izrazi v teh Pravilih in pogojih uporabe bolha.com imajo določene pomene, ki so pojasnjeni v nadaljevanju:
     1. **Spletno mesto bolha.com** se nanaša na domeno www.bolha.com, vse njene poddomene, mobilno aplikacijo ali katerikoli drug dostop, preko katerega so na voljo vsebine bolha.com.
@@ -57,8 +57,8 @@ Upravljavec si prizadeva ohranjati spletno mesto prosto vseh oblik neželene in 
 
 9. Za izboljšanje svojih storitev Spletno mesto bolha.com uporablja piškotke. Namestitev piškotkov na Spletnem mestu bolha.com je urejena v skladu z Zakonom o elektronskih komunikacijah (Ur. l. RS, št. 109/2012; »ZEKom-1«), ki upošteva Direktivo o zasebnosti in elektronskih komunikacijah (2002/58/ES). Upravljavec bo shranjeval ali pridobival dostop do podatkov, shranjenih v terminalski opremi Uporabnika  pod pogojem, da je Uporabnik v to privolil. Pred tem je Uporabnik jasno in izčrpno obveščen  o Upravljavcu in namenih obdelave teh podatkov. Soglasje Uporabnika, ki je podano svobodno in izraža njegovo voljo, Upravljavec pridobi preden se piškotek namesti oziroma se zberejo podatki Uporabnika; na podlagi obvestitve Uporabnika o pošiljanju in namenu piškotka. Uporabnik je na Spletnem mestu bolha.com obveščen, katere informacije se nameravajo shraniti v piškotku, s kakšnim namenom in kakšno je obdobje veljavnosti piškotka, ki ga bo sprejel. Uporabnik je seznanjen, da bo piškotek ponudniku oglaševanja omogočal zbiranje podatkov o obiskovanju drugih spletnih mest, prikazanih oglasov, ipd., Uporabniku je podana razlaga o piškotku ter njegovi uporabi ter informacija o poteku spremljanja preko piškotkov. Odločitev o sprejemu piškotka je na strani Uporabnika. Za Uporabnikov sprejem  piškotka se šteje jasna privolitev (označitev), ki jo Uporabnik lahko poda ob uporabi Spletnega mesta bolha.com, ob registraciji uporabniškega profila, pri prijavi ali objavi oglasa ali z jasno izraženim konkludentnim dejanjem. Dejstvo, da je Uporabnik sprejel piškotek, se šteje kot veljavno soglasje tudi za poznejše zbiranje podatkov, ki izhajajo iz tega piškotka. Uporabnik lahko dano soglasje v kateremkoli trenutku tudi umakne. Upravljavec spletnega mesta bo Uporabnike spletnega mesta obvestil o tem, da poteka spremljanje preko piškotkov. Več informacij je na voljo v [Piškotki na bolha.com](https://www.bolha.com/index.php?ctl=show_static_page&alias=politika-piskotkov).
 
-3.     SODELOVANJE V NAGRADNIH IGRAH
-------------------------------------
+3\. SODELOVANJE V NAGRADNIH IGRAH
+---------------------------------
 
 10. Spletno mesto bolha.com lahko omogoči tudi izvajanje nagradnih iger. Nagradne igre izvaja tako v lastnem imenu, kot tudi za svoje naročnike (tretje osebe). Za slednje veljajo pravila in pogoji, ki jih pripravi takšna tretja oseba, ki v celoti odgovarja za izvedbo nagradne igre, pridobivanje in obdelavo osebnih podatkov, žrebanje in podelitev nagrad.
 
@@ -68,8 +68,8 @@ Upravljavec si prizadeva ohranjati spletno mesto prosto vseh oblik neželene in 
 
 13. Nagrade niso prenosljive, zamenljive, ne da se je izplačati v gotovini, lahko se jo podeli le enkrat, nagrajenec jo lahko prevzame le tako kot opredeljeno v splošnih pogojih nagradne igre. Naročnik, organizator in osebe, ki sodelujejo pri izvedbi nagradne igre, ne odgovarjajo za morebitno škodo, ki bi izvirala iz nagrad ali, ki bi jih sodelujoči utrpel zaradi sodelovanja v nagradni igri.
 
-4.     OGLAŠEVANJE MALIH OGLASOV NA BOLHA.COM
----------------------------------------------
+4\. OGLAŠEVANJE MALIH OGLASOV NA BOLHA.COM
+------------------------------------------
 
 14. Spletno mesto bolha.com je posrednik med kupci in prodajalci oziroma Uporabniki in je namenjeno javni objavi malih oglasov ter s tem povezanih storitev.
 
@@ -136,8 +136,8 @@ Neporabljene količine zakupljenih dodatnih storitev oziroma produktov se ob dea
 
 31. S potrditvijo objave malega oglasa po opravljenih tehničnih korakih, ki vodijo do objave malega oglasa, je pogodba med Upravljavcem in Uporabnikom sklenjena. S tem se šteje, da je pogodba na daljavo sklenjena, storitev (objava malega oglasa za sporazumno dogovorjen čas in pod sporazumno dogovorjenimi pogoji) pa je po prejetem plačilu opravljena. V kolikor gre za odnose z Uporabniki potrošniki, Upravljavec pri upravljanju spletnega mesta ravna v skladu z Zakonom o varstvu potrošnikov (Ur. l. RS, št. 130/22 s spremembami; »ZVPot-1«). Upravljavec Uporabnikom, ki so potrošniki po ZVPot-1, zagotavlja vse pravice, ki izhajajo iz ZVPot-1.
 
-5.     TRGOVINA BOLHA.COM
--------------------------
+5\. TRGOVINA BOLHA.COM
+----------------------
 
 32. Trgovina bolha.com je posebna možnost oddaje malih oglasov, ki se od oddaje običajnega oglasa razlikuje le po tem, da omogoča oddajo oglasov subjektom, ki izpolnjujejo pogoje za opravljanje dejavnosti take prodaje. Pri oglaševanju preko Spletnega mesta bolha.com so Trgovine bolha.com dolžne spoštovati določbe Zakona o varstvu potrošnikov (Ur. l. RS, št. 130/22 s spremembami; »ZVPot-1«), kar pomeni, da morajo pri svojem poslovanju upoštevati vključno določbe o pogodbah sklenjenih na daljavo, v kolikor tako sklepanje Trgovina bolha.com omogoča.
 
@@ -161,10 +161,10 @@ Uporabnik ne sme uporabniškega računa, ki je ustvarjen kot navaden Kupec ali P
 
 41. Spletne povezave (linkanje) iz Spletnega mesta bolha.com so dovoljene le Uporabnikom, ki imajo registrirano Trgovino bolha.com. Takšni Uporabniki lahko s Spletnega mesta bolha.com povezujejo (linkajo) na svojo lastno spletno stran samo z "no follow" atributom. Povezave na spletna mesta, ki oglašujejo razne druge storitve in izdelke niso dovoljene. Povezave na spletna mesta, ki so konkurenčna Spletnemu mestu bolha.com, niso dovoljene. Upravljavec si pridržuje pravico, da sam presodi ali kakšno povezavo dovoli ali ne.
 
-6.     STORITEV BREZ SKRBI
---------------------------
+6\. STORITEV BREZ SKRBI
+-----------------------
 
-### 6.1.          Osnovne informacije o storitvi Brez Skrbi
+### 6.1.   Osnovne informacije o storitvi Brez Skrbi
 
 42. Storitev Brez Skrbi je dodatna storitev spletnega mesta bolha.com. Namen je povečati zaupanje Uporabnikov bolha.com in zagotavljanje varnosti pri izvajanju plačil prek Bolha.com, in sicer na način, da se Prodajalcu zagotovi plačilo kupnine pred odpremo blaga, istočasno pa se Kupcu zagotovi prejem blaga po njegovem plačilu kupnine oziroma vračilo kupnine, v primeru, da blaga ne prejme ali blago ne ustreza oglaševanemu – vse pod pogoji opredeljenimi v nadaljevanju teh Pravil.
 
@@ -189,7 +189,7 @@ Uporabnik ne sme uporabniškega računa, ki je ustvarjen kot navaden Kupec ali P
 
 51. Pri izvajanju storitve Brez Skrbi je Upravljavec dolžan ravnati v skladu z vsebino Direktive Sveta 2021/514/EU ter Zakonom o davčnem postopku (Ur. l. RS, št. 13/11 s spremembami, »ZDavP-2«). Upravljavec ni dolžan poročati o Uporabnikih, za katere je omogočil manj kot 30 Zadevnih dejavnosti s prodajo Blaga in za katerega skupni znesek Nadomestila, plačanega ali pripisanega med Poročevalnim obdobjem, ni presegel 2.000,00 EUR. Vse informacije o obdelavi prejetih osebnih podatkov in vaših pravicah so na voljo v [Obvestilu o zasebnosti](https://www.bolha.com/?ctl=show_static_page&alias=privacy_policy)
 
-### 6.2.          Aktivacija in delovanje storitve Brez Skrbi
+### 6.2.   Aktivacija in delovanje storitve Brez Skrbi
 
 52. Kadar je storitev Brez Skrbi na voljo in se Prodajalec odloči za njeno aktivacijo, Prodajalec ob objavi oglasa izbere možnost » Želim prodati s pomočjo storitve BREZ SKRBI«, Prodajalec nato določi težo pošiljke z namenom pravilnega informiranja potencialnega Kupca o Strošku dostave. Na tako objavljenem oglasu se potencialnim kupcem, ki si mali oglas ogledujejo, poleg samega oglasa, ponudi tudi uporaba storitve Brez Skrbi.
 
@@ -216,7 +216,7 @@ Uporabnik ne sme uporabniškega računa, ki je ustvarjen kot navaden Kupec ali P
 
 61. Prodajalec preda kupljeno blago GLS-u v dostavo in sicer po prejemu Upravljavčevega obvestila o Kupčevem plačilu Prodajne cene. Če Kupec v roku sedem (7) dni od plačila Prodajne cene ne prejme obvestila, da je blago predano GLS-u v dostavo, je Kupec dolžan v naslednjih dveh (2) dneh obvestiti Upravljavca oziroma njegov oddelek Podpore uporabnikom, prek kontaktov, ki so na voljo na spletnem mestu Bolha.com. Po prejemu tovrstnega obvestila bo Kupcu vrnjen celoten vplačani znesek, za takšno kupoprodajno pogodbo pa se šteje, da ni bila sklenjena.
 
-### 6.3.          Posebni plačilni pogoji pri uporabi storitve Brez Skrbi
+### 6.3.   Posebni plačilni pogoji pri uporabi storitve Brez Skrbi
 
 62. Celoten postopek uporabe storitve Brez Skrbi poteka znotraj spletnega mesta bolha.com (z izjemo plačila, ki se ga opravi preko spletne strani Adyen). Kupca zaradi večje varnosti uporabe storitve Brez skrbi pozivamo, da Prodajalcu ne pošilja svoje telefonske številke ali drugega kontakta ter na klika na povezave, ki vodijo izven spletnega mesta bolha.com. Upravljavec ne odgovarja za morebitno škodo, ki nastane Uporabniku zaradi uporabe spletnega mesta bolha.com.
 
@@ -246,7 +246,7 @@ Adyen je upravljavec podatkov, zato se mora Prodajalec ob sklenitvi Adyen pogodb
 3. spoštuje Seznam prepovedi in da se noben oglas, za katerega je aktivirana storitev Brez Skrbi, ne nanaša na blago, ki jih zajema ali na tisto, katerega prodaja prek interneta je prepovedana vsem ali določenim kategorijam potencialnih kupcev, ter da bo Prodajalec zagotovil, da takšno blago ni ponujeno ali dano v prodajo prek storitve Brez Skrbi;
 4. je Pooblastilo Upravljavcu, dano v skladu z 93. členom teh Pravil veljavno.
 
-### 6.4.          Posebna določila dostave pri uporabi storitve Brez Skrbi
+### 6.4.   Posebna določila dostave pri uporabi storitve Brez Skrbi
 
 71. Dostava je možna samo v Republiki Sloveniji.
 
@@ -266,7 +266,7 @@ Adyen je upravljavec podatkov, zato se mora Prodajalec ob sklenitvi Adyen pogodb
 
 79. Odgovornost družbe GLS za prevzeto pošiljko in vsa druga vprašanja v zvezi z GLS pogodbo, ki niso izrecno drugače urejena s tem Dodatkom Brez Skrbi, so predmet določil Splošnih pogojev poslovanja GLS. Sprejem Splošnih pogojev poslovanja GLS s strani Prodajalca in Kupca je predpogoj za uporabo storitve Brez Skrbi. GLS je pooblastil Upravljavca za prevzem zahtev za določitev poteka dostave in zahtev za povračilo škode, nastale tekom distribucije pošiljke, Prodajalec in Kupec pa bosta take zahteve posredovala izključno Upravljavcu, ki bo okoliščine razjasnil z GLS-om in prijavitelja obvestil o izidu.
 
-### 6.5.          Obveznosti Kupca ob Prejemu pošiljke
+### 6.5.   Obveznosti Kupca ob Prejemu pošiljke
 
 80. Kupec je dolžan Prejeto pošiljko pregledati in ugotoviti ustreznost njenega stanja (ali slednje ustreza dogovorjenemu stanju blaga). Kupec razume in sprejema, da dogovorjeno stanje blaga izhaja iz njegovega opisa ob objavi oglasa, priloženih fotografij in predhodne komunikacije s Prodajalcem. Kupec razume in se strinja s svojo dolžnostjo, da se podrobno pozanima o stanju in funkcionalnosti kupljenega blaga ter, v primeru dvoma, zahteva dodatne fotografije in informacije.
 
@@ -281,7 +281,7 @@ Adyen je upravljavec podatkov, zato se mora Prodajalec ob sklenitvi Adyen pogodb
 
 84. Če Kupec ne vloži razrešitve ali pritožbe na način in v roku določen v nadaljevanju teh Pravil, bo Adyen nakazal znesek Prodajne cene iz Nevtralnega računa Prodajalca na Bančni račun Prodajalca, pri čemer se šteje, da je storitev Brez Skrbi v celoti opravljena, Kupec pa se za kasnejše pritožbe obrne neposredno na Prodajalca.
 
-### 6.6.          Postopek reševanja kupčevih pritožb
+### 6.6.   Postopek reševanja kupčevih pritožb
 
 85. Kadar Kupec začne postopek **Razrešitve** (82.a člen teh Pravil), sta o tem obveščena Prodajalec in Kupec preko spletnega mesta Bolha.com (sistemsko obvestilo). Z oddajo pritožbe se plačilo kupnine z Nevtralnega računa Prodajalca na Bančni račun Prodajalca odloži za deset (10) dni, v danem roku Prodajalec in Kupec aktivno sodelujeta pri reševanju reklamacije Če Kupec ne vztraja pri pritožbi prek spletnega mesta Bolha.com do preteka desetega dne od dneva vložitve pritožbe, se šteje, da je ta rešena. V tem primeru Upravljavec prekine pritožbeni postopek in Adyenu izda nalog za plačilo Prodajne cene z Nevtralnega računa Prodajalca na Bančni račun Prodajalca.
 
@@ -299,7 +299,7 @@ Adyen je upravljavec podatkov, zato se mora Prodajalec ob sklenitvi Adyen pogodb
 
 92. Ne glede na določila te točke Dodatka Brez Skrbi lahko Prodajalec in Kupec kadarkoli zahtevata sodno varstvo svojih pravic v skladu z vsemi veljavnimi predpisi.
 
-### 6.7.          Pooblastilo Prodajalca za izdajo naročil Adyen-u
+### 6.7.   Pooblastilo Prodajalca za izdajo naročil Adyen-u
 
 93. Prodajalec razume in sprejema, da z aktivacijo storitve Brez Skrbi ob objavi malega oglasa, Prodajalec pooblašča Upravljavca za upravljanje z zneskom Prodajne cene (izdajanje naročil za prenos Prodajne cene z Nevtralnega računa Prodajalca na Bančni račun Prodajalca za prodajano blago v okviru posameznega malega oglasa). Dovoljeni načini upravljanja zajemajo:
     1. Upravljavčevo izdajanje naročil Adyenu, da Kupcu vrne znesek Prodajne cene z Nevtralnega računa Prodajalca v primerih iz prejšnjih odstavkov teh Pravil.
@@ -309,7 +309,7 @@ Adyen je upravljavec podatkov, zato se mora Prodajalec ob sklenitvi Adyen pogodb
 
 95. Pooblastilo iz 93. člena teh Pravil velja ves čas zagotavljanja storitev Brez Skrbi.
 
-### 6.8.          Odpoved Pogodbe Brez Skrbi
+### 6.8.   Odpoved Pogodbe Brez Skrbi
 
 96. Pogodba Brez Skrbi se sklene ločeno za vsak mali oglas, pri katerem je storitev Brez Skrbi aktivirana in preneha z njeno izpolnitvijo.
 
@@ -317,8 +317,8 @@ Adyen je upravljavec podatkov, zato se mora Prodajalec ob sklenitvi Adyen pogodb
 
 98. Ne glede na določbo prejšnje točke ima Upravljavec pravico Uporabniku iz utemeljenega razloga preprečiti uporabo določenih ali vseh storitev ali iz utemeljenega razloga brez odpoved nega roka odpovedati uporabniško pogodbo, s čimer preneha veljati tudi Pogodba Brez Skrbi.
 
-7.     MEGABON PONUDBA NA KUPONI.BOLHA.COM
-------------------------------------------
+7\. MEGABON PONUDBA NA KUPONI.BOLHA.COM
+---------------------------------------
 
 99. Nekateri izrazi v 7. delu Pravil imajo določene pomene, ki so pojasnjeni v nadaljevanju:
     1. **Megabon ponudba na bolha.com** je storitev na voljo v sklopu Spletnega mesta bolha.com. Omogoča pregled in nakup Kuponov, ki jih Prodajalec (družba Moderna Ventures SA, Via Industrie 25, 6512 Giubiasco, Švica), ki na podlagi pooblastila Ponudnika (pravna oseba, ki je izdala Kupon oziroma potrdila izdajo Nakupne opcije za nakup turističnih paketov in ostalih storitev iz lastne ponudbe pod posebnimi pogoji in po izredno ugodnih cenah, kjer smiselno, sklicevanje na Ponudnika v teh Pravilih, zajema tudi vse njegove predstavnike in/ali osebje v namestitvi oziroma na lokaciji koriščenja Kupona.) prodaja Kupone ter takšno prodajo na Spletnem mestu bolha.com vrši v sodelovanju s Posrednikom (v kontekstu nakupa Kuponov je posrednik družba Styria Digital markeplaces d.o.o., Verovškova 55, 1000 Ljubljana, ki upravlja spletno mesto bolha.com).
@@ -384,8 +384,8 @@ Adyen je upravljavec podatkov, zato se mora Prodajalec ob sklenitvi Adyen pogodb
 
 123. V skladu s 3. odstavkom 32. člena Zakona o izvensodnem reševanju potrošniških sporov (ZIsRPS) se glede nakupov Kuponov in vsebovanih storitev v sklopu Megabon ponudbe na bolha.com ne priznava nobenega izvajalca izvensodnega reševanja potrošniških sporov, v kolikor ni drugače navedeno na posameznem Kuponu. Kupec lahko v primeru spora pridobi več informacij o reševanju spora na spletni povezavi: [https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home2.show&lng=SL](https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home2.show&lng=SL).
 
-8.     OMEJITVE OGLAŠEVANJA IN VEDENJA NA BOLHA.COM
----------------------------------------------------
+8\. OMEJITVE OGLAŠEVANJA IN VEDENJA NA BOLHA.COM
+------------------------------------------------
 
 124. Mali oglasi, ki vabijo k sodelovanju v raznih mrežnih marketingih in piramidnih igrah niso dovoljeni. Prav tako niso dovoljeni mali oglasi, ki vabijo k igranju nedovoljenih iger na srečo.
 
@@ -444,8 +444,8 @@ Vsebina, ki se deli v okviru spletnega mesta bolha.com, v nobenem primeru ne sme
 14. **Dobrobit živali:** vsebina, ki je v nasprotju z dobrobitjo živali, na primer ker omalovažuje krutost do živali ali je namenjena spodbujanju drugih k povzročanju trpljenja, bolečin ali škode živalim, je prepovedana.
 15. **Kršitev intelektualne lastnine:** spoštovati je treba avtorske pravice, pravice blagovnih znamk in druge pravice intelektualne lastnine tretjih oseb. Deljenje vsebine, zaščitene s pravicami intelektualne lastnine, je dovoljeno le, če so bila pridobljena ustrezna dovoljenja ali soglasja za objavo. Vsebina, ki krši pravice intelektualne lastnine drugih, ni dovoljena.
 
-9.     OMEJITVE SPLETNEGA OGLAŠEVANJA NA BOLHA.COM
---------------------------------------------------
+9\. OMEJITVE SPLETNEGA OGLAŠEVANJA NA BOLHA.COM
+-----------------------------------------------
 
 137. Na spletnem mestu bolha.com je mogoče zakupiti tudi različne oglasne prostore in različne tipe ter formate spletnih oglasov.
 
@@ -455,8 +455,8 @@ Vsebina, ki se deli v okviru spletnega mesta bolha.com, v nobenem primeru ne sme
 
 140. Cena oglaševanja na spletnem mestu bolha.com je odvisna od vsakokratnega cenika, ki je dostopen na spletnem mestu bolha.com.
 
-10\.  NAČIN PRIKAZOVANJA OGLASOV NA BOLHA.COM
----------------------------------------------
+10\. NAČIN PRIKAZOVANJA OGLASOV NA BOLHA.COM
+--------------------------------------------
 
 141. Način, kako je prikazan seznam oglasov spletnem mestu na bolha.com je odvisen od številnih dejavnikov. Oglase lahko Uporabnik išče po ključnih besedah, kategorijah in drugih seznamih, kot je na primer ogled vseh oglasov posameznega uporabnika ali trgovine.
 
@@ -467,8 +467,8 @@ Vsebina, ki se deli v okviru spletnega mesta bolha.com, v nobenem primeru ne sme
 
 Če iščete oglase po kategorijah in drugih seznamih (na primer vsi oglasi uporabnika ali trgovine), lahko na vrstni red oglasov vplivajo naslednji dejavniki:
 
-5. **Starost oglasa -** Oglasi so na seznamih razvrščeni po datumu objave in najprej so prikazani novejši. Za dvig oglasa na seznamu, lahko uporabniki uporabijo Skok na vrh, ki je brezplačen vsakih 21 dni. Uporabniki, ki želijo svoj oglas dvigniti na seznamu pred iztekom 21 dni, lahko to storijo z nakupom funkcionalnosti Skok na vrh.
-6. **Izpostavljeni oglasi na seznamu** - Izpostavljeno oglaševanje vključuje promocijo z umeščanjem oglasov na plačane izpostavljene oglasne položaje na seznamu, ki povečajo vidnost oglasa. Tako bodo na primer „Izpostavljeni oglasi“ na vrhu seznama označeni z rumeno barvo.
+4. **Starost oglasa -** Oglasi so na seznamih razvrščeni po datumu objave in najprej so prikazani novejši. Za dvig oglasa na seznamu, lahko uporabniki uporabijo Skok na vrh, ki je brezplačen vsakih 21 dni. Uporabniki, ki želijo svoj oglas dvigniti na seznamu pred iztekom 21 dni, lahko to storijo z nakupom funkcionalnosti Skok na vrh.
+5. **Izpostavljeni oglasi na seznamu** - Izpostavljeno oglaševanje vključuje promocijo z umeščanjem oglasov na plačane izpostavljene oglasne položaje na seznamu, ki povečajo vidnost oglasa. Tako bodo na primer „Izpostavljeni oglasi“ na vrhu seznama označeni z rumeno barvo.
 
 Seznam rezultatov lahko Uporabnik razvrsti po drugih kriterijih, kot so cena, starost oglasa in razdalja, kar bo v tem primeru vplivalo na prikaz. Na razvrščanje pa lahko še vedno vplivajo dejavniki, kot so ustreznost in izpostavljene oglasne pozicije.
 
@@ -488,9 +488,9 @@ Seznam rezultatov lahko Uporabnik razvrsti po drugih kriterijih, kot so cena, st
 3. Predmet malega oglasa so premlade živali,
 4. Mali oglas vsebuje nedovoljene povezave,
 5. Mali oglas je diskriminatoren,
-6. Napačen tip malega oglasa,
-7. Blago malega oglasa, ki se prodaja s pomočjo storitve Brez Skrbi ni v skladu s pravili uporabe storitve Brez Skrbi,
-8. Napačna kategorija.
+6. Blago malega oglasa, ki se prodaja s pomočjo storitve Brez Skrbi ni v skladu s pravili uporabe storitve Brez Skrbi,
+7. Napačna kategorija ali vrsta ponudbe/tip malega oglasa,
+8. Oglas bi moral biti objavljen v drugi kategoriji razen izjem navedenih v nadaljevanju tega člena.
 
 Če ob pregledu ugotovimo, da mali oglas krši ta Pravila, ga oddelek za podporo strankam izbriše v primeru:
 
@@ -498,10 +498,9 @@ Seznam rezultatov lahko Uporabnik razvrsti po drugih kriterijih, kot so cena, st
 2. Objavljenih več nepovezanih izdelkov v enem oglasu,
 3. Prodaja nezakonitih izdelkov ali izdelkov, katerih prodaja ni dovoljena preko spletnih tržnic (na primer prodaja tobaka, zdravil,…),
 4. Oglas bi moral biti objavljen v plačljivi kategoriji,
-5. Oglas bi moral biti objavljen v drugi kategoriji (za kategorije nepremičnin, avto-moto in nadomestni deli),
+5. Oglas bi moral biti objavljen v drugi kategoriji (za Turizem bolha.com, nepremičnine, avto-moto in nadomestni deli),
 6. Neprimerno oglaševanje,
-7. Ni določenega predmeta prodaje ali
-8. Če je objavljen mali oglas kategorije »kupim«.
+7. Ni določenega predmeta prodaje.
 
 V vsakem od zgodnjih primerov je Uporabnik obveščen in ima možnost pritožbe na odločitev z uporabo notranjega sistema za obravnavo pritožb, ki je opisan v nadaljevanju.
 
@@ -551,8 +550,8 @@ Upravljavec pritožnika brez odlašanja obvestijo o svoji utemeljeni odločitvi 
 
 157. Odločitve Upravljavca o omejitvenih ukrepih zoper Uporabnike so vedno obrazložene in posredovane brez nepotrebnega odlašanja.
 
-13\.  INFORMACIJE O KONTAKTNIH TOČKAH
--------------------------------------
+13\. INFORMACIJE O KONTAKTNIH TOČKAH
+------------------------------------
 
 158. 1. _11\. člen Uredbe (EU) 2022/2065 (Akt o digitalnih storitvah) Kontaktna točka za organe držav članic EU, Komisijo in Odbor_
     
@@ -570,54 +569,55 @@ Upravljavec pritožnika brez odlašanja obvestijo o svoji utemeljeni odločitvi 
     
     Kontaktna točka za elektronsko sprejemanje odredb o odstranitvi je [_podpora@bolha.com_](mailto:podpora@bolha.com) Komunikacija je možna v slovenskem ali angleškem jeziku**.**
     
-    14\. OMEJITEV ODGOVORNOSTI
-    --------------------------
-    
-    159. Upravljavec in njegovi lastniki ne odgovarjajo za kakršnokoli posredno ali neposredno škodo, vključno z morebitno izgubo dobička, ki bi nastala zaradi prekinitve dostopa, ne objave oziroma izbrisa malega oglasa ali napak v delovanju spletnega mesta, kot tudi ne jamčijo za uspešnost uporabe tega spletnega mesta.
-    
-    160. Vsebina in funkcionalnost tega spletnega mesta so ponujene 'takšne kot so'. Upravljavec in lastniki ne odgovarjajo za škodo, ki bi izvirala iz uporabe oziroma nezmožnosti uporabe tega spletnega mesta, vključno in brez omejitev glede izgubljenega prihodka ali pričakovanega dobička, izgube dobrega imena, izgube poslov, izgube podatkov, računalniške napake ali napačnega delovanja oziroma drugih škodnih dogodkov, razen, če bi do omenjenega dogodka prišlo zaradi naklepnih ali malomarnih ravnanj Upravljavca, z namenom škodovanja Uporabniku.
-    
-    Spletno mesto bolha.com vsebuje povezave na druge spletne strani, vendar ne odgovarja za vsebino na takšnih spletnih straneh niti ne jamči ali prevzema odgovornosti za nezakonito delovanje takšnih spletnih strani, vendar bo v primeru prejema obvestila o kršenju veljavnih predpisov s strani drugih spletnih strani, nemudoma ustrezno ukrepal.
-    
-    161. Upravljavec ne jamči stalne razpoložljivosti svojih storitev, saj pri zagotavljanju storitev ni mogoče izključiti prekinitev delovanja zaradi vzdrževanja, posodobitev programske opreme in drugih okoliščin, kot so tehnične težave tretjih oseb, višja sila idr.. Kupec in Prodajalec se strinjata, da je odgovornost Upravljavca za razpoložljivost storitev popolnoma izključena, razen v primeru naklepa ali hude malomarnosti.
-    
-    162. Upravljavec si pridržuje pravico, da bo spreminjal funkcionalnost Spletnega mesta bolha.com in uporabniške izkušnje, kar lahko povzroči premik malega oglasa oziroma to, kako ga Uporabniki najdejo. Upravljavec ne jamči, da bo Prodajalec oziroma Trgovina bolha.com lahko dostopal do vsebine svojega malega oglasa, ko ta enkrat poteče. Zato je priporočljivo, da vsak sam pri sebi shrani vsebino in fotografije malega oglasa, če jih bo želel kasneje uporabiti v kakšnem drugačnem kontekstu.
-    
-    15\. KONČNE DOLOČBE
-    -------------------
-    
-    163. Registrirani uporabnik se strinja, da lahko Upravljavec njegov mali oglas, vključno s fotografijami, v oglasne namene objavi tudi v drugih medijih. Upravljavec v drugih medijih ne bo objavljal osebnih podatkov, temveč le vsebino malega oglasa in povezavo na Spletno mesto [bolha.com](http://www.bolha.com/).
-    
-    164. Prodajalec in Trgovina bolha.com z vpisom podatkov na Spletno mesto bolha.com ne izključno ter časovno in teritorialno neomejeno, prenašata materialne avtorske pravice na vseh vnesenih vsebinah. Prenos pravic lahko takšen Uporabnik kadarkoli prekliče, in sicer tako, da izbriše svoj mali oglas. Prodajalec oziroma Trgovina bolha.com se izrecno strinja, da se vse fotografije, ki so objavljene na bolha.com, označi z logotipom Upravljavca.
-    
-    165. Uporabnik lahko kontaktira drugega Uporabnika preko spletnega mesta bolha.com zgolj z namenom konkretnega povpraševanja in informiranja o predmetu ali storitvi iz malega oglasa. Uporabniku ni dovoljeno kontaktirati drugih Uporabnikov za reklamiranje storitev ali izdelkov.
-    
-    166. Vsak Uporabnik spletnega mesta sprejema ta Pravila ter se izrecno odreka pravici izterjave morebitne odškodnine od Upravljavca Spletnega mesta bolha.com, nastale iz zgoraj navedenega razmerja med prodajalcem in kupcem.
-    
-    167. Upravljavec si pridržuje pravico, da kadarkoli, iz razlogov poslovanja, brez predhodnega obvestila, prekine zagotavljanje Spletnega mesta bolha.com.
-    
-    168. Vsebina Spletnega mesta bolha.com je avtorsko pravno zaščitena, zato je kopiranje, uporaba kateregakoli dela Spletnega mesta www.bolha.com, vključno z vsemi podatki, ki jih priskrbijo Uporabniki ter vključevanje v drugo spletno stran, brez vnaprejšnjega pisnega dovoljenja Upravljavca, prepovedano.
-    
-    169. Upravljavec ima dolžnost, da kadar izve za kakršne koli informacije, ki vzbudijo sum, da je bilo storjeno kaznivo dejanje, ki vključuje ogrožanje življenja ali varnosti ene ali več oseb, ali da se tako kaznivo dejanje izvaja ali je verjetno, da bo storjeno, o svojem sumu takoj obvesti organe za preprečevanje, odkrivanje in preiskovanje kaznivih dejanj ali pravosodne organe zadevne države članice ali držav članic ter predloži vse ustrezne informacije, ki jih ima na voljo.
-    
-    170. Upravljavec si pridržuje pravico, da lahko kadarkoli spremeni ta Pravila. Za spremembo Pogojev, kakor tudi za njihovo razveljavitev, ni potrebno soglasje Uporabnikov, ki so se dolžni seznaniti s Pogoji, ki veljajo ob vsakokratni uporabi Storitev Spletnega mesta bolha.com. Vsi podatki o Upravljavcu spletnega mesta so dostopni na [bolha.com](http://www.bolha.com/) in na koncu teh Pravil.
-    
-    171. Upravljavec in Uporabnik Spletnega mesta bolha.com si bosta prizadevala vse morebitne spore reševati sporazumno. V primeru, da sporazum ni možen, je za reševanje spora pristojno sodišče v Ljubljani.
-    
-    172. Pravila in pogoji uporabe bolha.com se lahko prevedejo v različne jezike, pri čemer je za razlago posameznih določil merodajna verzija v slovenskem jeziku.
-    
-    173. Ta Pravila veljajo od 16. 02. 2024
-    
-      
-    
-    ### **Podatki o Upravljavcu spletnega mesta bolha.com:**
-    
-    Styria digital marketplaces, d.o.o.
-    
-    Verovškova ulica 55
-    
-    1000 Ljubljana
-    
-    Davčna števila: 58257551
-    
-    Ljubljana, 16. 02. 2024
+
+14\. OMEJITEV ODGOVORNOSTI
+--------------------------
+
+159. Upravljavec in njegovi lastniki ne odgovarjajo za kakršnokoli posredno ali neposredno škodo, vključno z morebitno izgubo dobička, ki bi nastala zaradi prekinitve dostopa, ne objave oziroma izbrisa malega oglasa ali napak v delovanju spletnega mesta, kot tudi ne jamčijo za uspešnost uporabe tega spletnega mesta.
+
+160. Vsebina in funkcionalnost tega spletnega mesta so ponujene 'takšne kot so'. Upravljavec in lastniki ne odgovarjajo za škodo, ki bi izvirala iz uporabe oziroma nezmožnosti uporabe tega spletnega mesta, vključno in brez omejitev glede izgubljenega prihodka ali pričakovanega dobička, izgube dobrega imena, izgube poslov, izgube podatkov, računalniške napake ali napačnega delovanja oziroma drugih škodnih dogodkov, razen, če bi do omenjenega dogodka prišlo zaradi naklepnih ali malomarnih ravnanj Upravljavca, z namenom škodovanja Uporabniku.
+
+Spletno mesto bolha.com vsebuje povezave na druge spletne strani, vendar ne odgovarja za vsebino na takšnih spletnih straneh niti ne jamči ali prevzema odgovornosti za nezakonito delovanje takšnih spletnih strani, vendar bo v primeru prejema obvestila o kršenju veljavnih predpisov s strani drugih spletnih strani, nemudoma ustrezno ukrepal.
+
+161. Upravljavec ne jamči stalne razpoložljivosti svojih storitev, saj pri zagotavljanju storitev ni mogoče izključiti prekinitev delovanja zaradi vzdrževanja, posodobitev programske opreme in drugih okoliščin, kot so tehnične težave tretjih oseb, višja sila idr.. Kupec in Prodajalec se strinjata, da je odgovornost Upravljavca za razpoložljivost storitev popolnoma izključena, razen v primeru naklepa ali hude malomarnosti.
+
+162. Upravljavec si pridržuje pravico, da bo spreminjal funkcionalnost Spletnega mesta bolha.com in uporabniške izkušnje, kar lahko povzroči premik malega oglasa oziroma to, kako ga Uporabniki najdejo. Upravljavec ne jamči, da bo Prodajalec oziroma Trgovina bolha.com lahko dostopal do vsebine svojega malega oglasa, ko ta enkrat poteče. Zato je priporočljivo, da vsak sam pri sebi shrani vsebino in fotografije malega oglasa, če jih bo želel kasneje uporabiti v kakšnem drugačnem kontekstu.
+
+15\. KONČNE DOLOČBE
+-------------------
+
+163. Registrirani uporabnik se strinja, da lahko Upravljavec njegov mali oglas, vključno s fotografijami, v oglasne namene objavi tudi v drugih medijih. Upravljavec v drugih medijih ne bo objavljal osebnih podatkov, temveč le vsebino malega oglasa in povezavo na Spletno mesto [bolha.com](http://www.bolha.com/).
+
+164. Prodajalec in Trgovina bolha.com z vpisom podatkov na Spletno mesto bolha.com ne izključno ter časovno in teritorialno neomejeno, prenašata materialne avtorske pravice na vseh vnesenih vsebinah. Prenos pravic lahko takšen Uporabnik kadarkoli prekliče, in sicer tako, da izbriše svoj mali oglas. Prodajalec oziroma Trgovina bolha.com se izrecno strinja, da se vse fotografije, ki so objavljene na bolha.com, označi z logotipom Upravljavca.
+
+165. Uporabnik lahko kontaktira drugega Uporabnika preko spletnega mesta bolha.com zgolj z namenom konkretnega povpraševanja in informiranja o predmetu ali storitvi iz malega oglasa. Uporabniku ni dovoljeno kontaktirati drugih Uporabnikov za reklamiranje storitev ali izdelkov.
+
+166. Vsak Uporabnik spletnega mesta sprejema ta Pravila ter se izrecno odreka pravici izterjave morebitne odškodnine od Upravljavca Spletnega mesta bolha.com, nastale iz zgoraj navedenega razmerja med prodajalcem in kupcem.
+
+167. Upravljavec si pridržuje pravico, da kadarkoli, iz razlogov poslovanja, brez predhodnega obvestila, prekine zagotavljanje Spletnega mesta bolha.com.
+
+168. Vsebina Spletnega mesta bolha.com je avtorsko pravno zaščitena, zato je kopiranje, uporaba kateregakoli dela Spletnega mesta www.bolha.com, vključno z vsemi podatki, ki jih priskrbijo Uporabniki ter vključevanje v drugo spletno stran, brez vnaprejšnjega pisnega dovoljenja Upravljavca, prepovedano.
+
+169. Upravljavec ima dolžnost, da kadar izve za kakršne koli informacije, ki vzbudijo sum, da je bilo storjeno kaznivo dejanje, ki vključuje ogrožanje življenja ali varnosti ene ali več oseb, ali da se tako kaznivo dejanje izvaja ali je verjetno, da bo storjeno, o svojem sumu takoj obvesti organe za preprečevanje, odkrivanje in preiskovanje kaznivih dejanj ali pravosodne organe zadevne države članice ali držav članic ter predloži vse ustrezne informacije, ki jih ima na voljo.
+
+170. Upravljavec si pridržuje pravico, da lahko kadarkoli spremeni ta Pravila. Za spremembo Pogojev, kakor tudi za njihovo razveljavitev, ni potrebno soglasje Uporabnikov, ki so se dolžni seznaniti s Pogoji, ki veljajo ob vsakokratni uporabi Storitev Spletnega mesta bolha.com. Vsi podatki o Upravljavcu spletnega mesta so dostopni na [bolha.com](http://www.bolha.com/) in na koncu teh Pravil.
+
+171. Upravljavec in Uporabnik Spletnega mesta bolha.com si bosta prizadevala vse morebitne spore reševati sporazumno. V primeru, da sporazum ni možen, je za reševanje spora pristojno sodišče v Ljubljani.
+
+172. Pravila in pogoji uporabe bolha.com se lahko prevedejo v različne jezike, pri čemer je za razlago posameznih določil merodajna verzija v slovenskem jeziku.
+
+173. Ta Pravila veljajo od 16. 02. 2024
+
+  
+
+### **Podatki o Upravljavcu spletnega mesta bolha.com:**
+
+Styria digital marketplaces, d.o.o.
+
+Verovškova ulica 55
+
+1000 Ljubljana
+
+Davčna števila: 58257551
+
+Ljubljana, 16. 02. 2024
