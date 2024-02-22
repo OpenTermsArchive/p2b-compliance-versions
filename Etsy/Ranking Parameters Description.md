@@ -1,5 +1,5 @@
-Search & Advertisement Ranking Disclosures
-==========================================
+Search, Advertisement & Recommendation Ranking Disclosures
+==========================================================
 
 **How Does Etsy Search Work?**
 
@@ -30,4 +30,25 @@ For each Etsy Ad, Etsy's bid management system will automatically determine a se
 
 Etsy Ads are distinguished to users from organic content by being marked or referred to as seller ads, sponsored content, promoted listings, or using other distinguishing language, at the listing level or for a designated content area. To learn more about how on site ads work and how ads are ranked, check out our [Help Center](https://help.etsy.com/hc/en-us/articles/115015745428-How-Etsy-Search-Works?segment=selling) and [Etsy’s Advertising and Marketing Policy](https://www.etsy.com/ie/legal/advertising/#:~:text=You%20can%20set%20a%20budget,budget%20on%20a%20daily%20basis.). This article is incorporated into and a part of our [Terms of Use](https://www.etsy.com/legal/terms-of-use/) and [Advertising and Marketing Policy.](https://www.etsy.com/ie/legal/advertising/#:~:text=You%20can%20set%20a%20budget,budget%20on%20a%20daily%20basis.)
 
-Last updated on Jul 6, 2022
+**How do Etsy Recommendations work?**
+
+Recommendations help users find a special item among more than 100 million unique listings on Etsy. Recommendations appear at multiple touchpoints across Etsy, and depend on a user's shopping mission – whether browsing trending items, picking up shopping where they left off, or discovering new content and interests based on their prior activity.
+
+We call each recommendation set a “module,” and there are hundreds of modules both on the web and on mobile apps. Recommendation modules work in two phases: selection, which retrieves a small set of relevant items out of the entire inventory as quickly as possible, and ranking, which ranks the items using a more sophisticated machine learning model, typically with an emphasis on the user’s current shopping mission, and decides on the best few items to offer as recommendations.
+
+There are a number of different factors that are used when ranking recommendations. These models are called “rankers.” Rankers score items for relevance based on both contextual features and item features. Rankers are optimized based on feedback from a user’s engagement with the recommendation modules. While the criteria vary, the most significant criteria used to determine the recommendations are:
+
+* Listing features including data such as price, location, shipping and shipping price, historical interaction, images, attributes, shop quality
+* User features including data such as location, shipping, historical and real time interactions, search queries, hobbies and interests, textual features
+* Real time features including data such as recently viewed items, recent search queries, recently searched taxonomies
+* Time-based features including data such as day of the week, hour of the day, month of the year
+
+The relative importance of those features in the recommendation module is weighed based on the next best action for a buyer - whether browsing, continuing a shopping mission, or ready to purchase.
+
+There are certain recommendation modules that are dedicated to curated content, like “Shop the Look,” which identifies objects in an image and finds visually similar listings; “Gift Mode” which uses machine learning to identify listings based on their relevance to a broad category persona (e.g., “The Musician”) or gift idea, along with their historical performance on Etsy, their likeliness to be a gift, and their Listing Quality (as defined above); and other collections such as holiday gifting events, sales, and other collections created by Etsy editors.
+
+Etsy also uses its recommendation systems to enable in-app updates and notifications, which inform users when items have gone on sale, a seller is offering new items, or other updates related to a user’s activity. Finally, Etsy recommendation systems use query ranking, using past listing engagement to determine relevant queries to surface.
+
+The most effective way for a user to modify the recommendations and order is by clicking listings, favoriting (or un-favoriting) an item or a shop, which is an option available in the recommendation module. A user may also clear recently viewed listings in the privacy tab of their profile and update their privacy settings. Most recommendation modules have a recency bias, so a user may also influence the recommendation modules through searches, clicks, purchases and other activity.
+
+Last updated on Feb 16, 2024
