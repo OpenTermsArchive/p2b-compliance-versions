@@ -886,6 +886,7 @@ Site Footer
 * [Community forum](https://www.airbnb.com/help/community?s=footer)
 * [Hosting responsibly](https://www.airbnb.com/help/responsible-hosting)
 * [Airbnb-friendly apartments](https://www.airbnb.com/airbnb-friendly)
+* [Join a free Hosting class](https://www.airbnb.com/ambassadors/joinaclass)
 
 ### Airbnb
 
