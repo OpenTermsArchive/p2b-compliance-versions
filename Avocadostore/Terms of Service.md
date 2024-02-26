@@ -1,10 +1,10 @@
-Nutzungsbedingungen (gültig ab 01. Juni 2023)
-=============================================
+Nutzungsbedingungen
+===================
 
 Präambel
 ---------
 
-Die Avocado Store GmbH, Cremon 32, 20457 Hamburg (nachfolgend „Avocadostore“ genannt) bietet auf den Websites www.avocadostore.de und www.avocadostore.at Online-Marktplätze (nachfolgend „Avocadostore-Marktplatz“) für ökologische und nachhaltig produzierte Waren an. Avocadostore eröffnet damit gewerblichen Verkäufer:innen sowie Käufer:innen (die beiden Parteien werden nachfolgend auch „Teilnehmer:innen“ genannt) die Möglichkeit zum Verkauf und Erwerb eines umfassenden Sortiments nachhaltiger Produkte.
+Die Avocado Store GmbH, Cremon 32, 20457 Hamburg (nachfolgend „Avocadostore“ genannt) bietet auf den Websites www.avocadostore.de und www.avocadostore.at einen Online-Marktplatz (nachfolgend „Avocadostore-Marktplatz“) für ökologische und nachhaltig produzierte Waren an. Avocadostore eröffnet damit gewerblichen Verkäufer:innen sowie Käufer:innen (die beiden Parteien werden nachfolgend auch „Teilnehmer:innen“ genannt) die Möglichkeit zum Verkauf und Erwerb eines umfassenden Sortiments nachhaltiger Produkte.
 
 Die nachfolgenden Nutzungsbedingungen regeln die Teilnahme auf dem Avocadostore-Marktplatz sowohl für die Verkäufer:innen als auch für die Käufer:innen.
 
@@ -16,7 +16,7 @@ I. Allgemeine Bestimmungen
 ### 1\. Beteiligung von Avocadostore
 
 1. Verträge, die auf dem Avocadostore-Marktplatz geschlossen werden, berechtigen und verpflichten vorbehaltlich der nachfolgenden Bestimmungen ausschließlich die beteiligten Käufer:innen und Verkäufer:innen. Avocadostore selbst wird nur Vertragspartnerin eines Kaufgeschäfts, wenn Avocadostore selbst Artikel zum Verkauf anbietet.
-2. Avocadostore prüft mit Ausnahme von gesetzlich zwingenden für Avocadostore geltenden Aufzeichnungspflichten aufzuzeichnenden Informationen ohne einen konkreten Verdacht grundsätzlich nicht, ob die von den Verkäufer:innen auf dem Avocadostore-Marktplatz eingestellten Angebote und sonstige Inhalte sowie sämtliche Angaben aller Teilnehmer:innen rechtmäßig, wahrheitsgemäß sowie vollständig sind.
+2. Avocadostore prüft mit Ausnahme von gesetzlich zwingenden für Avocadostore geltenden Aufzeichnungspflichten ohne einen konkreten Verdacht grundsätzlich nicht, ob die von den Verkäufer:innen auf dem Avocadostore-Marktplatz eingestellten Angebote und sonstige Inhalte sowie sämtliche Angaben aller Teilnehmer:innen rechtmäßig, wahrheitsgemäß sowie vollständig sind.
 
 ### 2\. Kaufvertragsschluss
 
@@ -100,7 +100,7 @@ Die Zahlungsabrechnung für Warenkäufe erfolgt ausschließlich direkt über 
 ### 10\. Vertriebskanäle und Darstellung von Produkten
 
 1. Zur Vermarktung der auf Avocadostore angebotenen Produkte nutzt Avocadostore insbesondere aber nicht nur digitale Vertriebskanäle wie z. B. Anzeigenbuchungen in Suchmaschinen, Affiliate-Programme und Kooperationen, Display-Ads und andere digitale Werbeformate. Auf Anfrage gibt Avocadostore Verkäufer:innen im Rahmen der rechtlichen Vorgaben genauere Informationen zu den zum jeweiligen Zeitpunkt konkret genutzten Kanälen heraus. Die von Avocadostore konkret genutzten Kanäle und Maßnahmen ändern sich zum Teil kurzfristig und können daher hier nicht aktuell wiedergegeben werden.
-2. Das Ranking – also die Reihenfolge in der Produkte bei einer Suche oder in einer Kategorie auf Avocadostore dargestellt werden – berücksichtigt verschiedene Faktoren. Im Wesentlichen beruht das Ranking auf Interaktionen mit dem Produkt in der Vergangenheit (Klicks und Bestellungen) und der Verfügbarkeit (bei Avocadostore hinterlegter Warenbestand) der relevanten Produktvarianten. Außerdem setzen wir diese Parameter in ein Verhältnis zueinander. Bei einer Suche beziehen wir zusätzlich die Relevanz von Produkten für den Suchbegriff mit ein. Zusätzlich kann das Ranking durch Buchung von Marketing-Produkten beeinflusst werden. Diese Marketing-Produkte erlauben die feste Platzierung von bestimmten Produkten innerhalb des Avocadostore-Marktplatzes.
+2. Das Ranking bzw. die Empfehlungssystematik – also die Reihenfolge in der Produkte bei einer Suche, oder in einer Kategorie oder in Empfehlungen (z. B. „Ähnliche Produkte” auf der Produktdetailseite) auf Avocadostore dargestellt werden – berücksichtigt verschiedene Faktoren. Die beiden wesentlichen Faktoren sind die Verfügbarkeit in den letzten 24 Monaten und die Performance in den letzten 14 Tagen. Bei Produkten mit unterschiedlichen Größen wird auch die Verfügbarkeit in den unterschiedlichen Größen berücksichtigt. Die Performance berücksichtigt die Conversion Rate (=Bestellungen im Verhältnis zu den aufgerufenen Produktdetailseiten) und die Bestellungen. Dabei wird die Conversion Rate des Produktes im Verhältnis zur Conversion Rate der gesamten Produktkategorie betrachtet. Das führt dazu, dass ein Produkt mit einer höheren Verfügbarkeit und einer höheren Performance im Vergleich zu einem anderen Produkt in der Reihenfolge weiter oben aufgeführt wird. Im Wesentlichen beruht das Ranking auf Interaktionen mit dem Produkt in der Vergangenheit (Klicks und Bestellungen) und der Verfügbarkeit (bei Avocadostore hinterlegter Warenbestand) der relevanten Produktvarianten. Außerdem setzen wir diese Parameter in ein Verhältnis zueinander. Bei einer Suche beziehen wir zusätzlich die Relevanz von Produkten für den Suchbegriff mit ein. Zusätzlich kann das Ranking durch Buchung von Marketing-Produkten beeinflusst werden. Diese Marketing-Produkte erlauben die feste Platzierung von bestimmten Produkten innerhalb des Avocadostore-Marktplatzes und sind entsprechend gekennzeichnet.
 3. Avocadostore tritt auch selbst als Verkäuferin auf dem Avocadostore-Marktplatz auf. Um zu entscheiden, welche Produkte Avocadostore wie selber anbieten möchte, hat Avocadostore Zugriff auf historische Verkaufsdaten und Analysen der Transaktionen auf dem Avocadostore-Marktplatz. Avocadostore kann selbst angebotene Produkte auf nachrangigen Plätzen des Rankings (siehe auch Ziff. 10.2) fest platzieren.
 
 ### 11\. Datenzugang
@@ -123,6 +123,17 @@ Die Zahlungsabrechnung für Warenkäufe erfolgt ausschließlich direkt über 
     * Zahlungsdienste
     * CRM\- und Marketing-Software/-Dienstleister
     * Statistik- und Analyse-Software/-Dienstleister
+
+### 12\. Meldesystem/Beschwerdemanagementsystem
+
+1. Nutzer:innen können rechtswidrige Inhalte über das eingerichtete Meldeverfahren melden. Meldungen werden von Avocadostore sorgfältig geprüft. Die Prüfung erfolgt durch Mitarbeitende der Avocado Store GmbH, dabei werden keine automatisierten Verfahren eingesetzt. Rechtswidrige Inhalte oder Inhalte, die gegen unsere AGB verstoßen, werden von Avocadostore entfernt. Sollten Nutzer:innen innerhalb eines Jahres:
+
+1. mehr als fünf rechtswidrige Inhalte oder Inhalte, die gegen diese Nutzungsbedingungen verstoßen, auf dem Avocadostore-Marktplatz einstellen, oder.
+2. mehr als fünf unbegründete Meldungen über mutmaßlich rechtswidrige Inhalte einreichen,
+
+wird das Konto des:der Nutzer:in gesperrt bzw. werden Meldungen des:der Nutzer:in nicht weiter bearbeitet.  
+
+4. Von Maßnahmen nach 1.a) oder 1.b). betroffenen Nutzer:innen und/oder der meldenden Person wird mit Entscheidung über die Maßnahme eine Begründung vorgelegt. In einem Zeitraum von sechs Monaten nach Mitteilung der Entscheidung über die Maßnahme und der Begründung können betroffene Nutzer:innen über das interne Beschwerdemanagementsystem eine Beschwerde einreichen. Dieses Recht steht auch den Personen zu, die eine Meldung nach 1. eingereicht haben und der Annahme sind, dass eine Entscheidung von Avocadostore, nicht tätig zu werden, unbegründet ist. Beschwerden werden sorgfältig durch qualifiziertes Personal geprüft. Dabei wird die Überprüfung zeitnah, diskriminierungsfrei, sorgfältig und objektiv durchgeführt, ggf. werden externe Experten hinzugezogen. Im Anschluss teilt Avocadostore den Beschwerdeführer:innen eine begründete Entscheidung mit. Sollte sich aus der Beschwerde ergeben, dass eine Maßnahme oder die Entscheidung, nicht tätig zu werden, unbegründet war, wird die entsprechende Maßnahme oder Entscheidung rückgängig gemacht, soweit dies technisch möglich und zumutbar ist.
 
 II. Besondere Bestimmungen für Avocadostore
 --------------------------------------------
@@ -152,4 +163,4 @@ Personenbezogene Daten der Teilnehmer:innen werden nur erhoben, verarbeitet oder
 6. Sollten einzelne Bestimmungen dieser Nutzungsbedingungen unwirksam sein oder werden und/oder den gesetzlichen Regelungen widersprechen, so wird hierdurch die Wirksamkeit der Nutzungsbedingungen im Übrigen nicht berührt. Die unwirksame Bestimmung wird von den Parteien einvernehmlich durch eine solche Bestimmung ersetzt, welche dem wirtschaftlichen Sinn und Zweck der unwirksamen Bestimmung in rechtswirksamer Weise am nächsten kommt. Die vorstehende Regelung gilt entsprechend bei Regelungslücken.
     
 
-Stand: 01. Juni 2023
+Stand: 17. Februar 2024
