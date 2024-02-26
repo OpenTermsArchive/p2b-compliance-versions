@@ -1,6 +1,6 @@
 Seller Terms of Service for Shop (ID)
 
-22/02/202480.2k views
+22/02/202480.4k views
 
 ​
 
