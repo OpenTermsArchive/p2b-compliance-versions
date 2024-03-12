@@ -488,7 +488,7 @@ Amazon Marketplace Fair Pricing Policy
 
 Sellers are responsible for setting their own prices on Amazon stores. In our mission to be Earth's most customer-centric company, we strive to provide our customers with the largest selection, at the lowest price, and fastest delivery as sellers play an important role in achieving this mission.
 
-Sellers agree that Amazon may remove an offer, suspend a shipping option, or, in repeated cases, suspend or terminate selling privileges if sellers:
+Sellers agree that Amazon may remove an offer or, in repeated cases, suspend or terminate selling privileges if sellers:
 
 A- Set prices or practices in violation of applicable laws across all EU member states and the UK (such as the books fixed price laws or the shipping regulation for New Books in France); or
 
