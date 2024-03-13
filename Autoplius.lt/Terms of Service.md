@@ -134,6 +134,8 @@
 
 5.11. After an Advert transaction, the Minimum Period balance is not transferred to another Advert and the User may not publish a new (other) Advert in place of the old Advert. If the User has adapted (intends to adapt) the Paid Service to a different Advertisement (for example, to a vehicle other than the original vehicle specified in the Advertisement), the Provider shall be entitled to cancel the Advertisement and warn the User, or to charge for such Advertisement as if it were a new Advertisement. Such Advertisement shall be displayed only after due payment has been made. If the User does not agree to pay, the Advertisement shall be cancelled.
 
+5.12. The User shall have the right to extend the advertisement hosting service before the expiry of the specific advertisement to be extended, i.e. before the expiry of the service (the selected plan). However, the validity and ordering period of a single advertisement service or services may not exceed one year.   
+
 6. **User's rights in the event of non-provision of Paid Services or in the event of inadequate quality of service provision**
 
 6.1. The User shall have the right to demand that the Provider commence the provision of the Paid Services if the Provider fails to comply with its obligation to commence the provision of the Paid Services purchased by the User promptly after the conclusion of the Contract, unless otherwise agreed by the parties. If, upon such demand, the Provider fails to provide the Paid Services immediately or within an additional period of time expressly agreed between the parties, the User shall have the right to unilaterally terminate the agreement for the provision of Paid Services.
