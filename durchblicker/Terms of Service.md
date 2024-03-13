@@ -91,7 +91,7 @@ Nach Erhalt des Vergleichsergebnisses hat der Nutzer folgende Möglichkeiten, wo
 
 ### III. DATENSCHUTZ-INFORMATION
 
-1. Die Erhebung, Verarbeitung und Verwendung der Daten von durchblicker erfolgt stets im Einklang mit den anwendbaren gesetzlichen Vorschriften, insbesondere in Übereinstimmung mit der Datenschutz-Grundverordnung (DSGVO), dem Datenschutzgesetz (DSG) 2018, der Datenschutzrichtlinie für elektronische Kommunikation (E-Privacy-RL) und dem Telekommunikationsgesetz (TKG) 2003 sowie den sonstigen zur Anwendung kommenden unionsrechtlichen Vorschriften.
+1. Die Erhebung, Verarbeitung und Verwendung der Daten von durchblicker erfolgt stets im Einklang mit den anwendbaren gesetzlichen Vorschriften, insbesondere in Übereinstimmung mit der Datenschutz-Grundverordnung (DSGVO), dem Datenschutzgesetz (DSG) 2018, der Datenschutzrichtlinie für elektronische Kommunikation (E-Privacy-RL) und dem Telekommunikationsgesetz (TKG) 2021 sowie den sonstigen zur Anwendung kommenden unionsrechtlichen Vorschriften.
     
 2. Sämtliche vom Nutzer angegebenen Daten werden vertraulich behandelt und zum Zweck des Vergleichs von Produkten der Anbieter oder der Kontaktaufnahme durch durchblicker verwendet. Darüber hinausgehende Datenverwendungen erfolgen ausschließlich auf Basis einer vom Nutzer gesondert erteilten Einwilligung. Die Weitergabe der Daten an Anbieter erfolgt nur im Auftrag des Nutzers.
     
