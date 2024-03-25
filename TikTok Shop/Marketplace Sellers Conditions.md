@@ -1,6 +1,6 @@
 Seller Terms of Service for Shop (ID)
 
-04/03/2024
+25/03/2024
 
 ​
 
