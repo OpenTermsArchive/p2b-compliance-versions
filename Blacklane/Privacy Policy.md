@@ -27,32 +27,33 @@ Please note: The English translation of the Blacklane Privacy Policy is provided
 
 1. [Adjust](#Adjust)
 2. [Adnxs (AppNexus)](#Adnxs)
-3. [Bing Ads](#Bing)
-4. [DoubleClick](#DoubleClick)
-5. [Facebook (Custom Audiences und Impressions)](#FacebookCustomAudiencesundImpressions)
-6. [Google Ads (former Google AdWords Conversion Tracker)](#GoogleAds)
-7. [Google Analytics](#GoogleAnalytics)
-8. [Google Dynamic Remarketing](#GoogleDynamicRemarketing)
-9. [Google Firebase](#GoogleFirebase)
-10. [Google Fonts](#GoogleFonts)
-11. [Google reCAPTCHA](#GooglereCAPTCHA)
-12. [Google Tag Manager and Conversion Link](#GoogleTagManagerandConversionLink)
-13. [Hotjar](#Hotjar)
-14. [Intercom](#Intercom)
-15. [LinkedIn Marketing Solutions](#LinkedInMarketingSolutions)
-16. [Mailchimp](#Mailchimp)
-17. [Mixpanel](#Mixpanel)
-18. [Nexmo](#Nexmo)
-19. [Optimizely](#Optimizely)
-20. [Outbrain Pixel / OutBrain Amplify](#Outbrain)
-21. [Polyfill](#Polyfill)
-22. [Raygun](#Raygun)
-23. [Rudderstack](#Rudderstack)
-24. [Salesforce](#Salesforce)
-25. [Sendgrid](#Sendgrid)
-26. [Snowplow](#Snowplow)
-27. [Twitter Advertising](#Twitter)
-28. [Xandr](#Xandr)
+3. [Attributer.io](#Attributer.io)
+4. [Bing Ads](#Bing)
+5. [DoubleClick](#DoubleClick)
+6. [Facebook (Custom Audiences und Impressions)](#FacebookCustomAudiencesundImpressions)
+7. [Google Ads (former Google AdWords Conversion Tracker)](#GoogleAds)
+8. [Google Analytics](#GoogleAnalytics)
+9. [Google Dynamic Remarketing](#GoogleDynamicRemarketing)
+10. [Google Firebase](#GoogleFirebase)
+11. [Google Fonts](#GoogleFonts)
+12. [Google reCAPTCHA](#GooglereCAPTCHA)
+13. [Google Tag Manager and Conversion Link](#GoogleTagManagerandConversionLink)
+14. [Hotjar](#Hotjar)
+15. [Intercom](#Intercom)
+16. [LinkedIn Marketing Solutions](#LinkedInMarketingSolutions)
+17. [Mailchimp](#Mailchimp)
+18. [Mixpanel](#Mixpanel)
+19. [Nexmo](#Nexmo)
+20. [Optimizely](#Optimizely)
+21. [Outbrain Pixel / OutBrain Amplify](#Outbrain)
+22. [Polyfill](#Polyfill)
+23. [Raygun](#Raygun)
+24. [Rudderstack](#Rudderstack)
+25. [Salesforce](#Salesforce)
+26. [Sendgrid](#Sendgrid)
+27. [Snowplow](#Snowplow)
+28. [Twitter Advertising](#Twitter)
+29. [Xandr](#Xandr)
 
 1\. Scope
 ---------
@@ -142,7 +143,7 @@ Blacklane also provides the option of logging in to the Blacklane account using 
 
 You also have the option at any time to adjust the usage of Facebook Connect and log in to your Blacklane account in another manner.
 
-Blacklane uses, where you have consented to this, **Facebook Custom Audiences** from lists to show you targeted advertising via Facebook. Blacklane creates lists of existing contacts and uploads them to Facebook via Blacklane's Facebook account. Before uploading, the list is hashed locally in the browser and only then sent to Facebook. There it is compared with Facebook's existing list of hashed IDs of Facebook users. The matches are then added to Blacklane's Custom Audience. Facebook does not collect any new personal data.
+Blacklane uses, where you have consented to this, Facebook Custom Audiences from lists to show you targeted advertising via Facebook. Blacklane would utilize contact data stored in our CRM system (Braze), this data is synced between Braze/Facebook for data security. Once synced it is compared with Facebook's existing list of Facebook users. The matches are then added to Blacklane's Custom Audience. Facebook does not collect any new personal data.
 
 The legal basis for the processing of personal data when using Facebook Connect is in each case Art. 6 Paragraph 1 lit a GDPR (your consent).
 
@@ -152,7 +153,7 @@ We will inform you in our [Cookie Policy](#BlacklaneCookiePolicy) about Facebook
 
 Blacklane uses the Customer Match service of Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA ("Google").
 
-At Google Customer Match, Blacklane creates lists of existing contacts and uploads them to Google via Blacklane's Google Account. Before uploading, the list is hashed locally in the browser with the SHA256 algorithm and only then transmitted to Google with TLS encryption. There it is compared with existing Google Accounts. The matches are then added to the Blacklane Audience. On this basis we can display targeted advertising via Google Ads.
+At Google Customer Match, Blacklane creates lists in our CRM system (Braze) of existing contacts and uploads them to Blacklane's Google Account. Blacklane would utilize contact data stored in Braze, this data is synced between Braze/Google for data security. There it is compared with existing Google Accounts. The matches are then added to the Blacklane Audience. On this basis we can display/exclude targeted advertising via Google Ads.
 
 The legal basis for processing personal data when using Google Customer Match is Art. 6 para. 1 lit. a GDPR (your consent).
 
@@ -348,6 +349,14 @@ Information that may be tracked about a browser include:
 * IP Address (to infer location).
 
 You can find more information on AppNexus Technology here: [https://www.appnexus.com/corporate-privacy-policy-de](https://www.appnexus.com/corporate-privacy-policy-de) If you would like to opt out of the AppNexus Technology tracking, please open the following page: [https://www.appnexus.com/corporate-privacy-policy-de#choices](https://www.appnexus.com/corporate-privacy-policy-de#choices). If you have any questions regarding this opt-out, please send an e-mail to [privacy@appnexus.com](mailto:privacy@appnexus.com) and AppNexus will get back to you as soon as possible.
+
+### Attributer.io
+
+Information Captured by [http://Attributer.io](http://attributer.io/) : This cookie contains no personally identifiable information (like their IP address, email address, etc). It simply contains strings of text like ‘Channel = Paid Search’ Channel Data: Captures lead channels (e.g., Paid Search, Paid Social, Organic Search) and detailed information for each channel.
+
+[http://Attributer.io](http://attributer.io/) operates without storing personal data about website visitors. It captures data like referral sources in first-party cookies, which contain no identifiable information.
+
+More info on the Cookie Policy is here: [https://attributer.io/privacy-policy](https://attributer.io/privacy-policy)
 
 ### Bing Ads
 
