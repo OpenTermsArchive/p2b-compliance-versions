@@ -1,7 +1,7 @@
 Partner Terms of Business
 -------------------------
 
-Last Updated January 2024
+Last Updated March 2024
 
 1. **THE BASICS**
     1. **About us.** Hi! We’re Treatwell! Under these Terms, we’ll call ourselves **Treatwell**, **we**, **us** or **our**. We are present in many different markets around Europe. Which of our companies you are contracting with depends on where your salon is located  
