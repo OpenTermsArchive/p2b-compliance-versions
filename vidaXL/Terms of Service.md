@@ -367,7 +367,7 @@ La sociedad privada de responsabilidad limitada vidaXL International B.V., ubica
 
 6\. Si, además de estos Términos y Condiciones, se aplican condiciones específicas de una plataforma externa en la que el empresario ofrece productos y servicios, el cliente puede, en caso de condiciones en conflicto, siempre invocar la condición aplicable que sea más favorables para ellos, pero solo si los Términos y Condiciones no son derogables.
 
-7\. Los Clientes Comerciales no tendrán acceso a las Subastas y al Programa de Fidelización en las regiones donde se ofrecen estos servicios.
+7\. Los Clientes Comerciales no tendrán acceso a las Subastas en las regiones donde se ofrecen estos servicios.
 
 ### **Artículo 4 - Oferta**
 
@@ -634,7 +634,7 @@ Artículo 12 - Varios
 
 _Adjunto(s) archivo(s)_
 
-[Términos y Condiciones](https://www.vidaxl.es/on/demandware.static/-/Library-Sites-vidaXLSharedLibrary/default/dw2babb107/Documents/terms_conditions/ES.pdf)
+[Términos y Condiciones](https://www.vidaxl.es/on/demandware.static/-/Library-Sites-vidaXLSharedLibrary/default/dwfe003176/Documents/terms_conditions/ES.pdf)
 
 [Términos y Condiciones Generales de Subastas](https://www.vidaxl.es/on/demandware.static/-/Library-Sites-vidaXLSharedLibrary/default/dw44535fde/Documents/terms_conditions_auctions/ES.pdf)
 
