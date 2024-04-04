@@ -1,7 +1,7 @@
 AGB
 ===
 
-Stand 19.02.2024
+Stand 13.03.2024
 ----------------
 
 Allgemeine Bedingungen für die Nutzung von durchblicker.at
