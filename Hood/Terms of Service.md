@@ -1,6 +1,6 @@
 #### Allgemeine Nutzungsbedingungen für das Handeln auf der Handelsplattform Hood
 
-Für die Geschäftsbeziehung zwischen Hood und seinen Mitgliedern (nachfolgend „Nutzungsverhältnis“ genannt) gelten ausschließlich die nachfolgenden Allgemeinen Nutzungsbedingungen in ihrer jeweils aktuellen Fassung. Sofern das Mitglied Unternehmer im Sinne des BGB ist, erkennt Hood abweichende Bedingungen des jeweiligen Mitglieds nicht an, es sei denn, Hood hätte ausdrücklich schriftlich ihrer Geltung zugestimmt.  
+Für die Geschäftsbeziehung zwischen Hood und seinen Mitgliedern (nachfolgend „Nutzungsverhältnis“ genannt) gelten ausschließlich die nachfolgenden Allgemeinen Nutzungsbedingungen in Ihrer jeweils aktuellen Fassung. Sofern das Mitglied Unternehmer im Sinne des BGB ist, erkennt Hood abweichende Bedingungen des jeweiligen Mitglieds nicht an, es sei denn, Hood hätte ausdrücklich schriftlich Ihrer Geltung zugestimmt.  
   
 Widerrufsrecht für Verbraucher:
 
@@ -73,7 +73,7 @@ Eine Überprüfung der bei der Registrierung hinterlegten Daten kann Hood nur be
 
 (6) Ändern sich nach der Anmeldung die angegebenen Daten, so ist das Mitglied selbst verpflichtet, die Angaben in seinem Mitgliedskonto umgehend zu korrigieren.
 
-(7) Das Mitglied verpflichtet sich, dafür Sorge zu tragen, dass keine unbefugten Drittpersonen Kenntnis von seinem Passwort erhalten. Ist dies dennoch erfolgt bzw. liegen dem Mitglied entsprechende Anhaltspunkte hierfür vor, so ist das Mitglied verpflichtet, Hood unverzüglich zu informieren. Mitglieder haften grundsätzlich für sämtliche Aktivitäten, die unter Verwendung ihres Mitgliedskontos vorgenommen werden.
+(7) Das Mitglied verpflichtet sich, dafür Sorge zu tragen, dass keine unbefugten Drittpersonen Kenntnis von seinem Passwort erhalten. Ist dies dennoch erfolgt bzw. liegen dem Mitglied entsprechende Anhaltspunkte hierfür vor, so ist das Mitglied verpflichtet, Hood unverzüglich zu informieren. Mitglieder haften grundsätzlich für sämtliche Aktivitäten, die unter Verwendung Ihres Mitgliedskontos vorgenommen werden.
 
 (8) Hood wird das Passwort eines Mitglieds nicht an Dritte weitergeben und ein Mitglied niemals per E-Mail oder Telefon nach seinem Passwort fragen.
 
@@ -99,7 +99,7 @@ Eine Überprüfung der bei der Registrierung hinterlegten Daten kann Hood nur be
 
 (3) Im Falle einer durch Hood ausgesprochenen Kündigung ist das Mitglied nicht berechtigt, sich erneut bei Hood anzumelden und darf auch keine anderen Mitgliedskonten nutzen.  
   
-(4)  Mitglieder können diesen Nutzungsvertrag jederzeit kündigen. Für die Kündigungserklärung ist das [Kündigungsformular](https://www.hood.de/support.htm?supportID=128) an den Kundenservice zu senden. Alternativ können Verbraucher für ihre Kündigungserklärung die Textform verwenden. Aus Sicherheitsgründen ist die Erklärung dann von der bei Hood für das Mitgliedskonto hinterlegten E-Mail-Adresse aus zu versenden.  
+(4)  Mitglieder können diesen Nutzungsvertrag jederzeit kündigen. Für die Kündigungserklärung ist das [Kündigungsformular](https://www.hood.de/support.htm?supportID=128) an den Kundenservice zu senden. Alternativ können Verbraucher für Ihre Kündigungserklärung die Textform verwenden. Aus Sicherheitsgründen ist die Erklärung dann von der bei Hood für das Mitgliedskonto hinterlegten E-Mail-Adresse aus zu versenden.  
   
 (5) Für Hood-Shops gelten gesonderte Kündigungsfristen: Der Hood-Shop kann im Monatsabonnement mit einer Frist von 30 Tagen zum Ende des aktuell laufenden Abrechnungszeitraumes gekündigt werden. Bei Jahresabonnements beträgt die Kündigungsfrist 1 Monat zum Ende des 12. Monats. Das Abonnement verlängert sich jeweils um die zuvor vereinbarte Laufzeit, also entweder um einen weiteren Monat bzw. um weitere 12 Monate solange keine Kündigung erfolgt. Die Rückerstattung von bereits fälligen Abonnementgebühren für einen angebrochenen Abrechnungszeitraum ist ausgeschlossen.  
   
@@ -129,7 +129,7 @@ Eine Überprüfung der bei der Registrierung hinterlegten Daten kann Hood nur be
 
 **§ 6 Haftung**
 
-(1) Hood haftet für Schäden, außer im Fall der Verletzung wesentlicher Vertragspflichten, nur, wenn und soweit Hood, seinen gesetzlichen Vertretern, leitenden Angestellten oder sonstigen Erfüllungsgehilfen Vorsatz oder grobe Fahrlässigkeit zur Last fällt. Im Fall der Verletzung wesentlicher Vertragspflichten haftet Hood für jedes schuldhafte Verhalten ihrer gesetzlichen Vertreter, leitenden Angestellten oder sonstigen Erfüllungsgehilfen. Der Schadensersatzanspruch für die Verletzung wesentlicher Vertragspflichten ist jedoch auf den vertragstypischen, vorhersehbaren Schaden begrenzt, soweit nicht Vorsatz oder grobe Fahrlässigkeit vorliegt oder wegen der Verletzung des Lebens, des Körpers oder der Gesundheit gehaftet wird. Eine Haftung für den Ersatz mittelbarer Schäden, insbesondere für entgangenen Gewinn, besteht nur bei Vorsatz oder grober Fahrlässigkeit gesetzlicher Vertreter, leitender Angestellter oder sonstiger Erfüllungsgehilfen von Hood. Im Übrigen ist die Haftung von Hood ausgeschlossen.
+(1) Hood haftet für Schäden, außer im Fall der Verletzung wesentlicher Vertragspflichten, nur, wenn und soweit Hood, seinen gesetzlichen Vertretern, leitenden Angestellten oder sonstigen Erfüllungsgehilfen Vorsatz oder grobe Fahrlässigkeit zur Last fällt. Im Fall der Verletzung wesentlicher Vertragspflichten haftet Hood für jedes schuldhafte Verhalten Ihrer gesetzlichen Vertreter, leitenden Angestellten oder sonstigen Erfüllungsgehilfen. Der Schadensersatzanspruch für die Verletzung wesentlicher Vertragspflichten ist jedoch auf den vertragstypischen, vorhersehbaren Schaden begrenzt, soweit nicht Vorsatz oder grobe Fahrlässigkeit vorliegt oder wegen der Verletzung des Lebens, des Körpers oder der Gesundheit gehaftet wird. Eine Haftung für den Ersatz mittelbarer Schäden, insbesondere für entgangenen Gewinn, besteht nur bei Vorsatz oder grober Fahrlässigkeit gesetzlicher Vertreter, leitender Angestellter oder sonstiger Erfüllungsgehilfen von Hood. Im Übrigen ist die Haftung von Hood ausgeschlossen.
 
 (2) Die vorgenannten Haftungsausschlüsse und Beschränkungen gegenüber Unternehmern oder Verbrauchern gelten nicht im Fall der Übernahme ausdrücklicher Garantien durch Hood und für Schäden aus der Verletzung des Lebens, des Körpers oder der Gesundheit sowie im Fall zwingender gesetzlicher Regelungen.
 
@@ -147,7 +147,7 @@ Eine Überprüfung der bei der Registrierung hinterlegten Daten kann Hood nur be
 
 **§ 8 Freistellung**
 
-(1) Das Mitglied stellt Hood von sämtlichen Ansprüchen frei, die andere Mitglieder oder sonstige Dritte gegen Hood wegen Verletzung ihrer Rechte durch vom Mitglied in Hood eingestellte Präsentationen und Inhalte oder wegen dessen sonstiger Nutzung des Marktplatzes (einschließlich der von ihm abgegebenen Bewertungen) geltend machen. Insbesondere gilt dies alle Bilder, Bildfolgen, Texte, Videos, Kennzeichen, welche Verkäufer im Rahmen ihrer Präsentation verwenden. Das Mitglied übernimmt hierbei auch die Kosten der notwendigen Rechtsverteidigung von Hood einschließlich sämtlicher Gerichts- und Anwaltskosten. Das gilt nicht, soweit die Rechtsverletzung von dem Mitglied nicht zu vertreten ist.
+(1) Das Mitglied stellt Hood von sämtlichen Ansprüchen frei, die andere Mitglieder oder sonstige Dritte gegen Hood wegen Verletzung Ihrer Rechte durch vom Mitglied in Hood eingestellte Präsentationen und Inhalte oder wegen dessen sonstiger Nutzung des Marktplatzes (einschließlich der von ihm abgegebenen Bewertungen) geltend machen. Insbesondere gilt dies alle Bilder, Bildfolgen, Texte, Videos, Kennzeichen, welche Verkäufer im Rahmen Ihrer Präsentation verwenden. Das Mitglied übernimmt hierbei auch die Kosten der notwendigen Rechtsverteidigung von Hood einschließlich sämtlicher Gerichts- und Anwaltskosten. Das gilt nicht, soweit die Rechtsverletzung von dem Mitglied nicht zu vertreten ist.
 
 (2) Das Mitglied ist verpflichtet, Hood für den Fall einer Inanspruchnahme durch Dritte unverzüglich, wahrheitsgemäß und vollständig alle Informationen zur Verfügung zu stellen, die für die Prüfung der Ansprüche und eine Verteidigung erforderlich sind.
 
@@ -206,7 +206,7 @@ Mitglieder übertragen Hood ein vergütungsfreies, zeitlich unbefristetes, umfas
 
 **§ 11 Bewertungssystem**
 
-(1) Hood unterhält innerhalb seiner Handelsplattform ein nach Mitgliedsnamen gegliedertes Bewertungssystem, in welchem die jeweiligen Vertragsparteien die Möglichkeit haben, eine Kurzkritik über ihren Vertragspartner hinsichtlich ihrer Zufriedenheit bei der Abwicklung des Geschäfts abzugeben.  
+(1) Hood unterhält innerhalb seiner Handelsplattform ein nach Mitgliedsnamen gegliedertes Bewertungssystem, in welchem die jeweiligen Vertragsparteien die Möglichkeit haben, eine Kurzkritik über Ihren Vertragspartner hinsichtlich Ihrer Zufriedenheit bei der Abwicklung des Geschäfts abzugeben.  
 Beim Handel über das Internet bestehen Risiken, die in der Natur des Mediums liegen. Da die Identifizierung von Mitgliedern im Internet schwierig ist, kann Hood nicht zusichern, dass jedes Mitglied tatsächlich die Person ist, für die es sich ausgibt.
 
 (2) Mitglieder sind verpflichtet, in den abgegebenen Bewertungen ausschließlich wahrheitsgemäße Angaben zu machen und die gesetzlichen Bestimmungen einzuhalten. Die von Mitgliedern abgegebenen Bewertungen müssen sachlich gehalten sein und dürfen keine Schmähkritik enthalten.
