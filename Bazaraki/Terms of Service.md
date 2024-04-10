@@ -305,6 +305,8 @@ The use of Bazaraki is initially offered free of charge, with the exception of t
 
 If the service you are using is subject to a fee or the payment of a specific fee for its posting, you'll be able to review and accept the terms that will be clearly disclosed at the time you post your ad. Our fees are quoted in euros, and we reserve the right to modify at any time without notice but always providing our client with the respective information. We may choose to temporarily change our fees for promotional events or new services.
 
+Please note that the charges of premium ads (VIP/TOP) might be varied from time to time and from user to user, based on multiple criteria including not only the nature, the geographical position of the ad that is displayed, the offer and demand but also several other factors based on which certain tests are conducted by implementation of fully automatic system (algorithm) which is in place for the provision of best services of the platform.
+
 You agree that your ads may be deleted from the Bazaraki in case we reasonably believe that the current Terms and Conditions, including our Posting Rules, are breached, either directly or indirectly. We reserve the right not to refund the Bazaraki users for any fees paid.
 
 Please also see clause [14: Refund and Cancellation Policy.](#14)
