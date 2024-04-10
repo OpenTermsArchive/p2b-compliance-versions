@@ -503,7 +503,7 @@ These Clauses shall be governed by the law of one of the EU Member States, provi
 |     |     |     |
 | --- | --- | --- |
 | 1.  | Name: | Houzz Inc. |
-|     | Address: | 285 Hamilton Avenue, Palo Alto, CA, USA 94301 |
+|     | Address: | 8605 Santa Monica Blvd., #90918, West Hollywood, CA 90069-4109, USA |
 |     | Contact person’s name, position and contact details: | EUprivacy@houzz.com |
 |     | Activities relevant to the data transferred under these Clauses: | Processing the personal data necessary to execute the Houzz Pro Terms and Conditions. |
 |     | Signature and date: | At the same time as the Data Exporter is entering into the Houzz Pro Terms and Conditions, also the SCCs, which forms an integral part of the Houzz Pro Terms and Conditions, are concluded. |
