@@ -2,7 +2,7 @@ Privalia | 1
 
 
 
-Actualizado el 17 de enero de 2024
+Actualizado el 9 de abril de 2024
 
 
 
@@ -34,7 +34,7 @@ CONDICIONES GENERALES DE ROSEDEAL
 
 
 
-CONDICIONES GENERALES DE RE-CYCLE
+CONDICIONES GENERALES DE PRIVALIA RE-CYCLE
 
 Privalia | 2
 
@@ -62,7 +62,7 @@ folio 75, Hoja B-547694, inscripción 1ª, con número de CIF W2504156G y con n�
 
 (+34) 935 53 18 06, que opera en España en nombre y por cuenta de la sociedad francesa VENTE-
 
-PRIVEE.COM, Société Anonyme con un capital de 684.332,35 € inscrita en el registro comercial y de
+PRIVEE.COM, Société Anonyme con un capital de 683.646,13 € inscrita en el registro comercial y de
 
 sociedades de Bobigny con el número RCS 434 317 293 y con domicilio en 249 Avenue du President
 
@@ -1020,7 +1020,7 @@ de CIF W2504156G y con número de teléfono (+34) 935 53 18 06, que opera en Esp
 
 por cuenta de la sociedad francesa VENTE-PRIVEE.COM, Société Anonyme con un capital de
 
-684.332,35 €, inscrita en el registro comercial y de sociedades de Bobigny con el número RCS 434
+683.646,13 €, inscrita en el registro comercial y de sociedades de Bobigny con el número RCS 434
 
 317 293 y con domicilio en 249 Avenue du President Wilson 93210 la Plaine - Saint Denis. Privalia
 
@@ -1400,7 +1400,7 @@ Paypal
 
 Los pagos de PayPal son procesados por la empresa VENTE-PRIVEE.COM, Société Anonyme con
 
-un capital de 684.332,35 €, inscrita en el registro comercial y de sociedades de Bobigny con el número
+un capital de 683.646,13 €, inscrita en el registro comercial y de sociedades de Bobigny con el número
 
 RCS 434 317 293 y con domicilio en 249 Avenue du President Wilson 93210 la Plaine - Saint Denis
 
@@ -1936,23 +1936,11 @@ Condiciones económicas
 
 
 
-Oney cobrará a los Clientes que usen la solución de pago aplazado un importe de un uno por ciento
+Oney cobrará a los Clientes que usen la solución de pago aplazado un determinado importe en
 
-(1%) por cada pago sobre el total de la compra en concepto de gastos de gestión financiados.
+concepto de gastos de gestión financiados. Los Clientes tendrán información sobre dicho importe antes
 
-
-
-Ejemplo de financiación para compra de 200€ en 4x Oney, con unos gastos de gestión financiados del
-
-1%:
-
-
-
-- Importe de pago aplazado solicitado: 200€
-
-- Plazos: 4 pagos de 52 €
-
-- Importe total adeudado: 208€ (incluidos gastos de gestión financiados de 8€. TIN 0% TAE 37,95%)
+de la finalización de la compra.
 
 
 
@@ -1992,8 +1980,6 @@ que se formaliza el contrato y que el Cliente podrá imprimir y que queda archiv
 
 Cuenta \> Mis Pedidos.
 
-Privalia | 22
-
 
 
 Privalia ha implementado un programa de detección de posibles operaciones fraudulentas y se reserva
@@ -2009,6 +1995,10 @@ la finalidad de confirmar que el Cliente efectivamente hubiere realizado y autor
 que la entrega o devolución de la misma se hubiese realizado correctamente y de esta forma autorizar
 
 definitivamente la transacción respectiva. Entre otras, Privalia podrá formular telefónicamente diversas
+
+Privalia | 22
+
+
 
 comprobaciones sobre la identidad del Cliente, o bien, solicitar: (a) una confirmación y autorización por
 
@@ -2090,8 +2080,6 @@ otro caso, si el Cliente desea cancelar un pedido deberá proceder a su devoluci
 
 adelante.
 
-Privalia | 23
-
 
 
 Para realizar la cancelación del pedido, el Cliente debe seguir el procedimiento establecido en la
@@ -2107,6 +2095,8 @@ condiciones señalados en el apartado de “Pago de los Productos”, relativos 
 pagos, de las presentes Condiciones de Venta Privalia o si Privalia observara algún defecto en los
 
 Productos objeto de venta.
+
+Privalia | 23
 
 
 
@@ -2190,8 +2180,6 @@ Privalia, deberá contactar con el propio vendedor directamente para saber de qu
 
 con sus obligaciones en cuanto a la reutilización y reciclaje de sus aparatos eléctricos y electrónicos.
 
-Privalia | 24
-
 
 
 Para realizar la entrega del RAEE para su recogida, los Clientes deberán extraer de los mismos las
@@ -2205,6 +2193,8 @@ Los Clientes que deseen la retirada gratuita de los RAEE deberán solicitarlo en
 la compra, o en el momento de la entrega del nuevo aparato, cumplimentando el albarán obligatorio
 
 de recogida de RAEE disponible para el Cliente a petición.
+
+Privalia | 24
 
 
 
@@ -2294,8 +2284,6 @@ establecer un punto nuevo de entrega. Los paquetes que no hayan sido recogidos o
 
 rechazados por el destinatario tras el período de disponibilidad serán devueltos al almacén de Privalia.
 
-Privalia | 25
-
 
 
 En el momento de la entrega o de la recogida en el punto de recogida o Correos del Producto, el Cliente
@@ -2309,6 +2297,8 @@ las observaciones y reservas aparentes en ese momento (por ejemplo, por la falta
 daños o manipulación aparentes en los Productos o embalaje). En caso de que el albarán sea en
 
 formato papel, el Cliente deberá solicitar una copia del albarán al transportista.
+
+Privalia | 25
 
 
 
@@ -2349,6 +2339,16 @@ prevean un coste distinto debido a la particularidad del Producto a devolver, lo
 de la devolución en el caso de la utilización del sistema de devoluciones de Privalia actualmente son
 
 de 6,95€ para la Península o Baleares y 12€ para Canarias.
+
+
+
+Dichos gastos de transporte de la devolución en el caso de utilización del sistema de devoluciones de
+
+Privalia, se computarán y deberán abonarse por cada pedido realizado por el Cliente. Privalia en ningún
+
+caso aceptará la devolución de Productos que provengan de distintos pedidos en un solo paquete,
+
+aunque sean de la misma marca, campaña o venta.
 
 
 
@@ -2686,6 +2686,8 @@ adquiridos a través del Sitio Web y/o Apps estará limitada al precio de adquis
 
 o Servicios.
 
+Privalia | 29
+
 
 
 12\. ACCIONES DE PRIVALIA
@@ -2695,10 +2697,6 @@ o Servicios.
 En el caso de (i) intento de fraude, (ii) fraude por parte de Clientes, (iii) problemas con los medios de
 
 pago (por ejemplo, devolución de cargo cargada a Privalia por una operación no reconocida por el
-
-Privalia | 29
-
-
 
 titular de la tarjeta de crédito), y/o (iv) cuando las cantidades pedidas sean consideradas por Privalia
 
@@ -2780,6 +2778,8 @@ de Venta Privalia vigentes en cada momento será un paso previo e indispensable 
 
 cualquier Producto o Servicio de Privalia disponible a través del Sitio Web y/o Apps.
 
+Privalia | 30
+
 
 
 14. NULIDAD PARCIAL
@@ -2791,8 +2791,6 @@ En caso de que cualquier Cláusula de las presentes Condiciones de Venta Privali
 las demás cláusulas seguirán vigentes y se interpretarán teniendo en cuenta la voluntad de las partes
 
 y la finalidad de dichas Condiciones de Venta.
-
-Privalia | 30
 
 
 
@@ -2876,15 +2874,15 @@ litigios en línea de la Unión Europea siguiendo este enlace:
 
 https://ec.europa.eu/consumers/odr/main/?event=main.home2.show.
 
-
-
-CONDICIONES DE USO DE MARKETPLACE
-
 Privalia | 31
 
 
 
-La empresa VENTE-PRIVEE.COM, S.A., con un capital social de 684.332,35 €, inscrita en el Registro
+CONDICIONES DE USO DE MARKETPLACE
+
+
+
+La empresa VENTE-PRIVEE.COM, S.A., con un capital social de 683.646,13 €, inscrita en el Registro
 
 Mercantil de Bobigny bajo el número 434 317 293 y con sede social en La Plaine Saint-Denis, 93210,
 
@@ -2962,17 +2960,19 @@ del Marketplace, que permite al Cliente comprar Productos de Vendedores en Tiend
 
 especializadas (en adelante, el “Servicio”).
 
+Privalia | 32
+
 
 
 2.2 Las Condiciones de Uso Marketplace resultarán de aplicación exclusivamente entre Privalia y
 
 el Cliente que desee acceder y/o utilizar el Servicio.
 
+
+
 2.3 Todo uso del Servicio por parte del Cliente conllevará de pleno derecho la aplicación de las
 
 Condiciones de Uso Marketplace.
-
-Privalia | 32
 
 
 
@@ -3054,6 +3054,8 @@ descritos e ilustrados directamente por dichos Vendedores.
 
 y edita.
 
+Privalia | 33
+
 
 
 4.2.4 Los Productos estarán sujetos, además de a las presentes Condiciones de Uso Marketplace, a
@@ -3069,8 +3071,6 @@ términos y condiciones generales de venta del Vendedor.
 revisar la descripción, información y características del Producto, las condiciones de venta, envío y
 
 devolución que sean de aplicación y estar conforme con las mismas para adquirir el Producto.
-
-Privalia | 33
 
 
 
@@ -3130,6 +3130,56 @@ presentes Condiciones de Uso Marketplace.
 
 
 
+4.4 Formulario de denuncia de contenido ilícito
+
+
+
+Se pone a disposición de los Clientes un formulario de denuncia en la ficha descriptiva de la oferta
+
+del Vendedor para permitirles reportar a Privalia la presencia de cualquier contenido ilícito. Tras
+
+una denuncia, Privalia se reserva el derecho de suprimir cualquier información o contenido
+
+manifiestamente ilícito.
+
+
+
+Se informa a los Clientes que tienen la posibilidad de acceder a un sistema interno de tramitación
+
+de reclamaciones en caso de desacuerdo con la decisión adoptada por Privalia tras la recepción
+
+de una denuncia. En tal caso, los Clientes también tienen la posibilidad de recurrir a un
+
+procedimiento extrajudicial o judicial de resolución de litigios. Las modalidades de acceso a estos
+
+procedimientos se indicarán en la decisión comunicada por Privalia.
+
+Privalia | 34
+
+
+
+Privalia se reserva el derecho de suspender, durante un periodo razonable de tiempo y previo aviso,
+
+el tratamiento de las denuncias presentadas por un denunciante que presente con frecuencia
+
+denuncias manifiestamente infundadas. Para determinar el periodo de suspensión se tendrán en
+
+cuenta todos los hechos y circunstancias siguientes:
+
+
+
+- el número de denuncias de contenido ilícito manifiestamente infundado notificadas durante
+
+los últimos 12 meses,
+
+- la proporción relativa de denuncias de contenido ilícito manifiestamente infundado en
+
+relación con el número total de denuncias presentadas durante los últimos 12 meses,
+
+- la gravedad del uso indebido y sus consecuencias, y la intención del denunciante.
+
+
+
 5. MODALIDADES DE PEDIDO DE LOS PRODUCTOS DE LOS VENDEDORES
 
 
@@ -3168,8 +3218,6 @@ En caso de indisponibilidad parcial o total de los Productos que componen el ped
 
 recibirá, según corresponda:
 
-Privalia | 34
-
 
 
 - Un correo electrónico de confirmación parcial de su pedido o,
@@ -3205,6 +3253,10 @@ El Vendedor es el único responsable de garantizar la disponibilidad de los Prod
 venta. En caso de que la compra tuviese que ser cancelada y/o los Productos no pudieran ser
 
 entregados al Cliente, el Vendedor será el único responsable frente al Cliente, aunque Privalia
+
+Privalia | 35
+
+
 
 intentará, en la medida de lo posible, encontrar una solución aceptable para las partes y asegurará
 
@@ -3266,8 +3318,6 @@ los Productos se cobrarán al Cliente según el precio anunciado en el momento e
 
 efectúe la compra.
 
-Privalia | 35
-
 
 
 Privalia no será responsable en caso de que se publique, por error involuntario, un Producto cuyo
@@ -3300,9 +3350,11 @@ Cliente se realiza en el Sitio Web y Apps.
 
 El Cliente puede realizar el pago del pedido y de los gastos de envío mediante tarjeta de crédito o
 
-débito válida (las tarjetas de crédito o débito aceptadas hasta la fecha en el Sitio Web y Apps son:
+débito válida (las tarjetas de crédito o débito aceptadas hasta la fecha en el Sitio Web y Apps son: Visa,
 
-Visa, MasterCard y American Express) o mediante el sistema de PayPal.
+MasterCard y American Express) o mediante el sistema de PayPal.
+
+Privalia | 36
 
 
 
@@ -3364,8 +3416,6 @@ información solicitada en un breve periodo razonable de tiempo, Privalia se res
 
 la cuenta del Cliente.
 
-Privalia | 36
-
 
 
 Dicho procedimiento es por seguridad de los Clientes de Privalia y, por tanto, el Cliente, al aceptar las
@@ -3401,6 +3451,8 @@ cada Vendedor.
 Los Productos adquiridos serán entregados a la dirección indicada por el Cliente en el momento de
 
 realizar su pedido y de acuerdo con las condiciones de entrega del Vendedor.
+
+Privalia | 37
 
 
 
@@ -3462,8 +3514,6 @@ El Vendedor se compromete a entregar los Productos al Cliente en el plazo especi
 
 momento de efectuar el pedido y de acuerdo con sus condiciones generales de venta.
 
-Privalia | 37
-
 
 
 Privalia no será responsable en caso de retraso en la entrega de un Vendedor.
@@ -3493,6 +3543,8 @@ electrónicos.
 
 
 8. DERECHO DE DESISTIMIENTO Y GASTOS DE DEVOLUCIÓN
+
+Privalia | 38
 
 
 
@@ -3548,6 +3600,8 @@ con las condiciones generales de venta del Vendedor y las instrucciones facilita
 
 Vendedor.
 
+
+
 Para ejercer el derecho de desistimiento y devolver un Producto el Cliente podrá ponerse en
 
 contacto con el Vendedor para este fin a través de la interfaz de mensajería accesible desde
@@ -3559,8 +3613,6 @@ pedidos”, entrar en el detalle del pedido, hacer clic en los enlaces "Contacta
 Vendedor" y luego "Quiero devolver un artículo". El Cliente deberá seguir el procedimiento
 
 de devolución comunicado por correo electrónico.
-
-Privalia | 38
 
 
 
@@ -3591,6 +3643,8 @@ Una vez el Vendedor haya recibido la devolución del Producto y autorizado el re
 hará efectivo en el mismo método de pago usado para realizar la compra inicial, en un plazo de tres
 
 (3) a siete (7) días hábiles.
+
+Privalia | 39
 
 
 
@@ -3658,8 +3712,6 @@ generalmente proporcionadas con los Productos y los términos exactos de las gar
 
 En todos los casos, Privalia no se hace responsable si el fabricante se niega a aplicar su garantía.
 
-Privalia | 39
-
 
 
 En caso de algún problema con un Producto, el Cliente debe conservar la factura de compra y ponerse
@@ -3689,6 +3741,8 @@ venta de los Vendedores.
 Cada Vendedor actúa como el editor de su Tienda. Como tal, es por tanto responsable de sus
 
 Productos, de su promoción y del contenido publicado en su espacio de ventas en el Sitio Web y Apps.
+
+Privalia | 40
 
 
 
@@ -3744,6 +3798,8 @@ incidencias que pudieran surgir derivadas del contrato de compraventa. Privalia,
 
 para las partes.
 
+
+
 11. PROPIEDAD INTELECTUAL E INDUSTRIAL
 
 
@@ -3755,8 +3811,6 @@ y, en particular, de sus propias marcas, marcas colocadas en los Productos y/o m
 Productos en su Tienda, así como del contenido textual, gráfico, de vídeo, musical y de cualquier
 
 tipo que pudiera poner a disposición en la Tienda virtual o de los Clientes a través del Marketplace.
-
-Privalia | 40
 
 
 
@@ -3781,6 +3835,8 @@ sobre la plataforma Marketplace. De conformidad con la legislación de propiedad
 intelectual aplicable, solo se permite la utilización de la carta gráfica y/o los elementos que
 
 componen el Sitio Web y Apps, incluido el Marketplace, para uso privado.
+
+Privalia | 41
 
 
 
@@ -3848,8 +3904,6 @@ efectos de mediar en la obtención de soluciones para el Cliente.
 
 14. COMUNICACIONES ENTRE PRIVALIA Y EL CLIENTE
 
-Privalia | 41
-
 
 
 Para cualquier cuestión relacionada con el funcionamiento del Marketplace de Privalia o para realizar
@@ -3877,6 +3931,8 @@ Rambla de la Marina, 450
 08907 L’Hospitalet de Llobregat
 
 España
+
+Privalia | 42
 
 
 
@@ -3944,8 +4000,6 @@ Marketplace no se interpretará como renuncia a dicho derecho, salvo renuncia ex
 
 por parte de Privalia o prescripción de la acción que en cada caso corresponda.
 
-Privalia | 42
-
 
 
 18. LEY APLICABLE Y JURISDICCIÓN
@@ -3967,6 +4021,8 @@ juzgados y tribunales de la ciudad correspondiente al domicilio del Cliente cons
 Cliente no consumidor, las partes acuerdan someterse a los juzgados y tribunales de la ciudad de
 
 Barcelona.
+
+Privalia | 43
 
 
 
@@ -4010,7 +4066,7 @@ La Comisión Europea trasladará la reclamación del Cliente a los mediadores na
 
 notificados.
 
-Privalia | 43
+Privalia | 44
 
 
 
@@ -4042,7 +4098,7 @@ de CIF W2504156G y con número de teléfono (+34) 935 53 18 06, que opera en Esp
 
 por cuenta de la sociedad francesa VENTE-PRIVEE.COM, Société Anonyme con un capital de
 
-684.332,35 €, inscrita en el registro comercial y de sociedades de Bobigny con el número RCS 434
+683.646,13 €, inscrita en el registro comercial y de sociedades de Bobigny con el número RCS 434
 
 317 293 y con domicilio en 249 Avenue du President Wilson 93210 la Plaine - Saint Denis, pone a
 
@@ -4102,15 +4158,13 @@ condiciones generales de contratación del proveedor del que se trate.
 
 El Servicio de Presentación de Ofertas está exclusivamente reservado a los Clientes.
 
+Privalia | 45
+
 
 
 Estas CGPV únicamente aplican en los casos en que los Clientes contratan Servicios Turísticos a
 
 través de la página web del Tour Operador. No serán de aplicación en caso de que los Clientes
-
-Privalia | 44
-
-
 
 compren productos o contraten otros servicios a través del servicio de compra común de Privalia o a
 
@@ -4200,11 +4254,11 @@ condiciones de utilización y de venta que consten en la página web del Tour Op
 
 toda responsabilidad respecto a ello a Privalia.
 
+Privalia | 46
+
 
 
 2.5. Pago y Confirmación:
-
-Privalia | 45
 
 
 
@@ -4260,6 +4314,58 @@ como para velar por la correcta ejecución del Servicio Turístico.
 
 
 
+2.7. Formulario de denuncia de contenido ilícito:
+
+
+
+Se pone a disposición de los Clientes un formulario de denuncia en la ficha descriptiva de la oferta
+
+del Tour Operador para permitirles reportar a Privalia, a través del Servicio de Presentación de
+
+Ofertas, la presencia de cualquier contenido ilícito. Tras una denuncia, Privalia se reserva el
+
+derecho de suprimir cualquier información o contenido manifiestamente ilícito.
+
+
+
+Se informa a los Clientes que tienen la posibilidad de acceder a un sistema interno de tramitación
+
+de reclamaciones en caso de desacuerdo con la decisión adoptada por Privalia tras la recepción
+
+de una denuncia. En tal caso, los Clientes también tienen la posibilidad de recurrir a un
+
+procedimiento extrajudicial o judicial de resolución de litigios. Las modalidades de acceso a estos
+
+procedimientos se indicarán en la decisión comunicada por Privalia.
+
+
+
+Privalia se reserva el derecho de suspender, durante un periodo razonable de tiempo y previo aviso,
+
+el tratamiento de las denuncias presentadas por un denunciante que presente con frecuencia
+
+denuncias manifiestamente infundadas. Para determinar el periodo de suspensión se tendrán en
+
+cuenta todos los hechos y circunstancias siguientes:
+
+
+
+- el número de denuncias de contenido ilícito manifiestamente infundado notificadas durante
+
+los últimos 12 meses,
+
+- la proporción relativa de denuncias de contenido ilícito manifiestamente infundado en
+
+relación con el número total de denuncias presentadas durante los últimos 12 meses,
+
+Privalia | 47
+
+
+
+- la gravedad del uso indebido y sus consecuencias, y la intención del denunciante.
+
+
+
 3\. GARANTÍA DE FUNCIONAMIENTO
 
 
@@ -4299,8 +4405,6 @@ ofrecidos por los Tour Operadores externos, no pertenecen ni se encuentran bajo 
 por lo que Privalia no se hace responsable ni de la información contenida en los mismos, ni de los
 
 servicios ofrecidos en ellos.
-
-Privalia | 46
 
 
 
@@ -4343,6 +4447,8 @@ relevante corresponde a lo proporcionado por el correspondiente Tour Operador. P
 mejores esfuerzos para que la información sea lo más fidedigna posible, pero en ningún caso será
 
 responsable por la exactitud de la misma.
+
+Privalia | 48
 
 
 
@@ -4388,10 +4494,6 @@ la reserva, el pago, la confirmación del viaje, la gestión del pedido, la entr
 
 contabilidad, la realización de encuestas de satisfacción y/o la elaboración de estadísticas comerciales
 
-Privalia | 47
-
-
-
 anónimas. Estos datos serán recogidos y tratados directamente por el Tour operador, responsable del
 
 tratamiento.
@@ -4435,6 +4537,8 @@ Tour Operador.
 
 
 Las presentes CGPV se rigen por la ley española.
+
+Privalia | 49
 
 
 
@@ -4486,10 +4590,6 @@ cuando estén relacionadas con este ámbito, las reclamaciones serán resueltas 
 
 Mediación de Confianza Online, acreditado para la resolución alternativa de litigios en materia de
 
-Privalia | 48
-
-
-
 consumo. Si las reclamaciones versan sobre publicidad digital, o sobre protección de datos relacionada
 
 con este ámbito, serán sometidas al Jurado de la Publicidad de AUTOCONTROL.
@@ -4502,7 +4602,7 @@ línea de la Unión Europea siguiendo este enlace:
 
 https://ec.europa.eu/consumers/odr/main/?event=main.home2.show.
 
-Privalia | 49
+Privalia | 50
 
 
 
@@ -4516,7 +4616,7 @@ CONDICIONES GENERALES DE CUPONES RESERVA
 
 VENTE-PRIVEE. COM SA, SUCURSAL EN ESPAÑA (en adelante, "Privalia"), la sucursal, con
 
-domicilio en Rambla de la Marina, 450, 08907 L’Hospitalet de Llobregat (Barcelona),, inscrita en el
+domicilio en Rambla de la Marina, 450, 08907 L’Hospitalet de Llobregat (Barcelona), inscrita en el
 
 Registro Mercantil de Barcelona, en el tomo 47297, folio 75, Hoja B-547694, inscripción 1ª, con número
 
@@ -4524,7 +4624,7 @@ de CIF W2504156G y con número de teléfono (+34) 935 53 18 06, que opera en Esp
 
 por cuenta de la sociedad francesa VENTE.PRIVEE.COM, Société Anonyme con un capital de
 
-684.332,35 € inscrita en el registro comercial y de sociedades de Bobigny con el número RCS 434 317
+683.646,13 € inscrita en el registro comercial y de sociedades de Bobigny con el número RCS 434 317
 
 293 y con domicilio en 249 Avenue du President Wilson 93210 la Plaine - Saint Denis, pone a
 
@@ -4598,7 +4698,7 @@ o recordatorio. La venta de Cupones de Reserva está reservada exclusivamente a 
 
 Promociones están disponibles en la Plataforma durante un periodo predeterminado y limitado.
 
-Privalia | 50
+Privalia | 51
 
 
 
@@ -4690,7 +4790,7 @@ Los Cupones de Reserva no son acumulables a otras promociones, cupones, vales de
 
 salvo que ello esté expresamente indicado en la descripción de la Promoción.
 
-Privalia | 51
+Privalia | 52
 
 
 
@@ -4722,7 +4822,55 @@ deberá ponerse en contacto con Privalia, a través de la sección “Ayuda”.
 
 
 
-5\. PRECIOS DE LOS CUPONES DE RESERVA Y GASTOS DE ENVÍO
+Formulario de denuncia de contenido ilícito
+
+
+
+Se pone a disposición de los Clientes un formulario de denuncia en la ficha descriptiva de las
+
+Promociones para permitirles reportar a Privalia la presencia de cualquier contenido ilícito. Tras una
+
+denuncia, Privalia se reserva el derecho de suprimir cualquier información o contenido
+
+manifiestamente ilícito.
+
+
+
+Se informa a los Clientes que tienen la posibilidad de acceder a un sistema interno de tramitación
+
+de reclamaciones en caso de desacuerdo con la decisión adoptada por Privalia tras la recepción
+
+de una denuncia. En tal caso, los Clientes también tienen la posibilidad de recurrir a un
+
+procedimiento extrajudicial o judicial de resolución de litigios. Las modalidades de acceso a estos
+
+procedimientos se indicarán en la decisión comunicada por Privalia.
+
+
+
+Privalia se reserva el derecho de suspender, durante un periodo razonable de tiempo y previo aviso,
+
+el tratamiento de las denuncias presentadas por un denunciante que presente con frecuencia
+
+denuncias manifiestamente infundadas. Para determinar el periodo de suspensión se tendrán en
+
+cuenta todos los hechos y circunstancias siguientes:
+
+
+
+- el número de denuncias de contenido ilícito manifiestamente infundado notificadas durante
+
+los últimos 12 meses,
+
+- la proporción relativa de denuncias de contenido ilícito manifiestamente infundado en
+
+relación con el número total de denuncias presentadas durante los últimos 12 meses,
+
+- la gravedad del uso indebido y sus consecuencias, y la intención del denunciante.
+
+
+
+5. PRECIOS DE LOS CUPONES DE RESERVA Y GASTOS DE ENVÍO
 
 
 
@@ -4731,6 +4879,8 @@ Los descuentos aplicados a los Productos subyacentes a los Cupones de Reserva qu
 la Plataforma son aplicados en base al precio original de salida al mercado que los Proveedores indican
 
 a Privalia (en adelante “precio antes de aplicar descuento”).
+
+Privalia | 53
 
 
 
@@ -4784,8 +4934,6 @@ estarán detallados en las Condiciones Generales del Proveedor. Estos gastos deb
 
 por el Cliente en el momento del canje de los Cupones de Reserva.
 
-Privalia | 52
-
 
 
 6\. PAGO DE LOS CUPONES DE RESERVA
@@ -4818,11 +4966,13 @@ posible, con el objeto de que Privalia pueda realizar las gestiones que consider
 
 Los pagos de PayPal son procesados por la empresa VENTE-PRIVEE.COM, Société Anonyme con
 
-un capital de 684.332,35 € inscrita en el registro comercial y de sociedades de Bobigny con el número
+un capital de 683.646,13 € inscrita en el registro comercial y de sociedades de Bobigny con el número
 
 RCS 434 317 293 y con domicilio en 249 Avenue du President Wilson 93210 la Plaine - Saint Denis
 
 (Número de IVA intracomunitario: FR70434317293).
+
+Privalia | 54
 
 
 
@@ -4884,10 +5034,6 @@ información solicitada en un plazo de 3 días laborales a partir de la llamada 
 
 electrónico, la transacción detallada en dicha comunicación y el pedido respectivo podrá ser cancelado
 
-Privalia | 53
-
-
-
 automáticamente, sin necesidad de aviso posterior, ni responsabilidad para Privalia por seguridad del
 
 Cliente, y Privalia procederá con el reembolso automático del importe pagado por el Cliente respecto
@@ -4923,6 +5069,10 @@ De conformidad con la legislación aplicable, el Cliente dispone de un plazo de 
 naturales desde la entrega del Cupón de Reserva para comunicar su desistimiento a la compra del
 
 mismo. Una vez finalizado el plazo de catorce (14) días naturales, Privalia no aceptará devoluciones
+
+Privalia | 55
+
+
 
 por desistimiento de compras de Cupones de Reserva. La devolución efectuada en plazo no
 
@@ -4974,8 +5124,6 @@ llegar a hasta siete (7) días naturales para las tarjetas de débito y a hasta 
 
 para las tarjetas de crédito.
 
-Privalia | 54
-
 
 
 8\. MODIFICACIÓN DE LAS CONDICIONES GENERALES CUPONES RESERVA
@@ -5009,6 +5157,8 @@ libremente accesible para cuantas consultas quiera realizar. Los Clientes deber�
 estas CVCR. En cualquier caso, la aceptación de las CVCR vigentes en cada momento será un paso
 
 previo e indispensable a la adquisición de cualquier Cupón de Reserva a través de la Plataforma.
+
+Privalia | 56
 
 
 
@@ -5072,10 +5222,6 @@ cuando estén relacionadas con este ámbito, las reclamaciones serán resueltas 
 
 Mediación de Confianza Online, acreditado para la resolución alternativa de litigios en materia de
 
-Privalia | 55
-
-
-
 consumo. Si las reclamaciones versan sobre publicidad digital, o sobre protección de datos relacionada
 
 con este ámbito, serán sometidas al Jurado de la Publicidad de AUTOCONTROL.
@@ -5088,7 +5234,7 @@ línea de la Unión Europea siguiendo este enlace:
 
 https://ec.europa.eu/consumers/odr/main/?event=main.home2.show.
 
-Privalia | 56
+Privalia | 57
 
 
 
@@ -5110,7 +5256,7 @@ de CIF W2504156G y con número de teléfono (+34) 935 53 18 06, que opera en Esp
 
 por cuenta de la sociedad francesa VENTE-PRIVEE.COM, Société Anonyme con un capital de
 
-684.332,35 € inscrita en el registro comercial y de sociedades de Bobigny con el número RCS 434 317
+683.646,13 € inscrita en el registro comercial y de sociedades de Bobigny con el número RCS 434 317
 
 293 y con domicilio en 249 Avenue du President Wilson 93210 la Plaine - Saint Denis, pone a
 
@@ -5178,7 +5324,7 @@ través de la Plataforma, desde el anuncio dedicado a la campaña en curso o a t
 
 de invitación o recordatorio. La adquisición de Promociones Rosedeal estarán debidamente
 
-Privalia | 57
+Privalia | 58
 
 
 
@@ -5258,7 +5404,7 @@ del Plazo de Validez aceptado por él mismo.
 
 
 
-3\. CONDICIONES APLICABLES A LA ADQUISICIÓN DE PROMOCIONES
+3. CONDICIONES APLICABLES A LA ADQUISICIÓN DE PROMOCIONES
 
 ROSEDEAL Y RÉGIMEN DE RESPONSABILIDAD.
 
@@ -5274,7 +5420,7 @@ El Proveedor en tanto que es el único responsable de la comercialización de lo
 
 toda responsabilidad en cuanto a cualquier eventual acción o reclamación de los Clientes en materia
 
-Privalia | 58
+Privalia | 59
 
 
 
@@ -5342,6 +5488,58 @@ plataforma del Proveedor, el Cliente deberá ponerse en contacto con Privalia, a
 
 
 
+Formulario de denuncia de contenido ilícito
+
+
+
+Se pone a disposición de los Clientes un formulario de denuncia en la ficha descriptiva de las
+
+Promociones Rosedeal para permitirles reportar a Privalia la presencia de cualquier contenido ilícito.
+
+Tras una denuncia, Privalia se reserva el derecho de suprimir cualquier información o contenido
+
+manifiestamente ilícito.
+
+
+
+Se informa a los Clientes que tienen la posibilidad de acceder a un sistema interno de tramitación de
+
+reclamaciones en caso de desacuerdo con la decisión adoptada por Privalia tras la recepción de una
+
+denuncia. En tal caso, los Clientes también tienen la posibilidad de recurrir a un procedimiento
+
+extrajudicial o judicial de resolución de litigios. Las modalidades de acceso a estos procedimientos se
+
+indicarán en la decisión comunicada por Privalia.
+
+Privalia | 60
+
+
+
+Privalia se reserva el derecho de suspender, durante un periodo razonable de tiempo y previo aviso,
+
+el tratamiento de las denuncias presentadas por un denunciante que presente con frecuencia
+
+denuncias manifiestamente infundadas. Para determinar el periodo de suspensión se tendrán en
+
+cuenta todos los hechos y circunstancias siguientes:
+
+
+
+- el número de denuncias de contenido ilícito manifiestamente infundado notificadas durante los
+
+últimos 12 meses,
+
+- la proporción relativa de denuncias de contenido ilícito manifiestamente infundado en relación
+
+con el número total de denuncias presentadas durante los últimos 12 meses,
+
+
+
+- la gravedad del uso indebido y sus consecuencias, y la intención del denunciante.
+
+
+
 5\. PAGO DE LAS PROMOCIONES ROSEDEAL
 
 
@@ -5361,8 +5559,6 @@ Desde esta sección el Cliente también se podrá descargar la factura de las Pr
 tarjeta con la que se haga el pago deberá tener como entidad financiera emisora a un banco o caja de
 
 ahorros de la Unión Europea.
-
-Privalia | 59
 
 
 
@@ -5416,6 +5612,10 @@ o correo electrónico dirigidos al número o la cuenta proporcionada por el prop
 
 de confirmar que el Cliente efectivamente hubiere realizado y autorizado dicha compra y/o que la
 
+Privalia | 61
+
+
+
 entrega o devolución de la misma se hubiese realizado correctamente y de esta forma autorizar
 
 definitivamente la transacción respectiva. Entre otras, Privalia podrá formular telefónicamente diversas
@@ -5462,8 +5662,6 @@ Es posible que, debido a la normativa aplicable, se solicite a los Clientes una 
 
 que Privalia pueda procesar sus pedidos.
 
-Privalia | 60
-
 
 
 6\. DERECHO DE DESISTIMIENTO
@@ -5507,6 +5705,10 @@ canjeada. Privalia, tras realizar las comprobaciones oportunas, gestionará la o
 precio mediante el mismo sistema de pago utilizado por el Cliente para su adquisición, en un plazo de
 
 cuarenta y ocho (48) horas desde la confirmación interna de que no ha sido efectivamente canjeada.
+
+Privalia | 62
+
+
 
 En cualquier caso, en un plazo no superior a catorce (14) días naturales desde que el Cliente comunicó
 
@@ -5554,10 +5756,6 @@ libremente accesible para cuantas consultas quiera realizar. Los Clientes deber�
 
 estas CVR. En cualquier caso, la aceptación de las CVR vigentes en cada momento será un paso
 
-Privalia | 61
-
-
-
 previo e indispensable a la adquisición de cualquier las Promociones Rosedeal a través de la
 
 Plataforma.
@@ -5602,6 +5800,10 @@ Privalia se encuentra adherida a Confianza Online (Asociación sin ánimo de luc
 
 Registro Nacional de Asociaciones Grupo 1, Sección 1, número nacional 594400, CIF G85804011,
 
+Privalia | 63
+
+
+
 Calle Castelló 24, Esc. 1 2° izq., 28001 Madrid (España), teléfono (+34) 91 309 13 47 y fax (+34) 91
 
 402 83 39 (www.confianzaonline.es).
@@ -5636,15 +5838,15 @@ línea de la Unión Europea siguiendo este enlace:
 
 https://ec.europa.eu/consumers/odr/main/?event=main.home2.show.
 
-Privalia | 62
+Privalia | 64
 
 
 
-CONDICIONES GENERALES DE RE-CYCLE
+CONDICIONES GENERALES DE PRIVALIA RE-CYCLE
 
 
 
-La empresa VENTE-PRIVEE.COM S.A., con un capital social de 684.332,35 €, con sede en 249
+La empresa VENTE-PRIVEE.COM S.A., con un capital social de 683.646,13 €, con sede en 249
 
 avenue du Président Wilson, La Plaine Saint - Denis (93210), inscrita en el Registro Mercantil de
 
@@ -5690,9 +5892,9 @@ social.
 
 
 
-Minisite: se refiere al sitio web y la aplicación móvil en los cuales está disponible el Servicio RE-CYCLE
+Minisite: se refiere al sitio web y la aplicación móvil en los cuales está disponible el Servicio Privalia
 
-para los Usuarios.
+RE-CYCLE para los Usuarios.
 
 
 
@@ -5708,7 +5910,7 @@ Artículo 4.
 
 Proveedor: se refiere a la persona jurídica que participa en la operación Privalia RE-CYCLE en el
 
-marco del Servicio RE-CYCLE.
+marco del Servicio Privalia RE-CYCLE.
 
 
 
@@ -5722,11 +5924,11 @@ para una economía circular.
 
 
 
-Servicio o Servicio RE-CYCLE: se refiere al servicio puesto a disposición del Usuario desde el
+Servicio o Servicio Privalia RE-CYCLE: se refiere al servicio puesto a disposición del Usuario desde
 
-Minisite y a través del cual Privalia organizará operaciones Privalia RE-CYCLE.
+el Minisite y a través del cual Privalia organizará operaciones Privalia RE-CYCLE.
 
-Privalia | 63
+Privalia | 65
 
 
 
@@ -5740,9 +5942,9 @@ Cliente(s): se refiere a la definición indicada en las Condiciones Generales de
 
 
 
-Usuario(s): se refiere a cualquier persona que utilice el Servicio RE-CYCLE, ya sea Cliente o no del
+Usuario(s): se refiere a cualquier persona que utilice el Servicio Privalia RE-CYCLE, ya sea Cliente o
 
-Sitio.
+no del Sitio.
 
 
 
@@ -5756,41 +5958,43 @@ Productos de una o varias marcas con el fin de darles una nueva vida a través d
 
 2. ÁMBITO DE APLICACIÓN Y ACEPTACIÓN DE LAS CONDICIONES
 
-GENERALES DE USO DEL SERVICIO RE-CYCLE
+GENERALES DE USO DEL SERVICIO PRIVALIA RE-CYCLE
 
 
 
-2.1 Las presentes Condiciones Generales de Uso del Servicio RE-CYCLE (en adelante "CGU RE-
+2.1 Las presentes Condiciones Generales de Uso del Servicio Privalia RE-CYCLE (en adelante "CGU
 
-CYCLE") se suscriben entre Privalia y el Usuario. Estas CGU RE-CYCLE tienen por objeto definir las
+PRIVALIA RE-CYCLE") se suscriben entre Privalia y el Usuario. Estas CGU PRIVALIA RE-CYCLE
 
-condiciones de uso del Servicio RE-CYCLE ofrecido por Privalia.
-
-
-
-2.2 Las CGU RE-CYCLE se aplicarán de manera exclusiva entre Privalia y el Usuario que desee
-
-acceder y/o utilizar el Servicio RE-CYCLE.
+tienen por objeto definir las condiciones de uso del Servicio Privalia RE-CYCLE ofrecido por Privalia.
 
 
 
-2.3 Cualquier uso del Servicio RE-CYCLE por parte de un Usuario está sujeto a la aceptación
+2.2 Las CGU PRIVALIA RE-CYCLE se aplicarán de manera exclusiva entre Privalia y el Usuario que
 
-incondicional de las presentes CGU RE-CYCLE.
-
-
-
-3. CONDICIONES DE ACCESO AL SERVICIO RE-CYCLE
+desee acceder y/o utilizar el Servicio Privalia RE-CYCLE.
 
 
 
-3.1 El Usuario podrá acceder al Servicio RE-CYCLE desde el Sitio haciendo clic en el banner Re-
+2.3 Cualquier uso del Servicio Privalia RE-CYCLE por parte de un Usuario está sujeto a la aceptación
 
-CYCLE. El Usuario será redirigido al Minisite dedicado al Servicio RE-CYCLE.
+incondicional de las presentes CGU PRIVALIA RE-CYCLE.
 
 
 
-El Servicio RE-CYCLE estará disponible para todos los Usuarios con las siguientes limitaciones:
+3. CONDICIONES DE ACCESO AL SERVICIO PRIVALIA RE-CYCLE
+
+
+
+3.1 El Usuario podrá acceder al Servicio Privalia RE-CYCLE desde el Sitio haciendo clic en el banner
+
+Privalia RE-CYCLE. El Usuario será redirigido al Minisite dedicado al Servicio Privalia RE-CYCLE.
+
+
+
+El Servicio Privalia RE-CYCLE estará disponible para todos los Usuarios con las siguientes
+
+limitaciones:
 
 
 
@@ -5806,19 +6010,23 @@ en el Minisite.
 
 
 
-- La lista de Productos elegibles se definirá en cada acción de Servicio RE-CYCLE.
+- La lista de Productos elegibles se definirá en cada acción de Servicio Privalia RE-CYCLE.
 
 
 
-3.2 Para hacer uso del Servicio RE-CYCLE el Usuario deberá leer y aceptar expresamente estas CGU
+3.2 Para hacer uso del Servicio Privalia RE-CYCLE el Usuario deberá leer y aceptar expresamente
 
-RE-CYCLE, así como confirmar que los Productos son aptos para la Reutilización. Para ello, el Usuario
+estas CGU PRIVALIA RE-CYCLE, así como confirmar que los Productos son aptos para la
 
-deberá marcar una casilla de aceptación de las CGU RE-CYCLE, una casilla en la que manifiesta que
+Reutilización. Para ello, el Usuario deberá marcar una casilla de aceptación de las CGU PRIVALIA RE-
 
-los Productos pueden ser reutilizados y hacer clic en el botón "Empezar".
+Privalia | 66
 
-Privalia | 64
+
+
+CYCLE, una casilla en la que manifiesta que los Productos pueden ser reutilizados y hacer clic en el
+
+botón "Empezar".
 
 
 
@@ -5834,7 +6042,7 @@ Veepee, puedan llevar a cabo acciones que promuevan y permitan su Reutilización
 
 
 
-4.1 El Servicio RE-CYCLE es un servicio gratuito ofrecido por Privalia.
+4.1 El Servicio Privalia RE-CYCLE es un servicio gratuito ofrecido por Privalia.
 
 
 
@@ -5906,19 +6114,19 @@ a. Entrega online:
 
 
 
-1. Completar un formulario de solicitud RE-CYCLE para el envío de los Productos.
+1. Completar un formulario de solicitud Privalia RE-CYCLE para el envío de los Productos.
 
 
 
-2. Validar su solicitud RE-CYCLE confirmando que los Productos pueden ser objeto de
+2. Validar su solicitud Privalia RE-CYCLE confirmando que los Productos pueden ser objeto de
 
-Reutilización y aceptando estas CGU RE-CYCLE.
+Reutilización y aceptando estas CGU PRIVALIA RE-CYCLE.
+
+Privalia | 67
 
 
 
 3. Imprimir su formulario de solicitud y colocarlo dentro del paquete.
-
-Privalia | 65
 
 
 
@@ -5928,7 +6136,7 @@ Privalia | 65
 
 5. Depositar el paquete en un punto de recogida en un plazo de 10 días laborables a partir de la
 
-validación de su solicitud RE-CYCLE para el depósito del paquete.
+validación de su solicitud Privalia RE-CYCLE para el depósito del paquete.
 
 
 
@@ -5942,11 +6150,11 @@ b. Entrega offline:
 
 El Usuario deberá entregar el paquete en la tienda habilitada por el Proveedor elegida en el formulario
 
-de solicitud RE-CYCLE en un plazo de 10 días laborables desde la validación de la solicitud RE-
+de solicitud Privalia RE-CYCLE en un plazo de 10 días laborables desde la validación de la solicitud
 
-CYCLE. El personal de la tienda habilitada validará, entonces, la elegibilidad del mismo. En esta
+Privalia RE-CYCLE. El personal de la tienda habilitada validará, entonces, la elegibilidad del mismo.
 
-modalidad, el Proveedor devendrá propietario de los Productos.
+En esta modalidad, el Proveedor devendrá propietario de los Productos.
 
 
 
@@ -5972,7 +6180,9 @@ según la lista de Productos aceptados, estos Productos no le serán devueltos.
 
 Al preparar su paquete, el Usuario deberá asegurarse de proteger adecuadamente su(s) Producto(s)
 
-y de que sean conformes a la información proporcionada en el formulario de solicitud RE-CYCLE.
+y de que sean conformes a la información proporcionada en el formulario de solicitud Privalia RE-
+
+CYCLE.
 
 
 
@@ -6006,13 +6216,13 @@ conservar la prueba de depósito del paquete. En caso de que el Usuario no depos
 
 del plazo establecido, Privalia le notificará por correo electrónico la falta de envío de los Productos y la
 
-cancelación de su solicitud RE-CYCLE.
+cancelación de su solicitud Privalia RE-CYCLE.
 
 
 
 5.3 Recepción del paquete
 
-Privalia | 66
+Privalia | 68
 
 
 
@@ -6032,17 +6242,17 @@ calidad de acuerdo con las condiciones establecidas en el artículo 8 siguiente.
 
 
 
-Solo después de que el control de calidad sea satisfactorio, Privalia validará la solicitud RE-CYCLE. A
+Solo después de que el control de calidad sea satisfactorio, Privalia validará la solicitud Privalia RE-
 
-partir de la validación de la solicitud RE-CYCLE, se informa al Usuario que no podrá solicitar la
+CYCLE. A partir de la validación de la solicitud Privalia RE-CYCLE, se informa al Usuario que no podrá
 
-devolución de su(s) Producto(s).
+solicitar la devolución de su(s) Producto(s).
 
 
 
 Privalia adquiere la propiedad del(los) Producto(s) recogido(s) de conformidad con el artículo 6 de
 
-estas CGU RE-CYCLE.
+estas CGU PRIVALIA RE-CYCLE.
 
 
 
@@ -6082,7 +6292,7 @@ siendo propiedad del Usuario hasta que el personal de la tienda habilitada del P
 
 Una vez que el paquete sea recogido, se realizará un control de conformidad en relación con el
 
-formulario de solicitud RE-CYCLE completado y enviado por el Usuario.
+formulario de solicitud Privalia RE-CYCLE completado y enviado por el Usuario.
 
 
 
@@ -6090,7 +6300,9 @@ formulario de solicitud RE-CYCLE completado y enviado por el Usuario.
 
 condiciones de la Operación Privalia RE-CYCLE comunicadas desde el Minisite, Privalia puede
 
-otorgar al Usuario un beneficio RE-CYCLE, tal y como se describe en el artículo 8 siguiente.
+otorgar al Usuario un beneficio Privalia RE-CYCLE, tal y como se describe en el artículo 8
+
+siguiente.
 
 
 
@@ -6098,11 +6310,11 @@ otorgar al Usuario un beneficio RE-CYCLE, tal y como se describe en el artículo
 
 la Operación, no es auténtico, es falsificado, no es elegible, no puede ser reutilizado o, en
 
-general, no cumple con el formulario de solicitud de RE-CYCLE del Usuario, entonces el
+general, no cumple con el formulario de solicitud de Privalia RE-CYCLE del Usuario, entonces
 
-Producto será:
+el Producto será:
 
-Privalia | 67
+Privalia | 69
 
 
 
@@ -6120,7 +6332,7 @@ no serán otorgados.
 
 
 
-8. COMPENSACIÓN DE RE-CYCLE
+8. COMPENSACIÓN DE PRIVALIA RE-CYCLE
 
 
 
@@ -6128,21 +6340,21 @@ no serán otorgados.
 
 ejemplo, vales de compra, cupones de descuento, etc.) como agradecimiento por su participación,
 
-sujeto al cumplimiento de las condiciones de elegibilidad de los Productos enviados y de las CGU RE-
+sujeto al cumplimiento de las condiciones de elegibilidad de los Productos enviados y de las CGU
 
-CYCLE.
+PRIVALIA RE-CYCLE.
 
 
 
-8.2 Estos beneficios de RE-CYCLE serán determinados por Privalia o el Proveedor y se presentarán a
+8.2 Estos beneficios de Privalia RE-CYCLE serán determinados por Privalia o el Proveedor y se
 
-los Usuarios durante la Operación Privalia RE-CYCLE en el Minisite.
+presentarán a los Usuarios durante la Operación Privalia RE-CYCLE en el Minisite.
 
 
 
 8.3 Las condiciones de aplicación o uso de estos beneficios serán comunicadas a los Usuarios a través
 
-del Minisite, así como en el correo electrónico de validación de la solicitud de RE-CYCLE.
+del Minisite, así como en el correo electrónico de validación de la solicitud de Privalia RE-CYCLE.
 
 
 
@@ -6154,7 +6366,9 @@ del Minisite, así como en el correo electrónico de validación de la solicitud
 
 
 
-Cada Usuario se compromete a respetar las CGU RE-CYCLE y, sin limitarse a ello, se compromete a:
+Cada Usuario se compromete a respetar las CGU PRIVALIA RE-CYCLE y, sin limitarse a ello, se
+
+compromete a:
 
 
 
@@ -6184,7 +6398,7 @@ derechos de marca, derechos de diseño y modelo y/o derechos de personalidad de 
 
 - Mantener estrictamente confidenciales las credenciales que le permiten acceder y/o utilizar el
 
-Servicio RE-CYCLE.
+Servicio Privalia RE-CYCLE.
 
 
 
@@ -6192,7 +6406,7 @@ Servicio RE-CYCLE.
 
 elegibilidad comunicadas previamente.
 
-Privalia | 68
+Privalia | 70
 
 
 
@@ -6220,11 +6434,11 @@ de dicho uso.
 
 Privalia se compromete a realizar sus mejores esfuerzos para que este Servicio esté disponible durante
 
-todo el período de visualización del banner RE-CYCLE, independientemente de las operaciones de
+todo el período de visualización del banner Privalia RE-CYCLE, independientemente de las
 
-mantenimiento programadas, y para garantizar el acceso al Servicio RE-CYCLE en las mejores
+operaciones de mantenimiento programadas, y para garantizar el acceso al Servicio Privalia RE-
 
-condiciones.
+CYCLE en las mejores condiciones.
 
 
 
@@ -6256,13 +6470,13 @@ adecuadas para protegerlo de posibles virus.
 
 Privalia puede eliminar, sin previo aviso ni indemnización, cualquier contenido que no cumpla con las
 
-CGU RE-CYCLE.
+CGU PRIVALIA RE-CYCLE.
 
 
 
 En cualquier caso, Privalia no será responsable de cualquier incumplimiento o falta de cumplimiento
 
-de sus obligaciones por parte de un Usuario en virtud de las CGU RE-CYCLE.
+de sus obligaciones por parte de un Usuario en virtud de las CGU PRIVALIA RE-CYCLE.
 
 
 
@@ -6280,7 +6494,7 @@ El Usuario podrá ponerse en contacto con el Servicio de Atención al Cliente de
 
 teléfono (+34) 93 553 18 05 o a través de la sección "Ayuda y Contacto” del Sitio.
 
-Privalia | 69
+Privalia | 71
 
 
 
@@ -6288,31 +6502,31 @@ Privalia | 69
 
 
 
-Las CGU RE-CYCLE se rigen de acuerdo con la legislación española.
+Las CGU PRIVALIA RE-CYCLE se rigen de acuerdo con la legislación española.
 
 
 
-En caso de controversia o desavenencia que se derive de las presentes CGU RE-CYCLE y para la
+En caso de controversia o desavenencia que se derive de las presentes CGU PRIVALIA RE-CYCLE y
 
-resolución de cualesquiera conflictos, Privalia y el Usuario consumidor acuerdan someterse, a su libre
+para la resolución de cualesquiera conflictos, Privalia y el Usuario consumidor acuerdan someterse, a
 
-elección, y con renuncia a cualquier otro fuero o jurisdicción al que pudieran tener derecho, a los
+su libre elección, y con renuncia a cualquier otro fuero o jurisdicción al que pudieran tener derecho, a
 
-juzgados y tribunales de la ciudad correspondiente al domicilio del Usuario consumidor. En caso de
+los juzgados y tribunales de la ciudad correspondiente al domicilio del Usuario consumidor. En caso
 
-Usuario no consumidor, las partes acuerdan someterse a los juzgados y tribunales de Barcelona
+de Usuario no consumidor, las partes acuerdan someterse a los juzgados y tribunales de Barcelona
 
 capital.
 
 
 
-A efectos de las presentes CGU RE-CYCLE se entenderá por "consumidor" la persona que actúe con
+A efectos de las presentes CGU PRIVALIA RE-CYCLE se entenderá por "consumidor" la persona que
 
-un propósito ajeno a su actividad comercial, empresarial, oficio o profesión, de conformidad con el Real
+actúe con un propósito ajeno a su actividad comercial, empresarial, oficio o profesión, de conformidad
 
-Decreto Legislativo 1/2007, de 16 de noviembre, por el que se aprueba el texto refundido de la Ley
+con el Real Decreto Legislativo 1/2007, de 16 de noviembre, por el que se aprueba el texto refundido
 
-General para la Defensa de los Consumidores y Usuarios.
+de la Ley General para la Defensa de los Consumidores y Usuarios.
 
 
 
