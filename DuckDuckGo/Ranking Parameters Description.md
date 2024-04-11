@@ -1,5 +1,5 @@
-DuckDuckGo Search Results
--------------------------
+[DuckDuckGo Search Results](https://help.duckduckgo.com/duckduckgo-help-pages/results)
+--------------------------------------------------------------------------------------
 
 ### Where do DuckDuckGo search results come from?
 
