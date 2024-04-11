@@ -1,8 +1,6 @@
 Platform to Business Notice for EU and UK Business Users
 ========================================================
 
-Updated: April 28, 2023
-
 This Platform to Business Notice (“**Notice**”) has been created to comply with the Platform to Business Regulation 2019/1150 (“**Regulation**”). It applies to You only if you are a business established in the European Union or in the United Kingdom and develop content or other applications for distribution through the Meta Quest digital store to consumers located in the European Union or in the United Kingdom (“**Relevant Business User**”).
 
 If you are not a Relevant Business User this Notice does not apply to You.
