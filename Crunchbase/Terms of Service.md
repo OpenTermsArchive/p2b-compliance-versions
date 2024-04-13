@@ -14,9 +14,9 @@
 Terms of Service
 ================
 
-**We’ve updated our governing terms to fix a broken link and change all references to the Crunchbase Open Data Map to Crunchbase Basic. The foregoing changes will go into effect on January 19th, 2024. PLEASE NOTE THAT YOUR USE OF AND ACCESS TO OUR SERVICE (DEFINED BELOW) IS SUBJECT TO THE FOLLOWING TERMS; IF YOU DO NOT AGREE TO ALL OF THE FOLLOWING, YOU MAY NOT USE OR ACCESS THE SERVICE IN ANY MANNER.** 
+**We’ve updated our governing terms to provide a contact in the event you have questions or feedback regarding AI Content (as defined below). The foregoing changes will go into effect on April 12th, 2024. PLEASE NOTE THAT YOUR USE OF AND ACCESS TO OUR SERVICE (DEFINED BELOW) IS SUBJECT TO THE FOLLOWING TERMS; IF YOU DO NOT AGREE TO ALL OF THE FOLLOWING, YOU MAY NOT USE OR ACCESS THE SERVICE IN ANY MANNER.** 
 
-Last Updated: January 19th, 2024
+Last Updated: April 12th, 2024
 
 Welcome to Crunchbase. Please read on to learn the rules and restrictions that govern your use of our websites, products, services and applications (the “Service”). If you have any questions, comments, or concerns regarding these terms or the Service, please contact us at [policy@crunchbase.com](mailto:policy@crunchbase.com). 
 
@@ -87,7 +87,7 @@ Notwithstanding the foregoing, you may display insubstantial excerpts of Content
 * The use does not compete with the Service; and 
 * Proper attribution is provided to Crunchbase (please follow our [Attribution Instructions](https://about.crunchbase.com/terms-of-service/attribution-instructions/) to ensure that you are properly attributing Crunchbase). 
 
-In addition, if you distribute or display the AI Content to others, we encourage you to proactively disclose that the AI Content was created using artificial intelligence technologies.
+In addition, if you distribute or display the AI Content to others, we encourage you to proactively disclose that the AI Content was created using artificial intelligence technologies. If you have questions or feedback regarding the AI Content, please contact support@crunchbase.com.
 
 Any other uses of Content require Crunchbase’s prior written consent. 
 
