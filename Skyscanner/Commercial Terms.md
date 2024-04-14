@@ -1,8 +1,6 @@
 Partner Terms – Skyscanner Limited
 ==================================
 
-![](https://wordpress-network.prod.aws.skyscnr.com/wp-content/uploads/2018/05/GettyImages-184903109.jpg?w=1224&h=647&crop=1)
-
 1. **DEFINITIONS**  
     In these Terms the following definitions shall apply:
 
