@@ -245,7 +245,7 @@ Beim Handel über das Internet bestehen Risiken, die in der Natur des Mediums li
 * Präsentationen über ein privates Mitgliedskonto, das aber offensichtlich eine gewerbliche Verkaufstätigkeit verschleiern soll,
 * Präsentationen, in denen in der Artikelbeschreibung noch weitere Artikel - identische Artikel oder Variationen des angebotenen Artikels - zum Verkauf angeboten werden.
 
-(6) Hood kann die Gebühren jederzeit ändern. Preisänderungen werden den Mitgliedern rechtzeitig vor dem Inkrafttreten im Mitgliederbereich auf der Hood-Website unter „Neuerungen und Änderungen“ mitgeteilt sowie in den Gebührenübersichten angekündigt. Die Mitteilung wird mindestens 1 Woche vor der Änderung erfolgen und 2 weitere Wochen nach Inkrafttreten der Änderung geschaltet bleiben.
+(6) Hood kann die Gebühren jederzeit zum Monatsersten ändern und informiert hierüber mindestens 1 Monat im Voraus. Die Änderungen werden den Mitgliedern rechtzeitig vor dem Inkrafttreten im Mitgliederbereich auf der Hood-Website mitgeteilt sowie in den Gebührenübersichten angekündigt. Die Mitteilung wird mindestens 2 weitere Wochen nach Inkrafttreten der Änderung geschaltet bleiben.
 
 (7) Hood bietet darüber hinaus als Zusatzdienstleistung für gewerbliche Verkäufer "Hood-Shops" an. Hierfür erhebt Hood eine Abonnementgebühr laut [aktueller Preisliste](https://www.hood.de/hood-shop-einrichten.htm). Diese wird gemäß der gewählten Zahlungsweise jeweils monatlich oder jährlich im Voraus in Rechnung gestellt.  
   
