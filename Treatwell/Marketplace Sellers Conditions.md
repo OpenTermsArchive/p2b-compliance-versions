@@ -82,7 +82,7 @@ Last Updated April 2024
 6. **FEES AND PAYMENT**  
       
     **Fees paid by you**
-    1. **Fees and Commission.**You agree to pay any of the fees and payments (**Fees**) specified in the Specific Partner Agreement. Some Fees are not refundable, these will be specified separately in your Specific Partner Agreement.
+    1. **Fees and Commission.**You agree to pay any of the fees and payments (**Fees**) specified in the Specific Partner Agreement. The Fees and Commission paid by you are not refundable.
     2. **Free trials.** If we offer you a free trial, Fees will become immediately due and payable following the end of your free trial and you’ll be responsible for paying any applicable Commission and Processing Fees.
     3. **Invoicing and payment terms.** We’ll invoice your applicable Fees, Commission and Processing Fees in the frequency specified on your Specific Partner Agreement. You agree to pay all invoices without deduction or any rights of set-off in accordance with the payment dates specified on your Specific Partner Agreement or as noted in the invoice.. Any disputes must be notified to us in writing within 14 days of receiving an invoice, otherwise the invoice will be considered accepted.
     4. **Avoiding payments.** If we reasonably suspect that you’ve attempted to avoid paying any sums due (such as by fraudulently flagging a fulfilled Booking as "no show" to avoid Commission or by attempting to sign up for multiple free trials with alternative details), we’ll be entitled to withhold any payments due to you.
