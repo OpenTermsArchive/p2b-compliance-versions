@@ -19,7 +19,7 @@ Reporting period: 13 July 2022 – 12 July 2023
         * One developer account was reinstated and its app restored after receipt of supplemental information supporting the reinstatement of the account.
         * Another developer account was reinstated after the developer fixed an identified issue and demonstrated its app and account were in compliance with the Apple Developer Program License Agreement, including the App Review Guidelines.
         * Another developer account was reinstated after a technical investigation identified evidence to support reinstatement of the account.
-    * In the remaining **39** cases, the app removals or developer terminations were upheld because of repeated App Store Review Guideline violations, failure to resolve intellectual property disputes, or fraudulent activities that put our customers at risk or disadvantaged other developers. Examples of such conduct include, but are not limited to, hiding impermissible app features, using bait-and-switch tactics, engaging in auto-renewal subscription scams, misleading and manipulating users, and submitting fraudulent customer reviews and ratings. This conduct exemplifies the type of ongoing threats and challenges faced by the App Store every day, and the actions we take to meet our commitment to keep the App Store a trustworthy ecosystem, a safe and enjoyable experience for users, and a great place for developers to offer their amazing apps.
+    * In the remaining **39** cases, the app removals or developer terminations were upheld because of repeated App Review Guidelines violations, failure to resolve intellectual property disputes, or fraudulent activities that put our customers at risk or disadvantaged other developers. Examples of such conduct include, but are not limited to, hiding impermissible app features, using bait-and-switch tactics, engaging in auto-renewal subscription scams, misleading and manipulating users, and submitting fraudulent customer reviews and ratings. This conduct exemplifies the type of ongoing threats and challenges faced by the App Store every day, and the actions we take to meet our commitment to keep the App Store a trustworthy ecosystem, a safe and enjoyable experience for users, and a great place for developers to offer their amazing apps.
 
 Reporting period: 13 July 2021 – 12 July 2022
 
@@ -31,10 +31,10 @@ Reporting period: 13 July 2021 – 12 July 2022
     * **Three** developer accounts were reinstated after termination:
         * One developer account was reinstated after the developer provided information to clarify a previously identified issue and demonstrated its app and account were in compliance with the Apple Developer Program License Agreement, including the App Review Guidelines.
         * Another developer account was reinstated after the developer fixed an identified issue and demonstrated its app and account were in compliance with the Apple Developer Program License Agreement, including the App Review Guidelines.
-        * A third developer account was reinstated and its app restored after submission of a detailed and satisfactory improvement plan to address App Store Review Guideline violations. The App Review team worked with the developer to ensure ongoing compliance with the approved improvement plan.
+        * A third developer account was reinstated and its app restored after submission of a detailed and satisfactory improvement plan to address App Review Guidelines violations. The App Review team worked with the developer to ensure ongoing compliance with the approved improvement plan.
     * **One** app was restored to the platform after removal:
-        * The developer submitted a detailed and satisfactory improvement plan to address App Store Review Guideline violations. After the developer brought its app into full compliance, the app was restored to the platform.
-    * In the remaining **60** cases, the app removals or developer terminations were upheld because of repeated App Store Review Guideline violations, failure to resolve intellectual property disputes, or fraudulent activities that put our customers at risk or disadvantaged other developers. Examples of such conduct include, but are not limited to, hiding impermissible app features, using bait-and-switch tactics, engaging in auto-renewal subscription scams, misleading and manipulating users, and submitting fraudulent customer reviews and ratings. This conduct exemplifies the type of ongoing threats and challenges faced by the App Store every day, and the actions we take to meet our commitment to keep the App Store a trustworthy ecosystem, a safe and enjoyable experience for users, and a great place for developers to offer their amazing apps.
+        * The developer submitted a detailed and satisfactory improvement plan to address App Review Guidelines violations. After the developer brought its app into full compliance, the app was restored to the platform.
+    * In the remaining **60** cases, the app removals or developer terminations were upheld because of repeated App Review Guidelines violations, failure to resolve intellectual property disputes, or fraudulent activities that put our customers at risk or disadvantaged other developers. Examples of such conduct include, but are not limited to, hiding impermissible app features, using bait-and-switch tactics, engaging in auto-renewal subscription scams, misleading and manipulating users, and submitting fraudulent customer reviews and ratings. This conduct exemplifies the type of ongoing threats and challenges faced by the App Store every day, and the actions we take to meet our commitment to keep the App Store a trustworthy ecosystem, a safe and enjoyable experience for users, and a great place for developers to offer their amazing apps.
 
 Reporting period: 12 July 2020 – 12 July 2021
 
@@ -68,7 +68,7 @@ Developer Support is often the starting point for assistance with the following 
 
 Developers can submit feedback to Apple using the native Feedback Assistant app on iPhone, iPad, and Mac, or the Feedback Assistant website. After developers submit feedback, they receive a Feedback ID to track the submission within the app or on the website.
 
-### [App Store content dispute](https://www.apple.com/legal/internet-services/itunes/appstorenotices/#)
+### [App Store content dispute](https://www.apple.com/legal/internet-services/itunes/appstorenotices/)
 
 Developers who believe that an application or Search Ad available in the App Store violates their intellectual property rights can submit a claim to the App Store Legal Team.
 
@@ -90,7 +90,7 @@ If developers disagree with the outcome of our review, either because they think
 
 ### [Suggest a guideline change](https://developer.apple.com/contact/app-store/?topic=guideline)
 
-Our goal is to apply the App Review Guidelines fairly and consistently. If an app has been rejected and developers are unable to resolve the issues after corresponding with App Review, they may suggest a change to the guidelines.
+Our goal is to apply the App Review Guidelines fairly and consistently. If an app has been rejected and developers are unable to resolve the issues after corresponding with App Review, they may suggest a change to the guidelines.
 
 ### [Reinstate a terminated membership](https://developer.apple.com/contact/request/app-review/termination/)
 
