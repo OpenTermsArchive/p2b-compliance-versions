@@ -10,7 +10,7 @@ The above “Important Note” constitutes an integral part of this Merchant Ter
 Merchant Terms of Service and Agreement
 =======================================
 
-Please read these Merchant Terms of Service and Agreement (these "Terms") carefully before using the websites, products, services, and applications (collectively, the "Services") offered by ContextLogic Inc. ("Wish," "we," and "us") in addition to the additional terms and conditions of other programs or services ("Additional Terms") and our policies and guidelines ("Policies") referenced herein or otherwise made available by Wish.
+Please read these Merchant Terms of Service and Agreement (these "Terms") carefully before using the websites, products, services, and applications (collectively, the "Services") offered by Wish US Holdings LLC ("Wish," "we," and "us") in addition to the additional terms and conditions of other programs or services ("Additional Terms") and our policies and guidelines ("Policies") referenced herein or otherwise made available by Wish.
 
 The Additional Terms and Policies include:
 
@@ -47,8 +47,6 @@ Wish may change these Terms or the Additional Terms and Policies, including by i
 
 Unless otherwise permitted by Applicable Laws, you agree that any change will only apply to Disputes that arise after the effective date of such change unless you have expressly agreed to such change.
 
-Please note that Sections 8 and 9 of the Terms contain an arbitration clause and class action waiver. By agreeing to the Agreement, you agree to resolve all Disputes (defined below) through binding individual arbitration, which means that you waive any right to have those Disputes decided by a judge or jury, and that you waive your right to participate in class actions, class arbitrations, or representative actions. Please read Sections 8 and 9 carefully.
-
 1\. Wish Is a Marketplace
 -------------------------
 
@@ -75,8 +73,6 @@ You represent, warrant, covenant, promise, and guarantee that during the period 
 
 "Affiliate" shall mean, with respect to any person or entity, any other person or entity that directly or indirectly controls, is controlled by, or is under common control with, that person or entity.
 
-\[If you are located in either: (i) the European Economic Area or the United Kingdom, and your account was set up prior to May 15, 2023, or (ii) Germany, and your account was set up on or after May 15, 2023; then in order to receive funds resulting from consumer purchases, you must contract with ContextLogic Collections B.V. If either (i) or (ii) apply to you, and you receive funds resulting from consumer purchases, you accept the [Merchant Pay-out Service Terms](https://merchant.wish.com/merchant-payout-service-terms-eea) offered by ContextLogic Collections B.V.\]
-
 ### Beta Programs:
 
 From time to time, Wish may, in its sole discretion, invite you to participate in a pilot or trial program or to use beta features that are in development and not yet available to all merchants (the "Beta Programs"). The Beta Programs may be subject to additional terms and conditions, which Wish will provide to you prior to your use of the Beta Programs. Such Beta Programs and all communications or materials (oral or written) relating to Beta Programs will be considered Confidential Information and subject to the confidentiality provisions in these Terms. You agree that you will not make any public statements or disclose your participation in any of the Beta Programs without Wish's prior written consent. Wish makes no representations or warranties regarding the Beta Programs. Wish may change, cancel, or discontinue the Beta Programs at any time, in Wish's sole discretion. To the extent permitted by applicable law, Wish will have no liability for any harm or damage arising out of or in connection with the Beta Programs.
@@ -87,7 +83,7 @@ Because relevant Applicable Laws as well as the business environment, periodical
 
 Unless otherwise permitted by Applicable Laws, you agree that any amendment will only apply to Disputes that arise after the effective date of such amendment unless you have expressly agreed to such amendment.
 
-Prior to the effective date of such proposed amendment, you may opt out of any proposed amendment by sending a timely written notice of your decision to opt out to the following address: General Counsel, ContextLogic Inc., One Sansome Street, 33rd Fl., San Francisco, CA 94104, or by email to [merchant\_notices@wish.com](mailto:merchant_notices@wish.com). Wish reserves the right to cancel, within reason, your account and terminate your access to the Services if you do not agree to any proposed amendment, with proper notice.
+Prior to the effective date of such proposed amendment, you may opt out of any proposed amendment by sending a timely written notice of your decision to opt out to the following address: General Counsel, Wish US Holdings LLC, One Sansome Street, 33rd Fl., San Francisco, CA 94104, or by email to [merchant\_notices@wish.com](mailto:merchant_notices@wish.com). Wish reserves the right to cancel, within reason, your account and terminate your access to the Services if you do not agree to any proposed amendment, with proper notice.
 
 ### Password and Account Security:
 
@@ -198,13 +194,13 @@ If you have a dispute with any user or third party over any product, service, of
 
 ### Disposition of Products in Compliance with Legal Requirement:
 
-Wish, directly or through its designee, shall have the right to take possession and dispose of products to comply with any Applicable Laws or any order or other requirement of any court, arbitrator, or other governmental authority and to withhold or offset any payments to you for all costs incurred by Wish in connection with such disposal. Such action shall not, and shall not be deemed to, transfer title to Wish.
+Wish, directly or through its designee, shall have the right to take possession and dispose of products to comply with any Applicable Laws or any order or other requirement of any court, mediator, arbitrator, or other governmental authority and to withhold or offset any payments to you for all costs incurred by Wish in connection with such disposal. Such action shall not, and shall not be deemed to, transfer title to Wish.
 
 Third Party Platforms: Wish has or may enter into relationships with third parties that support the marketing, sale, and fulfillment of any merchant's Products through such third parties' platforms and applications or channels of trade ("Third Party Platforms"), either as part of, or as a separate offering from, the Services. You acknowledge and agree that Wish may, and you hereby expressly authorize Wish to, market, promote, publish, display, offer for sale, sell, or fulfill your Products through any Third Party Platform, whether as part of the Services or separate from the Services, whether concurrently with or in lieu of the Services, or whether you are required to create an account with any Third Party Platform.
 
 ### Other: 
 
-In certain circumstances, some Merchants may be eligible for greater exposure of products or listings on the platform that other Merchants. Some examples include, but are not limited to, (i) Products offered by merchants that participate in the one or more programs or initiatives (whether permanent programs or experimental programs or initiatives) or services may receive greater impressions due to economic and commercial reasons; (ii) Products offered by merchants with high ratings may be featured more prominently over those offered by merchants with lower ratings; (iii) Products offered by merchants with low refund rates may be featured more prominently over those offered by merchants with higher refund rates; (iv) Products offered by merchants in regions in close proximity to a user may be featured more prominently over products offered outside those regions; (v) Products offered by Wish or its Affiliates might be featured more prominently for economic and commercial reasons; (vi) Products whose merchants offer faster shipping options may be featured more prominently over Products whose merchants offer slower shipping options; (vii) Products whose merchants offer lower prices may be featured more prominently over merchants offering the same Product for more; (viii) the length of relationship between Wish and the merchant; or (ix) the nature of the Product sold or the volume of sales by the merchant. Wish also may consider a merchant's compliance with these terms of service, Wish Standards and/or other Merchant Compliance guidelines.
+In certain circumstances, some Merchants may be eligible for greater exposure of products or listings on the platform that other Merchants. Some examples include, but are not limited to, (i) Products offered by merchants that participate in the one or more programs or initiatives (whether permanent programs or experimental programs or initiatives) or services may receive greater impressions due to economic and commercial reasons; (ii) Products offered by merchants with high ratings may be featured more prominently over those offered by merchants with lower ratings; (iii) Products offered by merchants with low refund rates may be featured more prominently over those offered by merchants with higher refund rates; (iv) Products offered by merchants in regions in close proximity to a user may be featured more prominently over products offered outside those regions; (v) Products offered by Affiliates might be featured more prominently for economic and commercial reasons; (vi) Products whose merchants offer faster shipping options may be featured more prominently over Products whose merchants offer slower shipping options; (vii) Products whose merchants offer lower prices may be featured more prominently over merchants offering the same Product for more; (viii) the length of relationship between Wish and the merchant; or (ix) the nature of the Product sold or the volume of sales by the merchant. Wish also may consider a merchant's compliance with these terms of service, Wish Standards and/or other Merchant Compliance guidelines.
 
 Product listings on the Services, including those resulting from user searches, are ranked according to various factors. Wish reserves the right to limit the number of Product listings in your catalog by removing Product listings upon our discretion. You will be notified if Product Listings are removed by Wish.
 
@@ -320,140 +316,30 @@ Your Personal Data and Business Data -- Legal Requirements Protection of Wish an
 
 [View Privacy Policy](https://wish.com/privacy_policy)
 
-### 8\. MANDATORY INDIVIDUAL ARBITRATION AGREEMENT
+8\. Dispute Resolution
+----------------------
 
-Our merchant support team is ready to assist you and address your concerns; email merchant\_support@wish.com.
+If you have a complaint or disagree with decisions made on your account, you may file a dispute within 6 months from when the decision was made. Disputes filed within the Merchant Dashboard will be reviewed by Wish and all decisions will be communicated via the internal messaging system.
 
-YOU AND WISH AGREE THAT ANY DISPUTES BETWEEN YOU AND WISH SHALL BE RESOLVED ONLY BY FINAL AND BINDING, BILATERAL ARBITRATION, subject to the exceptions below.
+View [Wish Merchant Policies](https://merchant.wish.com/policy/home) Our merchant support team is ready to assist you and address your concerns; email [merchant\_support@wish.com.](mailto:merchant_support@wish.com)
 
-YOU AND WISH HEREBY WAIVE ANY AND ALL RIGHTS TO SUE IN COURT AND HAVE A TRIAL IN FRONT OF A JUDGE OR A JURY, except as specified herein. There is no judge or jury in arbitration, and court review of an arbitration award is subject to very limited review.
+If you are not satisfied with the way your complaint or dispute was handled, you may refer qualifying disputes to mediation before the [Centre for Effective Dispute Resolution](https://www.cedr.com/) or resolution through the [European Commission's online dispute resolution platform.](https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home2.show&lng=EN) Additionally, you may select an out-of-court dispute settlement body, certified by a national Digital Services Coordinator.
 
-PLEASE READ CAREFULLY THE FOLLOWING MANDATORY INDIVIDUAL ARBITRATION AGREEMENT ("ARBITRATION AGREEMENT"). IT REQUIRES YOU TO ARBITRATE MOST DISPUTES WITH WISH, AND LIMITS CERTAIN RIGHTS, INCLUDING THE RIGHT TO A JURY TRIAL, AND TO THE EXTENT PERMITTED BY LAW, THE RIGHT TO PARTICIPATE IN ANY FORM OF CLASS, COLLECTIVE, OR REPRESENTATIVE CLAIM OR ACTION. OTHER RIGHTS THAT YOU OR WISH WOULD HAVE IN COURT ALSO MAY NOT BE AVAILABLE IN ARBITRATION OR MAY BE LIMITED.
-
-YOU AND WISH UNDERSTAND AND AGREE THAT THIS ARBITRATION SECTION OPERATES AS A SEPARATE AND DISTINCT ARBITRATION AGREEMENT THAT IS SEVERABLE FROM THE REMAINDER OF THE TERMS OF THIS AGREEMENT AND IS ENFORCEABLE REGARDLESS OF THE ENFORCEABILITY OF ANY OTHER PROVISION OF THE AGREEMENT. CONSIDERATION FOR THIS ARBITRATION AGREEMENT INCLUDES, WITHOUT LIMITATION, THE PARTIES' MUTUAL AGREEMENT TO ARBITRATE DISPUTES.
-
-"Disputes" shall include, but are not limited to, any claims or controversies between you and Wish related in any way to or arising in any way out of or from the Agreement, the Services, the Content, Submissions (public, personal, or limited audience), including, but not limited to, sales, payments, returns, refunds, cancellations, defects, policies (including violations or suspected violations thereof), fulfillment, privacy, advertising, or any communications between you and Wish, even if the claim arises after you or Wish has terminated the Services or a user account. Disputes also include, but are not limited to, claims that: (a) you bring against our employees, agents, Affiliates, or other representatives; or (b) that Wish brings against you. Disputes also include, but are not limited to, (i) claims in any way related to or arising out of any aspect of the relationship between you and Wish, whether based in contract, tort, statute, fraud, warranty, misrepresentation, advertising claims, or any other legal theory; (ii) claims that arose before the Agreement or out of prior Agreement(s) with Wish; (iii) claims that are subject to on-going litigation; or (iv) claims that arise after the termination of the Agreement. Except as specifically excluded herein, Dispute/Disputes shall be given the broadest possible meaning permitted by law.
-
-Notwithstanding this Arbitration Agreement, Disputes concerning patents, copyrights (including claims under the Digital Millennium Copyright Act), trademarks, and trade secrets and claims of piracy shall not be subject to arbitration.
-
-Notwithstanding this Arbitration Agreement, either party may apply to a court of competent jurisdiction as necessary to enforce an arbitration award, or to seek a temporary restraining order or preliminary injunction to ensure that the relief sought in arbitration is not rendered ineffectual during the pendency of, or after the rendition of, a decision in any arbitration proceeding. The institution of any action shall not constitute a waiver of the right or obligation of any party to submit any claim seeking relief other than injunctive or enforcement relief to arbitration. Further, any party seeking to enforce an award of an arbitrator(s) shall submit the award under seal to maintain protections of confidential information, and you and Wish hereby agree and consent to the filing of such a submission, motion, or order under seal. Notwithstanding anything to the contrary herein, to the extent a party contests the jurisdiction of a state or federal court to preside over claims for a temporary restraining order or preliminary injunctive relief as described above, the court in which such claim is made shall have exclusive jurisdiction to determine whether such claim is to be decided by the court.
-
-Notwithstanding anything to the contrary this Arbitration Agreement, the arbitrator may not issue a "public injunction;" rather, whether any such "public injunction" is appropriate and/or permitted by law, and if so the terms of such public injunctive relief, must be determined only by a federal or state court. If either party is permitted to seek a "public injunction," all other claims and prayers for relief must be adjudicated in arbitration first and any such prayer or claim for a "public injunction" in federal or state court stayed until the arbitration is completed, after which the federal or state court can adjudicate the party's claim or prayer for "public injunctive relief."
-
-### Binding Arbitration Process and Procedure
-
-Except as provided herein: any dispute will be resolved only by binding individual arbitration The parties agree to cooperate regarding the enforcement of any arbitration judgment rendered in accordance with this Arbitration Agreement, including in connection with the enforcement of such judgment in any country outside the United States as applicable.
-
-Unless you and Wish agree otherwise, any Dispute shall be subject to and shall be settled exclusively by final, binding arbitration in accordance with and administered by the International Chamber of Commerce ("ICC") under its rules and procedures, which are available at the ICC website at iccwbo.org. If the ICC is not available to arbitrate, the parties will select an alternative arbitral forum. If there is a conflict between the ICC rules (or the rules of the alternative arbitral forum selected by the parties) and the rules set forth in this Arbitration Agreement, the rules set forth in this Arbitration Agreement will govern.
-
-Notwithstanding the rules of the ICC, the following will apply to all arbitration actions:
-
-* The Arbitration Agreement and the arbitration will be governed by Dutch Laws.
-    
-* The arbitration will be conducted in English (with appropriate translators as may be necessary).
-    
-* The parties agree that time is of the essence.
-    
-* The arbitration will take place in Amsterdam, Netherlands.
-    
-* The parties will be allotted equal time to present their respective cases, including cross-examinations.
-
-In addition to the foregoing and notwithstanding the rules of the ICC, certain procedures will apply depending on the amount in controversy. For controversies and claims in which the amount in controversy is less than $1,000,000.00 (one million dollars), the following procedures will apply absent mutual agreement of the parties to the contrary:
-
-* The arbitration will occur within 180 days from the date on which the arbitrator is appointed and will last no more than five business days.
-    
-* There will be one arbitrator selected from the panel provided by the ICC, using the ICC rules for arbitrator selection.
-
-For controversies and claims in which the amount in controversy is equal to or exceeds $1,000,000.00, the following procedures will apply absent mutual agreement of the parties to the contrary:
-
-* There will be three arbitrators selected from the panel provided by the ICC, using the ICC rules for arbitrator selection.
-
-If Wish's or your claim is solely for monetary relief of $10,000 or less and does not include a request for any type of equitable remedy, the party bringing the claim may choose whether the arbitration of the claim will be conducted through a telephonic hearing, or by an in-person hearing under the ICC rules, solely based on documents submitted to the arbitrator.
-
-You or Wish may choose to pursue a claim in small claims court with jurisdiction and venue over you if Wish otherwise qualifies for such small claims court and the claim does not include a request for any type of equitable relief. However, if you decide to pursue a claim in small claims court, you agree to provide Wish with advance notice by email to merchant\_support@wish.com and by U.S. Mail to General Counsel, ContextLogic Inc., One Sansome Street, 40th Fl, San Francisco, CA 94104.
-
-To the extent the filing fee for the arbitration exceeds the cost of filing a lawsuit, Wish will pay the additional cost. Wish shall also bear the cost of any arbitration fees, unless the arbitrator finds your claims, defenses, or other fee-generating activity to be asserted or conducted for an improper purpose or frivolous. You are responsible for all other additional costs that you may incur in the arbitration including, without limitation, attorney's fees and expert witness costs unless Wish is specifically required to pay such fees under applicable law.
-
-This Agreement, including this Arbitration Agreement, do not prevent you from bringing your Dispute to the attention of any federal, state, or local government agency. Such agencies can, if the law allows, seek relief against Wish on your behalf.
-
-The parties agree and understand that maintaining confidentiality of disputes and dispute resolution is of the utmost importance and agree that Wish has valuable trade secrets and proprietary and confidential information. Thus, to the fullest extent allowed by law, the parties agree to take all necessary steps to protect from public disclosure such trade secrets and proprietary and confidential information.
-
-### Authority of Arbitrator
-
-Except as expressly provided herein, the arbitrator(s), and not any federal, state, or local court or agency, shall have the exclusive authority to resolve any Dispute relating to the interpretation, applicability, enforceability, or formation of this Arbitration Agreement, including a claim that all or any part of it is void or voidable , except that the arbitrator(s) shall not have the authority to determine whether the arbitration can proceed on behalf of or against a class.
-
-The arbitrator(s) shall have no authority to award punitive damages, and the parties waive any right to seek or recover punitive damages with respect to any Dispute resolved by arbitration, except where an applicable statute or other law allows for punitive damages.
-
-The arbitrator(s) shall have the authority to grant any non-monetary remedy or relief available to an individual under applicable laws, the arbitral forum's rules, and this Agreement (including the Arbitration Agreement).
-
-The arbitrator shall issue a written award and statement of decision describing the essential findings and conclusions on which any award (or decision not to render an award) is based, including the calculation of any damages awarded. The arbitrator has the same authority to award relief on an individual basis that a judge in a court of law would have. The award of the arbitrator is final and binding upon you and us.
-
-### Special Additional Procedures for Mass Arbitration:
-
-If 25 or more similar claims (or Disputes) are asserted against Wish by the same or coordinated counsel or otherwise present substantially similar or overlapping allegations of fact or law, the parties agree to the following bellwether procedures. Notwithstanding anything to the contrary provided herein, a court of competent jurisdiction, and not JAMS or an arbitrator, shall have the exclusive authority to resolve any Dispute over whether these bellwether procedures apply to any group of claims.
-
-The parties recognize and agree that a large number of arbitration cases with similar allegations will impose excessive transaction costs regardless of the cases' merit or lack of merit. The parties also recognize and agree that it is logistically difficult or impossible to arbitrate simultaneously large numbers of substantially similar cases. The parties therefore agree to use bellwether litigation procedures similar to those that courts use in mass-tort cases, based on the judiciary's experience that, after one or a few cases are tried to verdict, most or all of the other cases settle or otherwise resolve themselves.
-
-Thus, to the maximum extent permitted by law, the parties agree that no more than 10 cases will be active at any one time. All remaining cases will be stayed, with the statute of limitations tolled. As soon as one of the original active cases is resolved (by decision, settlement, or otherwise), a stayed arbitration shall replace it on the list of 10 active cases. Except as provided below, cases shall be placed on or moved to the active list in the order demands for arbitration are first received. Until a case is on or is moved to the list of 10 active cases, the sum any party paid to initiate a case shall be refunded, and no arty shall have any obligation to pay any JAMS or arbitrator fees.
-
-If you claim exceptional hardship from any delay pursuant to this bellwether procedure, you may petition Wish to waive the 10-case limit for that case. If Wish does not agree, you may petition JAMS to place the case on the list of 10 active cases, on the ground that delay will impose exceptional hardship. If JAMS finds exceptional hardship and grants the petition, JAMS shall (based on its determination of relative hardship) remove one other case from the list of 10 active cases and place it at the head of the list of stayed cases. Under no circumstances shall JAMS place more than 10 cases into active status. If more than 10 hardship applications are granted, JAMS shall determine which 10 cases shall proceed first, based on its determination of relative hardship.
-
-### 30-Day Right to Opt Out
-
-You have the right to opt out of the provisions of this Arbitration Agreement by sending a timely written notice of your decision to opt out to the following address: General Counsel, Contextlogic Inc., One Sansome Street, 33rd Fl, San Francisco, CA 94104, or by email to merchant\_notices@wish.com, within 30 days after first becoming subject to this Arbitration Agreement. Your notice must include your name and address, your User ID (if any), Merchant ID, the email address you used to set up your account, and a clear statement that you want to opt out of this Arbitration Agreement. If you opt out of this Arbitration Agreement, all other parts of this Agreement will continue to apply to you and Wish reserves the right to terminate the entirety of the Agreement. Opting out of this Arbitration Agreement has no effect on any other arbitration agreements that you may currently have with us or may enter into in the future with us.
-
-### Parents, Subsidiaries, Affiliates
-
-This Arbitration Agreement will also apply to any Disputes asserted by you against any present or future parent, subsidiary, or affiliate of Wish, or any employee, officer, director, or investor of Wish, and to any Disputes asserted by any of them against you.
-
-### Changes to This Arbitration Section
-
-Wish reserves the right to amend the Arbitration Agreement. In that instance, Wish will provide 30 days' advance notice of any such amendment. The notice will be provided via electronic mail, the Wish Merchant Dashboard, the Wish API, or other commercially reasonable means. With regard to any such amendment, you agree that the continuation of your use of the Services, after receipt of the notice of such amendment, shall constitute your acknowledgement and acceptance of any and all such changes, and it shall also constitute adequate consideration to support such change(s), which shall automatically be incorporated into this Arbitration Agreement as of the effective date stated in the amendment.
-
-Unless otherwise permitted by Applicable Laws, you agree that any amendment will only apply to Disputes that arise after the effective date of such amendment unless you have expressly agreed to such amendment.
-
-Prior to the effective date of such proposed amendment, you may opt out of any proposed amendment by sending a timely written notice of your decision to opt out to the following address: General Counsel, Contextlogic Inc., One Sansome Street, 33rd Fl, San Francisco, CA 94104, or by email to merchant\_notices@wish.com. Wish may terminate the Agreement of any merchant who does not agree to a proposed amendment to this Arbitration Agreement.
-
-### Survival of Arbitration Agreement
-
-This Arbitration Agreement will survive the termination or expiration of this Agreement or your relationship with Wish.
-
-9\. WAIVER OF CLASS OR CONSOLIDATED ACTIONS AND ARBITRATIONS:
--------------------------------------------------------------
-
-PLEASE READ THIS SECTION CAREFULLY. IT MAY SIGNIFICANTLY AFFECT YOUR LEGAL RIGHTS.
-
-To fullest extent permitted by law, Wish and you agree TO WAIVE ANY RIGHT TO HAVE ANY DISPUTE OR CLAIM HEARD AS A CLASS, COLLECTIVE, OR REPRESENTATIVE ACTION, AND THE ARBITRATOR(S) SHALL HAVE NO AUTHORITY TO PROCEED ON SUCH A BASIS, INCLUDING BUT NOT LIMITED TO ANY DISPUTE OR CLAIM ASSERTED IN ARBITRATION OR, if permitted under the Agreement, any such proceeding in federal and state court. The parties therefore agree to resolve any Dispute or claim in an individual capacity, and not on behalf of, or as part of, any purported class, consolidated, or representative proceeding. Wish and you also therefore agree to not participate in any consolidated, class, or representative proceeding (existing or future) brought by any third party arising out of or relating to any Dispute or claim with a third party.
-
-The arbitrator or the court cannot combine more than one person's or entity's claims into a single case, and cannot preside over any consolidated, class or representative proceeding, unless the parties agree otherwise.
-
-Furthermore, to the extent any Disputes are not arbitrable as a matter of law, the parties agree that litigation of those disputes shall be stayed pending the outcome of any individual Disputes in arbitration.
-
-If any clause within the foregoing class action waivers and individual arbitration agreement are deemed illegal, unenforceable or invalid for any reason, and all appeals from that decision have been exhausted (or the decision is otherwise final), the parties agree that that particular Dispute, claim or request for relief may proceed in court in accordance with Section 22.
-
-This Section 9 will also apply to any Disputes or claims asserted by you against any present or future parent, subsidiary or affiliated company of Wish, or any employee, officer, director, or investor of Wish, and to any Disputes or claims asserted by any of them against you.
-
-This Section 9, and the waiver of class and consolidated actions set forth herein, shall survive any termination of your account or the Services.
-
-Please note that this clause may not be appliable, especially in European Union or the United Kingdom jurisdictions that do not have class or consolidated action options.
-
-If Wish has posted or provided a translation of the English language version of this Agreement, you agree that the translation is provided for convenience only and that the English language version will govern your uses of the Services.
-
-10\. Wish's Intellectual Property
----------------------------------
+9\. Wish's Intellectual Property
+--------------------------------
 
 Wish owns all right, title, and interest in and to its Services, including all rights under patent, copyright, trade secret, trademark, or unfair competition law, and any and all other proprietary rights, including all applications, renewals, extensions, and restorations thereof. You will not modify, adapt, translate, prepare derivative works from, decompile, reverse-engineer, disassemble, or otherwise attempt to derive [source code](https://practicallawconnect.thomsonreuters.com/Document/I0f9fbf27ef0811e28578f7ccc38dcbee/View/FullText.html?originationContext=document&transitionType=DocumentItem&ppcid=af98f74eff8845548a1ca6e2edc6f7c6&contextData=(sc.Default)) from any Application. You will not remove, obscure, or alter Wish's copyright notice, trademark notices, or other proprietary rights notices affixed to, contained within, or accessed in conjunction with or by any Wish or any of its Affiliates. You will not remove, obscure, or alter third party intellectual property notices under any circumstance without explicit written permission from the appropriate third party owners.
 
-Unauthorized use of WISH, ContextLogic, Wish.com, and any of Wish.com's name and/or logo in any capacity that violates trademark rights owned by ContextLogic worldwide is prohibited. All rights to pursue legal action against you or your affiliates are reserved. This property and other graphics, logos, service marks and trademarks on Wish or its Affiliates may not be used without the prior written consent of Wish or its Affiliates. All other trademarks, product names, and company names and logos appearing on this Web site or in any materials relating to our Services are the property of their respective owners.
+Unauthorized use of WISH, Wish.com, and any of Wish.com's name and/or logo in any capacity that violates trademark rights owned by Wish worldwide is prohibited. All rights to pursue legal action against you or your affiliates are reserved. This property and other graphics, logos, service marks and trademarks on Wish or its Affiliates may not be used without the prior written consent of Wish or its Affiliates. All other trademarks, product names, and company names and logos appearing on this Web site or in any materials relating to our Services are the property of their respective owners.
 
 You commit to abide by all copyright notices, trademark rules, information, and restrictions contained in such Content you access through the Services and all Applicable Laws relating thereto, and you won't access, use, copy, reproduce, modify, create derivative works from, translate, publish, broadcast, synchronize, transmit, distribute, perform, upload, display, license, sell or otherwise exploit for any purpose any Content not owned by you, (a) without the prior written consent of the owner of that Content or (b) in a way that violates someone else's (including Wish's) rights.
 
-11\. Access and Interference
+10\. Access and Interference
 ----------------------------
 
 Much of the information on the Services is updated on a real-time basis and is proprietary or is licensed to Wish by merchants or third parties. You agree that you will not use any robot, spider, scraper or other automated means to access the Services for any purpose whatsoever, except to the extent expressly permitted by and in compliance with this Agreement, including the [Wish API Terms of Service](https://merchant.wish.com/api-partner-terms-of-service), without Wish's prior express written permission. Additionally, you agree that you will not (a)take any action that imposes, or may impose, as determined by Wish, an unreasonable or disproportionately large load on any of the Services' infrastructure; or (b) interfere or attempt to interfere with the proper working of the Services or any activities conducted on the Services.
 
-12\. Termination
+11\. Termination
 ----------------
 
 We may restrict or suspend your use of any Services or restrict or suspend this Agreement. At the time of the restriction or suspension taking effect, we shall provide you with a statement of reasons (i.e., facts or circumstances leading to the restriction or suspension) for that decision. You shall act in a commercially reasonable manner, in accordance with Applicable Laws; as such, we may restrict or suspend without notice your use of any Services or restrict or suspend this Agreement in the event that we believe that you do not act in a commercially reasonable manner.
@@ -462,7 +348,7 @@ We may terminate your use of any Services or terminate this Agreement for conven
 
 In the case of restriction, suspension, or termination for convenience, we shall give you the opportunity to clarify the facts and circumstances in the framework of the internal complaint-handling process as set forth in Section 8 of these Terms. However, you shall act in a commercially reasonable manner and in accordance with Applicable Laws; as such, we may restrict, suspend or terminate without notice your use of any Services or restrict, suspend or terminate this Agreement in the event that we believe that you do not act in a commercially reasonable manner.
 
-13\. Warranty Disclaimer
+12\. Warranty Disclaimer
 ------------------------
 
 ALL SERVICES (INCLUDING ANY THIRD PARTY PRODUCTS AND SERVICES) PROVIDED THROUGH WISH ARE PROVIDED ON AN "AS IS" AND "AS-AVAILABLE" BASIS. YOU USE THE SERVICES AT YOUR OWN RISK. TO THE FULLEST EXTENT ALLOWED BY APPLICABLE LAWS, WISH (FOR ITSELF AND ITS AFFILIATES AND LICENSORS) EXPRESSLY DISCLAIMS (i) ALL WARRANTIES OR REPRESENTATIONS REGARDING ANY SERVICES (INCLUDING ANY THIRD PARTY PRODUCTS AND SERVICES) AND THIS AGREEMENT, INCLUDING EXPRESS OR IMPLIED WARRANTIES OF MERCHANTABILITY; FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT, (ii) IMPLIED WARRANTIES ARISING FROM COURSE OF DEALING OR TRADE USAGE; (iii) ANY OBLIGATION, LIABILITY, RIGHT, CLAIM OR REMEDY IN TORT, WHETHER OR NOT ARISING FROM WISH'S NEGLIGENCE. WE DO NOT WARRANT THAT THE SERVICES WILL BE AVAILABLE FOR USE, UNINTERRUPTED, ERROR-FREE, TIMELY, OR SECURE. WISH WILL NOT BE LIABLE FOR ANY SERVICE INTERRUPTIONS, INCLUDING BUT NOT LIMITED TO SYSTEM FAILURES OR OTHER INTERRUPTIONS THAT MAY AFFECT THE RECEIPT, PROCESSING, ACCEPTANCE, COMPLETION, OR SETTLEMENT OF ANY TRANSACTION. NO ADVICE OR INFORMATION (ORAL OR WRITTEN) OBTAINED BY YOU FROM WISH (OR ITS AFFILIATES OR LICENSORS) SHALL CREATE ANY WARRANTY.
@@ -473,7 +359,7 @@ IF YOU RELY ON ANY DATA OR INFORMATION OBTAINED THROUGH THE SERVICES, YOU DO SO 
 
 CERTAIN JURISDICTIONS DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES. IF THESE LAWS APPLY TO YOU, SOME OR ALL OF THE FOREGOING DISCLAIMERS, EXCLUSIONS AND LIMITATIONS MAY NOT APPLY TO YOU, AND YOU MIGHT HAVE ADDITIONAL RIGHTS.
 
-14\. Limitation of Liability; General Release
+13\. Limitation of Liability; General Release
 ---------------------------------------------
 
 TO THE FULLEST EXTENT ALLOWED BY APPLICABLE LAWS, UNDER NO CIRCUMSTANCES AND UNDER NO LEGAL THEORY (INCLUDING TORT, CONTRACT, WARRANTY, STRICT LIABILITY, OR OTHERWISE) SHALL WISH (OR ITS AFFILIATES OR LICENSORS) BE LIABLE TO YOU OR TO ANY OTHER PERSON FOR ANY LOST PROFITS, LOST REVENUE, LOST SALES, OR OPPORTUNITY OR LOST DATA, OR FOR ANY INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES OF ANY KIND, INCLUDING DAMAGES FOR LOSS OF GOODWILL, WORK STOPPAGE, ACCURACY OF RESULTS, OR COMPUTER FAILURE OR MALFUNCTION ARISING OUT OF OR IN ANY WAY RELATED TO THE SERVICES OR ANY THIRD PARTY PLATFORM, OR YOUR OR ANY THIRD PARTY'S USE OF OR INABILITY TO USE THE SERVICES OR ANY THIRD PARTY PLATFORM, EVEN IF WISH, ITS AFFILIATES, OR ANY OTHER PERSON HAS BEEN ADVISED OF THE POSSIBILITY OF THOSE COSTS OR DAMAGES.
@@ -490,11 +376,11 @@ CERTAIN JURISDICTIONS DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES OR THE EXCL
 
 WISH IS NOT A PARTY TO THE TRANSACTIONS BETWEEN USERS AND MERCHANTS AND OPERATES THE SERVICES TO CONNECT USERS TO MERCHANTS. IF A DISPUTE ARISES BETWEEN A USER AND MERCHANT, THE USER AND MERCHANT RELEASES WISH (AND ITS AGENTS, LICENSORS, OR EMPLOYEES) FROM CLAIMS, DEMANDS, AND DAMAGES (ACTUAL OR CONSEQUENTLY) OF EVERY KIND AND NATURE, KNOWN AND UNKNOWN, SUSPECTED AND UNSUSPECTED, DISCLOSED AND UNDISCLOSED, ARISING OUT OF OR IN ANY WAY CONNECTED WITH SUCH DISPUTES.
 
-IF YOU ARE A RESIDENT OF NEW JERSEY, THIS SECTION DOES NOT APPLY TO PREVENT A RIGHT TO RECOVER CERTAIN DAMAGES (INCLUDING PUNITIVE DAMAGES) WHERE A HARMED PERSON PROVES WITH THE REQUIRED EVIDENCE THAT THE HARM SUFFERED WAS THE RESULT OF THE DEFENDANT'S "ACTS OR OMISSIONS AND SUCH ACTS OR OMISSIONS WERE ACTUATED BY ACTUAL MALICE OR ACCOMPANIED BY A WANTON AND WILLFUL DISREGARD OF PERSONS WHO FORESEEABLY MIGHT BE HARMED BY THOSE ACTS OR OMISSIONS." SIMILARLY, THIS SECTION DOES NOT LIMIT WISH'S TORT LIABILITY UNDER NEW JERSEY LAW RESULTING FROM WISHCONTEXTLOGIC'S OWN INTENTIONAL OR RECKLESS CONDUCT.
+IF YOU ARE A RESIDENT OF NEW JERSEY, THIS SECTION DOES NOT APPLY TO PREVENT A RIGHT TO RECOVER CERTAIN DAMAGES (INCLUDING PUNITIVE DAMAGES) WHERE A HARMED PERSON PROVES WITH THE REQUIRED EVIDENCE THAT THE HARM SUFFERED WAS THE RESULT OF THE DEFENDANT'S "ACTS OR OMISSIONS AND SUCH ACTS OR OMISSIONS WERE ACTUATED BY ACTUAL MALICE OR ACCOMPANIED BY A WANTON AND WILLFUL DISREGARD OF PERSONS WHO FORESEEABLY MIGHT BE HARMED BY THOSE ACTS OR OMISSIONS." SIMILARLY, THIS SECTION DOES NOT LIMIT WISH'S TORT LIABILITY UNDER NEW JERSEY LAW RESULTING FROM WISH'S OWN INTENTIONAL OR RECKLESS CONDUCT.
 
 IF YOU ARE A RESIDENT OF CALIFORNIA, YOU SHALL AND HEREBY DO WAIVE CALIFORNIA CIVIL CODE SECTION 1542, WHICH SAYS: "A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS THAT THE CREDITOR OR RELEASING PARTY DOES NOT KNOW OR SUSPECT TO EXIST IN HIS OR HER FAVOR AT THE TIME OF EXECUTING THE RELEASE AND THAT, IF KNOWN BY HIM OR HER, WOULD HAVE MATERIALLY AFFECTED HIS OR HER SETTLEMENT WITH THE DEBTOR OR RELEASED PARTY." IF YOU ARE NOT A CALIFORNIA RESIDENT, YOU WAIVE YOUR RIGHTS UNDER ANY STATUTE OR COMMON LAW PRINCIPLE SIMILAR TO SECTION 1542 THAT GOVERNS YOUR RIGHTS IN THE JURISDICTION OF YOUR RESIDENCE.
 
-15\. Indemnity
+14\. Indemnity
 --------------
 
 TO THE FULLEST EXTENT ALLOWED BY APPLICABLE LAWS, YOU AGREE TO INDEMNIFY, DEFEND AND HOLD WISH, ITS AFFILIATES, AND ITS AND THEIR OFFICERS, AGENTS, EMPLOYEES, HARMLESS FROM AND AGAINST ANY AND ALL ACTUAL OR ALLEGED DEMANDS, LITIGATION, ADMINISTRATIVE OR OTHER PROCEEDINGS, INVESTIGATIONS, INQUIRIES, CLAIMS, SUITS ("CLAIMS"), DAMAGES (ACTUAL AND CONSEQUENTIAL), PENALTIES, FINES, SETTLEMENTS, COSTS AND EXPENSES, INCLUDING ATTORNEYS' FEES, DISBURSEMENTS OF COUNSEL, COURT COSTS, AND COSTS OF ANY INESTIGATION, DEFENSE, AND SETTLEMENT, ARISING FROM OR RELATED TO TO (A) YOUR NON-COMPLIANCE WITH APPLICABLE LAWS; (B) YOUR ACTUAL OR ALLEGED BREACH OF ANY REPRESENTATIONS AND WARRANTIES YOU HAVE MADE; (C) YOUR PRODUCTS, SERVICES OR CONTENT, INCLUDING ANY ACTUAL OR ALLEGED INFRINGEMENT OR OTHER VIOLATION OF ANY INTELLECTUAL PROPERTY OR OTHER PROPRIETARY RIGHTS, VIOLATION OF ANY PRIVACY RIGHT, RIGHT OF PUBLICITY, OR THIRD PARTY AGREEMENT, VIOLATION OF ANY APPLICABLE LAWS, PERSONAL INJURY, DEATH, OR PROPERTY DAMAGE RELATED THERETO, USE ANY REPOSTING OF ANY CONTENT YOU PROVIDE, WISH'S EXERCISE OF THE LICENSE RIGHTS GRANTED TO WISH UNDER THIS AGREEMENT, YOUR BREACH OF THE WARRANTY SET FORTH IN SECTION 7 OR ANY SECURITY BREACH OR SECURITY INCIDENT WITH RESPECT TO ANY SYSTEM OR TECHNOLOGY OWNED, CONTROLLED OR USED BY YOU IN CONNECTION WITH THE SERVICES OR YOUR BUSINESS; (D) YOUR USE OF THE SERVICES (INCLUDING ANY ACTIONS TAKEN BY A THIRD PARTY USING YOUR ACCOUNT); (E) YOUR ACTS AND OMISSIONS; AND (F) YOUR TAXES (AS DEFINED BELOW).
@@ -509,12 +395,12 @@ YOU MAY NOT CONSENT TO THE ENTRY OF ANY JUDGMENT OR ENTER INTO ANY SETTLEMENT OF
 
 "Your Taxes" means any and all sales, goods and services, use, excise, premium, import, export, valueadded, consumption, and other taxes, regulatory fees, levies (specifically including environmental levies), or charges and duties assessed, incurred, or required to be collected or paid for any reason in connection with your use of the Services, any advertisement, offer or sale of products, services or Content by you on or through or in connection with the Services. This defined term also means any of the types of taxes, duties, levies, or fees mentioned above that are imposed on or collectible by Wish or any of its Affiliates in connection with or as a result of fulfillment services, including the storage of inventory or packaging of products, services, or Content and other materials owned by you and stored by Wish, shipping, or other actions by Wish. "Your Taxes", however, does not include any taxes collected and remitted by Wish as disclosed in the [Tax Policy](https://merchant.wish.com/tax/policy).
 
-16\. Insurance
+15\. Insurance
 --------------
 
 If requested by Wish, within 30 days after such request, you will maintain at your expense throughout the remainder of the Term general commercial, umbrella, or excess liability insurance with the limits per occurrence and in aggregate requested by us covering liabilities caused by or occurring in conjunction with the operation of your business, including products, products/completed operations, and bodily injury, with a policy or policies. At our request, you will provide Wish with certificates of insurance for the coverage.
 
-17\. Taxes; Legal Compliance
+16\. Taxes; Legal Compliance
 ----------------------------
 
 Except as set forth in Sections 17 and 18 herein, you are responsible for the calculation and collection of all applicable taxes associated with the sales you make using our Services.
@@ -525,7 +411,7 @@ Notwithstanding or limiting in any way the foregoing, you shall comply with all 
 
 Wish may require you to provide a valid tax registration number or any other documentation to sell on our marketplace.
 
-18\. Customs Duty and Indirect Taxes
+17\. Customs Duty and Indirect Taxes
 ------------------------------------
 
 In an effort to remain compliant with respective consumer legislations, we strongly encourage you to maintain good standing with respect to customs and indirect taxes, where applicable.
@@ -552,34 +438,34 @@ Where Applicable Laws state otherwise and Wish does not choose or is not require
 
 In an effort to maintain compliance with U.S. or international tax law, Wish may require you to provide a valid indirect tax registration number or any other document to sell on the Services.
 
-19\. Confidentiality
+18\. Confidentiality
 --------------------
 
 During the course of your use of the Services, you may receive information relating to Wish or to the Services that is confidential or should reasonably be considered confidential ("Confidential Information"). Confidential Information includes User Data, Wish's business plans, business processes, cost, pricing, marketing, sales, customer, and strategy information, and any additional information which we designate as "confidential" or with a similar marker, or if not so designated, would to a reasonable person be construed as Confidential. Confidential Information does not include information that you can prove (i) is in or becomes part of the public domain other than through an unauthorized or improper disclosure by you, (ii) is or was independently developed by you without reference to Confidential Information, or (iii) is or was lawfully received from a third party under no confidentiality obligation. You agree that: (a) all Confidential Information will remain Wish's exclusive property, as applicable; (b) you will use Confidential Information only as is reasonably necessary for authorized purposes under this Agreement; (c) you will not otherwise disclose Confidential Information to any other person or entity, unless required by Applicable Laws, provided that, to the extent reasonably practicable, prior written notice is given to us so that we may, in our discretion, seek a protective order or other relief from disclosure; provided, further, that you may disclose Confidential Information to your solely to your personnel, agents, or contractors who need to know such Confidential Information to carry out your obligations under this Agreement, so long as such personnel, agents, or contractors are subject to confidentiality obligations at least as strict as those contained here and you remain fully responsible for any unauthorized disclosure by such persons; and (d) you will take all reasonable measures to protect the Confidential Information against any use or disclosure that is not expressly permitted in this Agreement. If there is an actual or reasonably suspected breach of Confidential Information, you agree to notify Wish immediately upon your discovery of such breach and to cooperate fully in Wish's investigation, mitigation, and remediation of the breach. You are solely responsible for reimbursing Wish for any and all costs associated with a breach of Confidential Information. You may not issue any press release or make any public statement related to the Services, or use Wish's name, trademarks, or logo, in any way (including in promotional material) without our advance written permission, which may be granted solely in Wish's discretion.
 
-20\. Use of Wish Transaction Information
+19\. Use of Wish Transaction Information
 ----------------------------------------
 
 You will not, and will cause your Affiliates not to, directly or indirectly: (a) disclose any Wish Transaction Information (defined below), except that you may disclose such information solely as necessary for you to perform your obligations under this Agreement if you ensure that each recipient (i) uses the information solely to enable you to perform your obligations under this Agreement and (ii) complies with the restrictions and obligations applicable to you related to such information; (b) use any Wish Transaction Information for any marketing or promotional purposes whatsoever, or otherwise in any way inconsistent with Wish's [Privacy Policy](https://wish.com/privacy_policy) or any Applicable Laws; (c) contact a person or entity that has ordered your product, service, or Content with the intent to collect any amounts in connection therewith or to influence that person or entity to make an alternative transaction; (d) disparage us, our Affiliates, or any of our or their respective products or services or any user; or (e) target communications of any kind on the basis of the intended recipient being a user of the Services. In addition, you may only use tools and methods that we designate to communicate with users of the Services regarding transactions, including for the purpose of scheduling, communicating, or canceling the fulfillment of products, services, or Content. "Wish Transaction Information" means User Data, order information, and any other data or information acquired by you or your Affiliates from Wish, its Affiliates, or otherwise as a result of this Agreement, the transactions contemplated by this Agreement, or the parties' performance under this Agreement.
 
-21\. Relationship of the Parties
+20\. Relationship of the Parties
 --------------------------------
 
 You are an independent contractor and nothing in this Agreement creates any partnership, joint venture, agency, franchise, sales representative, or employment relationship between you and Wish. You have no authority to make or accept any offers or representations on Wish's behalf. This Agreement does not create an exclusive relationship between you and Wish. Nothing expressed, mentioned in, or implied from this Agreement is intended or will be construed to give to any person other than the parties to this Agreement any legal or equitable right, remedy, or claim under or in respect to this Agreement. This Agreement and all of the representations, warranties, covenants, conditions, and provisions in this Agreement are intended to be and are for the sole and exclusive benefit of Wish, you, and/or Wish's users, as applicable. You are solely responsible for all obligations associated with the use of any third party service or feature that you permit us to use on your behalf, including compliance with any applicable terms of use. You will not make any statement, whether on your site or otherwise, that would contradict anything in this Section.
 
-22\. Choice of Law; Jurisdiction and Venue
+21\. Choice of Law; Jurisdiction and Venue
 ------------------------------------------
 
-Jurisdiction and venue of any matter not subject to arbitration, as stated in Section 8, shall reside exclusively in Amsterdam, Netherlands, and nowhere else, except that any action to enforce a judgment may be brought in any court of competent jurisdiction.
+Jurisdiction and venue of any matter not subject to dispute resolution , as stated in Section 8, shall reside exclusively in Amsterdam, Netherlands, and nowhere else, except that any action to enforce a judgment may be brought in any court of competent jurisdiction.
 
 This Agreement is to be construed in accordance with and governed by the substantive law of the Netherlands, without regard to its choice of law principles.
 
-23\. Suggestions and Other Information
+22\. Suggestions and Other Information
 --------------------------------------
 
 If you or any of your Affiliates elect to provide or make available suggestions, comments, ideas, improvements, or other feedback or materials to us (collectively, "Submissions"), Wish will consider such Submissions to be non-confidential and non-proprietary. Wish shall have no obligations concerning the Submissions, and Wish will be free to, and you hereby grant to Wish a royalty-free, non-exclusive, worldwide, perpetual, sublicensable (through multiple tiers), irrevocable right and license to, use, disclose, reproduce, perform, display, transfer and otherwise distribute, synchronize, broadcast, adapt, modify, excerpt, analyze, re-format, create derivative works of and otherwise commercially or non-commercially exploit any of the foregoing Submissions in any manner, in any medium and in any format and for any purpose, including for the advertising, marketing, or promotion of Wish, any Services or any future product or service, without any restriction or compensation to you. If we make suggestions on using the Services, you are responsible for any actions you take based on our suggestions.
 
-24\. General
+23\. General
 ------------
 
 ### Electronic Communications
@@ -604,7 +490,7 @@ No waiver by Wish or any of its Affiliates of any term or condition set out in t
 
 ### Severability
 
-If any provision of the Agreement, including but not limited to the Arbitration Agreement, in its current form or as may be amended, is found to be invalid or unenforceable for any reason, such provision shall be severed, and the severed provision shall be reformed only to the extent necessary to make it enforceable. The balance of the Agreement will remain in full force and effect.
+If any provision of the Agreement, including but not limited to the Dispute Resolution, in its current form or as may be amended, is found to be invalid or unenforceable for any reason, such provision shall be severed, and the severed provision shall be reformed only to the extent necessary to make it enforceable. The balance of the Agreement will remain in full force and effect.
 
 ### Survival
 
