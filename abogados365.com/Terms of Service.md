@@ -142,7 +142,7 @@ Condiciones generales de uso del servicio de Ofertas y Promociones de abogados36
 
 Los descuentos, pruebas gratuitas y otras ofertas y promociones que los USUARIOS incluyen en abogados365.com son de la entera responsabilidad del USUARIO que la incluye. Todo lo relativo a eventuales incumplimientos de contrato o de los compromisos publicitarios adquiridos, pago del servicio disfrutado, devoluciones, etc. corresponde al USUARIO.
 
-Los usuarios se abstendrán de emitir opiniones ofensivas o en contra de la legalidad. Será responsabilidad del usuario la veracidad de las opiniones emitidas VERTICALES INTERCOM, S.L. podrá en todo caso eliminar o no mostrar cualquier opinión que pueda resultar inadecuada para el correcto funcionamiento del Sitio Web.
+Los usuarios se abstendrán de emitir opiniones ofensivas o en contra de la legalidad. Será responsabilidad del usuario la veracidad de las opiniones emitidas VERTICALES INTERCOM, S.L. podrá en todo caso eliminar o no mostrar cualquier opinión que pueda resultar inadecuada para el correcto funcionamiento del Sitio Web. Se informa a los usuarios que para los profesionales no premium sólo serán visibles las tres primeras opiniones publicadas.
 
 Condiciones generales de uso del servicio de Citas de abogados365.com
 ---------------------------------------------------------------------
