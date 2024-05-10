@@ -3,7 +3,7 @@ Introductory Notes
 
 _Important Note:_ This Merchant Terms of Service and Agreement applies to merchants who reside in the European Union and the United Kingdom. (Please find the Merchant Terms of Service and Agreement for China [here](https://merchant.wish.com/terms-of-service?country=CN&version=6), and the Merchant Terms of Service and Agreement for anywhere other than the European Union, and the United Kingdom, and China [here](https://merchant.wish.com/terms-of-service?country=NA&version=6).)
 
-Though the following may be translated into other languages, the version of this Merchant Terms of Service and Agreement in English is the definitive legal version. This Merchant Terms of Service and Agreement was updated on December 6, 2023, and is effective upon new users as of that date. If you registered before December 6, 2023, your use of the Services will be governed by the terms below as of January 7, 2024. To view the previous terms, click [here](https://merchant.wish.com/terms-of-service?version=5).
+This Merchant Terms of Service and Agreement was updated on May 13, 2024, and is effective upon new users as of that date.
 
 The above “Important Note” constitutes an integral part of this Merchant Terms of Service and Agreement. 
 
