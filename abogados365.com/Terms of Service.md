@@ -196,7 +196,7 @@ Razón social
 
 **Verticales Intercom, S.L.**  
 Titular del sitio web abogados365.com  
-Dirección: Sant Cugat Trade Center Av. Corts Catalanes, 5-7 - Oficina A-0408173  
+Dirección: Av. Alcalde Barnils, 72, Planta Baja,  
 08174 Sant Cugat del Vallès (Barcelona), España  
 **N.I.F. :** B-64724131 Inscrita en el Registro Mercantil de Barcelona, T. 40097, F.214, H. B 360009.  
 Fecha inscripción 05/12/2007
