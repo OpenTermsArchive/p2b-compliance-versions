@@ -3,7 +3,7 @@ This article applies to selling in: **France**
 Amazon Services Europe Business Solutions Agreement
 ===================================================
 
-Last updated: March 13, 2024
+Last updated: May 29, 2024
 
 The version of this Agreement in English is the definitive legal version. Translations into [German](https://m.media-amazon.com/images/G/08/BSA/BSA_amended_ENG_German_clean.pdf), [French](https://sellercentral.amazon.fr/gp/help/external/201190440?language=fr_FR&ref=efph_201190440_cont_201190440), [Italian](https://m.media-amazon.com/images/G/08/BSA/BSA_amended_ENG_Italian_clean.pdf), [Spanish](https://m.media-amazon.com/images/G/08/BSA/BSA_amended_ENG_Spanish_clean.pdf), [Dutch](https://m.media-amazon.com/images/G/08/BSA/BSA_amended_ENG_Dutch_clean.pdf), [Swedish](https://m.media-amazon.com/images/G/08/BSA/BSAamended_ENG_Swedish_clean.pdf), [Polish](https://m.media-amazon.com/images/G/08/BSA/BSA_amended_ENG_Polish_Clean.pdf) [and](https://sellercentral.amazon.pl/gp/help/external/201190440?ref_=xx_swlang_head_xx&mons_sel_locale=pl_PL&languageSwitched=1) [Chinese (中文)](https://m.media-amazon.com/images/G/08/BSA/BSA_amended_ENG_Chinese_clean.pdf) are available for your ease of reference only.
 
@@ -52,7 +52,7 @@ Both parties are only liable for damages suffered as a result of willful miscond
 
 **8\. Insurance**
 
-If the gross proceeds from sales of Your products processed through the Fulfilment by Amazon Service exceed the applicable Insurance Threshold during each month over any period of three (3) consecutive months, or otherwise if requested by us, then within thirty (30) days thereafter, you will maintain at your expense throughout the remainder of the Term public third party liability insurance in connection with each Amazon Site with at least the Insurance Limits per occurrence/aggregate covering liabilities caused by or occurring in conjunction with the operation of your business in connection with such Amazon Site, including products liability and bodily injury, with policy (ies) naming Amazon and its assignees as additional insureds.  At our request, you will provide to us certificates of insurance evidencing the **coverage required by this Section 8** to the following address_: **Amazon Services Europe S.à r.l., 38 avenue John F. Kennedy, L-1855 Luxembourg, Attn: Risk Management**_; and with a copy to_:  **c/o Amazon, P.O. Box 81226, Seattle, WA 98108- 1226, USA, Attention: Risk Management**._ 
+If the gross proceeds from Your Transactions exceed the applicable Insurance Threshold during any month, or otherwise if requested by us, then within thirty (30) days thereafter, you will maintain at your expense throughout the remainder of the Term, public third party liability insurance in connection with each Amazon Site with at least the Insurance Limits per occurrence/aggregate covering liabilities caused by or occurring in conjunction with the operation of your business in connection with such Amazon Site, including products liability and bodily injury, with policy (ies) naming Amazon and its assignees as additional insureds.  At our request, you will provide to us certificates of insurance evidencing the **coverage required by this Section 8** to the following address_: **Amazon Services Europe S.à r.l., 38 avenue John F. Kennedy, L-1855 Luxembourg, Attn: Risk Management**_; and with a copy to_:  **c/o Amazon, P.O. Box 81226, Seattle, WA 98108- 1226, USA, Attention: Risk Management**._ 
 
 **9\. Tax Matters**
 
@@ -437,7 +437,7 @@ Upon any suspension or termination of your access to the Selling Partner APIs an
 
 **API-4 Modifications to the Selling Partner APIs and the API Materials**
 
-We may change or discontinue the Selling Partner APIs or the API Materials (including by changing or removing features or functionality of the Selling Partner APIs or the API Materials) from time to time. For any material changes that will negatively affect your business, we will provide notice under Section 17.
+We may change or discontinue the Selling Partner APIs or the API Materials (including by changing or removing features or functionality of the Selling Partner APIs or the API Materials) from time to time. For any material changes that will negatively affect your business, we will provide notice under Section 17 of the Business Solutions Agreement.
 
 Amazon Services Europe Business Solutions Agreement
 ---------------------------------------------------
