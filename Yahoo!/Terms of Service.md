@@ -283,4 +283,4 @@ _In June 2017, we announced that Yahoo and AOL joined to become a unified digita
                 1. If you are a representative of a Member State of the European Union, the European Commission or the European Board for Digital Services you can communicate with us at the following email address: dsa@yahooinc.com. Our preferred language of communication is English.
                 2. If you are a user residing within the European Union, you can use our [contact form](https://uk.help.yahoo.com/kb/account?locale=en_GB&sclb=1&ct=TOP_HIDE_INHELP_EMEA_DSA&sbct=ISS_EMEA_DSA).
 
-_Last updated: 31 January, 2024_
+_Last updated: 27 May, 2024_
