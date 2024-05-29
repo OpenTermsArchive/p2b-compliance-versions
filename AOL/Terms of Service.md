@@ -481,11 +481,13 @@ _In June 2017, we announced that Yahoo and AOL joined to become a unified digita
                 
                 1. For AOL Mail, OneSearch, Yahoo Autos, Yahoo Charity, Yahoo Dictionary, Yahoo Esports, Yahoo Finance, Yahoo Games, Yahoo House, Yahoo Mail, Yahoo Money, Yahoo Movies, Yahoo News, Yahoo Search,  Yahoo Sports, Yahoo Stock, Yahoo Style, Yahoo Travel, Yahoo TV, Yahoo Weather, and Aviate the Applicable Yahoo Entity is Yahoo! Digital Marketing Co., Ltd.  (Address: 15F, No.66 Sanchong Rd, Nangang District, Taipei, 115, Taiwan) and the following terms apply: (a) the Terms and the relationship between you and Yahoo! Digital Marketing Co., Ltd. will be governed by the laws of the Republic of China (R.O.C.) without regard to its conflict of law provisions, and (b) you and Yahoo! Digital Marketing Co., Ltd. agree to submit to the exclusive jurisdiction of the Taipei District Court located in Taiwan, R.O.C
                     
-                2. For other Services:
+                2. For Yahoo Auctions, Yahoo Shopping and Yahoo Used Cars are provided by provided by Yahoo! Taiwan Holdings Limited, Taiwan Branch (Address: 14F, No.66 Sanchong Rd, Nangang District, Taipei, 115, Taiwan) and the following terms apply: (a) the Terms and the relationship between you and Yahoo! Taiwan Holdings Limited, Taiwan Branch will be governed by the laws of the Republic of China (R.O.C.) without regard to its conflict of law provisions, and (b) you and Yahoo! Taiwan Holdings Limited, Taiwan Branch agree to submit to the exclusive jurisdiction of the Taipei District Court located in Taiwan, R.O.C.
                     
-                    1. the Applicable Yahoo Entity is the Yahoo Entity that is specified to be the provider in respect of a specific Service, and the Terms and the relationship between you and the Applicable Yahoo Entity will be governed by the laws of the place of incorporation of the Applicable Yahoo Entity; or
+                3. For other Services:
+                    
+                    1. The Applicable Yahoo Entity is the Yahoo Entity that is specified to be the provider in respect of a specific Service, and the Terms and the relationship between you and the Applicable Yahoo Entity will be governed by the laws of the place of incorporation of the Applicable Yahoo Entity; or
                         
-                    2. if no Yahoo Entity is specified to be the provider in respect of a specific Service, the Applicable Yahoo Entity is Yahoo Inc. (Address: 770 Broadway, New York, NY 10003, USA), and for such Services the terms of Section 14.2 (United States) apply.
+                    2. If no Yahoo Entity is specified to be the provider in respect of a specific Service, the Applicable Yahoo Entity is Yahoo Inc. (Address: 770 Broadway, New York, NY 10003, USA), and for such Services, the terms of Section 14.2 (United States) apply.
                         
             2. Minimum Age: 13 years old
                 
@@ -569,4 +571,4 @@ _In June 2017, we announced that Yahoo and AOL joined to become a unified digita
                 1. If you are a representative of a Member State of the European Union, the European Commission or the European Board for Digital Services you can communicate with us at the following email address: dsa@yahooinc.com. Our preferred language of communication is English.
                 2. If you are a user residing within the European Union, you can use our [contact form](https://uk.help.yahoo.com/kb/account?locale=en_GB&sclb=1&ct=TOP_HIDE_INHELP_EMEA_DSA&sbct=ISS_EMEA_DSA).
 
-_Last updated: 31 January, 2024_
+_Last updated: 27 May, 2024_
