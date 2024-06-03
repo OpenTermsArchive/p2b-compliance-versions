@@ -702,4 +702,4 @@ Verovškova ulica 55
 
 Davčna števila: 58257551
 
-Ljubljana, 16\. 02. 2024
+Ljubljana, 31\. 5. 2024
