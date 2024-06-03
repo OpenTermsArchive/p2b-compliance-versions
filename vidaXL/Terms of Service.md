@@ -9,26 +9,45 @@ Actualizado: 2024-04-16
 
 ### **Índice**
 
-1. Artículo   1 – Definiciones
-2. Artículo   2 – Identidad del comerciante
-3. Artículo   3 – Aplicabilidad
-4. Artículo   4 – La oferta
-5. Artículo   5 – El contrato
-6. Artículo   6 – Derecho de desistimiento
-7. Artículo   7 – Obligaciones del cliente en caso de desistimiento
-8. Artículo   8 – Los consumidores que ejercen su derecho de desistimiento y los costes que conlleva
-9. Artículo   9 – Obligaciones del comerciante en caso de desistimiento
-10. Artículo 10 – Exclusión del derecho de desistimiento
-11. Artículo 11 – El precio
-12. Artículo 12 – Cumplimiento del contrato y la garantía adicional
-13. Artículo 13 – Entrega e implementación
-14. Artículo 14 – Transacciones de duración, terminación y prolongación
-15. Artículo 15 – El pago
-16. Artículo 16 – Procedimiento de quejas
-17. Artículo 17 – Conflictos
-18. Artículo 18 – Garantía de la sucursalde Shopping secure (Thuiswinkel.org)
-19. Artículo 19 – Términos adicionales o diferentes
-20. Artículo 20 – Modificación de las condiciones generales
+Artículo   1 – Definiciones
+
+Artículo   2 – Identidad del comerciante
+
+Artículo   3 – Aplicabilidad
+
+Artículo   4 – La oferta
+
+Artículo   5 – El contrato
+
+Artículo   6 – Derecho de desistimiento
+
+Artículo   7 – Obligaciones del cliente en caso de desistimiento
+
+Artículo   8 – Los consumidores que ejercen su derecho de desistimiento y los costes que conlleva
+
+Artículo   9 – Obligaciones del comerciante en caso de desistimiento
+
+Artículo 10 – Exclusión del derecho de desistimiento
+
+Artículo 11 – El precio
+
+Artículo 12 – Cumplimiento del contrato y la garantía adicional
+
+Artículo 13 – Entrega e implementación
+
+Artículo 14 – Transacciones de duración, terminación y prolongación
+
+Artículo 15 – El pago
+
+Artículo 16 – Procedimiento de quejas
+
+Artículo 17 – Conflictos
+
+Artículo 18 – Garantía de la sucursalde Shopping secure (Thuiswinkel.org)
+
+Artículo 19 – Términos adicionales o diferentes
+
+Artículo 20 – Modificación de las condiciones generales
 
 ### **Artículo 1 – Definiciones**
 
