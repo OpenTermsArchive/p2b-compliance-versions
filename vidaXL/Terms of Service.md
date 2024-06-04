@@ -634,7 +634,7 @@ Artículo 12 - Varios
 
 _Adjunto(s) archivo(s)_
 
-[Términos y Condiciones](https://www.vidaxl.es/on/demandware.static/-/Library-Sites-vidaXLSharedLibrary/default/dw353f305d/Documents/terms_conditions/ES.pdf)
+[Términos y Condiciones](https://www.vidaxl.es/on/demandware.static/-/Library-Sites-vidaXLSharedLibrary/default/dw1228577f/Documents/terms_conditions/ES.pdf)
 
 [Términos y Condiciones Generales de Subastas](https://www.vidaxl.es/on/demandware.static/-/Library-Sites-vidaXLSharedLibrary/default/dw44535fde/Documents/terms_conditions_auctions/ES.pdf)
 
