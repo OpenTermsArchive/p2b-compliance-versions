@@ -92,6 +92,8 @@ When registering as a guide or agency on the **GURUWALK** website, you agree to 
 
 These terms and conditions may be updated and ratified again prior to the hosting of a tour, at any time.
 
+The cancellation policy may vary in destinations where there are specific agreements with different suppliers.
+
 * ****GURUWALK** IDENTIFICATION**
     
 
