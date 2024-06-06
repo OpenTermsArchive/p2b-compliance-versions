@@ -1,4 +1,4 @@
-**v2312\_E\_i**
+**v2405\_E\_i**
 
 ### General Delivery Terms
 
@@ -128,9 +128,9 @@ These general delivery terms including the Annexes (the "**Terms**"), supplement
 
 "**Messaging Service**" means the service that Booking.com may from time to time provide as part of its service to the Guest and to the Accommodation to facilitate communication between the Guest, the Accommodation and Booking.com.
 
-"**Narrow Parity Countries**" means Armenia, Australia, Brazil, China, all countries within the European Economic Area (except for No Parity Countries), Georgia, Hong Kong, Israel, Japan, South Korea, Turkey, the United Kingdom, New Zealand and/or such other jurisdictions as from time to time indicated by Booking.com.
+"**Narrow Parity Countries**" means the following countries and regions: Armenia, Australia, Brazil, China, Georgia, the Hong Kong Special Administrative Region of the People’s Republic of China, Israel, Japan, South Korea, Turkey, the United Kingdom, New Zealand and/or such other jurisdictions as from time to time indicated by Booking.com.
 
-"**No Parity Countries**" means Austria, Belgium, France, Germany, Italy, Russia, Switzerland and/or such other jurisdictions as from time to time indicated by Booking.com.
+"**No Parity Countries**" means all countries and regions within the European Economic Area, Russia, Switzerland, and/or such other jurisdictions as from time to time indicated by Booking.com.
 
 “**Partner Hub**” means Booking.com’s partner help center (partner.booking.com) where Booking.com offers additional support and information for Accommodations.
 
@@ -152,9 +152,9 @@ These general delivery terms including the Annexes (the "**Terms**"), supplement
 
 "**Unpublished**" means not Published Online.
 
-"**We Price Match**" means the guarantee issued by Booking.com (under this or any other name) stating that Booking.com offers the best rate for a room and that no lower rate can be found online for the equivalent room with the same check-in and check-out dates and the same booking conditions.
+"**We Price Match**" means the guarantee issued by Booking.com (under this or any other name) to the Guest stating that Booking.com will match the best rate for an equivalent room in the same Accommodation with the same check-in and check-out dates and the same booking conditions, including room type, bed type, number of guests, amenities and add-ons (such as breakfast, wifi, early/late check-out), restrictions and policies (such as reservation changes and cancellation policy).
 
-"**Wide Parity Countries**" means all countries, with the exception of Narrow Parity Countries and No Parity Countries.
+"**Wide Parity Countries**" means all countries and regions, with the exception of Narrow Parity Countries and No Parity Countries.
 
 1.2 Unless the context requires otherwise, words in the singular shall include the plural and words in the plural shall include the singular.
 
@@ -268,7 +268,7 @@ The Commission will be calculated in accordance with the confirmed booking as pr
 
 (ii) act as intermediary between the Accommodation and a Guest; and
 
-(iii) provide at the Accommodation’s expense alternative accommodation of an equal or better standard in the event of an overbooking or other material irregularity or complaint in relation to the Accommodation.
+(iii) provide compensation to the Guest in the event of a material irregularity or complaint in relation to the Accommodation, or may provide alternative accommodation of an equal or better standard in the event of an overbooking, each at the Accommodation’s expense.
 
 2.5.6 Where Booking.com is entitled to Rate and Conditions Parity or Rate Parity and a Guest has a valid claim under We Price Match, Booking.com shall promptly notify the Accommodation of the relevant details of the claim. The Accommodation shall immediately adjust the rates available on the Platform so that the lower rate is available for further bookings. The Accommodation shall also immediately adjust the rate in the reservation made by the Guest who brought the claim. When the Guest checks-out, the Accommodation shall offer the room at the lower rate and shall either (i) settle the difference between the booked rate and the lower rate by charging the Guest for the lower rate, or (ii) refund (in cash) the Guest the difference between the two rates.
 
@@ -900,7 +900,7 @@ https://admin.booking.com/hotelreg/terms-and-conditions.html?cc1=nl&lang=en.
 
 (ii) the Taxes on the Commission.
 
-5.2 If pursuant to Clause 4.1 of this Annex, Booking.com uses the Room Price collected from a Guest (as the limited purpose agent of the Accommodation) for the settlement and payment of any Commission, Facilitated Payment Fees and/or other amount due and outstanding from the Accommodation, the Accommodation shall nevertheless remit an amount equal to the full amount of tax collected as part of the Room Price to the appropriate tax authority.
+5.2 If pursuant to Clause 4.1 of this Annex, Booking.com uses the Room Price collected from a Guest (as the limited purpose agent of the Accommodation) for the settlement and payment of any Commission, Facilitated Payment Fees and/or other amount due and outstanding from the Accommodation, the Accommodation shall nevertheless remit to the appropriate tax authority all Taxes owed in relation to that Guest Reservation, except where mandatory state or local law requires that Booking.com performs such collection and remittance. Where Booking.com is required to collect and remit Taxes directly to the appropriate tax authority, Booking.com will do so, and will inform the Accommodation accordingly.
 
 6\. General Rules Related to Any Transfer
 
