@@ -46,15 +46,15 @@ Listele pot fi:
 
 **Continut ilegal** – orice fel de Continut care nu respecta reglementarile legale in vigoare sau prezentul Document.Pentru mai multe detalii despre tipurile de Continut ilegal, precum si despre procedura de semnalare a suspiciunilor cu privire la un potential Continut ilegal afisat in Site, a se consulta sectiunea „_[Regulamentul privind serviciile digitale (Digital Service Act)](https://www.emag.ro/help/categorie/servicii/servicii-digitale/)_”.
 
-**_Review_** _– o evaluare scrisa de catre un Utilizator sau Cumparatorul unui Bun sau Serviciu, evaluare redactata pe baza experientei personale si a capacitatii acestuia de a realiza comentarii calitative și de a spune daca Bunul sau Serviciul respecta sau nu specificatiile mentionate de catre producator**, cu exceptia Bunurilor, produselor, din categoria “Tutun&tigari”, in acord cu dispozitiile legale in vigoare**.__Prezenta exceptie nu se va aplica la Bunurile din „_[_Articole si accesorii tutun_](https://www.emag.ro/articole-si-accesorii-tutun/c?tree_ref=2219&ref=cat_tree_2724)_“._
+**_Review_** _– o evaluare scrisa de catre un Utilizator sau Cumparatorul unui Bun sau Serviciu, evaluare redactata pe baza experientei personale si a capacitatii acestuia de a realiza comentarii calitative și de a spune daca Bunul sau Serviciul respecta sau nu specificatiile mentionate de catre producator._
 
-**_Rating_** _– modalitate de exprimare a gradului de satisfactie a unui Utilizator /Cumparator fata de un produs, **cu exceptia celor din categoria “Tutun&tigari”, in acord cu dispozitiile legale in vigoare**. Exceptia nu este aplicabila pentru produsele din “Articole si accesorii tutun”. Rating-ul se exprima sub forma de stele, fiecare Bun sau Serviciu putand primi un punctaj de la o stea, la cinci stele. Acest grad de satisfactie va fi asociat intotdeauna Review-ului  unui Bun sau Serviciu in acord cu prezentul Document._
+**_Rating_** _– modalitate de exprimare a gradului de satisfactie a unui Utilizator /Cumparator fata de un produs. Rating-ul se exprima sub forma de stele, fiecare Bun sau Serviciu putand primi un punctaj de la o stea, la cinci stele. Acest grad de satisfactie va fi asociat intotdeauna Review-ului  unui Bun sau Serviciu in acord cu prezentul Document._
 
-**_Comentariu_** _– apreciere sau observatie cu scop critic a unui Utilizator /Cumparator , pe marginea unui Review sau a unui alt comentariu. **In acord cu dispozitiile legale in vigoare, sunt excluse de la Comentarii, Bunurile din categoria “Tutun&tigari”, cu exceptia produselor din “Articole si accesorii tutun”.**_
+**_Comentariu_** _– apreciere sau observatie cu scop critic a unui Utilizator /Cumparator , pe marginea unui Review sau a unui alt comentariu._ 
 
-**_Intrebare_** _– formula de adresare catre alti Utilizatori /Cumparatori cu scopul de a obtine informatii despre Bunurile sau Serviciile din pagina respectiva, **cu exceptia Bunurilor din categoria “Tutun&tigari” in acord cu dispozitiile legale incidente.**_ _Prezenta exceptie nu se va aplica la Bunurile din „_[_Articole si accesorii tutun_](https://www.emag.ro/articole-si-accesorii-tutun/c?tree_ref=2219&ref=cat_tree_2724)_“._
+**_Intrebare_** _– formula de adresare catre alti Utilizatori /Cumparatori cu scopul de a obtine informatii despre Bunurile sau Serviciile din pagina respectiva._
 
-**_Raspuns_** _– informatie scrisa ce este transmisa Utilizatorului /Cumparatorului care a adresat o Intrebare in Site, in pagina unui anumit Bun. Raspunsul reprezinta o explicatie oferita de un Utilizator /Cumparator unui alt Utilizator /Cumparator in cadrul unei discutii. **Prin exceptie, Utilizatorul /Cumparatorul nu va putea transmite intrebari, comentarii, raspunsuri in legatura cu Bunurile din categoria “Tutun&tigari” nefiind permise de asemenea Review-urile, ori Ratingurile acestora, in acord cu dispozitiile legale din Romania. Exceptia anterioara nu va fi aplicabila in cazul Bunurilor din** “Articole si accesorii tutun”**.**_
+**_Raspuns_** _– informatie scrisa ce este transmisa Utilizatorului /Cumparatorului care a adresat o Intrebare in Site, in pagina unui anumit Bun. Raspunsul reprezinta o explicatie oferita de un Utilizator /Cumparator unui alt Utilizator /Cumparator in cadrul unei discutii._ 
 
 **Document** – prezentele Termene si Conditii.
 
@@ -436,7 +436,7 @@ eMAG eMAG isi rezervă dreptul de a actualiza și modifica periodic prezentul Do
 
 16\. **SCRIEREA DE REVIEW-URI, COMENTARII, INTREBARI SI RASPUNSURI**
 
-Utilizatorii/Clientii/Cumparatorii au posibilitatea sa scrie Review-uri, Comentarii, Intrebari si Raspunsuri cu privire la Bunurile si Serviciile comercializate pe Site. Pentru mai multe detalii cu privire la scrierea de Review-uri, Comentarii, Intrebari si Raspunsuri, tipurile de Recenzii/Review-uri/Rating, principiile de moderare pe Site, va rugam sa consultati _Ghidul Review-urilor/Receziilor Bunurilor si Serviciilor_.Mai multe informatii [aici](https://www.emag.ro/help/wp-content/uploads/2024/02/Product_review_guide_DSA_13022024.pdf).
+Utilizatorii/Clientii/Cumparatorii au posibilitatea sa scrie Review-uri, Comentarii, Intrebari si Raspunsuri cu privire la Bunurile si Serviciile comercializate pe Site. Pentru mai multe detalii cu privire la scrierea de Review-uri, Comentarii, Intrebari si Raspunsuri, tipurile de Recenzii/Review-uri/Rating, principiile de moderare pe Site, va rugam sa consultati _Ghidul Review-urilor/Receziilor Bunurilor si Serviciilor_.Mai multe informatii [aici](https://www.emag.ro/help/wp-content/uploads/2024/06/Product_review_guide.docx).
 
 17 . **PRELUCRAREA DATELOR CU CARACTER PERSONAL**
 
