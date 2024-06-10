@@ -2,7 +2,7 @@ Privalia | 1
 
 
 
-Actualizado el 9 de abril de 2024
+Actualizado el 27 de mayo de 2024
 
 
 
@@ -1260,13 +1260,21 @@ El Servicio Premium ofrece gastos de envío gratis durante tres (3) meses (90 d�
 
 compras, salvo los límites indicados más adelante y acceso a campañas seleccionadas el día previo a
 
-su apertura en Escaparate. El Servicio podrá contratarse y renovarse en cualquier momento desde el
+su apertura en Escaparate. El Servicio Premium podrá contratarse, desde el apartado “Servicio
 
-apartado “Servicio Premium” en “Mi cuenta”, pagando el importe indicado por Privalia, y,
+Premium” en “Mi cuenta” hasta el día 16 de junio de 2024, como fecha límite, pagando el importe
 
-adicionalmente, en determinadas ocasiones, al finalizar la realización de un pedido, pagando un
+indicado por Privalia, y, en determinadas ocasiones y también únicamente hasta la fecha mencionada
 
-importe adicional a la compra y marcando la casilla de contratación del servicio.
+anteriormente, al finalizar la realización de un pedido, pagando un importe adicional a la compra y
+
+marcando la casilla de contratación del servicio. De conformidad con lo anterior, a partir del 17 de junio
+
+de 2024, el Servicio Premium dejará de estar disponible para su contratación o renovación, sin perjuicio
+
+de que los Clientes que lo hayan contratado con antelación a dicha fecha, mantendrán los beneficios
+
+del Servicio Premium hasta la finalización del plazo de tres (3) meses (90 días) desde su suscripción.
 
 
 
@@ -1276,13 +1284,13 @@ no se aplicará en los gastos de envío de ese pedido, sino a partir de la sigui
 
 se cumplan las condiciones del servicio.
 
+Privalia | 15
+
 
 
 Una vez realizada la solicitud de contratación del Servicio Premium, Privalia enviará al Cliente un email
 
 de confirmación y a partir de ese momento se activará automáticamente en la cuenta del Cliente.
-
-Privalia | 15
 
 
 
@@ -1386,11 +1394,9 @@ Privalia | 16
 
 El Cliente deberá realizar el pago mediante tarjeta de crédito o de débito Visa, MasterCard, American
 
-Express, Visa Electrón y/u otras tarjetas análogas, mediante el sistema de PayPal, mediante
+Express, Visa Electrón y/u otras tarjetas análogas, mediante el sistema de PayPal, mediante Apple
 
-transferencia bancaria utilizando el sistema de Klarna “Paga Ahora” o el servicio de pago aplazado de
-
-Klarna, mediante Apple Pay o a través del servicio de pago aplazado Oney.
+Pay o a través del servicio de pago aplazado de Klarna u Oney.
 
 
 
@@ -1412,41 +1418,21 @@ Klarna
 
 
 
-Los servicios de Klarna que se indican a continuación son ofrecidos por Klarna Bank AB (publ),
+El servicio de Klarna que se indica a continuación es ofrecido por Klarna Bank AB (publ), Sveavägen
 
-Sveavägen 46, 111 34 Estocolmo, Suecia (en adelante “Klarna”), empresa sueca inscrita en el Registro
+46, 111 34 Estocolmo, Suecia (en adelante “Klarna”), empresa sueca inscrita en el Registro Mercantil
 
-Mercantil de Suecia con el número 556737-0431 y con teléfono +34 911 391 220. Klarna está
+de Suecia con el número 556737-0431 y con teléfono +34 911 391 220. Klarna está autorizado a
 
-autorizado a prestar servicios financieros por Finansinspektionen (la Autoridad de Supervisión
+prestar servicios financieros por Finansinspektionen (la Autoridad de Supervisión Financiera de Suecia)
 
-Financiera de Suecia) y se encuentra registrada en el Banco de España para llevar a cabo sus servicios
+y se encuentra registrada en el Banco de España para llevar a cabo sus servicios en España bajo el
 
-en España bajo el número 673. Para más información sobre este servicio véase
-
-https://www.klarna.com/es/legal/.
+número 673. Para más información sobre este servicio véase https://www.klarna.com/es/legal/.
 
 
 
-Klarna ofrece los siguientes servicios:
-
-
-
-- “Paga Ahora”
-
-
-
-Para utilizar el servicio de transferencia bancaria de Klarna “Paga Ahora”, el Cliente tendrá que
-
-aceptar las condiciones legales, de privacidad y de cookies de Klarna e indicar el banco a través
-
-del cual el Cliente quiere llevar a cabo la transferencia bancaria. Una vez hecho, el Cliente será
-
-redirigido a la página web de dicho banco para finalizar la compra.
-
-
-
-- Pago aplazado (“Paga en 3 plazos”)
+Klarna ofrece el siguiente servicio de pago aplazado (“Paga en 3 plazos”):
 
 
 
@@ -1458,9 +1444,9 @@ El servicio de pago aplazado de Klarna (“Paga en 3 plazos”) es un aplazamien
 
 reembolsos fraccionados de hasta un máximo de sesenta (60) días, que permite a los Clientes
 
-consumidores residentes en España pagar la compra de Productos en tres (3) plazos, con cargo a
+consumidores residentes en España pagar la compra de Productos en tres (3) plazos, con cargo a una
 
-una tarjeta de pago válida a nombre del Cliente.
+tarjeta de pago válida a nombre del Cliente.
 
 
 
@@ -1476,67 +1462,63 @@ Operación
 
 
 
-El importe del crédito se establecerá en euros y corresponderá al importe de la operación (valor de
+El importe del crédito se establecerá en euros y corresponderá al importe de la operación (valor de la
 
-la compra) más los gastos de envío, impuestos, conversión de divisas si procede, así como
+compra) más los gastos de envío, impuestos, conversión de divisas si procede, así como cualesquiera
+
+otras comisiones o gastos cargados por Privalia. El primer pago se cargará cuando Privalia confirme
+
+la compra del Producto y los dos (2) siguientes pagos se cobrarán automáticamente a los treinta (30)
+
+y sesenta (60) días del pago inicial.
+
+
+
+El servicio no conlleva el pago de intereses ni comisiones por pagos atrasados si el Cliente respeta el
+
+calendario de pagos automático. En caso de demora en el pago, Klarna podrá cobrar un recargo. En
+
+caso de impago, el importe pendiente de pago se cobrará en la siguiente cuota, junto con los posibles
+
+recargos por pago atrasado.
 
 Privalia | 17
 
 
 
-cualesquiera otras comisiones o gastos cargados por Privalia. El primer pago se cargará cuando
+“Paga en 3 plazos” es un crédito. Un crédito es un compromiso vinculante y debe ser reembolsado. En
 
-Privalia confirme la compra del Producto y los dos (2) siguientes pagos se cobrarán
+caso de no reembolsar completamente el crédito, esta situación podría tener consecuencias graves
 
-automáticamente a los treinta (30) y sesenta (60) días del pago inicial.
+para el Cliente, y Klarna podría, entre otras acciones: (a) cargar el saldo pendiente, incluidos los
 
+recargos por pago atrasado, de inmediato, utilizando cualquiera de las tarjetas del Cliente que Klarna
 
+tuviera registradas o mediante una factura por separado; (b) usar una agencia de cobro de deudas
 
-El servicio no conlleva el pago de intereses ni comisiones por pagos atrasados si el Cliente respeta
+para recibir el pago, en cuyo caso el Cliente deberá abonar todos los costes razonables (incluidos los
 
-el calendario de pagos automático. En caso de demora en el pago, Klarna podrá cobrar un recargo.
+honorarios de abogados) incurridos por Klarna y/o la agencia de cobro de deudas; y (c) reportar
 
-En caso de impago, el importe pendiente de pago se cobrará en la siguiente cuota, junto con los
-
-posibles recargos por pago atrasado.
-
-
-
-“Paga en 3 plazos” es un crédito. Un crédito es un compromiso vinculante y debe ser reembolsado.
-
-En caso de no reembolsar completamente el crédito, esta situación podría tener consecuencias
-
-graves para el Cliente, y Klarna podría, entre otras acciones: (a) cargar el saldo pendiente, incluidos
-
-los recargos por pago atrasado, de inmediato, utilizando cualquiera de las tarjetas del Cliente que
-
-Klarna tuviera registradas o mediante una factura por separado; (b) usar una agencia de cobro de
-
-deudas para recibir el pago, en cuyo caso el Cliente deberá abonar todos los costes razonables
-
-(incluidos los honorarios de abogados) incurridos por Klarna y/o la agencia de cobro de deudas; y
-
-(c) reportar información del impago a las agencias de informes de crédito.
+información del impago a las agencias de informes de crédito.
 
 
 
-Privalia no recibe ninguna compensación de los Clientes en relación con esta solución de pago y
+Privalia no recibe ninguna compensación de los Clientes en relación con esta solución de pago y solo
 
-solo pone el servicio a disposición de sus Clientes.
+pone el servicio a disposición de sus Clientes.
 
 
 
 Si el Cliente cancela la compra o devuelve un pedido que ya ha sido pagado, Klarna cancelará
 
-automáticamente las cuotas pendientes y reembolsará al Cliente las cantidades que ya haya
-
-abonado.
+automáticamente las cuotas pendientes y reembolsará al Cliente las cantidades que ya haya abonado.
 
 
 
-El Cliente deberá leer y aceptar los términos y condiciones de Klarna en la página de pago de
+El Cliente deberá leer y aceptar los términos y condiciones de Klarna en la página de pago de Klarna
 
-Klarna y en el momento de validar el pago.
+y en el momento de validar el pago.
 
 
 
@@ -1550,9 +1532,9 @@ Condiciones necesarias para solicitar el servicio a Klarna
 
 - El solicitante debe disponer de una tarjeta de crédito o débito válida de la que sea titular (las
 
-tarjetas de prepago no están admitidas), aceptada por Klarna. Para más información, consulte
+tarjetas de prepago no están admitidas), aceptada por Klarna. Para más información, consulte el
 
-el sitio web de Klarna:
+sitio web de Klarna:
 
 
 
@@ -1560,7 +1542,7 @@ https://cdn.klarna.com/1.0/shared/content/legal/terms/0/es_es/paylaterin3.
 
 
 
-- El importe financiable debe estar comprendido entre un mínimo de 50 € y un máximo de 1.500
+- El importe financiable debe estar comprendido entre un mínimo de 100 € y un máximo de 1.500
 
 €.
 
@@ -1574,43 +1556,43 @@ Especificaciones de Klarna
 
 
 
-Si no se acepta un tipo de tarjeta, Klarna se lo comunicará al Cliente antes de que complete
+Si no se acepta un tipo de tarjeta, Klarna se lo comunicará al Cliente antes de que complete su
 
-su compra. Klarna acepta la mayoría de tarjetas de crédito y débito que no están a punto de
+compra. Klarna acepta la mayoría de tarjetas de crédito y débito que no están a punto de caducar.
 
-caducar.
+
+
+Si la tarjeta del Cliente es cancelada, el Cliente deberá realizar todos los pagos restantes cuando
+
+Klarna lo solicite. Si los datos de la tarjeta del Cliente cambian entre el momento de la compra y
+
+el pago final, el Cliente se compromete a notificar a Klarna los datos actualizados de la tarjeta.
+
+Klarna proporcionará un método digital para comunicar estas actualizaciones. Si el Cliente no
+
+notifica a Klarna estos detalles, autoriza a Klarna a obtenerlos de su banco emisor directamente,
+
+si es posible. Si finalmente el Cliente no proporciona a Klarna la información actualizada, podría
+
+cobrarle una penalización.
+
+
+
+El Cliente autoriza a Klarna a guardar los detalles de su tarjeta en sus sistemas. Klarna usará esta
+
+información para autorizar los pagos futuros bajo estos términos y condiciones. A menos que el
+
+Cliente decida no autorizarlo, es posible que Klarna use esta información para rellenar los detalles
+
+de la tarjeta del Cliente en sus futuras compras y en todo caso podrá gestionar los detalles de su
 
 Privalia | 18
 
 
 
-Si la tarjeta del Cliente es cancelada, el Cliente deberá realizar todos los pagos restantes
+tarjeta online. Si Klarna consigue información actualizada de la tarjeta del banco emisor del
 
-cuando Klarna lo solicite. Si los datos de la tarjeta del Cliente cambian entre el momento de la
-
-compra y el pago final, el Cliente se compromete a notificar a Klarna los datos actualizados de
-
-la tarjeta. Klarna proporcionará un método digital para comunicar estas actualizaciones. Si el
-
-Cliente no notifica a Klarna estos detalles, autoriza a Klarna a obtenerlos de su banco emisor
-
-directamente, si es posible. Si finalmente el Cliente no proporciona a Klarna la información
-
-actualizada, podría cobrarle una penalización.
-
-
-
-El Cliente autoriza a Klarna a guardar los detalles de su tarjeta en sus sistemas. Klarna usará
-
-esta información para autorizar los pagos futuros bajo estos términos y condiciones. A menos
-
-que el Cliente decida no autorizarlo, es posible que Klarna use esta información para rellenar
-
-los detalles de la tarjeta del Cliente en sus futuras compras y en todo caso podrá gestionar los
-
-detalles de su tarjeta online. Si Klarna consigue información actualizada de la tarjeta del banco
-
-emisor del Cliente, éste está de acuerdo con que Klarna la guardará en sus sistemas.
+Cliente, éste está de acuerdo con que Klarna la guardará en sus sistemas.
 
 
 
@@ -1618,45 +1600,43 @@ emisor del Cliente, éste está de acuerdo con que Klarna la guardará en sus si
 
 
 
-Si Klarna no puede cobrar al Cliente la cantidad correspondiente en el método de pago
+Si Klarna no puede cobrar al Cliente la cantidad correspondiente en el método de pago escogido
 
-escogido en la fecha de vencimiento, Klarna se lo notificará y le ofrecerá un plazo de cortesía
+en la fecha de vencimiento, Klarna se lo notificará y le ofrecerá un plazo de cortesía de entre dos
 
-de entre dos (2) y siete (7) días hábiles para que el Cliente actualice su método de pago o para
+(2) y siete (7) días hábiles para que el Cliente actualice su método de pago o para que se asegure
 
-que se asegure de que dispone de fondos disponibles en su método de pago predeterminado.
+de que dispone de fondos disponibles en su método de pago predeterminado. Es importante que
 
-Es importante que el Cliente se asegure de que tiene fondos suficientes disponibles para
+el Cliente se asegure de que tiene fondos suficientes disponibles para completar su pago el día
 
-completar su pago el día del vencimiento. Si Klarna no es capaz de cobrar la segunda cuota
+del vencimiento. Si Klarna no es capaz de cobrar la segunda cuota durante el periodo de gracia,
 
-durante el periodo de gracia, transferirá el importe impagado al último plazo, incluyendo una
-
-penalización por el pago atrasado.
+transferirá el importe impagado al último plazo, incluyendo una penalización por el pago atrasado.
 
 
 
 Si el Cliente no realiza el pago al final del periodo de cortesía, entrará en impago y, entre otras
 
-acciones que Klarna tendrá derecho a ejercer, podría cobrarle una penalización por demora
+acciones que Klarna tendrá derecho a ejercer, podría cobrarle una penalización por demora cuya
 
-cuya cantidad sea de: i) 4 euros por cuota si el valor total del pedido es inferior a 49,90 €, ii) 7
+cantidad sea de: i) 4 euros por cuota si el valor total del pedido es inferior a 49,90 €, ii) 7 € por
 
-€ por cuota si el valor total del pedido está comprendido entre 50 € y 199,99 €, iii) 12 € por
+cuota si el valor total del pedido está comprendido entre 50 € y 199,99 €, iii) 12 € por cuota si el
 
-cuota si el valor total del pedido es igual o superior a 200 €, o el máximo importe permitido por
+valor total del pedido es igual o superior a 200 €, o el máximo importe permitido por la legislación
 
-la legislación aplicable, si es menor. Si el Cliente no realiza el pago es posible que no pueda
+aplicable, si es menor. Si el Cliente no realiza el pago es posible que no pueda volver a usar este
 
-volver a usar este servicio en el futuro. Klarna podrá seguir intentando el recobro en las
+servicio en el futuro. Klarna podrá seguir intentando el recobro en las siguientes fechas de
 
-siguientes fechas de vencimiento. Si Klarna no puede cobrar el importe restante en la tercera
+vencimiento. Si Klarna no puede cobrar el importe restante en la tercera cuota, Klarna podrá
 
-cuota, Klarna podrá facturar al Cliente el importe restante para ser pagado inmediatamente o
+facturar al Cliente el importe restante para ser pagado inmediatamente o podrá seguir sus
 
-podrá seguir sus procedimientos de recobro de deuda, en cuyo caso el Cliente tendrá que
+procedimientos de recobro de deuda, en cuyo caso el Cliente tendrá que pagar todos los costes
 
-pagar todos los costes razonables en los que haya incurrido Klarna y/o la agencia de recobros.
+razonables en los que haya incurrido Klarna y/o la agencia de recobros.
 
 
 
@@ -1672,49 +1652,45 @@ https://cdn.klarna.com/1.0/shared/content/legal/terms/es-ES/1.0.1/consumer_credi
 
 
 
-Cuando el Cliente solicite utilizar este método de pago, Klarna verificará la identidad del
+Cuando el Cliente solicite utilizar este método de pago, Klarna verificará la identidad del Cliente.
 
-Cliente. La verificación de identidad se lleva a cabo para cumplir con los requisitos de
+La verificación de identidad se lleva a cabo para cumplir con los requisitos de prevención del
 
-prevención del blanqueo de capitales y financiación del terrorismo, así como para prevenir el
+blanqueo de capitales y financiación del terrorismo, así como para prevenir el fraude. El Cliente
 
-fraude. El Cliente facilitará a Klarna la información necesaria para verificar su identidad. Klarna
+facilitará a Klarna la información necesaria para verificar su identidad. Klarna también podrá
 
-también podrá contrastar la información facilitada con bases de datos de terceros o con una
-
-agencia de crédito.
-
-Privalia | 19
+contrastar la información facilitada con bases de datos de terceros o con una agencia de crédito.
 
 
 
-Esta búsqueda puede afectar a la puntuación crediticia del Cliente y a sus posibilidades de
+Esta búsqueda puede afectar a la puntuación crediticia del Cliente y a sus posibilidades de obtener
 
-obtener un crédito en el futuro. Si, como resultado de la consulta de Klarna, el Cliente no puede
+un crédito en el futuro. Si, como resultado de la consulta de Klarna, el Cliente no puede acceder
 
-acceder a este método de pago, Klarna informará al Cliente.
+a este método de pago, Klarna informará al Cliente.
 
 
 
 - Pago anticipado y devoluciones
 
+El Cliente puede pagar el saldo restante en cualquier momento y no se le cobrará más por hacerlo.
 
+Si el Cliente cancela su compra, Klarna cancelará los pagos pendientes y le devolverá el importe
 
-El Cliente puede pagar el saldo restante en cualquier momento y no se le cobrará más por
+que ya le haya cobrado en su tarjeta. Cualquier devolución parcial reducirá el balance total del
 
-hacerlo. Si el Cliente cancela su compra, Klarna cancelará los pagos pendientes y le devolverá
+Cliente, pero no se considerará un pago completo. El Cliente seguirá teniendo que abonar las
 
-el importe que ya le haya cobrado en su tarjeta. Cualquier devolución parcial reducirá el
+cuotas pendientes de acuerdo al plan de pagos establecidos al efectuar la compra en las fechas
 
-balance total del Cliente, pero no se considerará un pago completo. El Cliente seguirá teniendo
+establecidas hasta que el total de la compra se haya pagado por completo. Si el Cliente tiene un
 
-que abonar las cuotas pendientes de acuerdo al plan de pagos establecidos al efectuar la
+saldo acreedor, Klarna podrá abonar el saldo en su tarjeta o en cualquier otra tarjeta que Klarna
 
-compra en las fechas establecidas hasta que el total de la compra se haya pagado por
+tenga registrada.
 
-completo. Si el Cliente tiene un saldo acreedor, Klarna podrá abonar el saldo en su tarjeta o
-
-en cualquier otra tarjeta que Klarna tenga registrada.
+Privalia | 19
 
 
 
@@ -1722,15 +1698,15 @@ en cualquier otra tarjeta que Klarna tenga registrada.
 
 
 
-Existirá una situación de impago si: (a) no se realiza ningún pago antes de la fecha de
+Existirá una situación de impago si: (a) no se realiza ningún pago antes de la fecha de vencimiento
 
-vencimiento después de los períodos de cortesía aplicables; (b) el Cliente está inmerso en
+después de los períodos de cortesía aplicables; (b) el Cliente está inmerso en procedimientos de
 
-procedimientos de insolvencia o concursales; (c) el Cliente proporciona información falsa,
+insolvencia o concursales; (c) el Cliente proporciona información falsa, engañosa o incorrecta a
 
-engañosa o incorrecta a Klarna; o (d) el Cliente incumple o no está dispuesto a cumplir con
+Klarna; o (d) el Cliente incumple o no está dispuesto a cumplir con alguna de las condiciones
 
-alguna de las condiciones contenidas en los términos y condiciones de este método de pago.
+contenidas en los términos y condiciones de este método de pago.
 
 
 
@@ -1754,27 +1730,25 @@ reclamación a través del formulario de contacto en el sitio web de Klarna
 
 (https://www.klarna.com/es/atencion-al-cliente/), por correo electrónico
 
-a service@klarna.com.es o por correo postal con la palabra clave "Queja" a la dirección de
+a service@klarna.com.es o por correo postal con la palabra clave "Queja" a la dirección de Klarna.
 
-Klarna. Klarna intentará resolver la queja del Cliente lo antes posible y no más tarde de dos (2)
+Klarna intentará resolver la queja del Cliente lo antes posible y no más tarde de dos (2) meses
 
-meses desde su presentación. Si Klarna no puede resolver su queja, el Cliente puede remitir
+desde su presentación. Si Klarna no puede resolver su queja, el Cliente puede remitir su queja a
 
-su queja a la Swedish National Board for Consumer Disputes (ARN) en Allmänna
+la Swedish National Board for Consumer Disputes (ARN) en Allmänna reklamationsnämnden,
 
-reklamationsnämnden, buzón de correos 174, 101 23 Estocolmo, Suecia. Klarna participará en
+buzón de correos 174, 101 23 Estocolmo, Suecia. Klarna participará en dichos procedimientos y
 
-dichos procedimientos y está obligado a hacerlo según la ley aplicable. La información sobre
+está obligado a hacerlo según la ley aplicable. La información sobre los requisitos de acceso se
 
-los requisitos de acceso se puede encontrar en el sitio web de ARN: http://www.arn.se. El
+puede encontrar en el sitio web de ARN: http://www.arn.se. El Cliente puede presentar su disputa
 
-Cliente puede presentar su disputa en cualquier idioma oficial de la Unión Europea a través de
+en cualquier idioma oficial de la Unión Europea a través de la plataforma ODR proporcionada por
 
-la plataforma ODR proporcionada por la Comisión Europea. La disputa se enviará a ARN. El
+la Comisión Europea. La disputa se enviará a ARN. El Cliente puede encontrar la plataforma ODR
 
-Cliente puede encontrar la plataforma ODR aquí: https://ec.europa.eu/consumers/odr/,
-
-(búsqueda: FIN-NET).
+aquí: https://ec.europa.eu/consumers/odr/, (búsqueda: FIN-NET).
 
 
 
@@ -1787,8 +1761,6 @@ datos personales realizado por Klarna en el siguiente link:
 
 
 https://cdn.klarna.com/1.0/shared/content/legal/terms/0/es_es/paylaterin3
-
-Privalia | 20
 
 
 
@@ -1820,13 +1792,13 @@ identificación fiscal A-83113324 e inscrito en el Registro Mercantil de Madrid,
 
 número 8814 (“Oney”).
 
+Privalia | 20
+
 
 
 La solución de pago ofrecida por Oney se considera crédito al consumo de conformidad con la
 
 normativa española aplicable. Para obtener más información, consulte www.oney.es.
-
-
 
 Condiciones necesarias para solicitar 4x 6x Oney
 
@@ -1892,10 +1864,6 @@ pedido y la información detallada sobre la financiación.
 
 validar y/o rellenar sus datos personales.
 
-Privalia | 21
-
-
-
 - El Cliente deberá leer y aceptar los términos y condiciones de Oney, seleccionando la casilla
 
 correspondiente. Al seleccionar “Acepto los términos y condiciones” y hacer clic en “Enviar” el
@@ -1923,6 +1891,8 @@ aceptadas por el Cliente, así como un resumen de la operación de financiación
 El Cliente que haya solicitado la solución de pago aplazado podrá desistir de la misma en un plazo de
 
 catorce (14) días naturales.
+
+Privalia | 21
 
 
 
@@ -1996,10 +1966,6 @@ que la entrega o devolución de la misma se hubiese realizado correctamente y de
 
 definitivamente la transacción respectiva. Entre otras, Privalia podrá formular telefónicamente diversas
 
-Privalia | 22
-
-
-
 comprobaciones sobre la identidad del Cliente, o bien, solicitar: (a) una confirmación y autorización por
 
 escrito firmada por el Cliente responsable por la compra respectiva; y (b) copia de la identificación
@@ -2023,6 +1989,8 @@ automáticamente, sin necesidad de aviso posterior, ni responsabilidad para Priv
 Cliente, y Privalia procederá con el reembolso automático del importe pagado por el Cliente respecto
 
 a dicha compra.
+
+Privalia | 22
 
 
 
@@ -2096,8 +2064,6 @@ pagos, de las presentes Condiciones de Venta Privalia o si Privalia observara al
 
 Productos objeto de venta.
 
-Privalia | 23
-
 
 
 8\. ENTREGA DE PRODUCTOS
@@ -2117,6 +2083,8 @@ los Productos.
 Privalia no realiza entrega de Productos los sábados, domingos, festivos nacionales, autonómicos y
 
 locales.
+
+Privalia | 23
 
 
 
@@ -2194,8 +2162,6 @@ la compra, o en el momento de la entrega del nuevo aparato, cumplimentando el al
 
 de recogida de RAEE disponible para el Cliente a petición.
 
-Privalia | 24
-
 
 
 Lugar y condiciones de entrega
@@ -2217,6 +2183,8 @@ La entrega se realizará a pie de calle, salvo que se indique lo contrario en la
 de la campaña. Con el fin de optimizar el proceso de entrega, la dirección indicada por el Cliente debe
 
 ser una dirección de entrega a la que se pueda realizar la entrega dentro del horario laboral habitual.
+
+Privalia | 24
 
 
 
@@ -2298,8 +2266,6 @@ daños o manipulación aparentes en los Productos o embalaje). En caso de que el
 
 formato papel, el Cliente deberá solicitar una copia del albarán al transportista.
 
-Privalia | 25
-
 
 
 En caso de que, al abrir los bultos con los Productos, el Cliente viera que éstos se encuentran dañados
@@ -2317,6 +2283,8 @@ la entrega.
 
 
 Derecho de desistimiento
+
+Privalia | 25
 
 
 
@@ -2394,8 +2362,6 @@ los que no reciba el Producto; (iv) rechazará la devolución de teléfonos i-ph
 
 desvinculados de la cuenta Apple con la que se haya vinculado el teléfono.
 
-Privalia | 26
-
 
 
 El Cliente no tendrá derecho a desistir en los casos establecidos en la normativa que sea de aplicación
@@ -2421,6 +2387,8 @@ c) Prensa diaria, publicaciones periódicas y revistas;
 
 
 d) Bienes que puedan deteriorarse o caducar con rapidez;
+
+Privalia | 26
 
 
 
@@ -2498,10 +2466,6 @@ hayan sido usados (salvo lo necesario para verificar su adecuación con lo esper
 
 dañados, desprecintados (en los casos previamente indicados), o extraviados antes de llegar a las
 
-Privalia | 27
-
-
-
 dependencias de Privalia o no se hayan cumplido los requisitos establecidos en estas Condiciones de
 
 Venta Privalia.
@@ -2527,6 +2491,8 @@ Privalia gestionará la orden de devolución del precio y gastos de envío media
 pago utilizado por el Cliente para la adquisición de los Productos en un plazo no superior al previsto
 
 por el Código de Consumo.
+
+Privalia | 27
 
 
 
@@ -2596,8 +2562,6 @@ La garantía ofrecida por Privalia se corresponde con la establecida en el Real 
 
 de los Consumidores y Usuarios.
 
-Privalia | 28
-
 
 
 La garantía no incluye las deficiencias ocasionadas por negligencias, golpes, uso o manipulaciones
@@ -2625,6 +2589,10 @@ El Cliente no tendrá derecho a ejercitar la garantía:
 a) Si se manipula o repara el número de identificación, así como el Producto garantizado sin
 
 conocimiento y autorización del servicio técnico o la empresa emisora de la garantía.
+
+Privalia | 28
+
+
 
 b) Si se modifican, alteran o sustituyen algunos de los datos de la garantía de los Productos
 
@@ -2674,7 +2642,7 @@ la información relativa al servicio de asistencia técnica.
 
 
 
-11\. RESPONSABILIDAD DE PRIVALIA
+11. RESPONSABILIDAD DE PRIVALIA
 
 
 
@@ -2685,8 +2653,6 @@ sea vendido por Privalia la responsabilidad de Privalia en relación con los Pro
 adquiridos a través del Sitio Web y/o Apps estará limitada al precio de adquisición de dichos Productos
 
 o Servicios.
-
-Privalia | 29
 
 
 
@@ -2719,6 +2685,10 @@ no comprado en Privalia, o un intento de evadir los costes de devolución), o cu
 pedidas sean consideradas por Privalia anormalmente altas o inusuales para un uso doméstico el
 
 Cliente será notificado por correo electrónico e será informado de la irregularidad detectada. En tales
+
+Privalia | 29
+
+
 
 casos, el Cliente tendrá la oportunidad de presentar cualquier argumentación para justificar el incidente.
 
@@ -2778,8 +2748,6 @@ de Venta Privalia vigentes en cada momento será un paso previo e indispensable 
 
 cualquier Producto o Servicio de Privalia disponible a través del Sitio Web y/o Apps.
 
-Privalia | 30
-
 
 
 14. NULIDAD PARCIAL
@@ -2807,6 +2775,8 @@ parte de Privalia o prescripción de la acción que en cada caso corresponda.
 
 
 Las presentes Condiciones de Venta Privalia se rigen por la ley española.
+
+Privalia | 30
 
 
 
@@ -2874,8 +2844,6 @@ litigios en línea de la Unión Europea siguiendo este enlace:
 
 https://ec.europa.eu/consumers/odr/main/?event=main.home2.show.
 
-Privalia | 31
-
 
 
 CONDICIONES DE USO DE MARKETPLACE
@@ -2897,6 +2865,10 @@ clientes comprar productos y/o servicios directamente de vendedores profesionale
 El Marketplace está alojado por AmazonWebService Amazon CS Ireland Ltd - Unit 27 - 6400 Cork
 
 Airport Business Park - Kinsale Road - Cork - Irlanda. Amazon CS Ireland Ltd. Amazon CS Ireland Ltd.
+
+Privalia | 31
+
+
 
 es una empresa del grupo Amazon Web Services (AWS), con sede social en Inc. P.O/ Box 81226 -
 
@@ -2960,8 +2932,6 @@ del Marketplace, que permite al Cliente comprar Productos de Vendedores en Tiend
 
 especializadas (en adelante, el “Servicio”).
 
-Privalia | 32
-
 
 
 2.2 Las Condiciones de Uso Marketplace resultarán de aplicación exclusivamente entre Privalia y
@@ -2989,6 +2959,8 @@ Tiendas. Privalia no interfiere de ninguna manera en el contenido de las Tiendas
 presentación de los Productos y no se hace responsable de las ofertas de Productos ofrecidas por
 
 los Vendedores y de los pedidos que resulten de las mismas.
+
+Privalia | 32
 
 
 
@@ -3054,8 +3026,6 @@ descritos e ilustrados directamente por dichos Vendedores.
 
 y edita.
 
-Privalia | 33
-
 
 
 4.2.4 Los Productos estarán sujetos, además de a las presentes Condiciones de Uso Marketplace, a
@@ -3083,6 +3053,10 @@ devolución que sean de aplicación y estar conforme con las mismas para adquiri
 - realizar un seguimiento de su pedido desde el apartado “Menú \> Mis pedidos”,
 
 - ponerse en contacto con el Vendedor a través de una interfaz de mensajería,
+
+Privalia | 33
+
+
 
 - acceder a la factura puesta a disposición por el Vendedor en la sección “Menú \> Mis
 
@@ -3154,10 +3128,6 @@ procedimiento extrajudicial o judicial de resolución de litigios. Las modalidad
 
 procedimientos se indicarán en la decisión comunicada por Privalia.
 
-Privalia | 34
-
-
-
 Privalia se reserva el derecho de suspender, durante un periodo razonable de tiempo y previo aviso,
 
 el tratamiento de las denuncias presentadas por un denunciante que presente con frecuencia
@@ -3181,6 +3151,8 @@ relación con el número total de denuncias presentadas durante los últimos 12 
 
 
 5. MODALIDADES DE PEDIDO DE LOS PRODUCTOS DE LOS VENDEDORES
+
+Privalia | 34
 
 
 
@@ -3254,10 +3226,6 @@ venta. En caso de que la compra tuviese que ser cancelada y/o los Productos no p
 
 entregados al Cliente, el Vendedor será el único responsable frente al Cliente, aunque Privalia
 
-Privalia | 35
-
-
-
 intentará, en la medida de lo posible, encontrar una solución aceptable para las partes y asegurará
 
 cualquier derecho que el Cliente pueda tener por disposición legal.
@@ -3281,6 +3249,8 @@ El Cliente puede acceder a su factura puesta a disposición por el Vendedor en e
 Mis pedidos" o, en su defecto, poniéndose en contacto con el Vendedor directamente desde ese
 
 mismo espacio, indicando como motivo de contacto "Deseo recibir mi factura".
+
+Privalia | 35
 
 
 
@@ -3354,8 +3324,6 @@ débito válida (las tarjetas de crédito o débito aceptadas hasta la fecha en 
 
 MasterCard y American Express) o mediante el sistema de PayPal.
 
-Privalia | 36
-
 
 
 Por cada pedido validado por el Vendedor, se enviará al banco del Cliente, en un plazo de entre
@@ -3379,6 +3347,8 @@ anterior.
 Depende del Cliente registrar e imprimir su certificado de pago si desea conservar los datos bancarios
 
 y los relativos a la transacción.
+
+Privalia | 36
 
 
 
@@ -3452,8 +3422,6 @@ Los Productos adquiridos serán entregados a la dirección indicada por el Clien
 
 realizar su pedido y de acuerdo con las condiciones de entrega del Vendedor.
 
-Privalia | 37
-
 
 
 Dependiendo del Producto vendido, cada Vendedor ofrecerá diferentes métodos de entrega al
@@ -3477,6 +3445,8 @@ varios paquetes.
 
 
 7.2 Gastos de envío
+
+Privalia | 37
 
 
 
@@ -3544,8 +3514,6 @@ electrónicos.
 
 8. DERECHO DE DESISTIMIENTO Y GASTOS DE DEVOLUCIÓN
 
-Privalia | 38
-
 
 
 Las condiciones y gastos de devolución están disponibles en la ficha del Producto, clicando en el
@@ -3573,6 +3541,8 @@ Consumidores y Usuarios. Por ello, el Cliente puede ejercer su derecho de desist
 un plazo de catorce (14) días naturales desde la recepción del Producto o desde la celebración del
 
 contrato si el objeto del contrato fuera la prestación de servicios.
+
+Privalia | 38
 
 
 
@@ -3644,8 +3614,6 @@ hará efectivo en el mismo método de pago usado para realizar la compra inicial
 
 (3) a siete (7) días hábiles.
 
-Privalia | 39
-
 
 
 Sin perjuicio de lo anterior, aquellos Productos que no cumplan los estándares de calidad o
@@ -3671,6 +3639,10 @@ El Vendedor es el responsable de entregar los Productos conforme al contrato de 
 deberá ofrecer a los Clientes la garantía legal sobre los Productos en los términos establecidos en
 
 el Real Decreto Legislativo 1/2007, de 16 de noviembre, por el que se aprueba el texto refundido
+
+Privalia | 39
+
+
 
 de la Ley General para la Defensa de los Consumidores y Usuarios, junto con la garantía de los
 
@@ -3742,10 +3714,6 @@ Cada Vendedor actúa como el editor de su Tienda. Como tal, es por tanto respons
 
 Productos, de su promoción y del contenido publicado en su espacio de ventas en el Sitio Web y Apps.
 
-Privalia | 40
-
-
-
 Como host, Privalia hace todo lo posible para que el Servicio esté disponible las veinticuatro (24) horas
 
 del día, los siete (7) días de la semana, independientemente de las operaciones de mantenimiento
@@ -3771,6 +3739,8 @@ Privalia no ofrece ninguna garantía expresa o implícita, incluyendo, sin limit
 a la calidad y compatibilidad de los Servicios para un uso específico, y la no violación de las reglas de
 
 uso de los Servicios por parte de sus Clientes.
+
+Privalia | 40
 
 
 
@@ -3836,8 +3806,6 @@ intelectual aplicable, solo se permite la utilización de la carta gráfica y/o 
 
 componen el Sitio Web y Apps, incluido el Marketplace, para uso privado.
 
-Privalia | 41
-
 
 
 En consecuencia, el Cliente no puede representar, reproducir, modificar o, más en general, explotar
@@ -3867,6 +3835,8 @@ La Política de privacidad y la Política de cookies están publicadas en el Sit
 son de aplicación en cualquier uso que el Cliente haga del Sitio Web y de las Apps. El Cliente
 
 deberá leer con detenimiento dichas políticas para conocer sus derechos y las obligaciones.
+
+Privalia | 41
 
 
 
@@ -3932,10 +3902,6 @@ Rambla de la Marina, 450
 
 España
 
-Privalia | 42
-
-
-
 - Correo electrónico: atencionalcliente@veepee.com.
 
 
@@ -3963,6 +3929,8 @@ aceptación de las Condiciones de Uso Marketplace vigentes en cada momento será
 indispensable a la contratación de cualquier Producto disponible a través del Sitio Web y Apps cuya
 
 compra o contratación se efectúe con Vendedores través del servicio Marketplace.
+
+Privalia | 42
 
 
 
@@ -4022,8 +3990,6 @@ Cliente no consumidor, las partes acuerdan someterse a los juzgados y tribunales
 
 Barcelona.
 
-Privalia | 43
-
 
 
 A efectos de las presentes Condiciones de Uso Marketplace se entenderá por "consumidor" la persona
@@ -4051,6 +4017,8 @@ El sometimiento de los Clientes a CONFIANZA ONLINE cuando efectúen compras a te
 Vendedores de acuerdo con lo establecido en estas Condiciones de Uso Marketplace podrá realizarse
 
 si los Vendedores están adheridos a CONFIANZA ONLINE.
+
+Privalia | 43
 
 
 
@@ -4366,7 +4334,7 @@ Privalia | 47
 
 
 
-3\. GARANTÍA DE FUNCIONAMIENTO
+3. GARANTÍA DE FUNCIONAMIENTO
 
 
 
