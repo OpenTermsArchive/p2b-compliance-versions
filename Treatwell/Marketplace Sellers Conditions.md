@@ -24,7 +24,7 @@ Last Updated April 2024
           
         In Switzerland – Treatwell DACH GmbH, Zweigniederlassung Zürich: Hagenholzstrasse 83b, 8050 Zürich, Switzerland  
           
-        In Austria – Treatwell DACH GmbH, Zweigniederlassung Wien: Karl-Popper-Strasse 22, 1100 Wien, Österreich  
+        In Austria – Treatwell DACH GmbH, Zweigniederlassung Wien: Wiedner Hauptstraße 65, Geschäftslokal 1040 Wien, Österreich  
           
         In Portugal – Treatwell Sociedade Unipessoal, Lda: Avenida da Igreja nº 42, 8º andar, 1700-239 Lisboa, Portugal  
           
