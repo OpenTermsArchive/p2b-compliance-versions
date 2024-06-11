@@ -14,7 +14,7 @@ Last Updated April 2024
           
         In Spain – Treatwell Spain s.l.: Calle de Magallanes 3, Planta 10, 28015, Madrid, Spain  
           
-        In Italy – Treatwell IT s.r.l.: Via Carlo Farini 41, 20159, Milano, Italy  
+        In Italy – Treatwell IT s.r.l.: Via Fabio Filzi 25, 20124, Milano, Italy  
           
         In France – Treatwell FR SAS: 2 Rue Breguet, 75011, Paris, France  
           
