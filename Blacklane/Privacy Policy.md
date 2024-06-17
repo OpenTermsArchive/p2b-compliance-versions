@@ -1,6 +1,8 @@
 Privacy Policy and Cookie Policy
 --------------------------------
 
+If you are visiting from the UK, please refer to [Blacklane Havn UK Ltd](https://www.blacklane.com/en/blacklanehavnltd/)
+
 Please note: The English translation of the Blacklane Privacy Policy is provided for the convenience of our non-German-speaking customers. Regardless of this, only the original German-language version is legally binding.
 
 ### **Privacy Policy**
