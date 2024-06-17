@@ -2,7 +2,7 @@ Privalia | 1
 
 
 
-Actualizado el 27 de mayo de 2024
+Actualizado el 17 de junio de 2024
 
 
 
@@ -1394,9 +1394,9 @@ Privalia | 16
 
 El Cliente deberá realizar el pago mediante tarjeta de crédito o de débito Visa, MasterCard, American
 
-Express, Visa Electrón y/u otras tarjetas análogas, mediante el sistema de PayPal, mediante Apple
+Express, Visa Electrón y/u otras tarjetas análogas, mediante el sistema de PayPal, mediante Bizum,
 
-Pay o a través del servicio de pago aplazado de Klarna u Oney.
+mediante Apple Pay o a través del servicio de pago aplazado de Klarna u Oney.
 
 
 
@@ -1411,6 +1411,26 @@ un capital de 683.646,13 €, inscrita en el registro comercial y de sociedades 
 RCS 434 317 293 y con domicilio en 249 Avenue du President Wilson 93210 la Plaine - Saint Denis
 
 (Número de IVA intracomunitario: FR70434317293).
+
+
+
+Bizum
+
+
+
+Para pagar a través de Bizum, el importe mínimo de compra es de 0,50 €. El Cliente deberá introducir
+
+su número de teléfono móvil y pulsar “continuar con la compra”. Tras ello, el Cliente recibirá una
+
+notificación de su banco para completar y validar el pago. Privalia recuerda al Cliente que, si opta por
+
+hacer uso de este método de pago, se compromete y acepta la política de privacidad de Bizum, así
+
+como las disposiciones contenidas en el aviso legal y política de cookies de Bizum. La posibilidad de
+
+usar este servicio estará sujeta a la disponibilidad de cada entidad bancaria para poder realizar
+
+compras online con Bizum. Para más información, véase https://bizum.es/.
 
 
 
@@ -1460,6 +1480,8 @@ A continuación, se indican las principales características indicadas por Klarn
 
 Operación
 
+Privalia | 17
+
 
 
 El importe del crédito se establecerá en euros y corresponderá al importe de la operación (valor de la
@@ -1481,8 +1503,6 @@ calendario de pagos automático. En caso de demora en el pago, Klarna podrá cob
 caso de impago, el importe pendiente de pago se cobrará en la siguiente cuota, junto con los posibles
 
 recargos por pago atrasado.
-
-Privalia | 17
 
 
 
@@ -1560,6 +1580,8 @@ Si no se acepta un tipo de tarjeta, Klarna se lo comunicará al Cliente antes de
 
 compra. Klarna acepta la mayoría de tarjetas de crédito y débito que no están a punto de caducar.
 
+Privalia | 18
+
 
 
 Si la tarjeta del Cliente es cancelada, el Cliente deberá realizar todos los pagos restantes cuando
@@ -1585,10 +1607,6 @@ información para autorizar los pagos futuros bajo estos términos y condiciones
 Cliente decida no autorizarlo, es posible que Klarna use esta información para rellenar los detalles
 
 de la tarjeta del Cliente en sus futuras compras y en todo caso podrá gestionar los detalles de su
-
-Privalia | 18
-
-
 
 tarjeta online. Si Klarna consigue información actualizada de la tarjeta del banco emisor del
 
@@ -1662,6 +1680,8 @@ facilitará a Klarna la información necesaria para verificar su identidad. Klar
 
 contrastar la información facilitada con bases de datos de terceros o con una agencia de crédito.
 
+Privalia | 19
+
 
 
 Esta búsqueda puede afectar a la puntuación crediticia del Cliente y a sus posibilidades de obtener
@@ -1689,8 +1709,6 @@ establecidas hasta que el total de la compra se haya pagado por completo. Si el 
 saldo acreedor, Klarna podrá abonar el saldo en su tarjeta o en cualquier otra tarjeta que Klarna
 
 tenga registrada.
-
-Privalia | 19
 
 
 
@@ -1766,6 +1784,8 @@ https://cdn.klarna.com/1.0/shared/content/legal/terms/0/es_es/paylaterin3
 
 Oney
 
+Privalia | 20
+
 
 
 Características generales
@@ -1791,8 +1811,6 @@ identificación fiscal A-83113324 e inscrito en el Registro Mercantil de Madrid,
 181, sección 8ª, hoja M-289031, inscripción 1ª, registrado y supervisado por el Banco de España con
 
 número 8814 (“Oney”).
-
-Privalia | 20
 
 
 
@@ -1870,6 +1888,10 @@ correspondiente. Al seleccionar “Acepto los términos y condiciones” y hacer
 
 Cliente reconocerá tener conocimiento de las condiciones generales y de las condiciones de
 
+Privalia | 21
+
+
+
 pago de Oney, lo que constituye la aceptación de las mismas. Todas las financiaciones están
 
 sujetas al estudio y aprobación de Oney.
@@ -1891,8 +1913,6 @@ aceptadas por el Cliente, así como un resumen de la operación de financiación
 El Cliente que haya solicitado la solución de pago aplazado podrá desistir de la misma en un plazo de
 
 catorce (14) días naturales.
-
-Privalia | 21
 
 
 
@@ -1970,6 +1990,10 @@ comprobaciones sobre la identidad del Cliente, o bien, solicitar: (a) una confir
 
 escrito firmada por el Cliente responsable por la compra respectiva; y (b) copia de la identificación
 
+Privalia | 22
+
+
+
 oficial vigente y con fotografía del Cliente para confirmar su identidad. Privalia se obliga a resguardar
 
 dicha información y documentos con las más altas medidas de seguridad a su disposición, en términos
@@ -1989,8 +2013,6 @@ automáticamente, sin necesidad de aviso posterior, ni responsabilidad para Priv
 Cliente, y Privalia procederá con el reembolso automático del importe pagado por el Cliente respecto
 
 a dicha compra.
-
-Privalia | 22
 
 
 
@@ -2064,6 +2086,8 @@ pagos, de las presentes Condiciones de Venta Privalia o si Privalia observara al
 
 Productos objeto de venta.
 
+Privalia | 23
+
 
 
 8\. ENTREGA DE PRODUCTOS
@@ -2083,8 +2107,6 @@ los Productos.
 Privalia no realiza entrega de Productos los sábados, domingos, festivos nacionales, autonómicos y
 
 locales.
-
-Privalia | 23
 
 
 
@@ -2166,6 +2188,8 @@ de recogida de RAEE disponible para el Cliente a petición.
 
 Lugar y condiciones de entrega
 
+Privalia | 24
+
 
 
 Privalia se compromete a entregar el Producto en perfecto estado en la dirección indicada por el Cliente
@@ -2183,8 +2207,6 @@ La entrega se realizará a pie de calle, salvo que se indique lo contrario en la
 de la campaña. Con el fin de optimizar el proceso de entrega, la dirección indicada por el Cliente debe
 
 ser una dirección de entrega a la que se pueda realizar la entrega dentro del horario laboral habitual.
-
-Privalia | 24
 
 
 
@@ -2266,6 +2288,8 @@ daños o manipulación aparentes en los Productos o embalaje). En caso de que el
 
 formato papel, el Cliente deberá solicitar una copia del albarán al transportista.
 
+Privalia | 25
+
 
 
 En caso de que, al abrir los bultos con los Productos, el Cliente viera que éstos se encuentran dañados
@@ -2283,8 +2307,6 @@ la entrega.
 
 
 Derecho de desistimiento
-
-Privalia | 25
 
 
 
@@ -2362,6 +2384,8 @@ los que no reciba el Producto; (iv) rechazará la devolución de teléfonos i-ph
 
 desvinculados de la cuenta Apple con la que se haya vinculado el teléfono.
 
+Privalia | 26
+
 
 
 El Cliente no tendrá derecho a desistir en los casos establecidos en la normativa que sea de aplicación
@@ -2387,8 +2411,6 @@ c) Prensa diaria, publicaciones periódicas y revistas;
 
 
 d) Bienes que puedan deteriorarse o caducar con rapidez;
-
-Privalia | 26
 
 
 
@@ -2466,6 +2488,10 @@ hayan sido usados (salvo lo necesario para verificar su adecuación con lo esper
 
 dañados, desprecintados (en los casos previamente indicados), o extraviados antes de llegar a las
 
+Privalia | 27
+
+
+
 dependencias de Privalia o no se hayan cumplido los requisitos establecidos en estas Condiciones de
 
 Venta Privalia.
@@ -2491,8 +2517,6 @@ Privalia gestionará la orden de devolución del precio y gastos de envío media
 pago utilizado por el Cliente para la adquisición de los Productos en un plazo no superior al previsto
 
 por el Código de Consumo.
-
-Privalia | 27
 
 
 
@@ -2562,6 +2586,8 @@ La garantía ofrecida por Privalia se corresponde con la establecida en el Real 
 
 de los Consumidores y Usuarios.
 
+Privalia | 28
+
 
 
 La garantía no incluye las deficiencias ocasionadas por negligencias, golpes, uso o manipulaciones
@@ -2589,10 +2615,6 @@ El Cliente no tendrá derecho a ejercitar la garantía:
 a) Si se manipula o repara el número de identificación, así como el Producto garantizado sin
 
 conocimiento y autorización del servicio técnico o la empresa emisora de la garantía.
-
-Privalia | 28
-
-
 
 b) Si se modifican, alteran o sustituyen algunos de los datos de la garantía de los Productos
 
@@ -2642,7 +2664,7 @@ la información relativa al servicio de asistencia técnica.
 
 
 
-11. RESPONSABILIDAD DE PRIVALIA
+11\. RESPONSABILIDAD DE PRIVALIA
 
 
 
@@ -2653,6 +2675,8 @@ sea vendido por Privalia la responsabilidad de Privalia en relación con los Pro
 adquiridos a través del Sitio Web y/o Apps estará limitada al precio de adquisición de dichos Productos
 
 o Servicios.
+
+Privalia | 29
 
 
 
@@ -2685,10 +2709,6 @@ no comprado en Privalia, o un intento de evadir los costes de devolución), o cu
 pedidas sean consideradas por Privalia anormalmente altas o inusuales para un uso doméstico el
 
 Cliente será notificado por correo electrónico e será informado de la irregularidad detectada. En tales
-
-Privalia | 29
-
-
 
 casos, el Cliente tendrá la oportunidad de presentar cualquier argumentación para justificar el incidente.
 
@@ -2748,6 +2768,8 @@ de Venta Privalia vigentes en cada momento será un paso previo e indispensable 
 
 cualquier Producto o Servicio de Privalia disponible a través del Sitio Web y/o Apps.
 
+Privalia | 30
+
 
 
 14. NULIDAD PARCIAL
@@ -2775,8 +2797,6 @@ parte de Privalia o prescripción de la acción que en cada caso corresponda.
 
 
 Las presentes Condiciones de Venta Privalia se rigen por la ley española.
-
-Privalia | 30
 
 
 
@@ -2844,6 +2864,8 @@ litigios en línea de la Unión Europea siguiendo este enlace:
 
 https://ec.europa.eu/consumers/odr/main/?event=main.home2.show.
 
+Privalia | 31
+
 
 
 CONDICIONES DE USO DE MARKETPLACE
@@ -2865,10 +2887,6 @@ clientes comprar productos y/o servicios directamente de vendedores profesionale
 El Marketplace está alojado por AmazonWebService Amazon CS Ireland Ltd - Unit 27 - 6400 Cork
 
 Airport Business Park - Kinsale Road - Cork - Irlanda. Amazon CS Ireland Ltd. Amazon CS Ireland Ltd.
-
-Privalia | 31
-
-
 
 es una empresa del grupo Amazon Web Services (AWS), con sede social en Inc. P.O/ Box 81226 -
 
@@ -2932,6 +2950,8 @@ del Marketplace, que permite al Cliente comprar Productos de Vendedores en Tiend
 
 especializadas (en adelante, el “Servicio”).
 
+Privalia | 32
+
 
 
 2.2 Las Condiciones de Uso Marketplace resultarán de aplicación exclusivamente entre Privalia y
@@ -2959,8 +2979,6 @@ Tiendas. Privalia no interfiere de ninguna manera en el contenido de las Tiendas
 presentación de los Productos y no se hace responsable de las ofertas de Productos ofrecidas por
 
 los Vendedores y de los pedidos que resulten de las mismas.
-
-Privalia | 32
 
 
 
@@ -3026,6 +3044,8 @@ descritos e ilustrados directamente por dichos Vendedores.
 
 y edita.
 
+Privalia | 33
+
 
 
 4.2.4 Los Productos estarán sujetos, además de a las presentes Condiciones de Uso Marketplace, a
@@ -3053,10 +3073,6 @@ devolución que sean de aplicación y estar conforme con las mismas para adquiri
 - realizar un seguimiento de su pedido desde el apartado “Menú \> Mis pedidos”,
 
 - ponerse en contacto con el Vendedor a través de una interfaz de mensajería,
-
-Privalia | 33
-
-
 
 - acceder a la factura puesta a disposición por el Vendedor en la sección “Menú \> Mis
 
@@ -3128,6 +3144,10 @@ procedimiento extrajudicial o judicial de resolución de litigios. Las modalidad
 
 procedimientos se indicarán en la decisión comunicada por Privalia.
 
+Privalia | 34
+
+
+
 Privalia se reserva el derecho de suspender, durante un periodo razonable de tiempo y previo aviso,
 
 el tratamiento de las denuncias presentadas por un denunciante que presente con frecuencia
@@ -3151,8 +3171,6 @@ relación con el número total de denuncias presentadas durante los últimos 12 
 
 
 5. MODALIDADES DE PEDIDO DE LOS PRODUCTOS DE LOS VENDEDORES
-
-Privalia | 34
 
 
 
@@ -3226,6 +3244,10 @@ venta. En caso de que la compra tuviese que ser cancelada y/o los Productos no p
 
 entregados al Cliente, el Vendedor será el único responsable frente al Cliente, aunque Privalia
 
+Privalia | 35
+
+
+
 intentará, en la medida de lo posible, encontrar una solución aceptable para las partes y asegurará
 
 cualquier derecho que el Cliente pueda tener por disposición legal.
@@ -3249,8 +3271,6 @@ El Cliente puede acceder a su factura puesta a disposición por el Vendedor en e
 Mis pedidos" o, en su defecto, poniéndose en contacto con el Vendedor directamente desde ese
 
 mismo espacio, indicando como motivo de contacto "Deseo recibir mi factura".
-
-Privalia | 35
 
 
 
@@ -3324,6 +3344,8 @@ débito válida (las tarjetas de crédito o débito aceptadas hasta la fecha en 
 
 MasterCard y American Express) o mediante el sistema de PayPal.
 
+Privalia | 36
+
 
 
 Por cada pedido validado por el Vendedor, se enviará al banco del Cliente, en un plazo de entre
@@ -3347,8 +3369,6 @@ anterior.
 Depende del Cliente registrar e imprimir su certificado de pago si desea conservar los datos bancarios
 
 y los relativos a la transacción.
-
-Privalia | 36
 
 
 
@@ -3422,6 +3442,8 @@ Los Productos adquiridos serán entregados a la dirección indicada por el Clien
 
 realizar su pedido y de acuerdo con las condiciones de entrega del Vendedor.
 
+Privalia | 37
+
 
 
 Dependiendo del Producto vendido, cada Vendedor ofrecerá diferentes métodos de entrega al
@@ -3445,8 +3467,6 @@ varios paquetes.
 
 
 7.2 Gastos de envío
-
-Privalia | 37
 
 
 
@@ -3514,6 +3534,8 @@ electrónicos.
 
 8. DERECHO DE DESISTIMIENTO Y GASTOS DE DEVOLUCIÓN
 
+Privalia | 38
+
 
 
 Las condiciones y gastos de devolución están disponibles en la ficha del Producto, clicando en el
@@ -3541,8 +3563,6 @@ Consumidores y Usuarios. Por ello, el Cliente puede ejercer su derecho de desist
 un plazo de catorce (14) días naturales desde la recepción del Producto o desde la celebración del
 
 contrato si el objeto del contrato fuera la prestación de servicios.
-
-Privalia | 38
 
 
 
@@ -3614,6 +3634,8 @@ hará efectivo en el mismo método de pago usado para realizar la compra inicial
 
 (3) a siete (7) días hábiles.
 
+Privalia | 39
+
 
 
 Sin perjuicio de lo anterior, aquellos Productos que no cumplan los estándares de calidad o
@@ -3639,10 +3661,6 @@ El Vendedor es el responsable de entregar los Productos conforme al contrato de 
 deberá ofrecer a los Clientes la garantía legal sobre los Productos en los términos establecidos en
 
 el Real Decreto Legislativo 1/2007, de 16 de noviembre, por el que se aprueba el texto refundido
-
-Privalia | 39
-
-
 
 de la Ley General para la Defensa de los Consumidores y Usuarios, junto con la garantía de los
 
@@ -3714,6 +3732,10 @@ Cada Vendedor actúa como el editor de su Tienda. Como tal, es por tanto respons
 
 Productos, de su promoción y del contenido publicado en su espacio de ventas en el Sitio Web y Apps.
 
+Privalia | 40
+
+
+
 Como host, Privalia hace todo lo posible para que el Servicio esté disponible las veinticuatro (24) horas
 
 del día, los siete (7) días de la semana, independientemente de las operaciones de mantenimiento
@@ -3739,8 +3761,6 @@ Privalia no ofrece ninguna garantía expresa o implícita, incluyendo, sin limit
 a la calidad y compatibilidad de los Servicios para un uso específico, y la no violación de las reglas de
 
 uso de los Servicios por parte de sus Clientes.
-
-Privalia | 40
 
 
 
@@ -3806,6 +3826,8 @@ intelectual aplicable, solo se permite la utilización de la carta gráfica y/o 
 
 componen el Sitio Web y Apps, incluido el Marketplace, para uso privado.
 
+Privalia | 41
+
 
 
 En consecuencia, el Cliente no puede representar, reproducir, modificar o, más en general, explotar
@@ -3835,8 +3857,6 @@ La Política de privacidad y la Política de cookies están publicadas en el Sit
 son de aplicación en cualquier uso que el Cliente haga del Sitio Web y de las Apps. El Cliente
 
 deberá leer con detenimiento dichas políticas para conocer sus derechos y las obligaciones.
-
-Privalia | 41
 
 
 
@@ -3902,6 +3922,10 @@ Rambla de la Marina, 450
 
 España
 
+Privalia | 42
+
+
+
 - Correo electrónico: atencionalcliente@veepee.com.
 
 
@@ -3929,8 +3953,6 @@ aceptación de las Condiciones de Uso Marketplace vigentes en cada momento será
 indispensable a la contratación de cualquier Producto disponible a través del Sitio Web y Apps cuya
 
 compra o contratación se efectúe con Vendedores través del servicio Marketplace.
-
-Privalia | 42
 
 
 
@@ -3990,6 +4012,8 @@ Cliente no consumidor, las partes acuerdan someterse a los juzgados y tribunales
 
 Barcelona.
 
+Privalia | 43
+
 
 
 A efectos de las presentes Condiciones de Uso Marketplace se entenderá por "consumidor" la persona
@@ -4017,8 +4041,6 @@ El sometimiento de los Clientes a CONFIANZA ONLINE cuando efectúen compras a te
 Vendedores de acuerdo con lo establecido en estas Condiciones de Uso Marketplace podrá realizarse
 
 si los Vendedores están adheridos a CONFIANZA ONLINE.
-
-Privalia | 43
 
 
 
@@ -4334,7 +4356,7 @@ Privalia | 47
 
 
 
-3. GARANTÍA DE FUNCIONAMIENTO
+3\. GARANTÍA DE FUNCIONAMIENTO
 
 
 
@@ -5210,7 +5232,7 @@ CONDICIONES GENERALES DE ROSEDEAL
 
 
 
-1\. ÁMBITO DE APLICACIÓN
+1. ÁMBITO DE APLICACIÓN
 
 
 
