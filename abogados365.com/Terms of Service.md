@@ -86,7 +86,7 @@ Asimismo, VERTICALES INTERCOM, S.L se reserva la potestad de retirar del Sitio W
 
 VERTICALES INTERCOM, S.L no puede controlar todos y cada uno de los contenidos publicados, de manera que no puede asumir la responsabilidad sobre los contenidos. En especial, VERTICALES INTERCOM, S.L. no puede asumir la responsabilidad sobre las imágenes que acompañan a las ofertas o promociones incluidas en el portal, que en ningún caso tendrán carácter contractual.
 
-De todas maneras, periódicamente se revisan los contenidos insertados y publicados para asegurar los principios de calidad de THE MIND HUB COMPANY, S.L. así como las normas aquí indicadas.
+De todas maneras, periódicamente se revisan los contenidos insertados y publicados para asegurar los principios de calidad de VERTICALES INTERCOM, S.L . así como las normas aquí indicadas.
 
 Si advierte algún contenido inapropiado en el Sitio Web, por favor contacte con nosotros a través de nuestro servicio de Atención al usuario: info@abogados365.com.
 
