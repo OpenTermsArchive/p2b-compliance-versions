@@ -6,7 +6,7 @@ Terms and Conditions
 
 The use of this website is governed by these terms and conditions. You are invited to read them carefully before accepting them, and in case of disagreement, you must not use this website.
 
-By accessing this website www.bazaraki.com (hereinafter referred to as the "Website"), the Bazaraki mobile application (Apple Store and Google Play) (hereinafter referred to as the "Bazaraki Application") and the related websites, services, applications or tools (specifically referred to as "Bazaraki"), you agree to these Terms and Conditions and are bound by them, which are designed to ensure that Bazaraki.com works for everyone. As you may receive modifications to these terms and conditions at any time, you are advised to read them regularly.
+By accessing this website www.bazaraki.com (hereinafter referred to as the "Website"), the Bazaraki mobile application (available on the Apple Store and the Google Play Store) (hereinafter referred to as the "Bazaraki Application") and the related websites, services, applications or tools (specifically referred to as "Bazaraki"), you agree to these Terms and Conditions and are bound by them, which are designed to ensure that Bazaraki.com works for everyone. As you may receive modifications to these terms and conditions at any time, you are advised to read them regularly.
 
 If you accept the terms, you unreservedly agree to comply with them. In any case, your stay on this website, whether accompanied using any information provided on it or not, implies the unconditional acceptance of the following terms and conditions. The following terms and conditions of use apply to this site.
 
@@ -19,7 +19,7 @@ These Terms and Conditions constitute the whole / content of the agreement betwe
 ### Definitions
 
 * "Seller" is defined as the individual or company private or legal person who creates an account on Bazaraki.com for the purpose of posting ads to sell items or the provision of services.
-* "Buyer" is defined as a private or legal person, an individual or company that, whether or not having created an account at Bazaraki.com, visits or uses the Website for the purpose of purchasing Items or providing services.
+* "Buyer" is defined as a private or legal person, an individual or company that, whether or not having created an account at Bazaraki.com, visits or uses the Website for the purpose of purchasing Items or services.
 * "User" is defined as anyone who either simply visits or uses the Website for any purpose, including Sellers and Buyers (and shall be interpreted in accordance with the content of each paragraph). For the purposes of paragraph 2.2. “User” means owners of real estate, developers, agents, legal representatives of owners of real estate pursuant to a relevant Power of Attorney and first-degree relatives of the owners.
 * "Ad" means any ad posted on Bazaraki.com.
 * "Object" is defined as any tangible material that constitutes the object of an Ad.
@@ -28,7 +28,7 @@ These Terms and Conditions constitute the whole / content of the agreement betwe
 01\. Using Bazaraki
 -------------------
 
-You must be over 18 years old to use or access the Website. If you are under 18 you can use Bazaraki.com only with the consent of a parent or guardian. The category “Erotic massage (18+)”, is directed only to people (either users or people who wish to engage in posting an ad) aged 18 years old or over. In addition, you are not temporarily or indefinitely suspended by the user of the Website, its services, applications, or tools. In addition to the Prerequisite for using or accessing Bazaraki.com you agree that you will not:
+You must be over 18 years old to use or access the Website. If you are under 18 you can use Bazaraki.com only with the consent of a parent or guardian. The categories “Erotic massage, adult services (18+)” and “Adult products (18+)”, are directed only to people (either users or people who wish to engage in posting an ad) aged 18 years old or over. In addition, you are not temporarily or indefinitely suspended by the user of the Website, its services, applications, or tools. In addition to the Prerequisite for using or accessing Bazaraki.com you agree that you will not:
 
 * violate any laws
 * violate the Posting Rules
@@ -49,7 +49,7 @@ You must be over 18 years old to use or access the Website. If you are under 18 
 * bypass measures used to prevent or restrict access to Bazaraki
 * sell any counterfeit items or otherwise infringe the copyright, trademark or other rights of third parties
 
-Regarding the category “Erotic massage (18+)”, users who wish to post an ad on Bazaraki agree to the following:
+Regarding the categories “Erotic massage, adult services (18+)” and “Adult products (18+)”, users who wish to post an ad on Bazaraki agree to the following:
 
 * You are over the age of 18
 * You consent to provide all necessary information such as your Identity card, date of birth, full name and contact details
@@ -66,6 +66,26 @@ You are solely responsible for all information that you submit to Bazaraki and a
 We reserve the right at our discretion to refuse or delete content that we believe is inappropriate or breaching the present Terms and Conditions. We also reserve the right at our discretion to restrict a user's usage of Bazaraki either temporarily or permanently or refuse a user's registration. In case that there are indications that you are violating these Terms and Conditions, in any way and/or behaving suspiciously on Bazaraki, we have the ability, in our sole discretion, to take the measures that we deem necessary and appropriate and to inform others Bazaraki.com users who have contacted you and recommend them to be wary.
 
 In case that accounts are unverified or inactive for a long period of time, we reserve the right, in our sole discretion, to deactivate them. In addition, we reserve the right to refuse, modify or terminate all or part of our Services to anyone for any reason in our sole discretion, in order to ensure the best possible operation of this website.
+
+1.1 Bazaraki Account
+--------------------
+
+To gain full access and use of all features and information on Bazaraki, and in particular, to access the contact information of Sellers in most categories of Ads, it is necessary to create and log in with a personal Bazaraki Account. Bazaraki may, at its sole discretion and at any time, modify the categories of Ads for which it is necessary to log in with a Bazaraki Account to access the Sellers' contact information, without prior notification and/or warning to Users.
+
+These measures are required to protect Sellers and Users on Bazaraki.
+
+You can create a Bazaraki Account through the Website by selecting "Sign in and register" and using a Cypriot (+357) or Greek (+30) phone number. Bazaraki may, at its absolute discretion and at any time, allow the creation of a Bazaraki Account using a phone number from any other country, without prior notification and/or warning to Users.
+
+1.2 Verification of Bazaraki Account
+------------------------------------
+
+If you create a Bazaraki Account using a third country phone number (a country other than Cyprus and/or Greece), the verification of your personal information through the Yoti platform is required (the "Verification Process") in order to be able to post an Ad in most categories available on Bazaraki. Bazaraki may, at its absolute discretion and at any time, amend the categories for which completion of the Verification Process is not required for the posting of Ads, without prior notification and/or warning to Users.
+
+The Verification Process requires some information and documents (such as a copy of an Identity Card or Passport) to be submitted to the Yoti platform. The verification through the Yoti platform is a process independent from Bazaraki, its processes and systems.
+
+The Verification Process, including the processing of personal data by Yoti, is governed by the Yoti Platform Terms and Conditions, and Bazaraki does not control Yoti's processes nor has access to the information and documents submitted to Yoti.
+
+If the Verification Process is unsuccessful, please try to complete this process again. Once the Verification Process is complete, you may proceed to post Ads in accordance with the present Terms and Conditions, for Items and services available in Cyprus and/or Greece. The posting of Ads in the categories "Real Estate for Sale" and "Real Estate for Rent" is permitted only for real estate in Cyprus.
 
 02\. Rules for posting ads (‘Posting Rules’)
 --------------------------------------------
@@ -121,7 +141,7 @@ Please also see clause [07: Liability.](#7)
 
 * Only one account is available for each user. Phone numbers, which have been identified by technical analysis that they belong to the same person are determined as duplicates and are merged into one account
 * Contact details should be added to the corresponding fields and descriptions may not be displayed in titles. In the description field, you will have more space to describe what you are advertising
-* Please use clean, clear, and accurate photos. You cannot place your contact information (phone number, address, email, link on facebook) on product images. Images with words like “urgent”, “clearance”, “for sale” “good price” and so on are also prohibited. Misleading, fraudulent images are not allowed
+* Please use clean, clear, and accurate photos. You cannot place your contact information (phone number, address, email, link on Facebook) on product images. Images with words like “urgent”, “clearance”, “for sale” “good price” and so on are also prohibited. Misleading, fraudulent images are not allowed
 * You cannot post pictures of products that you do not own
 * It is only acceptable by legal entities when a photo contains a logo written only at the bottom or in the middle of the photo using small and transparent letters
 * No links to other websites in your ad are permitted, except in certain cases such as in job ads
@@ -130,7 +150,7 @@ Please also see clause [07: Liability.](#7)
 * You cannot use the name Bazaraki in the description of your post
 * You can sell a product, on the express condition that it is in your possession or have obtained the consent of the owner
 * No spam. This includes ad spam and keyword spamming in ads (delete the word, informal)
-* If you have sold it,deactivate the ad
+* If you have sold it, deactivate the ad
 
 2.2 Additional rules for Real Estate
 ------------------------------------
@@ -155,7 +175,7 @@ Please also see clause [07: Liability.](#7)
 * The User acknowledges and agrees that all intellectual property rights in the lisiting services, technology supporting the listing services and the Website vest in Bazaraki and/or its licensors/sub-contractors and that the User has no rights in, or to, such intellectual property other than the right to use the same in accordance with these Terms and Conditions. For the avoidance of doubt, save to the extent otherwise specified in these Terms and Conditions, all intellectual property rights in the information published by the User and Ad shall remain vested in the User (or its licensors, as applicable)
 * The User shall not publish, disclose, reproduce, or create any derivative works from any information obtained pursuant to the User's use of the services unless expressly agreed in writing by BZRK
 * All enquiries in relation to real estate, must go to the persons listing the property
-* According to the relevant legislation to be considered a bona fide purchaser for value (i.e. a purchaser acting in good faith) you must make reasonable enquiries before you proceed to buy any real estate. Therefore, interested buyers should independently ensure that the information in relation to the real estate they are interested in is authentic and correct. The interested buyers are advised to request title deeds of the property and/or a search from the Land Registry to establish, amongst others, the following: the true owner of the property, the size of the property, whether the property has a mortgage or other charges
+* It is good practice to make reasonable enquiries before you proceed to buy any real estate. Therefore, interested buyers should independently ensure that the information in relation to the real estate they are interested in is authentic and correct. The interested buyers are advised to request title deeds of the property and/or a search from the Land Registry to establish, amongst others, the following: the true owner of the property, the size of the property, whether the property has a mortgage or other charges
 * The information supplied by third parties with reference to listing advertising properties are not guaranteed by Bazaraki, validity needs to be confirmed via contacting person/s or agents who listed the property. If at any time you may think that any listing is misrepresenting true facts or is misleading, then please report the listing though the Bazaraki Help page and the listing and the persons that posted it, will be investigated, and if your claim is justified the listing will be removed from Bazaraki
 * Your correspondence or business dealings with advertisers found on or through Bazaraki, including payment of a deposit or any other amount in relation to the purchase or real estate, and any other terms, conditions, warranties or representations associated with such dealings, are solely between you and such advertiser
 * We are not responsible for any loss or damage of any sort incurred as a result of any dealings in relation to real estate
@@ -311,42 +331,6 @@ You agree that your ads may be deleted from the Bazaraki in case we reasonably b
 
 Please also see clause [14: Refund and Cancellation Policy.](#14)
 
-4.1“Search a car” service
--------------------------
-
-Bazaraki may help you to find the car that fits your needs and requirements. What you have to do is to complete the relevant form which can be found on www.bazaraki.com in Cars Category.
-
-You, (as a potential buyer), must fill in the form with your personal details (name, phone number and email address) and to indicate your needs and requirements in relation to the car. Once the relevant form will be submitted, Bazaraki Team (Customer Support) shall contact you (the potential buyer), for further information and/or clarifications that might be required.
-
-The Request Form will be forwarded to the Car Dealers, including only your needs and requirements but not your contact details.
-
-The timeframe to the response is based on market conditions.
-
-Bazaraki Team shall inform you (the potential buyer) via email about the Car Dealers’ brand company name and their phone numbers and their response, so as for you (the potential buyers) to be able to contact the Dealer directly.
-
-Bazaraki shall not have any further communication and shall not be involved in the transaction regarding the purchase/sale of any car.
-
-The sale and purchase of the car shall be agreed between the Dealer and the buyer and Bazaraki shall not be involved.
-
-4.2 Search for a property
--------------------------
-
-Bazaraki may help you to find the property that fits your needs and requirements. What you need to do is to complete the relevant form which can be found on www.bazaraki.com in Real Estate Categories
-
-You, as a potential buyer, must fill in the form with your personal details (name, phone number and email address) and to indicate your needs and requirements in relation to the property
-
-Once the relevant form will be submitted, Bazaraki Team (Customer Support) will contact you (the potential buyer), for further information and/or clarifications that might be required
-
-In order for Bazaraki to be able to connect you (potential buyer) with the seller (the Real Estate Agent) directly, you need to give your consent to share your personal credentials to the relevant agents
-
-The Property characteristics will be forwarded to the relevant Agents via email, copying the potential buyer in that email correspondence, including your contact details, needs and requirements and asking the Agents to contact you (potential buyer)
-
-Bazaraki shall not have any further communication and shall not be involved in the communication between the Agent and you (the potential buyer)
-
-The sale and purchase of the property shall be agreed between the Agent and the buyer and Bazaraki shall not be involved.
-
-Bazaraki shall ONLY connect potential buyers and potential sellers.
-
 05\. Content
 ------------
 
@@ -445,7 +429,7 @@ A person who is not a party to this Agreement has no right under to enforce any 
 10\. Personal Information
 -------------------------
 
-By using Bazaraki, you agree to the collection, transfer, storage and use of your personal information by Bazaraki on Bazaraki servers located in various countries. You also agree to receive marketing communications from us.
+By using Bazaraki, you agree to the collection, transfer, storage and use of your personal information by Bazaraki, on Bazaraki and/or Google LLC servers located in various countries. You also agree to receive marketing communications from us.
 
 We undertake to use any information that will be made available to us to provide our services with due confidentiality unless disclosure of any such information becomes legally necessary. In such a case, Bazaraki will take all appropriate security measures as deemed necessary. You hereby acknowledge and agree that the information and other personal data as required will be used within and for the purposes of the provision of services by Bazaraki.
 
@@ -472,7 +456,7 @@ Bazaraki.com reserves the right to modify or terminate in part or in whole, temp
 13\. Mobile Devices Terms
 -------------------------
 
-If you're accessing Bazaraki from a mobile device using a Bazaraki Mobile Application (the "Bazaraki Application"), the following terms of use (the "Terms of Use") apply to you in addition to the applicable Mobile Privacy and Legal Notice or End User License Agreement, as the case may be.Your use of the Application confirms your agreement to the Terms and Conditions and to the Terms of Use.
+If you're accessing Bazaraki from a mobile device using a Bazaraki Mobile Application (the "Bazaraki Application"), the following terms of use (the "Terms of Use") apply to you in addition to the applicable Mobile Privacy and Legal Notice or End User License Agreement, as the case may be. Your use of the Application confirms your agreement to the Terms and Conditions and to the Terms of Use.
 
 Application Use. Bazaraki grants you the right to use the Bazaraki Application only for your personal use. You must comply with all applicable laws and third-party terms of agreement when using the Bazaraki Application (e.g. your wireless data service agreement).
 
