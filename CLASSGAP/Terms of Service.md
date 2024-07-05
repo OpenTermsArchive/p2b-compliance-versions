@@ -248,11 +248,15 @@ Your current availability. You will not appear on the days you have marked as ab
 
 ### 15\. Packages of tutoring hours
 
-Teachers may optionally offer reduced tuition hour prices if the Student contracts packages of hours in advance.
+Optionally, the teachers may offer reduced prices for class hours if the student contracts packages of hours in advance.
 
-Packages will be for a minimum of 5 hours, and must be spent on 1 hour lessons. All packages are valid for 6 months, and are valid only with the selected Teacher.
+Packages will be for a minimum of 5 hours, and must be spent in 1 hour classes. 
+
+Packages of 5 lessons are valid for 2 months, packages of 10 lessons are valid for 4 months and packages of 20 lessons are valid for 6 months and are only valid with the selected teacher.
 
 Once one or more classes of a package have been completed, no refunds will be given, except in cases where the teacher certifies that he/she is unable to continue teaching.
+
+A charge of €0.70 will be added for the use of the platform resources in individual classes. This amount is non-refundable.
 
 ### 16\. 20 min free trial lessons
 
@@ -565,15 +569,17 @@ Thus, of the total amount paid by the Student, Tus Media will receive the part c
 
 ### 11\. Packages of tutoring hours
 
-Optionally, Teachers may offer reduced tuition hour prices if the Student contracts packages of hours in advance.
+Optionally, the teachers may offer reduced prices for class hours if the student contracts packages of hours in advance.
 
-Packages will be for a minimum of 5 hours, and must be spent in 1 hour classes. All packages are valid for 6 months, and are valid only with the selected Teacher.
+Packages will be for a minimum of 5 hours, and must be spent in 1 hour classes. 
+
+Packages of 5 lessons are valid for 2 months, packages of 10 lessons are valid for 4 months and packages of 20 lessons are valid for 6 months and are only valid with the selected teacher.
 
 Once one or more classes of a package have been completed, no refunds will be given, except in cases where the teacher certifies that he/she is unable to continue teaching.
 
-A charge of €0.70 will be added for the use of the platform resources. Non-refundable amount
+A charge of €0.70 will be added for the use of the platform resources in individual classes. This amount is non-refundable.
 
-12\. Free 20 minute lessons
+**12\. Free 20 minute lessons**
 
 Teachers may optionally offer students a 20 minute trial lesson. Students may book a 20-minute trial lesson free of charge with those teachers who have this option.
 
@@ -678,3 +684,5 @@ Tus Media may terminate or suspend the service in cases of breach of these Terms
 The terms, conditions and other documents of CLASSGAP will be governed by the Spanish legislation. In case of dispute, the competent courts will be those of the domicile of the Student.
 
 These terms, together with the privacy policy and other governing documents constitute the entire agreement between You and Tus Media. The invalidity of any document decreed by a court shall not affect the remaining provisions. Tus Media's failure in certain cases to follow the provisions contained herein shall not be deemed a modification thereof. Tus Media may assign its rights and obligations under these provisions to a third party at any time. Most communications between you and Tus Media will be made electronically. You agree that such communication shall be as valid as a written communication, to the extent permitted by law.
+
+This site is protected by reCAPTCHA and the Google [Privacy Policy](https://policies.google.com/privacy) and [Terms of Service](https://policies.google.com/terms).
