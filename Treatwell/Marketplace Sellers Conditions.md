@@ -115,6 +115,7 @@ Last Updated April 2024
             5. Reverse engineer or attempt to extract the source code from any API or any related software, except to the extent that this restriction is expressly prohibited by applicable law.
             6. Use the APIs for any activities where the use or failure of the APIs could lead to death, personal injury, or environmental damage (such as the operation of nuclear facilities, air traffic control, or life support systems).
             7. Remove, obscure, or alter any Treatwell terms of service or any links to or notices of those terms.
+            8. adhere to the terms of the Data Processing Agreement, which can be found [here](https://docs.google.com/document/d/1Q_o8cMj_qS0tTWttMInBtB4o2eEEmYGF/edit "https://docs.google.com/document/d/1Q_o8cMj_qS0tTWttMInBtB4o2eEEmYGF/edit")
     2. **Customer service.** You agree to:
         1. to supply your Services to Customers to the highest industry standards relevant to you and promptly handle all enquiries and issues relating to your services and Bookings,
         2. treat your Customers fairly, ethically and responsibly providing and or/ providing a service that does not bring the beauty industry and / or the Treatwell brand into disrepute.
