@@ -895,7 +895,7 @@ Les données sont disponibles dans un format standard du marché (.xls, .csv, et
 
 Aucune autre prestation ne sera assurée au titre de la réversibilité, le Service n’étant pas tenu d’assurer une quelconque continuité du service rendu.
 
-Par dérogation à l’[article 19](https://www.allovoisins.com/page/conditions-generales-de-vente-et-d-utilisation#cgu-duree-et-modifications) des CGVU (Durée et modifications), dans l’hypothèse où l’Utilisateur n’accepterait pas les modifications, ce refus sera considéré comme une désinscription qui ne sera effective qu’à l’issue des engagement initialement souscrits (durée de l’abonnement _PREMIER_ par exemple), l’engagement demeurant applicable aux conditions initialement souscrites jusqu’à l’issue de la période d’engagement.
+Par dérogation à l’[article 19](https://www.allovoisins.com/%3C?php%20echo%20base_url(%27page/conditions-generales-de-vente-et-d-utilisation#cgu-duree-et-modifications%27);%20?%3E) des CGVU (Durée et modifications), dans l’hypothèse où l’Utilisateur n’accepterait pas les modifications, ce refus sera considéré comme une désinscription qui ne sera effective qu’à l’issue des engagement initialement souscrits (durée de l’abonnement _PREMIER_ par exemple), l’engagement demeurant applicable aux conditions initialement souscrites jusqu’à l’issue de la période d’engagement.
 
 ### 8.3 Révision des prix
 
