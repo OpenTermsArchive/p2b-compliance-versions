@@ -30,7 +30,9 @@ Allgemeine Bedingungen für die Nutzung von durchblicker.at
 
 **Der schnellste Weg für ihre Anliegen:**
 
-* Allgemeine Fragen & Informationen, Datenauskünfte, Lob & Beschwerden senden Sie bitte an [office@durchblicker.at](mailto:office@durchblicker.at)
+* Allgemeine Fragen & Informationen, Lob & Beschwerden senden Sie bitte an [office@durchblicker.at](mailto:office@durchblicker.at)
+    
+* Anfragen betreffend Datenschutz senden Sie bitte an [datenschutz@durchblicker.at](mailto:datenschutz@durchblicker.at)
     
 * Anfragen betreffend Beratung zu Produkten und Anfragen betreffend abgeschlossener Verträge bitte telefonisch unter 01 / 3060900 (Montag bis Freitag 8:00 – 18: 00 Uhr) oder per E-Mail an [service@durchblicker.at](mailto:service@durchblicker.at)
     
