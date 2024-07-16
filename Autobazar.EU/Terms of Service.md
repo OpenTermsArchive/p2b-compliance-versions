@@ -16,12 +16,13 @@ Podmienky používania portálu Autobazar.EU
 [VII. Správanie sa používateľov](#jump7)  
 [VIII. Pridávanie inzerátov a hodnotenie](#jump8)  
 [IX. Administrácia inzerátov](#jump9)  
-[X. Platené služby Portálu – zverejnenie ponuky/inzerátu a doplnkové služby](#jump10)  
-[XI. Zrušenie konta](#jump11)  
-[XII. Zodpovednosť za škodu](#jump12)  
-[XIII. Zodpovednosť za vady a Reklamačný poriadok](#jump13)  
-[XIV. Osobitné ustanovenia týkajúce sa platených služieb](#jump14)  
-[XV. Záverečné ustanovenia](#jump15)  
+[X. Neplatené služby portálu - Uložené hľadanie, Obľúbené inzeráty a Štatistiky](#jump10)  
+[XI. Platené služby Portálu – zverejnenie ponuky/inzerátu a doplnkové služby](#jump11)  
+[XII. Zrušenie konta](#jump12)  
+[XIII. Zodpovednosť za škodu](#jump13)  
+[XIV. Zodpovednosť za vady a Reklamačný poriadok](#jump14)  
+[XV. Osobitné ustanovenia týkajúce sa platených služieb](#jump15)  
+[XVI. Záverečné ustanovenia](#jump16)  
   
 
 I. Úvodné ustanovenia a základné pojmy
@@ -161,8 +162,57 @@ IX. Administrácia inzerátov
 V systéme Autobazar.EU môže Používateľ svoje inzeráty meniť, dopĺňať alebo vymazať kedykoľvek počas ich platnosti. Všetky úkony možno robiť po prihlásení do konta Používateľa.  
   
 
-X. Platené služby Portálu – zverejnenie ponuky/inzerátu a doplnkové služby
---------------------------------------------------------------------------
+X. Neplatené služby portálu - Uložené hľadanie, Obľúbené inzeráty a Štatistiky
+------------------------------------------------------------------------------
+
+**Popis služby “Obľúbené inzeráty”**  
+
+Služba umožňuje Užívateľom ukladať inzeráty, ktoré ich zaujali, do zvláštnej sekcie označenej ako "Obľúbené inzeráty", prostredníctvom kliknutia na ikonu srdiečka zobrazenú vo výsledkoch vyhľadávania alebo v detaile inzerátu.  
+
+Uložené inzeráty sú následne dostupné v sekcii "Obľúbené inzeráty" po prihlásení sa do Užívateľského účtu na Portáli.  
+
+1. **Notifikácie**  
+    * Ak sa zmení cena uloženého inzerátu, Užívateľ bude o tejto zmene informovaný prostredníctvom emailovej notifikácie.
+    * V prípade, že sa inzerát, ktorý má Užívateľ uložený v sekcii "Obľúbené inzeráty", stiahne z ponuky predávajúcim, Užívateľ obdrží emailovú notifikáciu o stiahnutí inzerátu.
+    * Notifikácie sú zasielané na emailovú adresu uvedenú v Užívateľskom účte.
+    * Notifikácie je možné vypnúť odstránením obľúbených inzerátov zo sekcie "Obľúbené inzeráty".
+2. **Podmienky používania služby**  
+    * Užívateľ je povinný pri používaní Služby dodržiavať všetky platné zákony a predpisy.
+    * Služba je dostupná len pre registrovaných Užívateľov Portálu.
+    * Užívateľ nesmie Službu zneužívať spôsobom, ktorý by mohol poškodiť Portál alebo iných Užívateľov.
+
+**Popis služby “Uložené hľadanie”**  
+
+Služba umožňuje Užívateľom ukladať obľúbené filtre vo výsledkoch vyhľadávania, podľa preferovaných kritérií.  
+
+Uložené hľadanie sa následne uloží do zvláštnej sekcie na Portáli, kde sa k nemu Užívateľ môže kedykoľvek vrátiť alebo ho odstrániť.  
+
+1. **Notifikácie**  
+    * Ak sa pridá nový inzerát, ktorý spĺňa kritériá uloženého hľadania, Užívateľ bude o tejto skutočnosti informovaný prostredníctvom emailovej notifikácie.
+    * Notifikácie sú zasielané na emailovú adresu uvedenú v Užívateľskom účte.
+    * Notifikácie je možné vypnúť odstránením uloženého hľadania v sekcii "Uložené hľadanie", prípadne pri ukladaní hľadania vybrať frekvenciu zasielania "Nikdy".
+2. **Podmienky používania služby**  
+    * Užívateľ je povinný pri používaní Služby dodržiavať všetky platné zákony a predpisy.
+    * Služba je dostupná len pre registrovaných Užívateľov Portálu.
+    * Užívateľ nesmie Službu zneužívať spôsobom, ktorý by mohol poškodiť Portál alebo iných Užívateľov.
+
+**Popis služby “Štatistiky”**  
+
+Služba poskytuje Užívateľom informácie o výkone a úspešnosti ich vytvorených inzerátov.  
+
+Užívateľ dostane informácie o počte kliknutí a zobrazení jeho inzerátu.  
+
+1. **Nastavenie služby**  
+    * Službu je možné nastaviť priamo v editácii konta Užívateľa na Portáli.
+    * Užívateľ si môže vybrať frekvenciu odosielania štatistických správ: denne, každé tri dni, týždenne alebo mesačne.
+    * Užívateľ môže notifikácie alebo celú Službu vypnúť vybraním možnosti "Neodoberať".
+    * Služba je dostupná len pre registrovaných Užívateľov Portálu.
+2. **Notifikácie**  
+    * Notifikácie o štatistikách sú zasielané na emailovú adresu uvedenú v Užívateľskom účte.
+    * Užívateľ môže kedykoľvek zmeniť frekvenciu zasielania notifikácií alebo Službu deaktivovať v nastaveniach svojho konta.
+
+XI. Platené služby Portálu – zverejnenie ponuky/inzerátu a doplnkové služby
+---------------------------------------------------------------------------
 
 1. Služba Portálu spočívajúca v zverejnení ponuky/inzerátu na Portáli je pre Súkromných inzerentov čiastočne spoplatnená.
 2. Úhrada ceny za služby Portálu môžu Používatelia uskutočniť spôsobom podľa charakteru zvolenej služby prostredníctvom SMS platby, platobnou kartou alebo prevodom na bankový účet Prevádzkovateľa.
@@ -282,8 +332,6 @@ Pre zákazníkov zo Slovenska:
 | Náhradné diely |
 | Pneumatiky disky |
 | Príslušenstvo Oblečenie |
-| Kúpim |
-| Kradnuté |
 
 \* Maximálny počet 20 inzerátov za jeden kalendárny rok
 
@@ -320,8 +368,6 @@ Cenník zverejnenia ponuky/inzerátu z českého tel. čísla:
 | Náhradné diely |
 | Pneumatiky disky |
 | Príslušenstvo Oblečenie |
-| Kúpim |
-| Kradnuté |
 
 \* Maximálny počet 20 inzerátov za jeden kalendárny rok
 
@@ -475,8 +521,8 @@ Ceny sú uvedené s DPH za jeden zverejnený inzerát
       
     
 
-XI. Zrušenie konta
-------------------
+XII. Zrušenie konta
+-------------------
 
 1. Používateľ súhlasí, že Prevádzkovateľ môže jeho používateľské konto kedykoľvek v súlade s Podmienkami zrušiť alebo nechať zrušiť, a to aj bez predchádzajúceho upozornenia, pokiaľ tieto Podmienky neustanovujú inak (článok XIV. Podmienok).  
       
@@ -494,8 +540,8 @@ XI. Zrušenie konta
 2. Prevádzkovateľ si vyhradzuje právo kedykoľvek odoprieť Používateľovi prístup na stránky, alebo odstrániť akýkoľvek obsah daného Používateľa (inzeráty, hodnotenia, atď.) alebo jeho konto zo systému, a to hlavne z dôvodu poškodzovania Poskytovateľa, iného Používateľa alebo porušenia Podmienok.
 3. Prevádzkovateľ na žiadosť Používateľa, ktorý si riadne vysporiadal svoje záväzky voči Prevádzkovateľovi, obnoví užívateľské konto deaktivované podľa ods. 2 tohto ustanovenia. Za opätovnú aktiváciu používateľského konta je Prevádzkovateľ oprávnený účtovať Používateľovi, ktorý je Firemným inzerentom, spracovateľský poplatok v sume 54 EUR bez DPH – resp. vo výške najnižšieho mesačného variantu.
 
-XII. Zodpovednosť za škodu
---------------------------
+XIII. Zodpovednosť za škodu
+---------------------------
 
 1. Používateľ si je vedomý toho, že využíva služby Portálu výhradne na vlastné riziko. Prevádzkovateľ nezodpovedá za činnosť Používateľov služieb Portálu, ani za spôsob akým služby Portálu využívajú.
 2. Prevádzkovateľ nenesie žiadnu zodpovednosť za škody, ktoré by vznikli Používateľom alebo tretím osobám priamo, nepriamo či náhodne v dôsledku alebo v súvislosti s využívaním služieb Portálu.
@@ -504,8 +550,8 @@ XII. Zodpovednosť za škodu
 5. Prevádzkovateľ neručí za nepretržitú funkčnosť Portálu, jeho bezchybnú činnosť a zabezpečenie. Zároveň má právo odstaviť Portál bez akéhokoľvek upozornenia a uvedenia dôvodu.
 6. Prevádzkovateľ nezodpovedá za akúkoľvek škodu, ktorá by mohla byť Používateľovi spôsobená v súvislosti s používaním služieb na Portáli, ako aj spôsobených jeho nefunkčnosťou, chybovosťou, činnosťou používateľov či z iných dôvodov.
 
-XIII. Zodpovednosť za vady a Reklamačný poriadok
-------------------------------------------------
+XIV. Zodpovednosť za vady a Reklamačný poriadok
+-----------------------------------------------
 
 1. Prevádzkovateľ zodpovedá za to, že platené služby Portálu budú poskytované riadne a včas. V prípade, vyskytnutia sa vád poskytovaných platených služieb je Prevádzkovateľ povinný tieto vady odstrániť.
 2. Informácie o postupoch pri uplatňovaní a vybavovaní reklamácii, sťažností a podnetov Používateľov sú uvedené v Reklamačnom poriadku.
@@ -517,8 +563,8 @@ XIII. Zodpovednosť za vady a Reklamačný poriadok
 8. Podľa článku 14 Nariadenia Európskeho parlamentu a Rady (EÚ) č. 524/2013 z 21.05.2013 o riešení spotrebiteľských sporov online, ktorým sa mení nariadenie (ES) č. 2006/2004 a smernica 2009/22/ES, Používateľ, ktorý je spotrebiteľom má právo svoje práva a nároky, vyplývajúce zo zmluvného vzťahu (kúpnej zmluvy alebo zmluvy o službách online) s Prevádzkovateľom, uplatňovať v rámci alternatívneho online riešenia sporov. Riešenie sporov online (ďalej len „**RSO**“) zabezpečuje platforma prevádzkovaná Európskou Komisiou. Používateľ, ktorý je spotrebiteľ, je oprávnený využiť platformu RSO na riešenie sporov, v jazyku, ktorý si zvolí. Platforma RSO je prístupná online na webovom sídle: [https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home2.show&lng=SK](https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home2.show&lng=SK).
 9. Používateľ môže Prevádzkovateľa kontaktovať na e-mailovej adrese: [info@autobazar.eu](mailto:info@autobazar.eu).
 
-XIV. Osobitné ustanovenia týkajúce sa platených služieb
--------------------------------------------------------
+XV. Osobitné ustanovenia týkajúce sa platených služieb
+------------------------------------------------------
 
 1. Pri platených Službách poskytovaných Prevádzkovateľom sa na záväzkový vzťah medzi Prevádzkovateľom a Používateľom použijú primerane ustanovenia týchto Podmienok s výnimkou článku XII. bod 3 a 6 týchto Podmienoki Pri platených Službách poskytovaných Prevádzkovateľom sa na záväzkový vzťah medzi Prevádzkovateľom a Používateľom použijú primerane ustanovenia týchto Podmienok s výnimkou článku XII. bod 3 a 6 týchto Podmienok.
 2. V prípade, ak dôjde zo strany Používateľa platených Služieb k porušeniu týchto Podmienok, Prevádzkovateľ je oprávnený tomuto Používateľovi obmedziť používanie takejto platenej Služby.
@@ -538,8 +584,8 @@ XIV. Osobitné ustanovenia týkajúce sa platených služieb
 9. Pri platených Službách môže byť ich poskytovanie (aktivácie) zabezpečované aj v súčinnosti s iným subjektom. Ide o aktivácie platených služieb, ktoré zabezpečuje a spôsob platby sprostredkuje spoločnosť A SMS s.r.o., so sídlom Šulekova ul. č. 70, 811 03 Bratislava, IČO: 35 830 387, IČ DPH: SK2020247570, zapísaná v Obchodnom registri Okresného súdu Bratislava I, odd. Sro, vl. č. 25950/B. Aktiváciu doplnkových (platených) Služieb podporujú operátori: Orange Slovensko, T-Mobile Slovensko, Telefónica O2 Slovakia a SWAN, a.s. (4ka). V prípade niektorých platených služieb môže byť pre ich realizáciu potrebná aj súčinnosť príslušných bankových subjektov alebo sprostredkovateľov platobných systémov. Aktiváciu platených služieb prostredníctvom platobnej brány zabezpečuje spoločnosť Trust Pay, a.s., Za kasárňou 1, 831 03 Bratislava, Slovensko (platba kartou).
 10. Vzhľadom na charakter poskytovania Služieb, Používateľ súhlasí s elektronickým zasielaním dokladov za platené Služby.
 
-XV. Záverečné ustanovenia
--------------------------
+XVI. Záverečné ustanovenia
+--------------------------
 
 1. Podmienky inzerovania na Portáli nadobúdajú platnosť dňom uverejnenia. V prípade ak má Používateľ postavenie spotrebiteľa v zmysle príslušných právnych predpisov, vzájomný vzťah medzi Prevádzkovateľom a Používateľom, ktorý má postavenie spotrebiteľa sa spravuje ustanoveniami Občianskeho zákonníka a ďalších všeobecne záväzných právnych noriem upravujúcich ochranu spotrebiteľa v podmienkach Slovenskej republiky; pokiaľ Používateľ nie je spotrebiteľom, na otázky neupravené Podmienkami sa uplatnia príslušné ustanovenia Obchodného zákonníka.
 2. Prevádzkovateľ má právo meniť, inovovať a inak modifikovať služby Portálu bez predchádzajúceho upozornenia Používateľov ako aj bez ich súhlasu, v prípade, že takáto zmena nie je porušením práv Používateľov.
