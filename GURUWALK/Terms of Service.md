@@ -19,7 +19,7 @@ The ownership of this website, [https://www.guruwalk.com](https://www.guruwalk.c
 
 Contact details are as follows:  
 Phone: +34 644 53 16 24.  
-Contact email: [privacidad@guruwalk.com](mailto:privacidad@guruwalk.com)  
+Contact email: [\[email protected\]](https://www.guruwalk.com/cdn-cgi/l/email-protection)  
 Facebook: [https://www.facebook.com/guruwalk/](https://www.facebook.com/guruwalk/)  
 Instagram: @guruwalk  
 If you have any questions regarding these terms and conditions, please contact us by any of the means indicated.
@@ -97,7 +97,7 @@ The cancellation policy may vary in destinations where there are specific agreem
 * ****GURUWALK** IDENTIFICATION**
     
 
-This website, [privacy@guruwalk.com](https://www.guruwalk.com/)
+This website, [\[email protected\]](https://www.guruwalk.com/)
 
 Facebook: [https://www.facebook.com/guruwalk/](https://www.facebook.com/guruwalk/)
 
@@ -393,7 +393,7 @@ Los datos personales de las personas físicas que intervengan en la firma y ejec
 
 El tratamiento de los datos identificativos de las personas firmantes está legalmente amparado en los artículos 6.1.b) y c) del Reglamento (UE) 2016/679, dado que es necesario para la firma y ejecución del contrato y para el cumplimiento de obligaciones legales. Asimismo, cada parte ostenta un interés legítimo en el tratamiento de los datos de localización profesional del resto de partes, de acuerdo con el artículo 19 de la Ley Orgánica 3/2018.
 
-Los titulares de estos datos podrán ejercitar sus derechos de acceso, rectificación, supresión, limitación a su tratamiento, oposición, portabilidad y a no ser objeto de decisiones individualizadas, incluida la elaboración de perfiles, dirigiendo una comunicación al responsable de cada parte. La persona física firmante en representación del afiliado podrá ejercer los derechos frente a GuruWalk S.L. en el correo electrónico [privacidad@guruwalk.com](mailto:privacidad@guruwalk.com).
+Los titulares de estos datos podrán ejercitar sus derechos de acceso, rectificación, supresión, limitación a su tratamiento, oposición, portabilidad y a no ser objeto de decisiones individualizadas, incluida la elaboración de perfiles, dirigiendo una comunicación al responsable de cada parte. La persona física firmante en representación del afiliado podrá ejercer los derechos frente a GuruWalk S.L. en el correo electrónico [\[email protected\]](https://www.guruwalk.com/cdn-cgi/l/email-protection).
 
 La Agencia Española de Protección de Datos es la autoridad de control en esta materia y ante quien los afectados pueden acudir para reclamar si consideran que el tratamiento es ilícito o que los derechos sobre sus datos personales no han sido respetados.
 
