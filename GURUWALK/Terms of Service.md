@@ -88,7 +88,7 @@ Before taking such action, **GURUWALK** may remove content from the walker as ne
 
 #### **TERMS AND CONDITIONS APPLICABLE TO GURUWALK GUIDES**
 
-When registering as a guide or agency on the **GURUWALK** website, you agree to the following terms and conditions applicable in your capacity as a user registered as a guide, agency or Guru who wishes to offer your services (hereinafter, "**Guru**").
+When registering as a guide or agency on the **GURUWALK** website, you agree to the following terms and conditions applicable in your capacity as a user registered as a guide, agency or company who wishes to offer your services (hereinafter, "**Guru**").
 
 These terms and conditions may be updated and ratified again prior to the hosting of a tour, at any time.
 
@@ -123,22 +123,23 @@ In the event that you are an agency or company and invite employees or collabora
 
 By registering as a **Guru**, you expressly agree that you are responsible for the organisation of the various types of tours or routes, tourist safety and their physical or moral integrity, as well as the acceptance, rejection or expulsion of any tourist that may inconvenience the rest of the attendees of the tour.
 
-This also implies that as a Tour provider, you guarantee to **GURUWALK** that you will be aware of all the obligations that may arise from your activity (including, but not limited to, the following: the obligation to respect the marked itineraries where tours can be carried out, the local regulations where the tour is carried out and any other legal, tax or fiscal obligation, as well as to have and keep current all necessary licenses or certifications required by the local, regional or national legislation on tourism).
+This also implies that as a Tour provider, you guarantee to **GURUWALK** that you will be aware of all the obligations that may arise from your activity (including, but not limited to, the following: the obligation to respect the marked itineraries where tours can be carried out, the local regulations where the tour is carried out and any other legal, tax or fiscal obligation, as well as to have and keep current all necessary licenses or certifications required by the local, regional or national legislation on tourism). In the case of companies and/or agencies, it is also your responsibility to ensure that your employees or associates comply with all the above-mentioned regulations. In the event that the **Guru** fails to comply with these obligations and/or provides false or misleading information, and as a result **GURUWALK** receives a fine, penalty, or any type of claim from a government, public entity, or any natural or legal person, the Guru shall be responsible for reimbursing and indemnifying our platform for at least the full amount of such fines, penalties, or claims, including, but not limited to, the legal and administrative costs incurred.
 
-At the same time, it is your responsibility to ensure the accuracy, legitimacy, and correctness of all the content and information you provide to the platform regarding the planned tour and services.
+At the same time, it is your responsibility to ensure the accuracy, legitimacy, and correctness of all the content and information you provide to the platform regarding the planned tour, licenses and services.
 
 * **USE OF CONTENT POSTED ON ROUTES**
     
 
 **GURUWALK** will not own any content that you post as a guide on or through the platform. However, you agree that **GURUWALK** may use, free of charge, all content, including images that you post on the platform for the purposes of publication, modification, transformation, collection, public advertising, and exploitation in any type of media or medium known or to be known, throughout all territories of the world.
 
-Therefore, you guarantee that the content you upload, such as photos of routes, any text included, is:
+Therefore, you guarantee that the content you upload, such as licenses, photos of routes, any text included, is:
 
 1. Original content, that is, created by yourself.
 2. This implies that the publication and use of your content does not infringe, misappropriate, or violate the rights of third parties, including, without limitation, the privacy rights, advertising, copyright, trademarks, or other intellectual and industrial property rights in the broadest sense.
-3. If you use protected content, you are solely responsibility for payment for the copyright of any content used without authorisation and you expressly agree that, if the original owner files a claim against **GURUWALK**, we may on their behalf contact you to be responsible for and respond in any such dispute.
-4. Likewise, in the event of any possible infringement in terms of advertising, privacy, or competition law, if attributable to the content published in relation to your photos, texts, or any other resource used, you also expressly agree that you will be personally responsible and **GURUWALK** will bear no liability.
-5. By registering as a guide with **GURUWALK**, you acknowledge that you have the right and legal capacity to comply with these terms and conditions under Spanish jurisdiction.
+3. Truthful content, do not include false or misleading information.
+4. If you use protected content, you are solely responsibility for payment for the copyright of any content used without authorisation and you expressly agree that, if the original owner files a claim against **GURUWALK**, we may on their behalf contact you to be responsible for and respond in any such dispute.
+5. Likewise, in the event of any possible infringement in terms of advertising, privacy, or competition law, if attributable to the content published in relation to your photos, texts, or any other resource used, you also expressly agree that you will be personally responsible and **GURUWALK** will bear no liability.
+6. By registering as a guide with **GURUWALK**, you acknowledge that you have the right and legal capacity to comply with these terms and conditions under Spanish jurisdiction.
 
 * **UNAUTHORISED USES OF THE PLATFORM AS A GUIDE AND CONSEQUENCES OF NON-COMPLIANCE**
     
@@ -147,7 +148,7 @@ It is not permitted to access or use the Platform for illegal or unauthorised pu
 
 1. Use of the Platform in a way that may cause damage, interruptions, inefficiencies or defects in its functionality or in the computer of a third party;
 2. Use of the Platform for the transmission, installation or publication of any virus, malicious code or other harmful programs or files;
-3. Registering through the Platform using a false identity, impersonating third parties or using a false profile or performing any other action that may confuse other Users about the origin of a message;
+3. Registering through the Platform using a false identity, license, or any false data impersonating these or other data of third parties or using a false profile or performing any other action that may confuse other Users about the origin of a message;
 4. Unauthorised access to any section of the Platform, other connected systems or networks, any **GURUWALK** server, or services offered through the Website by means of hacking, falsification, extraction of passwords or any other unlawful means;
 5. Breaking, or attempt to break, the security or authentication measures of the Platform or of any network connected thereto, or the security or protection measures inherent to the contents offered on the Platform;
 6. Carrying out any action that causes a disproportionate or unnecessary saturation in the infrastructure of the Platform or in the **GURUWALK** systems or networks, as well as in the systems and networks connected to the Platform;
@@ -161,8 +162,9 @@ It is not permitted to access or use the Platform for illegal or unauthorised pu
 14. Failure to comply with the rules of the Opinion Policy ([Opinion Policy (guruwalk.com)](https://support.guruwalk.com/portal/en/kb/articles/reviews-policy)).
 15. Failure to comply with the rules of the Quality Policy ([Quality Policy (guruwalk.com)](https://support.guruwalk.com/portal/en/kb/articles/quality-policy) ).
 16. Failure to comply with the rules of the Tour Content policy ([Tour Content policy (guruwalk.com)](https://support.guruwalk.com/portal/en/kb/articles/content-policy-31-5-2022))
-17. Failure to pay, generating negative credits over a long period of time.
-18. Assign No-Shows to Walkers who have indeed completed the tour. If the system detects wrong doing when marking no shows on a recurring basis (no shows must ONLY be used for people who do not attend the tour at all, not for those who don´t pay or leave mid tour), the credits corresponding to the no shows marked, will not be refunded for a period of 30 days. Once this minimum of 30 days has elapsed, and in case of detecting a good use of the no show system, the PRO account will be able to return to its initial operation.
+17. Failure to comply with the rules of the Cancellation Policy ( [Cancellation Policy(guruwalk.com)](https://support.guruwalk.com/portal/en/kb/articles/cancellation-policy))
+18. Failure to pay, generating negative credits over a long period of time.
+19. Assign No-Shows to Walkers who have indeed completed the tour. If the system detects wrong doing when marking no shows on a recurring basis (no shows must ONLY be used for people who do not attend the tour at all, not for those who don´t pay or leave mid tour), the credits corresponding to the no shows marked, will not be refunded for a period of 30 days. Once this minimum of 30 days has elapsed, and in case of detecting a good use of the no show system, the PRO account will be able to return to its initial operation.
 
 **GURUWALK** may delete or block the account of any guide that does not comply with the above conditions, without prejudice to the exercise of any judicial and/or administrative action that **GURUWALK** may take against the infringing guide. The deletion of the account will not in any case result in compensation for damages.
 
