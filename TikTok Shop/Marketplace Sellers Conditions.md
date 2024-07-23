@@ -1,6 +1,6 @@
 SHOP SELLER TERMS OF SERVICE (ID)
 
-07/15/2024
+07/23/2024
 
 Last updated: 25 March 2024​
 
