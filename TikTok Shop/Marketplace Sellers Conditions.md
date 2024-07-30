@@ -1,6 +1,6 @@
 SHOP SELLER TERMS OF SERVICE (ID)
 
-07/23/2024
+07/30/2024
 
 Last updated: 25 March 2024​
 
@@ -62,7 +62,7 @@ Further information about the features of the Shop can be found in the [Shop Aca
 
 ​
 
-IMPORTANT: The contract for sale of the Product (the “Sale”) is always between the Seller and the Buyer. You are responsible for compliance with all laws applicable to that Offer and Sale in Indonesia (“Applicable Law”). You must also comply with the contract between you and the Buyer for the sale of Products (the “Terms of Sale”) – see [here](https://sf16-draftcdn-sg.ibytedtos.com/obj/ies-hotsoon-draft-sg/magellan_ecommerce/tts_id_term_of_sale.html). It is a material breach of these Terms if You do not comply with Applicable Law or the [Terms of Sale](https://sf19-draftcdn-sg.ibytedtos.com/obj/ies-hotsoon-draft-sg/magellan_ecommerce/ttec_tos_en.html).​
+IMPORTANT: The contract for sale of the Product (the “Sale”) is always between the Seller and the Buyer. You are responsible for compliance with all laws applicable to that Offer and Sale in Indonesia (“Applicable Law”). You must also comply with the contract between you and the Buyer for the sale of Products (the “Terms of Sale”) – see [here](https://sf16-draftcdn-sg.ibytedtos.com/obj/ies-hotsoon-draft-sg/magellan_ecommerce/tts_id_term_of_sale.html). It is a material breach of these Terms if You do not comply with Applicable Law or the [Terms of Sales](https://sf16-draftcdn-sg.ibytedtos.com/obj/ies-hotsoon-draft-sg/magellan_ecommerce/tts_id_term_of_sale_en.html).​
 
 ​
 
@@ -526,7 +526,7 @@ Any suspension or termination of Your Account will result in the suspension or t
 
 13. Rules for Using the Shop​
 
-To use the Shop, You must agree to abide by these Terms, the [Shop Terms of Use and Sale](https://sf19-draftcdn-sg.ibytedtos.com/obj/ies-hotsoon-draft-sg/magellan_ecommerce/ttec_tos_en.html), as well as the following policies or guidelines that govern Your use of the Shop (“Shop Policies”). It is a material breach of these Terms to breach a Shop Policy. ​
+To use the Shop, You must agree to abide by these Terms, the [Shop Terms of Use and Sale](https://sf16-draftcdn-sg.ibytedtos.com/obj/ies-hotsoon-draft-sg/magellan_ecommerce/tts_id_term_of_sale_en.html), as well as the following policies or guidelines that govern Your use of the Shop (“Shop Policies”). It is a material breach of these Terms to breach a Shop Policy. ​
 
 Shop Policies, Product Eligibility and Restricted and Prohibited Products​
 
@@ -664,7 +664,7 @@ You and/or the Creator, rather than Tokopedia shall be responsible for collectin
 
 By accepting these Terms, You represent,warrant and undertake to Tokopedia that:​
 
-• You will at all times act in accordance with the [Shop Terms of Use and Sale](https://sf19-draftcdn-sg.ibytedtos.com/obj/ies-hotsoon-draft-sg/magellan_ecommerce/ttec_tos_en.html);​
+• You will at all times act in accordance with the [Shop Terms of Use and Sale](https://sf16-draftcdn-sg.ibytedtos.com/obj/ies-hotsoon-draft-sg/magellan_ecommerce/tts_id_term_of_sale_en.html);​
 
 • all information provided by You to Us shall be accurate, complete and current; ​
 
@@ -802,7 +802,7 @@ You agree to indemnify, defend and hold Tokopedia and Tokopedia Affiliates and a
 
 • Your actual or suspected breach of the terms of any service contract you have with Partners in relation to Partner Services; and​
 
-• Your failure to act in accordance with the [Shop Terms of Use and Sale](https://sf19-draftcdn-sg.ibytedtos.com/obj/ies-hotsoon-draft-sg/magellan_ecommerce/ttec_tos_en.html).​
+• Your failure to act in accordance with the [Shop Terms of Use and Sale](https://sf16-draftcdn-sg.ibytedtos.com/obj/ies-hotsoon-draft-sg/magellan_ecommerce/tts_id_term_of_sale_en.html).​
 
 ​
 
@@ -824,7 +824,7 @@ Tokopedia may (i) remove a Product listing, (ii) suspend or restrict Your access
 
 ​
 
-• You are in material breach of these Terms, including the [Shop Terms of Use and Sale](https://sf19-draftcdn-sg.ibytedtos.com/obj/ies-hotsoon-draft-sg/magellan_ecommerce/ttec_tos_en.html) and Shop Policies;​
+• You are in material breach of these Terms, including the [Shop Terms of Use and Sale](https://sf16-draftcdn-sg.ibytedtos.com/obj/ies-hotsoon-draft-sg/magellan_ecommerce/tts_id_term_of_sale_en.html) and Shop Policies;​
 
 • We have reason to believe that Your Account has been used for any fraudulent or illegal activity; ​
 
