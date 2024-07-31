@@ -59,7 +59,7 @@ Predaja oglasa na Njuškalu
     * kad oglas na bilo koji način narušava kvalitetu sadržaja
     * kad se oglašava potražnja
     * kad postoji sumnja na zloupotrebu internetskog portala Njuškalo
-    * kad cijena navedena u oglasu nije stvarna prodajna cijena
+    * kad cijena navedena u oglasu nije stvarna prodajna cijena, a ne postoje druge opravdane okolnosti zbog kojih oglašivač nije u mogućnosti istaknuti stvarnu prodajnu cijenu
     * kad je oglas u suprotnosti s pravilima oglašavanja koja se nalaze u [aneksu Uvjeta i pravila korištenja](https://www.njuskalo.hr/?ctl=help&content_id=386)
     * Njuškalo zadržava pravo izmjene i dopune pojedinog oglasa, a da se pri tome ne mijenja sadržaj predmetnog oglasa (lektorske intervencije, dopuna podataka i slično).
 41. Objavom oglasa na internetskom portalu Njuškalo korisnik se obvezuje da će savjesno odgovarati na upite ostalih korisnika (na telefon ili e-poštom). Korisnik mora imati aktivnu adresu elektroničke pošte gdje redovito pregledava poštu.
