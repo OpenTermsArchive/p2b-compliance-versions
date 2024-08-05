@@ -3,8 +3,8 @@ Free Membership Agreement
 
 2019-09-24 16:00
 
-Part A:  New version - updated on 13 June 2022 and effective as of 21 June, 2022
-================================================================================
+Part A:  New version - updated on 5 August 2024 and effective as of 10 August, 2024
+===================================================================================
 
 PLEASE READ THESE TERMS AND CONDITIONS CAREFULLY! THIS FREE MEMBERSHIP AGREEMENT LIMITS THE RIGHTS AND REMEDIES AVAILABLE TO MEMBERS WITH RESPECT TO THE SERVICES AND CONTAINS BINDING OBLIGATIONS ON MEMBERS. PLEASE PAY ATTENTION TO PROVISIONS THAT EXCLUDE OR LIMIT LIABILITY, TERMS LIMITING MEMBERS’ ABILITY TO SUE, AND TERMS OF GOVERNING LAW AND JURISDICTION, WHICH MAY APPEAR IN CAPITAL LETTERS. THIS AGREEMENT RELATES TO [WWW.ALIBABA.COM](http://www.alibaba.com/).
 
@@ -19,15 +19,11 @@ Contracting Alibaba.com party:
 
 ●
 
-(a) If you are from mainland China, your contract is with Hangzhou Alibaba Advertising Co., Ltd, other than in relation to Promotion Services (as defined in the Alibaba.com Terms of Use, currently at [https://rule.alibaba.com/rule/detail/2041.htm](https://rule.alibaba.com/rule/detail/2041.htm)), in which case your contract for such services is with Alibaba.com Hong Kong Limited.
+(a) If you are from mainland China, your contract is with Hangzhou Alibaba Advertising Co., Ltd. other than in relation to Promotion Services (as defined in the Alibaba.com Terms of Use, currently at [https://rule.alibaba.com/rule/detail/2041.htm](https://rule.alibaba.com/rule/detail/2041.htm)), in which case your contract for such services is with Alibaba.com Hong Kong Limited.
 
 ●
 
-(b) If you are from Hong Kong and Macau, your contract is with Alibaba.com Hong Kong Limited.
-
-●
-
-c) If either (i) you are from a place outside mainland China, Hong Kong, Macau; or (ii) you access and use the Sites from any of the Relevant Jurisdictions, your contract is with Alibaba.com Singapore E-Commerce Private Limited (incorporated in Singapore with Company Reg. No. 200720572D).
+(b) If either (i) you are from a place outside mainland China; or (ii) you access and use the Sites from any of the Relevant Jurisdictions, your contract is with Alibaba.com Singapore E-Commerce Private Limited (incorporated in Singapore with Company Reg. No. 200720572D).
 
 ●
 
@@ -479,7 +475,7 @@ b) for Users who access or use Sites relating to the AliExpress e-commerce platf
 
 8.8 If there is any conflict between the English version and another language version of this Agreement, the English version shall prevail.
 
-Part A:  New version - updated on 13 June 2022 and effective as of 21 June, 2022
+Part A:  New version - updated on 5 August 2024 and effective as of 10 August, 2024
 
 1.  ACCEPTANCE OF TERMS
 
