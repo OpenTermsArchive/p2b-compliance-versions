@@ -265,6 +265,6 @@ Solnavägen 3H
 
 113 63 Stockholm, Sweden
 
-+46771-392 000
++468-52 50 20 20
 
 privacy@tradera.com
