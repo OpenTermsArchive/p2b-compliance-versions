@@ -1,5 +1,7 @@
 # Open Terms Archive - P2B Compliance versions
 
+**This collection has been transferred and is now maintained directly by the European Commission’s [Digital Services Terms and Conditions Database](https://platform-contracts.digital-strategy.ec.europa.eu). That official database was launched in December 2023, and versions of the original Open Terms Archive collection have not been tracked since August 2024.**
+
 This repository is to be considered as a database only.
 You can find the documentation by following the link in the “About” section of this page.
 
